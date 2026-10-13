@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 272 matching records.
+Page 1/2; 276 matching records.
 
 [Next](topic-local-moment-1eca646453-02.md)
 
@@ -197,6 +197,10 @@ Page 1/2; 272 matching records.
 - [local-section:f7ff8bfe5c181b57b2da74cd — 2. Frozen inputs and independent method](../records/0167.md#local-section-f7ff8bfe5c181b57b2da74cd-aec4b62ef0)
 - [local:G102 — G102. Three complete physical returns](../records/0169.md#local-g102-60fe1940ee)
 - [local:G147 — G147. Two presentations confine the unpaid rows to a strict residual box](../records/0170.md#local-g147-16c3c3a8c2)
+- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
+- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
+- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0171.md#local-g233-09e1889112)
+- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0171.md#local-g234-581cbca944)
 - [pr26:Analytic.JointIndependentMoment::actual_local_independent_plain_moment@37 — actual_local_independent_plain_moment](../records/0184.md#pr26-analytic-jointindependentmoment-actual-local-independent-pla-ea28396201)
 - [pr26:Cycle25.Assembly.Count.ActualMoments::weighted_actual_source_moments@787 — weighted_actual_source_moments](../records/0193.md#pr26-cycle25-assembly-count-actualmoments-weighted-actual-source--dfe302d801)
 - [pr26:Cycle25.Assembly.Count.ActualMoments::weighted_fresh_count_parameters@777 — weighted_fresh_count_parameters](../records/0193.md#pr26-cycle25-assembly-count-actualmoments-weighted-fresh-count-pa-b5bf6ac41b)
@@ -236,7 +240,7 @@ Page 1/2; 272 matching records.
 - [pr26:Cycle25.Assembly.Count.PlainInput::terminal_plain_input@542 — terminal_plain_input](../records/0195.md#pr26-cycle25-assembly-count-plaininput-terminal-plain-input-542-a2c0ea18b9)
 - [pr26:Cycle25.Assembly.Count.PlainInput::terminal_zero_input@565 — terminal_zero_input](../records/0195.md#pr26-cycle25-assembly-count-plaininput-terminal-zero-input-565-c3c38625d5)
 - [pr26:Cycle25.Assembly.HighData::HighData.toMomentData@187 — HighData.toMomentData](../records/0195.md#pr26-cycle25-assembly-highdata-highdata-tomomentdata-187-883d806370)
-- [pr26:Cycle25.Assembly.SourceData::WeightedSourceData.modulus@56 — WeightedSourceData.modulus](../records/0195.md#pr26-cycle25-assembly-sourcedata-weightedsourcedata-modulus-56-2279b7c40f)
+- [pr26:Cycle25.Assembly.SourceData::WeightedSourceData.modulus@56 — WeightedSourceData.modulus](../records/0196.md#pr26-cycle25-assembly-sourcedata-weightedsourcedata-modulus-56-2279b7c40f)
 - [pr26:Cycle25.Assembly.SourceData::WeightedSourceData@32 — WeightedSourceData](../records/0196.md#pr26-cycle25-assembly-sourcedata-weightedsourcedata-32-c080d3473b)
 - [pr26:Cycle25.Assembly.SourceData::anonymous_58@58 — anonymous_58](../records/0196.md#pr26-cycle25-assembly-sourcedata-anonymous-58-58-f221dcfd4a)
 - [pr26:Cycle25.Assembly.SourceData::anonymous_61@61 — anonymous_61](../records/0196.md#pr26-cycle25-assembly-sourcedata-anonymous-61-61-b694486fa9)
@@ -247,12 +251,8 @@ Page 1/2; 272 matching records.
 - [pr26:Cycle25.Energy.Physical.CertifiedRetained::certified_actual_retained_fourth@855 — certified_actual_retained_fourth](../records/0196.md#pr26-cycle25-energy-physical-certifiedretained-certified-actual-r-7f018a0a5f)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::certified_reflected_zero_fourier_moment@243 — certified_reflected_zero_fourier_moment](../records/0196.md#pr26-cycle25-energy-physical-certifiedzero-certified-reflected-ze-a6a42a7ce9)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::finite_pair_zeroAt@210 — finite_pair_zeroAt](../records/0196.md#pr26-cycle25-energy-physical-certifiedzero-finite-pair-zeroat-210-dda9c51815)
-- [pr26:Cycle25.Energy.Physical.FourierProfiles::inverse_annular_norm_eq@147 — inverse_annular_norm_eq](../records/0196.md#pr26-cycle25-energy-physical-fourierprofiles-inverse-annular-norm-985c12d7d9)
+- [pr26:Cycle25.Energy.Physical.FourierProfiles::inverse_annular_norm_eq@147 — inverse_annular_norm_eq](../records/0197.md#pr26-cycle25-energy-physical-fourierprofiles-inverse-annular-norm-985c12d7d9)
 - [pr26:Cycle25.Energy.Physical.OriginalFourth::certified_original_numerator_fourth@839 — certified_original_numerator_fourth](../records/0197.md#pr26-cycle25-energy-physical-originalfourth-certified-original-nu-9840100692)
 - [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::finite_physical_pair_positiveAt@73 — finite_physical_pair_positiveAt](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-finite-physical--b0b0885047)
 - [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::reflected_pair_norm_eq@150 — reflected_pair_norm_eq](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-reflected-pair-n-23f95290c1)
 - [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::source_physical_slot_conj@134 — source_physical_slot_conj](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-source-physical--a398d56bec)
-- [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::weighted_physical_annular_all@57 — weighted_physical_annular_all](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-weighted-physica-715264a532)
-- [pr26:Cycle25.Energy.Physical.RetainedFixed::certified_retained_fixed_profile@442 — certified_retained_fixed_profile](../records/0197.md#pr26-cycle25-energy-physical-retainedfixed-certified-retained-fix-e73d639eea)
-- [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_positive_energy@198 — weighted_terminal_positive_energy](../records/0197.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-positive--4792cce125)
-- [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_zero_energy@224 — weighted_terminal_zero_energy](../records/0197.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-zero-ener-4c240e3cd4)

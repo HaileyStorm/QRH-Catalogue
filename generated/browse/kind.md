@@ -50,6 +50,7 @@
 - [manuscript_remark (1)](kind-manuscript-remark-e8ff01edec-01.md)
 - [manuscript_section (476)](kind-manuscript-section-037998f5d8-01.md)
 - [manuscript_theorem (3)](kind-manuscript-theorem-e89f4269c3-01.md)
+- [mathematical-source-reduction (4)](kind-mathematical-source-reduction-f444651e66-01.md)
 - [mathematical-source-section (3280)](kind-mathematical-source-section-796a94a9bf-01.md)
 - [metadata_migration (1)](kind-metadata-migration-a27964d5ec-01.md)
 - [module (763)](kind-module-120970d812-01.md)

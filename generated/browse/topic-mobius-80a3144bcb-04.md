@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 924 matching records.
+Page 4/4; 926 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
@@ -164,6 +164,8 @@ Page 4/4; 924 matching records.
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0171.md#local-g227-4fd8db96d9)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
+- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
+- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0171.md#local-g6-e89f333778)
 - [local:G85 — G85. Full-scale moment return without the baseline](../records/0171.md#local-g85-475c2b0586)
 - [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0171.md#local-g88-d7d3c34f95)

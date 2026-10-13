@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 69/70; 17255 matching records.
+Page 69/70; 17259 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::terminal_certificate@58 — terminal_certificate](../records/0213.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-termin-dc9360dea4)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0213.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0213.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected::actual_nonfloor_rows_saving@93 — actual_nonfloor_rows_saving](../records/0213.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-actu-51233baacb)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0213.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport::actual_nonfloor_probe_transport@299 — actual_nonfloor_probe_transport](../records/0213.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-actu-e2db3e405e)
@@ -85,10 +89,10 @@ Page 69/70; 17255 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::all_natural_mixed_join@555 — all_natural_mixed_join](../records/0213.md#pr26-zetazerofree-analytic-moments-exceptional-all-natural-mixed--953e579721)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::all_natural_mixed_uniform_join@640 — all_natural_mixed_uniform_join](../records/0213.md#pr26-zetazerofree-analytic-moments-exceptional-all-natural-mixed--f438c99cbb)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::centered_exceptional_deficit@880 — centered_exceptional_deficit](../records/0213.md#pr26-zetazerofree-analytic-moments-exceptional-centered-exception-768bdbe2b2)
-- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::deleted_plain_bound@245 — deleted_plain_bound](../records/0213.md#pr26-zetazerofree-analytic-moments-exceptional-deleted-plain-boun-2c591d4ddc)
-- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::divisor_cancellation_saving@870 — divisor_cancellation_saving](../records/0213.md#pr26-zetazerofree-analytic-moments-exceptional-divisor-cancellati-e29e7ddf33)
-- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::first_exceptional_saving@857 — first_exceptional_saving](../records/0213.md#pr26-zetazerofree-analytic-moments-exceptional-first-exceptional--f62215b490)
-- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::fixed_induced_mixed@308 — fixed_induced_mixed](../records/0213.md#pr26-zetazerofree-analytic-moments-exceptional-fixed-induced-mixe-f826eb2370)
+- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::deleted_plain_bound@245 — deleted_plain_bound](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-deleted-plain-boun-2c591d4ddc)
+- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::divisor_cancellation_saving@870 — divisor_cancellation_saving](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-divisor-cancellati-e29e7ddf33)
+- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::first_exceptional_saving@857 — first_exceptional_saving](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-first-exceptional--f62215b490)
+- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::fixed_induced_mixed@308 — fixed_induced_mixed](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-fixed-induced-mixe-f826eb2370)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::fixed_induced_mixed_height@373 — fixed_induced_mixed_height](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-fixed-induced-mixe-db02269f33)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::fixed_inducing_natural_character@494 — fixed_inducing_natural_character](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-fixed-inducing-nat-1c201c403f)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::fixed_inducing_natural_nonprincipal@508 — fixed_inducing_natural_nonprincipal](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-fixed-inducing-nat-9d32816a07)
@@ -185,10 +189,10 @@ Page 69/70; 17255 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::original_subsets_reference_paid@3590 — original_subsets_reference_paid](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-original-subsets-43d32c32e0)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_large@679 — ray_prime_all_height_large](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-52e25e7eaf)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_squared@763 — ray_prime_all_height_squared](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-32244da39c)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_global_squared@609 — ray_prime_global_squared](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-global-85e40aeba2)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::relative_slots_uniform@1865 — relative_slots_uniform](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-relative-slots-u-8eab2a8bf6)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::zeroMaximum_le_one@598 — zeroMaximum_le_one](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-zeromaximum-le-o-67669608b4)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_global_squared@609 — ray_prime_global_squared](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-global-85e40aeba2)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::relative_slots_uniform@1865 — relative_slots_uniform](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-relative-slots-u-8eab2a8bf6)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::zeroMaximum_le_one@598 — zeroMaximum_le_one](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-zeromaximum-le-o-67669608b4)
 - [pr26:original-explanation — pr26:original-explanation](../records/0215.md#pr26-original-explanation-52ad61d34c)
 - [pr26:original-manifest — pr26:original-manifest](../records/0215.md#pr26-original-manifest-30c9db0e44)
 - [review:A01 — \[private research revision\]-review:A01](../records/0215.md#review-a01-4a9b27ce3c)
@@ -254,7 +258,3 @@ Page 69/70; 17255 matching records.
 - [reviewed-claim:cubic-A02 — \[private research revision\]-claim:cubic-A02](../records/0215.md#reviewed-claim-cubic-a02-0d4f2c45e2)
 - [reviewed-claim:cubic-A03 — \[private research revision\]-claim:cubic-A03](../records/0215.md#reviewed-claim-cubic-a03-9b180e0957)
 - [reviewed-claim:cubic-A04 — \[private research revision\]-claim:cubic-A04](../records/0215.md#reviewed-claim-cubic-a04-0486c8cefa)
-- [reviewed-claim:cubic-A05 — \[private research revision\]-claim:cubic-A05](../records/0215.md#reviewed-claim-cubic-a05-c4bf418839)
-- [reviewed-claim:cubic-A06 — \[private research revision\]-claim:cubic-A06](../records/0215.md#reviewed-claim-cubic-a06-c7878f2eb2)
-- [reviewed-claim:cubic-A07 — \[private research revision\]-claim:cubic-A07](../records/0215.md#reviewed-claim-cubic-a07-7a3498ee3c)
-- [reviewed-claim:cubic-T01 — \[private research revision\]-claim:cubic-T01](../records/0215.md#reviewed-claim-cubic-t01-8a8f241ef9)

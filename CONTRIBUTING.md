@@ -10,7 +10,9 @@ Formal contributions must identify exact public repository/ref/path, fully quali
 
 Link catalogue entries in papers and submissions using their stable IDs and exact catalogue commit/tag-pinned permalinks. Keep original-paper attribution. Add reciprocal public paper/submission and use links only when a public version and exact section/theorem/declaration support them. Record mere mention, documented use and claimed-but-unverified use separately; a catalogue link is not proof verification.
 
-Check for upstream updates before starting work and before publishing a direct update or pull request:
+For paper/record-to-Lean links, **both** conditions are mandatory: (1) the paper is published or the record has actually been submitted, and (2) the corresponding paper/proof is fully formalized end to end. Supply the exact public version, complete formalization revision/evidence and the components actually used. A submitted record can be awaiting review; acceptance is not required. Drafts, intended submissions, partial formalizations and isolated checked helpers do not qualify, including under a weaker use-link label. Keep textual source-location/import provenance separate from final-use assertions. Our formalizer maintains these links for owner work; reusable Lean records can be contributed and used for research independently of a qualifying publication link.
+
+Pull regularly: at research-session start, cycle/work boundaries during sustained work, before relying on catalogue status in a new argument, and before publishing a direct update or pull request. First inspect local state and fetched changes:
 
 ```powershell
 git status --short

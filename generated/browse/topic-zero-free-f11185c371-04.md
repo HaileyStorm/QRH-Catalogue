@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 783 matching records.
+Page 4/4; 787 matching records.
 
 [Previous](topic-zero-free-f11185c371-03.md)
 
@@ -16,6 +16,10 @@ Page 4/4; 783 matching records.
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0171.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0171.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0171.md#local-g218-72ef21b6b0)
+- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
+- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
+- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0171.md#local-g233-09e1889112)
+- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0171.md#local-g234-581cbca944)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0171.md#local-g69-9bdd438ff0)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0171.md#local-g72-501fc8c07b)
@@ -38,4 +42,4 @@ Page 4/4; 783 matching records.
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[private research revision\]-claim:T09-fixed-Mobius-L2](../records/0215.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
 - [reviewed-claim:T10-continuum — \[private research revision\]-claim:T10-continuum](../records/0215.md#reviewed-claim-t10-continuum-69e758bd43)
 - [reviewed-claim:T10-two-dilations — \[private research revision\]-claim:T10-two-dilations](../records/0215.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
-- [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0215.md#upstream-pr26-93f630ed04)
+- [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0216.md#upstream-pr26-93f630ed04)

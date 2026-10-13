@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 67/70; 17255 matching records.
+Page 67/70; 17259 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
+- [pr26:Global.Transport.CubeFiniteError — Global.Transport.CubeFiniteError](../records/0208.md#pr26-global-transport-cubefiniteerror-6b72c01290)
+- [pr26:Global.Transport.CubeFiniteError::finite_cube_arbitrary_saving@528 — finite_cube_arbitrary_saving](../records/0208.md#pr26-global-transport-cubefiniteerror-finite-cube-arbitrary-savin-07d31e10e5)
+- [pr26:Global.Transport.CubeFloorArithmetic — Global.Transport.CubeFloorArithmetic](../records/0208.md#pr26-global-transport-cubefloorarithmetic-284da8fac4)
+- [pr26:Global.Transport.CubeFloorArithmetic::actual_floor_cube_arithmetic@50 — actual_floor_cube_arithmetic](../records/0208.md#pr26-global-transport-cubefloorarithmetic-actual-floor-cube-arith-34a7882669)
 - [pr26:Global.Transport.CubeFloorArithmetic::floorPoolOutside@46 — floorPoolOutside](../records/0208.md#pr26-global-transport-cubefloorarithmetic-floorpooloutside-46-3f42ccee6f)
 - [pr26:Global.Transport.CubeFloorCollected — Global.Transport.CubeFloorCollected](../records/0208.md#pr26-global-transport-cubefloorcollected-bbb6ce776b)
 - [pr26:Global.Transport.CubeFloorCollected::actual_floor_rows_saving@438 — actual_floor_rows_saving](../records/0208.md#pr26-global-transport-cubefloorcollected-actual-floor-rows-saving-1dd391b02e)
@@ -85,10 +89,10 @@ Page 67/70; 17255 matching records.
 - [pr26:Global.Transport.LargeSaving::large_physical_tail_arbitrary_saving@257 — large_physical_tail_arbitrary_saving](../records/0208.md#pr26-global-transport-largesaving-large-physical-tail-arbitrary-s-6b60594271)
 - [pr26:Global.Transport.LargeTail — Global.Transport.LargeTail](../records/0208.md#pr26-global-transport-largetail-c55ced96d9)
 - [pr26:Global.Transport.LargeTail::absolutePhysicalDyadIntegral_nonneg@224 — absolutePhysicalDyadIntegral_nonneg](../records/0208.md#pr26-global-transport-largetail-absolutephysicaldyadintegral-nonn-a8f654df92)
-- [pr26:Global.Transport.LargeTail::large_physical_dyads_summable@234 — large_physical_dyads_summable](../records/0208.md#pr26-global-transport-largetail-large-physical-dyads-summable-234-2f1c79be3d)
-- [pr26:Global.Transport.MixedFullWCollected — Global.Transport.MixedFullWCollected](../records/0208.md#pr26-global-transport-mixedfullwcollected-34e675120a)
-- [pr26:Global.Transport.MixedFullWCollected::actual_mixed_fullW_nonfloor_rows_saving@312 — actual_mixed_fullW_nonfloor_rows_saving](../records/0208.md#pr26-global-transport-mixedfullwcollected-actual-mixed-fullw-nonf-ff84b545a6)
-- [pr26:Global.Transport.MixedFullWCollected::norm_le_of_fullW_transfer@303 — norm_le_of_fullW_transfer](../records/0208.md#pr26-global-transport-mixedfullwcollected-norm-le-of-fullw-transf-e739af0555)
+- [pr26:Global.Transport.LargeTail::large_physical_dyads_summable@234 — large_physical_dyads_summable](../records/0209.md#pr26-global-transport-largetail-large-physical-dyads-summable-234-2f1c79be3d)
+- [pr26:Global.Transport.MixedFullWCollected — Global.Transport.MixedFullWCollected](../records/0209.md#pr26-global-transport-mixedfullwcollected-34e675120a)
+- [pr26:Global.Transport.MixedFullWCollected::actual_mixed_fullW_nonfloor_rows_saving@312 — actual_mixed_fullW_nonfloor_rows_saving](../records/0209.md#pr26-global-transport-mixedfullwcollected-actual-mixed-fullw-nonf-ff84b545a6)
+- [pr26:Global.Transport.MixedFullWCollected::norm_le_of_fullW_transfer@303 — norm_le_of_fullW_transfer](../records/0209.md#pr26-global-transport-mixedfullwcollected-norm-le-of-fullw-transf-e739af0555)
 - [pr26:Global.Transport.NonfloorArithmetic — Global.Transport.NonfloorArithmetic](../records/0209.md#pr26-global-transport-nonfloorarithmetic-2fbffed693)
 - [pr26:Global.Transport.NonfloorArithmetic::actual_nonfloor_cube_arithmetic@314 — actual_nonfloor_cube_arithmetic](../records/0209.md#pr26-global-transport-nonfloorarithmetic-actual-nonfloor-cube-ari-65e5d2e05a)
 - [pr26:Global.Transport.NonfloorClass — Global.Transport.NonfloorClass](../records/0209.md#pr26-global-transport-nonfloorclass-bf44fdac02)
@@ -185,10 +189,10 @@ Page 67/70; 17255 matching records.
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::combined_slot_bound_sharp@847 — combined_slot_bound_sharp](../records/0209.md#pr26-global-transport-principalremainderfiniteproduct-combined-sl-b3e1ea3243)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::correction_inverse_bound@463 — correction_inverse_bound](../records/0209.md#pr26-global-transport-principalremainderfiniteproduct-correction--7de9f1149d)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::correction_lower_bound@446 — correction_lower_bound](../records/0209.md#pr26-global-transport-principalremainderfiniteproduct-correction--0add823850)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::correction_ne_zero@456 — correction_ne_zero](../records/0209.md#pr26-global-transport-principalremainderfiniteproduct-correction--c107339943)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::global_norm_bound@702 — global_norm_bound](../records/0209.md#pr26-global-transport-principalremainderfiniteproduct-global-norm-65bfa649e6)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::localBound_nonneg@616 — localBound_nonneg](../records/0209.md#pr26-global-transport-principalremainderfiniteproduct-localbound--99ba239da9)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_analytic_w@498 — local_analytic_w](../records/0209.md#pr26-global-transport-principalremainderfiniteproduct-local-analy-aea9d18718)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::correction_ne_zero@456 — correction_ne_zero](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-correction--c107339943)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::global_norm_bound@702 — global_norm_bound](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-global-norm-65bfa649e6)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::localBound_nonneg@616 — localBound_nonneg](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-localbound--99ba239da9)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_analytic_w@498 — local_analytic_w](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-local-analy-aea9d18718)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_analytic_z@523 — local_analytic_z](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-local-analy-ead1e312f7)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_eq_regionSlot@802 — local_eq_regionSlot](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-local-eq-re-c6f6eec53b)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_norm_bound@620 — local_norm_bound](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-local-norm--114c888ec0)
@@ -254,7 +258,3 @@ Page 67/70; 17255 matching records.
 - [pr26:Global.Transport.PrincipalRemainderTransport::principal_box_majorant@216 — principal_box_majorant](../records/0210.md#pr26-global-transport-principalremaindertransport-principal-box-m-d24ac80efb)
 - [pr26:Global.Transport.PrincipalRemainderTransport::shifted_gaussian_bottom@180 — shifted_gaussian_bottom](../records/0210.md#pr26-global-transport-principalremaindertransport-shifted-gaussia-88d0c2d155)
 - [pr26:Global.Transport.PrincipalRemainderTransport::shifted_gaussian_integrable@172 — shifted_gaussian_integrable](../records/0210.md#pr26-global-transport-principalremaindertransport-shifted-gaussia-ddf432b5b3)
-- [pr26:Global.Transport.PrincipalRemainderTransport::shifted_gaussian_top@176 — shifted_gaussian_top](../records/0210.md#pr26-global-transport-principalremaindertransport-shifted-gaussia-bdf933ee95)
-- [pr26:Global.Transport.PrincipalRemainderTransport::source_initial_joint_ordered_at_a@513 — source_initial_joint_ordered_at_a](../records/0210.md#pr26-global-transport-principalremaindertransport-source-initial--ac42570c27)
-- [pr26:Global.Transport.PrincipalRemainderTransport::source_initial_ordered_at_a@491 — source_initial_ordered_at_a](../records/0210.md#pr26-global-transport-principalremaindertransport-source-initial--c6a5569c05)
-- [pr26:Global.Transport.PrincipalRemainderTransport::source_initial_placement@468 — source_initial_placement](../records/0210.md#pr26-global-transport-principalremaindertransport-source-initial--7891d96632)

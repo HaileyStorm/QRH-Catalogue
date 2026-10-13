@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 55/70; 17255 matching records.
+Page 55/70; 17259 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-54.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-56.md)
 
+- [pr26:Analytic.JointFirstBinJointSum — Analytic.JointFirstBinJointSum](../records/0178.md#pr26-analytic-jointfirstbinjointsum-f8285853b8)
+- [pr26:Analytic.JointFirstBinJointSum::actual_first_bin_joint_majorant@446 — actual_first_bin_joint_majorant](../records/0178.md#pr26-analytic-jointfirstbinjointsum-actual-first-bin-joint-majora-3207237042)
+- [pr26:Analytic.JointFirstBinJointSum::actual_first_bin_packet_majorant@401 — actual_first_bin_packet_majorant](../records/0178.md#pr26-analytic-jointfirstbinjointsum-actual-first-bin-packet-major-44dcb3b49d)
+- [pr26:Analytic.JointFirstBinJointSum::binBlock_eq@390 — binBlock_eq](../records/0178.md#pr26-analytic-jointfirstbinjointsum-binblock-eq-390-9460fed9e1)
 - [pr26:Analytic.JointFirstBinJointSum::binPackets@424 — binPackets](../records/0178.md#pr26-analytic-jointfirstbinjointsum-binpackets-424-914bd3e34a)
 - [pr26:Analytic.JointFirstBinJointSum::binPackets_nonzero@432 — binPackets_nonzero](../records/0178.md#pr26-analytic-jointfirstbinjointsum-binpackets-nonzero-432-9b47d203a9)
 - [pr26:Analytic.JointFirstBinJointSum::binRows@367 — binRows](../records/0178.md#pr26-analytic-jointfirstbinjointsum-binrows-367-6fefd05ff5)
@@ -85,10 +89,10 @@ Page 55/70; 17255 matching records.
 - [pr26:Analytic.JointFirstFourierTargetJoin::eventually_first_fourier_targets_of_annular@726 — eventually_first_fourier_targets_of_annular](../records/0178.md#pr26-analytic-jointfirstfouriertargetjoin-eventually-first-fourie-b1ea1ea795)
 - [pr26:Analytic.JointFirstFullSectorSum — Analytic.JointFirstFullSectorSum](../records/0178.md#pr26-analytic-jointfirstfullsectorsum-0600d049c2)
 - [pr26:Analytic.JointFirstFullSectorSum::uniform_first_full_sector_sum@779 — uniform_first_full_sector_sum](../records/0178.md#pr26-analytic-jointfirstfullsectorsum-uniform-first-full-sector-s-a21ce0b7be)
-- [pr26:Analytic.JointFirstFullSectors — Analytic.JointFirstFullSectors](../records/0178.md#pr26-analytic-jointfirstfullsectors-89d46e29c6)
-- [pr26:Analytic.JointFirstFullSectors::cancellation_widths_close_of_full@666 — cancellation_widths_close_of_full](../records/0178.md#pr26-analytic-jointfirstfullsectors-cancellation-widths-close-of--6d910d377e)
-- [pr26:Analytic.JointFirstFullSectors::first_widths_close_of_full@660 — first_widths_close_of_full](../records/0178.md#pr26-analytic-jointfirstfullsectors-first-widths-close-of-full-66-87efd9ed5f)
-- [pr26:Analytic.JointFirstFullSectors::fullWidthCoordinates@626 — fullWidthCoordinates](../records/0178.md#pr26-analytic-jointfirstfullsectors-fullwidthcoordinates-626-ff0cd4620c)
+- [pr26:Analytic.JointFirstFullSectors — Analytic.JointFirstFullSectors](../records/0179.md#pr26-analytic-jointfirstfullsectors-89d46e29c6)
+- [pr26:Analytic.JointFirstFullSectors::cancellation_widths_close_of_full@666 — cancellation_widths_close_of_full](../records/0179.md#pr26-analytic-jointfirstfullsectors-cancellation-widths-close-of--6d910d377e)
+- [pr26:Analytic.JointFirstFullSectors::first_widths_close_of_full@660 — first_widths_close_of_full](../records/0179.md#pr26-analytic-jointfirstfullsectors-first-widths-close-of-full-66-87efd9ed5f)
+- [pr26:Analytic.JointFirstFullSectors::fullWidthCoordinates@626 — fullWidthCoordinates](../records/0179.md#pr26-analytic-jointfirstfullsectors-fullwidthcoordinates-626-ff0cd4620c)
 - [pr26:Analytic.JointFirstFullSectors::fullWidthCoordinates_first@634 — fullWidthCoordinates_first](../records/0179.md#pr26-analytic-jointfirstfullsectors-fullwidthcoordinates-first-63-51ad42affa)
 - [pr26:Analytic.JointFirstFullSectors::full_width_coordinates_bounds@638 — full_width_coordinates_bounds](../records/0179.md#pr26-analytic-jointfirstfullsectors-full-width-coordinates-bounds-16da07d62b)
 - [pr26:Analytic.JointFirstFullSectors::literal_target_gates_of_full@676 — literal_target_gates_of_full](../records/0179.md#pr26-analytic-jointfirstfullsectors-literal-target-gates-of-full--aadb4c8e2c)
@@ -185,10 +189,10 @@ Page 55/70; 17255 matching records.
 - [pr26:Analytic.JointFirstLiteralAmplification::actual_first_literal_annular_amplification@51 — actual_first_literal_annular_amplification](../records/0179.md#pr26-analytic-jointfirstliteralamplification-actual-first-literal-315ad48d55)
 - [pr26:Analytic.JointFirstLiteralAmplification::first_actual_nominal_puncture@40 — first_actual_nominal_puncture](../records/0179.md#pr26-analytic-jointfirstliteralamplification-first-actual-nominal-1b3a2d1aba)
 - [pr26:Analytic.JointFirstLiveRowSupport — Analytic.JointFirstLiveRowSupport](../records/0179.md#pr26-analytic-jointfirstliverowsupport-dd4d74c081)
-- [pr26:Analytic.JointFirstLiveRowSupport::live_rayRows_frequency_witness@44 — live_rayRows_frequency_witness](../records/0179.md#pr26-analytic-jointfirstliverowsupport-live-rayrows-frequency-wit-2e3bc9099a)
-- [pr26:Analytic.JointFirstLiveSource — Analytic.JointFirstLiveSource](../records/0179.md#pr26-analytic-jointfirstlivesource-7580c20bb9)
-- [pr26:Analytic.JointFirstLiveSource::firstLiveSourceLabels@451 — firstLiveSourceLabels](../records/0179.md#pr26-analytic-jointfirstlivesource-firstlivesourcelabels-451-8e92bd1a8e)
-- [pr26:Analytic.JointFirstLiveSource::firstPhysicalValue@441 — firstPhysicalValue](../records/0179.md#pr26-analytic-jointfirstlivesource-firstphysicalvalue-441-2fd5e1cd20)
+- [pr26:Analytic.JointFirstLiveRowSupport::live_rayRows_frequency_witness@44 — live_rayRows_frequency_witness](../records/0180.md#pr26-analytic-jointfirstliverowsupport-live-rayrows-frequency-wit-2e3bc9099a)
+- [pr26:Analytic.JointFirstLiveSource — Analytic.JointFirstLiveSource](../records/0180.md#pr26-analytic-jointfirstlivesource-7580c20bb9)
+- [pr26:Analytic.JointFirstLiveSource::firstLiveSourceLabels@451 — firstLiveSourceLabels](../records/0180.md#pr26-analytic-jointfirstlivesource-firstlivesourcelabels-451-8e92bd1a8e)
+- [pr26:Analytic.JointFirstLiveSource::firstPhysicalValue@441 — firstPhysicalValue](../records/0180.md#pr26-analytic-jointfirstlivesource-firstphysicalvalue-441-2fd5e1cd20)
 - [pr26:Analytic.JointFirstLiveSource::first_live_source_lower_dyads@475 — first_live_source_lower_dyads](../records/0180.md#pr26-analytic-jointfirstlivesource-first-live-source-lower-dyads--7c73f4c469)
 - [pr26:Analytic.JointFirstLiveSource::first_physical_sum_live@458 — first_physical_sum_live](../records/0180.md#pr26-analytic-jointfirstlivesource-first-physical-sum-live-458-91dea7311f)
 - [pr26:Analytic.JointFirstLocalSector — Analytic.JointFirstLocalSector](../records/0180.md#pr26-analytic-jointfirstlocalsector-4e9a18a157)
@@ -254,7 +258,3 @@ Page 55/70; 17255 matching records.
 - [pr26:Analytic.JointFirstProjectorMass::actual_first_projector_harmonic_mass@315 — actual_first_projector_harmonic_mass](../records/0180.md#pr26-analytic-jointfirstprojectormass-actual-first-projector-harm-dbbadd94e8)
 - [pr26:Analytic.JointFirstProjectorMass::actual_first_supported_label_harmonic_mass@352 — actual_first_supported_label_harmonic_mass](../records/0180.md#pr26-analytic-jointfirstprojectormass-actual-first-supported-labe-469c202a58)
 - [pr26:Analytic.JointFirstProjectorSupport — Analytic.JointFirstProjectorSupport](../records/0180.md#pr26-analytic-jointfirstprojectorsupport-c32745f968)
-- [pr26:Analytic.JointFirstProjectorSupport::firstLeftSourceLabels@335 — firstLeftSourceLabels](../records/0180.md#pr26-analytic-jointfirstprojectorsupport-firstleftsourcelabels-33-dd0cb4a5cd)
-- [pr26:Analytic.JointFirstProjectorSupport::firstLeftSourceLabels_gates@383 — firstLeftSourceLabels_gates](../records/0180.md#pr26-analytic-jointfirstprojectorsupport-firstleftsourcelabels-ga-afb0ef3b8d)
-- [pr26:Analytic.JointFirstProjectorSupport::firstRightSourceLabels@339 — firstRightSourceLabels](../records/0180.md#pr26-analytic-jointfirstprojectorsupport-firstrightsourcelabels-3-75cad36505)
-- [pr26:Analytic.JointFirstProjectorSupport::firstRightSourceLabels_gates@397 — firstRightSourceLabels_gates](../records/0180.md#pr26-analytic-jointfirstprojectorsupport-firstrightsourcelabels-g-4616a970e0)

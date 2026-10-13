@@ -2,7 +2,7 @@
 
 [Facet directory](origin.md) · [All facets](../DIRECTORY.md)
 
-Page 15/15; 3690 matching records.
+Page 15/15; 3694 matching records.
 
 [Previous](origin-qrh-mathematical-library-a6ebfb3916-14.md)
 
@@ -60,6 +60,10 @@ Page 15/15; 3690 matching records.
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0171.md#local-g229-8b209e3b2b)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
+- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
+- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
+- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0171.md#local-g233-09e1889112)
+- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0171.md#local-g234-581cbca944)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)

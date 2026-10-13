@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 52/70; 17255 matching records.
+Page 52/70; 17259 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-51.md)
 
@@ -120,6 +120,10 @@ Page 52/70; 17255 matching records.
 - [local:A16 — A16. Unequal Type I cutoffs](../records/0168.md#local-a16-eb027126a6)
 - [local:A17 — A17. Exact completed-cutoff and rough-column obstructions](../records/0168.md#local-a17-7d3957df82)
 - [local:A18 — A18. Broad-cusp diagonal oldforms: exact support and scaling screen](../records/0168.md#local-a18-bac05024be)
+- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
+- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
+- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0171.md#local-g233-09e1889112)
+- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0171.md#local-g234-581cbca944)
 - [local:T01 — T01. Quantitative fixed-factor division — PROVED](../records/0171.md#local-t01-b6a84d226c)
 - [local:T02 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](../records/0171.md#local-t02-a87be8a14c)
 - [local:T03 — T03. Cube-free physical-row lifting — PROVED, sharp operator threshold](../records/0171.md#local-t03-8adc165824)
@@ -135,10 +139,10 @@ Page 52/70; 17255 matching records.
 - [pr15:AllHeightDensity::eventually_all_height_density_of_bounded_height — eventually_all_height_density_of_bounded_height](../records/0171.md#pr15-allheightdensity-eventually-all-height-density-of-bounded-he-4b68a16f6a)
 - [pr15:AllHeightDensity::scale_le_height_weight — scale_le_height_weight](../records/0171.md#pr15-allheightdensity-scale-le-height-weight-a7bf0f2e8a)
 - [pr15:allheight-interface-status — pr15:allheight-interface-status](../records/0171.md#pr15-allheight-interface-status-dc0e9bfb57)
-- [pr15:withdrawn-completeness-claims — pr15:withdrawn-completeness-claims](../records/0171.md#pr15-withdrawn-completeness-claims-ac02d2da32)
-- [pr26:Analytic.ActualAllocatedErrorUniform — Analytic.ActualAllocatedErrorUniform](../records/0171.md#pr26-analytic-actualallocatederroruniform-61f18a366e)
-- [pr26:Analytic.ActualAllocatedErrorUniform::actual_allocated_extracted_errors_uniform@243 — actual_allocated_extracted_errors_uniform](../records/0171.md#pr26-analytic-actualallocatederroruniform-actual-allocated-extrac-a22dfadf88)
-- [pr26:Analytic.ActualAllocatedErrorUniformFull — Analytic.ActualAllocatedErrorUniformFull](../records/0171.md#pr26-analytic-actualallocatederroruniformfull-deb92dd92a)
+- [pr15:withdrawn-completeness-claims — pr15:withdrawn-completeness-claims](../records/0172.md#pr15-withdrawn-completeness-claims-ac02d2da32)
+- [pr26:Analytic.ActualAllocatedErrorUniform — Analytic.ActualAllocatedErrorUniform](../records/0172.md#pr26-analytic-actualallocatederroruniform-61f18a366e)
+- [pr26:Analytic.ActualAllocatedErrorUniform::actual_allocated_extracted_errors_uniform@243 — actual_allocated_extracted_errors_uniform](../records/0172.md#pr26-analytic-actualallocatederroruniform-actual-allocated-extrac-a22dfadf88)
+- [pr26:Analytic.ActualAllocatedErrorUniformFull — Analytic.ActualAllocatedErrorUniformFull](../records/0172.md#pr26-analytic-actualallocatederroruniformfull-deb92dd92a)
 - [pr26:Analytic.ActualAllocatedErrorUniformFull::actual_allocated_extracted_errors_uniform_full@628 — actual_allocated_extracted_errors_uniform_full](../records/0172.md#pr26-analytic-actualallocatederroruniformfull-actual-allocated-ex-6476f592b3)
 - [pr26:Analytic.ActualAllocatedErrors — Analytic.ActualAllocatedErrors](../records/0172.md#pr26-analytic-actualallocatederrors-73f489e593)
 - [pr26:Analytic.ActualAllocatedErrors::actual_allocated_extracted_errors@678 — actual_allocated_extracted_errors](../records/0172.md#pr26-analytic-actualallocatederrors-actual-allocated-extracted-er-f6f648eedd)
@@ -235,10 +239,10 @@ Page 52/70; 17255 matching records.
 - [pr26:Analytic.AllocatedBufferedLength::selectedPlain_norm_pos@174 — selectedPlain_norm_pos](../records/0172.md#pr26-analytic-allocatedbufferedlength-selectedplain-norm-pos-174-d8d445902c)
 - [pr26:Analytic.AllocatedBufferedProfiles — Analytic.AllocatedBufferedProfiles](../records/0172.md#pr26-analytic-allocatedbufferedprofiles-f0fd37c177)
 - [pr26:Analytic.AllocatedBufferedProfiles::actual_allocated_buffered_profiles@308 — actual_allocated_buffered_profiles](../records/0172.md#pr26-analytic-allocatedbufferedprofiles-actual-allocated-buffered-abc3c84915)
-- [pr26:Analytic.BufferedDilation — Analytic.BufferedDilation](../records/0172.md#pr26-analytic-buffereddilation-3dc6d0c6f8)
-- [pr26:Analytic.BufferedDilation::bufferedDilatedProfile@269 — bufferedDilatedProfile](../records/0172.md#pr26-analytic-buffereddilation-buffereddilatedprofile-269-0ee16ae810)
-- [pr26:Analytic.BufferedDilation::dilated_mellin_pair_uniform@246 — dilated_mellin_pair_uniform](../records/0172.md#pr26-analytic-buffereddilation-dilated-mellin-pair-uniform-246-9b6cf772af)
-- [pr26:Analytic.BufferedDilation::dilated_mellin_uniform@205 — dilated_mellin_uniform](../records/0172.md#pr26-analytic-buffereddilation-dilated-mellin-uniform-205-d6796b8224)
+- [pr26:Analytic.BufferedDilation — Analytic.BufferedDilation](../records/0173.md#pr26-analytic-buffereddilation-3dc6d0c6f8)
+- [pr26:Analytic.BufferedDilation::bufferedDilatedProfile@269 — bufferedDilatedProfile](../records/0173.md#pr26-analytic-buffereddilation-buffereddilatedprofile-269-0ee16ae810)
+- [pr26:Analytic.BufferedDilation::dilated_mellin_pair_uniform@246 — dilated_mellin_pair_uniform](../records/0173.md#pr26-analytic-buffereddilation-dilated-mellin-pair-uniform-246-9b6cf772af)
+- [pr26:Analytic.BufferedDilation::dilated_mellin_uniform@205 — dilated_mellin_uniform](../records/0173.md#pr26-analytic-buffereddilation-dilated-mellin-uniform-205-d6796b8224)
 - [pr26:Analytic.BufferedPartition — Analytic.BufferedPartition](../records/0173.md#pr26-analytic-bufferedpartition-ef70a4fe55)
 - [pr26:Analytic.BufferedPartition::buffered_count_of_bin_counts@566 — buffered_count_of_bin_counts](../records/0173.md#pr26-analytic-bufferedpartition-buffered-count-of-bin-counts-566-7ff955fdc2)
 - [pr26:Analytic.BufferedPartition::card_eq_sum_buffered_fibers@524 — card_eq_sum_buffered_fibers](../records/0173.md#pr26-analytic-bufferedpartition-card-eq-sum-buffered-fibers-524-4726593d7c)
@@ -254,7 +258,3 @@ Page 52/70; 17255 matching records.
 - [pr26:Analytic.BufferedProduct::bufferedProductFamily@282 — bufferedProductFamily](../records/0173.md#pr26-analytic-bufferedproduct-bufferedproductfamily-282-ccceb184c2)
 - [pr26:Analytic.BufferedProduct::bufferedProductFamily_nonprincipal@287 — bufferedProductFamily_nonprincipal](../records/0173.md#pr26-analytic-bufferedproduct-bufferedproductfamily-nonprincipal--27b5ddcd9a)
 - [pr26:Analytic.BufferedProduct::natural_buffered_product_bound@337 — natural_buffered_product_bound](../records/0173.md#pr26-analytic-bufferedproduct-natural-buffered-product-bound-337-355a5050bf)
-- [pr26:Analytic.BufferedProduct::squared_product_bound@307 — squared_product_bound](../records/0173.md#pr26-analytic-bufferedproduct-squared-product-bound-307-21b10fae70)
-- [pr26:Analytic.BufferedProduct::zeroMaximum_pullback_le@300 — zeroMaximum_pullback_le](../records/0173.md#pr26-analytic-bufferedproduct-zeromaximum-pullback-le-300-ec4becf470)
-- [pr26:Analytic.CancellationMasks — Analytic.CancellationMasks](../records/0173.md#pr26-analytic-cancellationmasks-f40ec01b3a)
-- [pr26:Analytic.CancellationMasks::canceledFactor@679 — canceledFactor](../records/0173.md#pr26-analytic-cancellationmasks-canceledfactor-679-3faadd8955)

@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 65/70; 17255 matching records.
+Page 65/70; 17259 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-64.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
+- [pr26:Cycle25.Numerator.Scalar.Exponent::countingCoefficient_binding@724 — countingCoefficient_binding](../records/0203.md#pr26-cycle25-numerator-scalar-exponent-countingcoefficient-bindin-8d9e053b6d)
+- [pr26:Cycle25.Numerator.Scalar.Exponent::numeratorExponent@739 — numeratorExponent](../records/0203.md#pr26-cycle25-numerator-scalar-exponent-numeratorexponent-739-56003cede8)
+- [pr26:Cycle25.Numerator.Scalar.Exponent::numerator_geometric_extension@785 — numerator_geometric_extension](../records/0203.md#pr26-cycle25-numerator-scalar-exponent-numerator-geometric-extens-146192bf42)
+- [pr26:Cycle25.Numerator.Scalar.Exponent::numerator_kernel_exponent@747 — numerator_kernel_exponent](../records/0203.md#pr26-cycle25-numerator-scalar-exponent-numerator-kernel-exponent--14744a98d4)
 - [pr26:Cycle25.Numerator.Scalar.Exponent::numerator_supremum_improvement@815 — numerator_supremum_improvement](../records/0203.md#pr26-cycle25-numerator-scalar-exponent-numerator-supremum-improve-0fbc52d515)
 - [pr26:Cycle25.Numerator.Scalar.Exponent::rowCount_binding@733 — rowCount_binding](../records/0203.md#pr26-cycle25-numerator-scalar-exponent-rowcount-binding-733-09fb7b9d15)
 - [pr26:Cycle25.Numerator.Scalar.Exponent::rowCount_bounds@756 — rowCount_bounds](../records/0203.md#pr26-cycle25-numerator-scalar-exponent-rowcount-bounds-756-c5e91c152f)
@@ -85,10 +89,10 @@ Page 65/70; 17255 matching records.
 - [pr26:Endpoint.Arithmetic::slotB@421 — slotB](../records/0203.md#pr26-endpoint-arithmetic-slotb-421-2fd386d4cb)
 - [pr26:Endpoint.Arithmetic::slotB_nonneg@443 — slotB_nonneg](../records/0203.md#pr26-endpoint-arithmetic-slotb-nonneg-443-421e86bdc2)
 - [pr26:Endpoint.Arithmetic::theta@412 — theta](../records/0203.md#pr26-endpoint-arithmetic-theta-412-36fb18d4b3)
-- [pr26:Endpoint.Arithmetic::topPolynomial@466 — topPolynomial](../records/0203.md#pr26-endpoint-arithmetic-toppolynomial-466-18ee87261f)
-- [pr26:Endpoint.Arithmetic::topPolynomial_nonneg@470 — topPolynomial_nonneg](../records/0203.md#pr26-endpoint-arithmetic-toppolynomial-nonneg-470-cd7848fe42)
-- [pr26:Endpoint.Arithmetic::top_endpoint@489 — top_endpoint](../records/0203.md#pr26-endpoint-arithmetic-top-endpoint-489-9265851278)
-- [pr26:Endpoint.Arithmetic::top_identity@484 — top_identity](../records/0203.md#pr26-endpoint-arithmetic-top-identity-484-adcdfd86e0)
+- [pr26:Endpoint.Arithmetic::topPolynomial@466 — topPolynomial](../records/0204.md#pr26-endpoint-arithmetic-toppolynomial-466-18ee87261f)
+- [pr26:Endpoint.Arithmetic::topPolynomial_nonneg@470 — topPolynomial_nonneg](../records/0204.md#pr26-endpoint-arithmetic-toppolynomial-nonneg-470-cd7848fe42)
+- [pr26:Endpoint.Arithmetic::top_endpoint@489 — top_endpoint](../records/0204.md#pr26-endpoint-arithmetic-top-endpoint-489-9265851278)
+- [pr26:Endpoint.Arithmetic::top_identity@484 — top_identity](../records/0204.md#pr26-endpoint-arithmetic-top-identity-484-adcdfd86e0)
 - [pr26:Endpoint.Arithmetic::x@416 — x](../records/0204.md#pr26-endpoint-arithmetic-x-416-84d57b7d0f)
 - [pr26:Endpoint.Arithmetic::y@415 — y](../records/0204.md#pr26-endpoint-arithmetic-y-415-8c828fdc8b)
 - [pr26:Endpoint.GlobalRange — Endpoint.GlobalRange](../records/0204.md#pr26-endpoint-globalrange-f319857a70)
@@ -185,10 +189,10 @@ Page 65/70; 17255 matching records.
 - [pr26:Global.Low.Detector.LowCommonBound::compensatedPhysicalProbe_low@447 — compensatedPhysicalProbe_low](../records/0204.md#pr26-global-low-detector-lowcommonbound-compensatedphysicalprobe--f0adbb1301)
 - [pr26:Global.Low.Detector.LowCommonBound::low_window_log_support@437 — low_window_log_support](../records/0204.md#pr26-global-low-detector-lowcommonbound-low-window-log-support-43-5201fe8292)
 - [pr26:Global.Low.Detector.LowCommonBound::original_ray_compensatedPhysicalProbe_low@501 — original_ray_compensatedPhysicalProbe_low](../records/0204.md#pr26-global-low-detector-lowcommonbound-original-ray-compensatedp-313e23a5d7)
-- [pr26:Global.Low.Detector.LowGaussianCentral — Global.Low.Detector.LowGaussianCentral](../records/0204.md#pr26-global-low-detector-lowgaussiancentral-28eb674988)
-- [pr26:Global.Low.Detector.LowGaussianCentral::low_central_gaussian_dyads@490 — low_central_gaussian_dyads](../records/0204.md#pr26-global-low-detector-lowgaussiancentral-low-central-gaussian--4b6205c3e2)
-- [pr26:Global.Low.Detector.LowGaussianCentral::not_lowRemote_bounds@479 — not_lowRemote_bounds](../records/0204.md#pr26-global-low-detector-lowgaussiancentral-not-lowremote-bounds--3b009d2744)
-- [pr26:Global.Low.Detector.LowGaussianDyad — Global.Low.Detector.LowGaussianDyad](../records/0204.md#pr26-global-low-detector-lowgaussiandyad-7def25d6ab)
+- [pr26:Global.Low.Detector.LowGaussianCentral — Global.Low.Detector.LowGaussianCentral](../records/0205.md#pr26-global-low-detector-lowgaussiancentral-28eb674988)
+- [pr26:Global.Low.Detector.LowGaussianCentral::low_central_gaussian_dyads@490 — low_central_gaussian_dyads](../records/0205.md#pr26-global-low-detector-lowgaussiancentral-low-central-gaussian--4b6205c3e2)
+- [pr26:Global.Low.Detector.LowGaussianCentral::not_lowRemote_bounds@479 — not_lowRemote_bounds](../records/0205.md#pr26-global-low-detector-lowgaussiancentral-not-lowremote-bounds--3b009d2744)
+- [pr26:Global.Low.Detector.LowGaussianDyad — Global.Low.Detector.LowGaussianDyad](../records/0205.md#pr26-global-low-detector-lowgaussiandyad-7def25d6ab)
 - [pr26:Global.Low.Detector.LowGaussianDyad::lowCommonDyad@818 — lowCommonDyad](../records/0205.md#pr26-global-low-detector-lowgaussiandyad-lowcommondyad-818-ed385b8ede)
 - [pr26:Global.Low.Detector.LowGaussianDyad::lowCommonDyad_eq_family@826 — lowCommonDyad_eq_family](../records/0205.md#pr26-global-low-detector-lowgaussiandyad-lowcommondyad-eq-family--d68dfe3984)
 - [pr26:Global.Low.Detector.LowGaussianDyad::lowCommonDyad_norm_of_bound@839 — lowCommonDyad_norm_of_bound](../records/0205.md#pr26-global-low-detector-lowgaussiandyad-lowcommondyad-norm-of-bo-3a481882b2)
@@ -254,7 +258,3 @@ Page 65/70; 17255 matching records.
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_sqrt@85 — source_compensated_gram_sqrt](../records/0205.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--51842670ba)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_scale_admissible@43 — source_compensated_scale_admissible](../records/0205.md#pr26-global-low-detector-lowsourcescales-source-compensated-scale-5bdcf187e6)
 - [pr26:Global.Low.Detector.LowSourceScales::source_scale_ratio@30 — source_scale_ratio](../records/0205.md#pr26-global-low-detector-lowsourcescales-source-scale-ratio-30-bd8cc6d44b)
-- [pr26:Global.Low.Detector.LowSourceScales::source_scale_square@35 — source_scale_square](../records/0205.md#pr26-global-low-detector-lowsourcescales-source-scale-square-35-329ed7e8db)
-- [pr26:Global.Low.Detector.LowUnselectedMass — Global.Low.Detector.LowUnselectedMass](../records/0205.md#pr26-global-low-detector-lowunselectedmass-d6c509889a)
-- [pr26:Global.Low.Detector.LowUnselectedMass::canonical_slot_inverse_three_halves@124 — canonical_slot_inverse_three_halves](../records/0205.md#pr26-global-low-detector-lowunselectedmass-canonical-slot-inverse-4161cdbe9b)
-- [pr26:Global.Low.Detector.LowUnselectedMass::lowUnselectedMass_bound@159 — lowUnselectedMass_bound](../records/0205.md#pr26-global-low-detector-lowunselectedmass-lowunselectedmass-boun-78ad536f57)

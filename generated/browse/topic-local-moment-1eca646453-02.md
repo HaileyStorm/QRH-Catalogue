@@ -2,14 +2,18 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 272 matching records.
+Page 2/2; 276 matching records.
 
 [Previous](topic-local-moment-1eca646453-01.md)
 
+- [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::weighted_physical_annular_all@57 — weighted_physical_annular_all](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-weighted-physica-715264a532)
+- [pr26:Cycle25.Energy.Physical.RetainedFixed::certified_retained_fixed_profile@442 — certified_retained_fixed_profile](../records/0197.md#pr26-cycle25-energy-physical-retainedfixed-certified-retained-fix-e73d639eea)
+- [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_positive_energy@198 — weighted_terminal_positive_energy](../records/0197.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-positive--4792cce125)
+- [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_zero_energy@224 — weighted_terminal_zero_energy](../records/0197.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-zero-ener-4c240e3cd4)
 - [pr26:Cycle25.Numerator.ActiveFourth::certified_active_box_fourth@575 — certified_active_box_fourth](../records/0198.md#pr26-cycle25-numerator-activefourth-certified-active-box-fourth-5-28ce14cbc9)
-- [pr26:Cycle25.Numerator.PhysicalFront::sourcePrimePool@600 — sourcePrimePool](../records/0202.md#pr26-cycle25-numerator-physicalfront-sourceprimepool-600-b4c095151c)
-- [pr26:Cycle25.Numerator.PhysicalFront::source_complex_support_open@604 — source_complex_support_open](../records/0202.md#pr26-cycle25-numerator-physicalfront-source-complex-support-open--1572d52d03)
-- [pr26:Cycle25.Numerator.PhysicalFront::source_frequency_main_bound@704 — source_frequency_main_bound](../records/0202.md#pr26-cycle25-numerator-physicalfront-source-frequency-main-bound--8230b65fde)
+- [pr26:Cycle25.Numerator.PhysicalFront::sourcePrimePool@600 — sourcePrimePool](../records/0203.md#pr26-cycle25-numerator-physicalfront-sourceprimepool-600-b4c095151c)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_complex_support_open@604 — source_complex_support_open](../records/0203.md#pr26-cycle25-numerator-physicalfront-source-complex-support-open--1572d52d03)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_frequency_main_bound@704 — source_frequency_main_bound](../records/0203.md#pr26-cycle25-numerator-physicalfront-source-frequency-main-bound--8230b65fde)
 - [pr26:Cycle25.Numerator.PhysicalFront::source_main_product@672 — source_main_product](../records/0203.md#pr26-cycle25-numerator-physicalfront-source-main-product-672-f92df9cbd9)
 - [pr26:Cycle25.Numerator.PhysicalFront::source_main_product_norm@686 — source_main_product_norm](../records/0203.md#pr26-cycle25-numerator-physicalfront-source-main-product-norm-686-3e5b3fa3ab)
 - [pr26:Cycle25.Numerator.PhysicalFront::source_prime_pool_outside@612 — source_prime_pool_outside](../records/0203.md#pr26-cycle25-numerator-physicalfront-source-prime-pool-outside-61-d5cb3cdacb)

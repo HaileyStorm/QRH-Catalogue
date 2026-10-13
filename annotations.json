@@ -121837,6 +121837,43 @@
       "kind": "related",
       "source": "HIST-9e26a7ea7c8dc8cc7caf",
       "target": "LEAN-C61-original-fb6d4fd1-ZetaZeroFree.Analytic.Moments.Unconditional"
+    },
+    {
+      "evidence": {
+        "basis": "explicit-proof-use-in-maintained-source-summary",
+        "locator": "Complete Type I payment",
+        "public_record_id": "local:G231",
+        "qualification": "G191 is applied to the entire frozen mean-zero periodic cofactor bank with its divisor-epsilon and full prefix/tail prices; dependency scope is source-reported, not a formal check.",
+        "source_sha256": "4dc9734806f62ba593d96faeab22754352746f119dc705e46c3de0698581fbcb"
+      },
+      "kind": "depends_on",
+      "source": "local:G231",
+      "target": "local:G191"
+    },
+    {
+      "evidence": {
+        "basis": "explicit-shared-source-family-and-complementary-reductions",
+        "public_record_ids": [
+          "local:G231",
+          "local:G232"
+        ],
+        "qualification": "The same complete h_p family is used in two routes. The finite aggregate has its own L1 premise and return; no dependency or semantic equivalence between the routes is asserted.",
+        "source_sha256": "4dc9734806f62ba593d96faeab22754352746f119dc705e46c3de0698581fbcb"
+      },
+      "kind": "related",
+      "source": "local:G232",
+      "target": "local:G231"
+    },
+    {
+      "evidence": {
+        "basis": "explicit-input-for-finite-budget",
+        "public_record_id": "local:G234",
+        "qualification": "The finite witness and correlated-cell return use the same-family original K6 input in G233. This does not establish the transformed source admission.",
+        "source_sha256": "2797858c4f9647ea64b8e96d864f48bd042a2c5b7bd11ef3957944230d6da982"
+      },
+      "kind": "depends_on",
+      "source": "local:G234",
+      "target": "local:G233"
     }
   ],
   "schema_version": 1

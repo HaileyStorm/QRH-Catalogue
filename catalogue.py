@@ -496,12 +496,14 @@ class Builder:
     def overlays(self):
         path = self.config / 'components.jsonl'
         if path.exists():
-            for n, line in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
+            component_bytes = path.read_bytes()
+            component_sha256 = digest(component_bytes)
+            for n, line in enumerate(component_bytes.decode('utf-8').splitlines(), 1):
                 if line.strip():
                     raw = json.loads(line); rid = raw['id']
                     if raw.get('illustrative_only'):
                         raise ValueError('Illustrative fixtures are not catalogue components: ' + rid)
-                    r = self.record(rid, raw['title'], raw['kind'], raw.get('origin', 'curated'), raw, {'path': 'components.jsonl' if getattr(self, 'public', False) else 'research/catalogue/components.jsonl', 'line': n, 'sha256': digest(path.read_bytes())})
+                    r = self.record(rid, raw['title'], raw['kind'], raw.get('origin', 'curated'), raw, {'path': 'components.jsonl' if getattr(self, 'public', False) else 'research/catalogue/components.jsonl', 'line': n, 'sha256': component_sha256})
                     r.update(raw)
         path = self.config / 'annotations.json'
         data = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'records': {}, 'relations': []}

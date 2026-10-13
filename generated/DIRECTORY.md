@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21514 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21518 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 

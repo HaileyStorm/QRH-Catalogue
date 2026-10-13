@@ -2,9 +2,11 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 497 matching records.
+Page 2/3; 501 matching records.
 
 [Previous](status-conditional-6929adae85-01.md)
+
+[Next](status-conditional-6929adae85-03.md)
 
 - [local-section:898ad9c13d548fc284a403e0 — G124. Current margins and precise remaining signed input](../records/0153.md#local-section-898ad9c13d548fc284a403e0-7bc572c519)
 - [local-section:8a4caf6b6608a9d80d0a09c5 — 9. Exact remaining target and quantitative return](../records/0153.md#local-section-8a4caf6b6608a9d80d0a09c5-04dcddb5ca)
@@ -227,6 +229,10 @@ Page 2/2; 497 matching records.
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0171.md#local-g226-c84df8fcc4)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
+- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
+- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
+- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0171.md#local-g233-09e1889112)
+- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0171.md#local-g234-581cbca944)
 - [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0171.md#local-n27-f-a63b19d62a)
 - [local:N28.C — N28.C — Average b continuously on \[2,3\]](../records/0171.md#local-n28-c-ac2c6c0cac)
 - [local:N28.D — N28.D — Δ_bM=M(bx)−b^αM(x), b2,3, fixedα∈(0,1)](../records/0171.md#local-n28-d-ba4cbf6f6f)
@@ -252,4 +258,3 @@ Page 2/2; 497 matching records.
 - [reviewed-claim:T10-continuum — \[private research revision\]-claim:T10-continuum](../records/0215.md#reviewed-claim-t10-continuum-69e758bd43)
 - [reviewed-claim:T10-continuum-reciprocal — \[private research revision\]-claim:T10-continuum-reciprocal](../records/0215.md#reviewed-claim-t10-continuum-reciprocal-58e80583f4)
 - [reviewed-claim:T10-two-dilations — \[private research revision\]-claim:T10-two-dilations](../records/0215.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
-- [reviewed-claim:cubic-T02 — \[private research revision\]-claim:cubic-T02](../records/0215.md#reviewed-claim-cubic-t02-99e782eef3)

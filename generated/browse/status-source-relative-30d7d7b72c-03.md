@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 633 matching records.
+Page 3/3; 635 matching records.
 
 [Previous](status-source-relative-30d7d7b72c-02.md)
 
@@ -45,6 +45,8 @@ Page 3/3; 633 matching records.
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0171.md#local-g226-c84df8fcc4)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
+- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0171.md#local-g233-09e1889112)
+- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0171.md#local-g234-581cbca944)
 - [local:N27.C — N27.C — Only corridor G≤C K^γ for fixed C, γ=(1−u)/(2+v), is necessary with full strip/profile family](../records/0171.md#local-n27-c-d83884e231)
 - [local:N27.D — N27.D — Partition by the first admissible intermediate divisor, keeping signed selector weights and exceptional empty fibres](../records/0171.md#local-n27-d-24f25e5823)
 - [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0171.md#local-n27-f-a63b19d62a)
