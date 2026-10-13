@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21549 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21568 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -240,25 +240,25 @@
 - [G79 — G79. Exact drift and normalized Ward defects](records/0171.md#local-g79-99600dfe1a)
 - [G80 — G80. Sharp exterior certificate, with the actual H contract](records/0171.md#local-g80-5d9f92de8e)
 - [G81 — G81. Largest-prime renewal and its complete covariance](records/0171.md#local-g81-99411dc86c)
-- [G82 — G82. Heat-trace threshold and the actual Gram obstruction](records/0171.md#local-g82-b0a5fbfc89)
-- [G83 — G83. Actual balanced completion at growing order](records/0171.md#local-g83-8dd3bd523d)
-- [G84 — G84. Exact moment and genuine paid sectors](records/0171.md#local-g84-39571ccd9d)
-- [G85 — G85. Full-scale moment return without the baseline](records/0171.md#local-g85-475c2b0586)
-- [G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](records/0171.md#local-g86-10d609e713)
-- [G87 — G87: a fixed-order return from the literal G72 energy](records/0171.md#local-g87-60466dd0f4)
-- [G88 — G88: the existing countermodel obstructs every fixed sublinear window](records/0171.md#local-g88-d7d3c34f95)
-- [G89 — G89: precise observation contracts and their unpaid arithmetic](records/0171.md#local-g89-8fdc15013e)
-- [G90 — G90: marked inverse amplification, weighted density and signed transport](records/0171.md#local-g90-4636392cc1)
-- [G91 — G91: combine support and actual slot savings before optimizing](records/0171.md#local-g91-c729e395eb)
-- [G92 — G92: exact defect expansion, collar prices and integer cancellation](records/0171.md#local-g92-9948e6d6de)
-- [G93 — G93: a greedy boundary obstruction and a paid moving square mask](records/0171.md#local-g93-30c0d807f5)
-- [G94 — G94: actual state closure and the final observation matter](records/0171.md#local-g94-65895f2546)
-- [G95 — G95. An exact source with a positive signed global leading term](records/0171.md#local-g95-5b173d0687)
-- [G96 — G96. The complete shrinking-arc return and finite signed core](records/0171.md#local-g96-8db9d2be74)
-- [G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](records/0171.md#local-g97-7b0759357c)
-- [G98 — G98. Retaining Bc through the complete original return](records/0171.md#local-g98-616457c461)
-- [G99 — G99. A separate canonical partial marked-plain theorem](records/0171.md#local-g99-9f566a035c)
-- [N27 — N27. Two-exponent finite-divisor incidence](records/0171.md#local-n27-a6764ed466)
+- [G82 — G82. Heat-trace threshold and the actual Gram obstruction](records/0172.md#local-g82-b0a5fbfc89)
+- [G83 — G83. Actual balanced completion at growing order](records/0172.md#local-g83-8dd3bd523d)
+- [G84 — G84. Exact moment and genuine paid sectors](records/0172.md#local-g84-39571ccd9d)
+- [G85 — G85. Full-scale moment return without the baseline](records/0172.md#local-g85-475c2b0586)
+- [G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](records/0172.md#local-g86-10d609e713)
+- [G87 — G87: a fixed-order return from the literal G72 energy](records/0172.md#local-g87-60466dd0f4)
+- [G88 — G88: the existing countermodel obstructs every fixed sublinear window](records/0172.md#local-g88-d7d3c34f95)
+- [G89 — G89: precise observation contracts and their unpaid arithmetic](records/0172.md#local-g89-8fdc15013e)
+- [G90 — G90: marked inverse amplification, weighted density and signed transport](records/0172.md#local-g90-4636392cc1)
+- [G91 — G91: combine support and actual slot savings before optimizing](records/0172.md#local-g91-c729e395eb)
+- [G92 — G92: exact defect expansion, collar prices and integer cancellation](records/0172.md#local-g92-9948e6d6de)
+- [G93 — G93: a greedy boundary obstruction and a paid moving square mask](records/0172.md#local-g93-30c0d807f5)
+- [G94 — G94: actual state closure and the final observation matter](records/0172.md#local-g94-65895f2546)
+- [G95 — G95. An exact source with a positive signed global leading term](records/0172.md#local-g95-5b173d0687)
+- [G96 — G96. The complete shrinking-arc return and finite signed core](records/0172.md#local-g96-8db9d2be74)
+- [G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](records/0172.md#local-g97-7b0759357c)
+- [G98 — G98. Retaining Bc through the complete original return](records/0172.md#local-g98-616457c461)
+- [G99 — G99. A separate canonical partial marked-plain theorem](records/0172.md#local-g99-9f566a035c)
+- [N27 — N27. Two-exponent finite-divisor incidence](records/0172.md#local-n27-a6764ed466)
 - [N28 — N28. Two-dilation and continuum-dilation Möbius energies](records/0172.md#local-n28-ec942bb3b1)
 - [N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](records/0172.md#local-n29-3176a96c30)
 - [T01 — T01. Quantitative fixed-factor division — PROVED](records/0172.md#local-t01-b6a84d226c)

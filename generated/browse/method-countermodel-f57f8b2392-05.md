@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1102 matching records.
+Page 5/5; 1104 matching records.
 
 [Previous](method-countermodel-f57f8b2392-04.md)
 
@@ -86,6 +86,8 @@ Page 5/5; 1102 matching records.
 - [local:G259 — G259. Interior relative-complex counterexample to thin endpoint support](../records/0171.md#local-g259-5589dc90a5)
 - [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
 - [local:G265 — G265. Fractional Riesz recovery with sharp generic bounded-coefficient loss](../records/0171.md#local-g265-27767aba13)
+- [local:G271 — G271. Complete prime-correlation energy criterion and its exact strength](../records/0171.md#local-g271-5cb55113cc)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0171.md#local-g280-92c627efc9)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)
@@ -95,12 +97,12 @@ Page 5/5; 1102 matching records.
 - [local:G73 — \[private research revision\] attempt delta (G73)](../records/0171.md#local-g73-076e11ffdb)
 - [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0171.md#local-g74-c3716b767a)
 - [local:G78 — G78. Uniform depth and the full physical tail](../records/0171.md#local-g78-9d1a1f7ec0)
-- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0171.md#local-g82-b0a5fbfc89)
-- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0171.md#local-g84-39571ccd9d)
-- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0171.md#local-g86-10d609e713)
-- [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0171.md#local-g88-d7d3c34f95)
-- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
-- [local:G93 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0171.md#local-g93-30c0d807f5)
+- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0172.md#local-g82-b0a5fbfc89)
+- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0172.md#local-g84-39571ccd9d)
+- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0172.md#local-g86-10d609e713)
+- [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0172.md#local-g88-d7d3c34f95)
+- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0172.md#local-g89-8fdc15013e)
+- [local:G93 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0172.md#local-g93-30c0d807f5)
 - [local:T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](../records/0172.md#local-t05-39ebf3975e)
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
 - [review:A07 — \[private research revision\]-review:A07](../records/0215.md#review-a07-bafad32bbe)

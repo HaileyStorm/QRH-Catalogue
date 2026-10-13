@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 403 matching records.
+Page 2/2; 405 matching records.
 
 [Previous](topic-approximation-721f1f8375-01.md)
 
@@ -156,6 +156,8 @@ Page 2/2; 403 matching records.
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
 - [local:G243 — G243. Repeated-prime renewal with its complete signed defect](../records/0171.md#local-g243-86a11b1ceb)
 - [local:G261 — G261. Weighted staircase singular spectrum for exact cutoff interfaces](../records/0171.md#local-g261-ff910b57a4)
+- [local:G276 — G276. Consecutive Mellin companions without a common zero](../records/0171.md#local-g276-4cb20dad30)
+- [local:G279 — G279. Ordinary-character weighted approximation with full tail and height price](../records/0171.md#local-g279-e4f51ee2de)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
-- [local:G92 — G92: exact defect expansion, collar prices and integer cancellation](../records/0171.md#local-g92-9948e6d6de)
+- [local:G92 — G92: exact defect expansion, collar prices and integer cancellation](../records/0172.md#local-g92-9948e6d6de)
 - [review:A08 — \[private research revision\]-review:A08](../records/0215.md#review-a08-4ff8f7bfda)

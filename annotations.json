@@ -122058,6 +122058,668 @@
         "source_record": "local:G254",
         "qualification": "Restricted annular source contract inspected; not a formalization/use assertion."
       }
+    },
+    {
+      "source": "local:G266",
+      "target": "local:G234",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "b074a89b8d78e3e0af898e06bf3824495bb789f4768a80b5d9ad623ca49a7e79",
+        "review_sha256": "bec511c736c14c479f336bb1b07d48fe530185548ef1a8ccd41ae8bfa80af9ce",
+        "locator": "author section 2; independent review finite-table audit",
+        "assertion": "The K6 corollary uses the exact G234 original-cell table. The general finite-table theorem does not require the table to be the K6 table.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G266",
+      "target": "local:G236",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "b074a89b8d78e3e0af898e06bf3824495bb789f4768a80b5d9ad623ca49a7e79",
+        "review_sha256": "bec511c736c14c479f336bb1b07d48fe530185548ef1a8ccd41ae8bfa80af9ce",
+        "locator": "author sections 1,3,5; independent review main/error distinction",
+        "assertion": "Both extend fixed-inducing payments to changed amplifier tables, but this is main raw 5a followed by 4a; G236 is the separate error-complement 9a/2.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G266",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Physical.InitialMass.GeometryExceptionalNormPayment",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "b074a89b8d78e3e0af898e06bf3824495bb789f4768a80b5d9ad623ca49a7e79",
+        "review_sha256": "bec511c736c14c479f336bb1b07d48fe530185548ef1a8ccd41ae8bfa80af9ce",
+        "locator": "actual_geometry_main_exceptional_norm_payment:984-1072, hpaid:1026-1051",
+        "assertion": "The literal main norm bound uses the independent first returned raw payment, before the optional old-beta callback.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G266",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Physical.InitialMass.GeometryExceptionalAdmission",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "b074a89b8d78e3e0af898e06bf3824495bb789f4768a80b5d9ad623ca49a7e79",
+        "review_sha256": "bec511c736c14c479f336bb1b07d48fe530185548ef1a8ccd41ae8bfa80af9ce",
+        "locator": "eventual_actual_geometry_main_exceptional_admission:119-216",
+        "assertion": "The raw main kernel retains the fixed-parent source/conductor admission with sigma>=0.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G266",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Physical.InitialMass.GeometryAmplification",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "b074a89b8d78e3e0af898e06bf3824495bb789f4768a80b5d9ad623ca49a7e79",
+        "review_sha256": "bec511c736c14c479f336bb1b07d48fe530185548ef1a8ccd41ae8bfa80af9ce",
+        "locator": "actual_geometry_budget_amplification:79-130",
+        "assertion": "The generic literal prime pool gives nonemptiness and cardinality for the changed a_j with mesh<a_j/2.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G267",
+      "target": "local:G231",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author section 3 and inherited-return qualification",
+        "assertion": "The retained nonlinear field is the literal complete G231 field with its arithmetic cuts and separate return prerequisites.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G267",
+      "target": "local:G235",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 3 and 6",
+        "assertion": "The same literal field receives fixed polylogarithmic cofactor localization. The proof pays growing order independently; it is not eta=eta(X) substitution into G235.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G267",
+      "target": "local-section:30efb378ff8c77689797c150",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 1 and 6; review ancestry read",
+        "assertion": "C12/V6 provides quantitative Gevrey ancestry; the present cutoff and full nonlinear mask budget are separately developed.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G267",
+      "target": "pr26:Analytic.BufferedDilation::dilated_mellin_uniform@205",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author section 1; B050 source:193-269",
+        "assertion": "The inspected fixed-order dilation contract exposes the unprovided growth of C(k). It does not prove the new growing-order estimate.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G268",
+      "target": "local:G267",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 4 and 4a",
+        "assertion": "The explicit fixed Gevrey derivative law and periodic summation method are reused with the phase-free Laplace profile and increased progression periods; the b>1 theorem is not applied unchanged at b=1.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G268",
+      "target": "local:G251",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 1,4,6",
+        "assertion": "W74 supplies the literal Mobius inverse/complete-cut ancestry. The complete Laplace replacement and moving square sector are new scoped reductions.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G268",
+      "target": "local:G237",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 1,4,6",
+        "assertion": "W79 supplies the fixed ordinary Laplace-source and complete-return ancestry; no growing Taylor or native transfer premise is imported.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G268",
+      "target": "local-section:4129c2481b126e5425073c80",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 4a and 6",
+        "assertion": "C22/PO supplies actual selected-prime allocation ancestry. The old Mertens premise is not transferred; the moving-period cost is paid explicitly here.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G269",
+      "target": "local:G72",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 5 and 6",
+        "assertion": "The complete overlapping-window strategy is inherited as ancestry; exact Laplace synthesis replaces that source-specific reconstruction rather than implying an arithmetic saving.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G269",
+      "target": "local:G255",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 1,5,6",
+        "assertion": "W76 contributes the distinction between same-integer diagonal covariance and complete signed cross-window energy. No covariance-to-energy power transfer is asserted.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G269",
+      "target": "local:G268",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "51c0ba4d3c8e570bc06a5eb98a86bcd0adb21eecd29b903e282a2b48ee926d4b",
+        "review_sha256": "1f417e627f2ae592ef1c7b15964f94ae2f8711df633877b94bcaab7cfecd4524",
+        "locator": "author sections 4-5",
+        "assertion": "The sufficient scalar window estimate, if proved, reaches the Laplace source/core through the separately complete return. The basic window identity does not depend on a core bound.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G270",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Moment.ActualJointDictionary",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "821bf2d0eb4e8ca963faa859dd7551ae5f505e8273b84d9314895298ca1935b2",
+        "review_sha256": "89017017cebf98de0f41dc51f7769da081f5faf278d9a5b361536ce9daf2e040",
+        "locator": "source lines 21-96; author native dictionary discussion",
+        "assertion": "The native application uses the actual two-transform joint dictionary and common slot data.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G270",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Moment.BufferedRetainedRows",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "821bf2d0eb4e8ca963faa859dd7551ae5f505e8273b84d9314895298ca1935b2",
+        "review_sha256": "89017017cebf98de0f41dc51f7769da081f5faf278d9a5b361536ce9daf2e040",
+        "locator": "source lines 12-73; independent review full-row qualification",
+        "assertion": "The literal buffered full-row inequality necessitates the displayed variable-subset weight before fiber pushforward.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G270",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Moment.JointSourceCount",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "821bf2d0eb4e8ca963faa859dd7551ae5f505e8273b84d9314895298ca1935b2",
+        "review_sha256": "89017017cebf98de0f41dc51f7769da081f5faf278d9a5b361536ce9daf2e040",
+        "locator": "source lines 25-124",
+        "assertion": "Only its unweighted actual-key multiplicity is inherited; weighted fiber masses and earlier geometric selection costs remain separate.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G270",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Density.NaturalMaskTransport",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "821bf2d0eb4e8ca963faa859dd7551ae5f505e8273b84d9314895298ca1935b2",
+        "review_sha256": "89017017cebf98de0f41dc51f7769da081f5faf278d9a5b361536ce9daf2e040",
+        "locator": "source lines 12-76",
+        "assertion": "The whole-family finite Euler mask transport supplies positive-real-part zero preservation at the pinned native contract.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G270",
+      "target": "local:G233",
+      "kind": "related",
+      "evidence": {
+        "basis": "frozen-written-source-and-independent-review",
+        "source_sha256": "821bf2d0eb4e8ca963faa859dd7551ae5f505e8273b84d9314895298ca1935b2",
+        "review_sha256": "89017017cebf98de0f41dc51f7769da081f5faf278d9a5b361536ce9daf2e040",
+        "locator": "author gain-stability specialization",
+        "assertion": "The K6 specialization inserts the existing licensed original positive-moment gain. The finite adapter does not establish the different weighted canonical bank required by its native application.",
+        "qualification": "Scoped mathematical/source relation only; no new formalization, final-use link or endpoint acceptance."
+      }
+    },
+    {
+      "source": "local:G271",
+      "target": "local:G118",
+      "kind": "depends_on",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
+        "locator": "section 2",
+        "qualification": "Uses the exact complete logarithmic convolution, including every prime power; no source estimate is inherited."
+      }
+    },
+    {
+      "source": "local:G271",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Mellin.ExponentialSmoothing",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
+        "locator": "section 7",
+        "qualification": "Textual return-pattern comparison only. The indexed theorem needs nonprincipal chi, a pointwise source bound and near-zero conditions; the present L2 and principal cases are proved separately. Not a formalization link."
+      }
+    },
+    {
+      "source": "local:G272",
+      "target": "local:G271",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
+        "locator": "sections 2-4",
+        "qualification": "The power quotient has the same leading prime term and pays a no-smaller repeated-power fee; its two-sided causal norm equivalence is separate."
+      }
+    },
+    {
+      "source": "local:G273",
+      "target": "local:G118",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
+        "locator": "section 6",
+        "qualification": "Finite inverse equations require the complete boundary residual. This zero-dual bound includes the principal pole correction and does not inherit a global inverse estimate."
+      }
+    },
+    {
+      "source": "local:G273",
+      "target": "local:G78",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
+        "locator": "section 6",
+        "qualification": "Earlier paid absolute inverses apply above exponent1; the new finite dual interface does not remove its full absolute boundary price."
+      }
+    },
+    {
+      "source": "local:G274",
+      "target": "local:G264",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
+        "locator": "sections 3 and 7",
+        "qualification": "Complete block covariance/forward-width return has a different premise. The reverse finite-bank inequality here is not transferred from that premise."
+      }
+    },
+    {
+      "source": "local:G274",
+      "target": "pr26:Global.Low.Detector.LowGaussianSum::low_dyad_norm_split@624",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
+        "locator": "section 7",
+        "qualification": "Both complementary norm series must be summable. Contract/proof-structure comparison only; no arithmetic Hecke bound or formalization claim is transferred."
+      }
+    },
+    {
+      "source": "local:G275",
+      "target": "local:G145",
+      "kind": "depends_on",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
+        "locator": "sections 4 and 7",
+        "qualification": "Uses the exact word-fibre lift/readout duality; specializes its certificate to the full eta-Gaussian source and pays the growing-order complement."
+      }
+    },
+    {
+      "source": "local:G275",
+      "target": "local:G117",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
+        "locator": "sections 4 and 7",
+        "qualification": "Earlier factorial fibres and positive-certificate obstruction retain credit. The actual eta profile and retained-prime failure are the additional scope."
+      }
+    },
+    {
+      "source": "local:G275",
+      "target": "local:G174",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
+        "locator": "sections 4 and 7",
+        "qualification": "Elementary prime-count proof supplies the retained-prime lower bound. Its insertion/adjoint operator and positive observation are different."
+      }
+    },
+    {
+      "source": "local:G275",
+      "target": "local:G274",
+      "kind": "depends_on",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
+        "locator": "section 4, physical-tail use",
+        "qualification": "Uses only the proved complete Gaussian physical-tail estimate for both eta lobes, not the unproved reverse-heat source premise."
+      }
+    },
+    {
+      "source": "local:G276",
+      "target": "local:G139",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "companion-detector section",
+        "qualification": "Earlier finite banks repair common multiplier zeros by a different two-delay identity; the consecutive-moment recurrence is the distinct mechanism."
+      }
+    },
+    {
+      "source": "local:G276",
+      "target": "HIST-27436504ad4cba08b2d5",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "Lean contract paragraph",
+        "qualification": "Positive scales, full coefficient mass and integrable envelope guide interchange. The nonprincipal compact Mellin(W)*L theorem does not estimate these noncompact reciprocal-L sources. No formalization assertion."
+      }
+    },
+    {
+      "source": "local:G277",
+      "target": "local-section:021601cba1a0a08525590f22",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "protected flow section",
+        "qualification": "Prior neutral-prime boundary, phase fee and harmonic-index obstruction retain credit; incidence gauge, residual minimization and leaf energy are the scoped additions."
+      }
+    },
+    {
+      "source": "local:G277",
+      "target": "local:G135",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "protected flow section",
+        "qualification": "The earlier character/residue discrepancy and unmatched charge remain unpaid; a gap alone does not bound the charge."
+      }
+    },
+    {
+      "source": "local:G277",
+      "target": "local:G276",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "protected flow section, complete cutoff",
+        "qualification": "The finite graph can read each companion only after its whole exponential tail and retained signed response are paid. This is not proof of a companion estimate."
+      }
+    },
+    {
+      "source": "local:G278",
+      "target": "local:G135",
+      "kind": "depends_on",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "prime-feedback section",
+        "qualification": "Uses the complete coefficient/Abel logarithmic identity and full Lambda-to-M equivalence. No new identity or independent weaker target is claimed."
+      }
+    },
+    {
+      "source": "local:G278",
+      "target": "local:G173",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "prime-feedback attribution",
+        "qualification": "Same complete higher-power majorant and small-prime absorption ancestry, but pointwise supremum and Gaussian energy hypotheses/masks differ."
+      }
+    },
+    {
+      "source": "local:G279",
+      "target": "local:F08",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "weighted approximation section",
+        "qualification": "At q=1 and theta=1/n the kernel is the negative original fractional-part function; no rediscovery of the generic approximation criterion."
+      }
+    },
+    {
+      "source": "local:G279",
+      "target": "local-section:bc6251fa498017e1a353da2a",
+      "kind": "related",
+      "evidence": {
+        "access": "restricted-qrh",
+        "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
+        "locator": "weighted approximation section",
+        "qualification": "The same weighted evaluation-functional sufficient criterion was already proved for zeta. The increment retains ordinary-character principal correction, finite-box price and full coefficient-dependent tail."
+      }
+    },
+    {
+      "source": "local:G280",
+      "target": "local:G128",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "author sections 2-4; critic section 3",
+        "assertion": "Existing source formation, periodic-primitive acceleration and normalized prediction return are ancestry. The finite-preconditioner absolute obstruction and complete compact certificate are separately scoped.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G280",
+      "target": "local:G130",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "author section 4; critic section 3",
+        "assertion": "The global raw principal finite-polynomial obstruction is retained. The compact-exhaustion certificate is not a global uniform strict-contraction assertion.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G280",
+      "target": "local:G227",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "blind audit09 section3; critic sections2-3",
+        "assertion": "A cofactor-weighted twisted finite-matrix residual is a different source; it supplies no identification with the triangular convolution or complete coefficientwise norm.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G280",
+      "target": "local-section:42ba56ea2fd3bd5f215c5f97",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "exact C61-W4 record; author sections2-4; blind audit09",
+        "assertion": "The earlier finite-prime approximate inverse already has an infinite absolute residual below the convergence boundary. The new obstruction permits every finite Dirichlet preconditioner with arbitrary complex coefficients; the compact signed escape remains conditional.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G281",
+      "target": "local:G103",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "author sections2,5; current exact G103 statement",
+        "assertion": "Complete cumulative-energy continuation is prior ancestry. This record adds the exponential Green kernel, exact finite-site readout and weighted-prefix terminal identity.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G281",
+      "target": "local-section:a56e8ff44323f1178e41db0f",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "author section2; exact pinned C61-W1 catalogue record",
+        "assertion": "The inhomogeneous negative-norm/full-tail return is prior ancestry, not a source estimate for the new Green kernel.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G281",
+      "target": "local:G264",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "author section5; critic section4",
+        "assertion": "Both retain complete cross-integer energies. Gaussian block covariance and exponential prefix Green energy are distinct; no estimate transfers automatically.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G281",
+      "target": "local:G168",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "author section2; critic section4",
+        "assertion": "The earlier harmonic/readout bill prevents attributing an arithmetic saving to heat decay alone.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G282",
+      "target": "local:G135",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "exact G135 statement; author section8",
+        "assertion": "Fixed-modulus residue/character equivalence and squarefree-unit counting are existing ancestry; the new formulation prices conditional parity separately from CRT residue entropy.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G282",
+      "target": "local-section:169cbb3d73ee617ca9926fb4",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "current catalogue exact entropy-audit statement; author section8",
+        "assertion": "The prior actual-word entropy-price audit is a different probability model. Neither it nor residue equidistribution pays the present conditional sign deficit.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G283",
+      "target": "local-section:a4bec6808db5af95ef4b031f",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "5042ba216960edfea631eae9e856344bfe58e8a8bf9b78cdb3ba127d063e3cbb",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "current exact occupation-cluster record; author section6",
+        "assertion": "The earlier full occupation marginal has repeated/overlapping clusters and a scoped activity zero. The sharp reciprocal cutoff here has a different source and variable; neither counterexample establishes an L zero.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G284",
+      "target": "local:G168",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "b3383afe796c72cfbc6e14a517f7c5cbc92a1c47d9f2aac1a2145ec1136ad22a",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "blind audit26 sections2-4; critic section6",
+        "assertion": "Heat/harmonic cautions remain ancestry; the corrected translation generator and complete cutoff commutator are separate explicit calculations.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G284",
+      "target": "local:G264",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-source-review-and-exact-catalogue-contract-comparison",
+        "source_sha256": "b3383afe796c72cfbc6e14a517f7c5cbc92a1c47d9f2aac1a2145ec1136ad22a",
+        "review_sha256": "878a61b3e87b371de33cdbb8c720bef1805a875bd61cff43ac7237f289431741",
+        "locator": "blind audit26 section4",
+        "assertion": "The complete Gaussian source could give a conditional return only after its own open energy premise is proved; it supplies no prime-evolution contraction.",
+        "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
     }
   ],
   "schema_version": 1

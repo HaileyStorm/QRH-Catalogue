@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/6; 1418 matching records.
+Page 6/6; 1423 matching records.
 
 [Previous](method-duality-c5419f8b09-05.md)
 
@@ -133,16 +133,21 @@ Page 6/6; 1418 matching records.
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0171.md#local-g247-bd48e9ab10)
 - [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0171.md#local-g248-3d1e6b9334)
 - [local:G250 — G250. Variation-priced complete root tail and stopped square-decoder price](../records/0171.md#local-g250-42c6fe6c04)
+- [local:G273 — G273. Finite zero-dual residual with the full principal boundary term](../records/0171.md#local-g273-a19b5d4302)
+- [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0171.md#local-g275-c56c1a0489)
+- [local:G277 — G277. Prime-incidence gauge, residual charge and exact leaf energy fee](../records/0171.md#local-g277-351b226bb0)
+- [local:G279 — G279. Ordinary-character weighted approximation with full tail and height price](../records/0171.md#local-g279-e4f51ee2de)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0171.md#local-g280-92c627efc9)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0171.md#local-g75-1359afa204)
 - [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0171.md#local-g76-089f3bed55)
 - [local:G79 — G79. Exact drift and normalized Ward defects](../records/0171.md#local-g79-99600dfe1a)
-- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0171.md#local-g86-10d609e713)
-- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
-- [local:G91 — G91: combine support and actual slot savings before optimizing](../records/0171.md#local-g91-c729e395eb)
-- [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0171.md#local-g96-8db9d2be74)
+- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0172.md#local-g86-10d609e713)
+- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0172.md#local-g89-8fdc15013e)
+- [local:G91 — G91: combine support and actual slot savings before optimizing](../records/0172.md#local-g91-c729e395eb)
+- [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0172.md#local-g96-8db9d2be74)
 - [local:T02 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](../records/0172.md#local-t02-a87be8a14c)
 - [local:T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](../records/0172.md#local-t05-39ebf3975e)
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)

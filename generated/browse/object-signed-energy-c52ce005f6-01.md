@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 696 matching records.
+Page 1/3; 699 matching records.
 
 [Next](object-signed-energy-c52ce005f6-02.md)
 

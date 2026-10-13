@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 809 matching records.
+Page 4/4; 811 matching records.
 
 [Previous](topic-height-uniformity-f0396e625a-03.md)
 
@@ -48,11 +48,13 @@ Page 4/4; 809 matching records.
 - [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0171.md#local-g245-5bef916afc)
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0171.md#local-g247-bd48e9ab10)
 - [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
+- [local:G276 — G276. Consecutive Mellin companions without a common zero](../records/0171.md#local-g276-4cb20dad30)
+- [local:G279 — G279. Ordinary-character weighted approximation with full tail and height price](../records/0171.md#local-g279-e4f51ee2de)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0171.md#local-g75-1359afa204)
-- [local:G87 — G87: a fixed-order return from the literal G72 energy](../records/0171.md#local-g87-60466dd0f4)
-- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
-- [local:G94 — G94: actual state closure and the final observation matter](../records/0171.md#local-g94-65895f2546)
-- [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
+- [local:G87 — G87: a fixed-order return from the literal G72 energy](../records/0172.md#local-g87-60466dd0f4)
+- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0172.md#local-g89-8fdc15013e)
+- [local:G94 — G94: actual state closure and the final observation matter](../records/0172.md#local-g94-65895f2546)
+- [local:G98 — G98. Retaining Bc through the complete original return](../records/0172.md#local-g98-616457c461)
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
 - [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0172.md#local-t08-2d79a03ea8)
 - [pr15:AllHeightDensity::all_height_density_of_bounded_height — all_height_density_of_bounded_height](../records/0172.md#pr15-allheightdensity-all-height-density-of-bounded-height-7e75bbac12)

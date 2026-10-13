@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 381 matching records.
+Page 2/2; 385 matching records.
 
 [Previous](object-cofactor-ae47dca907-01.md)
 
@@ -137,3 +137,7 @@ Page 2/2; 381 matching records.
 - [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0171.md#local-g245-5bef916afc)
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0171.md#local-g247-bd48e9ab10)
 - [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0171.md#local-g249-33b0a017f2)
+- [local:G267 — G267. Fixed Gevrey order control and complete nonlinear polylogarithmic-cofactor localization](../records/0171.md#local-g267-1a516d3577)
+- [local:G268 — G268. Complete ordinary Laplace inverse core and paid moving selected-prime-square sector](../records/0171.md#local-g268-c189b52c95)
+- [local:G272 — G272. Integer-power Euler quotients preserve the weighted energy frontier](../records/0171.md#local-g272-81046b951d)
+- [local:G273 — G273. Finite zero-dual residual with the full principal boundary term](../records/0171.md#local-g273-a19b5d4302)

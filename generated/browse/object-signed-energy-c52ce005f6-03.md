@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 696 matching records.
+Page 3/3; 699 matching records.
 
 [Previous](object-signed-energy-c52ce005f6-02.md)
 
@@ -193,12 +193,15 @@ Page 3/3; 696 matching records.
 - [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0171.md#local-g252-64bd5a4ae5)
 - [local:G260 — G260. Complete fixed phase-average source and tail equivalence](../records/0171.md#local-g260-418dfb38b6)
 - [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
+- [local:G269 — G269. Exact overlapping Laplace-window synthesis and a one-sided arithmetic target](../records/0171.md#local-g269-9d63fa090a)
+- [local:G277 — G277. Prime-incidence gauge, residual charge and exact leaf energy fee](../records/0171.md#local-g277-351b226bb0)
+- [local:G278 — G278. Pointwise long-prime localization by finite-horizon absorption](../records/0171.md#local-g278-b3b29ad2d5)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
-- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0171.md#local-g82-b0a5fbfc89)
-- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0171.md#local-g84-39571ccd9d)
-- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0171.md#local-g86-10d609e713)
-- [local:G90 — G90: marked inverse amplification, weighted density and signed transport](../records/0171.md#local-g90-4636392cc1)
-- [local:G95 — G95. An exact source with a positive signed global leading term](../records/0171.md#local-g95-5b173d0687)
-- [local:N27 — N27. Two-exponent finite-divisor incidence](../records/0171.md#local-n27-a6764ed466)
+- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0172.md#local-g82-b0a5fbfc89)
+- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0172.md#local-g84-39571ccd9d)
+- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0172.md#local-g86-10d609e713)
+- [local:G90 — G90: marked inverse amplification, weighted density and signed transport](../records/0172.md#local-g90-4636392cc1)
+- [local:G95 — G95. An exact source with a positive signed global leading term](../records/0172.md#local-g95-5b173d0687)
+- [local:N27 — N27. Two-exponent finite-divisor incidence](../records/0172.md#local-n27-a6764ed466)
 - [local:N27.N1 — N27.N1 — Keep completed h-by-divisor selector before Cauchy; derive sufficient signed energy and addbacks, then seek a saving](../records/0172.md#local-n27-n1-e5983023c9)
 - [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0172.md#local-t08-2d79a03ea8)

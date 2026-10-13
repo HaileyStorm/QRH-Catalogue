@@ -6,8 +6,8 @@ Page 13/13; 3020 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
-- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0213.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
-- [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0213.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
+- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0214.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
+- [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0214.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
 - [pr26:Physical.LocalOriginalFourth::certified_transport_original_numerator_fourth@77 — certified_transport_original_numerator_fourth](../records/0214.md#pr26-physical-localoriginalfourth-certified-transport-original-nu-5fe864c6d8)
 - [pr26:Physical.LocalRetained::certified_transport_actual_retained_fourth@401 — certified_transport_actual_retained_fourth](../records/0214.md#pr26-physical-localretained-certified-transport-actual-retained-f-a3a7c1fa24)
 - [pr26:Physical.LocalRetainedFixed::certified_transport_retained_fixed_profile@314 — certified_transport_retained_fixed_profile](../records/0214.md#pr26-physical-localretainedfixed-certified-transport-retained-fix-f46ed35d0c)

@@ -30,6 +30,6 @@ Page 1/1; 29 matching records.
 - [local:F24 — F24. Left-first and two-sided spectral/Mellin methods](../records/0169.md#local-f24-ce3e45fce5)
 - [local:F25 — F25. Triple-rotation theta products](../records/0169.md#local-f25-0919a5edc6)
 - [local:F26 — F26. Direct shifted criteria and constrained operators](../records/0169.md#local-f26-9e013a3bbb)
-- [local:N27 — N27. Two-exponent finite-divisor incidence](../records/0171.md#local-n27-a6764ed466)
+- [local:N27 — N27. Two-exponent finite-divisor incidence](../records/0172.md#local-n27-a6764ed466)
 - [local:N28 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0172.md#local-n28-ec942bb3b1)
 - [local:N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](../records/0172.md#local-n29-3176a96c30)

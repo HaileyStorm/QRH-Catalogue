@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1418 matching records.
+Page 1/6; 1423 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 

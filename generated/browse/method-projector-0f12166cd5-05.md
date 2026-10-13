@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1011 matching records.
+Page 5/5; 1012 matching records.
 
 [Previous](method-projector-0f12166cd5-04.md)
 
+- [pr26:Analytic.JointSourceCanonical::kernelLabel@573 — kernelLabel](../records/0190.md#pr26-analytic-jointsourcecanonical-kernellabel-573-d01ae85bac)
 - [pr26:Analytic.JointSourceCanonical::kernelLabel_canonical_row@597 — kernelLabel_canonical_row](../records/0190.md#pr26-analytic-jointsourcecanonical-kernellabel-canonical-row-597-e9237402ba)
 - [pr26:Analytic.JointSourceCanonical::kernelLabel_row@590 — kernelLabel_row](../records/0190.md#pr26-analytic-jointsourcecanonical-kernellabel-row-590-fd9bc05eff)
 - [pr26:Analytic.JointSourceCanonical::label_projector_dvd@548 — label_projector_dvd](../records/0190.md#pr26-analytic-jointsourcecanonical-label-projector-dvd-548-549266c037)
@@ -16,4 +17,4 @@ Page 5/5; 1011 matching records.
 - [pr26:Analytic.JointSourceTailEnvelope::second_projected_absolute_input_power@322 — second_projected_absolute_input_power](../records/0191.md#pr26-analytic-jointsourcetailenvelope-second-projected-absolute-i-6662a67317)
 - [pr26:Analytic.JointSupport::joint_first_projector_dvd@660 — joint_first_projector_dvd](../records/0191.md#pr26-analytic-jointsupport-joint-first-projector-dvd-660-2e4ba56715)
 - [review:A14 — \[private research revision\]-review:A14](../records/0215.md#review-a14-9001c6dd5f)
-- [reviewed-claim:A14-sixth-power-projection — \[private research revision\]-claim:A14-sixth-power-projection](../records/0215.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)
+- [reviewed-claim:A14-sixth-power-projection — \[private research revision\]-claim:A14-sixth-power-projection](../records/0216.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)

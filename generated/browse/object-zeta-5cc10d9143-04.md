@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 923 matching records.
+Page 4/4; 927 matching records.
 
 [Previous](object-zeta-5cc10d9143-03.md)
 
@@ -142,10 +142,14 @@ Page 4/4; 923 matching records.
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0171.md#local-g246-8dd56008a9)
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0171.md#local-g247-bd48e9ab10)
 - [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
+- [local:G267 — G267. Fixed Gevrey order control and complete nonlinear polylogarithmic-cofactor localization](../records/0171.md#local-g267-1a516d3577)
+- [local:G273 — G273. Finite zero-dual residual with the full principal boundary term](../records/0171.md#local-g273-a19b5d4302)
+- [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0171.md#local-g274-fbf5ea7910)
+- [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0171.md#local-g275-c56c1a0489)
 - [local:G78 — G78. Uniform depth and the full physical tail](../records/0171.md#local-g78-9d1a1f7ec0)
-- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0171.md#local-g84-39571ccd9d)
-- [local:G95 — G95. An exact source with a positive signed global leading term](../records/0171.md#local-g95-5b173d0687)
-- [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
+- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0172.md#local-g84-39571ccd9d)
+- [local:G95 — G95. An exact source with a positive signed global leading term](../records/0172.md#local-g95-5b173d0687)
+- [local:G98 — G98. Retaining Bc through the complete original return](../records/0172.md#local-g98-616457c461)
 - [local:N28 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0172.md#local-n28-ec942bb3b1)
 - [local:N28.D — N28.D — Δ_bM=M(bx)−b^αM(x), b2,3, fixedα∈(0,1)](../records/0172.md#local-n28-d-ba4cbf6f6f)
 - [local:T01 — T01. Quantitative fixed-factor division — PROVED](../records/0172.md#local-t01-b6a84d226c)
@@ -155,7 +159,7 @@ Page 4/4; 923 matching records.
 - [local:T09a — T09a. One fixed Möbius profile](../records/0172.md#local-t09a-c797fc5718)
 - [local:T09b — T09b. Compact-profile triple-convolution criterion](../records/0172.md#local-t09b-4ff2a69c3c)
 - [local:T10 — T10. Two-dilation and continuum-dilation Möbius criteria](../records/0172.md#local-t10-6e6d231190)
-- [pr26:Cycle25.Assembly.Continuation::zeta_of_hecke@1004 — zeta_of_hecke](../records/0193.md#pr26-cycle25-assembly-continuation-zeta-of-hecke-1004-2954ed040c)
+- [pr26:Cycle25.Assembly.Continuation::zeta_of_hecke@1004 — zeta_of_hecke](../records/0194.md#pr26-cycle25-assembly-continuation-zeta-of-hecke-1004-2954ed040c)
 - [pr26:Endpoint.GlobalRange::source_global_range@188 — source_global_range](../records/0204.md#pr26-endpoint-globalrange-source-global-range-188-29e63da9fc)
 - [pr26:Endpoint.GlobalRange::source_local_range@163 — source_local_range](../records/0204.md#pr26-endpoint-globalrange-source-local-range-163-b5673ab62b)
 - [pr26:Endpoint.GlobalRange::zeta@22 — zeta](../records/0204.md#pr26-endpoint-globalrange-zeta-22-079734e7cb)
@@ -164,8 +168,8 @@ Page 4/4; 923 matching records.
 - [pr26:Endpoint.Perturbation::source_old_kappa_gap@369 — source_old_kappa_gap](../records/0204.md#pr26-endpoint-perturbation-source-old-kappa-gap-369-212d57ce4e)
 - [pr26:Endpoint.Perturbation::source_piecewise_kappa_gap@428 — source_piecewise_kappa_gap](../records/0204.md#pr26-endpoint-perturbation-source-piecewise-kappa-gap-428-6da56dd8b3)
 - [pr26:Global.Endpoint::zeta_nonzero@500 — zeta_nonzero](../records/0204.md#pr26-global-endpoint-zeta-nonzero-500-c8f7b8a621)
-- [pr26:Global.Final.Endpoint::zeta_nonzero_of_raw_fullW_input@183 — zeta_nonzero_of_raw_fullW_input](../records/0204.md#pr26-global-final-endpoint-zeta-nonzero-of-raw-fullw-input-183-171cf56a38)
-- [pr26:Global.Final.Endpoint::zeta_nonzero_rational_of_raw_fullW_input@189 — zeta_nonzero_rational_of_raw_fullW_input](../records/0204.md#pr26-global-final-endpoint-zeta-nonzero-rational-of-raw-fullw-inp-c7bdc34d3f)
+- [pr26:Global.Final.Endpoint::zeta_nonzero_of_raw_fullW_input@183 — zeta_nonzero_of_raw_fullW_input](../records/0205.md#pr26-global-final-endpoint-zeta-nonzero-of-raw-fullw-input-183-171cf56a38)
+- [pr26:Global.Final.Endpoint::zeta_nonzero_rational_of_raw_fullW_input@189 — zeta_nonzero_rational_of_raw_fullW_input](../records/0205.md#pr26-global-final-endpoint-zeta-nonzero-rational-of-raw-fullw-inp-c7bdc34d3f)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::zeta_of_raw_moments@623 — zeta_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-zeta-of-r-6c2f15d61d)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands::zeta_of_certified@184 — zeta_of_certified](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycertifiedb-8c7705300a)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::zeta_of_chosen_moments@100 — zeta_of_chosen_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-2915062e24)

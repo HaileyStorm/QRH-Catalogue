@@ -2,7 +2,7 @@
 
 [Facet directory](formalization.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 15 matching records.
+Page 1/1; 24 matching records.
 
 - [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0171.md#local-g249-33b0a017f2)
 - [local:G250 — G250. Variation-priced complete root tail and stopped square-decoder price](../records/0171.md#local-g250-42c6fe6c04)
@@ -19,3 +19,12 @@ Page 1/1; 15 matching records.
 - [local:G261 — G261. Weighted staircase singular spectrum for exact cutoff interfaces](../records/0171.md#local-g261-ff910b57a4)
 - [local:G262 — G262. Compact tilted detector bank with explicit height price](../records/0171.md#local-g262-de5d15e3d2)
 - [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
+- [local:G271 — G271. Complete prime-correlation energy criterion and its exact strength](../records/0171.md#local-g271-5cb55113cc)
+- [local:G272 — G272. Integer-power Euler quotients preserve the weighted energy frontier](../records/0171.md#local-g272-81046b951d)
+- [local:G273 — G273. Finite zero-dual residual with the full principal boundary term](../records/0171.md#local-g273-a19b5d4302)
+- [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0171.md#local-g274-fbf5ea7910)
+- [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0171.md#local-g275-c56c1a0489)
+- [local:G276 — G276. Consecutive Mellin companions without a common zero](../records/0171.md#local-g276-4cb20dad30)
+- [local:G277 — G277. Prime-incidence gauge, residual charge and exact leaf energy fee](../records/0171.md#local-g277-351b226bb0)
+- [local:G278 — G278. Pointwise long-prime localization by finite-horizon absorption](../records/0171.md#local-g278-b3b29ad2d5)
+- [local:G279 — G279. Ordinary-character weighted approximation with full tail and height price](../records/0171.md#local-g279-e4f51ee2de)

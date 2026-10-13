@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 762 matching records.
+Page 3/4; 765 matching records.
 
 [Previous](method-certificate-03d66dd088-02.md)
 
@@ -247,6 +247,9 @@ Page 3/4; 762 matching records.
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
 - [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
+- [local:G273 — G273. Finite zero-dual residual with the full principal boundary term](../records/0171.md#local-g273-a19b5d4302)
+- [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0171.md#local-g275-c56c1a0489)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0171.md#local-g280-92c627efc9)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0171.md#local-g67-a2b717289d)
@@ -255,6 +258,3 @@ Page 3/4; 762 matching records.
 - [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0171.md#local-g74-c3716b767a)
 - [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0171.md#local-g76-089f3bed55)
 - [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0171.md#local-g80-5d9f92de8e)
-- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
-- [local:G92 — G92: exact defect expansion, collar prices and integer cancellation](../records/0171.md#local-g92-9948e6d6de)
-- [local:G94 — G94: actual state closure and the final observation matter](../records/0171.md#local-g94-65895f2546)

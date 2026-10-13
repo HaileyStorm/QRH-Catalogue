@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 2/5; 1024 matching records.
+Page 2/5; 1025 matching records.
 
 [Previous](method-gram-caa75103c5-01.md)
 

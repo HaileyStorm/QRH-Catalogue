@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 957 matching records.
+Page 1/4; 964 matching records.
 
 [Next](kind-lemma-249fdefbb6-02.md)
 

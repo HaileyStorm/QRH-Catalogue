@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 5/6; 1277 matching records.
+Page 5/6; 1280 matching records.
 
 [Previous](topic-gaussian-c7c5f1441e-04.md)
 
@@ -226,6 +226,9 @@ Page 5/6; 1277 matching records.
 - [local:G260 — G260. Complete fixed phase-average source and tail equivalence](../records/0171.md#local-g260-418dfb38b6)
 - [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
 - [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
+- [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0171.md#local-g274-fbf5ea7910)
+- [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0171.md#local-g275-c56c1a0489)
+- [local:G278 — G278. Pointwise long-prime localization by finite-horizon absorption](../records/0171.md#local-g278-b3b29ad2d5)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0171.md#local-g67-a2b717289d)
 - [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0171.md#local-g68-8d260df78f)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0171.md#local-g69-9bdd438ff0)
@@ -235,15 +238,15 @@ Page 5/6; 1277 matching records.
 - [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0171.md#local-g76-089f3bed55)
 - [local:G79 — G79. Exact drift and normalized Ward defects](../records/0171.md#local-g79-99600dfe1a)
 - [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0171.md#local-g81-99411dc86c)
-- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0171.md#local-g82-b0a5fbfc89)
-- [local:G83 — G83. Actual balanced completion at growing order](../records/0171.md#local-g83-8dd3bd523d)
-- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0171.md#local-g84-39571ccd9d)
-- [local:G85 — G85. Full-scale moment return without the baseline](../records/0171.md#local-g85-475c2b0586)
-- [local:G87 — G87: a fixed-order return from the literal G72 energy](../records/0171.md#local-g87-60466dd0f4)
-- [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0171.md#local-g88-d7d3c34f95)
-- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
-- [local:G93 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0171.md#local-g93-30c0d807f5)
-- [local:G94 — G94: actual state closure and the final observation matter](../records/0171.md#local-g94-65895f2546)
+- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0172.md#local-g82-b0a5fbfc89)
+- [local:G83 — G83. Actual balanced completion at growing order](../records/0172.md#local-g83-8dd3bd523d)
+- [local:G84 — G84. Exact moment and genuine paid sectors](../records/0172.md#local-g84-39571ccd9d)
+- [local:G85 — G85. Full-scale moment return without the baseline](../records/0172.md#local-g85-475c2b0586)
+- [local:G87 — G87: a fixed-order return from the literal G72 energy](../records/0172.md#local-g87-60466dd0f4)
+- [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0172.md#local-g88-d7d3c34f95)
+- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0172.md#local-g89-8fdc15013e)
+- [local:G93 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0172.md#local-g93-30c0d807f5)
+- [local:G94 — G94: actual state closure and the final observation matter](../records/0172.md#local-g94-65895f2546)
 - [local:T06 — T06. The complete same-core sextic square function](../records/0172.md#local-t06-df7fac52f7)
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
 - [pr26:Analytic.ActualAllocatedErrorUniform::actual_allocated_extracted_errors_uniform@243 — actual_allocated_extracted_errors_uniform](../records/0172.md#pr26-analytic-actualallocatederroruniform-actual-allocated-extrac-a22dfadf88)
@@ -255,6 +258,3 @@ Page 5/6; 1277 matching records.
 - [pr26:Analytic.JointErrorGaussian::refined_error_gaussian_from_bands@174 — refined_error_gaussian_from_bands](../records/0177.md#pr26-analytic-jointerrorgaussian-refined-error-gaussian-from-band-0caed91541)
 - [pr26:Analytic.JointFirstIndependentErrors::actual_first_independent_extracted_errors@93 — actual_first_independent_extracted_errors](../records/0179.md#pr26-analytic-jointfirstindependenterrors-actual-first-independen-00c2691e2c)
 - [pr26:Analytic.JointFirstIndependentErrorsFull::actual_first_independent_extracted_errors_full@447 — actual_first_independent_extracted_errors_full](../records/0179.md#pr26-analytic-jointfirstindependenterrorsfull-actual-first-indepe-773d600b42)
-- [pr26:Analytic.JointFirstRawErrors::actual_first_independent_raw_errors@104 — actual_first_independent_raw_errors](../records/0181.md#pr26-analytic-jointfirstrawerrors-actual-first-independent-raw-er-2afc50d3db)
-- [pr26:Analytic.JointFirstRawErrorsFull::actual_first_independent_raw_errors_full@1061 — actual_first_independent_raw_errors_full](../records/0181.md#pr26-analytic-jointfirstrawerrorsfull-actual-first-independent-ra-c3c1889067)
-- [pr26:Analytic.JointLocalErrorParameters::error_local_parameters@27 — error_local_parameters](../records/0184.md#pr26-analytic-jointlocalerrorparameters-error-local-parameters-27-06d94e4aca)

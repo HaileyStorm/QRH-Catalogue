@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1277 matching records.
+Page 1/6; 1280 matching records.
 
 [Next](topic-gaussian-c7c5f1441e-02.md)
 

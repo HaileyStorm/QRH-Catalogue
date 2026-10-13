@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 134 matching records.
+Page 1/1; 135 matching records.
 
 - [HIST-1159aa53fb059b75cebd — low_completed_rows_energy](../records/0004.md#hist-1159aa53fb059b75cebd-2c4636ff9e)
 - [HIST-1ce296dbc75ecd24df4f — original_completed_rows_energy](../records/0007.md#hist-1ce296dbc75ecd24df4f-a1f2e9a3b4)
@@ -130,6 +130,7 @@ Page 1/1; 134 matching records.
 - [local:G155 — \[private research revision\]: paid parts of the separated mixed moment (G155)](../records/0170.md#local-g155-78ae9ec0c1)
 - [local:G156 — G156. Complete diagonal and two off-diagonal sectors](../records/0170.md#local-g156-64de54fa5d)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0170.md#local-g192-c5383e05d4)
+- [local:G270 — G270. Finite puncture/subset/common-height adapter and exact finite-Euler zero preservation](../records/0171.md#local-g270-268eafe75d)
 - [local:T01 — T01. Quantitative fixed-factor division — PROVED](../records/0172.md#local-t01-b6a84d226c)
 - [local:T03 — T03. Cube-free physical-row lifting — PROVED, sharp operator threshold](../records/0172.md#local-t03-8adc165824)
 - [local:T04 — T04. Primitive interpolation and inverse-prime-square sector — PROVED RELATIVE TO INPUTS](../records/0172.md#local-t04-46f1e8a6c8)

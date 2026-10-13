@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 279 matching records.
+Page 2/2; 280 matching records.
 
 [Previous](topic-local-moment-1eca646453-01.md)
 
+- [pr26:Cycle25.Energy.Physical.OriginalFourth::certified_original_numerator_fourth@839 — certified_original_numerator_fourth](../records/0197.md#pr26-cycle25-energy-physical-originalfourth-certified-original-nu-9840100692)
 - [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::finite_physical_pair_positiveAt@73 — finite_physical_pair_positiveAt](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-finite-physical--b0b0885047)
 - [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::reflected_pair_norm_eq@150 — reflected_pair_norm_eq](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-reflected-pair-n-23f95290c1)
 - [pr26:Cycle25.Energy.Physical.PhysicalMomentInput::source_physical_slot_conj@134 — source_physical_slot_conj](../records/0197.md#pr26-cycle25-energy-physical-physicalmomentinput-source-physical--a398d56bec)
@@ -24,12 +25,12 @@ Page 2/2; 279 matching records.
 - [pr26:Cycle25.Numerator.PhysicalFront::source_real_profile_eq@726 — source_real_profile_eq](../records/0203.md#pr26-cycle25-numerator-physicalfront-source-real-profile-eq-726-0801403976)
 - [pr26:Global.HighData::HighData.toMomentData@72 — HighData.toMomentData](../records/0205.md#pr26-global-highdata-highdata-tomomentdata-72-bea29d0e66)
 - [pr26:Global.Numerator.ActiveFourth::certified_active_box_fourth@57 — certified_active_box_fourth](../records/0206.md#pr26-global-numerator-activefourth-certified-active-box-fourth-57-8421bdcf1e)
-- [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0213.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
-- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0213.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
-- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0213.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
-- [pr26:Physical.LocalCertifiedFourier::localReflectedFourierAt@542 — localReflectedFourierAt](../records/0213.md#pr26-physical-localcertifiedfourier-localreflectedfourierat-542-8ebbb586dc)
-- [pr26:Physical.LocalCertifiedFourier::localReflectedFourierAt_mono@564 — localReflectedFourierAt_mono](../records/0213.md#pr26-physical-localcertifiedfourier-localreflectedfourierat-mono--643cfc42db)
-- [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0213.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
+- [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0214.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
+- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0214.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
+- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0214.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
+- [pr26:Physical.LocalCertifiedFourier::localReflectedFourierAt@542 — localReflectedFourierAt](../records/0214.md#pr26-physical-localcertifiedfourier-localreflectedfourierat-542-8ebbb586dc)
+- [pr26:Physical.LocalCertifiedFourier::localReflectedFourierAt_mono@564 — localReflectedFourierAt_mono](../records/0214.md#pr26-physical-localcertifiedfourier-localreflectedfourierat-mono--643cfc42db)
+- [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0214.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
 - [pr26:Physical.LocalOriginalFourth::certified_transport_original_numerator_fourth@77 — certified_transport_original_numerator_fourth](../records/0214.md#pr26-physical-localoriginalfourth-certified-transport-original-nu-5fe864c6d8)
 - [pr26:Physical.LocalRetained::certified_transport_actual_retained_fourth@401 — certified_transport_actual_retained_fourth](../records/0214.md#pr26-physical-localretained-certified-transport-actual-retained-f-a3a7c1fa24)
 - [pr26:Physical.LocalRetainedFixed::certified_transport_retained_fixed_profile@314 — certified_transport_retained_fixed_profile](../records/0214.md#pr26-physical-localretainedfixed-certified-transport-retained-fix-f46ed35d0c)

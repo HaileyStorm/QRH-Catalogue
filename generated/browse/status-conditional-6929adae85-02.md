@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 2/3; 527 matching records.
+Page 2/3; 543 matching records.
 
 [Previous](status-conditional-6929adae85-01.md)
 

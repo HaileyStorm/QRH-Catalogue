@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 793 matching records.
+Page 4/4; 794 matching records.
 
 [Previous](topic-zero-free-f11185c371-03.md)
 
@@ -26,13 +26,14 @@ Page 4/4; 793 matching records.
 - [local:G238 — G238. Exact complex current norm and the complete averaged Abel return](../records/0171.md#local-g238-65f43ad06f)
 - [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0171.md#local-g242-d89bd23acd)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0171.md#local-g246-8dd56008a9)
+- [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0171.md#local-g283-bef435ea5c)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0171.md#local-g69-9bdd438ff0)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0171.md#local-g72-501fc8c07b)
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0171.md#local-g77-f75acc7bc5)
-- [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0171.md#local-g96-8db9d2be74)
-- [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0171.md#local-g97-7b0759357c)
-- [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
+- [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0172.md#local-g96-8db9d2be74)
+- [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0172.md#local-g97-7b0759357c)
+- [local:G98 — G98. Retaining Bc through the complete original return](../records/0172.md#local-g98-616457c461)
 - [local:N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](../records/0172.md#local-n29-3176a96c30)
 - [local:N29.L — N29.L — Log\[(s−1)ζ(s)\] under Cayley vs s′ξ′/ξ Taylor coefficients are derivative-related by explicit nonvanishing gamma factor](../records/0172.md#local-n29-l-2a6aa49b7d)
 - [local:T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](../records/0172.md#local-t05-39ebf3975e)
@@ -44,8 +45,8 @@ Page 4/4; 793 matching records.
 - [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0215.md#public-paper-liu-paper-1-e60f4435bd)
 - [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0215.md#public-paper-liu-paper-2-7a347a3bbf)
 - [review:T01 — \[private research revision\]-review:T01](../records/0215.md#review-t01-d60a8ef6a7)
-- [reviewed-claim:T09-compact-triple-L2 — \[private research revision\]-claim:T09-compact-triple-L2](../records/0215.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
-- [reviewed-claim:T09-fixed-Mobius-L2 — \[private research revision\]-claim:T09-fixed-Mobius-L2](../records/0215.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
+- [reviewed-claim:T09-compact-triple-L2 — \[private research revision\]-claim:T09-compact-triple-L2](../records/0216.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
+- [reviewed-claim:T09-fixed-Mobius-L2 — \[private research revision\]-claim:T09-fixed-Mobius-L2](../records/0216.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
 - [reviewed-claim:T10-continuum — \[private research revision\]-claim:T10-continuum](../records/0216.md#reviewed-claim-t10-continuum-69e758bd43)
 - [reviewed-claim:T10-two-dilations — \[private research revision\]-claim:T10-two-dilations](../records/0216.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
 - [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0216.md#upstream-pr26-93f630ed04)

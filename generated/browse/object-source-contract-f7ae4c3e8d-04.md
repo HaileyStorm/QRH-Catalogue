@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 783 matching records.
+Page 4/4; 784 matching records.
 
 [Previous](object-source-contract-f7ae4c3e8d-03.md)
 
@@ -33,9 +33,10 @@ Page 4/4; 783 matching records.
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0171.md#local-g214-3db1fe9e64)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0171.md#local-g215-a9fc13c4f5)
 - [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0171.md#local-g222-849aadba5c)
+- [local:G271 — G271. Complete prime-correlation energy criterion and its exact strength](../records/0171.md#local-g271-5cb55113cc)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
-- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0171.md#local-g86-10d609e713)
-- [local:G90 — G90: marked inverse amplification, weighted density and signed transport](../records/0171.md#local-g90-4636392cc1)
+- [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0172.md#local-g86-10d609e713)
+- [local:G90 — G90: marked inverse amplification, weighted density and signed transport](../records/0172.md#local-g90-4636392cc1)
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
 - [pr26:Global.Final.SourceContract::source_contract@337 — source_contract](../records/0205.md#pr26-global-final-sourcecontract-source-contract-337-632a2a50d2)
-- [reviewed-claim:A14-full-probe-certificate — \[private research revision\]-claim:A14-full-probe-certificate](../records/0215.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)
+- [reviewed-claim:A14-full-probe-certificate — \[private research revision\]-claim:A14-full-probe-certificate](../records/0216.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)

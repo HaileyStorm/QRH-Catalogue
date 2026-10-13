@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 4/5; 1024 matching records.
+Page 4/5; 1025 matching records.
 
 [Previous](method-gram-caa75103c5-03.md)
 
@@ -250,11 +250,11 @@ Page 4/5; 1024 matching records.
 - [local:G254 — G254. Fixed-annular weighted-height and pointwise polynomial bounds are equivalent](../records/0171.md#local-g254-52c97c1379)
 - [local:G255 — G255. Exact compensated covariance and normalized whole off-diagonal target](../records/0171.md#local-g255-5069bd79eb)
 - [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
+- [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0171.md#local-g274-fbf5ea7910)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G73 — \[private research revision\] attempt delta (G73)](../records/0171.md#local-g73-076e11ffdb)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0171.md#local-g75-1359afa204)
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0171.md#local-g77-f75acc7bc5)
 - [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0171.md#local-g80-5d9f92de8e)
 - [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0171.md#local-g81-99411dc86c)
-- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0171.md#local-g82-b0a5fbfc89)
-- [local:G95 — G95. An exact source with a positive signed global leading term](../records/0171.md#local-g95-5b173d0687)
+- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0172.md#local-g82-b0a5fbfc89)

@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 247 matching records.
+Page 1/1; 248 matching records.
 
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0135.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0135.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
@@ -250,4 +250,5 @@ Page 1/1; 247 matching records.
 - [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0170.md#local-g202-0d8b3cdd46)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G243 — G243. Repeated-prime renewal with its complete signed defect](../records/0171.md#local-g243-86a11b1ceb)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0171.md#local-g280-92c627efc9)
 - [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0171.md#local-g81-99411dc86c)

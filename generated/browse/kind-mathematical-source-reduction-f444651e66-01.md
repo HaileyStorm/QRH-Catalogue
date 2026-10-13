@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 15 matching records.
+Page 1/1; 24 matching records.
 
 - [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
 - [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
@@ -19,3 +19,12 @@ Page 1/1; 15 matching records.
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0171.md#local-g246-8dd56008a9)
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0171.md#local-g247-bd48e9ab10)
 - [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0171.md#local-g248-3d1e6b9334)
+- [local:G267 — G267. Fixed Gevrey order control and complete nonlinear polylogarithmic-cofactor localization](../records/0171.md#local-g267-1a516d3577)
+- [local:G268 — G268. Complete ordinary Laplace inverse core and paid moving selected-prime-square sector](../records/0171.md#local-g268-c189b52c95)
+- [local:G269 — G269. Exact overlapping Laplace-window synthesis and a one-sided arithmetic target](../records/0171.md#local-g269-9d63fa090a)
+- [local:G270 — G270. Finite puncture/subset/common-height adapter and exact finite-Euler zero preservation](../records/0171.md#local-g270-268eafe75d)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0171.md#local-g280-92c627efc9)
+- [local:G281 — G281. Complete exponential Green energy, exact finite-site readout and weighted-prefix return](../records/0171.md#local-g281-08e5b2df7d)
+- [local:G282 — G282. Conditional Mobius parity entropy, paid CRT discrepancy and character equivalence](../records/0171.md#local-g282-80ac2a35f5)
+- [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0171.md#local-g283-bef435ea5c)
+- [local:G284 — G284. Corrected squarefree prime generator, actual noncontraction and full cutoff commutator](../records/0171.md#local-g284-d3ce1347c0)
