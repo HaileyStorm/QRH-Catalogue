@@ -11,5 +11,5 @@
 - [source-asserted-proved (100)](status-source-asserted-proved-81e2f120ec-01.md)
 - [source-relative (633)](status-source-relative-30d7d7b72c-01.md)
 - [superseded (3)](status-superseded-444bd9c51d-01.md)
-- [unknown (6653)](status-unknown-b23a6a8439-01.md)
+- [unknown (10559)](status-unknown-b23a6a8439-01.md)
 - [unreviewed (10218)](status-unreviewed-4310028964-01.md)

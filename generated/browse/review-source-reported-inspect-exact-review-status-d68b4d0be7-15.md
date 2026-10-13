@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 15/54; 13349 matching records.
+Page 15/70; 17255 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-14.md)
 

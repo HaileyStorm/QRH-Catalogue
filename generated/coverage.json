@@ -30,6 +30,7 @@
     "failure_lesson": 3,
     "family": 29,
     "finite_model": 1,
+    "formal-component": 3905,
     "formal_source_abbrev": 32,
     "formal_source_def": 786,
     "formal_source_inductive": 1,
@@ -60,7 +61,7 @@
     "placeholder_targets": 1,
     "provenance_status": 1,
     "public-paper": 10,
-    "public-submission": 30,
+    "public-submission": 31,
     "research-child": 109,
     "result": 200,
     "result-review": 28,
@@ -81,7 +82,7 @@
     "theorem": 3049,
     "unchanged_entrypoint": 1
   },
-  "edges": 28458,
+  "edges": 39611,
   "evidence_class": "local deterministic navigation build; no theorem validation",
   "inputs": {
     "restricted-source:0004e89b7a8295e40fa806e8bc0574987affed7414c0998cb540db0a892c040f-21cebcd597fd": {
@@ -38620,8 +38621,8 @@
     ],
     "version": 1
   },
-  "records": 17608,
-  "records_sha256": "81a9741424e12137594931face40671493391f1a7689a7d4bb3639cc344cdea6",
+  "records": 21514,
+  "records_sha256": "064c3544b185b176be94c2f73ac9b04c5159c523422bee4437f2ca664db5107f",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }

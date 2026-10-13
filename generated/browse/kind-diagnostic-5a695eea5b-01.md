@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [P30-04 — Binding-cell diagnostic ledger](../records/0089.md#p30-04-ecc35ab199)
+- [P30-04 — Binding-cell diagnostic ledger](../records/0128.md#p30-04-ecc35ab199)

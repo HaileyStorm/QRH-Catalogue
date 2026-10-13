@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1173 matching records.
+Page 1/17; 4099 matching records.
 
 [Next](object-dirichlet-l-8dbc1c2928-02.md)
 

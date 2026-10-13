@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/12; 2816 matching records.
+Page 1/13; 3017 matching records.
 
 [Next](topic-spectral-a26ea51cb6-02.md)
 

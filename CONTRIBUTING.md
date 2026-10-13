@@ -2,7 +2,7 @@
 
 Browse the directory and search existing IDs before adding a component. Keep failed, withdrawn and dormant variants available; link corrections rather than deleting their history. Source occurrence identity and semantic equivalence have separate evidence requirements. Preserve coefficients, masks, natural zeros, exceptional terms, independent heights, input contracts and quantifier order.
 
-Fork the public repository, create a branch and submit a pull request with the changed mathematical records, public source/license pointers and evidence. Include the affected IDs, the exact argument or formal revision, unresolved prerequisites and the local validation result. New components belong in `components.jsonl`; maintained annotations and links belong in `annotations.json`. Rebuild with `python catalogue.py refresh --root .` and validate with the commands in README. Templates/fixtures are outside catalogue inputs. Do not supply contributor scripts as proof-review evidence or expect reviewers to execute them.
+External contributors: fork the public repository, create a branch and submit a pull request with the changed mathematical records, public source/license pointers and evidence. For Hailey's owner-directed maintenance, direct commits and ordinary pushes to `main` are authorized now and for future synchronization; no PR is required. Apply the same evidence, review and local validation requirements, and never force-push. Include the affected IDs, the exact argument or formal revision, unresolved prerequisites and the local validation result. New components belong in `components.jsonl`; maintained annotations and links belong in `annotations.json`. Rebuild with `python catalogue.py refresh --root .` and validate with the commands in README. Templates/fixtures are outside catalogue inputs. Do not supply contributor scripts as proof-review evidence or expect reviewers to execute them.
 
 Use local workers for validation/review. Do not add active `.github/workflows` runner jobs or any GitHub Actions/self-hosted-runner orchestration. GitHub repository/PR APIs and the local watcher/CLI suffice. Preserve legitimate upstream CI evidence links without treating them as authority to run hosted jobs here.
 
@@ -10,7 +10,7 @@ Formal contributions must identify exact public repository/ref/path, fully quali
 
 Link catalogue entries in papers and submissions using their stable IDs and exact catalogue commit/tag-pinned permalinks. Keep original-paper attribution. Add reciprocal public paper/submission and use links only when a public version and exact section/theorem/declaration support them. Record mere mention, documented use and claimed-but-unverified use separately; a catalogue link is not proof verification.
 
-Check for upstream updates regularly before starting work and before submitting a pull request:
+Check for upstream updates before starting work and before publishing a direct update or pull request:
 
 ```powershell
 git status --short
