@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 717 matching records.
+Page 3/3; 719 matching records.
 
 [Previous](topic-source-foundation-3458a343db-02.md)
 
@@ -219,7 +219,9 @@ Page 3/3; 717 matching records.
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
 - [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0171.md#local-g233-09e1889112)
 - [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0171.md#local-g234-581cbca944)
+- [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0171.md#local-g244-a12ada8918)
+- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0171.md#local-g248-3d1e6b9334)
 - [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0171.md#local-g86-10d609e713)
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
-- [local:T09 — T09. Scale-\\(L^2\\) direct detectors](../records/0171.md#local-t09-f8fbf5053e)
+- [local:T09 — T09. Scale-\\(L^2\\) direct detectors](../records/0172.md#local-t09-f8fbf5053e)
 - [pr26:Cycle25.Energy.ReflectionRetainedLength::positive_slot_width_drop@463 — positive_slot_width_drop](../records/0198.md#pr26-cycle25-energy-reflectionretainedlength-positive-slot-width--a92f8b0bde)

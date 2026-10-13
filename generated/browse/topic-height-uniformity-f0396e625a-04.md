@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 804 matching records.
+Page 4/4; 809 matching records.
 
 [Previous](topic-height-uniformity-f0396e625a-03.md)
 
@@ -43,20 +43,25 @@ Page 4/4; 804 matching records.
 - [local:G223 — G223. Critical small-prime payment with its exact margin debit](../records/0171.md#local-g223-f33ce0dc37)
 - [local:G224 — G224. Exact chirp and paired-character audits, with reconstruction paid](../records/0171.md#local-g224-98c6aaf7a2)
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0171.md#local-g226-c84df8fcc4)
+- [local:G243 — G243. Repeated-prime renewal with its complete signed defect](../records/0171.md#local-g243-86a11b1ceb)
+- [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0171.md#local-g244-a12ada8918)
+- [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0171.md#local-g245-5bef916afc)
+- [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0171.md#local-g247-bd48e9ab10)
+- [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0171.md#local-g75-1359afa204)
 - [local:G87 — G87: a fixed-order return from the literal G72 energy](../records/0171.md#local-g87-60466dd0f4)
 - [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
 - [local:G94 — G94: actual state closure and the final observation matter](../records/0171.md#local-g94-65895f2546)
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
-- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0171.md#local-t07-90600e73b5)
-- [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0171.md#local-t08-2d79a03ea8)
-- [pr15:AllHeightDensity::all_height_density_of_bounded_height — all_height_density_of_bounded_height](../records/0171.md#pr15-allheightdensity-all-height-density-of-bounded-height-7e75bbac12)
-- [pr15:AllHeightDensity::eventually_all_height_density_of_bounded_height — eventually_all_height_density_of_bounded_height](../records/0171.md#pr15-allheightdensity-eventually-all-height-density-of-bounded-he-4b68a16f6a)
-- [pr26:Analytic.JointFirstAnalyticalEstimate::actual_local_natural_moment_all_heights@412 — actual_local_natural_moment_all_heights](../records/0177.md#pr26-analytic-jointfirstanalyticalestimate-actual-local-natural-m-f5944ce7a3)
-- [pr26:Analytic.JointFirstAnalyticalEstimateExplicitMesh::actual_local_natural_moment_all_heights_explicit_mesh@509 — actual_local_natural_moment_all_heights_explicit_mesh](../records/0177.md#pr26-analytic-jointfirstanalyticalestimateexplicitmesh-actual-loc-de96d79c57)
-- [pr26:Analytic.JointFirstAnalyticalEstimateExplicitMesh::actual_local_natural_moment_all_heights_uniform_mesh@562 — actual_local_natural_moment_all_heights_uniform_mesh](../records/0177.md#pr26-analytic-jointfirstanalyticalestimateexplicitmesh-actual-loc-5424e8f4ed)
+- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
+- [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0172.md#local-t08-2d79a03ea8)
+- [pr15:AllHeightDensity::all_height_density_of_bounded_height — all_height_density_of_bounded_height](../records/0172.md#pr15-allheightdensity-all-height-density-of-bounded-height-7e75bbac12)
+- [pr15:AllHeightDensity::eventually_all_height_density_of_bounded_height — eventually_all_height_density_of_bounded_height](../records/0172.md#pr15-allheightdensity-eventually-all-height-density-of-bounded-he-4b68a16f6a)
+- [pr26:Analytic.JointFirstAnalyticalEstimate::actual_local_natural_moment_all_heights@412 — actual_local_natural_moment_all_heights](../records/0178.md#pr26-analytic-jointfirstanalyticalestimate-actual-local-natural-m-f5944ce7a3)
+- [pr26:Analytic.JointFirstAnalyticalEstimateExplicitMesh::actual_local_natural_moment_all_heights_explicit_mesh@509 — actual_local_natural_moment_all_heights_explicit_mesh](../records/0178.md#pr26-analytic-jointfirstanalyticalestimateexplicitmesh-actual-loc-de96d79c57)
+- [pr26:Analytic.JointFirstAnalyticalEstimateExplicitMesh::actual_local_natural_moment_all_heights_uniform_mesh@562 — actual_local_natural_moment_all_heights_uniform_mesh](../records/0178.md#pr26-analytic-jointfirstanalyticalestimateexplicitmesh-actual-loc-5424e8f4ed)
 - [pr26:Analytic.JointFirstHeightExtension::all_height_bound_of_local_and_coarse@46 — all_height_bound_of_local_and_coarse](../records/0179.md#pr26-analytic-jointfirstheightextension-all-height-bound-of-local-bd6e0ff8a5)
 - [pr26:Analytic.JointIndependentUniform::independent_height_factor@318 — independent_height_factor](../records/0184.md#pr26-analytic-jointindependentuniform-independent-height-factor-3-2f7c8949e0)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::zero_at_independent_heights@453 — zero_at_independent_heights](../records/0214.md#pr26-zetazerofree-analytic-moments-exceptional-zero-at-independen-09b90a48fc)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_large@679 — ray_prime_all_height_large](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-52e25e7eaf)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_squared@763 — ray_prime_all_height_squared](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-32244da39c)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_large@679 — ray_prime_all_height_large](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-52e25e7eaf)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_squared@763 — ray_prime_all_height_squared](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-32244da39c)

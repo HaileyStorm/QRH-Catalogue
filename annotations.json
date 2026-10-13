@@ -171,6 +171,32 @@
           }
         ]
       }
+    },
+    "local:G234": {
+      "unresolved_prerequisites": {
+        "value": [
+          "Complete transformed weighted high ordinary G_K source family after both exact signed transforms, with every actual supported live product and complete projector/filter/height costs.",
+          "Separate first/second/artificial-zero, bounded-window and high-main fixed-inducing pieces under original masks and complete centered rectangles; the M=1 retained error and its own fixed-inducing remainder are discharged by G236 under its finite-table and pinned-source hypotheses.",
+          "Fresh admissible source instances and FirstTail(4e) when geometry/gap changes; an old chosen instance is not automatically reusable.",
+          "Complete endpoint, positive-slot and external-admission obligations; scalar positivity is not a proof of them."
+        ],
+        "evidence": {
+          "basis": "reviewed-source-relative-error-admission",
+          "component_id": "local:G236",
+          "source_sha256": "5194a4dfb371c4ae5624c9b5129943fa6619cc7fe95098edcb95b429968bacb0",
+          "proof_sha256": "2b03bf87bc6f894ad078e59c982d75eeb537a56b8b038a165e80216d6050caf9",
+          "review_sha256": "499aa37c931e5971138609dbe8f8d0e2ba396d191cc3dde9147e8a39449a244f",
+          "qualification": "Only the complete M=1 normalized-error obligation and its own fixed-inducing error piece are discharged. Historical source bytes and statements remain; other M,main,zero,endpoint and external-admission obligations are not inferred. This annotation does not alter the old-affine obstruction formula."
+        }
+      },
+      "statement": {
+        "value": "Set K=K6=1124583/250000. For delta in[0.68,0.70], rho=1-10delta/[3(5-2delta)], k=rho+delta-1, D_K=15K-10-6Kdelta, a_K=delta(5-6delta)^2/[3(5-2delta)D_K], b_K=2delta(5-6delta)(K-1)/D_K, and G_K(W,z)=min(3kz,a_K W+b_K z).\nRetain the original canonical witness lines P_K(m)=1-2delta m+delta[v-(1-2m)/K]_+, I(r)=1-delta r+delta[v-(1-r)/2]_+ for r<=1, and L(r)=1/6+(5/6-delta)r+delta v for r>=1. The same zero/presentation, r+m>=t in[1,3/2], m<=1/2 and v=z/W remain. Balancing fully marked and partially marked branches gives the displayed minimum, while old unmarked fallbacks pay tolerated small endpoint errors. This witness optimization is algebra, not a complete transformed weighted-source theorem.\nAt delta=0.68, aq=89930000/66751546407, bq=683923906/6112778975, B=19131626842271833/19342954694500000, Lambda=155270174886/38685909389. Keep 600 original cells of width 1/100000 on[0.034,0.04]. At upper/lower endpoints u_j,l_j, freeze g_j=B-1+(9/2-Lambda)u_j, amp_j=(34/21)g_j+1/400000, A_j=B-(Lambda-1)l_j. The amplifier belongs to its original cell and is not reset after shortening. The retained correlated-cell scalar menu passes: low reserve 7/30000000 and new-high reserve 7505714949231936682453/3310697789585680147850000000>0. The retained derivative test covers the full delta interval; extracted-error, second-zero, first-inverse, support and V-22z margins remain.\nThe complete valuation price E1<=-Hval(delta)c_s-E uses Hval=min(delta+1-4rho,delta-(6+27rho)/37), retains both residues, removes positive multiplicities by six and does not assume squarefree plain variables. G_K is concave in z and zero at z=0, so its chord gives the retained-width lower bound. With W>=M-6a-c_s, changing W costs at most aq c_s and preserves the full -6a amplification cost, only if the actual live-list G_K source estimate is supplied.\nKeep c11=312864909/2500000000, h=0.795383, t0=0.00104, Nplain=0.4222, zsafe=0.03724. The recomputed 22/6/1 closed covers have 348 positive Bernstein coefficients; new-row minimum 45813542734199051634582673952441/87884571424077595735045963776000000000000 is positive for the certificate with requested saving 1e-10. The source reports 40 scalar gates passing, including weighted Euler shifts, principal/tail costs and feedback from the actual supremum. The independent reviewer reconstructs the binding K6/c11 cell by rational interpolation; it does not duplicate the entire inherited coefficient computation.\nThe old original-source cone fails at n1=n2=627189454/1491343125 and z=7423176895563297123089/201352804925647419000000, with excess509341971983370185661949/481937938589537097376500000>0. This fixed domain defect survives arbitrary mesh refinement. Numerical sufficiency does not establish changed-source admission.\nThe missing theorem may be restricted to M=1, fixed admissible WeightedSourceData F, real slot power 33/50, original live windows, the K6 cone and the changed original-cell amplifier. It must pay the complete weighted high ordinary main family after both signed transforms with G_K on every actual canonical live product; all supported allocation/fiber, original full-zero filter, complete second projector, dictionary/anchor bridge, natural puncture, orientation and independent heights remain. It must pay the complete normalized error family with original radical-capped witness and retained contraction:56/#P occurs once; for L2=3(Nslot+2), the intended normalized exponent is(7+3L2)delta-7/60000000, followed by one ratio conversion adding delta and final target<=-7/120000000. The old schedule supplies that target only after changed admission and source caps are proved. All first/second/artificial-zero, bounded-window and fixed-inducing pieces retain original masks and complete centered rectangles.\nIf geometry or gap changes, construct fresh admissible slots and F: meshes before finite N, then e after the positive minimum width, and re-establish FirstTail(4e). Reusing a generic theorem does not validate an old chosen-data instance for a new gap; the common decrement is fixed before the later target zero. Thus K6 is numerically sufficient for the existing conditional source-relative c11 return, not a proved endpoint or a higher constant. Current status: local:G236 discharges the complete M=1 normalized-error family and its own fixed-inducing error remainder under its pinned-source/finite-table hypotheses; other main/zero/endpoint obligations remain. The historical positive defect is specifically 2m+L6*z-B6 with B6=14200/14361-1/100000 and L6=19312/4787. It is not the different plain-cone quantity 2m+K6*z-1. The original defect value and source proof are unchanged.",
+        "evidence": {
+          "basis": "exact-original-checker-and-independent-source-intake",
+          "source_sha256": "b83584f6a585165e066b09aed9c510e9aabdf0e8e95ee3c3f59ce0b5995b98eb",
+          "qualification": "Clarifies two distinct cone definitions and current error admission; no arithmetic correction or endpoint promotion."
+        }
+      }
     }
   },
   "relations": [
@@ -121874,6 +121900,164 @@
       "kind": "depends_on",
       "source": "local:G234",
       "target": "local:G233"
+    },
+    {
+      "evidence": {
+        "basis": "literal-original-source-and-parameter-scope",
+        "locator": "Exact source and conclusion; Proof of the rapid error",
+        "qualification": "G235 localizes the precise ordered residual defined by G231 and preserves its complete source-equivalence scope; no endpoint estimate is inferred.",
+        "source_sha256": "a89d6104eceeae0bea1d36f7487df2c29ad073c88366891becdb4a59de050647"
+      },
+      "kind": "depends_on",
+      "source": "local:G235",
+      "target": "local:G231"
+    },
+    {
+      "evidence": {
+        "basis": "explicit-periodic-cofactor-method-comparison",
+        "locator": "Ancestry and exact Lean use",
+        "qualification": "Earlier complete mean-zero method; G235 reconstructs the rapid integer-row proof. No direct theorem application or semantic equivalence is claimed.",
+        "source_sha256": "a89d6104eceeae0bea1d36f7487df2c29ad073c88366891becdb4a59de050647"
+      },
+      "kind": "related",
+      "source": "local:G235",
+      "target": "local:G191"
+    },
+    {
+      "evidence": {
+        "basis": "explicit-shared-countermodel-and-distinct-complete-source-returns",
+        "qualification": "The balanced-cell countermodel also obstructs free current-cost payment; no equivalence of the two open source estimates or conditional endpoints is asserted.",
+        "source_sha256": "b7ced43682aee9bdcb05a9ce6b7ddbe1b26c2fe2b1bbed5bcc2373dc0a626535"
+      },
+      "kind": "related",
+      "source": "local:G238",
+      "target": "local:G237"
+    },
+    {
+      "source": "local:G249",
+      "target": "local:G152",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G249",
+        "qualification": "Earlier exact Mobius convolution source; changed kernel needs this complete comparison."
+      }
+    },
+    {
+      "source": "local:G250",
+      "target": "local:G178",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G250",
+        "qualification": "Inherited coefficient, prefix/tail and Mellin contracts."
+      }
+    },
+    {
+      "source": "local:G251",
+      "target": "local:G152",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G251",
+        "qualification": "Different Mobius convolution source retained with its own return."
+      }
+    },
+    {
+      "source": "local:G252",
+      "target": "local:G176",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G252",
+        "qualification": "Same literal compensated coefficients; cubic-feedback estimate is separate."
+      }
+    },
+    {
+      "source": "local:G253",
+      "target": "local:G252",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G253",
+        "qualification": "Uses exact inverse norm and prime-ray operators."
+      }
+    },
+    {
+      "source": "local:G255",
+      "target": "local:G178",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G255",
+        "qualification": "Improves its compensated O(Y) bound to exact fixed-bank covariance; base square-counting argument inherited."
+      }
+    },
+    {
+      "source": "local:G256",
+      "target": "local:G255",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G256",
+        "qualification": "Uses exact fixed-bank covariance and normalized metric."
+      }
+    },
+    {
+      "source": "local:G257",
+      "target": "local:G71",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G257",
+        "qualification": "Earlier comparison obstruction; distinct Gaussian/growing-agreement contract."
+      }
+    },
+    {
+      "source": "local:G259",
+      "target": "local:G144",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G259",
+        "qualification": "Existing squarefree complex and prime-toggle identity."
+      }
+    },
+    {
+      "source": "local:G260",
+      "target": "local:G139",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G260",
+        "qualification": "Complete detector return and no transferred profile estimate."
+      }
+    },
+    {
+      "source": "local:G261",
+      "target": "local:G121",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G261",
+        "qualification": "Refines its threshold operator floor to full singular spectrum."
+      }
+    },
+    {
+      "source": "local:G262",
+      "target": "local:G139",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G262",
+        "qualification": "Existing detector-bank source architecture."
+      }
+    },
+    {
+      "source": "local:G263",
+      "target": "local:G143",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G263",
+        "qualification": "Terminal-divisor dual-price ancestry."
+      }
+    },
+    {
+      "source": "local:G254",
+      "target": "pr26:Analytic.JointIndependentMoment::actual_local_independent_plain_moment@37",
+      "kind": "related",
+      "evidence": {
+        "source_record": "local:G254",
+        "qualification": "Restricted annular source contract inspected; not a formalization/use assertion."
+      }
     }
   ],
   "schema_version": 1

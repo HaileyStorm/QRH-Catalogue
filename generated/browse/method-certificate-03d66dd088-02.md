@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 761 matching records.
+Page 2/4; 762 matching records.
 
 [Previous](method-certificate-03d66dd088-01.md)
 

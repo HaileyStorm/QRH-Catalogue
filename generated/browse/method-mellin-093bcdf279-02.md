@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 2/5; 1048 matching records.
+Page 2/5; 1059 matching records.
 
 [Previous](method-mellin-093bcdf279-01.md)
 

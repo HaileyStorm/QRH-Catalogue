@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10559 matching records.
+Page 39/43; 10564 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
@@ -187,6 +187,11 @@ Page 39/43; 10559 matching records.
 - [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0171.md#local-g225-8fc7b83906)
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0171.md#local-g227-4fd8db96d9)
 - [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0171.md#local-g229-8b209e3b2b)
+- [local:G253 — G253. Gaussian density with local laws preserves ambient inverse sharpness](../records/0171.md#local-g253-8f2fb2f1d9)
+- [local:G257 — G257. Growing-small-prime-agreement Gaussian comparison obstruction](../records/0171.md#local-g257-075930ee19)
+- [local:G259 — G259. Interior relative-complex counterexample to thin endpoint support](../records/0171.md#local-g259-5589dc90a5)
+- [local:G261 — G261. Weighted staircase singular spectrum for exact cutoff interfaces](../records/0171.md#local-g261-ff910b57a4)
+- [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)
@@ -225,11 +230,11 @@ Page 39/43; 10559 matching records.
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
 - [local:G99 — G99. A separate canonical partial marked-plain theorem](../records/0171.md#local-g99-9f566a035c)
 - [local:N27 — N27. Two-exponent finite-divisor incidence](../records/0171.md#local-n27-a6764ed466)
-- [local:N28 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0171.md#local-n28-ec942bb3b1)
-- [local:N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](../records/0171.md#local-n29-3176a96c30)
-- [local:T09a — T09a. One fixed Möbius profile](../records/0171.md#local-t09a-c797fc5718)
-- [local:T09b — T09b. Compact-profile triple-convolution criterion](../records/0171.md#local-t09b-4ff2a69c3c)
-- [pr15:AllHeightDensity — pr15:AllHeightDensity](../records/0171.md#pr15-allheightdensity-74192e59d8)
+- [local:N28 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0172.md#local-n28-ec942bb3b1)
+- [local:N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](../records/0172.md#local-n29-3176a96c30)
+- [local:T09a — T09a. One fixed Möbius profile](../records/0172.md#local-t09a-c797fc5718)
+- [local:T09b — T09b. Compact-profile triple-convolution criterion](../records/0172.md#local-t09b-4ff2a69c3c)
+- [pr15:AllHeightDensity — pr15:AllHeightDensity](../records/0172.md#pr15-allheightdensity-74192e59d8)
 - [pr26:Analytic.ActualAllocatedErrorUniform — Analytic.ActualAllocatedErrorUniform](../records/0172.md#pr26-analytic-actualallocatederroruniform-61f18a366e)
 - [pr26:Analytic.ActualAllocatedErrorUniformFull — Analytic.ActualAllocatedErrorUniformFull](../records/0172.md#pr26-analytic-actualallocatederroruniformfull-deb92dd92a)
 - [pr26:Analytic.ActualAllocatedErrors — Analytic.ActualAllocatedErrors](../records/0172.md#pr26-analytic-actualallocatederrors-73f489e593)
@@ -253,8 +258,3 @@ Page 39/43; 10559 matching records.
 - [pr26:Analytic.ActualFreeDensity — Analytic.ActualFreeDensity](../records/0172.md#pr26-analytic-actualfreedensity-0cd70401dd)
 - [pr26:Analytic.ActualGlobalRemoval — Analytic.ActualGlobalRemoval](../records/0172.md#pr26-analytic-actualglobalremoval-5f75bc7e72)
 - [pr26:Analytic.ActualIncumbent — Analytic.ActualIncumbent](../records/0172.md#pr26-analytic-actualincumbent-966c77c9d4)
-- [pr26:Analytic.ActualJointRow — Analytic.ActualJointRow](../records/0172.md#pr26-analytic-actualjointrow-fbf345107e)
-- [pr26:Analytic.ActualNaturalRows — Analytic.ActualNaturalRows](../records/0172.md#pr26-analytic-actualnaturalrows-5e1571f3de)
-- [pr26:Analytic.ActualRawDensity — Analytic.ActualRawDensity](../records/0172.md#pr26-analytic-actualrawdensity-6f1fa8a74f)
-- [pr26:Analytic.ActualRawDensity::actual_momentData_density@261 — actual_momentData_density](../records/0172.md#pr26-analytic-actualrawdensity-actual-momentdata-density-261-b3e93cb039)
-- [pr26:Analytic.ActualSourceRow — Analytic.ActualSourceRow](../records/0172.md#pr26-analytic-actualsourcerow-a6c9fa84c0)

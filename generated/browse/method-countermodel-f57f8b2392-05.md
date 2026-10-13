@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1094 matching records.
+Page 5/5; 1102 matching records.
 
 [Previous](method-countermodel-f57f8b2392-04.md)
 
@@ -78,6 +78,14 @@ Page 5/5; 1094 matching records.
 - [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0171.md#local-g225-8fc7b83906)
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0171.md#local-g226-c84df8fcc4)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
+- [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0171.md#local-g237-a65c76e5f8)
+- [local:G238 — G238. Exact complex current norm and the complete averaged Abel return](../records/0171.md#local-g238-65f43ad06f)
+- [local:G239 — G239. Weighted nonbacktracking elimination with complete source return](../records/0171.md#local-g239-007917d7db)
+- [local:G241 — G241. A complete weighted Pick criterion for an ordinary reciprocal](../records/0171.md#local-g241-fea844ec1c)
+- [local:G257 — G257. Growing-small-prime-agreement Gaussian comparison obstruction](../records/0171.md#local-g257-075930ee19)
+- [local:G259 — G259. Interior relative-complex counterexample to thin endpoint support](../records/0171.md#local-g259-5589dc90a5)
+- [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
+- [local:G265 — G265. Fractional Riesz recovery with sharp generic bounded-coefficient loss](../records/0171.md#local-g265-27767aba13)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)
@@ -93,8 +101,8 @@ Page 5/5; 1094 matching records.
 - [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0171.md#local-g88-d7d3c34f95)
 - [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
 - [local:G93 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0171.md#local-g93-30c0d807f5)
-- [local:T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](../records/0171.md#local-t05-39ebf3975e)
-- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0171.md#local-t07-90600e73b5)
+- [local:T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](../records/0172.md#local-t05-39ebf3975e)
+- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
 - [review:A07 — \[private research revision\]-review:A07](../records/0215.md#review-a07-bafad32bbe)
 - [review:A10 — \[private research revision\]-review:A10](../records/0215.md#review-a10-0e99a8e28a)
 - [review:A13 — \[private research revision\]-review:A13](../records/0215.md#review-a13-381097af30)

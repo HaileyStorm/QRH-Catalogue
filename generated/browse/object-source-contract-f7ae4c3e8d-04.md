@@ -36,6 +36,6 @@ Page 4/4; 783 matching records.
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0171.md#local-g86-10d609e713)
 - [local:G90 — G90: marked inverse amplification, weighted density and signed transport](../records/0171.md#local-g90-4636392cc1)
-- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0171.md#local-t07-90600e73b5)
-- [pr26:Global.Final.SourceContract::source_contract@337 — source_contract](../records/0204.md#pr26-global-final-sourcecontract-source-contract-337-632a2a50d2)
+- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
+- [pr26:Global.Final.SourceContract::source_contract@337 — source_contract](../records/0205.md#pr26-global-final-sourcecontract-source-contract-337-632a2a50d2)
 - [reviewed-claim:A14-full-probe-certificate — \[private research revision\]-claim:A14-full-probe-certificate](../records/0215.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)

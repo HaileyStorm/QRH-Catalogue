@@ -2,10 +2,16 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1018 matching records.
+Page 5/5; 1024 matching records.
 
 [Previous](method-gram-caa75103c5-04.md)
 
+- [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0171.md#local-g97-7b0759357c)
+- [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
+- [local:T06 — T06. The complete same-core sextic square function](../records/0172.md#local-t06-df7fac52f7)
+- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
+- [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0172.md#local-t08-2d79a03ea8)
+- [pr26:Cycle25.Assembly.Parameters::gram_domination@213 — gram_domination](../records/0195.md#pr26-cycle25-assembly-parameters-gram-domination-213-a99b058c13)
 - [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0202.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
 - [pr26:Global.Low.Detector.LowGramScale — Global.Low.Detector.LowGramScale](../records/0205.md#pr26-global-low-detector-lowgramscale-7dc6d62852)
 - [pr26:Global.Low.Detector.LowGramScale::compensated_gram_ratio@155 — compensated_gram_ratio](../records/0205.md#pr26-global-low-detector-lowgramscale-compensated-gram-ratio-155-6fa6f0f90a)
@@ -16,8 +22,8 @@ Page 5/5; 1018 matching records.
 - [pr26:Global.Low.Detector.LowSourceScales::lowGramFactor_source_bound@95 — lowGramFactor_source_bound](../records/0205.md#pr26-global-low-detector-lowsourcescales-lowgramfactor-source-bou-0da73d1902)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_scale@61 — source_compensated_gram_scale](../records/0205.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--963154156f)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_sqrt@85 — source_compensated_gram_sqrt](../records/0205.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--51842670ba)
-- [pr26:Global.Low.Geometry::gram_power@132 — gram_power](../records/0205.md#pr26-global-low-geometry-gram-power-132-416fb2a373)
-- [pr26:Global.Low.Geometry::gram_sqrt_power@138 — gram_sqrt_power](../records/0205.md#pr26-global-low-geometry-gram-sqrt-power-138-08ada9d7a3)
+- [pr26:Global.Low.Geometry::gram_power@132 — gram_power](../records/0206.md#pr26-global-low-geometry-gram-power-132-416fb2a373)
+- [pr26:Global.Low.Geometry::gram_sqrt_power@138 — gram_sqrt_power](../records/0206.md#pr26-global-low-geometry-gram-sqrt-power-138-08ada9d7a3)
 - [pr26:Global.Parameters::gram_domination@510 — gram_domination](../records/0207.md#pr26-global-parameters-gram-domination-510-74771c1b29)
 - [review:A04 — \[private research revision\]-review:A04](../records/0215.md#review-a04-14ba599cdd)
 - [review:T06 — \[private research revision\]-review:T06](../records/0215.md#review-t06-2f9f1fb3c7)

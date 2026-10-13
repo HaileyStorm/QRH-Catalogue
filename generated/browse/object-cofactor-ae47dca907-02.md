@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 377 matching records.
+Page 2/2; 381 matching records.
 
 [Previous](object-cofactor-ae47dca907-01.md)
 
@@ -133,3 +133,7 @@ Page 2/2; 377 matching records.
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0171.md#local-g227-4fd8db96d9)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0171.md#local-g229-8b209e3b2b)
+- [local:G235 — G235. Arbitrary-power short-cofactor localization of the complete nonlinear signed source](../records/0171.md#local-g235-73d71ef355)
+- [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0171.md#local-g245-5bef916afc)
+- [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0171.md#local-g247-bd48e9ab10)
+- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0171.md#local-g249-33b0a017f2)

@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 4/5; 1018 matching records.
+Page 4/5; 1024 matching records.
 
 [Previous](method-gram-caa75103c5-03.md)
 
@@ -244,6 +244,12 @@ Page 4/5; 1018 matching records.
 - [local:G221 — G221. The user's quaternion identity on the actual Jordan source](../records/0171.md#local-g221-56d05db393)
 - [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0171.md#local-g225-8fc7b83906)
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0171.md#local-g226-c84df8fcc4)
+- [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0171.md#local-g242-d89bd23acd)
+- [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0171.md#local-g244-a12ada8918)
+- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0171.md#local-g248-3d1e6b9334)
+- [local:G254 — G254. Fixed-annular weighted-height and pointwise polynomial bounds are equivalent](../records/0171.md#local-g254-52c97c1379)
+- [local:G255 — G255. Exact compensated covariance and normalized whole off-diagonal target](../records/0171.md#local-g255-5069bd79eb)
+- [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G73 — \[private research revision\] attempt delta (G73)](../records/0171.md#local-g73-076e11ffdb)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0171.md#local-g75-1359afa204)
@@ -252,9 +258,3 @@ Page 4/5; 1018 matching records.
 - [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0171.md#local-g81-99411dc86c)
 - [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0171.md#local-g82-b0a5fbfc89)
 - [local:G95 — G95. An exact source with a positive signed global leading term](../records/0171.md#local-g95-5b173d0687)
-- [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0171.md#local-g97-7b0759357c)
-- [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
-- [local:T06 — T06. The complete same-core sextic square function](../records/0171.md#local-t06-df7fac52f7)
-- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0171.md#local-t07-90600e73b5)
-- [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0171.md#local-t08-2d79a03ea8)
-- [pr26:Cycle25.Assembly.Parameters::gram_domination@213 — gram_domination](../records/0195.md#pr26-cycle25-assembly-parameters-gram-domination-213-a99b058c13)

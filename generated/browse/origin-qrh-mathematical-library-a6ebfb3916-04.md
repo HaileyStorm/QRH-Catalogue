@@ -2,7 +2,7 @@
 
 [Facet directory](origin.md) · [All facets](../DIRECTORY.md)
 
-Page 4/15; 3694 matching records.
+Page 4/15; 3710 matching records.
 
 [Previous](origin-qrh-mathematical-library-a6ebfb3916-03.md)
 

@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1094 matching records.
+Page 1/5; 1102 matching records.
 
 [Next](method-countermodel-f57f8b2392-02.md)
 

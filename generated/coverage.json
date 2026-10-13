@@ -43,13 +43,16 @@
     "identity": 6,
     "inherited_formula": 1,
     "instance": 5,
-    "lemma": 940,
+    "lemma": 957,
     "manuscript_lemma": 26,
     "manuscript_proposition": 12,
     "manuscript_remark": 1,
     "manuscript_section": 476,
     "manuscript_theorem": 3,
-    "mathematical-source-reduction": 4,
+    "mathematical-identity-and-conditional-return": 1,
+    "mathematical-identity-and-obstruction": 1,
+    "mathematical-source-admission": 1,
+    "mathematical-source-reduction": 15,
     "mathematical-source-section": 3280,
     "metadata_migration": 1,
     "module": 763,
@@ -83,7 +86,7 @@
     "theorem": 3049,
     "unchanged_entrypoint": 1
   },
-  "edges": 39614,
+  "edges": 39631,
   "evidence_class": "local deterministic navigation build; no theorem validation",
   "inputs": {
     "restricted-source:0004e89b7a8295e40fa806e8bc0574987affed7414c0998cb540db0a892c040f-21cebcd597fd": {
@@ -38622,8 +38625,8 @@
     ],
     "version": 1
   },
-  "records": 21518,
-  "records_sha256": "0638c1ba664af49ee3383d0f9937db4db9198e85686522e54d734fe388a00432",
+  "records": 21549,
+  "records_sha256": "396c455bc9f62844dc0f753df7c8a9282217988938c7595105a607265a51a2b5",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }

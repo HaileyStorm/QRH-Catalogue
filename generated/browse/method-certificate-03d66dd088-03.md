@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 761 matching records.
+Page 3/4; 762 matching records.
 
 [Previous](method-certificate-03d66dd088-02.md)
 
@@ -246,6 +246,7 @@ Page 3/4; 761 matching records.
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0171.md#local-g226-c84df8fcc4)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
+- [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0171.md#local-g67-a2b717289d)
@@ -257,4 +258,3 @@ Page 3/4; 761 matching records.
 - [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0171.md#local-g89-8fdc15013e)
 - [local:G92 — G92: exact defect expansion, collar prices and integer cancellation](../records/0171.md#local-g92-9948e6d6de)
 - [local:G94 — G94: actual state closure and the final observation matter](../records/0171.md#local-g94-65895f2546)
-- [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0171.md#local-g96-8db9d2be74)

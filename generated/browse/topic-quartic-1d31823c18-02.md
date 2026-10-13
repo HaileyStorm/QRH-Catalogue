@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 387 matching records.
+Page 2/2; 388 matching records.
 
 [Previous](topic-quartic-1d31823c18-01.md)
 
@@ -129,6 +129,7 @@ Page 2/2; 387 matching records.
 - [local:G161 — \[private research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0170.md#local-g161-cdae7b8782)
 - [local:G164 — \[private research revision\]: weighted boundary spectrum and complete source transfers (G164)](../records/0170.md#local-g164-a3e566ccd6)
 - [local:G165 — G165. Incidence kernels and all acyclic face matchings](../records/0170.md#local-g165-db51d25e17)
+- [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
 - [pr26:Cycle25.Arithmetic.Endpoint::ell0_quartic@800 — ell0_quartic](../records/0192.md#pr26-cycle25-arithmetic-endpoint-ell0-quartic-800-e431a07a46)
 - [pr26:Cycle25.Arithmetic.Endpoint::exists_isolated_root@788 — exists_isolated_root](../records/0192.md#pr26-cycle25-arithmetic-endpoint-exists-isolated-root-788-15a8f50b08)

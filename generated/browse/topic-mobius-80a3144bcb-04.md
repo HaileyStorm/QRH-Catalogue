@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 926 matching records.
+Page 4/4; 933 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
@@ -166,6 +166,13 @@ Page 4/4; 926 matching records.
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
 - [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
 - [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
+- [local:G235 — G235. Arbitrary-power short-cofactor localization of the complete nonlinear signed source](../records/0171.md#local-g235-73d71ef355)
+- [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0171.md#local-g237-a65c76e5f8)
+- [local:G238 — G238. Exact complex current norm and the complete averaged Abel return](../records/0171.md#local-g238-65f43ad06f)
+- [local:G259 — G259. Interior relative-complex counterexample to thin endpoint support](../records/0171.md#local-g259-5589dc90a5)
+- [local:G263 — G263. Signed finite-prime-fiber certificate has linear relaxed cost](../records/0171.md#local-g263-2020f6bc1f)
+- [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
+- [local:G265 — G265. Fractional Riesz recovery with sharp generic bounded-coefficient loss](../records/0171.md#local-g265-27767aba13)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0171.md#local-g6-e89f333778)
 - [local:G85 — G85. Full-scale moment return without the baseline](../records/0171.md#local-g85-475c2b0586)
 - [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0171.md#local-g88-d7d3c34f95)
@@ -174,11 +181,11 @@ Page 4/4; 926 matching records.
 - [local:G93 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0171.md#local-g93-30c0d807f5)
 - [local:G94 — G94: actual state closure and the final observation matter](../records/0171.md#local-g94-65895f2546)
 - [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0171.md#local-g96-8db9d2be74)
-- [local:N28 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0171.md#local-n28-ec942bb3b1)
-- [local:T09 — T09. Scale-\\(L^2\\) direct detectors](../records/0171.md#local-t09-f8fbf5053e)
-- [local:T09a — T09a. One fixed Möbius profile](../records/0171.md#local-t09a-c797fc5718)
-- [local:T10 — T10. Two-dilation and continuum-dilation Möbius criteria](../records/0171.md#local-t10-6e6d231190)
-- [pr26:Analytic.JointFirstSwap::swapFirst_missing@755 — swapFirst_missing](../records/0181.md#pr26-analytic-jointfirstswap-swapfirst-missing-755-1db7264549)
+- [local:N28 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0172.md#local-n28-ec942bb3b1)
+- [local:T09 — T09. Scale-\\(L^2\\) direct detectors](../records/0172.md#local-t09-f8fbf5053e)
+- [local:T09a — T09a. One fixed Möbius profile](../records/0172.md#local-t09a-c797fc5718)
+- [local:T10 — T10. Two-dilation and continuum-dilation Möbius criteria](../records/0172.md#local-t10-6e6d231190)
+- [pr26:Analytic.JointFirstSwap::swapFirst_missing@755 — swapFirst_missing](../records/0182.md#pr26-analytic-jointfirstswap-swapfirst-missing-755-1db7264549)
 - [review:A05 — \[private research revision\]-review:A05](../records/0215.md#review-a05-b6808f3e32)
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[private research revision\]-claim:T09-fixed-Mobius-L2](../records/0215.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
-- [reviewed-claim:T09-full-shift-kernel — \[private research revision\]-claim:T09-full-shift-kernel](../records/0215.md#reviewed-claim-t09-full-shift-kernel-98ad734238)
+- [reviewed-claim:T09-full-shift-kernel — \[private research revision\]-claim:T09-full-shift-kernel](../records/0216.md#reviewed-claim-t09-full-shift-kernel-98ad734238)

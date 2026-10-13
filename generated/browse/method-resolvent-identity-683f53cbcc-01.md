@@ -1,0 +1,7 @@
+# method: resolvent-identity
+
+[Facet directory](method.md) · [All facets](../DIRECTORY.md)
+
+Page 1/1; 1 matching records.
+
+- [local:G239 — G239. Weighted nonbacktracking elimination with complete source return](../records/0171.md#local-g239-007917d7db)

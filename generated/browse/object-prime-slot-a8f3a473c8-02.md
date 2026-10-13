@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 453 matching records.
+Page 2/2; 454 matching records.
 
 [Previous](object-prime-slot-a8f3a473c8-01.md)
 
@@ -192,12 +192,13 @@ Page 2/2; 453 matching records.
 - [local:G199 — G199. Complete prime-band product estimate](../records/0170.md#local-g199-8391045147)
 - [local:G200 — G200. Complete weighted removal and the fourth paid class](../records/0170.md#local-g200-b27f24a369)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0171.md#local-g230-30aad82136)
+- [local:G240 — G240. Moving-prime cube prices and exact partial-trace observation](../records/0171.md#local-g240-3bd4f5f704)
 - [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0171.md#local-g86-10d609e713)
 - [local:G90 — G90: marked inverse amplification, weighted density and signed transport](../records/0171.md#local-g90-4636392cc1)
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0171.md#local-g98-616457c461)
-- [local:N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](../records/0171.md#local-n29-3176a96c30)
-- [local:N29.N1 — N29.N1 — High-height anchorr≈sqrt(δ²+γ²) maximizes singlezero log\|zρ\|^−1≈δ/\|γ\|, subjectr\>1−b](../records/0171.md#local-n29-n1-52e022cb60)
-- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0171.md#local-t07-90600e73b5)
+- [local:N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](../records/0172.md#local-n29-3176a96c30)
+- [local:N29.N1 — N29.N1 — High-height anchorr≈sqrt(δ²+γ²) maximizes singlezero log\|zρ\|^−1≈δ/\|γ\|, subjectr\>1−b](../records/0172.md#local-n29-n1-52e022cb60)
+- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
 - [pr26:Analytic.ActualErrorPower::actual_original_subsets_error_power@78 — actual_original_subsets_error_power](../records/0172.md#pr26-analytic-actualerrorpower-actual-original-subsets-error-powe-fc435ca15f)
 - [pr26:Analytic.ActualErrorPowerFull::actual_original_subsets_error_power_full@262 — actual_original_subsets_error_power_full](../records/0172.md#pr26-analytic-actualerrorpowerfull-actual-original-subsets-error--d2461e4966)
 - [pr26:Analytic.ActualExtractedErrorCaps::actual_firstExtractedErrors_power_from_caps@286 — actual_firstExtractedErrors_power_from_caps](../records/0172.md#pr26-analytic-actualextractederrorcaps-actual-firstextractederror-e544f91abb)

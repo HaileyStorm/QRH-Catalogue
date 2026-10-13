@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 4/5; 1048 matching records.
+Page 4/5; 1059 matching records.
 
 [Previous](method-mellin-093bcdf279-03.md)
 
@@ -252,9 +252,9 @@ Page 4/5; 1048 matching records.
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0171.md#local-g215-a9fc13c4f5)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0171.md#local-g218-72ef21b6b0)
 - [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0171.md#local-g229-8b209e3b2b)
-- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
-- [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0171.md#local-g67-a2b717289d)
-- [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0171.md#local-g68-8d260df78f)
-- [local:G72 — G72. A complete quantitative short-window return](../records/0171.md#local-g72-501fc8c07b)
-- [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0171.md#local-g74-c3716b767a)
-- [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0171.md#local-g76-089f3bed55)
+- [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0171.md#local-g237-a65c76e5f8)
+- [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0171.md#local-g242-d89bd23acd)
+- [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0171.md#local-g244-a12ada8918)
+- [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0171.md#local-g245-5bef916afc)
+- [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0171.md#local-g246-8dd56008a9)
+- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0171.md#local-g249-33b0a017f2)

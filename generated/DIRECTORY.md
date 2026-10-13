@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21518 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21549 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -259,17 +259,17 @@
 - [G98 — G98. Retaining Bc through the complete original return](records/0171.md#local-g98-616457c461)
 - [G99 — G99. A separate canonical partial marked-plain theorem](records/0171.md#local-g99-9f566a035c)
 - [N27 — N27. Two-exponent finite-divisor incidence](records/0171.md#local-n27-a6764ed466)
-- [N28 — N28. Two-dilation and continuum-dilation Möbius energies](records/0171.md#local-n28-ec942bb3b1)
-- [N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](records/0171.md#local-n29-3176a96c30)
-- [T01 — T01. Quantitative fixed-factor division — PROVED](records/0171.md#local-t01-b6a84d226c)
-- [T02 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](records/0171.md#local-t02-a87be8a14c)
-- [T03 — T03. Cube-free physical-row lifting — PROVED, sharp operator threshold](records/0171.md#local-t03-8adc165824)
-- [T04 — T04. Primitive interpolation and inverse-prime-square sector — PROVED RELATIVE TO INPUTS](records/0171.md#local-t04-46f1e8a6c8)
-- [T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](records/0171.md#local-t05-39ebf3975e)
-- [T06 — T06. The complete same-core sextic square function](records/0171.md#local-t06-df7fac52f7)
-- [T07 — T07. Common-divisor cancellation with the actual prime marks](records/0171.md#local-t07-90600e73b5)
-- [T08 — T08. Two-exponent finite-incidence transfer](records/0171.md#local-t08-2d79a03ea8)
-- [T09 — T09. Scale-\\(L^2\\) direct detectors](records/0171.md#local-t09-f8fbf5053e)
-- [T09a — T09a. One fixed Möbius profile](records/0171.md#local-t09a-c797fc5718)
-- [T09b — T09b. Compact-profile triple-convolution criterion](records/0171.md#local-t09b-4ff2a69c3c)
-- [T10 — T10. Two-dilation and continuum-dilation Möbius criteria](records/0171.md#local-t10-6e6d231190)
+- [N28 — N28. Two-dilation and continuum-dilation Möbius energies](records/0172.md#local-n28-ec942bb3b1)
+- [N29 — N29. Density-subtracted prime/Cayley/Laguerre criteria](records/0172.md#local-n29-3176a96c30)
+- [T01 — T01. Quantitative fixed-factor division — PROVED](records/0172.md#local-t01-b6a84d226c)
+- [T02 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](records/0172.md#local-t02-a87be8a14c)
+- [T03 — T03. Cube-free physical-row lifting — PROVED, sharp operator threshold](records/0172.md#local-t03-8adc165824)
+- [T04 — T04. Primitive interpolation and inverse-prime-square sector — PROVED RELATIVE TO INPUTS](records/0172.md#local-t04-46f1e8a6c8)
+- [T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](records/0172.md#local-t05-39ebf3975e)
+- [T06 — T06. The complete same-core sextic square function](records/0172.md#local-t06-df7fac52f7)
+- [T07 — T07. Common-divisor cancellation with the actual prime marks](records/0172.md#local-t07-90600e73b5)
+- [T08 — T08. Two-exponent finite-incidence transfer](records/0172.md#local-t08-2d79a03ea8)
+- [T09 — T09. Scale-\\(L^2\\) direct detectors](records/0172.md#local-t09-f8fbf5053e)
+- [T09a — T09a. One fixed Möbius profile](records/0172.md#local-t09a-c797fc5718)
+- [T09b — T09b. Compact-profile triple-convolution criterion](records/0172.md#local-t09b-4ff2a69c3c)
+- [T10 — T10. Two-dilation and continuum-dilation Möbius criteria](records/0172.md#local-t10-6e6d231190)

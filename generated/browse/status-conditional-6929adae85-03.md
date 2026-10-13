@@ -2,8 +2,34 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 501 matching records.
+Page 3/3; 527 matching records.
 
 [Previous](status-conditional-6929adae85-02.md)
 
-- [reviewed-claim:cubic-T02 — \[private research revision\]-claim:cubic-T02](../records/0215.md#reviewed-claim-cubic-t02-99e782eef3)
+- [local:G265 — G265. Fractional Riesz recovery with sharp generic bounded-coefficient loss](../records/0171.md#local-g265-27767aba13)
+- [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0172.md#local-n27-f-a63b19d62a)
+- [local:N28.C — N28.C — Average b continuously on \[2,3\]](../records/0172.md#local-n28-c-ac2c6c0cac)
+- [local:N28.D — N28.D — Δ_bM=M(bx)−b^αM(x), b2,3, fixedα∈(0,1)](../records/0172.md#local-n28-d-ba4cbf6f6f)
+- [local:T02 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](../records/0172.md#local-t02-a87be8a14c)
+- [pr15:AllHeightDensity::all_height_density_of_bounded_height — all_height_density_of_bounded_height](../records/0172.md#pr15-allheightdensity-all-height-density-of-bounded-height-7e75bbac12)
+- [pr15:AllHeightDensity::eventually_all_height_density_of_bounded_height — eventually_all_height_density_of_bounded_height](../records/0172.md#pr15-allheightdensity-eventually-all-height-density-of-bounded-he-4b68a16f6a)
+- [pr15:AllHeightDensity::scale_le_height_weight — scale_le_height_weight](../records/0172.md#pr15-allheightdensity-scale-le-height-weight-a7bf0f2e8a)
+- [review:A02 — \[private research revision\]-review:A02](../records/0215.md#review-a02-2de2938a30)
+- [review:A06 — \[private research revision\]-review:A06](../records/0215.md#review-a06-70a2aae45c)
+- [review:A09 — \[private research revision\]-review:A09](../records/0215.md#review-a09-2b5b8434a0)
+- [review:A14 — \[private research revision\]-review:A14](../records/0215.md#review-a14-9001c6dd5f)
+- [review:T02 — \[private research revision\]-review:T02](../records/0215.md#review-t02-74c6b63ea9)
+- [review:T08 — \[private research revision\]-review:T08](../records/0215.md#review-t08-da626c3108)
+- [review:T09 — \[private research revision\]-review:T09](../records/0215.md#review-t09-9b55f2ffc3)
+- [review:T10 — \[private research revision\]-review:T10](../records/0215.md#review-t10-2738c6d533)
+- [reviewed-claim:A14-full-probe-certificate — \[private research revision\]-claim:A14-full-probe-certificate](../records/0215.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)
+- [reviewed-claim:T08-corridor-closure — \[private research revision\]-claim:T08-corridor-closure](../records/0215.md#reviewed-claim-t08-corridor-closure-533dfc5eb4)
+- [reviewed-claim:T08-finite-incidence-transfer — \[private research revision\]-claim:T08-finite-incidence-transfer](../records/0215.md#reviewed-claim-t08-finite-incidence-transfer-1d3757e237)
+- [reviewed-claim:T08-fixed-buffer — \[private research revision\]-claim:T08-fixed-buffer](../records/0215.md#reviewed-claim-t08-fixed-buffer-adde43a7ae)
+- [reviewed-claim:T08-rational-targets — \[private research revision\]-claim:T08-rational-targets](../records/0215.md#reviewed-claim-t08-rational-targets-ce0ce086b2)
+- [reviewed-claim:T09-compact-triple-L2 — \[private research revision\]-claim:T09-compact-triple-L2](../records/0215.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
+- [reviewed-claim:T09-fixed-Mobius-L2 — \[private research revision\]-claim:T09-fixed-Mobius-L2](../records/0215.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
+- [reviewed-claim:T10-continuum — \[private research revision\]-claim:T10-continuum](../records/0216.md#reviewed-claim-t10-continuum-69e758bd43)
+- [reviewed-claim:T10-continuum-reciprocal — \[private research revision\]-claim:T10-continuum-reciprocal](../records/0216.md#reviewed-claim-t10-continuum-reciprocal-58e80583f4)
+- [reviewed-claim:T10-two-dilations — \[private research revision\]-claim:T10-two-dilations](../records/0216.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
+- [reviewed-claim:cubic-T02 — \[private research revision\]-claim:cubic-T02](../records/0216.md#reviewed-claim-cubic-t02-99e782eef3)

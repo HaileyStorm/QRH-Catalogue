@@ -2,9 +2,10 @@
 
 [All facets](../DIRECTORY.md)
 
+- [QRH (15)](origin-qrh-db54becab6-01.md)
 - [public-lean-initial-population (3906)](origin-public-lean-initial-population-78de914e57-01.md)
 - [public-primary-source (10)](origin-public-primary-source-5a48ae7c0f-01.md)
-- [qrh-mathematical-library (3694)](origin-qrh-mathematical-library-a6ebfb3916-01.md)
+- [qrh-mathematical-library (3710)](origin-qrh-mathematical-library-a6ebfb3916-01.md)
 - [source-identity (629)](origin-source-identity-47509add16-01.md)
 - [upstream/closed-prs (98)](origin-upstream-closed-prs-c4d4d0b6cd-01.md)
 - [upstream/historical (8824)](origin-upstream-historical-e60db93d2f-01.md)
