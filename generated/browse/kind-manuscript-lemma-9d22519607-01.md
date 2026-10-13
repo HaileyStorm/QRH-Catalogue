@@ -1,0 +1,32 @@
+# kind: manuscript_lemma
+
+[Facet directory](kind.md) · [All facets](../DIRECTORY.md)
+
+Page 1/1; 26 matching records.
+
+- [HIST-0323c1c20fd7a095953c — lem:centered-lattice-cancellation](../records/0001.md#hist-0323c1c20fd7a095953c-7ccd3f963f)
+- [HIST-07cfdb7b73f17b15dcb9 — lem:hecke-strip-growth](../records/0002.md#hist-07cfdb7b73f17b15dcb9-786e48f4d6)
+- [HIST-0d3df100d10f97e96ce1 — lem:centered-coefficient-invariant](../records/0003.md#hist-0d3df100d10f97e96ce1-7fe2861bff)
+- [HIST-19418f07563c22849698 — lem:prime-power-fourier](../records/0006.md#hist-19418f07563c22849698-fbe2ce842c)
+- [HIST-19453cda946849c6051b — lem:criterion](../records/0006.md#hist-19453cda946849c6051b-8b4181fc16)
+- [HIST-2383fed362277507e9d3 — lem:marked](../records/0008.md#hist-2383fed362277507e9d3-d4fc00f4cf)
+- [HIST-2625074995e74ce696e1 — lem:kernel-seminorms](../records/0009.md#hist-2625074995e74ce696e1-3f170e26ea)
+- [HIST-29d2fa44b39a7d564b0f — row-energy](../records/0010.md#hist-29d2fa44b39a7d564b0f-a6e769e4bc)
+- [HIST-3d8c11817f5dd42886ca — lem:bin-prime-bound](../records/0014.md#hist-3d8c11817f5dd42886ca-b031d2e154)
+- [HIST-40834463283525035d4b — lem:buffered-bins](../records/0015.md#hist-40834463283525035d4b-ce23acb8e6)
+- [HIST-6191fd2fcc8eb8feba5c — lem:detector-dyads](../records/0022.md#hist-6191fd2fcc8eb8feba5c-495a64502d)
+- [HIST-69d6bd16f756cfcaff28 — lem:new-certificate](../records/0023.md#hist-69d6bd16f756cfcaff28-de2dda69a0)
+- [HIST-6dde8724ac5a28972ac4 — lem:plain](../records/0024.md#hist-6dde8724ac5a28972ac4-6319fa38dd)
+- [HIST-7a72fa681e469aa54aee — lem:logarithmic-control](../records/0027.md#hist-7a72fa681e469aa54aee-a95c9161c0)
+- [HIST-859a33dd59912fd700a4 — lem:full-correlation](../records/0030.md#hist-859a33dd59912fd700a4-c853e43f5e)
+- [HIST-92708826dabc24f7041e — count](../records/0032.md#hist-92708826dabc24f7041e-6c0683e9c5)
+- [HIST-97fb67755ebcdbaf52d2 — lem:local-euler](../records/0033.md#hist-97fb67755ebcdbaf52d2-2188ad28cb)
+- [HIST-a8ee7d55c10c5a093e66 — lem:complete-support-correlation](../records/0069.md#hist-a8ee7d55c10c5a093e66-1a4ac2f953)
+- [HIST-a97fb7c3f9efd7654c2a — lem:canonical-moment](../records/0069.md#hist-a97fb7c3f9efd7654c2a-096e3e188d)
+- [HIST-b4c2464bf1e25caf3dc0 — low](../records/0072.md#hist-b4c2464bf1e25caf3dc0-b3a242c8d2)
+- [HIST-bac1437063e004cc4ef9 — lem:masked-poisson](../records/0073.md#hist-bac1437063e004cc4ef9-e34d84f496)
+- [HIST-cd9aa46374bc9eaefc5a — lem:deleted-euler-factors](../records/0078.md#hist-cd9aa46374bc9eaefc5a-a928d3568b)
+- [HIST-cfffdc77e0b0b551fd00 — endpoint](../records/0078.md#hist-cfffdc77e0b0b551fd00-2a35cd9da0)
+- [HIST-df71541c183e2d41603e — lem:principal-local](../records/0082.md#hist-df71541c183e2d41603e-6e9599ccfb)
+- [HIST-f0a0d245dca169112a44 — lem:whole-product-transport](../records/0085.md#hist-f0a0d245dca169112a44-b637ed9261)
+- [HIST-f37935b745b8209f9fa9 — lem:energy](../records/0086.md#hist-f37935b745b8209f9fa9-88b661f304)

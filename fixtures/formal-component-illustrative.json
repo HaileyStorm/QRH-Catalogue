@@ -1,0 +1,27 @@
+{
+  "illustrative_only": true,
+  "id": "ILLUSTRATION-NOT-A-CATALOGUE-CLAIM",
+  "title": "Shape of a reusable formal declaration; no mathematical assertion",
+  "kind": "formal-component",
+  "formal_component": {
+    "component_kind": "lemma",
+    "repository": null,
+    "source_ref": null,
+    "path": null,
+    "fully_qualified_name": null,
+    "namespace": null,
+    "lean_version": null,
+    "mathlib_version": null,
+    "toolchain": null,
+    "imports": [],
+    "external_packages": [],
+    "public_license": null,
+    "verification": {
+      "source_reported": {"status": "unknown", "source_revision": null, "evidence": null},
+      "typechecked": {"status": "unknown", "source_revision": null, "evidence": null},
+      "axioms_audited": {"status": "unknown", "source_revision": null, "evidence": null},
+      "kernel_checked": {"status": "unknown", "source_revision": null, "evidence": null}
+    }
+  },
+  "note": "Excluded: only components.jsonl and annotations.json contribute new records. This fixture asserts no source, proof or verification."
+}

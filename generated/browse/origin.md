@@ -1,0 +1,12 @@
+# Browse by origin
+
+[All facets](../DIRECTORY.md)
+
+- [public-primary-source (10)](origin-public-primary-source-5a48ae7c0f-01.md)
+- [qrh-mathematical-library (3690)](origin-qrh-mathematical-library-a6ebfb3916-01.md)
+- [source-identity (629)](origin-source-identity-47509add16-01.md)
+- [upstream/closed-prs (98)](origin-upstream-closed-prs-c4d4d0b6cd-01.md)
+- [upstream/historical (8824)](origin-upstream-historical-e60db93d2f-01.md)
+- [upstream/local-moments (4311)](origin-upstream-local-moments-dc7067c3f0-01.md)
+- [upstream/maintenance (16)](origin-upstream-maintenance-b7e40037d1-01.md)
+- [upstream/pr-dispositions (30)](origin-upstream-pr-dispositions-04f7a4ca40-01.md)

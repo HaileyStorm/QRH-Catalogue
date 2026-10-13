@@ -1,0 +1,15 @@
+{
+  "id": "REPLACE-WITH-STABLE-PUBLIC-ARTIFACT-ID",
+  "title": "",
+  "kind": "public-paper",
+  "origin": "public-contribution",
+  "pointers": [],
+  "evidence": {},
+  "public_artifact": {
+    "artifact_kind": "paper",
+    "public_url": null,
+    "version": null,
+    "status": "unknown",
+    "section_or_theorem_locator": null
+  }
+}

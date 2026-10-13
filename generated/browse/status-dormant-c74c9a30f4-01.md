@@ -1,0 +1,30 @@
+# status: dormant
+
+[Facet directory](status.md) · [All facets](../DIRECTORY.md)
+
+Page 1/1; 24 matching records.
+
+- [HIST-PR1-F02 — Unproved inverse-slope heuristic and prime-selection failure](../records/0067.md#hist-pr1-f02-7453f1789d)
+- [HIST-PR1-M05 — Uniform local Euler defect and a dormant ramified extension](../records/0067.md#hist-pr1-m05-91c888cbcc)
+- [local:F01.R — F01.R — Unequal two-cutoff identity μ=m1+m2−m1*m2*1+μ*u1*u2; Type I is paid with R*=Y1Y2](../records/0129.md#local-f01-r-1adb4e388e)
+- [local:F02.2 — F02.2 — Two-large-prime short-cofactor or product r=mk dispersion with exact divisor fibres; merge unequal cutoffs only when they shorten a live cofactor](../records/0129.md#local-f02-2-8f182b62ed)
+- [local:F03.I — F03.I — Older infinite forced-divisor sparse p⁴ trace retains its own summability and η-to-c formula](../records/0129.md#local-f03-i-980aab66d3)
+- [local:F03.Z — F03.Z — Positive row series or anisotropic a,b series (physical specialization v=2u), with full common-core factor and unit neutrality](../records/0129.md#local-f03-z-1760b49674)
+- [local:F05.R — F05.R — Penalize costly residual modes with principal calibration instead of assuming exact orthogonality](../records/0129.md#local-f05-r-384251b06a)
+- [local:F06.H — F06.H — Uniform fixed-radius height-area means imply pointwise means by subharmonicity; global weighted-height averages need their own complete contour transfer](../records/0129.md#local-f06-h-d5882764e8)
+- [local:F09.A — F09.A — Full A-dependent physical/numerator Gram under nonzero principal constraint](../records/0130.md#local-f09-a-a23c6af251)
+- [local:F10.G — F10.G — A successful asymptotic beyondK=D needs a new transfer with new polar accounting; alternative two-sided/strip detector is legitimate if it has complete coverage](../records/0130.md#local-f10-g-5db7ed08be)
+- [local:F11.B — F11.B — Two genuinely distinct embedded patterns or actual theta-paired probe; estimate mixed physical and numerator terms before separate norms](../records/0130.md#local-f11-b-a152658270)
+- [local:F14.M — F14.M — Matrix/twisted-convolution multiple series with actual cocycle(barK,1,K); one domain-enlarging relation beats a formal Weyl label](../records/0130.md#local-f14-m-a56ca41075)
+- [local:F14.T — F14.T — Start exact opposite-frequency torus tensor reproducing β; retain root-number couplings and all coprime cocycles through transformation](../records/0130.md#local-f14-t-1480303462)
+- [local:F15.G — F15.G — Current graph norm or squarefree reference tensor; cannot define norm by desired period](../records/0130.md#local-f15-g-52b988dceb)
+- [local:F15.I — F15.I — Two-prime CRT test for mixed/inverse-composite cusp; preserve nonunits, cube sharing and tails](../records/0130.md#local-f15-i-e9353fcab8)
+- [local:F15.S — F15.S — One squarefree vector, finite R balance or independently specified current image can escape whole-span obstruction](../records/0130.md#local-f15-s-f30014b308)
+- [local:F16.J — F16.J — Extra Euler jet, second channel or repeated prime with preserved principal map; compute all6 valuations, bad places, collisions and coefficient/profile growth, then rerun full physical/numerator minimax](../records/0130.md#local-f16-j-131b4743fa)
+- [local:F17.T — F17.T — Derive genuine additive/rational trace kernel, classify degeneracy/diagonals, then prove local bound and moving-modulus transfer](../records/0130.md#local-f17-t-8dc4e2a32c)
+- [local:F18.A — F18.A — Exceptional countX^d and amplitudeX^B costX^(d+2B); one orderX row can ruin OM](../records/0130.md#local-f18-a-35372a7106)
+- [local:F23.C — F23.C — Controlled negative remainder or exact noncircular canonical/numerical-range model for same E_h](../records/0130.md#local-f23-c-e7d8f860a7)
+- [local:F24.T — F24.T — Keep two theta integrals x^(s/2),x^((1−s)/2), rotate/split together, retain all boundaries and exponential-height costs](../records/0130.md#local-f24-t-3931fab040)
+- [local:F25.S — F25.S — Trilinear spectral/horospherical restriction with residual/continuous/cusp terms before Hölder](../records/0130.md#local-f25-s-bcc71269cf)
+- [local:F26.H — F26.H — Heat PDE∂tH=−∂z²H; seek arithmetic reverse stability/coercivity near original parameter](../records/0130.md#local-f26-h-3614c792ec)
+- [local:F26.J — F26.J — Actual Jensen degree/shift-uniform root confinement, with full zero-strip transfer](../records/0130.md#local-f26-j-6f08870a2f)

@@ -1,0 +1,29 @@
+# topic: local-moment
+
+[Facet directory](topic.md) · [All facets](../DIRECTORY.md)
+
+Page 2/2; 271 matching records.
+
+[Previous](topic-local-moment-1eca646453-01.md)
+
+- [pr26:Cycle25.Numerator.PhysicalFront::sourcePrimePool@600 — sourcePrimePool](../records/0163.md#pr26-cycle25-numerator-physicalfront-sourceprimepool-600-b4c095151c)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_complex_support_open@604 — source_complex_support_open](../records/0163.md#pr26-cycle25-numerator-physicalfront-source-complex-support-open--1572d52d03)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_frequency_main_bound@704 — source_frequency_main_bound](../records/0163.md#pr26-cycle25-numerator-physicalfront-source-frequency-main-bound--8230b65fde)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_main_product@672 — source_main_product](../records/0163.md#pr26-cycle25-numerator-physicalfront-source-main-product-672-f92df9cbd9)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_main_product_norm@686 — source_main_product_norm](../records/0163.md#pr26-cycle25-numerator-physicalfront-source-main-product-norm-686-3e5b3fa3ab)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_prime_pool_outside@612 — source_prime_pool_outside](../records/0163.md#pr26-cycle25-numerator-physicalfront-source-prime-pool-outside-61-d5cb3cdacb)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_prime_reconstruction_geometry@619 — source_prime_reconstruction_geometry](../records/0163.md#pr26-cycle25-numerator-physicalfront-source-prime-reconstruction--43a1ce9219)
+- [pr26:Cycle25.Numerator.PhysicalFront::source_real_profile_eq@726 — source_real_profile_eq](../records/0163.md#pr26-cycle25-numerator-physicalfront-source-real-profile-eq-726-0801403976)
+- [pr26:Global.HighData::HighData.toMomentData@72 — HighData.toMomentData](../records/0165.md#pr26-global-highdata-highdata-tomomentdata-72-bea29d0e66)
+- [pr26:Global.Numerator.ActiveFourth::certified_active_box_fourth@57 — certified_active_box_fourth](../records/0167.md#pr26-global-numerator-activefourth-certified-active-box-fourth-57-8421bdcf1e)
+- [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0174.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
+- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0174.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
+- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0174.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
+- [pr26:Physical.LocalCertifiedFourier::localReflectedFourierAt@542 — localReflectedFourierAt](../records/0174.md#pr26-physical-localcertifiedfourier-localreflectedfourierat-542-8ebbb586dc)
+- [pr26:Physical.LocalCertifiedFourier::localReflectedFourierAt_mono@564 — localReflectedFourierAt_mono](../records/0174.md#pr26-physical-localcertifiedfourier-localreflectedfourierat-mono--643cfc42db)
+- [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0174.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
+- [pr26:Physical.LocalOriginalFourth::certified_transport_original_numerator_fourth@77 — certified_transport_original_numerator_fourth](../records/0174.md#pr26-physical-localoriginalfourth-certified-transport-original-nu-5fe864c6d8)
+- [pr26:Physical.LocalRetained::certified_transport_actual_retained_fourth@401 — certified_transport_actual_retained_fourth](../records/0174.md#pr26-physical-localretained-certified-transport-actual-retained-f-a3a7c1fa24)
+- [pr26:Physical.LocalRetainedFixed::certified_transport_retained_fixed_profile@314 — certified_transport_retained_fixed_profile](../records/0174.md#pr26-physical-localretainedfixed-certified-transport-retained-fix-f46ed35d0c)
+- [pr26:Physical.LocalTransportFourier::certified_transport_reflected_fourier_moment@733 — certified_transport_reflected_fourier_moment](../records/0174.md#pr26-physical-localtransportfourier-certified-transport-reflected-e0d2ddb213)
+- [upstream:PR15 — Add local-moment analytic manuscript and supporting Lean components](../records/0176.md#upstream-pr15-9f4b2df3c8)

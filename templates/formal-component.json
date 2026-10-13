@@ -1,0 +1,34 @@
+{
+  "id": "REPLACE-WITH-STABLE-ID",
+  "title": "",
+  "kind": "formal-component",
+  "origin": "contribution",
+  "statement": null,
+  "hypotheses": null,
+  "quantifier_scope": null,
+  "mathematical_status": "unknown",
+  "review_status": "unknown",
+  "formalization_status": "unknown",
+  "pointers": [],
+  "evidence": {},
+  "formal_component": {
+    "component_kind": "module",
+    "repository": null,
+    "source_ref": null,
+    "path": null,
+    "fully_qualified_name": null,
+    "namespace": null,
+    "lean_version": null,
+    "mathlib_version": null,
+    "toolchain": null,
+    "imports": [],
+    "external_packages": [],
+    "public_license": null,
+    "verification": {
+      "source_reported": {"status": "unknown", "source_revision": null, "evidence": null},
+      "typechecked": {"status": "unknown", "source_revision": null, "evidence": null},
+      "axioms_audited": {"status": "unknown", "source_revision": null, "evidence": null},
+      "kernel_checked": {"status": "unknown", "source_revision": null, "evidence": null}
+    }
+  }
+}

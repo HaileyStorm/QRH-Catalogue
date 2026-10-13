@@ -1,0 +1,178 @@
+{
+  "records": {
+    "HIST-PR2-M02": {
+      "pointers": {
+        "evidence": {
+          "basis": "exact-curated-source-pointer-record",
+          "confidence": "exact-pointer; manuscript-label mapping remains partial where marked",
+          "json_pointer": "/units/11/exact_source_pointers",
+          "source_intake_sha256": "6b19188dfdd1503ab29d371e627f1e088904f6b62053b51881fda04e7cdfd3e5"
+        },
+        "value": [
+          {
+            "access": "public-primary-source",
+            "comment_ids": [
+              6091785703,
+              6092021882,
+              6095469152
+            ],
+            "role": "public-discussion-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/pull/2"
+          }
+        ]
+      }
+    },
+    "HIST-PR3-M01": {
+      "pointers": {
+        "evidence": {
+          "basis": "exact-curated-source-pointer-record",
+          "confidence": "exact-pointer; manuscript-label mapping remains partial where marked",
+          "json_pointer": "/units/12/exact_source_pointers",
+          "source_intake_sha256": "6b19188dfdd1503ab29d371e627f1e088904f6b62053b51881fda04e7cdfd3e5"
+        },
+        "value": [
+          {
+            "access": "public-primary-source",
+            "qualification": "Original proof body not redistributed.",
+            "role": "reference-only-proof",
+            "selector": "named declarations and full context",
+            "sha256": "8dd8af17775597dd3adca267db58c90a1435b73a48b0cabdf177b15d67f18270",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/CombinedPaperVerification.lean"
+          }
+        ]
+      }
+    },
+    "HIST-PR3-M02": {
+      "pointers": {
+        "evidence": {
+          "basis": "exact-curated-source-pointer-record",
+          "confidence": "exact-pointer; manuscript-label mapping remains partial where marked",
+          "json_pointer": "/units/13/exact_source_pointers",
+          "source_intake_sha256": "6b19188dfdd1503ab29d371e627f1e088904f6b62053b51881fda04e7cdfd3e5"
+        },
+        "value": [
+          {
+            "access": "public-primary-source",
+            "paper_id": "liu-paper-2",
+            "qualification": "Source label liu-pdf:1 is not explicitly mapped to a manifest paper ID here; both exact public versions retained as candidates, not asserted equivalent.",
+            "role": "reference-only-paper-candidate",
+            "selector": "liu-pdf:1#pages37-38",
+            "sha256": "66ee8e8b86b1ba884379a93e2aef13a8cf5c0bb80c690664c6f71f2ff73c53bf",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/Slightly%20improved%20zero-free%20half-planes.pdf"
+          },
+          {
+            "access": "public-primary-source",
+            "paper_id": "liu-paper-1",
+            "qualification": "Source label liu-pdf:1 is not explicitly mapped to a manifest paper ID here; both exact public versions retained as candidates, not asserted equivalent.",
+            "role": "reference-only-paper-candidate",
+            "selector": "liu-pdf:1#pages37-38",
+            "sha256": "5505c1aff7b0e9dd434e141122b6638bcdb26372ae05ab623fbece35b7d26d7d",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/Slightly%20improved%20zero-free%20half-planes%20for%20the%20quasi-Riemann%20hypothesis.pdf"
+          }
+        ]
+      }
+    },
+    "HIST-PR3-M03": {
+      "pointers": {
+        "evidence": {
+          "basis": "exact-curated-source-pointer-record",
+          "confidence": "exact-pointer; manuscript-label mapping remains partial where marked",
+          "json_pointer": "/units/14/exact_source_pointers",
+          "source_intake_sha256": "6b19188dfdd1503ab29d371e627f1e088904f6b62053b51881fda04e7cdfd3e5"
+        },
+        "value": [
+          {
+            "access": "public-primary-source",
+            "paper_id": "liu-paper-2",
+            "qualification": "Source label liu-pdf:1 is not explicitly mapped to a manifest paper ID here; both exact public versions retained as candidates, not asserted equivalent.",
+            "role": "reference-only-paper-candidate",
+            "selector": "liu-pdf:1#pages38-39",
+            "sha256": "66ee8e8b86b1ba884379a93e2aef13a8cf5c0bb80c690664c6f71f2ff73c53bf",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/Slightly%20improved%20zero-free%20half-planes.pdf"
+          },
+          {
+            "access": "public-primary-source",
+            "paper_id": "liu-paper-1",
+            "qualification": "Source label liu-pdf:1 is not explicitly mapped to a manifest paper ID here; both exact public versions retained as candidates, not asserted equivalent.",
+            "role": "reference-only-paper-candidate",
+            "selector": "liu-pdf:1#pages38-39",
+            "sha256": "5505c1aff7b0e9dd434e141122b6638bcdb26372ae05ab623fbece35b7d26d7d",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/Slightly%20improved%20zero-free%20half-planes%20for%20the%20quasi-Riemann%20hypothesis.pdf"
+          }
+        ]
+      }
+    },
+    "HIST-PR3-M04": {
+      "pointers": {
+        "evidence": {
+          "basis": "exact-curated-source-pointer-record",
+          "confidence": "exact-pointer; manuscript-label mapping remains partial where marked",
+          "json_pointer": "/units/15/exact_source_pointers",
+          "source_intake_sha256": "6b19188dfdd1503ab29d371e627f1e088904f6b62053b51881fda04e7cdfd3e5"
+        },
+        "value": [
+          {
+            "access": "public-primary-source",
+            "qualification": "Original proof body not redistributed.",
+            "role": "reference-only-proof",
+            "selector": "named declarations and full context",
+            "sha256": "656affd9c85e7d3de731ee298a81bb14194d9624e448de041d81096680330cca",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/geometry/V2Optimization.lean"
+          }
+        ]
+      }
+    },
+    "HIST-PR3-M05": {
+      "pointers": {
+        "evidence": {
+          "basis": "exact-curated-source-pointer-record",
+          "confidence": "exact-pointer; manuscript-label mapping remains partial where marked",
+          "json_pointer": "/units/16/exact_source_pointers",
+          "source_intake_sha256": "6b19188dfdd1503ab29d371e627f1e088904f6b62053b51881fda04e7cdfd3e5"
+        },
+        "value": [
+          {
+            "access": "public-primary-source",
+            "qualification": "Original proof body not redistributed.",
+            "role": "reference-only-proof",
+            "selector": "closure_obstruction,scalar_optimum",
+            "sha256": "656affd9c85e7d3de731ee298a81bb14194d9624e448de041d81096680330cca",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/geometry/V2Optimization.lean"
+          }
+        ]
+      }
+    },
+    "HIST-PR3-M06": {
+      "pointers": {
+        "evidence": {
+          "basis": "exact-curated-source-pointer-record",
+          "confidence": "exact-pointer; manuscript-label mapping remains partial where marked",
+          "json_pointer": "/units/17/exact_source_pointers",
+          "source_intake_sha256": "6b19188dfdd1503ab29d371e627f1e088904f6b62053b51881fda04e7cdfd3e5"
+        },
+        "value": [
+          {
+            "access": "public-primary-source",
+            "paper_id": "liu-paper-2",
+            "qualification": "Source label liu-pdf:1 is not explicitly mapped to a manifest paper ID here; both exact public versions retained as candidates, not asserted equivalent.",
+            "role": "reference-only-paper-candidate",
+            "selector": "liu-pdf:1#pages29-30",
+            "sha256": "66ee8e8b86b1ba884379a93e2aef13a8cf5c0bb80c690664c6f71f2ff73c53bf",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/Slightly%20improved%20zero-free%20half-planes.pdf"
+          },
+          {
+            "access": "public-primary-source",
+            "paper_id": "liu-paper-1",
+            "qualification": "Source label liu-pdf:1 is not explicitly mapped to a manifest paper ID here; both exact public versions retained as candidates, not asserted equivalent.",
+            "role": "reference-only-paper-candidate",
+            "selector": "liu-pdf:1#pages29-30",
+            "sha256": "5505c1aff7b0e9dd434e141122b6638bcdb26372ae05ab623fbece35b7d26d7d",
+            "url": "https://raw.githubusercontent.com/liubaiying101/Slightly-improved-zero-free-half-planes-for-the-quasi-Riemann-hypothesis/7d10420de90efa2f082a06a342fc7accbd57ab37/Slightly%20improved%20zero-free%20half-planes%20for%20the%20quasi-Riemann%20hypothesis.pdf"
+          }
+        ]
+      }
+    }
+  },
+  "relations": [],
+  "schema_version": 1
+}
