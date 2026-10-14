@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/7; 1568 matching records.
+Page 1/7; 1570 matching records.
 
 [Next](topic-density-06f8382071-02.md)
 

@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1423 matching records.
+Page 1/6; 1430 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 
@@ -222,12 +222,12 @@ Page 1/6; 1423 matching records.
 - [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0136.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
 - [local-section:02b41380eaa7f3da4806f180 — 7. Evidence, limits and next mathematical action](../records/0136.md#local-section-02b41380eaa7f3da4806f180-b77494ddb6)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0136.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
-- [local-section:02f8669f1658d13dbcf1f468 — \[restricted research revision\]-S5. Two literal native JN contracts](../records/0136.md#local-section-02f8669f1658d13dbcf1f468-f0f56dd251)
+- [local-section:02f8669f1658d13dbcf1f468 — \[research revision\]-S5. Two literal native JN contracts](../records/0136.md#local-section-02f8669f1658d13dbcf1f468-f0f56dd251)
 - [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0136.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
-- [local-section:035701346f99d3890ec7be86 — \[private research revision\]: signed deletion, critical flux and common-readout Gram](../records/0136.md#local-section-035701346f99d3890ec7be86-e321acbb45)
+- [local-section:035701346f99d3890ec7be86 — \[research revision\]: signed deletion, critical flux and common-readout Gram](../records/0136.md#local-section-035701346f99d3890ec7be86-e321acbb45)
 - [local-section:0400fb8cae6f2f20f06e267c — G156. Complete diagonal and two off-diagonal sectors](../records/0136.md#local-section-0400fb8cae6f2f20f06e267c-3484d3ff52)
 - [local-section:044cc15db39bd4764b52dd0d — Sampling, chronology, and all six first tests](../records/0136.md#local-section-044cc15db39bd4764b52dd0d-54abae69a0)
-- [local-section:0482d0fa320f89ebb02394b3 — \[private research revision\] independent review: exceptional valuation reserve](../records/0136.md#local-section-0482d0fa320f89ebb02394b3-083e80a410)
+- [local-section:0482d0fa320f89ebb02394b3 — \[research revision\] independent review: exceptional valuation reserve](../records/0136.md#local-section-0482d0fa320f89ebb02394b3-083e80a410)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0136.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
 - [local-section:049b0b111c3aa167f4ac66ae — 7. Novelty, exact scope, and unresolved work](../records/0136.md#local-section-049b0b111c3aa167f4ac66ae-f2bb664b5d)
 - [local-section:04b784e84bc801bb8747ca9b — 7. Evidence, provenance and disposition](../records/0136.md#local-section-04b784e84bc801bb8747ca9b-a09f746032)
@@ -237,12 +237,12 @@ Page 1/6; 1423 matching records.
 - [local-section:05b7dc4fd36efbb10143f70a — 1. Exact source and normalization](../records/0136.md#local-section-05b7dc4fd36efbb10143f70a-89827a7c12)
 - [local-section:05dab8278c2ff444af29988d — F02. Large-prime null packets and common-core dispersion](../records/0136.md#local-section-05dab8278c2ff444af29988d-86fd5ec050)
 - [local-section:0686f244ed65373b93403088 — S65-2. Complete mixed cumulants](../records/0136.md#local-section-0686f244ed65373b93403088-73b118f620)
-- [local-section:069ac2c6079f6cad373b837b — \[private research revision\] independent review: capped original plains and two width envelopes](../records/0136.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
+- [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0136.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
 - [local-section:069edb9860e9d2d62b98d471 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](../records/0136.md#local-section-069edb9860e9d2d62b98d471-e38d065e88)
 - [local-section:0737de17150af6e51c799c86 — 7. All30 dispositions](../records/0136.md#local-section-0737de17150af6e51c799c86-d7ff94fbec)
 - [local-section:07edd5b2a1b8c33a2be9991e — 3. Reconstructing the stronger gain in actual source units](../records/0136.md#local-section-07edd5b2a1b8c33a2be9991e-7c3f8ef411)
 - [local-section:0828333740a4895557ae832c — 1. Decision and exact limits](../records/0136.md#local-section-0828333740a4895557ae832c-2a10918ac2)
-- [local-section:082a1b7df2eec46561fe4c43 — \[private research revision\]: native translation costs and a fixed-source renewal obstruction](../records/0136.md#local-section-082a1b7df2eec46561fe4c43-c5fa414a34)
+- [local-section:082a1b7df2eec46561fe4c43 — \[research revision\]: native translation costs and a fixed-source renewal obstruction](../records/0136.md#local-section-082a1b7df2eec46561fe4c43-c5fa414a34)
 - [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0136.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
 - [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0136.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
 - [local-section:09513a9f16a43f4724c33e9a — 74. Paid common-readout absolute Gram in arbitrary lift dimension](../records/0136.md#local-section-09513a9f16a43f4724c33e9a-6c0381a1d4)
@@ -255,4 +255,4 @@ Page 1/6; 1423 matching records.
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0136.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0a7095081b2891c6ad4d0a10 — 4. Pointwise cubic-sieve bound with the actual colors and slots](../records/0137.md#local-section-0a7095081b2891c6ad4d0a10-9413f657b0)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0137.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
-- [local-section:0b36d2cf610bd8d983ecd9ec — \[private research revision\] joint-core independent review](../records/0137.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
+- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0137.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)

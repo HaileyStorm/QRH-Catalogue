@@ -640,7 +640,7 @@ class Builder:
                             label = p.get('source_label') or p.get('path') or p.get('role', 'source')
                             body += [f'- Public primary source: [{label}]({p["url"]})' + (' (archive member: `' + p['archive_member'] + '`)' if p.get('archive_member') else '')]
                         else:
-                            body += [f'- Restricted QRH source: `{p.get("path", p.get("source_label", "unknown"))}`; owner access required.']
+                            body += [f'- Source not publicly available: `{p.get("path", p.get("source_label", "unknown"))}`; source text is not publicly accessible.']
                     elif p.get('path'):
                         # Install layout is always research/catalogue/generated/records/.
                         url = '../../../../../' + quote(p['path'], safe='/')
@@ -658,7 +658,7 @@ class Builder:
                             href = '../../'+s['path']+('#L'+str(s['line']) if s.get('line') else '')
                             body += [f'Public contribution evidence: [{label}]({href}); SHA-256 `{s.get("sha256", "unknown")}`.', '']
                         else:
-                            body += [f'Frozen intake evidence: `{label}`; SHA-256 `{s.get("sha256", "unknown")}`; restricted QRH inventory.', '']
+                            body += [f'Frozen intake evidence: `{label}`; SHA-256 `{s.get("sha256", "unknown")}`; original source inventory not publicly available.', '']
                     else:
                         body += [f'Inventory/evidence: [{label}](../../../../../{quote(s["path"], safe="/")})', '']
                 excerpt = str(r['statement'] or '')
@@ -1059,8 +1059,8 @@ def export_public(repo, private, output, config, receipt_path, private_usage=Non
                 return '[restricted mathematical source]'
             value = re.sub(r'research/(?!imports/)[^\s`\]"<>)]*', '[restricted mathematical source]', value)
             value = re.sub(r'\b0[0-6]_CYCLE20_[A-Z_]+\.md\b', '[restricted mathematical source]', value)
-            value = re.sub(r'(?i)\bcycle\s*\d+\b', '[private research revision]', value)
-            value = re.sub(r'\bC[1-9]\d{1,2}\b', '[restricted research revision]', value)
+            value = re.sub(r'(?i)\bcycle\s*\d+\b', '[research revision]', value)
+            value = re.sub(r'\bC[1-9]\d{1,2}\b', '[research revision]', value)
             value = re.sub(r'(?:research/)?(?:cycle\d+|attempts)/[^\s`\]"<>)]*', '[restricted mathematical source]', value, flags=re.I)
             return value
         return value
@@ -1125,7 +1125,7 @@ def export_public(repo, private, output, config, receipt_path, private_usage=Non
                 if not r['author'] and source_map[original].get('author_credit'):
                     r['author'] = source_map[original]['author_credit']
                     r['evidence']['author'] = {'basis': 'literal-source-manifest-credit', 'public_source': p['url']}
-            p['access'] = 'public-primary-source' if p.get('url') else 'restricted-qrh'
+            p['access'] = 'public-primary-source' if p.get('url') else 'restricted-source'
             if not p.get('url'):
                 if re.match(r'research/(?:cycle\d+|attempts|attempt-index|current-proof|review-cycle)', p.get('path') or ''):
                     usage_rows.append({'public_component_id': r['id'], 'private_intake_id': rid, 'usage_class': 'internal-library-navigation; not proved dependency', 'internal_origin': original_origin, 'cycles': re.findall(r'cycle(\d+)', p['path']), 'source_record': original_source, 'local_pointers': [dict(p)], 'local_navigation': []})
@@ -1236,9 +1236,9 @@ def export_public(repo, private, output, config, receipt_path, private_usage=Non
     public_coverage['inputs'] = projected_inputs
     public_coverage['local_components'] = {k: idmap[v] for k, v in coverage['local_components'].items() if idmap.get(v)}
     public_coverage['records_sha256'] = records_digest([output/p for p in files])
-    public_coverage['public_projection'] = {'version': 1, 'raw_mathematical_fields': sorted(PUBLIC_RAW_FIELDS), 'excluded_raw_field_counts': dict(sorted(exclusions.items())), 'full_intake_access': 'restricted QRH; owner retains exact original rows and input hashes', 'external_sources_fetched': False}
+    public_coverage['public_projection'] = {'version': 1, 'raw_mathematical_fields': sorted(PUBLIC_RAW_FIELDS), 'excluded_raw_field_counts': dict(sorted(exclusions.items())), 'full_intake_access': 'source custodian retains exact original rows and input hashes; not publicly available', 'external_sources_fetched': False}
     # Mapping issues may mention internal paths; preserve only mathematical missing-pointer categories publicly.
-    public_coverage['issues'] = [{'kind': x['kind'], 'path': public_safe(x.get('path', '')), 'access': 'restricted-qrh-owner-follow-up'} for x in coverage['issues']]
+    public_coverage['issues'] = [{'kind': x['kind'], 'path': public_safe(x.get('path', '')), 'access': 'restricted-source-follow-up'} for x in coverage['issues']]
     write_json(output/'coverage.json', public_coverage)
     renderer = Builder(repo, output, config); renderer.public = True; renderer.records = public_records; renderer.local_components = public_coverage['local_components']; renderer.browse(entries)
     write_json(receipt_path, {'private_records_sha256': coverage['records_sha256'], 'public_records_sha256': public_coverage['records_sha256'], 'record_ids_preserved': ids, 'excluded_raw_field_counts': dict(sorted(exclusions.items())), 'source_map': source_map, 'operational_text_omissions': omissions, 'scope': 'Public mathematical metadata projection; full raw rows and omitted operational blocks remain privately retained'})

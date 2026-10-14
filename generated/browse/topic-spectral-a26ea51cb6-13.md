@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3020 matching records.
+Page 13/13; 3021 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
+- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0214.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0214.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
 - [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0214.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
 - [pr26:Physical.LocalOriginalFourth::certified_transport_original_numerator_fourth@77 — certified_transport_original_numerator_fourth](../records/0214.md#pr26-physical-localoriginalfourth-certified-transport-original-nu-5fe864c6d8)
@@ -23,6 +24,6 @@ Page 13/13; 3020 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_slot_product@1020 — natural_slot_product](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-natural-slot-pro-878e4b8f96)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::original_masked_positive_floor@1376 — original_masked_positive_floor](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-original-masked--cec159e207)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::zeroMaximum_le_one@598 — zeroMaximum_le_one](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-zeromaximum-le-o-67669608b4)
-- [review:A03 — \[private research revision\]-review:A03](../records/0215.md#review-a03-ac6cfeed06)
-- [review:A15 — \[private research revision\]-review:A15](../records/0215.md#review-a15-0a087c3e9a)
-- [review:T07 — \[private research revision\]-review:T07](../records/0215.md#review-t07-d3b26c667a)
+- [review:A03 — \[research revision\]-review:A03](../records/0215.md#review-a03-ac6cfeed06)
+- [review:A15 — \[research revision\]-review:A15](../records/0216.md#review-a15-0a087c3e9a)
+- [review:T07 — \[research revision\]-review:T07](../records/0216.md#review-t07-d3b26c667a)

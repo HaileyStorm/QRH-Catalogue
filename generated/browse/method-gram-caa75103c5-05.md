@@ -2,10 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1025 matching records.
+Page 5/5; 1028 matching records.
 
 [Previous](method-gram-caa75103c5-04.md)
 
+- [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0172.md#local-g80-5d9f92de8e)
+- [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0172.md#local-g81-99411dc86c)
+- [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0172.md#local-g82-b0a5fbfc89)
 - [local:G95 — G95. An exact source with a positive signed global leading term](../records/0172.md#local-g95-5b173d0687)
 - [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0172.md#local-g97-7b0759357c)
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0172.md#local-g98-616457c461)
@@ -13,7 +16,7 @@ Page 5/5; 1025 matching records.
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0172.md#local-t07-90600e73b5)
 - [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0172.md#local-t08-2d79a03ea8)
 - [pr26:Cycle25.Assembly.Parameters::gram_domination@213 — gram_domination](../records/0196.md#pr26-cycle25-assembly-parameters-gram-domination-213-a99b058c13)
-- [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0202.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
+- [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0203.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
 - [pr26:Global.Low.Detector.LowGramScale — Global.Low.Detector.LowGramScale](../records/0205.md#pr26-global-low-detector-lowgramscale-7dc6d62852)
 - [pr26:Global.Low.Detector.LowGramScale::compensated_gram_ratio@155 — compensated_gram_ratio](../records/0205.md#pr26-global-low-detector-lowgramscale-compensated-gram-ratio-155-6fa6f0f90a)
 - [pr26:Global.Low.Detector.LowGramScale::compensated_gram_scale_bound@159 — compensated_gram_scale_bound](../records/0205.md#pr26-global-low-detector-lowgramscale-compensated-gram-scale-boun-1ab072fd6c)
@@ -26,8 +29,8 @@ Page 5/5; 1025 matching records.
 - [pr26:Global.Low.Geometry::gram_power@132 — gram_power](../records/0206.md#pr26-global-low-geometry-gram-power-132-416fb2a373)
 - [pr26:Global.Low.Geometry::gram_sqrt_power@138 — gram_sqrt_power](../records/0206.md#pr26-global-low-geometry-gram-sqrt-power-138-08ada9d7a3)
 - [pr26:Global.Parameters::gram_domination@510 — gram_domination](../records/0208.md#pr26-global-parameters-gram-domination-510-74771c1b29)
-- [review:A04 — \[private research revision\]-review:A04](../records/0215.md#review-a04-14ba599cdd)
-- [review:T06 — \[private research revision\]-review:T06](../records/0215.md#review-t06-2f9f1fb3c7)
-- [review:T07 — \[private research revision\]-review:T07](../records/0215.md#review-t07-d3b26c667a)
-- [reviewed-claim:A14-model-comparisons — \[private research revision\]-claim:A14-model-comparisons](../records/0216.md#reviewed-claim-a14-model-comparisons-ccff46b733)
-- [reviewed-claim:A14-sixth-power-projection — \[private research revision\]-claim:A14-sixth-power-projection](../records/0216.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)
+- [review:A04 — \[research revision\]-review:A04](../records/0215.md#review-a04-14ba599cdd)
+- [review:T06 — \[research revision\]-review:T06](../records/0216.md#review-t06-2f9f1fb3c7)
+- [review:T07 — \[research revision\]-review:T07](../records/0216.md#review-t07-d3b26c667a)
+- [reviewed-claim:A14-model-comparisons — \[research revision\]-claim:A14-model-comparisons](../records/0216.md#reviewed-claim-a14-model-comparisons-ccff46b733)
+- [reviewed-claim:A14-sixth-power-projection — \[research revision\]-claim:A14-sixth-power-projection](../records/0216.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)

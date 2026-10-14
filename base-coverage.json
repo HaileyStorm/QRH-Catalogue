@@ -38553,7 +38553,7 @@
       "url": 30
     },
     "external_sources_fetched": false,
-    "full_intake_access": "restricted QRH; owner retains exact original rows and input hashes",
+    "full_intake_access": "source custodian retains exact original rows and input hashes; not publicly available",
     "raw_mathematical_fields": [
       "affected_contracts",
       "assumption_context",
@@ -38621,7 +38621,7 @@
     "version": 1
   },
   "records": 17608,
-  "records_sha256": "d3c8a6e4cde6e259bfacd8b5a6bcb0b6c515f510c5f2d4d401831030327f7252",
+  "records_sha256": "ee9b051b7dcaf62463c8c7f59ca2acc57fe777419ffaadb38e37f86c79fdd8e1",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }

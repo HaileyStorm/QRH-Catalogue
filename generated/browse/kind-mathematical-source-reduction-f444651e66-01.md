@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 24 matching records.
+Page 1/1; 32 matching records.
 
 - [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0171.md#local-g231-6f4902eba6)
 - [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0171.md#local-g232-46b194e127)
@@ -28,3 +28,11 @@ Page 1/1; 24 matching records.
 - [local:G282 — G282. Conditional Mobius parity entropy, paid CRT discrepancy and character equivalence](../records/0171.md#local-g282-80ac2a35f5)
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0171.md#local-g283-bef435ea5c)
 - [local:G284 — G284. Corrected squarefree prime generator, actual noncontraction and full cutoff commutator](../records/0171.md#local-g284-d3ce1347c0)
+- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0171.md#local-g295-06047ab12a)
+- [local:G296 — G296. Shorter-period beta-profile return and a conditional simple-zero mode](../records/0171.md#local-g296-967abf5d0c)
+- [local:G297 — G297. Asymmetric continuous Gram with a paid diagonal and unpaid transition](../records/0171.md#local-g297-9211aa135c)
+- [local:G298 — G298. Fixed-depth periodic inverse and complete multivariate Abel payment](../records/0171.md#local-g298-3312f01d4a)
+- [local:G299 — G299. Signed minimum telescoping, erased zero signal and divergent positive inverse](../records/0171.md#local-g299-29e34bc7a7)
+- [local:G300 — G300. Ordinary finite-prime deflation and the scoped positive orbit identity](../records/0171.md#local-g300-bf7ee867fe)
+- [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0172.md#local-g307-de7641143f)
+- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0172.md#local-g310-39134eeca1)

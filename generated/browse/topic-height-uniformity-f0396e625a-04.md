@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 811 matching records.
+Page 4/4; 812 matching records.
 
 [Previous](topic-height-uniformity-f0396e625a-03.md)
 
@@ -10,7 +10,7 @@ Page 4/4; 811 matching records.
 - [local:F22.P — F22.P — Nonnegative band bump≥1 and Poincaré–Lelong pairing\<1](../records/0169.md#local-f22-p-6dfabc8aa6)
 - [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0170.md#local-g106-3b75d799b8)
 - [local:G111 — G111. Accepted c10 licenses a smaller density capacity](../records/0170.md#local-g111-70b84ecbc6)
-- [local:G114 — \[private research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0170.md#local-g114-fec7178ffd)
+- [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0170.md#local-g114-fec7178ffd)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0170.md#local-g116-82b0aa6b3e)
 - [local:G118 — 3. G118: finite-prefix and all-layer audits](../records/0170.md#local-g118-50557224bc)
 - [local:G119 — G119. Anchored one-sided pressure has an exact zero-exclusion return](../records/0170.md#local-g119-9dbed5d96f)
@@ -18,16 +18,16 @@ Page 4/4; 811 matching records.
 - [local:G130 — G130. Raw principal finite-polynomial global contraction fails](../records/0170.md#local-g130-6d44b95f32)
 - [local:G132 — G132. A complete positive prefix estimate](../records/0170.md#local-g132-a6c45dea4e)
 - [local:G146 — G146. The complete prefix is paid over the original slot interval](../records/0170.md#local-g146-fa0a5d0458)
-- [local:G149 — \[private research revision\]: complete operator returns and an actual detector repair (G149)](../records/0170.md#local-g149-643389d4ad)
+- [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0170.md#local-g149-643389d4ad)
 - [local:G151 — G151. An actual two-variable repair and two fully priced detector interfaces](../records/0170.md#local-g151-b657e21536)
-- [local:G152 — \[private research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0170.md#local-g152-1776ec5c14)
-- [local:G155 — \[private research revision\]: paid parts of the separated mixed moment (G155)](../records/0170.md#local-g155-78ae9ec0c1)
+- [local:G152 — \[research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0170.md#local-g152-1776ec5c14)
+- [local:G155 — \[research revision\]: paid parts of the separated mixed moment (G155)](../records/0170.md#local-g155-78ae9ec0c1)
 - [local:G156 — G156. Complete diagonal and two off-diagonal sectors](../records/0170.md#local-g156-64de54fa5d)
 - [local:G157 — G157. Repeated-prime support and the exact remaining estimate](../records/0170.md#local-g157-364d426290)
-- [local:G158 — \[private research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0170.md#local-g158-0d89940370)
-- [local:G161 — \[private research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0170.md#local-g161-cdae7b8782)
+- [local:G158 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0170.md#local-g158-0d89940370)
+- [local:G161 — \[research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0170.md#local-g161-cdae7b8782)
 - [local:G163 — G163. Exact native Schur and four-cycle bills](../records/0170.md#local-g163-f5dbf60250)
-- [local:G164 — \[private research revision\]: weighted boundary spectrum and complete source transfers (G164)](../records/0170.md#local-g164-a3e566ccd6)
+- [local:G164 — \[research revision\]: weighted boundary spectrum and complete source transfers (G164)](../records/0170.md#local-g164-a3e566ccd6)
 - [local:G166 — G166. Prime removal with exact correction and all-shell return](../records/0170.md#local-g166-e58e0a6cf5)
 - [local:G170 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0170.md#local-g170-c98506834f)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0170.md#local-g173-0a9bfc34dc)
@@ -50,7 +50,8 @@ Page 4/4; 811 matching records.
 - [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0171.md#local-g264-484cdfc9b6)
 - [local:G276 — G276. Consecutive Mellin companions without a common zero](../records/0171.md#local-g276-4cb20dad30)
 - [local:G279 — G279. Ordinary-character weighted approximation with full tail and height price](../records/0171.md#local-g279-e4f51ee2de)
-- [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0171.md#local-g75-1359afa204)
+- [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0172.md#local-g309-cb6cfa996e)
+- [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0172.md#local-g75-1359afa204)
 - [local:G87 — G87: a fixed-order return from the literal G72 energy](../records/0172.md#local-g87-60466dd0f4)
 - [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0172.md#local-g89-8fdc15013e)
 - [local:G94 — G94: actual state closure and the final observation matter](../records/0172.md#local-g94-65895f2546)

@@ -220,16 +220,17 @@
       "unresolved_prerequisites": {
         "value": [
           "The weighted canonical all-real-height/subset arithmetic bank is not proved.",
-          "G285 discharges the fixed-parent main/high-shell radical cap under its literal admissions. G286 separately bounds the full error hole for original source-receipted families with its allocation gates; its use in G270 still needs an exact all-ideal error dictionary and common bank. Arbitrary/moving-parent punctures and unrestricted twiceChild characters require their own uniform admission; retain the intrinsic factor outside those scopes.",
+          "G285 pays the fixed-parent main radical cap; G286 pays the admitted full error cap; G287 supplies the strongly selected all-ideal/whole-family masked error dictionary. The common weighted bank and unmasked witness admission remain open; G288 preserves all finite-divisor, profile and lower-length debts. Arbitrary or moving-parent punctures require their own uniform admission.",
           "Full variable-J physical-row weight pushforward, original geometric representative costs and all outer height tails must be paid under their actual contracts.",
           "DetectorBatch/internal-Q eligibility, supported-radical witnesses and any allegedly free weighted raw estimate are separate open admission questions.",
           "Finite puncture algebra is not a composite-mark projector theorem, a new native density theorem or an endpoint proof."
         ],
         "evidence": {
-          "basis": "frozen-written-proof-and-independent-source-contract-review",
-          "source_sha256": "86742adc8a1cc173bcbce374c9e4551c3f75f3b42825767533f9bb90610b2b10",
-          "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
-          "qualification": "Accepted written deduction under the actual error-family receipt; no new kernel or arithmetic result."
+          "basis": "full-author-independent-and-controller-written-review",
+          "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+          "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+          "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+          "qualification": "Written source-contract deduction; no new typecheck, axiom audit, kernel execution, weighted arithmetic bound or endpoint."
         }
       },
       "error_prerequisite_update": {
@@ -245,6 +246,52 @@
           "source_sha256": "86742adc8a1cc173bcbce374c9e4551c3f75f3b42825767533f9bb90610b2b10",
           "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
           "qualification": "Accepted written deduction under the actual error-family receipt; no new kernel or arithmetic result."
+        }
+      },
+      "selected_error_dictionary_update": {
+        "value": {
+          "component": "local:G287",
+          "unmasking_component": "local:G288",
+          "history": "Earlier immutable statements and all prior cap annotations are preserved; this is a later scoped update."
+        },
+        "evidence": {
+          "basis": "full-author-independent-and-controller-written-review",
+          "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+          "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+          "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+          "qualification": "Written source-contract deduction; no new typecheck, axiom audit, kernel execution, weighted arithmetic bound or endpoint."
+        }
+      }
+    },
+    "local:G286": {
+      "unresolved_prerequisites": {
+        "value": [
+          "G287 supplies the all-ideal, whole-family MASKED dictionary for its simultaneous coefficient-carrying existential selection. This does not identify every weak selector; unmasked witness transfer and the common weighted bank remain open, with exact divisor/profile debts in G288.",
+          "G270 still requires common widths/powers/rays/offsets/profiles, its gain-stability and subset family, exact frozen weighted M_b or M_btilde, all-real-height bank and tails. Arbitrary weighted fibers are not paid by unweighted counts.",
+          "Raw-to-free sixth-power fibers, Batch/RowData/internal-Q and nonexceptionality, same-zero SupportedWitness/composite spikes, positive slot supply and full height selection remain separate.",
+          "G236 already owns its complete error payment; retain 16*(k+1)*localErrorCost, one56/#P, physical normalizers and allocations. G266 main4a is distinct from error9a/2. No new error saving, density range, conductor exponent or endpoint follows.",
+          "Unrestricted twiceChild characters and moving parents without the receipt/uniform cap remain outside this result. G285 and older source statements retain their historical scope."
+        ],
+        "evidence": {
+          "basis": "full-author-independent-and-controller-written-review",
+          "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+          "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+          "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+          "qualification": "Written source-contract deduction; no new typecheck, axiom audit, kernel execution, weighted arithmetic bound or endpoint."
+        }
+      },
+      "dictionary_prerequisite_update": {
+        "value": {
+          "component": "local:G287",
+          "scope": "Strongly selected family, all ideals and whole masked family; no unmasked or weighted-bank conclusion",
+          "remaining": "G288 records finite detector shifts, full tails and exact admission deficits."
+        },
+        "evidence": {
+          "basis": "full-author-independent-and-controller-written-review",
+          "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+          "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+          "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+          "qualification": "Written source-contract deduction; no new typecheck, axiom audit, kernel execution, weighted arithmetic bound or endpoint."
         }
       }
     }
@@ -122387,7 +122434,7 @@
       "target": "local:G118",
       "kind": "depends_on",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
         "locator": "section 2",
         "qualification": "Uses the exact complete logarithmic convolution, including every prime power; no source estimate is inherited."
@@ -122398,7 +122445,7 @@
       "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Mellin.ExponentialSmoothing",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
         "locator": "section 7",
         "qualification": "Textual return-pattern comparison only. The indexed theorem needs nonprincipal chi, a pointwise source bound and near-zero conditions; the present L2 and principal cases are proved separately. Not a formalization link."
@@ -122409,7 +122456,7 @@
       "target": "local:G271",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
         "locator": "sections 2-4",
         "qualification": "The power quotient has the same leading prime term and pays a no-smaller repeated-power fee; its two-sided causal norm equivalence is separate."
@@ -122420,7 +122467,7 @@
       "target": "local:G118",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
         "locator": "section 6",
         "qualification": "Finite inverse equations require the complete boundary residual. This zero-dual bound includes the principal pole correction and does not inherit a global inverse estimate."
@@ -122431,7 +122478,7 @@
       "target": "local:G78",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "67da51f8ee7092c6b73dcffe9a944b22af58c38733fe0626576d8dbcc1db7661",
         "locator": "section 6",
         "qualification": "Earlier paid absolute inverses apply above exponent1; the new finite dual interface does not remove its full absolute boundary price."
@@ -122442,7 +122489,7 @@
       "target": "local:G264",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
         "locator": "sections 3 and 7",
         "qualification": "Complete block covariance/forward-width return has a different premise. The reverse finite-bank inequality here is not transferred from that premise."
@@ -122453,7 +122500,7 @@
       "target": "pr26:Global.Low.Detector.LowGaussianSum::low_dyad_norm_split@624",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
         "locator": "section 7",
         "qualification": "Both complementary norm series must be summable. Contract/proof-structure comparison only; no arithmetic Hecke bound or formalization claim is transferred."
@@ -122464,7 +122511,7 @@
       "target": "local:G145",
       "kind": "depends_on",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
         "locator": "sections 4 and 7",
         "qualification": "Uses the exact word-fibre lift/readout duality; specializes its certificate to the full eta-Gaussian source and pays the growing-order complement."
@@ -122475,7 +122522,7 @@
       "target": "local:G117",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
         "locator": "sections 4 and 7",
         "qualification": "Earlier factorial fibres and positive-certificate obstruction retain credit. The actual eta profile and retained-prime failure are the additional scope."
@@ -122486,7 +122533,7 @@
       "target": "local:G174",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
         "locator": "sections 4 and 7",
         "qualification": "Elementary prime-count proof supplies the retained-prime lower bound. Its insertion/adjoint operator and positive observation are different."
@@ -122497,7 +122544,7 @@
       "target": "local:G274",
       "kind": "depends_on",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "e64d629a0a8bce678577485d03a5e8c5d7dad68ac7989a45972dbf3d310b1b22",
         "locator": "section 4, physical-tail use",
         "qualification": "Uses only the proved complete Gaussian physical-tail estimate for both eta lobes, not the unproved reverse-heat source premise."
@@ -122508,7 +122555,7 @@
       "target": "local:G139",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "companion-detector section",
         "qualification": "Earlier finite banks repair common multiplier zeros by a different two-delay identity; the consecutive-moment recurrence is the distinct mechanism."
@@ -122519,7 +122566,7 @@
       "target": "HIST-27436504ad4cba08b2d5",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "Lean contract paragraph",
         "qualification": "Positive scales, full coefficient mass and integrable envelope guide interchange. The nonprincipal compact Mellin(W)*L theorem does not estimate these noncompact reciprocal-L sources. No formalization assertion."
@@ -122530,7 +122577,7 @@
       "target": "local-section:021601cba1a0a08525590f22",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "protected flow section",
         "qualification": "Prior neutral-prime boundary, phase fee and harmonic-index obstruction retain credit; incidence gauge, residual minimization and leaf energy are the scoped additions."
@@ -122541,7 +122588,7 @@
       "target": "local:G135",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "protected flow section",
         "qualification": "The earlier character/residue discrepancy and unmatched charge remain unpaid; a gap alone does not bound the charge."
@@ -122552,7 +122599,7 @@
       "target": "local:G276",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "protected flow section, complete cutoff",
         "qualification": "The finite graph can read each companion only after its whole exponential tail and retained signed response are paid. This is not proof of a companion estimate."
@@ -122563,7 +122610,7 @@
       "target": "local:G135",
       "kind": "depends_on",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "prime-feedback section",
         "qualification": "Uses the complete coefficient/Abel logarithmic identity and full Lambda-to-M equivalence. No new identity or independent weaker target is claimed."
@@ -122574,7 +122621,7 @@
       "target": "local:G173",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "prime-feedback attribution",
         "qualification": "Same complete higher-power majorant and small-prime absorption ancestry, but pointwise supremum and Gaussian energy hypotheses/masks differ."
@@ -122585,7 +122632,7 @@
       "target": "local:F08",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "weighted approximation section",
         "qualification": "At q=1 and theta=1/n the kernel is the negative original fractional-part function; no rediscovery of the generic approximation criterion."
@@ -122596,7 +122643,7 @@
       "target": "local-section:bc6251fa498017e1a353da2a",
       "kind": "related",
       "evidence": {
-        "access": "restricted-qrh",
+        "access": "restricted-source",
         "sha256": "986c00234b225c177796e9f00ea92bcd3e6170093b6325fde79ab3934a7bc11f",
         "locator": "weighted approximation section",
         "qualification": "The same weighted evaluation-functional sufficient criterion was already proved for zeta. The increment retains ordinary-character principal correction, finite-box price and full coefficient-dependent tail."
@@ -122853,6 +122900,401 @@
         "basis": "reviewed-source-contract-use",
         "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
         "scope": "Actual source-selected tau and numerical hupsilon for every original index; arbitrary constructors excluded."
+      }
+    },
+    {
+      "source": "local:G287",
+      "target": "local:G286",
+      "kind": "related",
+      "evidence": {
+        "basis": "full-author-independent-and-controller-written-review",
+        "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+        "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+        "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+        "qualification": "Uses the same selected source-family modulus receipt; supplies the previously open coefficient dictionary in its stated stronger-selection scope."
+      }
+    },
+    {
+      "source": "local:G287",
+      "target": "local:G270",
+      "kind": "related",
+      "evidence": {
+        "basis": "full-author-independent-and-controller-written-review",
+        "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+        "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+        "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+        "qualification": "Exact masked source interface, with weighted bank and Batch obligations still open."
+      }
+    },
+    {
+      "source": "local:G288",
+      "target": "local:G286",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "full-author-independent-and-controller-written-review",
+        "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+        "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+        "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+        "qualification": "The admitted fixed-power modulus cap pays each smooth Euler coefficient mass by an arbitrary epsilon."
+      }
+    },
+    {
+      "source": "local:G288",
+      "target": "local:G287",
+      "kind": "related",
+      "evidence": {
+        "basis": "full-author-independent-and-controller-written-review",
+        "source_sha256": "55862f55c9f483a15114027222701098fa88e293c8b9b9b484f348aa75db7e79",
+        "review_sha256": "ee0eee19b60d0a04aeb07a356d28754157ac14e1f75ee26e60319a302dbf608d",
+        "controller_review_sha256": "716996e80067d1be29c369c807bf91ee49c6f75fcdaf94b3a16d92fcef167830",
+        "qualification": "Applies exact finite-detector deletion to the canonical masked output; its new shifted-bank gates remain."
+      }
+    },
+    {
+      "source": "local:G289",
+      "target": "local:G268",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "ce10064f81349e831e9f99171d493841ba521e88004db6fbdc81be0a2719ef75",
+        "scope": "Same Laplace/Mellin ancestry; bounded cofactor is not inherited."
+      }
+    },
+    {
+      "source": "local:G289",
+      "target": "local:G269",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "ce10064f81349e831e9f99171d493841ba521e88004db6fbdc81be0a2719ef75",
+        "scope": "Shared signed off-diagonal accounting; no window-energy equivalence."
+      }
+    },
+    {
+      "source": "local:G290",
+      "target": "local:G289",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "8c977ec3216f4e6500958e0085174203880b2784e39aadea7bb49d616d8c282e",
+        "scope": "Stable modulus-three Gram reconstruction applied to the compensated source."
+      }
+    },
+    {
+      "source": "local:G290",
+      "target": "local:G268",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "8c977ec3216f4e6500958e0085174203880b2784e39aadea7bb49d616d8c282e",
+        "scope": "Rechecked complete inverse cuts, Gevrey/square payments and fixed prime-bank return."
+      }
+    },
+    {
+      "source": "local:G291",
+      "target": "local:G161",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "ce10064f81349e831e9f99171d493841ba521e88004db6fbdc81be0a2719ef75",
+        "scope": "Distinct actual-source local graph obstruction, with no implication or supersession."
+      }
+    },
+    {
+      "source": "local:G292",
+      "target": "local:G258",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "ce10064f81349e831e9f99171d493841ba521e88004db6fbdc81be0a2719ef75",
+        "scope": "Two-coordinate Abel margins versus one-coordinate atomic gap flux."
+      }
+    },
+    {
+      "source": "local:G292",
+      "target": "local:G163",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "ce10064f81349e831e9f99171d493841ba521e88004db6fbdc81be0a2719ef75",
+        "scope": "Native application alone uses its raw target, rooted marks and complete source contract."
+      }
+    },
+    {
+      "source": "local:G293",
+      "target": "local:G119",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "5be3dee86b25d6f1b6192eecdffa3a60d4e5d5cbfc692aa7824918d3fa05763f",
+        "scope": "Euler positivity is confined to the initial domain; no pressure estimate imported."
+      }
+    },
+    {
+      "source": "local:G294",
+      "target": "local:G119",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "a5fda43ffb4920876d8314925c07c0d32e82d1380d4850546e2608a558c8c2d6",
+        "scope": "Normal-family ancestry; literal partial sums differ from anchored Euler logs."
+      }
+    },
+    {
+      "source": "local:G294",
+      "target": "local:G284",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "a5fda43ffb4920876d8314925c07c0d32e82d1380d4850546e2608a558c8c2d6",
+        "scope": "Norm/readout and cutoff ancestry; exponent flow differs from prime insertion."
+      }
+    },
+    {
+      "source": "local:G295",
+      "target": "local:G268",
+      "kind": "related",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "6d7c9888b85ab915f126f9bc9ce0085337f0238ad94adb443c828b302692982f",
+        "qualification": "Same complete selected-square output allocation mechanism; new compact cubic kernel and masked low-product multiplier are proved separately. No equality of detectors or periods."
+      }
+    },
+    {
+      "source": "local:G296",
+      "target": "local:G295",
+      "kind": "related",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "6d7c9888b85ab915f126f9bc9ce0085337f0238ad94adb443c828b302692982f",
+        "qualification": "The new beta signed bound suffices for an allowed original Riesz order through the full positive mixture and finite H dilations; no beta-profile converse asserted."
+      }
+    },
+    {
+      "source": "local:G297",
+      "target": "local:G191",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "ce7db2b5a04fb61d25faba77eacae6ad88990a765bb41f0c4ff6c56e9255285f",
+        "qualification": "Whole finite frozen periodic short bank is paid by the fixed b,k theorem at b=4/3,k=24."
+      }
+    },
+    {
+      "source": "local:G297",
+      "target": "local:G192",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "ce7db2b5a04fb61d25faba77eacae6ad88990a765bb41f0c4ff6c56e9255285f",
+        "qualification": "Uses the general physical square-row and full damped high-output tail contracts, with all new exponents recalculated."
+      }
+    },
+    {
+      "source": "local:G297",
+      "target": "local:G193",
+      "kind": "related",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "ce7db2b5a04fb61d25faba77eacae6ad88990a765bb41f0c4ff6c56e9255285f",
+        "qualification": "Retains the general Mellin return but changes balanced/discrete Gram to asymmetric/continuous; does not supersede the old scoped threshold."
+      }
+    },
+    {
+      "source": "local:G298",
+      "target": "local:G268",
+      "kind": "related",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "ce7db2b5a04fb61d25faba77eacae6ad88990a765bb41f0c4ff6c56e9255285f",
+        "qualification": "Same ordinary inverse and complete Laplace signal; independent fixed-depth expansion and multivariate Abel payment. No norm ordering."
+      }
+    },
+    {
+      "source": "local:G299",
+      "target": "local:G298",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "ce7db2b5a04fb61d25faba77eacae6ad88990a765bb41f0c4ff6c56e9255285f",
+        "qualification": "Uses the exact fixed-depth source and proved multivariate Abel bound; telescoping adds one h and explicitly removes the zero signal."
+      }
+    },
+    {
+      "source": "local:G299",
+      "target": "local:A05",
+      "kind": "related",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "ce7db2b5a04fb61d25faba77eacae6ad88990a765bb41f0c4ff6c56e9255285f",
+        "qualification": "Both distinguish a divergent positive inverse certificate from possible signed inversion. Different spaces and thresholds; no transferred constants."
+      }
+    },
+    {
+      "source": "local:G300",
+      "target": "local:G288",
+      "kind": "related",
+      "evidence": {
+        "basis": "checked-written-contract",
+        "source_sha256": "ce7db2b5a04fb61d25faba77eacae6ad88990a765bb41f0c4ff6c56e9255285f",
+        "qualification": "Finite Euler deletion and shifted-bank accounting are analogous; this result is ordinary Liouville, not the normalized native ideal detector."
+      }
+    },
+    {
+      "source": "local:G301",
+      "target": "local:G288",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Fixed-mask results and their boundary",
+        "qualification": "Uses the exact normalized plain/smooth-divisor identities; no finite-window or arithmetic admission is inherited."
+      }
+    },
+    {
+      "source": "local:G301",
+      "target": "local:G285",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Fixed-mask results and their boundary",
+        "qualification": "The admitted main radical cap supplies only the fixed-parent subpower corollary, not RawMoment or global convergence."
+      }
+    },
+    {
+      "source": "local:G301",
+      "target": "local:G286",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Preserved costs and conclusion",
+        "qualification": "The admitted error caps supply only the subpower Euler-fee hypothesis; allocation gates and full presentation remain."
+      }
+    },
+    {
+      "source": "local:G302",
+      "target": "local:G270",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Useful source-preserving route",
+        "qualification": "The prescribed weighted bank does not imply the stronger divisor-projection Q. Original weights and source costs remain."
+      }
+    },
+    {
+      "source": "local:G302",
+      "target": "local:G287",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Useful source-preserving route; preserved costs",
+        "qualification": "The same masked witness can use the exact strengthened source dictionary; Q and Batch/internal-Q are additional premises."
+      }
+    },
+    {
+      "source": "local:G303",
+      "target": "local:G288",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Static inversion, CRT and exact finite expansions",
+        "qualification": "Same ideal projector, different exact expansion: additive/sign phases keep scale fixed; they do not close shifted-bank admission."
+      }
+    },
+    {
+      "source": "local:G303",
+      "target": "local:F17.R",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Sieve and spectral proposals",
+        "qualification": "Related open trace-formula route only; exact Eisenstein coefficients, level/cusp/angular and residual terms remain unpaid."
+      }
+    },
+    {
+      "source": "local:G303",
+      "target": "local:F17.T",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Sieve and spectral proposals",
+        "qualification": "Related open additive-kernel route only; finite projector completion does not establish a trace kernel or local arithmetic bound."
+      }
+    },
+    {
+      "source": "local:G303",
+      "target": "local:F17.S",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "24cb0d5c977ea8a60ab16e7a39a1954173bf29c8a59411c5c537a34b59d9dbba",
+        "locator": "Sieve and spectral proposals",
+        "qualification": "Related sparse-projector limitation only; completion gives no permission to replace the actual sparse source by ambient energy."
+      }
+    },
+    {
+      "source": "local:G305",
+      "target": "local:G304",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "checked-pinned-source-binding",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/0a73e73348befd36061ff251e43540c1b11135bc/submissions/gao-cycle61-plane-20261013/src/Candidate/Bundles/B022.lean#L204-L250",
+        "source_sha256": "ec13582d4ddf27d7944492f24026a9d4e7815af1283c58b6e75c5ac14b22a49b",
+        "qualification": "The top-row capacity and literal exponent certificate use this fixed B,Lambda specialization. This dependency is on its scalar constants and source binding, not on general-q analytic admission or an accepted endpoint."
+      }
+    },
+    {
+      "source": "local:G306",
+      "target": "local:G304",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "checked-pinned-source-consumer",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/0a73e73348befd36061ff251e43540c1b11135bc/submissions/gao-cycle61-plane-20261013/src/Candidate/Bundles/B156.lean#L949-L980",
+        "source_sha256": "5920793bb08b38b9f7c5181980c63a9b5c39ba42cc5a4f3dbf3edebdb134736e",
+        "qualification": "The numerical constants 400,22400,3072 use the positive minimum of G304's amplifier table. The generic safe-constant lemma is independent of this particular table. No prime-cardinality or weighted-bank dependency is discharged by this relation."
+      }
+    },
+    {
+      "source": "local:G307",
+      "target": "local:G295",
+      "kind": "related",
+      "evidence": {
+        "basis": "accepted-written-contract-and-independent-review",
+        "source_sha256": "321e0e69798dc229b44379b1c413b63556131557f84e0809c00dbf84bbdf35e0",
+        "review_sha256": "33d89b40ca18decce6406946a00253950c110aca2f17c091c2fb7c23afd748c1",
+        "qualification": "Fifth-depth adaptation of the complete cubic Riesz/selected-square mechanism; four-cofactor V polynomials, W^(5K) cost and all fifth banks are separately proved. No equivalence of cubic and fifth residual bounds."
+      }
+    },
+    {
+      "source": "local:G308",
+      "target": "local:G307",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "accepted-written-contract-and-independent-review",
+        "source_sha256": "321e0e69798dc229b44379b1c413b63556131557f84e0809c00dbf84bbdf35e0",
+        "review_sha256": "33d89b40ca18decce6406946a00253950c110aca2f17c091c2fb7c23afd748c1",
+        "qualification": "Uses the exact complete B_4 kernel, Mellin F and small-t/upper-support bounds; extends the local residue calculation to every finite zero multiplicity."
+      }
+    },
+    {
+      "source": "local:G308",
+      "target": "local:G296",
+      "kind": "related",
+      "evidence": {
+        "basis": "accepted-written-contract-and-independent-review",
+        "source_sha256": "321e0e69798dc229b44379b1c413b63556131557f84e0809c00dbf84bbdf35e0",
+        "review_sha256": "33d89b40ca18decce6406946a00253950c110aca2f17c091c2fb7c23afd748c1",
+        "qualification": "The earlier cubic simple-zero diagnostic has the same reciprocal-residue meaning; this result concerns fifth depth and all Laurent logarithmic modes. It does not supersede the earlier scoped identity."
+      }
+    },
+    {
+      "source": "local:G310",
+      "target": "local:G307",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "accepted-written-contract-and-independent-review",
+        "source_sha256": "321e0e69798dc229b44379b1c413b63556131557f84e0809c00dbf84bbdf35e0",
+        "review_sha256": "33d89b40ca18decce6406946a00253950c110aca2f17c091c2fb7c23afd748c1",
+        "qualification": "Uses the exact fifth convolution expansion, Abel payment and four-cofactor local square multipliers. The beta contour and its own return are established separately; the missing signed estimate is not inherited as proved."
+      }
+    },
+    {
+      "source": "local:G310",
+      "target": "local:G296",
+      "kind": "related",
+      "evidence": {
+        "basis": "accepted-written-contract-and-independent-review",
+        "source_sha256": "321e0e69798dc229b44379b1c413b63556131557f84e0809c00dbf84bbdf35e0",
+        "review_sha256": "33d89b40ca18decce6406946a00253950c110aca2f17c091c2fb7c23afd748c1",
+        "qualification": "Explicitly attributed fifth-depth adaptation of the shorter-period beta-profile and positive-mixture method. Different inverse depth and order threshold; no same-exponent beta converse or new independent seed."
       }
     }
   ],

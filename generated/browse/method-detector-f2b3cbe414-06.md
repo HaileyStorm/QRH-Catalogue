@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2846 matching records.
+Page 6/12; 2854 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -211,7 +211,7 @@ Page 6/12; 2846 matching records.
 - [local-section:05228820399190f6a125d3ea — 3. Simplifications that are valid, and shortcuts that are not](../records/0136.md#local-section-05228820399190f6a125d3ea-4d5b8cfe3f)
 - [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0136.md#local-section-05a898c044306d64e55cadee-b3fa865755)
 - [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0136.md#local-section-06178eec24a4b4514c023259-786003578f)
-- [local-section:069ac2c6079f6cad373b837b — \[private research revision\] independent review: capped original plains and two width envelopes](../records/0136.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
+- [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0136.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
 - [local-section:0702bc739eb372136a17d2cb — 1. Result and limits](../records/0136.md#local-section-0702bc739eb372136a17d2cb-4acd2bc919)
 - [local-section:07b88c0f93747803aa8cbeb8 — 3. The exact polynomial, its far part and changing the truncation](../records/0136.md#local-section-07b88c0f93747803aa8cbeb8-297d0bc09d)
 - [local-section:07c50be59f02ac80fa4faaa0 — 4. Reconstructing the enlarged density theorem](../records/0136.md#local-section-07c50be59f02ac80fa4faaa0-b84270e5b8)
@@ -227,8 +227,8 @@ Page 6/12; 2846 matching records.
 - [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0136.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0136.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0137.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
-- [local-section:0b36d2cf610bd8d983ecd9ec — \[private research revision\] joint-core independent review](../records/0137.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
-- [local-section:0bab331039a7570ab0869054 — \[private research revision\]: paid parts of the separated mixed moment](../records/0137.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
+- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0137.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
+- [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0137.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0137.md#local-section-0bf183397a361100a52101d9-744796ccee)
 - [local-section:0c16cf3e1ee0b89946566b4b — 5. Checks, source scope and dispositions of all30 cards](../records/0137.md#local-section-0c16cf3e1ee0b89946566b4b-5a30366b9d)
 - [local-section:0c63d13ac9a95e9904d846de — 2. Evidence and independent computation](../records/0137.md#local-section-0c63d13ac9a95e9904d846de-a7b793f6ef)
@@ -236,7 +236,7 @@ Page 6/12; 2846 matching records.
 - [local-section:0cb8b7fe25cd53f7bf6451f9 — 9. Strongest objection, limits and handoff](../records/0137.md#local-section-0cb8b7fe25cd53f7bf6451f9-76f5a38f02)
 - [local-section:0cc6ca6723986cc3fdb3690a — A checked hybrid of smoothing, filter banks and numerator phases](../records/0137.md#local-section-0cc6ca6723986cc3fdb3690a-3510407d9a)
 - [local-section:0d595ff2637efc643eebd766 — 6. Deliberately coarse complete prices and the remaining source](../records/0137.md#local-section-0d595ff2637efc643eebd766-8f0328bb5e)
-- [local-section:0d63031e38d91b9fa5050f0b — \[private research revision\]: coupling the original slot width to a finite amplifier atlas](../records/0137.md#local-section-0d63031e38d91b9fa5050f0b-bd75e5ce3d)
+- [local-section:0d63031e38d91b9fa5050f0b — \[research revision\]: coupling the original slot width to a finite amplifier atlas](../records/0137.md#local-section-0d63031e38d91b9fa5050f0b-bd75e5ce3d)
 - [local-section:0deb294e62e4267c57e6ceed — A slot-weighted high-bin estimate and a candidate c = .12514](../records/0137.md#local-section-0deb294e62e4267c57e6ceed-c437dd7048)
 - [local-section:0e41ca2c6badde88e0526704 — G137. A restricted inverse moment can pay both witness branches](../records/0137.md#local-section-0e41ca2c6badde88e0526704-f3b1755a66)
 - [local-section:0eae90fa68d4c091e5e95a95 — W56 independent review: conditional density gain, exact returns, no new c](../records/0137.md#local-section-0eae90fa68d4c091e5e95a95-87a426d2d5)
@@ -245,16 +245,16 @@ Page 6/12; 2846 matching records.
 - [local-section:0f8d17cdaf42d1670e4be6a8 — Accepted input packages](../records/0137.md#local-section-0f8d17cdaf42d1670e4be6a8-3b5dc21d96)
 - [local-section:0fc4c5bb9dc33995d433632e — 6. Completed comparison with the frozen author argument](../records/0137.md#local-section-0fc4c5bb9dc33995d433632e-10e1bf7a45)
 - [local-section:0fc985cc7ef08870ac798500 — 8. Handoff and the next mathematical action](../records/0137.md#local-section-0fc985cc7ef08870ac798500-6543b0471d)
-- [local-section:0fd868c7d3c2c9de3fb4b659 — \[private research revision\]: short rational cofactors and separated products](../records/0137.md#local-section-0fd868c7d3c2c9de3fb4b659-ddc1ad749b)
+- [local-section:0fd868c7d3c2c9de3fb4b659 — \[research revision\]: short rational cofactors and separated products](../records/0137.md#local-section-0fd868c7d3c2c9de3fb4b659-ddc1ad749b)
 - [local-section:104ab6eb5b1c0b4958a16277 — E: exact finite decoder obstruction](../records/0137.md#local-section-104ab6eb5b1c0b4958a16277-4e28032901)
 - [local-section:1069789dedf50efdaedb66b1 — 21. Mixed detector composition and actual prime matching](../records/0137.md#local-section-1069789dedf50efdaedb66b1-e573d3bbc9)
 - [local-section:11939212cfe4e8506a24c95d — G102. Three complete physical returns](../records/0137.md#local-section-11939212cfe4e8506a24c95d-3aaaf91be1)
 - [local-section:11aed782bac35ff6dd5212da — W40 — signed boundary budgets, the cost of positivity, and long projector cycles](../records/0137.md#local-section-11aed782bac35ff6dd5212da-7c09a722f8)
-- [local-section:11eb0e49462494399ea90080 — \[private research revision\]: paid detector composition and actual prime matching](../records/0137.md#local-section-11eb0e49462494399ea90080-bef6786726)
-- [local-section:120afe3f057270e2275d23a0 — \[private research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0137.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
+- [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0137.md#local-section-11eb0e49462494399ea90080-bef6786726)
+- [local-section:120afe3f057270e2275d23a0 — \[research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0137.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
 - [local-section:125e743e7a9a984a4e0ad65e — Direct mathematical changes](../records/0137.md#local-section-125e743e7a9a984a4e0ad65e-3344fc2d67)
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0138.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0138.md#local-section-131afc849327a89df717f91e-446c8d89e1)
 - [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0138.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
 - [local-section:136992535e0923895bbf7b26 — 6. Coarse attempts on the actual hard remainder](../records/0138.md#local-section-136992535e0923895bbf7b26-cf5523b89c)
-- [local-section:13871c7096f8eddfd61abf55 — \[private research revision\]: a complete repetition-layer sieve estimate](../records/0138.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
+- [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0138.md#local-section-13871c7096f8eddfd61abf55-adeeade553)

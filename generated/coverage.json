@@ -4,6 +4,8 @@
     "abbrev": 36,
     "approach_and_endpoint_claim": 1,
     "author_status_correction": 1,
+    "conditional-mathematical-transfer": 3,
+    "conditional-residue-diagnostic": 1,
     "conditional_approach": 1,
     "conditional_budget_lemma": 1,
     "conditional_diagnostic": 1,
@@ -51,8 +53,13 @@
     "manuscript_theorem": 3,
     "mathematical-identity-and-conditional-return": 1,
     "mathematical-identity-and-obstruction": 1,
-    "mathematical-source-admission": 4,
-    "mathematical-source-reduction": 24,
+    "mathematical-numerical-consumer-repair": 1,
+    "mathematical-obstruction": 1,
+    "mathematical-reduction": 5,
+    "mathematical-scalar-certificate": 1,
+    "mathematical-source-admission": 6,
+    "mathematical-source-parameter-family": 1,
+    "mathematical-source-reduction": 32,
     "mathematical-source-section": 3280,
     "metadata_migration": 1,
     "module": 763,
@@ -67,6 +74,7 @@
     "public-paper": 10,
     "public-submission": 31,
     "research-child": 109,
+    "restricted-nonvanishing-and-kernel-identities": 1,
     "result": 200,
     "result-review": 28,
     "retained_prose_section": 215,
@@ -86,7 +94,7 @@
     "theorem": 3049,
     "unchanged_entrypoint": 1
   },
-  "edges": 39693,
+  "edges": 39732,
   "evidence_class": "local deterministic navigation build; no theorem validation",
   "inputs": {
     "restricted-source:0004e89b7a8295e40fa806e8bc0574987affed7414c0998cb540db0a892c040f-21cebcd597fd": {
@@ -38558,7 +38566,7 @@
       "url": 30
     },
     "external_sources_fetched": false,
-    "full_intake_access": "restricted QRH; owner retains exact original rows and input hashes",
+    "full_intake_access": "source custodian retains exact original rows and input hashes; not publicly available",
     "raw_mathematical_fields": [
       "affected_contracts",
       "assumption_context",
@@ -38625,8 +38633,8 @@
     ],
     "version": 1
   },
-  "records": 21570,
-  "records_sha256": "6c2f0e015d26a07d0b3eee572c9432505a42f760f7318ebfd0b0f9600522b592",
+  "records": 21594,
+  "records_sha256": "aa897181e02b6d4fa6a91864993174a1303addc2abbd33922c1901e2a20c41ab",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }

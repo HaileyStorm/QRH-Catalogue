@@ -1,29 +1,90 @@
 # Contributing
 
-Browse the directory and search existing IDs before adding a component. Keep failed, withdrawn and dormant variants available; link corrections rather than deleting their history. Source occurrence identity and semantic equivalence have separate evidence requirements. Preserve coefficients, masks, natural zeros, exceptional terms, independent heights, input contracts and quantifier order.
+Corrections, new components, clearer explanations and better source evidence are
+welcome. You do not need to prove a new theorem to make a useful contribution.
+Browse the [directory](generated/DIRECTORY.md) and search existing IDs first.
 
-External contributors: fork the public repository, create a branch and submit a pull request with the changed mathematical records, public source/license pointers and evidence. For Hailey's owner-directed maintenance, direct commits and ordinary pushes to `main` are authorized now and for future synchronization; no PR is required. Apply the same evidence, review and local validation requirements, and never force-push. Include the affected IDs, the exact argument or formal revision, unresolved prerequisites and the local validation result. New components belong in `components.jsonl`; maintained annotations and links belong in `annotations.json`. Rebuild with `python catalogue.py refresh --root .` and validate with the commands in README. Templates/fixtures are outside catalogue inputs. Do not supply contributor scripts as proof-review evidence or expect reviewers to execute them.
+## Prepare a contribution
 
-Use local workers for validation/review. Do not add active `.github/workflows` runner jobs or any GitHub Actions/self-hosted-runner orchestration. GitHub repository/PR APIs and the local watcher/CLI suffice. Preserve legitimate upstream CI evidence links without treating them as authority to run hosted jobs here.
+Fork the repository, create a branch and open a pull request. Include the affected
+IDs, what changes, the exact argument or formal revision, unresolved prerequisites,
+source and licence pointers, and your local validation results. Maintainers may
+make direct updates under the same evidence and validation requirements.
 
-Formal contributions must identify exact public repository/ref/path, fully qualified names, module/package requirements and toolchain versions. Separate reported checks from actual typechecking, axiom auditing and kernel checks. Supply revision-bound receipts for each claimed stage. Source signatures and imports alone remain textual evidence. Mathematical/proof review is distinct from data-validation success.
+Add new components to `components.jsonl`; put field corrections and evidenced
+relations in `annotations.json`. Use the templates for formal components. Keep
+stable IDs and preserve failed, withdrawn and dormant variants; link corrections
+and supersessions instead of removing their history. Source occurrence identity
+does not establish mathematical equivalence.
 
-Link catalogue entries in papers and submissions using their stable IDs and exact catalogue commit/tag-pinned permalinks. Keep original-paper attribution. Add reciprocal public paper/submission and use links only when a public version and exact section/theorem/declaration support them. Record mere mention, documented use and claimed-but-unverified use separately; a catalogue link is not proof verification.
+State assumptions and quantifiers precisely. Preserve coefficients, signs, masks,
+natural zeros, exceptional terms, independent heights and input contracts. Keep
+proved statements, conditional implications and open estimates distinct. When
+correcting wording or provenance, do not silently strengthen a mathematical claim.
 
-For paper/record-to-Lean links, **both** conditions are mandatory: (1) the paper is published or the record has actually been submitted, and (2) the corresponding paper/proof is fully formalized end to end. Supply the exact public version, complete formalization revision/evidence and the components actually used. A submitted record can be awaiting review; acceptance is not required. Drafts, intended submissions, partial formalizations and isolated checked helpers do not qualify, including under a weaker use-link label. Keep textual source-location/import provenance separate from final-use assertions. Our formalizer maintains these links for owner work; reusable Lean records can be contributed and used for research independently of a qualifying publication link.
+## Check locally
 
-Pull regularly: at research-session start, cycle/work boundaries during sustained work, before relying on catalogue status in a new argument, and before publishing a direct update or pull request. First inspect local state and fetched changes:
+```sh
+python catalogue.py validate-contribution --root .
+python catalogue.py refresh --root .
+python catalogue.py validate --catalogue generated
+```
 
-```powershell
+Commit the maintained inputs and their regenerated outputs. Do not edit generated
+pages or shards directly. Templates and fixtures are excluded from catalogue
+inputs. Review affected queries and links as well as validation output.
+
+These checks establish data consistency, not mathematical correctness. Reviewers
+use trusted tools and will not execute contributor scripts as proof evidence.
+Do not add GitHub Actions workflows or hosted/self-hosted runner jobs. Upstream
+CI receipts are welcome as evidence tied to their actual source revision.
+
+## Supply useful evidence
+
+Prefer publicly accessible, immutable source links with exact locators and
+attribution. If evidence cannot be shared, label that limitation honestly and
+preserve a provenance hash; a hash is not a substitute for reviewable proof.
+Do not include credentials, operational logs, host paths, task/session IDs or
+material you lack permission to redistribute.
+
+Formal contributions need exact repository/revision/path, fully qualified names,
+package requirements and toolchain versions. Separate reported checks from actual
+typechecking, axiom auditing and kernel verification. Each claimed stage needs a
+receipt bound to that same revision; signatures and imports alone are textual
+evidence.
+
+Cite entries in papers and submissions with their stable IDs and pinned catalogue
+permalinks, preserving original-paper attribution. Add reciprocal public-artifact
+links only when a public version and exact section, theorem or declaration support
+them. Distinguish textual occurrence, mention, documented use and claimed use.
+
+Paper/record-to-Lean use links require both an actually published paper or submitted
+record and full end-to-end formalization of the corresponding proof. Supply exact
+versions, complete verification evidence and the components actually used. A
+submitted record may await review. Drafts, intended submissions, partial proofs
+and isolated helpers do not qualify, even under a weaker use-link label. Keep
+source-location and import provenance separate. Reusable Lean components can be
+contributed independently of a qualifying publication link.
+
+## Keep your branch current
+
+Inspect local changes and fetched updates before integrating:
+
+```sh
 git status --short
 git fetch origin
 git log --oneline HEAD..origin/main
 ```
 
-Inspect the fetched changes. If your checkout is clean and no local commits diverge, `git pull --ff-only` updates it safely. If dirty or diverged, preserve your work and resolve the integration explicitly; do not reset, force-update or automatically rebase it. Adapt `main` to the repository's actual default branch.
+For a clean, nondiverged branch, use `git pull --ff-only`. Otherwise preserve your
+work and resolve the integration deliberately; do not reset or force-update it.
+Sync before relying on changed records and before submitting. Repositories that
+consume this catalogue as a submodule manage their own revision pins separately.
 
-When using this repository as QRH's `catalogue/` submodule, `git submodule update --init catalogue` checks out the parent repository's recorded pin. Fetching a newer public catalogue does not silently change that pin. Advancing it requires review, a deliberate checkout of the desired catalogue revision and a parent commit of the submodule pointer. Preserve local submodule changes; no destructive checkout/reset/rebase is part of routine upkeep. The private QRH repository remains private.
+## Licensing
 
-Do not submit private operational data, absolute host paths, task/session IDs, credentials, fetch logs or unlicensed upstream proof bodies. Restricted mathematical pointers must be labelled restricted, with source hashes/provenance preserved. Public mathematical statements and assumptions must remain intact; a privacy edit must not quietly strengthen a theorem.
-
-Submit original tool contributions under MIT and original descriptions/metadata under CC BY4.0. Identify and preserve all third-party terms and attribution; these contribution licences do not relicense imported proof/text or claim ownership of mathematical facts. Read [LICENSING.md](LICENSING.md).
+Submit original tool changes under MIT and original descriptions and metadata
+under CC BY 4.0. Identify third-party material and its actual terms, preserve
+notices, and ensure you have authority to contribute it. These licences do not
+relicense imported sources or claim ownership of mathematical facts. See
+[Licensing and attribution](LICENSING.md).

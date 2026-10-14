@@ -2,12 +2,12 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 794 matching records.
+Page 4/4; 796 matching records.
 
 [Previous](topic-zero-free-f11185c371-03.md)
 
-- [local:G161 — \[private research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0170.md#local-g161-cdae7b8782)
-- [local:G167 — \[private research revision\]: actual-source costs of positive certificates (G167)](../records/0170.md#local-g167-804bc4b63c)
+- [local:G161 — \[research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0170.md#local-g161-cdae7b8782)
+- [local:G167 — \[research revision\]: actual-source costs of positive certificates (G167)](../records/0170.md#local-g167-804bc4b63c)
 - [local:G169 — G169. Complete occupation and compact-source interfaces](../records/0170.md#local-g169-33a9c577db)
 - [local:G170 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0170.md#local-g170-c98506834f)
 - [local:G172 — G172. Deflation changes the obstructing cell and preserves its cost](../records/0170.md#local-g172-3d45f2fa11)
@@ -27,10 +27,12 @@ Page 4/4; 794 matching records.
 - [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0171.md#local-g242-d89bd23acd)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0171.md#local-g246-8dd56008a9)
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0171.md#local-g283-bef435ea5c)
-- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
-- [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0171.md#local-g69-9bdd438ff0)
-- [local:G72 — G72. A complete quantitative short-window return](../records/0171.md#local-g72-501fc8c07b)
-- [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0171.md#local-g77-f75acc7bc5)
+- [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0171.md#local-g291-a2d579dcd5)
+- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0171.md#local-g295-06047ab12a)
+- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0172.md#local-g4-fb1605101b)
+- [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0172.md#local-g69-9bdd438ff0)
+- [local:G72 — G72. A complete quantitative short-window return](../records/0172.md#local-g72-501fc8c07b)
+- [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0172.md#local-g77-f75acc7bc5)
 - [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0172.md#local-g96-8db9d2be74)
 - [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0172.md#local-g97-7b0759357c)
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0172.md#local-g98-616457c461)
@@ -44,9 +46,9 @@ Page 4/4; 794 matching records.
 - [public-artifact:41c9154080f1033d5592a0e8 — single-prime-29-33-20261010/manuscript/zeta_zero_free_4_33_self_contained.tex](../records/0215.md#public-artifact-41c9154080f1033d5592a0e8-005aa2db1b)
 - [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0215.md#public-paper-liu-paper-1-e60f4435bd)
 - [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0215.md#public-paper-liu-paper-2-7a347a3bbf)
-- [review:T01 — \[private research revision\]-review:T01](../records/0215.md#review-t01-d60a8ef6a7)
-- [reviewed-claim:T09-compact-triple-L2 — \[private research revision\]-claim:T09-compact-triple-L2](../records/0216.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
-- [reviewed-claim:T09-fixed-Mobius-L2 — \[private research revision\]-claim:T09-fixed-Mobius-L2](../records/0216.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
-- [reviewed-claim:T10-continuum — \[private research revision\]-claim:T10-continuum](../records/0216.md#reviewed-claim-t10-continuum-69e758bd43)
-- [reviewed-claim:T10-two-dilations — \[private research revision\]-claim:T10-two-dilations](../records/0216.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
+- [review:T01 — \[research revision\]-review:T01](../records/0216.md#review-t01-d60a8ef6a7)
+- [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0216.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
+- [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0216.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
+- [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0216.md#reviewed-claim-t10-continuum-69e758bd43)
+- [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0216.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
 - [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0216.md#upstream-pr26-93f630ed04)
