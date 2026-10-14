@@ -2,7 +2,7 @@
 
 [Facet directory](origin.md) · [All facets](../DIRECTORY.md)
 
-Page 15/15; 3720 matching records.
+Page 15/15; 3722 matching records.
 
 [Previous](origin-qrh-mathematical-library-a6ebfb3916-14.md)
 
@@ -90,6 +90,8 @@ Page 15/15; 3720 matching records.
 - [local:G282 — G282. Conditional Mobius parity entropy, paid CRT discrepancy and character equivalence](../records/0171.md#local-g282-80ac2a35f5)
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0171.md#local-g283-bef435ea5c)
 - [local:G284 — G284. Corrected squarefree prime generator, actual noncontraction and full cutoff commutator](../records/0171.md#local-g284-d3ce1347c0)
+- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0171.md#local-g285-20901b6bc9)
+- [local:G286 — G286. Original admitted-error full-modulus caps and conditional puncture payment](../records/0171.md#local-g286-ee8938bc89)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0171.md#local-g3-c51dd6c4a6)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0171.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0171.md#local-g5-edf12c141c)
@@ -107,8 +109,8 @@ Page 15/15; 3720 matching records.
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0171.md#local-g77-f75acc7bc5)
 - [local:G78 — G78. Uniform depth and the full physical tail](../records/0171.md#local-g78-9d1a1f7ec0)
 - [local:G79 — G79. Exact drift and normalized Ward defects](../records/0171.md#local-g79-99600dfe1a)
-- [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0171.md#local-g80-5d9f92de8e)
-- [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0171.md#local-g81-99411dc86c)
+- [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0172.md#local-g80-5d9f92de8e)
+- [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0172.md#local-g81-99411dc86c)
 - [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0172.md#local-g82-b0a5fbfc89)
 - [local:G83 — G83. Actual balanced completion at growing order](../records/0172.md#local-g83-8dd3bd523d)
 - [local:G84 — G84. Exact moment and genuine paid sectors](../records/0172.md#local-g84-39571ccd9d)
@@ -186,8 +188,8 @@ Page 15/15; 3720 matching records.
 - [reviewed-claim:A01-embedded-extension — \[private research revision\]-claim:A01-embedded-extension](../records/0215.md#reviewed-claim-a01-embedded-extension-9eec840d93)
 - [reviewed-claim:A02-anisotropic-AFE-budget — \[private research revision\]-claim:A02-anisotropic-AFE-budget](../records/0215.md#reviewed-claim-a02-anisotropic-afe-budget-a8cad57bbf)
 - [reviewed-claim:A02-rectangular-frontier — \[private research revision\]-claim:A02-rectangular-frontier](../records/0215.md#reviewed-claim-a02-rectangular-frontier-e29f8341ff)
-- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0215.md#reviewed-claim-a02-reduced-index-de8dae2b57)
-- [reviewed-claim:A02-unequal-Type-I — \[private research revision\]-claim:A02-unequal-Type-I](../records/0215.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
+- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0216.md#reviewed-claim-a02-reduced-index-de8dae2b57)
+- [reviewed-claim:A02-unequal-Type-I — \[private research revision\]-claim:A02-unequal-Type-I](../records/0216.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
 - [reviewed-claim:A11-constrained-anchor-optimizer — \[private research revision\]-claim:A11-constrained-anchor-optimizer](../records/0216.md#reviewed-claim-a11-constrained-anchor-optimizer-44d1ef1e1c)
 - [reviewed-claim:A13-Gemini-false-identity — \[private research revision\]-claim:A13-Gemini-false-identity](../records/0216.md#reviewed-claim-a13-gemini-false-identity-2aa8791af0)
 - [reviewed-claim:A13-cubic-Jacobi — \[private research revision\]-claim:A13-cubic-Jacobi](../records/0216.md#reviewed-claim-a13-cubic-jacobi-d53d784b56)

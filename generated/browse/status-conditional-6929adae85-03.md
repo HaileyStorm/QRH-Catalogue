@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 543 matching records.
+Page 3/3; 545 matching records.
 
 [Previous](status-conditional-6929adae85-02.md)
 
@@ -23,6 +23,8 @@ Page 3/3; 543 matching records.
 - [local:G282 — G282. Conditional Mobius parity entropy, paid CRT discrepancy and character equivalence](../records/0171.md#local-g282-80ac2a35f5)
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0171.md#local-g283-bef435ea5c)
 - [local:G284 — G284. Corrected squarefree prime generator, actual noncontraction and full cutoff commutator](../records/0171.md#local-g284-d3ce1347c0)
+- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0171.md#local-g285-20901b6bc9)
+- [local:G286 — G286. Original admitted-error full-modulus caps and conditional puncture payment](../records/0171.md#local-g286-ee8938bc89)
 - [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0172.md#local-n27-f-a63b19d62a)
 - [local:N28.C — N28.C — Average b continuously on \[2,3\]](../records/0172.md#local-n28-c-ac2c6c0cac)
 - [local:N28.D — N28.D — Δ_bM=M(bx)−b^αM(x), b2,3, fixedα∈(0,1)](../records/0172.md#local-n28-d-ba4cbf6f6f)

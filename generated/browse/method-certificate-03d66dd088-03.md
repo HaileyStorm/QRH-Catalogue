@@ -257,4 +257,4 @@ Page 3/4; 765 matching records.
 - [local:G73 — \[private research revision\] attempt delta (G73)](../records/0171.md#local-g73-076e11ffdb)
 - [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0171.md#local-g74-c3716b767a)
 - [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0171.md#local-g76-089f3bed55)
-- [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0171.md#local-g80-5d9f92de8e)
+- [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0172.md#local-g80-5d9f92de8e)

@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 59/70; 17309 matching records.
+Page 59/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-58.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-60.md)
 
+- [pr26:Analytic.JointRowGeometry — Analytic.JointRowGeometry](../records/0188.md#pr26-analytic-jointrowgeometry-935a1359bc)
+- [pr26:Analytic.JointRowGeometry::actual_joint_missing_geometry@658 — actual_joint_missing_geometry](../records/0188.md#pr26-analytic-jointrowgeometry-actual-joint-missing-geometry-658-6d34c243a5)
 - [pr26:Analytic.JointRowGeometry::actual_joint_missing_geometry_log@691 — actual_joint_missing_geometry_log](../records/0188.md#pr26-analytic-jointrowgeometry-actual-joint-missing-geometry-log--dddc2c392a)
 - [pr26:Analytic.JointRowGeometry::actual_joint_row_geometry@550 — actual_joint_row_geometry](../records/0188.md#pr26-analytic-jointrowgeometry-actual-joint-row-geometry-550-f5d6fab6aa)
 - [pr26:Analytic.JointRowGeometry::actual_joint_row_geometry_log@599 — actual_joint_row_geometry_log](../records/0188.md#pr26-analytic-jointrowgeometry-actual-joint-row-geometry-log-599-4da7580ce3)
@@ -87,8 +89,8 @@ Page 59/70; 17309 matching records.
 - [pr26:Analytic.JointSecondBlock::joint_commonEnergy_second_blocks@815 — joint_commonEnergy_second_blocks](../records/0188.md#pr26-analytic-jointsecondblock-joint-commonenergy-second-blocks-8-fcfca96504)
 - [pr26:Analytic.JointSecondBlock::joint_normalizedBlock_eq_actual_children@714 — joint_normalizedBlock_eq_actual_children](../records/0188.md#pr26-analytic-jointsecondblock-joint-normalizedblock-eq-actual-ch-f710790e30)
 - [pr26:Analytic.JointSecondBlock::normalizedBlock_eq_actual_children@702 — normalizedBlock_eq_actual_children](../records/0188.md#pr26-analytic-jointsecondblock-normalizedblock-eq-actual-children-1397980f34)
-- [pr26:Analytic.JointSecondBlock::secondBlockChildCoefficient@652 — secondBlockChildCoefficient](../records/0188.md#pr26-analytic-jointsecondblock-secondblockchildcoefficient-652-84530d84e4)
-- [pr26:Analytic.JointSecondBlock::secondBlockChildCoefficient_eq_ray_row@662 — secondBlockChildCoefficient_eq_ray_row](../records/0188.md#pr26-analytic-jointsecondblock-secondblockchildcoefficient-eq-ray-6b18a6690f)
+- [pr26:Analytic.JointSecondBlock::secondBlockChildCoefficient@652 — secondBlockChildCoefficient](../records/0189.md#pr26-analytic-jointsecondblock-secondblockchildcoefficient-652-84530d84e4)
+- [pr26:Analytic.JointSecondBlock::secondBlockChildCoefficient_eq_ray_row@662 — secondBlockChildCoefficient_eq_ray_row](../records/0189.md#pr26-analytic-jointsecondblock-secondblockchildcoefficient-eq-ray-6b18a6690f)
 - [pr26:Analytic.JointSecondBlock::secondBlockKernel@642 — secondBlockKernel](../records/0189.md#pr26-analytic-jointsecondblock-secondblockkernel-642-4728c13df0)
 - [pr26:Analytic.JointSecondBlock::secondBlockRowPhase@674 — secondBlockRowPhase](../records/0189.md#pr26-analytic-jointsecondblock-secondblockrowphase-674-8bbda379b4)
 - [pr26:Analytic.JointSecondBlock::secondBlockRowPhase_norm@679 — secondBlockRowPhase_norm](../records/0189.md#pr26-analytic-jointsecondblock-secondblockrowphase-norm-679-a52f4bf617)
@@ -187,8 +189,8 @@ Page 59/70; 17309 matching records.
 - [pr26:Analytic.JointSecondLowTransport::firstSideCharacter@197 — firstSideCharacter](../records/0189.md#pr26-analytic-jointsecondlowtransport-firstsidecharacter-197-b60c7f1555)
 - [pr26:Analytic.JointSecondLowTransport::firstSideDictionaryUnit@253 — firstSideDictionaryUnit](../records/0189.md#pr26-analytic-jointsecondlowtransport-firstsidedictionaryunit-253-96ec531a5c)
 - [pr26:Analytic.JointSecondLowTransport::secondReconstructedRow@205 — secondReconstructedRow](../records/0189.md#pr26-analytic-jointsecondlowtransport-secondreconstructedrow-205-1c7bd6448d)
-- [pr26:Analytic.JointSecondProjector — Analytic.JointSecondProjector](../records/0189.md#pr26-analytic-jointsecondprojector-084be6349c)
-- [pr26:Analytic.JointSecondProjector::actual_joint_second_allocation_budget@448 — actual_joint_second_allocation_budget](../records/0189.md#pr26-analytic-jointsecondprojector-actual-joint-second-allocation-50bad1773f)
+- [pr26:Analytic.JointSecondProjector — Analytic.JointSecondProjector](../records/0190.md#pr26-analytic-jointsecondprojector-084be6349c)
+- [pr26:Analytic.JointSecondProjector::actual_joint_second_allocation_budget@448 — actual_joint_second_allocation_budget](../records/0190.md#pr26-analytic-jointsecondprojector-actual-joint-second-allocation-50bad1773f)
 - [pr26:Analytic.JointSecondProjector::actual_joint_second_envelope_budget@341 — actual_joint_second_envelope_budget](../records/0190.md#pr26-analytic-jointsecondprojector-actual-joint-second-envelope-b-d9d629ef79)
 - [pr26:Analytic.JointSecondProjector::actual_second_allocated_norm@530 — actual_second_allocated_norm](../records/0190.md#pr26-analytic-jointsecondprojector-actual-second-allocated-norm-5-2489168502)
 - [pr26:Analytic.JointSecondProjector::actual_second_allocated_pair@563 — actual_second_allocated_pair](../records/0190.md#pr26-analytic-jointsecondprojector-actual-second-allocated-pair-5-6eafd767e5)
@@ -256,5 +258,3 @@ Page 59/70; 17309 matching records.
 - [pr26:Analytic.JointSourceDyadicFibers — Analytic.JointSourceDyadicFibers](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-6fc4a9c59f)
 - [pr26:Analytic.JointSourceDyadicFibers::DyadicFiber@649 — DyadicFiber](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-dyadicfiber-649-5ea2433d51)
 - [pr26:Analytic.JointSourceDyadicFibers::FirstDyadic@640 — FirstDyadic](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-firstdyadic-640-2ac9242b40)
-- [pr26:Analytic.JointSourceDyadicFibers::SecondDyadic@646 — SecondDyadic](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-seconddyadic-646-a1cbfdde97)
-- [pr26:Analytic.JointSourceDyadicFibers::actual_source_dyadic_card_subpower@655 — actual_source_dyadic_card_subpower](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-actual-source-dyadic-card-s-311165fc86)

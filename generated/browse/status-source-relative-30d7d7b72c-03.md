@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 638 matching records.
+Page 3/3; 640 matching records.
 
 [Previous](status-source-relative-30d7d7b72c-02.md)
 
@@ -50,6 +50,8 @@ Page 3/3; 638 matching records.
 - [local:G236 — G236. Finite-table admission of the complete retained error at the K6 cone](../records/0171.md#local-g236-c50cb8b3f4)
 - [local:G266 — G266. Complete M=1 main fixed-inducing payment for finite amplifier tables, including K6](../records/0171.md#local-g266-7bdd724270)
 - [local:G270 — G270. Finite puncture/subset/common-height adapter and exact finite-Euler zero preservation](../records/0171.md#local-g270-268eafe75d)
+- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0171.md#local-g285-20901b6bc9)
+- [local:G286 — G286. Original admitted-error full-modulus caps and conditional puncture payment](../records/0171.md#local-g286-ee8938bc89)
 - [local:N27.C — N27.C — Only corridor G≤C K^γ for fixed C, γ=(1−u)/(2+v), is necessary with full strip/profile family](../records/0172.md#local-n27-c-d83884e231)
 - [local:N27.D — N27.D — Partition by the first admissible intermediate divisor, keeping signed selector weights and exceptional empty fibres](../records/0172.md#local-n27-d-24f25e5823)
 - [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0172.md#local-n27-f-a63b19d62a)
@@ -104,8 +106,8 @@ Page 3/3; 638 matching records.
 - [reviewed-claim:A01-embedded-extension — \[private research revision\]-claim:A01-embedded-extension](../records/0215.md#reviewed-claim-a01-embedded-extension-9eec840d93)
 - [reviewed-claim:A02-anisotropic-AFE-budget — \[private research revision\]-claim:A02-anisotropic-AFE-budget](../records/0215.md#reviewed-claim-a02-anisotropic-afe-budget-a8cad57bbf)
 - [reviewed-claim:A02-rectangular-frontier — \[private research revision\]-claim:A02-rectangular-frontier](../records/0215.md#reviewed-claim-a02-rectangular-frontier-e29f8341ff)
-- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0215.md#reviewed-claim-a02-reduced-index-de8dae2b57)
-- [reviewed-claim:A02-unequal-Type-I — \[private research revision\]-claim:A02-unequal-Type-I](../records/0215.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
+- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0216.md#reviewed-claim-a02-reduced-index-de8dae2b57)
+- [reviewed-claim:A02-unequal-Type-I — \[private research revision\]-claim:A02-unequal-Type-I](../records/0216.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
 - [reviewed-claim:A11-constrained-anchor-optimizer — \[private research revision\]-claim:A11-constrained-anchor-optimizer](../records/0216.md#reviewed-claim-a11-constrained-anchor-optimizer-44d1ef1e1c)
 - [reviewed-claim:A13-Gemini-false-identity — \[private research revision\]-claim:A13-Gemini-false-identity](../records/0216.md#reviewed-claim-a13-gemini-false-identity-2aa8791af0)
 - [reviewed-claim:A13-cubic-Jacobi — \[private research revision\]-claim:A13-cubic-Jacobi](../records/0216.md#reviewed-claim-a13-cubic-jacobi-d53d784b56)

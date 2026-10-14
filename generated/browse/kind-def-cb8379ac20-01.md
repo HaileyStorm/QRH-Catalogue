@@ -235,7 +235,7 @@ Page 1/4; 794 matching records.
 - [pr26:Analytic.JointFirstKernel::puncture@1214 — puncture](../records/0179.md#pr26-analytic-jointfirstkernel-puncture-1214-1fa38e1ce8)
 - [pr26:Analytic.JointFirstKernel::rawProjectors@1283 — rawProjectors](../records/0179.md#pr26-analytic-jointfirstkernel-rawprojectors-1283-42d261169f)
 - [pr26:Analytic.JointFirstKernel::rightCoefficient@1228 — rightCoefficient](../records/0179.md#pr26-analytic-jointfirstkernel-rightcoefficient-1228-b888fc16f1)
-- [pr26:Analytic.JointFirstKernel::rightLog@1246 — rightLog](../records/0179.md#pr26-analytic-jointfirstkernel-rightlog-1246-db7dba43b5)
+- [pr26:Analytic.JointFirstKernel::rightLog@1246 — rightLog](../records/0180.md#pr26-analytic-jointfirstkernel-rightlog-1246-db7dba43b5)
 - [pr26:Analytic.JointFirstKernel::rightRowCoefficient@1239 — rightRowCoefficient](../records/0180.md#pr26-analytic-jointfirstkernel-rightrowcoefficient-1239-4fbb89f323)
 - [pr26:Analytic.JointFirstKernel::sourceBlock@1412 — sourceBlock](../records/0180.md#pr26-analytic-jointfirstkernel-sourceblock-1412-a2b82c9f6b)
 - [pr26:Analytic.JointFirstKernel::sourceChild@1392 — sourceChild](../records/0180.md#pr26-analytic-jointfirstkernel-sourcechild-1392-d7456a445d)

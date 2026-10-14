@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 52/70; 17309 matching records.
+Page 52/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-51.md)
 
@@ -174,6 +174,8 @@ Page 52/70; 17309 matching records.
 - [local:G282 — G282. Conditional Mobius parity entropy, paid CRT discrepancy and character equivalence](../records/0171.md#local-g282-80ac2a35f5)
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0171.md#local-g283-bef435ea5c)
 - [local:G284 — G284. Corrected squarefree prime generator, actual noncontraction and full cutoff commutator](../records/0171.md#local-g284-d3ce1347c0)
+- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0171.md#local-g285-20901b6bc9)
+- [local:G286 — G286. Original admitted-error full-modulus caps and conditional puncture payment](../records/0171.md#local-g286-ee8938bc89)
 - [local:T01 — T01. Quantitative fixed-factor division — PROVED](../records/0172.md#local-t01-b6a84d226c)
 - [local:T02 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](../records/0172.md#local-t02-a87be8a14c)
 - [local:T03 — T03. Cube-free physical-row lifting — PROVED, sharp operator threshold](../records/0172.md#local-t03-8adc165824)
@@ -237,8 +239,8 @@ Page 52/70; 17309 matching records.
 - [pr26:Analytic.ActualFirstErrorSource::actual_first_extracted_error_source_sum@640 — actual_first_extracted_error_source_sum](../records/0172.md#pr26-analytic-actualfirsterrorsource-actual-first-extracted-error-bbabbaac9c)
 - [pr26:Analytic.ActualFirstExtractedErrors — Analytic.ActualFirstExtractedErrors](../records/0172.md#pr26-analytic-actualfirstextractederrors-da69dc8577)
 - [pr26:Analytic.ActualFirstExtractedErrors::Admissible@883 — Admissible](../records/0172.md#pr26-analytic-actualfirstextractederrors-admissible-883-2998f094c2)
-- [pr26:Analytic.ActualFirstExtractedErrors::ExtractedErrorRun@863 — ExtractedErrorRun](../records/0172.md#pr26-analytic-actualfirstextractederrors-extractederrorrun-863-cb072a75d5)
-- [pr26:Analytic.ActualFirstExtractedErrors::actual_first_allocated_extracted_error_sum@912 — actual_first_allocated_extracted_error_sum](../records/0172.md#pr26-analytic-actualfirstextractederrors-actual-first-allocated-e-ab0160b9bf)
+- [pr26:Analytic.ActualFirstExtractedErrors::ExtractedErrorRun@863 — ExtractedErrorRun](../records/0173.md#pr26-analytic-actualfirstextractederrors-extractederrorrun-863-cb072a75d5)
+- [pr26:Analytic.ActualFirstExtractedErrors::actual_first_allocated_extracted_error_sum@912 — actual_first_allocated_extracted_error_sum](../records/0173.md#pr26-analytic-actualfirstextractederrors-actual-first-allocated-e-ab0160b9bf)
 - [pr26:Analytic.ActualFirstExtractedErrors::normalizedValue@871 — normalizedValue](../records/0173.md#pr26-analytic-actualfirstextractederrors-normalizedvalue-871-eeff5d779e)
 - [pr26:Analytic.ActualFreeDensity — Analytic.ActualFreeDensity](../records/0173.md#pr26-analytic-actualfreedensity-0cd70401dd)
 - [pr26:Analytic.ActualFreeDensity::actual_free_density_eventually@658 — actual_free_density_eventually](../records/0173.md#pr26-analytic-actualfreedensity-actual-free-density-eventually-65-58ecb80200)
@@ -256,5 +258,3 @@ Page 52/70; 17309 matching records.
 - [pr26:Analytic.ActualRawDensity — Analytic.ActualRawDensity](../records/0173.md#pr26-analytic-actualrawdensity-6f1fa8a74f)
 - [pr26:Analytic.ActualRawDensity::DensityWindow@133 — DensityWindow](../records/0173.md#pr26-analytic-actualrawdensity-densitywindow-133-b0c5d2f3a1)
 - [pr26:Analytic.ActualRawDensity::actual_momentData_density@261 — actual_momentData_density](../records/0173.md#pr26-analytic-actualrawdensity-actual-momentdata-density-261-b3e93cb039)
-- [pr26:Analytic.ActualRawDensity::actual_momentData_free_density_eventually@164 — actual_momentData_free_density_eventually](../records/0173.md#pr26-analytic-actualrawdensity-actual-momentdata-free-density-eve-8b3f8af867)
-- [pr26:Analytic.ActualRawDensity::densityWindow_exponent_bounds@140 — densityWindow_exponent_bounds](../records/0173.md#pr26-analytic-actualrawdensity-densitywindow-exponent-bounds-140-daa454c541)

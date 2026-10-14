@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 69/70; 17309 matching records.
+Page 69/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::dirichlet_of_raw_moments@616 — dirichlet_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-dirichlet-a045ef4ba9)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::hecke_of_raw_moments@627 — hecke_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-hecke-of--a9a80d8064)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::zeta_of_raw_moments@623 — zeta_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-zeta-of-r-6c2f15d61d)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyarithmetic-e23e66f593)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic::actual_nonfloor_cube_arithmetic@377 — actual_nonfloor_cube_arithmetic](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyarithmetic-fb324d8946)
@@ -87,8 +89,8 @@ Page 69/70; 17309 matching records.
 - [pr26:Physical.Capacity::transportCapacity_le_supply@481 — transportCapacity_le_supply](../records/0213.md#pr26-physical-capacity-transportcapacity-le-supply-481-7b7ed6e263)
 - [pr26:Physical.Capacity::transportCapacity_nonneg@462 — transportCapacity_nonneg](../records/0213.md#pr26-physical-capacity-transportcapacity-nonneg-462-c3698027b9)
 - [pr26:Physical.Capacity::transport_pair_dispatch@567 — transport_pair_dispatch](../records/0213.md#pr26-physical-capacity-transport-pair-dispatch-567-36720ba6bb)
-- [pr26:Physical.Capacity::transport_repayment@486 — transport_repayment](../records/0213.md#pr26-physical-capacity-transport-repayment-486-6b12ba64d2)
-- [pr26:Physical.Capacity::transport_repayment_padded@513 — transport_repayment_padded](../records/0213.md#pr26-physical-capacity-transport-repayment-padded-513-361fe04112)
+- [pr26:Physical.Capacity::transport_repayment@486 — transport_repayment](../records/0214.md#pr26-physical-capacity-transport-repayment-486-6b12ba64d2)
+- [pr26:Physical.Capacity::transport_repayment_padded@513 — transport_repayment_padded](../records/0214.md#pr26-physical-capacity-transport-repayment-padded-513-361fe04112)
 - [pr26:Physical.DiagonalCapacity — Physical.DiagonalCapacity](../records/0214.md#pr26-physical-diagonalcapacity-cef5fdbb76)
 - [pr26:Physical.DiagonalCapacity::local_diagonal_capacities@188 — local_diagonal_capacities](../records/0214.md#pr26-physical-diagonalcapacity-local-diagonal-capacities-188-bb876a5527)
 - [pr26:Physical.DiagonalCapacity::transport_pair_diagonal_dispatch@198 — transport_pair_diagonal_dispatch](../records/0214.md#pr26-physical-diagonalcapacity-transport-pair-diagonal-dispatch-1-c8166ce041)
@@ -187,8 +189,8 @@ Page 69/70; 17309 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_homogeneous@7527 — actual_error_homogeneous](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-hom-7b67aead72)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_power_from_bands@7217 — actual_error_power_from_bands](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-pow-d78e8eeeff)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_smaller_gaussian@6935 — actual_error_smaller_gaussian](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-sma-d45ff3eb42)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_uniform_child@6311 — actual_error_uniform_child](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-uni-0fc6b8d87c)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_growth_physical@13108 — actual_growth_physical](../records/0214.md#pr26-zetazerofree-analytic-moments-unconditional-actual-growth-ph-2ca32db6f9)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_uniform_child@6311 — actual_error_uniform_child](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-uni-0fc6b8d87c)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_growth_physical@13108 — actual_growth_physical](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-actual-growth-ph-2ca32db6f9)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_high_physical@10886 — actual_high_physical](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-actual-high-phys-07ce84e3c0)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_high_stage@12954 — actual_high_stage](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-actual-high-stag-2268f4af89)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_joint_floor@12408 — actual_joint_floor](../records/0215.md#pr26-zetazerofree-analytic-moments-unconditional-actual-joint-flo-7abf28dfcc)
@@ -256,5 +258,3 @@ Page 69/70; 17309 matching records.
 - [review:A09 — \[private research revision\]-review:A09](../records/0215.md#review-a09-2b5b8434a0)
 - [review:A10 — \[private research revision\]-review:A10](../records/0215.md#review-a10-0e99a8e28a)
 - [review:A11 — \[private research revision\]-review:A11](../records/0215.md#review-a11-e0aa5e6402)
-- [review:A12 — \[private research revision\]-review:A12](../records/0215.md#review-a12-c73649739f)
-- [review:A13 — \[private research revision\]-review:A13](../records/0215.md#review-a13-381097af30)

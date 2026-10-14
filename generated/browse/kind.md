@@ -52,7 +52,7 @@
 - [manuscript_theorem (3)](kind-manuscript-theorem-e89f4269c3-01.md)
 - [mathematical-identity-and-conditional-return (1)](kind-mathematical-identity-and-conditional-return-8168f97a76-01.md)
 - [mathematical-identity-and-obstruction (1)](kind-mathematical-identity-and-obstruction-c0dc9b4966-01.md)
-- [mathematical-source-admission (2)](kind-mathematical-source-admission-f4da75d76c-01.md)
+- [mathematical-source-admission (4)](kind-mathematical-source-admission-f4da75d76c-01.md)
 - [mathematical-source-reduction (24)](kind-mathematical-source-reduction-f444651e66-01.md)
 - [mathematical-source-section (3280)](kind-mathematical-source-section-796a94a9bf-01.md)
 - [metadata_migration (1)](kind-metadata-migration-a27964d5ec-01.md)

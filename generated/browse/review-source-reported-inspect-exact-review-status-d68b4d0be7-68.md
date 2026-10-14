@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 68/70; 17309 matching records.
+Page 68/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-67.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-69.md)
 
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::source_multiplier_differentiable_w@758 — source_multiplier_differentiable_w](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-source-mult-51603a1ef9)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::source_multiplier_differentiable_z@779 — source_multiplier_differentiable_z](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-source-mult-96af06c04a)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::source_w_boundary@736 — source_w_boundary](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-source-w-bo-818cded292)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::window_at_residue@809 — window_at_residue](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-window-at-r-27a7bd2250)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProductX — Global.Transport.PrincipalRemainderFiniteProductX](../records/0210.md#pr26-global-transport-principalremainderfiniteproductx-73f043486e)
@@ -37,8 +39,8 @@ Page 68/70; 17309 matching records.
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_bound@507 — remainder_globalClosedCorrection_bound](../records/0210.md#pr26-global-transport-principalremainderregion-remainder-globalcl-4712567a88)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_multipliable@515 — remainder_globalClosedCorrection_multipliable](../records/0210.md#pr26-global-transport-principalremainderregion-remainder-globalcl-f9e479173a)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_idealClosedCorrection_bound@494 — remainder_idealClosedCorrection_bound](../records/0210.md#pr26-global-transport-principalremainderregion-remainder-idealclo-1fff3ffa7e)
-- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_open_region_denominators@444 — remainder_open_region_denominators](../records/0210.md#pr26-global-transport-principalremainderregion-remainder-open-reg-fafe098c73)
-- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_w@474 — remainder_unramifiedClosed_analytic_w](../records/0210.md#pr26-global-transport-principalremainderregion-remainder-unramifi-26f86dad30)
+- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_open_region_denominators@444 — remainder_open_region_denominators](../records/0211.md#pr26-global-transport-principalremainderregion-remainder-open-reg-fafe098c73)
+- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_w@474 — remainder_unramifiedClosed_analytic_w](../records/0211.md#pr26-global-transport-principalremainderregion-remainder-unramifi-26f86dad30)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_x@466 — remainder_unramifiedClosed_analytic_x](../records/0211.md#pr26-global-transport-principalremainderregion-remainder-unramifi-7c2734dca2)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_z@483 — remainder_unramifiedClosed_analytic_z](../records/0211.md#pr26-global-transport-principalremainderregion-remainder-unramifi-6af553d90a)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramified_bound@381 — remainder_unramified_bound](../records/0211.md#pr26-global-transport-principalremainderregion-remainder-unramifi-9026a490ee)
@@ -137,8 +139,8 @@ Page 68/70; 17309 matching records.
 - [pr26:Global.Weighted.FullWCellInput::FullWCellsAt@722 — FullWCellsAt](../records/0211.md#pr26-global-weighted-fullwcellinput-fullwcellsat-722-23863532da)
 - [pr26:Global.Weighted.Input — Global.Weighted.Input](../records/0211.md#pr26-global-weighted-input-285ce29193)
 - [pr26:Global.Weighted.Input::FullWAnalyticInput@326 — FullWAnalyticInput](../records/0211.md#pr26-global-weighted-input-fullwanalyticinput-326-6efec1fcd8)
-- [pr26:Global.Weighted.Input::IntegratedFullWAnalyticInput@342 — IntegratedFullWAnalyticInput](../records/0211.md#pr26-global-weighted-input-integratedfullwanalyticinput-342-64b36804ea)
-- [pr26:Global.Weighted.Input::fullW_input_of_integrated_input@358 — fullW_input_of_integrated_input](../records/0211.md#pr26-global-weighted-input-fullw-input-of-integrated-input-358-ad16c36bf4)
+- [pr26:Global.Weighted.Input::IntegratedFullWAnalyticInput@342 — IntegratedFullWAnalyticInput](../records/0212.md#pr26-global-weighted-input-integratedfullwanalyticinput-342-64b36804ea)
+- [pr26:Global.Weighted.Input::fullW_input_of_integrated_input@358 — fullW_input_of_integrated_input](../records/0212.md#pr26-global-weighted-input-fullw-input-of-integrated-input-358-ad16c36bf4)
 - [pr26:Global.Weighted.RawCells — Global.Weighted.RawCells](../records/0212.md#pr26-global-weighted-rawcells-1300ef5554)
 - [pr26:Global.Weighted.RawCells::RawFullWAnalyticInput@255 — RawFullWAnalyticInput](../records/0212.md#pr26-global-weighted-rawcells-rawfullwanalyticinput-255-5381ac5f7b)
 - [pr26:Global.Weighted.RawCells::RawSourceDyadBound@198 — RawSourceDyadBound](../records/0212.md#pr26-global-weighted-rawcells-rawsourcedyadbound-198-7b961ba27f)
@@ -237,8 +239,8 @@ Page 68/70; 17309 matching records.
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.fiberRows@916 — UnmarkedBatch.fiberRows](../records/0212.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-fiberrows-916-851f2e1f33)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.ofSupportedRows@895 — UnmarkedBatch.ofSupportedRows](../records/0212.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-ofsupportedrows-895-0576ba55f9)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch@872 — UnmarkedBatch](../records/0212.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-872-35bd92feae)
-- [pr26:LocalMoment.UnmarkedBatch::batch_count_from_unmarked_raw_moments@979 — batch_count_from_unmarked_raw_moments](../records/0212.md#pr26-localmoment-unmarkedbatch-batch-count-from-unmarked-raw-mome-826e84f712)
-- [pr26:LocalMoment.UnmarkedBatch::supportedRowRetraction@888 — supportedRowRetraction](../records/0212.md#pr26-localmoment-unmarkedbatch-supportedrowretraction-888-deecb540f3)
+- [pr26:LocalMoment.UnmarkedBatch::batch_count_from_unmarked_raw_moments@979 — batch_count_from_unmarked_raw_moments](../records/0213.md#pr26-localmoment-unmarkedbatch-batch-count-from-unmarked-raw-mome-826e84f712)
+- [pr26:LocalMoment.UnmarkedBatch::supportedRowRetraction@888 — supportedRowRetraction](../records/0213.md#pr26-localmoment-unmarkedbatch-supportedrowretraction-888-deecb540f3)
 - [pr26:LocalMoment.UnmarkedBatch::supportedRowRetraction_mem@891 — supportedRowRetraction_mem](../records/0213.md#pr26-localmoment-unmarkedbatch-supportedrowretraction-mem-891-94a1c31c2d)
 - [pr26:LocalMoment.UnmarkedDensity — LocalMoment.UnmarkedDensity](../records/0213.md#pr26-localmoment-unmarkeddensity-847ac55e6e)
 - [pr26:LocalMoment.UnmarkedDensity::UnmarkedFiber.m@495 — UnmarkedFiber.m](../records/0213.md#pr26-localmoment-unmarkeddensity-unmarkedfiber-m-495-417727137d)
@@ -256,5 +258,3 @@ Page 68/70; 17309 matching records.
 - [pr26:LocalMoment.UnmarkedDensity::unmarked_count_bound@425 — unmarked_count_bound](../records/0213.md#pr26-localmoment-unmarkeddensity-unmarked-count-bound-425-8cee15675e)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-6feda61b95)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::common_probe_of_raw_moments@593 — common_probe_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-common-pr-7a34dce64f)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::dirichlet_of_raw_moments@616 — dirichlet_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-dirichlet-a045ef4ba9)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::hecke_of_raw_moments@627 — hecke_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-hecke-of--a9a80d8064)

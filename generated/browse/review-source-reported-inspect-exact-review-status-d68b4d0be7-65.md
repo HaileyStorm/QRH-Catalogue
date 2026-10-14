@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 65/70; 17309 matching records.
+Page 65/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-64.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
+- [pr26:Cycle25.Numerator.Imported.Parameters::theta_pos@42 — theta_pos](../records/0203.md#pr26-cycle25-numerator-imported-parameters-theta-pos-42-f043357137)
+- [pr26:Cycle25.Numerator.Imported.Parameters::x_rescaled_pos@66 — x_rescaled_pos](../records/0203.md#pr26-cycle25-numerator-imported-parameters-x-rescaled-pos-66-5d2491d2bb)
 - [pr26:Cycle25.Numerator.Imported.Parameters::y_rescaled_pos@67 — y_rescaled_pos](../records/0203.md#pr26-cycle25-numerator-imported-parameters-y-rescaled-pos-67-9e267e241a)
 - [pr26:Cycle25.Numerator.Imported.RowConductor — Cycle25.Numerator.Imported.RowConductor](../records/0203.md#pr26-cycle25-numerator-imported-rowconductor-60f027cb90)
 - [pr26:Cycle25.Numerator.Imported.RowConductor::LFunction_eq_of_elementCoeff_eq@72 — LFunction_eq_of_elementCoeff_eq](../records/0203.md#pr26-cycle25-numerator-imported-rowconductor-lfunction-eq-of-elem-5a9556789b)
@@ -87,8 +89,8 @@ Page 65/70; 17309 matching records.
 - [pr26:Cycle25.Numerator.SourceParameters — Cycle25.Numerator.SourceParameters](../records/0203.md#pr26-cycle25-numerator-sourceparameters-eb8157edc3)
 - [pr26:Cycle25.Numerator.SourceParameters::source_complex_profile_norm@340 — source_complex_profile_norm](../records/0203.md#pr26-cycle25-numerator-sourceparameters-source-complex-profile-no-f441eed918)
 - [pr26:Cycle25.Numerator.SourceParameters::source_main_normalized_upper@345 — source_main_normalized_upper](../records/0203.md#pr26-cycle25-numerator-sourceparameters-source-main-normalized-up-8d69e79668)
-- [pr26:Cycle25.Numerator.SourceParameters::source_packet_lines@328 — source_packet_lines](../records/0203.md#pr26-cycle25-numerator-sourceparameters-source-packet-lines-328-50a6126a94)
-- [pr26:Cycle25.Numerator.SourcePrimeBins — Cycle25.Numerator.SourcePrimeBins](../records/0203.md#pr26-cycle25-numerator-sourceprimebins-ddee0b1f1c)
+- [pr26:Cycle25.Numerator.SourceParameters::source_packet_lines@328 — source_packet_lines](../records/0204.md#pr26-cycle25-numerator-sourceparameters-source-packet-lines-328-50a6126a94)
+- [pr26:Cycle25.Numerator.SourcePrimeBins — Cycle25.Numerator.SourcePrimeBins](../records/0204.md#pr26-cycle25-numerator-sourceprimebins-ddee0b1f1c)
 - [pr26:Cycle25.Numerator.SourcePrimeBins::weighted_source_prime_bins@517 — weighted_source_prime_bins](../records/0204.md#pr26-cycle25-numerator-sourceprimebins-weighted-source-prime-bins-4e59fce2e1)
 - [pr26:Cycle25.Numerator.SourceSZBound — Cycle25.Numerator.SourceSZBound](../records/0204.md#pr26-cycle25-numerator-sourceszbound-164a74e170)
 - [pr26:Cycle25.Numerator.SourceSZBound::sourceSZWeight_norm@105 — sourceSZWeight_norm](../records/0204.md#pr26-cycle25-numerator-sourceszbound-sourceszweight-norm-105-a7083e067f)
@@ -187,8 +189,8 @@ Page 65/70; 17309 matching records.
 - [pr26:Global.Endpoint::beta_le_theta@485 — beta_le_theta](../records/0204.md#pr26-global-endpoint-beta-le-theta-485-04ac651cb5)
 - [pr26:Global.Endpoint::dirichlet_nonzero@494 — dirichlet_nonzero](../records/0204.md#pr26-global-endpoint-dirichlet-nonzero-494-0ad4673c49)
 - [pr26:Global.Endpoint::hecke_nonzero@488 — hecke_nonzero](../records/0204.md#pr26-global-endpoint-hecke-nonzero-488-1737f862d2)
-- [pr26:Global.Endpoint::strictly_better_than_cycle25@504 — strictly_better_than_cycle25](../records/0204.md#pr26-global-endpoint-strictly-better-than-cycle25-504-32390cebf6)
-- [pr26:Global.Endpoint::zeta_nonzero@500 — zeta_nonzero](../records/0204.md#pr26-global-endpoint-zeta-nonzero-500-c8f7b8a621)
+- [pr26:Global.Endpoint::strictly_better_than_cycle25@504 — strictly_better_than_cycle25](../records/0205.md#pr26-global-endpoint-strictly-better-than-cycle25-504-32390cebf6)
+- [pr26:Global.Endpoint::zeta_nonzero@500 — zeta_nonzero](../records/0205.md#pr26-global-endpoint-zeta-nonzero-500-c8f7b8a621)
 - [pr26:Global.Final.Baseline — Global.Final.Baseline](../records/0205.md#pr26-global-final-baseline-525e3b0453)
 - [pr26:Global.Final.Baseline::baseline_beta@407 — baseline_beta](../records/0205.md#pr26-global-final-baseline-baseline-beta-407-6058249fb8)
 - [pr26:Global.Final.Baseline::moment_parameter_gates@413 — moment_parameter_gates](../records/0205.md#pr26-global-final-baseline-moment-parameter-gates-413-911d173162)
@@ -256,5 +258,3 @@ Page 65/70; 17309 matching records.
 - [pr26:Global.Low.Detector.LowGaussianSum — Global.Low.Detector.LowGaussianSum](../records/0205.md#pr26-global-low-detector-lowgaussiansum-e7f77b6496)
 - [pr26:Global.Low.Detector.LowGaussianSum::low_all_gaussian_dyads@635 — low_all_gaussian_dyads](../records/0205.md#pr26-global-low-detector-lowgaussiansum-low-all-gaussian-dyads-63-b0e3e7899b)
 - [pr26:Global.Low.Detector.LowGaussianSum::low_dyad_norm_split@624 — low_dyad_norm_split](../records/0205.md#pr26-global-low-detector-lowgaussiansum-low-dyad-norm-split-624-bd41c32c4b)
-- [pr26:Global.Low.Detector.LowGramScale — Global.Low.Detector.LowGramScale](../records/0205.md#pr26-global-low-detector-lowgramscale-7dc6d62852)
-- [pr26:Global.Low.Detector.LowGramScale::compensated_gram_ratio@155 — compensated_gram_ratio](../records/0205.md#pr26-global-low-detector-lowgramscale-compensated-gram-ratio-155-6fa6f0f90a)

@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 67/70; 17309 matching records.
+Page 67/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
+- [pr26:Global.Parameters::numerator_supply_all@537 — numerator_supply_all](../records/0208.md#pr26-global-parameters-numerator-supply-all-537-ee53d6c1c8)
+- [pr26:Global.Parameters::principal_w_margin@550 — principal_w_margin](../records/0208.md#pr26-global-parameters-principal-w-margin-550-3966626f1d)
 - [pr26:Global.Parameters::principal_z_margin@551 — principal_z_margin](../records/0208.md#pr26-global-parameters-principal-z-margin-551-2f6b17bf94)
 - [pr26:Global.Parameters::rowExtension@479 — rowExtension](../records/0208.md#pr26-global-parameters-rowextension-479-7363d3163a)
 - [pr26:Global.Parameters::rowExtension_pos@517 — rowExtension_pos](../records/0208.md#pr26-global-parameters-rowextension-pos-517-380894be03)
@@ -87,8 +89,8 @@ Page 67/70; 17309 matching records.
 - [pr26:Global.Transport.CubeSlotExponent — Global.Transport.CubeSlotExponent](../records/0208.md#pr26-global-transport-cubeslotexponent-179ffc3f0d)
 - [pr26:Global.Transport.CubeSlotExponent::source_slot_length_sum@220 — source_slot_length_sum](../records/0208.md#pr26-global-transport-cubeslotexponent-source-slot-length-sum-220-63ff4f3a65)
 - [pr26:Global.Transport.CubeSlotExponent::source_slot_product@233 — source_slot_product](../records/0208.md#pr26-global-transport-cubeslotexponent-source-slot-product-233-f0f7b1c30b)
-- [pr26:Global.Transport.CubeSlotExponent::source_slot_spike_scale@245 — source_slot_spike_scale](../records/0208.md#pr26-global-transport-cubeslotexponent-source-slot-spike-scale-24-d2c56a88fd)
-- [pr26:Global.Transport.CubeSlotExponent::source_slot_weightedMean@225 — source_slot_weightedMean](../records/0208.md#pr26-global-transport-cubeslotexponent-source-slot-weightedmean-2-74c8705531)
+- [pr26:Global.Transport.CubeSlotExponent::source_slot_spike_scale@245 — source_slot_spike_scale](../records/0209.md#pr26-global-transport-cubeslotexponent-source-slot-spike-scale-24-d2c56a88fd)
+- [pr26:Global.Transport.CubeSlotExponent::source_slot_weightedMean@225 — source_slot_weightedMean](../records/0209.md#pr26-global-transport-cubeslotexponent-source-slot-weightedmean-2-74c8705531)
 - [pr26:Global.Transport.EasyExponent — Global.Transport.EasyExponent](../records/0209.md#pr26-global-transport-easyexponent-9d1b9f3547)
 - [pr26:Global.Transport.EasyExponent::OriginalBranch@338 — OriginalBranch](../records/0209.md#pr26-global-transport-easyexponent-originalbranch-338-7f53a62a82)
 - [pr26:Global.Transport.EasyExponent::conservativeCert@294 — conservativeCert](../records/0209.md#pr26-global-transport-easyexponent-conservativecert-294-7df80c0f99)
@@ -187,8 +189,8 @@ Page 67/70; 17309 matching records.
 - [pr26:Global.Transport.PrincipalRemainderBounds::source_z_scale_identity@1075 — source_z_scale_identity](../records/0209.md#pr26-global-transport-principalremainderbounds-source-z-scale-ide-2da438dd42)
 - [pr26:Global.Transport.PrincipalRemainderBounds::source_z_strict_exponent@1118 — source_z_strict_exponent](../records/0209.md#pr26-global-transport-principalremainderbounds-source-z-strict-ex-dc633b13c3)
 - [pr26:Global.Transport.PrincipalRemainderBounds::vertical_pair_eq_joint@795 — vertical_pair_eq_joint](../records/0209.md#pr26-global-transport-principalremainderbounds-vertical-pair-eq-j-3a7161dc48)
-- [pr26:Global.Transport.PrincipalRemainderBounds::vertical_triple_eq_joint@785 — vertical_triple_eq_joint](../records/0209.md#pr26-global-transport-principalremainderbounds-vertical-triple-eq-0beaccecc5)
-- [pr26:Global.Transport.PrincipalRemainderBounds::window_sharp_bound@608 — window_sharp_bound](../records/0209.md#pr26-global-transport-principalremainderbounds-window-sharp-bound-4c4d29bb8e)
+- [pr26:Global.Transport.PrincipalRemainderBounds::vertical_triple_eq_joint@785 — vertical_triple_eq_joint](../records/0210.md#pr26-global-transport-principalremainderbounds-vertical-triple-eq-0beaccecc5)
+- [pr26:Global.Transport.PrincipalRemainderBounds::window_sharp_bound@608 — window_sharp_bound](../records/0210.md#pr26-global-transport-principalremainderbounds-window-sharp-bound-4c4d29bb8e)
 - [pr26:Global.Transport.PrincipalRemainderContours — Global.Transport.PrincipalRemainderContours](../records/0210.md#pr26-global-transport-principalremaindercontours-7f8d6194eb)
 - [pr26:Global.Transport.PrincipalRemainderContours::LFunction_eq_pole_quotient@518 — LFunction_eq_pole_quotient](../records/0210.md#pr26-global-transport-principalremaindercontours-lfunction-eq-pol-83ecb2e7ec)
 - [pr26:Global.Transport.PrincipalRemainderContours::LFunction_norm_le_of_poleRemoved@539 — LFunction_norm_le_of_poleRemoved](../records/0210.md#pr26-global-transport-principalremaindercontours-lfunction-norm-l-373fbdb37f)
@@ -256,5 +258,3 @@ Page 67/70; 17309 matching records.
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_analytic_z@676 — slot_analytic_z](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-slot-analyt-237c424f32)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_norm_bound@687 — slot_norm_bound](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-slot-norm-b-823ca1eb7a)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_norm_bound_sharp@830 — slot_norm_bound_sharp](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-slot-norm-b-c5b755c9e0)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::source_multiplier_differentiable_w@758 — source_multiplier_differentiable_w](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-source-mult-51603a1ef9)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::source_multiplier_differentiable_z@779 — source_multiplier_differentiable_z](../records/0210.md#pr26-global-transport-principalremainderfiniteproduct-source-mult-96af06c04a)

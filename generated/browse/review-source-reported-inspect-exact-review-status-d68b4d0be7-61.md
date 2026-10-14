@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 61/70; 17309 matching records.
+Page 61/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-60.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
+- [pr26:Cycle25.Arithmetic.Endpoint::quartic_root_unique@804 — quartic_root_unique](../records/0193.md#pr26-cycle25-arithmetic-endpoint-quartic-root-unique-804-d545d02ef8)
+- [pr26:Cycle25.Arithmetic.Endpoint::quartic_strictMonoOn@781 — quartic_strictMonoOn](../records/0193.md#pr26-cycle25-arithmetic-endpoint-quartic-strictmonoon-781-5459b2615a)
 - [pr26:Cycle25.Arithmetic.Endpoint::rootHi@754 — rootHi](../records/0193.md#pr26-cycle25-arithmetic-endpoint-roothi-754-87ad717bda)
 - [pr26:Cycle25.Arithmetic.Endpoint::rootHi_coarse@758 — rootHi_coarse](../records/0193.md#pr26-cycle25-arithmetic-endpoint-roothi-coarse-758-9798ffce97)
 - [pr26:Cycle25.Arithmetic.Endpoint::rootLo@753 — rootLo](../records/0193.md#pr26-cycle25-arithmetic-endpoint-rootlo-753-0669003856)
@@ -87,8 +89,8 @@ Page 61/70; 17309 matching records.
 - [pr26:Cycle25.Assembly.Continuation::UniformCommonProbe@954 — UniformCommonProbe](../records/0193.md#pr26-cycle25-assembly-continuation-uniformcommonprobe-954-087cc9a76b)
 - [pr26:Cycle25.Assembly.Continuation::beta_le_of_common_probe@959 — beta_le_of_common_probe](../records/0193.md#pr26-cycle25-assembly-continuation-beta-le-of-common-probe-959-f7be941520)
 - [pr26:Cycle25.Assembly.Continuation::continuationMargin@862 — continuationMargin](../records/0193.md#pr26-cycle25-assembly-continuation-continuationmargin-862-80f582a724)
-- [pr26:Cycle25.Assembly.Continuation::continuationMargin_pos@864 — continuationMargin_pos](../records/0193.md#pr26-cycle25-assembly-continuation-continuationmargin-pos-864-d2d540e8ec)
-- [pr26:Cycle25.Assembly.Continuation::continuation_boundary_gt@869 — continuation_boundary_gt](../records/0193.md#pr26-cycle25-assembly-continuation-continuation-boundary-gt-869-cdf3e40184)
+- [pr26:Cycle25.Assembly.Continuation::continuationMargin_pos@864 — continuationMargin_pos](../records/0194.md#pr26-cycle25-assembly-continuation-continuationmargin-pos-864-d2d540e8ec)
+- [pr26:Cycle25.Assembly.Continuation::continuation_boundary_gt@869 — continuation_boundary_gt](../records/0194.md#pr26-cycle25-assembly-continuation-continuation-boundary-gt-869-cdf3e40184)
 - [pr26:Cycle25.Assembly.Continuation::dirichlet_of_hecke@990 — dirichlet_of_hecke](../records/0194.md#pr26-cycle25-assembly-continuation-dirichlet-of-hecke-990-77450d9c9f)
 - [pr26:Cycle25.Assembly.Continuation::hecke_ne_zero_of_common_probe@982 — hecke_ne_zero_of_common_probe](../records/0194.md#pr26-cycle25-assembly-continuation-hecke-ne-zero-of-common-probe--c75739fad5)
 - [pr26:Cycle25.Assembly.Continuation::max_signal_exponents@874 — max_signal_exponents](../records/0194.md#pr26-cycle25-assembly-continuation-max-signal-exponents-874-5c2cfab385)
@@ -187,8 +189,8 @@ Page 61/70; 17309 matching records.
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField::weighted_PositiveFineSourceInput@113 — weighted_PositiveFineSourceInput](../records/0194.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedfinefield-we-5534990a0a)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField::weighted_source_batch_plain_marked_fine@120 — weighted_source_batch_plain_marked_fine](../records/0194.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedfinefield-we-6eaaddce9e)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState — Cycle25.Assembly.Count.MomentDetectorPlainMarkedState](../records/0194.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-6c92d82429)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_marked_capacity@282 — weighted_marked_capacity](../records/0194.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-e9cad6023a)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_plain_length_eq@275 — weighted_plain_length_eq](../records/0194.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-a8a41c5188)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_marked_capacity@282 — weighted_marked_capacity](../records/0195.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-e9cad6023a)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_plain_length_eq@275 — weighted_plain_length_eq](../records/0195.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-a8a41c5188)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_retained_eq_initial_energy@240 — weighted_retained_eq_initial_energy](../records/0195.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-c9bc32b2db)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_source_batch_marked_initial@290 — weighted_source_batch_marked_initial](../records/0195.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-e9f2af2112)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_source_slot_coefficient@227 — weighted_source_slot_coefficient](../records/0195.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-49fcddc8a1)
@@ -256,5 +258,3 @@ Page 61/70; 17309 matching records.
 - [pr26:Cycle25.Assembly.Count.OriginalInverseRawField::fixed_raw_profiles@388 — fixed_raw_profiles](../records/0195.md#pr26-cycle25-assembly-count-originalinverserawfield-fixed-raw-pro-bf756fffec)
 - [pr26:Cycle25.Assembly.Count.OriginalInverseRawField::raw_mono@382 — raw_mono](../records/0195.md#pr26-cycle25-assembly-count-originalinverserawfield-raw-mono-382-ca5150d398)
 - [pr26:Cycle25.Assembly.Count.OriginalInverseRawField::source_batch_inverse_raw@409 — source_batch_inverse_raw](../records/0195.md#pr26-cycle25-assembly-count-originalinverserawfield-source-batch--184e9e6ab6)
-- [pr26:Cycle25.Assembly.Count.OriginalMomentInput — Cycle25.Assembly.Count.OriginalMomentInput](../records/0195.md#pr26-cycle25-assembly-count-originalmomentinput-18841a2406)
-- [pr26:Cycle25.Assembly.Count.OriginalMomentInput::old_sourceMomentBound.mono_constant@435 — old_sourceMomentBound.mono_constant](../records/0195.md#pr26-cycle25-assembly-count-originalmomentinput-old-sourcemomentb-d34095c996)

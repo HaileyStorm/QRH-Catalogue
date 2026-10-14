@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21568 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21570 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -238,8 +238,8 @@
 - [G77 — G77. Full contour gluing includes the horizontal and residue terms](records/0171.md#local-g77-f75acc7bc5)
 - [G78 — G78. Uniform depth and the full physical tail](records/0171.md#local-g78-9d1a1f7ec0)
 - [G79 — G79. Exact drift and normalized Ward defects](records/0171.md#local-g79-99600dfe1a)
-- [G80 — G80. Sharp exterior certificate, with the actual H contract](records/0171.md#local-g80-5d9f92de8e)
-- [G81 — G81. Largest-prime renewal and its complete covariance](records/0171.md#local-g81-99411dc86c)
+- [G80 — G80. Sharp exterior certificate, with the actual H contract](records/0172.md#local-g80-5d9f92de8e)
+- [G81 — G81. Largest-prime renewal and its complete covariance](records/0172.md#local-g81-99411dc86c)
 - [G82 — G82. Heat-trace threshold and the actual Gram obstruction](records/0172.md#local-g82-b0a5fbfc89)
 - [G83 — G83. Actual balanced completion at growing order](records/0172.md#local-g83-8dd3bd523d)
 - [G84 — G84. Exact moment and genuine paid sectors](records/0172.md#local-g84-39571ccd9d)

@@ -167,7 +167,7 @@ Page 4/4; 927 matching records.
 - [pr26:Endpoint.Perturbation::source_local_kappa_gap@349 — source_local_kappa_gap](../records/0204.md#pr26-endpoint-perturbation-source-local-kappa-gap-349-1e4ae1ebf4)
 - [pr26:Endpoint.Perturbation::source_old_kappa_gap@369 — source_old_kappa_gap](../records/0204.md#pr26-endpoint-perturbation-source-old-kappa-gap-369-212d57ce4e)
 - [pr26:Endpoint.Perturbation::source_piecewise_kappa_gap@428 — source_piecewise_kappa_gap](../records/0204.md#pr26-endpoint-perturbation-source-piecewise-kappa-gap-428-6da56dd8b3)
-- [pr26:Global.Endpoint::zeta_nonzero@500 — zeta_nonzero](../records/0204.md#pr26-global-endpoint-zeta-nonzero-500-c8f7b8a621)
+- [pr26:Global.Endpoint::zeta_nonzero@500 — zeta_nonzero](../records/0205.md#pr26-global-endpoint-zeta-nonzero-500-c8f7b8a621)
 - [pr26:Global.Final.Endpoint::zeta_nonzero_of_raw_fullW_input@183 — zeta_nonzero_of_raw_fullW_input](../records/0205.md#pr26-global-final-endpoint-zeta-nonzero-of-raw-fullw-input-183-171cf56a38)
 - [pr26:Global.Final.Endpoint::zeta_nonzero_rational_of_raw_fullW_input@189 — zeta_nonzero_rational_of_raw_fullW_input](../records/0205.md#pr26-global-final-endpoint-zeta-nonzero-rational-of-raw-fullw-inp-c7bdc34d3f)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::zeta_of_raw_moments@623 — zeta_of_raw_moments](../records/0213.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-zeta-of-r-6c2f15d61d)

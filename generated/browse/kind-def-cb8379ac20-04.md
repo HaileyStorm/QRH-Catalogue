@@ -6,7 +6,7 @@ Page 4/4; 794 matching records.
 
 [Previous](kind-def-cb8379ac20-03.md)
 
-- [pr26:Global.Weighted.Input::IntegratedFullWAnalyticInput@342 — IntegratedFullWAnalyticInput](../records/0211.md#pr26-global-weighted-input-integratedfullwanalyticinput-342-64b36804ea)
+- [pr26:Global.Weighted.Input::IntegratedFullWAnalyticInput@342 — IntegratedFullWAnalyticInput](../records/0212.md#pr26-global-weighted-input-integratedfullwanalyticinput-342-64b36804ea)
 - [pr26:Global.Weighted.RawCells::RawFullWAnalyticInput@255 — RawFullWAnalyticInput](../records/0212.md#pr26-global-weighted-rawcells-rawfullwanalyticinput-255-5381ac5f7b)
 - [pr26:Global.Weighted.RawCells::RawSourceDyadBound@198 — RawSourceDyadBound](../records/0212.md#pr26-global-weighted-rawcells-rawsourcedyadbound-198-7b961ba27f)
 - [pr26:Global.Weighted.SourceFinish::IntegratedWeightedCellsAt@155 — IntegratedWeightedCellsAt](../records/0212.md#pr26-global-weighted-sourcefinish-integratedweightedcellsat-155-e02c16af61)
@@ -21,7 +21,7 @@ Page 4/4; 794 matching records.
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.fiber@921 — UnmarkedBatch.fiber](../records/0212.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-fiber-921-38f8294b58)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.fiberRows@916 — UnmarkedBatch.fiberRows](../records/0212.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-fiberrows-916-851f2e1f33)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.ofSupportedRows@895 — UnmarkedBatch.ofSupportedRows](../records/0212.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-ofsupportedrows-895-0576ba55f9)
-- [pr26:LocalMoment.UnmarkedBatch::supportedRowRetraction@888 — supportedRowRetraction](../records/0212.md#pr26-localmoment-unmarkedbatch-supportedrowretraction-888-deecb540f3)
+- [pr26:LocalMoment.UnmarkedBatch::supportedRowRetraction@888 — supportedRowRetraction](../records/0213.md#pr26-localmoment-unmarkedbatch-supportedrowretraction-888-deecb540f3)
 - [pr26:LocalMoment.UnmarkedDensity::UnmarkedFiber.m@495 — UnmarkedFiber.m](../records/0213.md#pr26-localmoment-unmarkeddensity-unmarkedfiber-m-495-417727137d)
 - [pr26:LocalMoment.UnmarkedDensity::UnmarkedFiber.r@491 — UnmarkedFiber.r](../records/0213.md#pr26-localmoment-unmarkeddensity-unmarkedfiber-r-491-32aec27d1b)
 - [pr26:LocalMoment.UnmarkedDensity::unmarkedCutoff@377 — unmarkedCutoff](../records/0213.md#pr26-localmoment-unmarkeddensity-unmarkedcutoff-377-f177d4c9b9)

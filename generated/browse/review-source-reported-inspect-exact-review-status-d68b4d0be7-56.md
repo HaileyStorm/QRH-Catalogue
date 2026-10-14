@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 56/70; 17309 matching records.
+Page 56/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-55.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-57.md)
 
+- [pr26:Analytic.JointFirstNaturalFromAnnular::actual_local_natural_from_annular@257 — actual_local_natural_from_annular](../records/0180.md#pr26-analytic-jointfirstnaturalfromannular-actual-local-natural-f-c0c741a531)
+- [pr26:Analytic.JointFirstNaturalFromAnnular::four_terms_height@232 — four_terms_height](../records/0180.md#pr26-analytic-jointfirstnaturalfromannular-four-terms-height-232-1f14552dd3)
 - [pr26:Analytic.JointFirstNaturalFromAnnularExplicitMesh — Analytic.JointFirstNaturalFromAnnularExplicitMesh](../records/0180.md#pr26-analytic-jointfirstnaturalfromannularexplicitmesh-453e3a9d97)
 - [pr26:Analytic.JointFirstNaturalFromAnnularExplicitMesh::actual_local_natural_from_annular_explicit_mesh@703 — actual_local_natural_from_annular_explicit_mesh](../records/0180.md#pr26-analytic-jointfirstnaturalfromannularexplicitmesh-actual-loc-53120d10f5)
 - [pr26:Analytic.JointFirstNaturalFromAnnularExplicitMesh::four_terms_height_explicit@678 — four_terms_height_explicit](../records/0180.md#pr26-analytic-jointfirstnaturalfromannularexplicitmesh-four-terms-5eaadd4329)
@@ -37,8 +39,8 @@ Page 56/70; 17309 matching records.
 - [pr26:Analytic.JointFirstOriginalExplicitMesh::actual_local_first_original_target_explicit_mesh@304 — actual_local_first_original_target_explicit_mesh](../records/0180.md#pr26-analytic-jointfirstoriginalexplicitmesh-actual-local-first-o-bda84d3c28)
 - [pr26:Analytic.JointFirstOriginalRemainder — Analytic.JointFirstOriginalRemainder](../records/0180.md#pr26-analytic-jointfirstoriginalremainder-d213b7e5fa)
 - [pr26:Analytic.JointFirstOriginalRemainder::first_original_source_remainder@484 — first_original_source_remainder](../records/0180.md#pr26-analytic-jointfirstoriginalremainder-first-original-source-r-c4aaa47c7d)
-- [pr26:Analytic.JointFirstOriginalRemainder::original_column_coprime_mask@448 — original_column_coprime_mask](../records/0180.md#pr26-analytic-jointfirstoriginalremainder-original-column-coprime-9dc59250fe)
-- [pr26:Analytic.JointFirstOriginalRemainder::original_finite_energy_mask@467 — original_finite_energy_mask](../records/0180.md#pr26-analytic-jointfirstoriginalremainder-original-finite-energy--a557a447ba)
+- [pr26:Analytic.JointFirstOriginalRemainder::original_column_coprime_mask@448 — original_column_coprime_mask](../records/0181.md#pr26-analytic-jointfirstoriginalremainder-original-column-coprime-9dc59250fe)
+- [pr26:Analytic.JointFirstOriginalRemainder::original_finite_energy_mask@467 — original_finite_energy_mask](../records/0181.md#pr26-analytic-jointfirstoriginalremainder-original-finite-energy--a557a447ba)
 - [pr26:Analytic.JointFirstOriginalRemainder::original_source_weight_mask@458 — original_source_weight_mask](../records/0181.md#pr26-analytic-jointfirstoriginalremainder-original-source-weight--0d3bdf92d9)
 - [pr26:Analytic.JointFirstOriginalRemainder::positive_first_source_remainder@526 — positive_first_source_remainder](../records/0181.md#pr26-analytic-jointfirstoriginalremainder-positive-first-source-r-f175fe5059)
 - [pr26:Analytic.JointFirstOriginalRemainderTarget — Analytic.JointFirstOriginalRemainderTarget](../records/0181.md#pr26-analytic-jointfirstoriginalremaindertarget-2452c02bb3)
@@ -137,8 +139,8 @@ Page 56/70; 17309 matching records.
 - [pr26:Analytic.JointFirstSectorTolerances::first_missing_sector_loss@139 — first_missing_sector_loss](../records/0181.md#pr26-analytic-jointfirstsectortolerances-first-missing-sector-los-43eb6586a7)
 - [pr26:Analytic.JointFirstSectorTolerances::first_row_scale_sector_lower@126 — first_row_scale_sector_lower](../records/0181.md#pr26-analytic-jointfirstsectortolerances-first-row-scale-sector-l-acced4efe7)
 - [pr26:Analytic.JointFirstSectorTolerances::first_row_sector_loss@144 — first_row_sector_loss](../records/0181.md#pr26-analytic-jointfirstsectortolerances-first-row-sector-loss-14-983a35b47f)
-- [pr26:Analytic.JointFirstSideEnergy — Analytic.JointFirstSideEnergy](../records/0181.md#pr26-analytic-jointfirstsideenergy-1ebbb9c06a)
-- [pr26:Analytic.JointFirstSideEnergy::first_sideEnergy_eq_supported@831 — first_sideEnergy_eq_supported](../records/0181.md#pr26-analytic-jointfirstsideenergy-first-sideenergy-eq-supported--1a1f76cce9)
+- [pr26:Analytic.JointFirstSideEnergy — Analytic.JointFirstSideEnergy](../records/0182.md#pr26-analytic-jointfirstsideenergy-1ebbb9c06a)
+- [pr26:Analytic.JointFirstSideEnergy::first_sideEnergy_eq_supported@831 — first_sideEnergy_eq_supported](../records/0182.md#pr26-analytic-jointfirstsideenergy-first-sideenergy-eq-supported--1a1f76cce9)
 - [pr26:Analytic.JointFirstSideEnergy::first_sideEnergy_from_supported_normalized@846 — first_sideEnergy_from_supported_normalized](../records/0182.md#pr26-analytic-jointfirstsideenergy-first-sideenergy-from-supporte-ac70c8b745)
 - [pr26:Analytic.JointFirstSideEnergy::sideAllowance@791 — sideAllowance](../records/0182.md#pr26-analytic-jointfirstsideenergy-sideallowance-791-65cc034a25)
 - [pr26:Analytic.JointFirstSideEnergy::sideEnergy@784 — sideEnergy](../records/0182.md#pr26-analytic-jointfirstsideenergy-sideenergy-784-4c933097c2)
@@ -237,8 +239,8 @@ Page 56/70; 17309 matching records.
 - [pr26:Analytic.JointHighDyadicGates::firstLowMainScale_eq_exponent@394 — firstLowMainScale_eq_exponent](../records/0182.md#pr26-analytic-jointhighdyadicgates-firstlowmainscale-eq-exponent--07d58cab4b)
 - [pr26:Analytic.JointHighDyadicGates::firstLowMainScale_ge_inv_cube@427 — firstLowMainScale_ge_inv_cube](../records/0182.md#pr26-analytic-jointhighdyadicgates-firstlowmainscale-ge-inv-cube--5bc69b9707)
 - [pr26:Analytic.JointHighDyadicGates::firstLowMainScale_sector_bounds@403 — firstLowMainScale_sector_bounds](../records/0182.md#pr26-analytic-jointhighdyadicgates-firstlowmainscale-sector-bound-917a72a0ba)
-- [pr26:Analytic.JointHighDyadicGates::firstLowRadius_polynomial_cap@439 — firstLowRadius_polynomial_cap](../records/0182.md#pr26-analytic-jointhighdyadicgates-firstlowradius-polynomial-cap--91bd00a369)
-- [pr26:Analytic.JointHighDyadicGates::recovered_main_dyadic_caps@470 — recovered_main_dyadic_caps](../records/0182.md#pr26-analytic-jointhighdyadicgates-recovered-main-dyadic-caps-470-e86a872947)
+- [pr26:Analytic.JointHighDyadicGates::firstLowRadius_polynomial_cap@439 — firstLowRadius_polynomial_cap](../records/0183.md#pr26-analytic-jointhighdyadicgates-firstlowradius-polynomial-cap--91bd00a369)
+- [pr26:Analytic.JointHighDyadicGates::recovered_main_dyadic_caps@470 — recovered_main_dyadic_caps](../records/0183.md#pr26-analytic-jointhighdyadicgates-recovered-main-dyadic-caps-470-e86a872947)
 - [pr26:Analytic.JointHighDyadicGates::recovered_main_sector_bounds@501 — recovered_main_sector_bounds](../records/0183.md#pr26-analytic-jointhighdyadicgates-recovered-main-sector-bounds-5-9de7ad2768)
 - [pr26:Analytic.JointHighFirstNormGates — Analytic.JointHighFirstNormGates](../records/0183.md#pr26-analytic-jointhighfirstnormgates-5e630ce554)
 - [pr26:Analytic.JointHighFirstNormGates::high_full_sector_norm_gates@850 — high_full_sector_norm_gates](../records/0183.md#pr26-analytic-jointhighfirstnormgates-high-full-sector-norm-gates-1a3a0ac541)
@@ -256,5 +258,3 @@ Page 56/70; 17309 matching records.
 - [pr26:Analytic.JointHighLedger::joint_high_full_exponent@382 — joint_high_full_exponent](../records/0183.md#pr26-analytic-jointhighledger-joint-high-full-exponent-382-4709d07421)
 - [pr26:Analytic.JointHighLedger::joint_high_rpow_bound@399 — joint_high_rpow_bound](../records/0183.md#pr26-analytic-jointhighledger-joint-high-rpow-bound-399-b6f4e6618d)
 - [pr26:Analytic.JointHighLedger::min_add_positive_difference@375 — min_add_positive_difference](../records/0183.md#pr26-analytic-jointhighledger-min-add-positive-difference-375-f666e806f6)
-- [pr26:Analytic.JointHighLiteralConstructor — Analytic.JointHighLiteralConstructor](../records/0183.md#pr26-analytic-jointhighliteralconstructor-43de69951a)
-- [pr26:Analytic.JointHighLiteralConstructor::actual_literal_high_packet_data@430 — actual_literal_high_packet_data](../records/0183.md#pr26-analytic-jointhighliteralconstructor-actual-literal-high-pac-1402bb3279)

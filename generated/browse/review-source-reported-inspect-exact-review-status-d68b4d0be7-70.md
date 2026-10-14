@@ -2,10 +2,12 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 70/70; 17309 matching records.
+Page 70/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-69.md)
 
+- [review:A12 — \[private research revision\]-review:A12](../records/0215.md#review-a12-c73649739f)
+- [review:A13 — \[private research revision\]-review:A13](../records/0215.md#review-a13-381097af30)
 - [review:A14 — \[private research revision\]-review:A14](../records/0215.md#review-a14-9001c6dd5f)
 - [review:A15 — \[private research revision\]-review:A15](../records/0215.md#review-a15-0a087c3e9a)
 - [review:A16 — \[private research revision\]-review:A16](../records/0215.md#review-a16-ab76cbf224)
@@ -25,8 +27,8 @@ Page 70/70; 17309 matching records.
 - [reviewed-claim:A01-embedded-extension — \[private research revision\]-claim:A01-embedded-extension](../records/0215.md#reviewed-claim-a01-embedded-extension-9eec840d93)
 - [reviewed-claim:A02-anisotropic-AFE-budget — \[private research revision\]-claim:A02-anisotropic-AFE-budget](../records/0215.md#reviewed-claim-a02-anisotropic-afe-budget-a8cad57bbf)
 - [reviewed-claim:A02-rectangular-frontier — \[private research revision\]-claim:A02-rectangular-frontier](../records/0215.md#reviewed-claim-a02-rectangular-frontier-e29f8341ff)
-- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0215.md#reviewed-claim-a02-reduced-index-de8dae2b57)
-- [reviewed-claim:A02-unequal-Type-I — \[private research revision\]-claim:A02-unequal-Type-I](../records/0215.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
+- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0216.md#reviewed-claim-a02-reduced-index-de8dae2b57)
+- [reviewed-claim:A02-unequal-Type-I — \[private research revision\]-claim:A02-unequal-Type-I](../records/0216.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
 - [reviewed-claim:A11-constrained-anchor-optimizer — \[private research revision\]-claim:A11-constrained-anchor-optimizer](../records/0216.md#reviewed-claim-a11-constrained-anchor-optimizer-44d1ef1e1c)
 - [reviewed-claim:A13-Gemini-false-identity — \[private research revision\]-claim:A13-Gemini-false-identity](../records/0216.md#reviewed-claim-a13-gemini-false-identity-2aa8791af0)
 - [reviewed-claim:A13-cubic-Jacobi — \[private research revision\]-claim:A13-cubic-Jacobi](../records/0216.md#reviewed-claim-a13-cubic-jacobi-d53d784b56)

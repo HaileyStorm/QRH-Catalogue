@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 63/70; 17309 matching records.
+Page 63/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-64.md)
 
+- [pr26:Cycle25.Energy.PositiveHighSource::balanced_matches@74 — balanced_matches](../records/0198.md#pr26-cycle25-energy-positivehighsource-balanced-matches-74-4650939c42)
+- [pr26:Cycle25.Energy.PositiveHighSource::balanced_volume@79 — balanced_volume](../records/0198.md#pr26-cycle25-energy-positivehighsource-balanced-volume-79-28a4d69959)
 - [pr26:Cycle25.Energy.PositiveHighSource::balanced_volume_bound@83 — balanced_volume_bound](../records/0198.md#pr26-cycle25-energy-positivehighsource-balanced-volume-bound-83-ae582f88db)
 - [pr26:Cycle25.Energy.PositiveHighSourceBound — Cycle25.Energy.PositiveHighSourceBound](../records/0198.md#pr26-cycle25-energy-positivehighsourcebound-8fd3e874bc)
 - [pr26:Cycle25.Energy.PositiveHighSourceBound::PhysicalHighAt@941 — PhysicalHighAt](../records/0198.md#pr26-cycle25-energy-positivehighsourcebound-physicalhighat-941-d4328f1d7d)
@@ -87,8 +89,8 @@ Page 63/70; 17309 matching records.
 - [pr26:Cycle25.Numerator.BoxGeometry::physical_reflected_capacity_or_empty@568 — physical_reflected_capacity_or_empty](../records/0198.md#pr26-cycle25-numerator-boxgeometry-physical-reflected-capacity-or-97fd17b1e4)
 - [pr26:Cycle25.Numerator.BoxGeometry::physical_reflected_capacity_or_empty_subtype@676 — physical_reflected_capacity_or_empty_subtype](../records/0198.md#pr26-cycle25-numerator-boxgeometry-physical-reflected-capacity-or-1d5e758c15)
 - [pr26:Cycle25.Numerator.BoxGeometry::physical_y_range@511 — physical_y_range](../records/0198.md#pr26-cycle25-numerator-boxgeometry-physical-y-range-511-67472c729a)
-- [pr26:Cycle25.Numerator.BoxGeometry::physical_y_strong_lower@600 — physical_y_strong_lower](../records/0198.md#pr26-cycle25-numerator-boxgeometry-physical-y-strong-lower-600-5a589fbc8e)
-- [pr26:Cycle25.Numerator.BoxGeometry::reflected_box_geometry@524 — reflected_box_geometry](../records/0198.md#pr26-cycle25-numerator-boxgeometry-reflected-box-geometry-524-b0b6a8cb78)
+- [pr26:Cycle25.Numerator.BoxGeometry::physical_y_strong_lower@600 — physical_y_strong_lower](../records/0199.md#pr26-cycle25-numerator-boxgeometry-physical-y-strong-lower-600-5a589fbc8e)
+- [pr26:Cycle25.Numerator.BoxGeometry::reflected_box_geometry@524 — reflected_box_geometry](../records/0199.md#pr26-cycle25-numerator-boxgeometry-reflected-box-geometry-524-b0b6a8cb78)
 - [pr26:Cycle25.Numerator.BoxGeometry::shifted_base_capacity_pos@610 — shifted_base_capacity_pos](../records/0199.md#pr26-cycle25-numerator-boxgeometry-shifted-base-capacity-pos-610-cd5541b7f7)
 - [pr26:Cycle25.Numerator.BoxReconstruction — Cycle25.Numerator.BoxReconstruction](../records/0199.md#pr26-cycle25-numerator-boxreconstruction-3c3cbcb2de)
 - [pr26:Cycle25.Numerator.BoxReconstruction::actual_label_series_norm_summable@1316 — actual_label_series_norm_summable](../records/0199.md#pr26-cycle25-numerator-boxreconstruction-actual-label-series-norm-2b99dc2570)
@@ -187,8 +189,8 @@ Page 63/70; 17309 matching records.
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_cauchy@611 — plainIntegrand_cauchy](../records/0199.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-79175d6b4b)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_differentiableAt@570 — plainIntegrand_differentiableAt](../records/0199.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-30cc0c8e9d)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_eq@566 — plainIntegrand_eq](../records/0199.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-8240617f38)
-- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_vertical_integrable@627 — plainIntegrand_vertical_integrable](../records/0199.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-896fb52822)
-- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::polynomial_central_mellin@639 — polynomial_central_mellin](../records/0199.md#pr26-cycle25-numerator-imported-mellinreconstruction-polynomial-c-a9dd9bd833)
+- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_vertical_integrable@627 — plainIntegrand_vertical_integrable](../records/0200.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-896fb52822)
+- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::polynomial_central_mellin@639 — polynomial_central_mellin](../records/0200.md#pr26-cycle25-numerator-imported-mellinreconstruction-polynomial-c-a9dd9bd833)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::polynomial_zero_of_scale_cutoff@814 — polynomial_zero_of_scale_cutoff](../records/0200.md#pr26-cycle25-numerator-imported-mellinreconstruction-polynomial-z-57382bcf14)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::reconstructed_series_norm_summable@783 — reconstructed_series_norm_summable](../records/0200.md#pr26-cycle25-numerator-imported-mellinreconstruction-reconstructe-e93bd38a9f)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::reconstruction_exact_cutoff@838 — reconstruction_exact_cutoff](../records/0200.md#pr26-cycle25-numerator-imported-mellinreconstruction-reconstructi-14af8f0154)
@@ -256,5 +258,3 @@ Page 63/70; 17309 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorPacket::errorProductSize@291 — errorProductSize](../records/0200.md#pr26-cycle25-numerator-imported-numeratorerrorpacket-errorproduct-707ca57445)
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorPacket::errorProductSize_nonneg@297 — errorProductSize_nonneg](../records/0200.md#pr26-cycle25-numerator-imported-numeratorerrorpacket-errorproduct-9b390610ab)
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorPacket::error_packet_coefficient_mass@319 — error_packet_coefficient_mass](../records/0200.md#pr26-cycle25-numerator-imported-numeratorerrorpacket-error-packet-1cbfaef3ac)
-- [pr26:Cycle25.Numerator.Imported.NumeratorErrorPacket::error_packet_expansion@356 — error_packet_expansion](../records/0200.md#pr26-cycle25-numerator-imported-numeratorerrorpacket-error-packet-626e43bcfb)
-- [pr26:Cycle25.Numerator.Imported.NumeratorErrorPacket::error_product_mass_factor@310 — error_product_mass_factor](../records/0200.md#pr26-cycle25-numerator-imported-numeratorerrorpacket-error-produc-34aea0f32b)

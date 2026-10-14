@@ -243,7 +243,7 @@ Page 2/2; 491 matching records.
 - [pr26:LocalMoment.SignedRows::right_local@299 — right_local](../records/0212.md#pr26-localmoment-signedrows-right-local-299-0d3cb7d872)
 - [review:T06 — \[private research revision\]-review:T06](../records/0215.md#review-t06-2f9f1fb3c7)
 - [reviewed-claim:A01-coherent-aggregate — \[private research revision\]-claim:A01-coherent-aggregate](../records/0215.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
-- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0215.md#reviewed-claim-a02-reduced-index-de8dae2b57)
+- [reviewed-claim:A02-reduced-index — \[private research revision\]-claim:A02-reduced-index](../records/0216.md#reviewed-claim-a02-reduced-index-de8dae2b57)
 - [reviewed-claim:A14-sixth-power-projection — \[private research revision\]-claim:A14-sixth-power-projection](../records/0216.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)
 - [reviewed-claim:cubic-A07 — \[private research revision\]-claim:cubic-A07](../records/0216.md#reviewed-claim-cubic-a07-7a3498ee3c)
 - [upstream:PR30 — Research: exact quartic-slice obstruction and mixed-moment sextic diagonal bound](../records/0216.md#upstream-pr30-c29e7f8554)

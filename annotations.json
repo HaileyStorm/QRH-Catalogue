@@ -197,6 +197,56 @@
           "qualification": "Clarifies two distinct cone definitions and current error admission; no arithmetic correction or endpoint promotion."
         }
       }
+    },
+    "local:G270": {
+      "prerequisite_updates": {
+        "value": {
+          "main_translated_radical": {
+            "status": "discharged in the stated scope by G285",
+            "component": "local:G285",
+            "bound": "N(rad H)<=C_* Z^(B+Bmask); pinned original affine schedule B+Bmask=158",
+            "consequence": "Fixed-degree puncture cost is O_epsilon(Z^epsilon); no arithmetic estimate follows."
+          },
+          "history": "The immutable original G270 statement and its original proof/review remain the historical C120 record. This later scoped admission does not rewrite that statement or its source evidence.",
+          "unaffected": "Weighted bank, exact fiber/variable-J transfer, Batch/internal-Q and supported-zero admissions, independent heights, outer costs and error-upsilon obligations remain."
+        },
+        "evidence": {
+          "basis": "frozen-written-proof-and-independent-source-contract-review",
+          "source_sha256": "1ee4e1fd1c25fe295fb408e8b6bfb1cab0dd1e7ec8db4fb8ee15a7ed986a185c",
+          "review_sha256": "bdcc29e95f22a5a8ae54323f67c3bbff572aef5a56244942941c430805548450",
+          "qualification": "Written elementary deduction under the literal source admissions; no new formal verification or arithmetic estimate."
+        }
+      },
+      "unresolved_prerequisites": {
+        "value": [
+          "The weighted canonical all-real-height/subset arithmetic bank is not proved.",
+          "G285 discharges the fixed-parent main/high-shell radical cap under its literal admissions. G286 separately bounds the full error hole for original source-receipted families with its allocation gates; its use in G270 still needs an exact all-ideal error dictionary and common bank. Arbitrary/moving-parent punctures and unrestricted twiceChild characters require their own uniform admission; retain the intrinsic factor outside those scopes.",
+          "Full variable-J physical-row weight pushforward, original geometric representative costs and all outer height tails must be paid under their actual contracts.",
+          "DetectorBatch/internal-Q eligibility, supported-radical witnesses and any allegedly free weighted raw estimate are separate open admission questions.",
+          "Finite puncture algebra is not a composite-mark projector theorem, a new native density theorem or an endpoint proof."
+        ],
+        "evidence": {
+          "basis": "frozen-written-proof-and-independent-source-contract-review",
+          "source_sha256": "86742adc8a1cc173bcbce374c9e4551c3f75f3b42825767533f9bb90610b2b10",
+          "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
+          "qualification": "Accepted written deduction under the actual error-family receipt; no new kernel or arithmetic result."
+        }
+      },
+      "error_prerequisite_update": {
+        "value": {
+          "component": "local:G286",
+          "status": "literal admitted-error hole size discharged; canonical error application remains conditional",
+          "bounds": "Original M=1 fixed-parent full-modulus12/9; k=6 gives11/8, with distinct P_j>=1/nonzero-frozen gates and hupsilon receipt. Full Q^k retained.",
+          "history": "Additive update after G285. Preserve its main_translated_radical entry and all original C120/source statements. Earlier open-error-cap wording is historical; this later source-family result does not create an error dictionary.",
+          "unaffected": "Exact whole-family dictionary, weighted bank, Batch/internal-Q, raw-to-free fibers, SupportedWitness/spikes, physical and height costs, epsilon budgets and endpoint remain."
+        },
+        "evidence": {
+          "basis": "frozen-written-proof-and-independent-source-contract-review",
+          "source_sha256": "86742adc8a1cc173bcbce374c9e4551c3f75f3b42825767533f9bb90610b2b10",
+          "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
+          "qualification": "Accepted written deduction under the actual error-family receipt; no new kernel or arithmetic result."
+        }
+      }
     }
   },
   "relations": [
@@ -122719,6 +122769,90 @@
         "locator": "blind audit26 section4",
         "assertion": "The complete Gaussian source could give a conditional return only after its own open energy premise is proved; it supplies no prime-evolution contraction.",
         "qualification": "Scoped mathematical ancestry/comparison only; no equivalence of different sources, formalization or final paper/Lean use is asserted."
+      }
+    },
+    {
+      "source": "local:G285",
+      "target": "local:G270",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "frozen-written-proof-and-independent-source-contract-review",
+        "source_sha256": "1ee4e1fd1c25fe295fb408e8b6bfb1cab0dd1e7ec8db4fb8ee15a7ed986a185c",
+        "review_sha256": "bdcc29e95f22a5a8ae54323f67c3bbff572aef5a56244942941c430805548450",
+        "qualification": "Written elementary deduction under the literal source admissions; no new formal verification or arithmetic estimate.",
+        "scope": "Only the puncture-fee corollary uses the G270 finite expansion and common-height kernel. The radical cap itself is an elementary consequence of the listed source identities."
+      }
+    },
+    {
+      "source": "local:G285",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Physical.InitialMass.GeometryHighShell",
+      "kind": "related",
+      "evidence": {
+        "basis": "literal source-contract inspection",
+        "sha256": "bd96a9351f02d3cb2d579b53b760ed2cc3bd48a809b6feb5b6a9c430b1b9d53c",
+        "locator": "lines 29-79 and 133-174",
+        "qualification": "Original hfirst/hparent/norm and state admissions; textual reuse, not formalizes or kernel evidence."
+      }
+    },
+    {
+      "source": "local:G285",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.FirstPhysicalSourceFixedFamily",
+      "kind": "related",
+      "evidence": {
+        "basis": "literal source-contract inspection",
+        "sha256": "007f3348acf5ce8d0968961d025b7289a63066e44c9e471beb1c64cd3cc36107",
+        "locator": "lines 12-44",
+        "qualification": "Both full presented moduli retain activeConductor, including cancelled factors. Source-use relation only."
+      }
+    },
+    {
+      "source": "local:G286",
+      "target": "local:G270",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "reviewed-source-contract-use",
+        "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
+        "scope": "Only the conditional fee corollary uses G270; the full-modulus cap itself comes from the explicit source contracts."
+      }
+    },
+    {
+      "source": "local:G286",
+      "target": "local:G285",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-source-contract-use",
+        "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
+        "scope": "Distinct main radical cap; it cannot replace the full chi1 norm needed here. Historical main statement remains unchanged."
+      }
+    },
+    {
+      "source": "local:G286",
+      "target": "local:G236",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-source-contract-use",
+        "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
+        "scope": "Existing complete error payment and a<=1 table admission retained; no duplicate arithmetic credit."
+      }
+    },
+    {
+      "source": "local:G286",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.AmplificationChildSourceCaps",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-source-contract-use",
+        "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
+        "scope": "Exact twice_volume, radius_bound and nonzero-gated common_volume_le; textual source use, not formalizes."
+      }
+    },
+    {
+      "source": "local:G286",
+      "target": "LEAN-C61-original-fb6d4fd1-Cycle61.Physical.InitialMass.GeometryAmplification",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-source-contract-use",
+        "review_sha256": "11b0e965d669fe6f2c72415b5de6b9d85158ca7fc0abe036cb17d394eeaead13",
+        "scope": "Actual source-selected tau and numerical hupsilon for every original index; arbitrary constructors excluded."
       }
     }
   ],

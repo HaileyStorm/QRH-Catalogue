@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 60/70; 17309 matching records.
+Page 60/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-59.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-61.md)
 
+- [pr26:Analytic.JointSourceDyadicFibers::SecondDyadic@646 — SecondDyadic](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-seconddyadic-646-a1cbfdde97)
+- [pr26:Analytic.JointSourceDyadicFibers::actual_source_dyadic_card_subpower@655 — actual_source_dyadic_card_subpower](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-actual-source-dyadic-card-s-311165fc86)
 - [pr26:Analytic.JointSourceDyadicFibers::actual_source_dyadic_sum_bound@700 — actual_source_dyadic_sum_bound](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-actual-source-dyadic-sum-bo-344fb60760)
 - [pr26:Analytic.JointSourceDyadicFibers::actual_source_live_dyadic_sum_bound@743 — actual_source_live_dyadic_sum_bound](../records/0190.md#pr26-analytic-jointsourcedyadicfibers-actual-source-live-dyadic-s-0519b19b1b)
 - [pr26:Analytic.JointSourceExtension — Analytic.JointSourceExtension](../records/0190.md#pr26-analytic-jointsourceextension-e97c8edd8d)
@@ -37,8 +39,8 @@ Page 60/70; 17309 matching records.
 - [pr26:Analytic.JointSourceFinite::extendData_label@1055 — extendData_label](../records/0190.md#pr26-analytic-jointsourcefinite-extenddata-label-1055-f570c30e81)
 - [pr26:Analytic.JointSourceFinite::finiteRows@997 — finiteRows](../records/0190.md#pr26-analytic-jointsourcefinite-finiterows-997-6fcde302d3)
 - [pr26:Analytic.JointSourceFinite::mem_finiteRows@1007 — mem_finiteRows](../records/0190.md#pr26-analytic-jointsourcefinite-mem-finiterows-1007-4f7c0a84c8)
-- [pr26:Analytic.JointSourceFinite::sum_extendData@1059 — sum_extendData](../records/0190.md#pr26-analytic-jointsourcefinite-sum-extenddata-1059-91af4aeed9)
-- [pr26:Analytic.JointSourceFinite::sum_finiteRows@1020 — sum_finiteRows](../records/0190.md#pr26-analytic-jointsourcefinite-sum-finiterows-1020-06e8319530)
+- [pr26:Analytic.JointSourceFinite::sum_extendData@1059 — sum_extendData](../records/0191.md#pr26-analytic-jointsourcefinite-sum-extenddata-1059-91af4aeed9)
+- [pr26:Analytic.JointSourceFinite::sum_finiteRows@1020 — sum_finiteRows](../records/0191.md#pr26-analytic-jointsourcefinite-sum-finiterows-1020-06e8319530)
 - [pr26:Analytic.JointSourceFinite::sum_labels_finiteRows@1034 — sum_labels_finiteRows](../records/0191.md#pr26-analytic-jointsourcefinite-sum-labels-finiterows-1034-72f7b1d223)
 - [pr26:Analytic.JointSourceInducing — Analytic.JointSourceInducing](../records/0191.md#pr26-analytic-jointsourceinducing-1612984c2a)
 - [pr26:Analytic.JointSourceInducing::PhysicalNaturalPair.inducing_iff@220 — PhysicalNaturalPair.inducing_iff](../records/0191.md#pr26-analytic-jointsourceinducing-physicalnaturalpair-inducing-if-2948232547)
@@ -137,8 +139,8 @@ Page 60/70; 17309 matching records.
 - [pr26:Analytic.JointSurvivingHighProduct::SurvivingBufferedData@792 — SurvivingBufferedData](../records/0191.md#pr26-analytic-jointsurvivinghighproduct-survivingbuffereddata-792-c26170e08c)
 - [pr26:Analytic.JointSurvivingHighProduct::actual_joint_surviving_high_product@839 — actual_joint_surviving_high_product](../records/0191.md#pr26-analytic-jointsurvivinghighproduct-actual-joint-surviving-hi-296858b451)
 - [pr26:Analytic.JointSurvivingHighProduct::length@802 — length](../records/0191.md#pr26-analytic-jointsurvivinghighproduct-length-802-24c4efb6e0)
-- [pr26:Analytic.JointSurvivingHighProduct::value@804 — value](../records/0191.md#pr26-analytic-jointsurvivinghighproduct-value-804-16f4250c48)
-- [pr26:Analytic.JointUniformMesh — Analytic.JointUniformMesh](../records/0191.md#pr26-analytic-jointuniformmesh-e96f3efc79)
+- [pr26:Analytic.JointSurvivingHighProduct::value@804 — value](../records/0192.md#pr26-analytic-jointsurvivinghighproduct-value-804-16f4250c48)
+- [pr26:Analytic.JointUniformMesh — Analytic.JointUniformMesh](../records/0192.md#pr26-analytic-jointuniformmesh-e96f3efc79)
 - [pr26:Analytic.JointUniformMesh::meshGuaranteed@568 — meshGuaranteed](../records/0192.md#pr26-analytic-jointuniformmesh-meshguaranteed-568-b0d2f4b9f1)
 - [pr26:Analytic.JointUniformMesh::meshGuaranteed_le_comparison@579 — meshGuaranteed_le_comparison](../records/0192.md#pr26-analytic-jointuniformmesh-meshguaranteed-le-comparison-579-5356ae9a2a)
 - [pr26:Analytic.JointUniformMesh::meshGuaranteed_le_lowLocalMesh@576 — meshGuaranteed_le_lowLocalMesh](../records/0192.md#pr26-analytic-jointuniformmesh-meshguaranteed-le-lowlocalmesh-576-47de583e67)
@@ -237,8 +239,8 @@ Page 60/70; 17309 matching records.
 - [pr26:Cycle25.Arithmetic.Certificate::coefficient_minorants@131 — coefficient_minorants](../records/0192.md#pr26-cycle25-arithmetic-certificate-coefficient-minorants-131-66d17110ed)
 - [pr26:Cycle25.Arithmetic.Certificate::ell0_power_bounds@125 — ell0_power_bounds](../records/0192.md#pr26-cycle25-arithmetic-certificate-ell0-power-bounds-125-8bff632e3f)
 - [pr26:Cycle25.Arithmetic.Certificate::tangency_constant@106 — tangency_constant](../records/0192.md#pr26-cycle25-arithmetic-certificate-tangency-constant-106-9b7eaa48b5)
-- [pr26:Cycle25.Arithmetic.Certificate::tangency_linear@116 — tangency_linear](../records/0192.md#pr26-cycle25-arithmetic-certificate-tangency-linear-116-af7d82a1f1)
-- [pr26:Cycle25.Arithmetic.Endpoint — Cycle25.Arithmetic.Endpoint](../records/0192.md#pr26-cycle25-arithmetic-endpoint-81da222a23)
+- [pr26:Cycle25.Arithmetic.Certificate::tangency_linear@116 — tangency_linear](../records/0193.md#pr26-cycle25-arithmetic-certificate-tangency-linear-116-af7d82a1f1)
+- [pr26:Cycle25.Arithmetic.Endpoint — Cycle25.Arithmetic.Endpoint](../records/0193.md#pr26-cycle25-arithmetic-endpoint-81da222a23)
 - [pr26:Cycle25.Arithmetic.Endpoint::b0@808 — b0](../records/0193.md#pr26-cycle25-arithmetic-endpoint-b0-808-c1c8a05a6e)
 - [pr26:Cycle25.Arithmetic.Endpoint::b0_lt_theta@813 — b0_lt_theta](../records/0193.md#pr26-cycle25-arithmetic-endpoint-b0-lt-theta-813-a38a715eda)
 - [pr26:Cycle25.Arithmetic.Endpoint::ell0@797 — ell0](../records/0193.md#pr26-cycle25-arithmetic-endpoint-ell0-797-4a93baaee6)
@@ -256,5 +258,3 @@ Page 60/70; 17309 matching records.
 - [pr26:Cycle25.Arithmetic.Endpoint::quartic_hasDerivAt@764 — quartic_hasDerivAt](../records/0193.md#pr26-cycle25-arithmetic-endpoint-quartic-hasderivat-764-592c59d5cb)
 - [pr26:Cycle25.Arithmetic.Endpoint::quartic_rootHi_pos@760 — quartic_rootHi_pos](../records/0193.md#pr26-cycle25-arithmetic-endpoint-quartic-roothi-pos-760-12466f040b)
 - [pr26:Cycle25.Arithmetic.Endpoint::quartic_rootLo_neg@759 — quartic_rootLo_neg](../records/0193.md#pr26-cycle25-arithmetic-endpoint-quartic-rootlo-neg-759-9005f7ec6f)
-- [pr26:Cycle25.Arithmetic.Endpoint::quartic_root_unique@804 — quartic_root_unique](../records/0193.md#pr26-cycle25-arithmetic-endpoint-quartic-root-unique-804-d545d02ef8)
-- [pr26:Cycle25.Arithmetic.Endpoint::quartic_strictMonoOn@781 — quartic_strictMonoOn](../records/0193.md#pr26-cycle25-arithmetic-endpoint-quartic-strictmonoon-781-5459b2615a)

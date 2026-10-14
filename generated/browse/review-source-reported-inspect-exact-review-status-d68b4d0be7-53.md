@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/70; 17309 matching records.
+Page 53/70; 17311 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-54.md)
 
+- [pr26:Analytic.ActualRawDensity::actual_momentData_free_density_eventually@164 — actual_momentData_free_density_eventually](../records/0173.md#pr26-analytic-actualrawdensity-actual-momentdata-free-density-eve-8b3f8af867)
+- [pr26:Analytic.ActualRawDensity::densityWindow_exponent_bounds@140 — densityWindow_exponent_bounds](../records/0173.md#pr26-analytic-actualrawdensity-densitywindow-exponent-bounds-140-daa454c541)
 - [pr26:Analytic.ActualRawDensity::natural_momentData_mask@153 — natural_momentData_mask](../records/0173.md#pr26-analytic-actualrawdensity-natural-momentdata-mask-153-8d44c3b926)
 - [pr26:Analytic.ActualSourceRow — Analytic.ActualSourceRow](../records/0173.md#pr26-analytic-actualsourcerow-a6c9fa84c0)
 - [pr26:Analytic.ActualSourceRow::actual_source_rows_fixed_parent@416 — actual_source_rows_fixed_parent](../records/0173.md#pr26-analytic-actualsourcerow-actual-source-rows-fixed-parent-416-ab6ed39d7a)
@@ -87,8 +89,8 @@ Page 53/70; 17309 matching records.
 - [pr26:Analytic.DensityArithmetic — Analytic.DensityArithmetic](../records/0173.md#pr26-analytic-densityarithmetic-ac4c206055)
 - [pr26:Analytic.DensityArithmetic::density_fiber_height@368 — density_fiber_height](../records/0173.md#pr26-analytic-densityarithmetic-density-fiber-height-368-9b876c0240)
 - [pr26:Analytic.DensityArithmetic::density_geometry_parameters@316 — density_geometry_parameters](../records/0173.md#pr26-analytic-densityarithmetic-density-geometry-parameters-316-e5f0e579c6)
-- [pr26:Analytic.DensityArithmetic::density_internal_height@359 — density_internal_height](../records/0173.md#pr26-analytic-densityarithmetic-density-internal-height-359-4fd87252fc)
-- [pr26:Analytic.DensityLargeHeight — Analytic.DensityLargeHeight](../records/0173.md#pr26-analytic-densitylargeheight-103a83c5a9)
+- [pr26:Analytic.DensityArithmetic::density_internal_height@359 — density_internal_height](../records/0174.md#pr26-analytic-densityarithmetic-density-internal-height-359-4fd87252fc)
+- [pr26:Analytic.DensityLargeHeight — Analytic.DensityLargeHeight](../records/0174.md#pr26-analytic-densitylargeheight-103a83c5a9)
 - [pr26:Analytic.DensityLargeHeight::free_row_large_height_count@422 — free_row_large_height_count](../records/0174.md#pr26-analytic-densitylargeheight-free-row-large-height-count-422-2692f5cc66)
 - [pr26:Analytic.DensityLargeHeight::row_scale_le_large_height_power@409 — row_scale_le_large_height_power](../records/0174.md#pr26-analytic-densitylargeheight-row-scale-le-large-height-power--6b20bad758)
 - [pr26:Analytic.FixedPhaseDictionary — Analytic.FixedPhaseDictionary](../records/0174.md#pr26-analytic-fixedphasedictionary-114bd24c3d)
@@ -187,8 +189,8 @@ Page 53/70; 17309 matching records.
 - [pr26:Analytic.JointBufferedHeight::exists_joint_source_buffered_bins@539 — exists_joint_source_buffered_bins](../records/0174.md#pr26-analytic-jointbufferedheight-exists-joint-source-buffered-bi-1f2c370ac4)
 - [pr26:Analytic.JointBufferedHeight::exists_strict_buffered_bins@513 — exists_strict_buffered_bins](../records/0174.md#pr26-analytic-jointbufferedheight-exists-strict-buffered-bins-513-612c11edc7)
 - [pr26:Analytic.JointBufferedHeight::largePrimeSlots@661 — largePrimeSlots](../records/0174.md#pr26-analytic-jointbufferedheight-largeprimeslots-661-75e50ac546)
-- [pr26:Analytic.JointBufferedHeight::largePrimeSlots_log_scale@664 — largePrimeSlots_log_scale](../records/0174.md#pr26-analytic-jointbufferedheight-largeprimeslots-log-scale-664-8f51af7f55)
-- [pr26:Analytic.JointBufferedHeight::large_input_height_polynomial@590 — large_input_height_polynomial](../records/0174.md#pr26-analytic-jointbufferedheight-large-input-height-polynomial-5-ba6d858994)
+- [pr26:Analytic.JointBufferedHeight::largePrimeSlots_log_scale@664 — largePrimeSlots_log_scale](../records/0175.md#pr26-analytic-jointbufferedheight-largeprimeslots-log-scale-664-8f51af7f55)
+- [pr26:Analytic.JointBufferedHeight::large_input_height_polynomial@590 — large_input_height_polynomial](../records/0175.md#pr26-analytic-jointbufferedheight-large-input-height-polynomial-5-ba6d858994)
 - [pr26:Analytic.JointBufferedHeight::normalized_prime_slot_bounded_scale@618 — normalized_prime_slot_bounded_scale](../records/0175.md#pr26-analytic-jointbufferedheight-normalized-prime-slot-bounded-s-7db8ce3936)
 - [pr26:Analytic.JointBufferedHeight::normalized_prime_slots_remove_small@695 — normalized_prime_slots_remove_small](../records/0175.md#pr26-analytic-jointbufferedheight-normalized-prime-slots-remove-s-5e6da8b5d8)
 - [pr26:Analytic.JointBufferedHeight::prod_norm_remove_bounded@678 — prod_norm_remove_bounded](../records/0175.md#pr26-analytic-jointbufferedheight-prod-norm-remove-bounded-678-c4734bbe67)
@@ -256,5 +258,3 @@ Page 53/70; 17309 matching records.
 - [pr26:Analytic.JointCoherentExceptionalEnergy — Analytic.JointCoherentExceptionalEnergy](../records/0175.md#pr26-analytic-jointcoherentexceptionalenergy-8f43feab4b)
 - [pr26:Analytic.JointCoherentExceptionalEnergy::actual_common_coherent_exceptional_energy@390 — actual_common_coherent_exceptional_energy](../records/0175.md#pr26-analytic-jointcoherentexceptionalenergy-actual-common-cohere-aa9ccb352c)
 - [pr26:Analytic.JointCoherentExceptionalGates — Analytic.JointCoherentExceptionalGates](../records/0175.md#pr26-analytic-jointcoherentexceptionalgates-86bf75e9f2)
-- [pr26:Analytic.JointCoherentExceptionalGates::actual_common_exceptional_conductor_caps@926 — actual_common_exceptional_conductor_caps](../records/0175.md#pr26-analytic-jointcoherentexceptionalgates-actual-common-excepti-587ba9ba9e)
-- [pr26:Analytic.JointCoherentExceptionalGates::actual_common_second_projector_norm@896 — actual_common_second_projector_norm](../records/0175.md#pr26-analytic-jointcoherentexceptionalgates-actual-common-second--8fbb4b3b30)

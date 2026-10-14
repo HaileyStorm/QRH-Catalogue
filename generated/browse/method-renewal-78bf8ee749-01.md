@@ -251,4 +251,4 @@ Page 1/1; 248 matching records.
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0171.md#local-g228-b8e6c60a37)
 - [local:G243 — G243. Repeated-prime renewal with its complete signed defect](../records/0171.md#local-g243-86a11b1ceb)
 - [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0171.md#local-g280-92c627efc9)
-- [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0171.md#local-g81-99411dc86c)
+- [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0172.md#local-g81-99411dc86c)

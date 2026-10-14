@@ -2,6 +2,8 @@
 
 [All facets](../DIRECTORY.md)
 
+- [No new Lean declaration, typecheck, axiom audit or kernel execution. Existing source-indexed module and enclosing reported checks retain their separate scope. (1)](formalization-no-new-lean-declaration-typecheck-axiom-audit-or-kernel-execution-bf100f86d0-01.md)
+- [No new Lean declaration, typecheck, axiom audit or kernel execution. Existing source-indexed module evidence and enclosing reported checks remain separate. (1)](formalization-no-new-lean-declaration-typecheck-axiom-audit-or-kernel-execution-c8aa42fac9-01.md)
 - [No new Lean port, typecheck, axiom audit or kernel execution (1)](formalization-no-new-lean-port-typecheck-axiom-audit-or-kernel-execution-b93acacb6b-01.md)
 - [No new Lean port, typecheck, axiom audit or kernel execution. New formal verification is unknown; inherited source status is separate. (5)](formalization-no-new-lean-port-typecheck-axiom-audit-or-kernel-execution-new-fo-a9384bb4d7-01.md)
 - [No new Lean port, typecheck, axiom audit or kernel run. New formal verification is unknown; historical source inspection remains separate. (5)](formalization-no-new-lean-port-typecheck-axiom-audit-or-kernel-run-new-formal-v-20548c94f7-01.md)

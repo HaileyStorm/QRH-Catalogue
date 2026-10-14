@@ -255,6 +255,6 @@ Page 4/5; 1025 matching records.
 - [local:G73 — \[private research revision\] attempt delta (G73)](../records/0171.md#local-g73-076e11ffdb)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0171.md#local-g75-1359afa204)
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0171.md#local-g77-f75acc7bc5)
-- [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0171.md#local-g80-5d9f92de8e)
-- [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0171.md#local-g81-99411dc86c)
+- [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0172.md#local-g80-5d9f92de8e)
+- [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0172.md#local-g81-99411dc86c)
 - [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0172.md#local-g82-b0a5fbfc89)
