@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0171.md#local-g301-26a5fe5643)
+- [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0173.md#local-g301-26a5fe5643)

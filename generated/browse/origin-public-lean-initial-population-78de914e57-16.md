@@ -161,4 +161,4 @@ Page 16/16; 3906 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.TraceCharacter — OAI.NumberTheory.DirichletL.TraceCharacter](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-tracecharacter-6bea1c9733)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.TraceConductor — OAI.NumberTheory.DirichletL.TraceConductor](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-traceconductor-e946f6c511)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.UnitSexticWitness — OAI.NumberTheory.DirichletL.UnitSexticWitness](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-unitsexticwitness-ace460a60f)
-- [PUBLIC-C61-submission-fb6d4fd1 — Cycle61 c=125139/1000000 public submission source](../records/0129.md#public-c61-submission-fb6d4fd1-54db6de17c)
+- [PUBLIC-C61-submission-fb6d4fd1 — Cycle61 c=125139/1000000 public submission source](../records/0130.md#public-c61-submission-fb6d4fd1-54db6de17c)

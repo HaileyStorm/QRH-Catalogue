@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0171.md#local-g295-06047ab12a)
+- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)

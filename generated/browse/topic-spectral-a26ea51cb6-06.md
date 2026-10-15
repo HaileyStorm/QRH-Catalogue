@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 6/13; 3021 matching records.
+Page 6/13; 3031 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-05.md)
 
@@ -254,7 +254,7 @@ Page 6/13; 3021 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeTwist — OAI.NumberTheory.DirichletL.Moments.HeckeTwist](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-hecketwist-36ebab185d)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeVolume — OAI.NumberTheory.DirichletL.Moments.HeckeVolume](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckevolume-beac13ea68)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy — OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckewindow-066db8fbdd)
-- [M21-SINGLE — All-Dirichlet,zeta with s!=1,and finite-order Eisenstein Hecke targets at29/33](../records/0128.md#m21-single-d599740bae)
-- [P7-16 — Independent literal family targets](../records/0128.md#p7-16-d1010e3787)
-- [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0135.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
-- [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0135.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
+- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-inverse-fi-67cc067c74)
+- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-plain-fibe-d81a334119)
+- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.select_common_product — OAI.SevenEighths.Cycle62MarkedFiber.select_common_product](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-select-com-ea7c313be3)
+- [LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Assembly.record_beta_le — Cycle61.CountAffine.Assembly.record_beta_le](../records/0128.md#lean-pr52-cbb3e1fa-cycle61-countaffine-assembly-record-beta-le-46fcf23c0c)

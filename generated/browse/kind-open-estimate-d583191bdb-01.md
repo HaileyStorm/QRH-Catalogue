@@ -4,5 +4,5 @@
 
 Page 1/1; 2 matching records.
 
-- [P30-06 — Three squared-numerator joint interfaces](../records/0128.md#p30-06-6176b8a852)
-- [P30-28 — Exact one-sided off-diagonal repair target and experiment](../records/0128.md#p30-28-aa7e5d2412)
+- [P30-06 — Three squared-numerator joint interfaces](../records/0129.md#p30-06-6176b8a852)
+- [P30-28 — Exact one-sided off-diagonal repair target and experiment](../records/0130.md#p30-28-aa7e5d2412)

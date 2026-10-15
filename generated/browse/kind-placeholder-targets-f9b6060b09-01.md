@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [M21-SINGLE — All-Dirichlet,zeta with s!=1,and finite-order Eisenstein Hecke targets at29/33](../records/0128.md#m21-single-d599740bae)
+- [M21-SINGLE — All-Dirichlet,zeta with s!=1,and finite-order Eisenstein Hecke targets at29/33](../records/0129.md#m21-single-d599740bae)

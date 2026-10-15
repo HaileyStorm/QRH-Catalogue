@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [P7-08 — Full central loss ledger](../records/0128.md#p7-08-73aa1f4ae1)
+- [P7-08 — Full central loss ledger](../records/0130.md#p7-08-73aa1f4ae1)

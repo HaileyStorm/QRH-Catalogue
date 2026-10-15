@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [P30-39 — Local gain can be patched only with global compactness input](../records/0128.md#p30-39-8d5a41ebcd)
+- [P30-39 — Local gain can be patched only with global compactness input](../records/0130.md#p30-39-8d5a41ebcd)

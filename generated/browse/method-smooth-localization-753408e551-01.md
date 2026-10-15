@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [local:G235 — G235. Arbitrary-power short-cofactor localization of the complete nonlinear signed source](../records/0171.md#local-g235-73d71ef355)
+- [local:G235 — G235. Arbitrary-power short-cofactor localization of the complete nonlinear signed source](../records/0172.md#local-g235-73d71ef355)

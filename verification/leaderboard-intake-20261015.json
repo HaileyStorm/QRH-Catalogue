@@ -1,0 +1,934 @@
+{
+  "schema_version": 1,
+  "title": "Exact-source reusable arithmetic components from leaderboard PRs48,50,52",
+  "lean_version_output": "Lean (version 4.34.1, x86_64-unknown-linux-gnu, commit 5045d0056413266e57c625dcd7c365b10e377c52, Release)",
+  "lean_executable_sha256": "e8baaa71855a616dc351028f3ad2200051b0671f423a1696a100e809302d5550",
+  "mathlib_revision": "d13f23b723b8a846827a245b89c10fc7d3f11612",
+  "method": "Each unchanged module compiled to a fresh output in dependency order with the pinned compiler and existing pinned Mathlib/dependency objects. A separate import printed axioms for every public theorem/lemma declared in the selected modules; all processes exited0 and only standard axioms were observed.",
+  "limits": [
+    "This is not a clean rebuild of Mathlib or of any enclosing all-Dirichlet submission.",
+    "No Comparator, Lean export, NanoDa, con-ron or independent kernel replay was performed.",
+    "PR52 Record, Assembly and Main were excluded; their explicit sorry obligations remain.",
+    "Compiler source checks and ordinary Lean axiom reports are distinct from official tracker admission."
+  ],
+  "runs": [
+    {
+      "pr": 48,
+      "source_revision": "57ca0662b4ddeb2a75c0e302d0350cc65cf67c12",
+      "started": "2026-10-15T05:53:03.143463+00:00",
+      "lean_version": "4.34.1",
+      "mathlib_version": "d13f23b723b8a846827a245b89c10fc7d3f11612",
+      "modules": [
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3435319296,
+          "elapsed_seconds": 3.0062492770375684,
+          "log_sha256": "c37fe3f2659e22e8c70e4b30fec4e37fcbd21e94845c4f99ee59d2aa7c8b261e",
+          "log": "DeletionCollisionAlgebra.log",
+          "module": "Candidate.Cycle62.Marked.DeletionCollisionAlgebra",
+          "path": "Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean",
+          "source_sha256": "48747f80693532de00b285a7b3b1eefe9de0bd19dcd53a5348ff9daa69c039e8",
+          "source_unchanged": true,
+          "object_sha256": "f6ba4a20ad2d7531131d853856c11396f614429f88d5b5734edfda472daa805d",
+          "repository_path": "submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean",
+          "source_url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean"
+        },
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 2816110592,
+          "elapsed_seconds": 2.7549793790094554,
+          "log_sha256": "b2ce1a0c6994a29436a5578e6272eb4b6dc043326b964ca8196f634349e14d5f",
+          "log": "SlotPolarization.log",
+          "module": "Candidate.Cycle62.Marked.SlotPolarization",
+          "path": "Candidate/Cycle62/Marked/SlotPolarization.lean",
+          "source_sha256": "e6adbfd00f5382b7e36c22da3e73983444b043314d6278b91b402838f6df8ad3",
+          "source_unchanged": true,
+          "object_sha256": "1f5d3cac16da9fd4c9adeb354fea1f8d33598d6b1f9505b9bae59b0ee0838e0f",
+          "repository_path": "submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean",
+          "source_url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean"
+        }
+      ],
+      "axiom_audit": {
+        "exit_code": 0,
+        "stop_reason": null,
+        "peak_aggregate_rss_bytes": 3442122752,
+        "elapsed_seconds": 1.7544008609838784,
+        "log_sha256": "6da804fc0a5473f874b2f0cab859d2c7f18b3391d6a1033ba4951eb2aee1baba",
+        "log": "axioms.log",
+        "declarations": [
+          "OAI.SevenEighths.Deletion26.product_sum_kernel",
+          "OAI.SevenEighths.Deletion26.collisionBlock_nonempty",
+          "OAI.SevenEighths.Deletion26.product_over_collision_blocks",
+          "OAI.SevenEighths.Deletion26.product_sum_collision_blocks",
+          "OAI.SevenEighths.Deletion26.injective_joinAssignments",
+          "OAI.SevenEighths.Deletion26.joinAssignments_product",
+          "OAI.SevenEighths.Deletion26.injectiveTuplePolynomial_split",
+          "OAI.SevenEighths.Cycle62MarkedHeight.coefficient_one_interpolation",
+          "OAI.SevenEighths.Cycle62MarkedHeight.first_product_polarization",
+          "OAI.SevenEighths.Cycle62MarkedHeight.polarized_product_energy"
+        ],
+        "source_sha256": "e3d7abc6d12319d05973734c970f618fb6046b44b89d702d5feb57d99571c2e6",
+        "contains_sorryAx": false
+      },
+      "axioms_by_declaration": {
+        "OAI.SevenEighths.Deletion26.product_sum_kernel": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Deletion26.collisionBlock_nonempty": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Deletion26.product_over_collision_blocks": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Deletion26.product_sum_collision_blocks": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Deletion26.injective_joinAssignments": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Deletion26.joinAssignments_product": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Deletion26.injectiveTuplePolynomial_split": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Cycle62MarkedHeight.coefficient_one_interpolation": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Cycle62MarkedHeight.first_product_polarization": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "OAI.SevenEighths.Cycle62MarkedHeight.polarized_product_energy": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ]
+      },
+      "axiom_stdout": "'OAI.SevenEighths.Deletion26.product_sum_kernel' depends on axioms: [propext, Classical.choice, Quot.sound]\n'OAI.SevenEighths.Deletion26.collisionBlock_nonempty' depends on axioms: [propext, Classical.choice, Quot.sound]\n'OAI.SevenEighths.Deletion26.product_over_collision_blocks' depends on axioms: [propext, Classical.choice, Quot.sound]\n'OAI.SevenEighths.Deletion26.product_sum_collision_blocks' depends on axioms: [propext, Classical.choice, Quot.sound]\n'OAI.SevenEighths.Deletion26.injective_joinAssignments' depends on axioms: [propext, Classical.choice, Quot.sound]\n'OAI.SevenEighths.Deletion26.joinAssignments_product' depends on axioms: [propext, Classical.choice, Quot.sound]\n'OAI.SevenEighths.Deletion26.injectiveTuplePolynomial_split' depends on axioms: [propext, Classical.choice, Quot.sound]\n'OAI.SevenEighths.Cycle62MarkedHeight.coefficient_one_interpolation' depends on axioms: [propext,\n Classical.choice,\n Quot.sound]\n'OAI.SevenEighths.Cycle62MarkedHeight.first_product_polarization' depends on axioms: [propext,\n Classical.choice,\n Quot.sound]\n'OAI.SevenEighths.Cycle62MarkedHeight.polarized_product_energy' depends on axioms: [propext,\n Classical.choice,\n Quot.sound]\n",
+      "elapsed_seconds": 7.519374879077077,
+      "scope": "Two unchanged PR48 finite algebra source modules; existing pinned Mathlib dependency objects reused; no analytic assembly, clean dependency build or independent kernel replay."
+    },
+    {
+      "pr": 50,
+      "source_revision": "8cb265dc34909040c6f8cb48f53b19670a217ceb",
+      "started": "2026-10-15T05:53:01.890240+00:00",
+      "lean_version": "4.34.1",
+      "mathlib_version": "d13f23b723b8a846827a245b89c10fc7d3f11612",
+      "modules": [
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3449028608,
+          "elapsed_seconds": 3.757775604026392,
+          "log_sha256": "38dfce3adc18bb4225224eb0d7232ecec25750e3909b8c5150c304369d94037f",
+          "log": "CoupledRadicalSaving.log",
+          "module": "Candidate.Cycle63.Physical.CoupledRadicalSaving",
+          "path": "Candidate/Cycle63/Physical/CoupledRadicalSaving.lean",
+          "source_sha256": "ddf3183438b5aae3e76c1fccda557e4fb6e44cdd6b64c231a17ab8956262ffeb",
+          "source_unchanged": true,
+          "object_sha256": "9ee6ed405a4047d6737291194e0eb777fc06447f29528de3bf529534e633ae48",
+          "repository_path": "submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/CoupledRadicalSaving.lean",
+          "source_url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/CoupledRadicalSaving.lean"
+        },
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3579289600,
+          "elapsed_seconds": 5.00911654997617,
+          "log_sha256": "c0785cfcb3253eec2640c1f8e58e160c8c13b5a6daa9f006b7741d08d437de69",
+          "log": "VariableSupply.log",
+          "module": "Candidate.Cycle63.Marked.Route.VariableSupply",
+          "path": "Candidate/Cycle63/Marked/Route/VariableSupply.lean",
+          "source_sha256": "6e763e171e4ffc55ffbb8333a575df25d51a87c28f3d08935cede9d59be3d46a",
+          "source_unchanged": true,
+          "object_sha256": "d7f3d19085579ce6bb6e39a8d00f61fd6455ed40bbf19b550b3c62490932befe",
+          "repository_path": "submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean",
+          "source_url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean"
+        },
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3525533696,
+          "elapsed_seconds": 3.0065437980229035,
+          "log_sha256": "1b68835cfa0af26d66fb2a128a04dd6cc82103f3778bf28a671b87ebe8682b5d",
+          "log": "MarkedAllocationReserve.log",
+          "module": "Candidate.Cycle63.Physical.MarkedAllocationReserve",
+          "path": "Candidate/Cycle63/Physical/MarkedAllocationReserve.lean",
+          "source_sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9",
+          "source_unchanged": true,
+          "object_sha256": "7fbe126cb724d99ccb4f55f353afa7cc66a3f979858a7b63071122d29ca417fa",
+          "repository_path": "submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean",
+          "source_url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean"
+        }
+      ],
+      "axiom_audit": {
+        "exit_code": 0,
+        "stop_reason": null,
+        "peak_aggregate_rss_bytes": 3385843712,
+        "elapsed_seconds": 1.7544315289705992,
+        "log_sha256": "78445caa8927cb658bd761450f97ad1deb5d6bb7b81e00394e5cc88974316ff5",
+        "log": "axioms.log",
+        "declarations": [
+          "CoupledRadicalSaving.first_common_coupled",
+          "CoupledRadicalSaving.first_common_uniform",
+          "VariableSupply.count_identity",
+          "VariableSupply.gain_identity",
+          "VariableSupply.inverseWidth_bounds",
+          "VariableSupply.plainWidth_bounds",
+          "VariableSupply.chosenWidth_bounds",
+          "VariableSupply.chosenWidth_pos",
+          "VariableSupply.chosenWidth_lower",
+          "VariableSupply.chosenWidth_mono",
+          "VariableSupply.zero_width_count",
+          "VariableSupply.cutoff_bounds",
+          "VariableSupply.inverse_capacities",
+          "VariableSupply.plain_capacity",
+          "VariableSupply.count_lower",
+          "VariableSupply.fiber_exponent",
+          "VariableSupply.gain_half_per_width",
+          "VariableSupply.gain_one_upper",
+          "VariableSupply.joint_width_gap",
+          "VariableSupply.joint_chosen_gap",
+          "VariableSupply.physical_rescale_min",
+          "VariableSupply.joint_physical_width_gap",
+          "VariableSupply.physical_rescale",
+          "MarkedAllocationReserve.first_common_saving",
+          "MarkedAllocationReserve.second_common_saving",
+          "MarkedAllocationReserve.both_common_saving",
+          "MarkedAllocationReserve.density_sum_gap",
+          "MarkedAllocationReserve.small_allocation_geometry",
+          "MarkedAllocationReserve.small_allocation_supply",
+          "MarkedAllocationReserve.sixthpower_split_saving",
+          "MarkedAllocationReserve.allocation_or_marked",
+          "MarkedAllocationReserve.allocation_or_raw_marked",
+          "MarkedAllocationReserve.raw_frequency_lower",
+          "MarkedAllocationReserve.small_core_frequency_lower",
+          "MarkedAllocationReserve.continuous_marked_ledger",
+          "MarkedAllocationReserve.continuous_tail_ledger",
+          "MarkedAllocationReserve.continuous_reserve_after_losses"
+        ],
+        "source_sha256": "ad6a3c2c7305be9a43283f571f54191d0fa964b87577e1dc5c36b24d752ff1a9",
+        "contains_sorryAx": false
+      },
+      "axioms_by_declaration": {
+        "CoupledRadicalSaving.first_common_coupled": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "CoupledRadicalSaving.first_common_uniform": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.count_identity": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.gain_identity": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.inverseWidth_bounds": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.plainWidth_bounds": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.chosenWidth_bounds": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.chosenWidth_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.chosenWidth_lower": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.chosenWidth_mono": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.zero_width_count": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.cutoff_bounds": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.inverse_capacities": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.plain_capacity": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.count_lower": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.fiber_exponent": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.gain_half_per_width": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.gain_one_upper": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.joint_width_gap": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.joint_chosen_gap": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.physical_rescale_min": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.joint_physical_width_gap": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "VariableSupply.physical_rescale": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.first_common_saving": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.second_common_saving": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.both_common_saving": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.density_sum_gap": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.small_allocation_geometry": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.small_allocation_supply": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.sixthpower_split_saving": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.allocation_or_marked": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.allocation_or_raw_marked": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.raw_frequency_lower": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.small_core_frequency_lower": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.continuous_marked_ledger": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.continuous_tail_ledger": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "MarkedAllocationReserve.continuous_reserve_after_losses": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ]
+      },
+      "axiom_stdout": "'CoupledRadicalSaving.first_common_coupled' depends on axioms: [propext, Classical.choice, Quot.sound]\n'CoupledRadicalSaving.first_common_uniform' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.count_identity' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.gain_identity' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.inverseWidth_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.plainWidth_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.chosenWidth_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.chosenWidth_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.chosenWidth_lower' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.chosenWidth_mono' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.zero_width_count' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.cutoff_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.inverse_capacities' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.plain_capacity' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.count_lower' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.fiber_exponent' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.gain_half_per_width' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.gain_one_upper' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.joint_width_gap' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.joint_chosen_gap' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.physical_rescale_min' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.joint_physical_width_gap' depends on axioms: [propext, Classical.choice, Quot.sound]\n'VariableSupply.physical_rescale' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.first_common_saving' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.second_common_saving' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.both_common_saving' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.density_sum_gap' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.small_allocation_geometry' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.small_allocation_supply' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.sixthpower_split_saving' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.allocation_or_marked' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.allocation_or_raw_marked' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.raw_frequency_lower' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.small_core_frequency_lower' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.continuous_marked_ledger' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.continuous_tail_ledger' depends on axioms: [propext, Classical.choice, Quot.sound]\n'MarkedAllocationReserve.continuous_reserve_after_losses' depends on axioms: [propext, Classical.choice, Quot.sound]\n",
+      "elapsed_seconds": 13.53681509802118,
+      "scope": "Three unchanged PR50 scalar source modules; existing pinned Mathlib dependency objects reused; no analytic assembly, clean dependency build or independent kernel replay."
+    },
+    {
+      "pr": 52,
+      "source_revision": "cbb3e1faac3f4dd711b06628a6b0052d388f12a5",
+      "started": "2026-10-15T05:51:40.775411+00:00",
+      "lean_version": "4.34.1",
+      "mathlib_version": "d13f23b723b8a846827a245b89c10fc7d3f11612",
+      "modules": [
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3375169536,
+          "elapsed_seconds": 2.0044880609493703,
+          "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "log": "Bern.log",
+          "module": "Candidate.CountAffine.Bern",
+          "path": "Candidate/CountAffine/Bern.lean",
+          "source_sha256": "8f5ccb544347684077fe1ebb6bb8a6234f10253e654f8b1b79917fe8b25b27bc",
+          "source_unchanged": true,
+          "object_sha256": "8d5f9e07dbed32e6866905d992b37391149cd8333890ddda27f4f114b7eb432d",
+          "repository_path": "submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean",
+          "source_url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean"
+        },
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3496587264,
+          "elapsed_seconds": 3.25628329499159,
+          "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "log": "ClosedForm.log",
+          "module": "Candidate.CountAffine.ClosedForm",
+          "path": "Candidate/CountAffine/ClosedForm.lean",
+          "source_sha256": "ab9b57042847ff225814d929b3155aabe78438a63eabd8aae51699046e31e0dd",
+          "source_unchanged": true,
+          "object_sha256": "dc953009a826794f67eeb16ea2a68d796239c9461254fc00e4b9719dbdd60849",
+          "repository_path": "submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean",
+          "source_url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean"
+        },
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 4018053120,
+          "elapsed_seconds": 8.012868240009993,
+          "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "log": "RegionCert.log",
+          "module": "Candidate.CountAffine.RegionCert",
+          "path": "Candidate/CountAffine/RegionCert.lean",
+          "source_sha256": "b539fd283dfeca272cfa8f57772e58045230e88310fa64533f62f5c89c56cafb",
+          "source_unchanged": true,
+          "object_sha256": "23bb3ad83200414921e1c027bf1305fcf922e5f57946b5d9d0ac63d75231ef63",
+          "repository_path": "submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionCert.lean",
+          "source_url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionCert.lean"
+        },
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3466153984,
+          "elapsed_seconds": 2.77000575105194,
+          "log_sha256": "dd70effb7b0236a984b6ca66d41edaac650fcc63a6f64e5abb40774ae075d47e",
+          "log": "RegionFacts.log",
+          "module": "Candidate.CountAffine.RegionFacts",
+          "path": "Candidate/CountAffine/RegionFacts.lean",
+          "source_sha256": "d96e72a74ea2696022b9cad81db5ddec1208c06c930b5e1d140eae605add3431",
+          "source_unchanged": true,
+          "object_sha256": "d8dde5c4c6ebc88eebd3c7ac47bfca8cf7600153752c3bdbfb95a484c07eb196",
+          "repository_path": "submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean",
+          "source_url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean"
+        },
+        {
+          "exit_code": 0,
+          "stop_reason": null,
+          "peak_aggregate_rss_bytes": 3459371008,
+          "elapsed_seconds": 9.514537680894136,
+          "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "log": "Branch.log",
+          "module": "Candidate.CountAffine.Branch",
+          "path": "Candidate/CountAffine/Branch.lean",
+          "source_sha256": "06596f0c4c78eb399c2961f71d16716dae26075e02f3514539889e5c0ef007ac",
+          "source_unchanged": true,
+          "object_sha256": "c46541fd3311639f9531358222deb15169523f5f7f79f7407aa3656fc2c22d9f",
+          "repository_path": "submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Branch.lean",
+          "source_url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Branch.lean"
+        }
+      ],
+      "axiom_audit": {
+        "exit_code": 0,
+        "stop_reason": null,
+        "peak_aggregate_rss_bytes": 3377909760,
+        "elapsed_seconds": 2.0046563430223614,
+        "log_sha256": "cfa19ce4801971c7520887520f2857af076ad211951a9c3db86483d644474c8a",
+        "log": "axioms.log",
+        "declarations": [
+          "Cycle61.CountAffine.bterm_nonneg",
+          "Cycle61.CountAffine.bsum_pos",
+          "Cycle61.CountAffine.bsum_nonneg",
+          "Cycle61.CountAffine.usum_pos",
+          "Cycle61.CountAffine.inRegion_up",
+          "Cycle61.CountAffine.inRegion_bounds",
+          "Cycle61.CountAffine.lambda_bounds",
+          "Cycle61.CountAffine.B_bounds",
+          "Cycle61.CountAffine.crossing_identities",
+          "Cycle61.CountAffine.RStar_ge_base",
+          "Cycle61.CountAffine.inverseLine_anti",
+          "Cycle61.CountAffine.sI_nonneg",
+          "Cycle61.CountAffine.plainNew_anti",
+          "Cycle61.CountAffine.plainOld_anti",
+          "Cycle61.CountAffine.plainNew_at_crossing",
+          "Cycle61.CountAffine.tStar_cross_identity",
+          "Cycle61.CountAffine.condTD_R1_id",
+          "Cycle61.CountAffine.condTD_R1_pos",
+          "Cycle61.CountAffine.condS_R1_id",
+          "Cycle61.CountAffine.condS_R1_pos",
+          "Cycle61.CountAffine.condTlo_R1_id",
+          "Cycle61.CountAffine.condTlo_R1_pos",
+          "Cycle61.CountAffine.condThi_R1_id",
+          "Cycle61.CountAffine.condThi_R1_pos",
+          "Cycle61.CountAffine.condRC_R1_id",
+          "Cycle61.CountAffine.condRC_R1_pos",
+          "Cycle61.CountAffine.condCap_R1_id",
+          "Cycle61.CountAffine.condCap_R1_pos",
+          "Cycle61.CountAffine.condB3_R1_id",
+          "Cycle61.CountAffine.condB3_R1_pos",
+          "Cycle61.CountAffine.condTD_R2_id",
+          "Cycle61.CountAffine.condTD_R2_pos",
+          "Cycle61.CountAffine.condS_R2_id",
+          "Cycle61.CountAffine.condS_R2_pos",
+          "Cycle61.CountAffine.condTlo_R2_id",
+          "Cycle61.CountAffine.condTlo_R2_pos",
+          "Cycle61.CountAffine.condThi_R2_id",
+          "Cycle61.CountAffine.condThi_R2_pos",
+          "Cycle61.CountAffine.condRC_R2_id",
+          "Cycle61.CountAffine.condRC_R2_pos",
+          "Cycle61.CountAffine.condCap_R2_id",
+          "Cycle61.CountAffine.condCap_R2_pos",
+          "Cycle61.CountAffine.condB3_R2_id",
+          "Cycle61.CountAffine.condB3_R2_pos",
+          "Cycle61.CountAffine.anti_cc_R1_id",
+          "Cycle61.CountAffine.anti_cc_R1_pos",
+          "Cycle61.CountAffine.anti_ce_R1_id",
+          "Cycle61.CountAffine.anti_ce_R1_pos",
+          "Cycle61.CountAffine.anti_ee_R1_id",
+          "Cycle61.CountAffine.anti_ee_R1_pos",
+          "Cycle61.CountAffine.anti_cc_R2_id",
+          "Cycle61.CountAffine.anti_cc_R2_pos",
+          "Cycle61.CountAffine.anti_ce_R2_id",
+          "Cycle61.CountAffine.anti_ce_R2_pos",
+          "Cycle61.CountAffine.anti_ee_R2_id",
+          "Cycle61.CountAffine.anti_ee_R2_pos",
+          "Cycle61.CountAffine.gates_of_region",
+          "Cycle61.CountAffine.mC_eq",
+          "Cycle61.CountAffine.facts_of_gates",
+          "Cycle61.CountAffine.facts_of_region",
+          "Cycle61.CountAffine.bilinear_corners",
+          "Cycle61.CountAffine.gAnti_nonpos",
+          "Cycle61.CountAffine.RStar_anti",
+          "Cycle61.CountAffine.promote_rpow",
+          "Cycle61.CountAffine.inverseLine_eq",
+          "Cycle61.CountAffine.RStar_le_newBranch",
+          "Cycle61.CountAffine.plainOld_le_newBranch",
+          "Cycle61.CountAffine.affine_count_bound_of_branches"
+        ],
+        "source_sha256": "8966faed3f85239a631f6c257508b1dca88564d0ece8f1ebe79afbc9f9208092",
+        "contains_sorryAx": false
+      },
+      "axioms_by_declaration": {
+        "Cycle61.CountAffine.bterm_nonneg": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.bsum_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.bsum_nonneg": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.usum_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.inRegion_up": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.inRegion_bounds": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.lambda_bounds": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.B_bounds": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.crossing_identities": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.RStar_ge_base": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.inverseLine_anti": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.sI_nonneg": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.plainNew_anti": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.plainOld_anti": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.plainNew_at_crossing": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.tStar_cross_identity": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTD_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTD_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condS_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condS_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTlo_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTlo_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condThi_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condThi_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condRC_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condRC_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condCap_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condCap_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condB3_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condB3_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTD_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTD_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condS_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condS_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTlo_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condTlo_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condThi_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condThi_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condRC_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condRC_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condCap_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condCap_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condB3_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.condB3_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_cc_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_cc_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ce_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ce_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ee_R1_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ee_R1_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_cc_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_cc_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ce_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ce_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ee_R2_id": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.anti_ee_R2_pos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.gates_of_region": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.mC_eq": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.facts_of_gates": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.facts_of_region": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.bilinear_corners": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.gAnti_nonpos": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.RStar_anti": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.promote_rpow": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.inverseLine_eq": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.RStar_le_newBranch": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.plainOld_le_newBranch": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "Cycle61.CountAffine.affine_count_bound_of_branches": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ]
+      },
+      "axiom_stdout": "'Cycle61.CountAffine.bterm_nonneg' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.bsum_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.bsum_nonneg' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.usum_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.inRegion_up' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.inRegion_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.lambda_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.B_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.crossing_identities' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.RStar_ge_base' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.inverseLine_anti' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.sI_nonneg' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.plainNew_anti' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.plainOld_anti' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.plainNew_at_crossing' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.tStar_cross_identity' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTD_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTD_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condS_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condS_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTlo_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTlo_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condThi_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condThi_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condRC_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condRC_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condCap_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condCap_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condB3_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condB3_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTD_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTD_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condS_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condS_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTlo_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condTlo_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condThi_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condThi_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condRC_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condRC_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condCap_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condCap_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condB3_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.condB3_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_cc_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_cc_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ce_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ce_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ee_R1_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ee_R1_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_cc_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_cc_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ce_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ce_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ee_R2_id' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.anti_ee_R2_pos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.gates_of_region' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.mC_eq' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.facts_of_gates' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.facts_of_region' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.bilinear_corners' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.gAnti_nonpos' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.RStar_anti' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.promote_rpow' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.inverseLine_eq' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.RStar_le_newBranch' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.plainOld_le_newBranch' depends on axioms: [propext, Classical.choice, Quot.sound]\n'Cycle61.CountAffine.affine_count_bound_of_branches' depends on axioms: [propext, Classical.choice, Quot.sound]\n",
+      "elapsed_seconds": 27.60405382909812,
+      "scope": "Five unchanged arithmetic source modules; existing pinned Mathlib dependency objects reused; no analytic assembly, clean dependency build or independent kernel replay."
+    }
+  ]
+}

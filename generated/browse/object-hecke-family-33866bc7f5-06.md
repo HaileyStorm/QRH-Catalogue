@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 6/11; 2690 matching records.
+Page 6/11; 2700 matching records.
 
 [Previous](object-hecke-family-33866bc7f5-05.md)
 
@@ -249,12 +249,12 @@ Page 6/11; 2690 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeTwist — OAI.NumberTheory.DirichletL.Moments.HeckeTwist](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-hecketwist-36ebab185d)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeVolume — OAI.NumberTheory.DirichletL.Moments.HeckeVolume](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckevolume-beac13ea68)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy — OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckewindow-066db8fbdd)
-- [M21-SINGLE — All-Dirichlet,zeta with s!=1,and finite-order Eisenstein Hecke targets at29/33](../records/0128.md#m21-single-d599740bae)
-- [P7-16 — Independent literal family targets](../records/0128.md#p7-16-d1010e3787)
-- [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0135.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
-- [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0135.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
-- [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0135.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
-- [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0135.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
-- [local-section:015dd76d4f6a52bc3cf07323 — 12. A source theorem must match the actual coefficient and level family](../records/0135.md#local-section-015dd76d4f6a52bc3cf07323-3ff001bf2c)
-- [local-section:01bfba49ac56606caa99ee2b — Late independent review: signed integer renewal and the friable mean](../records/0135.md#local-section-01bfba49ac56606caa99ee2b-366fc79b7c)
-- [local-section:01cc0ec03099b6574d678481 — 4. Canonical coefficients, witnesses and the conditioned theorem](../records/0135.md#local-section-01cc0ec03099b6574d678481-4169c61b0c)
+- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-inverse-fi-67cc067c74)
+- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-plain-fibe-d81a334119)
+- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.select_common_product — OAI.SevenEighths.Cycle62MarkedFiber.select_common_product](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-select-com-ea7c313be3)
+- [LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Assembly.record_beta_le — Cycle61.CountAffine.Assembly.record_beta_le](../records/0128.md#lean-pr52-cbb3e1fa-cycle61-countaffine-assembly-record-beta-le-46fcf23c0c)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A — OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25detectorrowcount-maske-70a628f569)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine — OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle61initialmass-detector-l-90b0263a9a)
+- [LEAN-PR60-74643447-Cycle63.FinalAssembly.fixed_source_contract — Cycle63.FinalAssembly.fixed_source_contract](../records/0129.md#lean-pr60-74643447-cycle63-finalassembly-fixed-source-contract-92735651b1)
+- [LEAN-PR60-74643447-Cycle63.FiniteNumerator.fixed_numerator_of_cells — Cycle63.FiniteNumerator.fixed_numerator_of_cells](../records/0129.md#lean-pr60-74643447-cycle63-finitenumerator-fixed-numerator-of-cel-f4d4127e71)
+- [LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A — OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A](../records/0129.md#lean-pr60-74643447-oai-seveneighths-cycle25detectorrowcount-maske-3d71459604)

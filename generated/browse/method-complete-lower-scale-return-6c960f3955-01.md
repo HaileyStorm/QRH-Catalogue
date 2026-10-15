@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0172.md#local-g310-39134eeca1)
+- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0173.md#local-g310-39134eeca1)

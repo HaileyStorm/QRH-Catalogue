@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/16; 3905 matching records.
+Page 1/17; 4026 matching records.
 
 [Next](kind-formal-component-c2c4cd0c7a-02.md)
 

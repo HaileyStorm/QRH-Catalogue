@@ -123296,6 +123296,2366 @@
         "review_sha256": "33d89b40ca18decce6406946a00253950c110aca2f17c091c2fb7c23afd748c1",
         "qualification": "Explicitly attributed fifth-depth adaptation of the shorter-period beta-profile and positive-mixture method. Different inverse depth and order threshold; no same-exponent beta converse or new independent seed."
       }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-collision-partitions",
+      "target": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean",
+        "sha256": "48747f80693532de00b285a7b3b1eefe9de0bd19dcd53a5348ff9daa69c039e8",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.kernelTupleEquiv",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L17",
+        "sha256": "48747f80693532de00b285a7b3b1eefe9de0bd19dcd53a5348ff9daa69c039e8"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-collision-partitions",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.kernelTupleEquiv",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L17",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_sum_kernel",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L45",
+        "sha256": "48747f80693532de00b285a7b3b1eefe9de0bd19dcd53a5348ff9daa69c039e8"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-collision-partitions",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_sum_kernel",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L45",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_over_collision_blocks",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L66",
+        "sha256": "48747f80693532de00b285a7b3b1eefe9de0bd19dcd53a5348ff9daa69c039e8"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-collision-partitions",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_over_collision_blocks",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L66",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_sum_collision_blocks",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L81",
+        "sha256": "48747f80693532de00b285a7b3b1eefe9de0bd19dcd53a5348ff9daa69c039e8"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-collision-partitions",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_sum_collision_blocks",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L81",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.injectiveTuplePolynomial_split",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L143",
+        "sha256": "48747f80693532de00b285a7b3b1eefe9de0bd19dcd53a5348ff9daa69c039e8"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-collision-partitions",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.injectiveTuplePolynomial_split",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/DeletionCollisionAlgebra.lean#L143",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-finite-polarization",
+      "target": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.SlotPolarization",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean",
+        "sha256": "e6adbfd00f5382b7e36c22da3e73983444b043314d6278b91b402838f6df8ad3",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.SlotPolarization",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.coefficient_one_interpolation",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean#L15",
+        "sha256": "e6adbfd00f5382b7e36c22da3e73983444b043314d6278b91b402838f6df8ad3"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-finite-polarization",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.coefficient_one_interpolation",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean#L15",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.SlotPolarization",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.first_product_polarization",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean#L34",
+        "sha256": "e6adbfd00f5382b7e36c22da3e73983444b043314d6278b91b402838f6df8ad3"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-finite-polarization",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.first_product_polarization",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean#L34",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.SlotPolarization",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.polarized_product_energy",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean#L68",
+        "sha256": "e6adbfd00f5382b7e36c22da3e73983444b043314d6278b91b402838f6df8ad3"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-finite-polarization",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.polarized_product_energy",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/SlotPolarization.lean#L68",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-marked-amplitudes",
+      "target": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.HighSourceFactors",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/HighSourceFactors.lean",
+        "sha256": "314962fd42d6536821ca030efdb2f0151991102a0c051873df08398337279940",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.HighSourceFactors",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62Moment.actual_high_source_factored",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/HighSourceFactors.lean#L32",
+        "sha256": "314962fd42d6536821ca030efdb2f0151991102a0c051873df08398337279940"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-marked-amplitudes",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62Moment.actual_high_source_factored",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/HighSourceFactors.lean#L32",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-marked-amplitudes",
+      "target": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.GenericFiberCount",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/GenericFiberCount.lean",
+        "sha256": "396a5d79bcbd5d6c92a2acd39367a4902d3cad2dff8bf35acec36cdd713a7e4f",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.GenericFiberCount",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.select_common_product",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/GenericFiberCount.lean#L13",
+        "sha256": "396a5d79bcbd5d6c92a2acd39367a4902d3cad2dff8bf35acec36cdd713a7e4f"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-marked-amplitudes",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.select_common_product",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/GenericFiberCount.lean#L13",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.GenericFiberCount",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/GenericFiberCount.lean#L37",
+        "sha256": "396a5d79bcbd5d6c92a2acd39367a4902d3cad2dff8bf35acec36cdd713a7e4f"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-marked-amplitudes",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/GenericFiberCount.lean#L37",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.GenericFiberCount",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/GenericFiberCount.lean#L93",
+        "sha256": "396a5d79bcbd5d6c92a2acd39367a4902d3cad2dff8bf35acec36cdd713a7e4f"
+      }
+    },
+    {
+      "source": "MATH-PR48-57ca0662-marked-amplitudes",
+      "target": "LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/57ca0662b4ddeb2a75c0e302d0350cc65cf67c12/submissions/marked-high-count-20261014/src/Candidate/Cycle62/Marked/GenericFiberCount.lean#L93",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-asymmetric-widths",
+      "target": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Marked.Route.VariableSupply",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean",
+        "sha256": "6e763e171e4ffc55ffbb8333a575df25d51a87c28f3d08935cede9d59be3d46a",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Marked.Route.VariableSupply",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.fiber_exponent",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L129",
+        "sha256": "6e763e171e4ffc55ffbb8333a575df25d51a87c28f3d08935cede9d59be3d46a"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-asymmetric-widths",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.fiber_exponent",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L129",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Marked.Route.VariableSupply",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.physical_rescale_min",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L220",
+        "sha256": "6e763e171e4ffc55ffbb8333a575df25d51a87c28f3d08935cede9d59be3d46a"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-asymmetric-widths",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.physical_rescale_min",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L220",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Marked.Route.VariableSupply",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.joint_physical_width_gap",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L248",
+        "sha256": "6e763e171e4ffc55ffbb8333a575df25d51a87c28f3d08935cede9d59be3d46a"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-asymmetric-widths",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.joint_physical_width_gap",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L248",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Marked.Route.VariableSupply",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.physical_rescale",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L263",
+        "sha256": "6e763e171e4ffc55ffbb8333a575df25d51a87c28f3d08935cede9d59be3d46a"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-asymmetric-widths",
+      "target": "LEAN-PR50-8cb265dc-VariableSupply.physical_rescale",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Marked/Route/VariableSupply.lean#L263",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-coupled-radical",
+      "target": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.CoupledRadicalSaving",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/CoupledRadicalSaving.lean",
+        "sha256": "ddf3183438b5aae3e76c1fccda557e4fb6e44cdd6b64c231a17ab8956262ffeb",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.CoupledRadicalSaving",
+      "target": "LEAN-PR50-8cb265dc-CoupledRadicalSaving.first_common_coupled",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/CoupledRadicalSaving.lean#L11",
+        "sha256": "ddf3183438b5aae3e76c1fccda557e4fb6e44cdd6b64c231a17ab8956262ffeb"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-coupled-radical",
+      "target": "LEAN-PR50-8cb265dc-CoupledRadicalSaving.first_common_coupled",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/CoupledRadicalSaving.lean#L11",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.CoupledRadicalSaving",
+      "target": "LEAN-PR50-8cb265dc-CoupledRadicalSaving.first_common_uniform",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/CoupledRadicalSaving.lean#L39",
+        "sha256": "ddf3183438b5aae3e76c1fccda557e4fb6e44cdd6b64c231a17ab8956262ffeb"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-coupled-radical",
+      "target": "LEAN-PR50-8cb265dc-CoupledRadicalSaving.first_common_uniform",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/CoupledRadicalSaving.lean#L39",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-continuous-ledger",
+      "target": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean",
+        "sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.raw_frequency_lower",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L116",
+        "sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-continuous-ledger",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.raw_frequency_lower",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L116",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.small_core_frequency_lower",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L127",
+        "sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-continuous-ledger",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.small_core_frequency_lower",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L127",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.continuous_marked_ledger",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L135",
+        "sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-continuous-ledger",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.continuous_marked_ledger",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L135",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.continuous_tail_ledger",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L150",
+        "sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-continuous-ledger",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.continuous_tail_ledger",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L150",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.continuous_reserve_after_losses",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L159",
+        "sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9"
+      }
+    },
+    {
+      "source": "MATH-PR50-8cb265dc-continuous-ledger",
+      "target": "LEAN-PR50-8cb265dc-MarkedAllocationReserve.continuous_reserve_after_losses",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean#L159",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-local-capacity-obstructions",
+      "target": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.fixed_b006_grid_wall_obstruction",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L83",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-local-capacity-obstructions",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.fixed_b006_grid_wall_obstruction",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L83",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.b029_slope_6kappa_region_obstruction",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L111",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-local-capacity-obstructions",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.b029_slope_6kappa_region_obstruction",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L111",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.b026_four_face_reserve_decomposition",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L144",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-local-capacity-obstructions",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.b026_four_face_reserve_decomposition",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L144",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.bareWindow_pivot_domination",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L174",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-local-capacity-obstructions",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.bareWindow_pivot_domination",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L174",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-lp-floor",
+      "target": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.truncated_sieve_no_go",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L220",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-lp-floor",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.truncated_sieve_no_go",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L220",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.universal_low_side_dual_identity",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L253",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-lp-floor",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.universal_low_side_dual_identity",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L253",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.universal_low_side_13_15_lp_floor",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L265",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-lp-floor",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.universal_low_side_13_15_lp_floor",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L265",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.ideal_high_side_coincidence",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L284",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-lp-floor",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.ideal_high_side_coincidence",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L284",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.p0_bootstrap_obstruction",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L351",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.p0_bootstrap_obstruction",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L351",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.marked_high_conservation_cap",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L379",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.marked_high_conservation_cap",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L379",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.full_contract_closure_wall_at_0874835",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L441",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.full_contract_closure_wall_at_0874835",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L441",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_physical_parameters",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L476",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_physical_parameters",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L476",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_euler_shift_gate",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L495",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_euler_shift_gate",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L495",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_physical_feasibility",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L506",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_physical_feasibility",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L506",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR53-15520c3f-Submissions.certb_local_20261013.Bundles.B127",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_bandwidth_slack_positive",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L523",
+        "sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e"
+      }
+    },
+    {
+      "source": "MATH-PR53-15520c3f-candidate-envelope",
+      "target": "LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_bandwidth_slack_positive",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DevinWatson/QuasiRiemannTracker/blob/15520c3f46e92df5e86abb7fc6ac02e24d467cd2/submissions/certb-local-20261013/src/Submissions/certb_local_20261013/Bundles/B127.lean#L523",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-detector-moment-supply",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Supply",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Supply.lean",
+        "sha256": "be590c9161d746a5126e5538c16cffe03db20ac361270b752b3b5d3d00e63bdd",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Supply",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Supply.lean#L158",
+        "sha256": "be590c9161d746a5126e5538c16cffe03db20ac361270b752b3b5d3d00e63bdd"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-detector-moment-supply",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Supply.lean#L158",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Supply",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.actual_detector_affine_input",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Supply.lean#L264",
+        "sha256": "be590c9161d746a5126e5538c16cffe03db20ac361270b752b3b5d3d00e63bdd"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-detector-moment-supply",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.actual_detector_affine_input",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Supply.lean#L264",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-detector-moment-supply",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Moments",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Moments.lean",
+        "sha256": "81385871f92e1a41eb40e162822a4c7f25b8ab5bb804da701f1f5575fa3ef548",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Moments",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Moments.lean#L21",
+        "sha256": "81385871f92e1a41eb40e162822a4c7f25b8ab5bb804da701f1f5575fa3ef548"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-detector-moment-supply",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Moments.lean#L21",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Moments",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Moments.lean#L37",
+        "sha256": "81385871f92e1a41eb40e162822a4c7f25b8ab5bb804da701f1f5575fa3ef548"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-detector-moment-supply",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Moments.lean#L37",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Count",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Count.lean",
+        "sha256": "5a51fe3bdcacf50696bfa3fdeb80bdbdc24f10ab4f785f41b8348fb91f89cb70",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRawFiber.affine_marked_count",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Count.lean#L33",
+        "sha256": "5a51fe3bdcacf50696bfa3fdeb80bdbdc24f10ab4f785f41b8348fb91f89cb70"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRawFiber.affine_marked_count",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Count.lean#L33",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Count.lean#L124",
+        "sha256": "5a51fe3bdcacf50696bfa3fdeb80bdbdc24f10ab4f785f41b8348fb91f89cb70"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Count.lean#L124",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Balanced",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Balanced.lean",
+        "sha256": "7a8f06a95e47624b072ad0f665a8399eab48f4e12a74f9df063e74ea9dd62281",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Balanced",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.DetectorAffineCount.balanced_both",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Balanced.lean#L35",
+        "sha256": "7a8f06a95e47624b072ad0f665a8399eab48f4e12a74f9df063e74ea9dd62281"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.DetectorAffineCount.balanced_both",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Balanced.lean#L35",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Masked",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Masked.lean",
+        "sha256": "9d9305ad0f30f9bd390c9a4b48ccf50127d46ba8cb6064fa799243a2ed01fe71",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Masked",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.countingR_antitone",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Masked.lean#L88",
+        "sha256": "9d9305ad0f30f9bd390c9a4b48ccf50127d46ba8cb6064fa799243a2ed01fe71"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.countingR_antitone",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Masked.lean#L88",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Masked",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Masked.lean#L109",
+        "sha256": "9d9305ad0f30f9bd390c9a4b48ccf50127d46ba8cb6064fa799243a2ed01fe71"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Masked.lean#L109",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.SourceCount",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/SourceCount.lean",
+        "sha256": "374c5c8278231670ec13349fcbe3bd7dc649637cfc510fd4a2d521be4060dc15",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.SourceCount",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/SourceCount.lean#L17",
+        "sha256": "374c5c8278231670ec13349fcbe3bd7dc649637cfc510fd4a2d521be4060dc15"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-region-count",
+      "target": "LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/SourceCount.lean#L17",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-closed-count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Arith",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Arith.lean",
+        "sha256": "53cc3abfb5824405b3dbc14e9da4c685b7920768f891f63f0e6b64e4f2ab8555",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Arith",
+      "target": "LEAN-PR56-67edfb7a-DetectorAffine.affine_count_bound",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Arith.lean#L105",
+        "sha256": "53cc3abfb5824405b3dbc14e9da4c685b7920768f891f63f0e6b64e4f2ab8555"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-closed-count",
+      "target": "LEAN-PR56-67edfb7a-DetectorAffine.affine_count_bound",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Arith.lean#L105",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-closed-count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Region",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Region.lean",
+        "sha256": "bb67148d3d352a063d978f9fa2f8d9de185934eb97d70d3ca52a3c5032303dc3",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Region",
+      "target": "LEAN-PR56-67edfb7a-DetectorAffine.region_compare",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Region.lean#L208",
+        "sha256": "bb67148d3d352a063d978f9fa2f8d9de185934eb97d70d3ca52a3c5032303dc3"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-closed-count",
+      "target": "LEAN-PR56-67edfb7a-DetectorAffine.region_compare",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Region.lean#L208",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Region",
+      "target": "LEAN-PR56-67edfb7a-DetectorAffine.region_tail",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Region.lean#L173",
+        "sha256": "bb67148d3d352a063d978f9fa2f8d9de185934eb97d70d3ca52a3c5032303dc3"
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-closed-count",
+      "target": "LEAN-PR56-67edfb7a-DetectorAffine.region_tail",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Region.lean#L173",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR56-67edfb7a-closed-count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Certificates",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Certificates.lean",
+        "sha256": "e8897089cd6beac7007a04ccdc8ddf5edfb64bf9f34620356938164d275e1d18",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-detector-moment-supply",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Supply",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Supply.lean",
+        "sha256": "7918da70a28ab2c5a30b9827cd0671457e1b476e49e605aa2ac8896a114eefbc",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Supply",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle63InitialMass.detector_label_initial_affine",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Supply.lean#L168",
+        "sha256": "7918da70a28ab2c5a30b9827cd0671457e1b476e49e605aa2ac8896a114eefbc"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-detector-moment-supply",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle63InitialMass.detector_label_initial_affine",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Supply.lean#L168",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Supply",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.actual_detector_affine_input",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Supply.lean#L276",
+        "sha256": "7918da70a28ab2c5a30b9827cd0671457e1b476e49e605aa2ac8896a114eefbc"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-detector-moment-supply",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.actual_detector_affine_input",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Supply.lean#L276",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-detector-moment-supply",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Moments",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Moments.lean",
+        "sha256": "1901ddbbd45b398087b3cb9ead5b381beffdd6224b0c79b5a88cb9a314585d94",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Moments",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Moments.lean#L24",
+        "sha256": "1901ddbbd45b398087b3cb9ead5b381beffdd6224b0c79b5a88cb9a314585d94"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-detector-moment-supply",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Moments.lean#L24",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Moments",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Moments.lean#L40",
+        "sha256": "1901ddbbd45b398087b3cb9ead5b381beffdd6224b0c79b5a88cb9a314585d94"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-detector-moment-supply",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Moments.lean#L40",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Count",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Count.lean",
+        "sha256": "05140aa37a8dc7ccc81d602c478fb987940aa9b4a0c2b61ff9811617ffa72f0e",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRawFiber.affine_marked_count",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Count.lean#L36",
+        "sha256": "05140aa37a8dc7ccc81d602c478fb987940aa9b4a0c2b61ff9811617ffa72f0e"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRawFiber.affine_marked_count",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Count.lean#L36",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Count.lean#L127",
+        "sha256": "05140aa37a8dc7ccc81d602c478fb987940aa9b4a0c2b61ff9811617ffa72f0e"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Count.lean#L127",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Balanced",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Balanced.lean",
+        "sha256": "6175c8a34aab7ae15a0b6ee3dc2f9c2a65a36000406d75e9d0bf0c48b9aba417",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Balanced",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.DetectorAffineCount.balanced_both",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Balanced.lean#L37",
+        "sha256": "6175c8a34aab7ae15a0b6ee3dc2f9c2a65a36000406d75e9d0bf0c48b9aba417"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.DetectorAffineCount.balanced_both",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Balanced.lean#L37",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Masked",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Masked.lean",
+        "sha256": "93a4fe0e59d1520ad5f54889078d5c2341ce3ab2ed8f83984019ab7ae99ce6b7",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Masked",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRowCount.countingR_antitone",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Masked.lean#L116",
+        "sha256": "93a4fe0e59d1520ad5f54889078d5c2341ce3ab2ed8f83984019ab7ae99ce6b7"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRowCount.countingR_antitone",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Masked.lean#L116",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Masked",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Masked.lean#L137",
+        "sha256": "93a4fe0e59d1520ad5f54889078d5c2341ce3ab2ed8f83984019ab7ae99ce6b7"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Masked.lean#L137",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.SourceCount",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/SourceCount.lean",
+        "sha256": "a94de8e21bb3ade0afa10e0706ac003f6af61ccd6d54bf69af5106eaadb75dcd",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.SourceCount",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/SourceCount.lean#L20",
+        "sha256": "a94de8e21bb3ade0afa10e0706ac003f6af61ccd6d54bf69af5106eaadb75dcd"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-region-count",
+      "target": "LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/SourceCount.lean#L20",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-closed-count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Arith",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Arith.lean",
+        "sha256": "be4df6f2e04cd7e331f187f12e592302fe946c0b22c6aabe795e0b6d47e5f10a",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Arith",
+      "target": "LEAN-PR60-74643447-DetectorAffine.affine_count_bound",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Arith.lean#L105",
+        "sha256": "be4df6f2e04cd7e331f187f12e592302fe946c0b22c6aabe795e0b6d47e5f10a"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-closed-count",
+      "target": "LEAN-PR60-74643447-DetectorAffine.affine_count_bound",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Arith.lean#L105",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-closed-count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Region",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Region.lean",
+        "sha256": "949428f6db024584082f48f058de7a8982850ef8da9f5ff6d9d1b4036b094cb5",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Region",
+      "target": "LEAN-PR60-74643447-DetectorAffine.region_compare",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Region.lean#L206",
+        "sha256": "949428f6db024584082f48f058de7a8982850ef8da9f5ff6d9d1b4036b094cb5"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-closed-count",
+      "target": "LEAN-PR60-74643447-DetectorAffine.region_compare",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Region.lean#L206",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Region",
+      "target": "LEAN-PR60-74643447-DetectorAffine.region_tail",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Region.lean#L171",
+        "sha256": "949428f6db024584082f48f058de7a8982850ef8da9f5ff6d9d1b4036b094cb5"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-closed-count",
+      "target": "LEAN-PR60-74643447-DetectorAffine.region_tail",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Region.lean#L171",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-closed-count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Certificates",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Certificates.lean",
+        "sha256": "8372b1dc8cc5f240500d23eceb704433e99c9e8b961e2d638b80590cbefd9054",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-character-local-assembly",
+      "target": "LEAN-PR60-74643447-Candidate.Cycle63.Assembly.MeshChoice",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/MeshChoice.lean",
+        "sha256": "0ee1d543c0966ee9697e8f52e8b61cc0e445e10e290c948668b826aab335d70f",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Cycle63.Assembly.MeshChoice",
+      "target": "LEAN-PR60-74643447-Cycle63.FinalAssembly.common_probe_of_chosen_finite_numerator",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/MeshChoice.lean#L48",
+        "sha256": "0ee1d543c0966ee9697e8f52e8b61cc0e445e10e290c948668b826aab335d70f"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-character-local-assembly",
+      "target": "LEAN-PR60-74643447-Cycle63.FinalAssembly.common_probe_of_chosen_finite_numerator",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/MeshChoice.lean#L48",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-character-local-assembly",
+      "target": "LEAN-PR60-74643447-Candidate.Cycle63.Assembly.Final.SourceProbe",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/Final/SourceProbe.lean",
+        "sha256": "58e3d5e58bdd49ce7ddefd139dfb81cf283e42163adbf992b8d1252a429f7359",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Cycle63.Assembly.Final.SourceProbe",
+      "target": "LEAN-PR60-74643447-Cycle63.FinalAssembly.fixed_source_contract",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/Final/SourceProbe.lean#L39",
+        "sha256": "58e3d5e58bdd49ce7ddefd139dfb81cf283e42163adbf992b8d1252a429f7359"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-character-local-assembly",
+      "target": "LEAN-PR60-74643447-Cycle63.FinalAssembly.fixed_source_contract",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/Final/SourceProbe.lean#L39",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-character-local-assembly",
+      "target": "LEAN-PR60-74643447-Candidate.Cycle63.Numerator.Finite.Bridge",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Numerator/Finite/Bridge.lean",
+        "sha256": "4f2e8f3266933d1fc2a72b70b02717fb7c45ec8006f5fddf1d7a77c45249eb60",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Cycle63.Numerator.Finite.Bridge",
+      "target": "LEAN-PR60-74643447-Cycle63.FiniteNumerator.fixed_numerator_of_cells",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Numerator/Finite/Bridge.lean#L26",
+        "sha256": "4f2e8f3266933d1fc2a72b70b02717fb7c45ec8006f5fddf1d7a77c45249eb60"
+      }
+    },
+    {
+      "source": "MATH-PR60-74643447-character-local-assembly",
+      "target": "LEAN-PR60-74643447-Cycle63.FiniteNumerator.fixed_numerator_of_cells",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Numerator/Finite/Bridge.lean#L26",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-bernstein-positivity",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Bern",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean",
+        "sha256": "8f5ccb544347684077fe1ebb6bb8a6234f10253e654f8b1b79917fe8b25b27bc",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Bern",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bterm_nonneg",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L13",
+        "sha256": "8f5ccb544347684077fe1ebb6bb8a6234f10253e654f8b1b79917fe8b25b27bc"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-bernstein-positivity",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bterm_nonneg",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L13",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Bern",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bsum_pos",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L27",
+        "sha256": "8f5ccb544347684077fe1ebb6bb8a6234f10253e654f8b1b79917fe8b25b27bc"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-bernstein-positivity",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bsum_pos",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L27",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Bern",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bsum_nonneg",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L40",
+        "sha256": "8f5ccb544347684077fe1ebb6bb8a6234f10253e654f8b1b79917fe8b25b27bc"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-bernstein-positivity",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bsum_nonneg",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L40",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Bern",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.usum_pos",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L57",
+        "sha256": "8f5ccb544347684077fe1ebb6bb8a6234f10253e654f8b1b79917fe8b25b27bc"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-bernstein-positivity",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.usum_pos",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Bern.lean#L57",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.ClosedForm",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean",
+        "sha256": "ab9b57042847ff225814d929b3155aabe78438a63eabd8aae51699046e31e0dd",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.ClosedForm",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.crossing_identities",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L70",
+        "sha256": "ab9b57042847ff225814d929b3155aabe78438a63eabd8aae51699046e31e0dd"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.crossing_identities",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L70",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.ClosedForm",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainNew_anti",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L98",
+        "sha256": "ab9b57042847ff225814d929b3155aabe78438a63eabd8aae51699046e31e0dd"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainNew_anti",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L98",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.ClosedForm",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainOld_anti",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L126",
+        "sha256": "ab9b57042847ff225814d929b3155aabe78438a63eabd8aae51699046e31e0dd"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainOld_anti",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L126",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.ClosedForm",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainNew_at_crossing",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L141",
+        "sha256": "ab9b57042847ff225814d929b3155aabe78438a63eabd8aae51699046e31e0dd"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainNew_at_crossing",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/ClosedForm.lean#L141",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionCert",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionCert.lean",
+        "sha256": "b539fd283dfeca272cfa8f57772e58045230e88310fa64533f62f5c89c56cafb",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionFacts",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean",
+        "sha256": "d96e72a74ea2696022b9cad81db5ddec1208c06c930b5e1d140eae605add3431",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionFacts",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.facts_of_region",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean#L77",
+        "sha256": "d96e72a74ea2696022b9cad81db5ddec1208c06c930b5e1d140eae605add3431"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.facts_of_region",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean#L77",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionFacts",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bilinear_corners",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean#L81",
+        "sha256": "d96e72a74ea2696022b9cad81db5ddec1208c06c930b5e1d140eae605add3431"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.bilinear_corners",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean#L81",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionFacts",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.RStar_anti",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean#L124",
+        "sha256": "d96e72a74ea2696022b9cad81db5ddec1208c06c930b5e1d140eae605add3431"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-crossing-region",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.RStar_anti",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean#L124",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-conditional-branch",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Branch",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Branch.lean",
+        "sha256": "06596f0c4c78eb399c2961f71d16716dae26075e02f3514539889e5c0ef007ac",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Branch",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.affine_count_bound_of_branches",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Branch.lean#L22",
+        "sha256": "06596f0c4c78eb399c2961f71d16716dae26075e02f3514539889e5c0ef007ac"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-conditional-branch",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.affine_count_bound_of_branches",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Branch.lean#L22",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean",
+        "sha256": "55643b06de08b1b10c2351629a4a96835fd90bcf57d48c8b9b4795f5bbd9e1e9",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.plain_window",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L26",
+        "sha256": "55643b06de08b1b10c2351629a4a96835fd90bcf57d48c8b9b4795f5bbd9e1e9"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.plain_window",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L26",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.slot_window",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L29",
+        "sha256": "55643b06de08b1b10c2351629a4a96835fd90bcf57d48c8b9b4795f5bbd9e1e9"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.slot_window",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L29",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.shift_gate",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L33",
+        "sha256": "55643b06de08b1b10c2351629a4a96835fd90bcf57d48c8b9b4795f5bbd9e1e9"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.shift_gate",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L33",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.h_above_gao_interval",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L53",
+        "sha256": "55643b06de08b1b10c2351629a4a96835fd90bcf57d48c8b9b4795f5bbd9e1e9"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.h_above_gao_interval",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L53",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.endpoint_certificate",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L97",
+        "sha256": "55643b06de08b1b10c2351629a4a96835fd90bcf57d48c8b9b4795f5bbd9e1e9"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Record.endpoint_certificate",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean#L97",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Assembly",
+      "kind": "related",
+      "evidence": {
+        "basis": "pinned-source-statement-correspondence",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Assembly.lean",
+        "sha256": "91483c05e739a2751fcff4766ea48a1c8ae52c16eb3e9a7f62b5d5dd4c964a3e",
+        "qualification": "Scoped source correspondence; not a final publication-use or enclosing-result verification claim."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Assembly",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Assembly.record_beta_le",
+      "kind": "contains",
+      "evidence": {
+        "basis": "literal-declaration-location",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Assembly.lean#L44",
+        "sha256": "91483c05e739a2751fcff4766ea48a1c8ae52c16eb3e9a7f62b5d5dd4c964a3e"
+      }
+    },
+    {
+      "source": "MATH-PR52-cbb3e1fa-unfinished-record",
+      "target": "LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Assembly.record_beta_le",
+      "kind": "related",
+      "evidence": {
+        "basis": "reviewed-literal-signature",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Assembly.lean#L44",
+        "qualification": "Interpretation is limited to the scoped statement and hypotheses; no final-use relation."
+      }
+    },
+    {
+      "source": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve",
+      "target": "LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.CoupledRadicalSaving",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/timbalud/QuasiRiemannTracker/blob/8cb265dc34909040c6f8cb48f53b19670a217ceb/submissions/radical-asymmetric-count-20261014/src/Candidate/Cycle63/Physical/MarkedAllocationReserve.lean",
+        "sha256": "b5d8a187a68ac177938bfce486b2f6210c8d5a105f500e4dac0d74302b020ed9",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Supply",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Moments",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Supply.lean",
+        "sha256": "be590c9161d746a5126e5538c16cffe03db20ac361270b752b3b5d3d00e63bdd",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Moments",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.SourceCount",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Moments.lean",
+        "sha256": "81385871f92e1a41eb40e162822a4c7f25b8ab5bb804da701f1f5575fa3ef548",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Count",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Arith",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Count.lean",
+        "sha256": "5a51fe3bdcacf50696bfa3fdeb80bdbdc24f10ab4f785f41b8348fb91f89cb70",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Balanced",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Count",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Balanced.lean",
+        "sha256": "7a8f06a95e47624b072ad0f665a8399eab48f4e12a74f9df063e74ea9dd62281",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Masked",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Balanced",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Masked.lean",
+        "sha256": "9d9305ad0f30f9bd390c9a4b48ccf50127d46ba8cb6064fa799243a2ed01fe71",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Region",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Certificates",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Region.lean",
+        "sha256": "bb67148d3d352a063d978f9fa2f8d9de185934eb97d70d3ca52a3c5032303dc3",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR56-67edfb7a-Candidate.Affine.Certificates",
+      "target": "LEAN-PR56-67edfb7a-Candidate.Affine.Arith",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/DaysSky/QuasiRiemannTracker/blob/67edfb7a1161008b37ff32aadec35cecaa711731/submissions/detector-affine-c0125154/src/Candidate/Affine/Certificates.lean",
+        "sha256": "e8897089cd6beac7007a04ccdc8ddf5edfb64bf9f34620356938164d275e1d18",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Supply",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Moments",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Supply.lean",
+        "sha256": "7918da70a28ab2c5a30b9827cd0671457e1b476e49e605aa2ac8896a114eefbc",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Moments",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.SourceCount",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Moments.lean",
+        "sha256": "1901ddbbd45b398087b3cb9ead5b381beffdd6224b0c79b5a88cb9a314585d94",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Count",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Arith",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Count.lean",
+        "sha256": "05140aa37a8dc7ccc81d602c478fb987940aa9b4a0c2b61ff9811617ffa72f0e",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Balanced",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Count",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Balanced.lean",
+        "sha256": "6175c8a34aab7ae15a0b6ee3dc2f9c2a65a36000406d75e9d0bf0c48b9aba417",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Masked",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Balanced",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Masked.lean",
+        "sha256": "93a4fe0e59d1520ad5f54889078d5c2341ce3ab2ed8f83984019ab7ae99ce6b7",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Region",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Certificates",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Region.lean",
+        "sha256": "949428f6db024584082f48f058de7a8982850ef8da9f5ff6d9d1b4036b094cb5",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR60-74643447-Candidate.Affine.Certificates",
+      "target": "LEAN-PR60-74643447-Candidate.Affine.Arith",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Affine/Certificates.lean",
+        "sha256": "8372b1dc8cc5f240500d23eceb704433e99c9e8b961e2d638b80590cbefd9054",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionCert",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.ClosedForm",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionCert.lean",
+        "sha256": "b539fd283dfeca272cfa8f57772e58045230e88310fa64533f62f5c89c56cafb",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionCert",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Bern",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionCert.lean",
+        "sha256": "b539fd283dfeca272cfa8f57772e58045230e88310fa64533f62f5c89c56cafb",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionFacts",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionCert",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/RegionFacts.lean",
+        "sha256": "d96e72a74ea2696022b9cad81db5ddec1208c06c930b5e1d140eae605add3431",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Branch",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.RegionFacts",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Branch.lean",
+        "sha256": "06596f0c4c78eb399c2961f71d16716dae26075e02f3514539889e5c0ef007ac",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.ClosedForm",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Record.lean",
+        "sha256": "55643b06de08b1b10c2351629a4a96835fd90bcf57d48c8b9b4795f5bbd9e1e9",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Assembly",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Branch",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Assembly.lean",
+        "sha256": "91483c05e739a2751fcff4766ea48a1c8ae52c16eb3e9a7f62b5d5dd4c964a3e",
+        "qualification": "Module import, not theorem-level dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Assembly",
+      "target": "LEAN-PR52-cbb3e1fa-Candidate.CountAffine.Record",
+      "kind": "imports",
+      "evidence": {
+        "basis": "lexical-source-import",
+        "url": "https://github.com/blueberryvertigo/QuasiRiemannTracker/blob/cbb3e1faac3f4dd711b06628a6b0052d388f12a5/submissions/count-affine-plain-20261014/src/Candidate/CountAffine/Assembly.lean",
+        "sha256": "91483c05e739a2751fcff4766ea48a1c8ae52c16eb3e9a7f62b5d5dd4c964a3e",
+        "qualification": "Module import, not theorem-level dependency."
+      }
     }
   ],
   "schema_version": 1
