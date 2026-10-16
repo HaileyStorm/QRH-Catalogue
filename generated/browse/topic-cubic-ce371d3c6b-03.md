@@ -6,12 +6,12 @@ Page 3/3; 544 matching records.
 
 [Previous](topic-cubic-ce371d3c6b-02.md)
 
-- [local:G219 — G219. Actual principal channels and the cheapest generic price](../records/0172.md#local-g219-b390f41fe3)
+- [local:G219 — G219. Actual principal channels and the cheapest generic price](../records/0173.md#local-g219-b390f41fe3)
 - [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0173.md#local-g252-64bd5a4ae5)
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
-- [local:G71 — \[research revision\] attempt delta (G71)](../records/0173.md#local-g71-4c962f7ad6)
-- [local:G73 — \[research revision\] attempt delta (G73)](../records/0173.md#local-g73-076e11ffdb)
-- [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0173.md#local-g75-1359afa204)
+- [local:G71 — \[research revision\] attempt delta (G71)](../records/0174.md#local-g71-4c962f7ad6)
+- [local:G73 — \[research revision\] attempt delta (G73)](../records/0174.md#local-g73-076e11ffdb)
+- [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0174.md#local-g75-1359afa204)
 - [local:T03 — T03. Cube-free physical-row lifting — PROVED, sharp operator threshold](../records/0174.md#local-t03-8adc165824)
 - [local:T05 — T05. Physical cube-row Type I restriction — PROVED RELATIVE TO ORIGINAL PROFILE](../records/0174.md#local-t05-39ebf3975e)
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0174.md#local-t07-90600e73b5)

@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/6; 1436 matching records.
+Page 6/6; 1437 matching records.
 
 [Previous](method-duality-c5419f8b09-05.md)
 
+- [local-section:f5fabe11f9050cc940f10487 — \[research revision\]: moving finite detectors with a paid fixed-detector return](../records/0169.md#local-section-f5fabe11f9050cc940f10487-9e3a65d795)
 - [local-section:f5fe7f9b7b63ad029481541c — \[research revision\] headroom pass: signed integer renewal and its friable mean](../records/0169.md#local-section-f5fe7f9b7b63ad029481541c-8c40d8d1fa)
 - [local-section:f661cefc77ab3953cafb60e9 — 64. A paid prime band and the entire outside-band residual](../records/0169.md#local-section-f661cefc77ab3953cafb60e9-869004a473)
 - [local-section:f6ba852810d861a8f226f725 — 5. Every card retained](../records/0169.md#local-section-f6ba852810d861a8f226f725-575f481d37)
@@ -32,9 +33,9 @@ Page 6/6; 1436 matching records.
 - [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0169.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
 - [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0169.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
-- [local-section:fca591a5e5f90a26ab6a156c — 2. A primewise certificate that handles every mixture](../records/0169.md#local-section-fca591a5e5f90a26ab6a156c-db49edbf6b)
-- [local-section:fcbfa837cee2fa7f04834c31 — 3. Literal valuations, both signs and the unbounded certificate](../records/0169.md#local-section-fcbfa837cee2fa7f04834c31-246395c66a)
-- [local-section:fcc7fb8c4d40ce365a454f8c — 10. Evidence and operational limits](../records/0169.md#local-section-fcc7fb8c4d40ce365a454f8c-51982c90e2)
+- [local-section:fca591a5e5f90a26ab6a156c — 2. A primewise certificate that handles every mixture](../records/0170.md#local-section-fca591a5e5f90a26ab6a156c-db49edbf6b)
+- [local-section:fcbfa837cee2fa7f04834c31 — 3. Literal valuations, both signs and the unbounded certificate](../records/0170.md#local-section-fcbfa837cee2fa7f04834c31-246395c66a)
+- [local-section:fcc7fb8c4d40ce365a454f8c — 10. Evidence and operational limits](../records/0170.md#local-section-fcc7fb8c4d40ce365a454f8c-51982c90e2)
 - [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0170.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
 - [local-section:fcf26516ad547088eb751edd — Positive cofactor-hole absolute Gram: independent corollary check](../records/0170.md#local-section-fcf26516ad547088eb751edd-a5a177cdb6)
 - [local-section:fd059aa48ff7fac77fb90fae — Conditional high-gain sharpening and a tilted affine plane](../records/0170.md#local-section-fd059aa48ff7fac77fb90fae-9a42a10c8b)
@@ -82,10 +83,10 @@ Page 6/6; 1436 matching records.
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0171.md#local-g113-6c10bbc310)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0171.md#local-g116-82b0aa6b3e)
 - [local:G118 — 3. G118: finite-prefix and all-layer audits](../records/0171.md#local-g118-50557224bc)
-- [local:G120 — G120. Complete phase blocks and thermal readout prices](../records/0171.md#local-g120-fbe02bb45f)
-- [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0171.md#local-g122-fe374f44f7)
-- [local:G123 — G123. Complete relative mass and full-hole Poisson](../records/0171.md#local-g123-25009c8d8f)
-- [local:G124 — G124. Current margins and precise remaining signed input](../records/0171.md#local-g124-05c454b9ec)
+- [local:G120 — G120. Complete phase blocks and thermal readout prices](../records/0172.md#local-g120-fbe02bb45f)
+- [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0172.md#local-g122-fe374f44f7)
+- [local:G123 — G123. Complete relative mass and full-hole Poisson](../records/0172.md#local-g123-25009c8d8f)
+- [local:G124 — G124. Current margins and precise remaining signed input](../records/0172.md#local-g124-05c454b9ec)
 - [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0172.md#local-g125-91d6b6ad62)
 - [local:G126 — G126. Exact whole-shell bank with two branches paid](../records/0172.md#local-g126-b3c601af4a)
 - [local:G128 — G128. Source, prediction and an exact zero census](../records/0172.md#local-g128-b9b933b7d4)
@@ -128,7 +129,7 @@ Page 6/6; 1436 matching records.
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0172.md#local-g217-1ea6acd977)
-- [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0172.md#local-g222-849aadba5c)
+- [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0173.md#local-g222-849aadba5c)
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0173.md#local-g226-c84df8fcc4)
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0173.md#local-g227-4fd8db96d9)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0173.md#local-g228-b8e6c60a37)
@@ -154,7 +155,7 @@ Page 6/6; 1436 matching records.
 - [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0173.md#local-g310-39134eeca1)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0173.md#local-g5-edf12c141c)
-- [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0173.md#local-g75-1359afa204)
+- [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0174.md#local-g75-1359afa204)
 - [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0174.md#local-g76-089f3bed55)
 - [local:G79 — G79. Exact drift and normalized Ward defects](../records/0174.md#local-g79-99600dfe1a)
 - [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0174.md#local-g86-10d609e713)

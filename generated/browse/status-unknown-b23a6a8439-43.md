@@ -2,10 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 43/43; 10568 matching records.
+Page 43/43; 10573 matching records.
 
 [Previous](status-unknown-b23a6a8439-42.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblynormalized-757070aecf)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount — OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-7148d87ff2)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
+- [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence — OAI.NumberTheory.DirichletL.Energy.CertifiedExistence](../records/0215.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-f682546246)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
 - [pr26:Physical.ActualPacketUniform — Physical.ActualPacketUniform](../records/0215.md#pr26-physical-actualpacketuniform-8c0d9bf670)

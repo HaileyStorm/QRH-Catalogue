@@ -33,7 +33,7 @@ Page 4/4; 785 matching records.
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
-- [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0172.md#local-g222-849aadba5c)
+- [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0173.md#local-g222-849aadba5c)
 - [local:G271 — G271. Complete prime-correlation energy criterion and its exact strength](../records/0173.md#local-g271-5cb55113cc)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
 - [local:G86 — Centered exceptional rows: valuation reserve and its exact limit (G86)](../records/0174.md#local-g86-10d609e713)

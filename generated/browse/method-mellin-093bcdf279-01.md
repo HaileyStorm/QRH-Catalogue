@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1068 matching records.
+Page 1/5; 1071 matching records.
 
 [Next](method-mellin-093bcdf279-02.md)
 
@@ -164,6 +164,9 @@ Page 1/5; 1068 matching records.
 - [QRH-CONT-EXT014-GROK — Grok external rough-source equivalence audit](../records/0130.md#qrh-cont-ext014-grok-f934ab4bd3)
 - [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)
 - [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
+- [QRH-CONT-R018-FIXED-LATTICE-KERNEL — Complete fixed lattice-kernel representation retaining the ordinary outer sum](../records/0131.md#qrh-cont-r018-fixed-lattice-kernel-eb86d046f3)
+- [QRH-CONT-R019-SMALL-PRIME-NORM-PRICE — Exact small-prime pairing and the cost of separately norming its two kernels](../records/0131.md#qrh-cont-r019-small-prime-norm-price-27e946249f)
+- [QRH-CONT-R023-THETA-PROFILE-FILTER — Whole theta-profile filters cancel reflected gamma poles while preserving the reciprocal signal](../records/0131.md#qrh-cont-r023-theta-profile-filter-81078fc068)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
@@ -178,7 +181,7 @@ Page 1/5; 1068 matching records.
 - [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0137.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
 - [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0137.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0137.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
-- [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0137.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
+- [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
 - [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
 - [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0138.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
 - [local-section:0409bef3c7a87643553801ce — D48: accept signed block transport and fixed-source pole preservation](../records/0138.md#local-section-0409bef3c7a87643553801ce-fa41babf77)
@@ -204,7 +207,7 @@ Page 1/5; 1068 matching records.
 - [local-section:0af27ac9e2991ae91270a866 — 3. Frozen-dyad Möbius energy](../records/0138.md#local-section-0af27ac9e2991ae91270a866-03f81729bf)
 - [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0138.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
 - [local-section:0bcfe307abf6ab6c35746e1e — G183. Literal smaller signed core and complete return](../records/0138.md#local-section-0bcfe307abf6ab6c35746e1e-fa0440c686)
-- [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0138.md#local-section-0bf183397a361100a52101d9-744796ccee)
+- [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
 - [local-section:0ca7d90e4ba6ff488c4d46cf — Theorem B: exact complete offset-averaged short-window return](../records/0139.md#local-section-0ca7d90e4ba6ff488c4d46cf-243e55b38d)
 - [local-section:0cc6ca6723986cc3fdb3690a — A checked hybrid of smoothing, filter banks and numerator phases](../records/0139.md#local-section-0cc6ca6723986cc3fdb3690a-3510407d9a)
 - [local-section:0d63031e38d91b9fa5050f0b — \[research revision\]: coupling the original slot width to a finite amplifier atlas](../records/0139.md#local-section-0d63031e38d91b9fa5050f0b-bd75e5ce3d)
@@ -226,8 +229,8 @@ Page 1/5; 1068 matching records.
 - [local-section:120afe3f057270e2275d23a0 — \[research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0139.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
 - [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0139.md#local-section-131afc849327a89df717f91e-446c8d89e1)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0139.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
-- [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0139.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
-- [local-section:13ef8507f522dfa9043aafaf — 3.3 Complete physical-shell restoration](../records/0139.md#local-section-13ef8507f522dfa9043aafaf-c711a9aaea)
+- [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
+- [local-section:13ef8507f522dfa9043aafaf — 3.3 Complete physical-shell restoration](../records/0140.md#local-section-13ef8507f522dfa9043aafaf-c711a9aaea)
 - [local-section:145de2caaa57e97fe637df4f — HC7. Weak sufficient estimate, all-height return and prospective ceilings](../records/0140.md#local-section-145de2caaa57e97fe637df4f-fe05f63d23)
 - [local-section:148809b5e80ff66019a73887 — 2. Exact Euler multiplier, inverse, and all-height return](../records/0140.md#local-section-148809b5e80ff66019a73887-8a2d806f39)
 - [local-section:149c84564a03cd06d3ee04f2 — \[research revision\]: merged integration and new arithmetic reductions](../records/0140.md#local-section-149c84564a03cd06d3ee04f2-64a140e3f0)
@@ -244,8 +247,8 @@ Page 1/5; 1068 matching records.
 - [local-section:1b20144f9569a63a8471358a — \[research revision\] direct joint-window lane: current worklog](../records/0140.md#local-section-1b20144f9569a63a8471358a-a2df10011d)
 - [local-section:1b2c37044f6c187533d54aeb — Fixed-ray squarefree selector estimate](../records/0140.md#local-section-1b2c37044f6c187533d54aeb-6fc8bee1b3)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0140.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
-- [local-section:1bd331aed29fd53493b503f4 — 10. Geometric and operator fronts, retained with quantitative gates](../records/0140.md#local-section-1bd331aed29fd53493b503f4-00335f5ee6)
-- [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0140.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
+- [local-section:1bd331aed29fd53493b503f4 — 10. Geometric and operator fronts, retained with quantitative gates](../records/0141.md#local-section-1bd331aed29fd53493b503f4-00335f5ee6)
+- [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0141.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
 - [local-section:1c1323abafd914be4b98db3a — New quantitative theorem](../records/0141.md#local-section-1c1323abafd914be4b98db3a-caed4bf531)
 - [local-section:1c51c1f3a7dc59f9dc5634bf — Review ownership, independence and evidence](../records/0141.md#local-section-1c51c1f3a7dc59f9dc5634bf-6ad0911efe)
 - [local-section:1ce67a043d56936d75afd549 — G138. Full integral persistence and fixed versus moving readouts](../records/0141.md#local-section-1ce67a043d56936d75afd549-1f844de6c1)
@@ -253,6 +256,3 @@ Page 1/5; 1068 matching records.
 - [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0141.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
 - [local-section:1e1a87e63bdfc925783b9371 — 1. Frozen exploration, source contact and six tests](../records/0141.md#local-section-1e1a87e63bdfc925783b9371-58d6f13dd9)
 - [local-section:1e1dbff162c029be9f0632cb — 4. Full row conductor and a general summation lemma](../records/0141.md#local-section-1e1dbff162c029be9f0632cb-ba229c7981)
-- [local-section:1e3fe69fe380ddbd89af8fa2 — \[research revision\]: the quartic boundary object is partly defined](../records/0141.md#local-section-1e3fe69fe380ddbd89af8fa2-638ff29542)
-- [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0141.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)
-- [local-section:1f0410205e242a45f0391c9d — 7. Additional bounded consequences](../records/0141.md#local-section-1f0410205e242a45f0391c9d-f624bb8f7a)

@@ -32,7 +32,7 @@ Page 4/4; 797 matching records.
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0173.md#local-g69-9bdd438ff0)
-- [local:G72 — G72. A complete quantitative short-window return](../records/0173.md#local-g72-501fc8c07b)
+- [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0174.md#local-g77-f75acc7bc5)
 - [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0174.md#local-g96-8db9d2be74)
 - [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0174.md#local-g97-7b0759357c)

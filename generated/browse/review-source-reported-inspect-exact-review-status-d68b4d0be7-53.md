@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/71; 17515 matching records.
+Page 53/71; 17520 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
@@ -32,6 +32,11 @@ Page 53/71; 17515 matching records.
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
 - [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
 - [QRH-CONT-M017-MOBIUS-TAIL — Complete long-Mobius-factor reduction with a negligible smooth-lattice remainder](../records/0131.md#qrh-cont-m017-mobius-tail-d4fbc01e2c)
+- [QRH-CONT-R018-FIXED-LATTICE-KERNEL — Complete fixed lattice-kernel representation retaining the ordinary outer sum](../records/0131.md#qrh-cont-r018-fixed-lattice-kernel-eb86d046f3)
+- [QRH-CONT-R019-SMALL-PRIME-NORM-PRICE — Exact small-prime pairing and the cost of separately norming its two kernels](../records/0131.md#qrh-cont-r019-small-prime-norm-price-27e946249f)
+- [QRH-CONT-R021-PRINCIPAL-CONTOUR-ADAPTER — PR8 principal signal and ordered remainder contours on every fixed strip right of two thirds](../records/0131.md#qrh-cont-r021-principal-contour-adapter-de964d1191)
+- [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
+- [QRH-CONT-R023-THETA-PROFILE-FILTER — Whole theta-profile filters cancel reflected gamma poles while preserving the reciprocal signal](../records/0131.md#qrh-cont-r023-theta-profile-filter-81078fc068)
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0170.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0170.md#local-a02-e20ad4bdfd)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0170.md#local-a03-9e9a3d45e7)
@@ -184,11 +189,11 @@ Page 53/71; 17515 matching records.
 - [pr26:Analytic.ActualExtractedLocalErrorsFull::actual_firstExtractedErrors_local_bound_full@78 — actual_firstExtractedErrors_local_bound_full](../records/0174.md#pr26-analytic-actualextractedlocalerrorsfull-actual-firstextracte-5222f312d2)
 - [pr26:Analytic.ActualFirstErrorIdentity — Analytic.ActualFirstErrorIdentity](../records/0174.md#pr26-analytic-actualfirsterroridentity-9a72eb2003)
 - [pr26:Analytic.ActualFirstErrorIdentity::allocatedExtractedErrors_nonneg@156 — allocatedExtractedErrors_nonneg](../records/0174.md#pr26-analytic-actualfirsterroridentity-allocatedextractederrors-n-2c535f4ae8)
-- [pr26:Analytic.ActualFirstErrorIdentity::firstExtractedErrors_nonneg@141 — firstExtractedErrors_nonneg](../records/0174.md#pr26-analytic-actualfirsterroridentity-firstextractederrors-nonne-99a9b38fc5)
-- [pr26:Analytic.ActualFirstErrorIdentity::first_extracted_error_pair_eq_source_scalar@189 — first_extracted_error_pair_eq_source_scalar](../records/0174.md#pr26-analytic-actualfirsterroridentity-first-extracted-error-pair-8cbb31a885)
-- [pr26:Analytic.ActualFirstErrorIdentity::value@174 — value](../records/0174.md#pr26-analytic-actualfirsterroridentity-value-174-80e335641b)
-- [pr26:Analytic.ActualFirstErrorIdentity::value_nonneg@182 — value_nonneg](../records/0174.md#pr26-analytic-actualfirsterroridentity-value-nonneg-182-d226bbacf2)
-- [pr26:Analytic.ActualFirstErrorSource — Analytic.ActualFirstErrorSource](../records/0174.md#pr26-analytic-actualfirsterrorsource-f7af7f8a0c)
+- [pr26:Analytic.ActualFirstErrorIdentity::firstExtractedErrors_nonneg@141 — firstExtractedErrors_nonneg](../records/0175.md#pr26-analytic-actualfirsterroridentity-firstextractederrors-nonne-99a9b38fc5)
+- [pr26:Analytic.ActualFirstErrorIdentity::first_extracted_error_pair_eq_source_scalar@189 — first_extracted_error_pair_eq_source_scalar](../records/0175.md#pr26-analytic-actualfirsterroridentity-first-extracted-error-pair-8cbb31a885)
+- [pr26:Analytic.ActualFirstErrorIdentity::value@174 — value](../records/0175.md#pr26-analytic-actualfirsterroridentity-value-174-80e335641b)
+- [pr26:Analytic.ActualFirstErrorIdentity::value_nonneg@182 — value_nonneg](../records/0175.md#pr26-analytic-actualfirsterroridentity-value-nonneg-182-d226bbacf2)
+- [pr26:Analytic.ActualFirstErrorSource — Analytic.ActualFirstErrorSource](../records/0175.md#pr26-analytic-actualfirsterrorsource-f7af7f8a0c)
 - [pr26:Analytic.ActualFirstErrorSource::SourceAdmissible@619 — SourceAdmissible](../records/0175.md#pr26-analytic-actualfirsterrorsource-sourceadmissible-619-61bc439f75)
 - [pr26:Analytic.ActualFirstErrorSource::actual_first_extracted_error_source_sum@640 — actual_first_extracted_error_source_sum](../records/0175.md#pr26-analytic-actualfirsterrorsource-actual-first-extracted-error-bbabbaac9c)
 - [pr26:Analytic.ActualFirstExtractedErrors — Analytic.ActualFirstExtractedErrors](../records/0175.md#pr26-analytic-actualfirstextractederrors-da69dc8577)
@@ -253,8 +258,3 @@ Page 53/71; 17515 matching records.
 - [pr26:Analytic.BufferedPartition::buffered_count_of_bin_counts@566 — buffered_count_of_bin_counts](../records/0175.md#pr26-analytic-bufferedpartition-buffered-count-of-bin-counts-566-7ff955fdc2)
 - [pr26:Analytic.BufferedPartition::card_eq_sum_buffered_fibers@524 — card_eq_sum_buffered_fibers](../records/0175.md#pr26-analytic-bufferedpartition-card-eq-sum-buffered-fibers-524-4726593d7c)
 - [pr26:Analytic.BufferedPartition::exists_bounded_buffered_bins@498 — exists_bounded_buffered_bins](../records/0175.md#pr26-analytic-bufferedpartition-exists-bounded-buffered-bins-498-a88b413d10)
-- [pr26:Analytic.BufferedPartition::extend_nonprincipal_supported_family@632 — extend_nonprincipal_supported_family](../records/0175.md#pr26-analytic-bufferedpartition-extend-nonprincipal-supported-fam-f80fcc4b75)
-- [pr26:Analytic.BufferedPartition::unmarkedDensity_buffer_loss@532 — unmarkedDensity_buffer_loss](../records/0175.md#pr26-analytic-bufferedpartition-unmarkeddensity-buffer-loss-532-9cb3d12bfb)
-- [pr26:Analytic.BufferedPartition::zeroMaximum_le_seven_eighths@554 — zeroMaximum_le_seven_eighths](../records/0175.md#pr26-analytic-bufferedpartition-zeromaximum-le-seven-eighths-554-5bba3537b2)
-- [pr26:Analytic.BufferedPlain — Analytic.BufferedPlain](../records/0175.md#pr26-analytic-bufferedplain-e59be52d50)
-- [pr26:Analytic.BufferedPlain::natural_plain_buffered_bound@56 — natural_plain_buffered_bound](../records/0175.md#pr26-analytic-bufferedplain-natural-plain-buffered-bound-56-1f4c5f9009)

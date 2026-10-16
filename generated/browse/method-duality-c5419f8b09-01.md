@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1436 matching records.
+Page 1/6; 1437 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 
@@ -211,6 +211,7 @@ Page 1/6; 1436 matching records.
 - [QRH-CONT-M002-CENTERED-CONTENT — Paid CM principal mean and stronger centered square-content charge](../records/0130.md#qrh-cont-m002-centered-content-03aba8cc9a)
 - [QRH-CONT-M012-VAUGHAN — Critical centered Vaughan inverse-square saving with exact joint residual](../records/0131.md#qrh-cont-m012-vaughan-abb162e058)
 - [QRH-CONT-M015-FOUR-PRIME-WITNESS — Four-prime multiplicity witness for the three-block correction](../records/0131.md#qrh-cont-m015-four-prime-witness-53399d75a8)
+- [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0137.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
@@ -228,7 +229,7 @@ Page 1/6; 1436 matching records.
 - [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0137.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
 - [local-section:02b41380eaa7f3da4806f180 — 7. Evidence, limits and next mathematical action](../records/0137.md#local-section-02b41380eaa7f3da4806f180-b77494ddb6)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0137.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
-- [local-section:02f8669f1658d13dbcf1f468 — \[research revision\]-S5. Two literal native JN contracts](../records/0137.md#local-section-02f8669f1658d13dbcf1f468-f0f56dd251)
+- [local-section:02f8669f1658d13dbcf1f468 — \[research revision\]-S5. Two literal native JN contracts](../records/0138.md#local-section-02f8669f1658d13dbcf1f468-f0f56dd251)
 - [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
 - [local-section:035701346f99d3890ec7be86 — \[research revision\]: signed deletion, critical flux and common-readout Gram](../records/0138.md#local-section-035701346f99d3890ec7be86-e321acbb45)
 - [local-section:0400fb8cae6f2f20f06e267c — G156. Complete diagonal and two off-diagonal sectors](../records/0138.md#local-section-0400fb8cae6f2f20f06e267c-3484d3ff52)
@@ -255,4 +256,3 @@ Page 1/6; 1436 matching records.
 - [local-section:09559d68d0bd26ce573399f1 — 3. First powers: common profile, height buffer and one new slot](../records/0138.md#local-section-09559d68d0bd26ce573399f1-cf4d738421)
 - [local-section:09774c6e79465f03471d008e — 7. All sixty original cards retained](../records/0138.md#local-section-09774c6e79465f03471d008e-82c0acfc62)
 - [local-section:099442ad3ce711ca40ec925e — 4. Common-filter arithmetic payment: full proof audit](../records/0138.md#local-section-099442ad3ce711ca40ec925e-4e9180b458)
-- [local-section:09cdb40378feaa9728bbde5e — G228. The sharp depth of a low-omega-completed inverse column](../records/0138.md#local-section-09cdb40378feaa9728bbde5e-e853a5ed2c)

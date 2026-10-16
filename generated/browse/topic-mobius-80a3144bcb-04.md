@@ -2,10 +2,12 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 953 matching records.
+Page 4/4; 955 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:de64286651bd57fca937a2bf — Independent review: the compensated nonlinear source](../records/0166.md#local-section-de64286651bd57fca937a2bf-7fd9c18886)
+- [local-section:de9bcbfddb471e1a05cb9e50 — Independent W50 review: energy return, finite character traces and exact continuation states](../records/0166.md#local-section-de9bcbfddb471e1a05cb9e50-554e2617d5)
 - [local-section:dec7fcc42307270c77e57001 — D1c. Full ordinary-character return, with the complementary branch paid](../records/0166.md#local-section-dec7fcc42307270c77e57001-05f58e543d)
 - [local-section:def42bfb4242e6376e1e5f10 — 7. Independent improvement: a complete tail norm without log loss](../records/0166.md#local-section-def42bfb4242e6376e1e5f10-c79f5eb6ab)
 - [local-section:df162c7f5cc7b5de23263083 — 6. The balanced kernel retains the zero it would need to exclude](../records/0166.md#local-section-df162c7f5cc7b5de23263083-d89a89534a)
@@ -47,9 +49,9 @@ Page 4/4; 953 matching records.
 - [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0167.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
 - [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0167.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
 - [local-section:ec486c71f4fba2e1928b1eb6 — 4. W40-15: the exact positivity price for literal f3](../records/0167.md#local-section-ec486c71f4fba2e1928b1eb6-a8991c9a46)
-- [local-section:ec9a19283d3bfcfba83008a7 — B3. Strongest objection: actual cumulative inputs have bounded increments](../records/0167.md#local-section-ec9a19283d3bfcfba83008a7-d89c9a63cb)
-- [local-section:ecc4dbe79198d302005bb122 — 1. Literal primitive cell and its exact contraction](../records/0167.md#local-section-ecc4dbe79198d302005bb122-63d3eca38b)
-- [local-section:ecc76dd70338e5b9aef9de9c — \[research revision\]: exact prediction criterion with paid source formation](../records/0167.md#local-section-ecc76dd70338e5b9aef9de9c-c555d30b06)
+- [local-section:ec9a19283d3bfcfba83008a7 — B3. Strongest objection: actual cumulative inputs have bounded increments](../records/0168.md#local-section-ec9a19283d3bfcfba83008a7-d89c9a63cb)
+- [local-section:ecc4dbe79198d302005bb122 — 1. Literal primitive cell and its exact contraction](../records/0168.md#local-section-ecc4dbe79198d302005bb122-63d3eca38b)
+- [local-section:ecc76dd70338e5b9aef9de9c — \[research revision\]: exact prediction criterion with paid source formation](../records/0168.md#local-section-ecc76dd70338e5b9aef9de9c-c555d30b06)
 - [local-section:eceeb52f60d62b7ef7cdf062 — 6. Actual diagonal and absolute price](../records/0168.md#local-section-eceeb52f60d62b7ef7cdf062-b318310c90)
 - [local-section:ed14f34cc4a7e3765c095a93 — 6. Recovery price defeats that generic upper envelope](../records/0168.md#local-section-ed14f34cc4a7e3765c095a93-b7591848ca)
 - [local-section:ed6aa23ff803cfd89c7f09b0 — D1d. A second root scale is forced by any Mertens power saving](../records/0168.md#local-section-ed6aa23ff803cfd89c7f09b0-6f3a11e06b)
@@ -76,8 +78,8 @@ Page 4/4; 953 matching records.
 - [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f46c222da6f0d60a6a1fa098 — Accepted mathematics](../records/0168.md#local-section-f46c222da6f0d60a6a1fa098-a29562026f)
 - [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0168.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
-- [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0168.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
-- [local-section:f4d276fee597c0e3b9c4816c — \[research revision\]: weighted boundary spectrum and complete source transfers](../records/0168.md#local-section-f4d276fee597c0e3b9c4816c-522ce1782e)
+- [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
+- [local-section:f4d276fee597c0e3b9c4816c — \[research revision\]: weighted boundary spectrum and complete source transfers](../records/0169.md#local-section-f4d276fee597c0e3b9c4816c-522ce1782e)
 - [local-section:f5360e1646b9d274b3f333af — \[research revision\]: a conductor saving and the complete shared-zero detector](../records/0169.md#local-section-f5360e1646b9d274b3f333af-03e529bee5)
 - [local-section:f545a7e296fcb46f5dba504a — 5. Realizability, sharp endpoints, and the signed-profile calculation](../records/0169.md#local-section-f545a7e296fcb46f5dba504a-d4efc60804)
 - [local-section:f5fe7f9b7b63ad029481541c — \[research revision\] headroom pass: signed integer renewal and its friable mean](../records/0169.md#local-section-f5fe7f9b7b63ad029481541c-8c40d8d1fa)
@@ -162,7 +164,7 @@ Page 4/4; 953 matching records.
 - [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0172.md#local-g202-0d8b3cdd46)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0172.md#local-g217-1ea6acd977)
-- [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0172.md#local-g222-849aadba5c)
+- [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0173.md#local-g222-849aadba5c)
 - [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0173.md#local-g225-8fc7b83906)
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0173.md#local-g227-4fd8db96d9)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0173.md#local-g228-b8e6c60a37)

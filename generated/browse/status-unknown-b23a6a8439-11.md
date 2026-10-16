@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 11/43; 10568 matching records.
+Page 11/43; 10573 matching records.
 
 [Previous](status-unknown-b23a6a8439-10.md)
 

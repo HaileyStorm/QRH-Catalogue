@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 491 matching records.
+Page 1/2; 492 matching records.
 
 [Next](topic-sextic-5501a98e33-02.md)
 
@@ -58,6 +58,7 @@ Page 1/2; 491 matching records.
 - [P30-23 — Full sixth-power diagonal including unequal roots](../records/0130.md#p30-23-96462c901a)
 - [P30-29 — Improving sixth-power padding slope](../records/0130.md#p30-29-4d53077bb1)
 - [P30-34 — Norm-lift family and uniform boundary obligations](../records/0130.md#p30-34-f2008f8379)
+- [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0137.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
 - [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0137.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
@@ -85,8 +86,8 @@ Page 1/2; 491 matching records.
 - [local-section:0f8d17cdaf42d1670e4be6a8 — Accepted input packages](../records/0139.md#local-section-0f8d17cdaf42d1670e4be6a8-3b5dc21d96)
 - [local-section:128df8b541e28ea33920a5f6 — 1. Result and exact boundary](../records/0139.md#local-section-128df8b541e28ea33920a5f6-2ba139126c)
 - [local-section:135f2d4b7dec2a2cf76f3e00 — Source and discovery record](../records/0139.md#local-section-135f2d4b7dec2a2cf76f3e00-52fec6bd6a)
-- [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0139.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
-- [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0139.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
+- [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
+- [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
 - [local-section:15307c37cc17059e89e17bc7 — 69. Labelled sieve layers and their unlabelled obstruction](../records/0140.md#local-section-15307c37cc17059e89e17bc7-622826e95b)
 - [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0140.md#local-section-160b4939857b2accee77efb9-442b8b8857)
 - [local-section:1616bfd1f16a7318c41f53c1 — PR15 local physical moment review — pinned head ca182b70](../records/0140.md#local-section-1616bfd1f16a7318c41f53c1-81c57132dd)
@@ -165,7 +166,7 @@ Page 1/2; 491 matching records.
 - [local-section:4a2a39ff11a263661588cf66 — A01. The coherent unembedded nonzero sextic aggregate](../records/0146.md#local-section-4a2a39ff11a263661588cf66-2c065fa01f)
 - [local-section:4ac4b3d457188a61be8f97cf — 6. Exact gain and a proved obstruction to a tempting iteration](../records/0146.md#local-section-4ac4b3d457188a61be8f97cf-8903901336)
 - [local-section:4adfcd9927c7a778aede1351 — Source and inherited payment](../records/0146.md#local-section-4adfcd9927c7a778aede1351-f62a89760a)
-- [local-section:4be025221ce9aa2c49d8c5a9 — 4. Consequential corrections and unresolved assertions](../records/0146.md#local-section-4be025221ce9aa2c49d8c5a9-57ab4bff2a)
+- [local-section:4be025221ce9aa2c49d8c5a9 — 4. Consequential corrections and unresolved assertions](../records/0147.md#local-section-4be025221ce9aa2c49d8c5a9-57ab4bff2a)
 - [local-section:4c021f37a5f4d8a69869f3e3 — 1. Evidence and conventions](../records/0147.md#local-section-4c021f37a5f4d8a69869f3e3-69cba18b83)
 - [local-section:4c3b3c5719a1ffbc4764e5ed — \[research revision\]: density extension, c6 and exact detector transfers](../records/0147.md#local-section-4c3b3c5719a1ffbc4764e5ed-69e6deb941)
 - [local-section:4d37065b9f896c2933ab463c — 2. Marked inverse amplification with the actual slots](../records/0147.md#local-section-4d37065b9f896c2933ab463c-d3a2347050)
@@ -230,7 +231,7 @@ Page 1/2; 491 matching records.
 - [local-section:70376851109010644d97af33 — 5. Low/high branches, missing labels and all-height scope](../records/0151.md#local-section-70376851109010644d97af33-41ed5c4166)
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:71bb65ff638afa27287e55e1 — 5. Genuine embedding in the \[research revision\] joint bank](../records/0151.md#local-section-71bb65ff638afa27287e55e1-64703711bf)
-- [local-section:7214b5cc77611a289b9a8eef — 9. Full costs, transfer boundary and possible direct return](../records/0151.md#local-section-7214b5cc77611a289b9a8eef-184af844c5)
+- [local-section:7214b5cc77611a289b9a8eef — 9. Full costs, transfer boundary and possible direct return](../records/0152.md#local-section-7214b5cc77611a289b9a8eef-184af844c5)
 - [local-section:724707a1bbd5a67003d966ab — 3. Conductor, index, physical row length, and mean exponent are different quantities](../records/0152.md#local-section-724707a1bbd5a67003d966ab-a71e87903e)
 - [local-section:7283415aa4526974a822818e — 7. Complete physical selector, shortenings and Euler shifts](../records/0152.md#local-section-7283415aa4526974a822818e-53c7f34f57)
 - [local-section:72cf7da5834812d3bdaa0cb6 — 28. Retained first-support reserve and partial marked-plain density](../records/0152.md#local-section-72cf7da5834812d3bdaa0cb6-901e712ef4)
@@ -255,4 +256,3 @@ Page 1/2; 491 matching records.
 - [local-section:7eea77463838b863b1985ed9 — Surviving mechanism and direct-return boundary](../records/0153.md#local-section-7eea77463838b863b1985ed9-e67f9928f1)
 - [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0153.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)
 - [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
