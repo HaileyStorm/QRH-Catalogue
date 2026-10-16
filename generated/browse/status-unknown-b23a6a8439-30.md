@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 30/43; 10581 matching records.
+Page 30/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-29.md)
 
 [Next](status-unknown-b23a6a8439-31.md)
 
+- [local-section:3114cffa36d99c9efd89dac3 — 6. Strongest objection and the arithmetic development still missing](../records/0143.md#local-section-3114cffa36d99c9efd89dac3-93900979ce)
 - [local-section:31199af51f1d3cd61de267b7 — W40-02 — Orthogonalize the two heights jointly; p=.12](../records/0143.md#local-section-31199af51f1d3cd61de267b7-6cfb8d8568)
 - [local-section:3142470e9af2d17fb2c69d72 — Reviewed observation, source-filter and positivity components](../records/0143.md#local-section-3142470e9af2d17fb2c69d72-fc8ac8ba98)
 - [local-section:31429f52c33ea991fb883a40 — G158. Actual Type I removal on plain L2, including every character](../records/0143.md#local-section-31429f52c33ea991fb883a40-82b1e1acc9)
@@ -37,7 +38,7 @@ Page 30/43; 10581 matching records.
 - [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0143.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
 - [local-section:339e9f2b8bfc821a1f640c67 — 3. The finite atlas and why it is an analytic change](../records/0143.md#local-section-339e9f2b8bfc821a1f640c67-93cbaa4890)
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0143.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
-- [local-section:33c15e3aefd046f4c9cbf377 — 8. Handoff boundary](../records/0143.md#local-section-33c15e3aefd046f4c9cbf377-8afebcd6f2)
+- [local-section:33c15e3aefd046f4c9cbf377 — 8. Handoff boundary](../records/0144.md#local-section-33c15e3aefd046f4c9cbf377-8afebcd6f2)
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0144.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
 - [local-section:33e253fb432a0ae81c91799f — 3.2 Squarefree local correction and the full convolution](../records/0144.md#local-section-33e253fb432a0ae81c91799f-a5e3ac91a5)
 - [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
@@ -257,4 +258,3 @@ Page 30/43; 10581 matching records.
 - [local-section:47fd8ec74e251e5b92ccec61 — 1. Inputs and the new results](../records/0146.md#local-section-47fd8ec74e251e5b92ccec61-88776de232)
 - [local-section:480e9c55f6d5cc30665ad054 — Sampling, novelty and preserved limits](../records/0146.md#local-section-480e9c55f6d5cc30665ad054-b4a6eac682)
 - [local-section:482ecf42fe5937b8e8ca932e — 6. Full Fourier-height implementation](../records/0146.md#local-section-482ecf42fe5937b8e8ca932e-2ffea287df)
-- [local-section:484e95f59a6122d8cf370807 — F04.H — Short-divisor H](../records/0146.md#local-section-484e95f59a6122d8cf370807-9c90084881)

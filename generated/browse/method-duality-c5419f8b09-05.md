@@ -14,7 +14,7 @@ Page 5/6; 1438 matching records.
 - [local-section:bd093ffc07bb980b6539c01f — \[research revision\] independent review: fixed-ratio source obstruction and paired detectors](../records/0161.md#local-section-bd093ffc07bb980b6539c01f-622992f78c)
 - [local-section:bd46e243438b5c95965da071 — G167. Global positive majorants need sufficiently nonlocal interactions](../records/0161.md#local-section-bd46e243438b5c95965da071-6511a58ecd)
 - [local-section:bd986abf1d40776357356e8f — Independent R4 review: original-color cubic sieve after primitive Poisson](../records/0161.md#local-section-bd986abf1d40776357356e8f-44976a7b40)
-- [local-section:bda8f95667ce4b444282a98d — 6. Independent uniform audit F06: a raw principal half-plane obstruction](../records/0161.md#local-section-bda8f95667ce4b444282a98d-35bd896d5f)
+- [local-section:bda8f95667ce4b444282a98d — 6. Independent uniform audit F06: a raw principal half-plane obstruction](../records/0162.md#local-section-bda8f95667ce4b444282a98d-35bd896d5f)
 - [local-section:bdf0a350f66a854bb6c0f41a — 3. A fixed quadratic class changes the actual row index](../records/0162.md#local-section-bdf0a350f66a854bb6c0f41a-6eedced03a)
 - [local-section:bdfba458741ea0df9616bb17 — 3. Actual arithmetic grouping, zeros and SF7 mass](../records/0162.md#local-section-bdfba458741ea0df9616bb17-2656713493)
 - [local-section:be028d91d755e5f2d1801777 — 1. Imported finite form and exact masks](../records/0162.md#local-section-be028d91d755e5f2d1801777-fa998c1412)

@@ -177,7 +177,7 @@ Page 3/5; 1035 matching records.
 - [local-section:a569610f4222f38e9709416a — 9. Fixed-power late flow and the square-root critical profile](../records/0158.md#local-section-a569610f4222f38e9709416a-e2cf2336a8)
 - [local-section:a59922d95491afa08fac5c48 — \[research revision\]: short arithmetic moves and the complete signed remainder](../records/0158.md#local-section-a59922d95491afa08fac5c48-d51bcd7cc3)
 - [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0158.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
-- [local-section:a5f0a6009bd4c52b7ec366eb — C. Strong objection: the actual output is not power-small](../records/0158.md#local-section-a5f0a6009bd4c52b7ec366eb-86e06d971a)
+- [local-section:a5f0a6009bd4c52b7ec366eb — C. Strong objection: the actual output is not power-small](../records/0159.md#local-section-a5f0a6009bd4c52b7ec366eb-86e06d971a)
 - [local-section:a6d99b6c11372dc2112b2b43 — 3. Survivors11/22: an exact signed Walsh codec with a paid tail](../records/0159.md#local-section-a6d99b6c11372dc2112b2b43-7b00634ba8)
 - [local-section:a6dabf3409ad9596d463bacd — Current checkpoint](../records/0159.md#local-section-a6dabf3409ad9596d463bacd-a9ba44e7a1)
 - [local-section:a7cd132ac90232262468f578 — 2. Development04: unsmoothed energy and a full character return](../records/0159.md#local-section-a7cd132ac90232262468f578-bbce6ee60f)

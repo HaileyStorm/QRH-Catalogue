@@ -10,7 +10,7 @@ Page 1/1; 29 matching records.
 - [local:F04 — F04. Sextic reflection, physical covariance, probe and numerator](../records/0170.md#local-f04-f8d6d7f1ca)
 - [local:F05 — F05. Möbius-aware polar projection and spectral sieve](../records/0170.md#local-f05-b00059fa1b)
 - [local:F06 — F06. Bilinear currents and actual spectral testing](../records/0170.md#local-f06-91b9eb5611)
-- [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
+- [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0171.md#local-f07-fa0d056a24)
 - [local:F08 — F08. Weighted fractional parts and modular residues](../records/0171.md#local-f08-1cd15be4b1)
 - [local:F09 — F09. Adaptive exceptional-mode vector probes](../records/0171.md#local-f09-82b521a74d)
 - [local:F10 — F10. Full signed asymptotic and changed transfer](../records/0171.md#local-f10-78df4c18b8)

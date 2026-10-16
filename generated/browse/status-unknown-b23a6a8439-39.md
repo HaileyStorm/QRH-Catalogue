@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10581 matching records.
+Page 39/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
 [Next](status-unknown-b23a6a8439-40.md)
 
+- [local-section:f86d2ff7532ec9d38faa2c6a — 2. Native JN translation theorem and required correction](../records/0169.md#local-section-f86d2ff7532ec9d38faa2c6a-aea2236cfa)
 - [local-section:f870cb353a6130b547daa8e5 — 4. The arithmetic pointwise bound survives the full prefix audit](../records/0169.md#local-section-f870cb353a6130b547daa8e5-64560e8124)
 - [local-section:f8733caf9ff610bdfa9a0b2a — The complete c7 endpoint](../records/0169.md#local-section-f8733caf9ff610bdfa9a0b2a-8c34d6fc25)
 - [local-section:f87e81647d6f92ec1e119e04 — Frozen generation and sampling](../records/0169.md#local-section-f87e81647d6f92ec1e119e04-450e30340b)
@@ -83,7 +84,7 @@ Page 39/43; 10581 matching records.
 - [local:F04 — F04. Sextic reflection, physical covariance, probe and numerator](../records/0170.md#local-f04-f8d6d7f1ca)
 - [local:F05 — F05. Möbius-aware polar projection and spectral sieve](../records/0170.md#local-f05-b00059fa1b)
 - [local:F06 — F06. Bilinear currents and actual spectral testing](../records/0170.md#local-f06-91b9eb5611)
-- [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
+- [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0171.md#local-f07-fa0d056a24)
 - [local:F08 — F08. Weighted fractional parts and modular residues](../records/0171.md#local-f08-1cd15be4b1)
 - [local:F09 — F09. Adaptive exceptional-mode vector probes](../records/0171.md#local-f09-82b521a74d)
 - [local:F10 — F10. Full signed asymptotic and changed transfer](../records/0171.md#local-f10-78df4c18b8)
@@ -187,7 +188,7 @@ Page 39/43; 10581 matching records.
 - [local:G207 — G207: full product, collisions and weighted removal](../records/0172.md#local-g207-3c636df55b)
 - [local:G208 — G208: exact pair mass and a fifth actual row class](../records/0172.md#local-g208-e7dcec8556)
 - [local:G209 — G209. All thirteen collision types and the exact mixed-order source](../records/0172.md#local-g209-c243fafc07)
-- [local:G210 — G210. Unequal energies and all collision-label sums](../records/0172.md#local-g210-2b166add49)
+- [local:G210 — G210. Unequal energies and all collision-label sums](../records/0173.md#local-g210-2b166add49)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0173.md#local-g212-6e2dec84ed)
 - [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0173.md#local-g213-46d38d3f6e)
@@ -257,4 +258,3 @@ Page 39/43; 10581 matching records.
 - [pr26:Analytic.ActualAllocatedErrors — Analytic.ActualAllocatedErrors](../records/0174.md#pr26-analytic-actualallocatederrors-73f489e593)
 - [pr26:Analytic.ActualAllocatedErrorsFull — Analytic.ActualAllocatedErrorsFull](../records/0174.md#pr26-analytic-actualallocatederrorsfull-630e7860fe)
 - [pr26:Analytic.ActualBinnedUniform — Analytic.ActualBinnedUniform](../records/0174.md#pr26-analytic-actualbinneduniform-680a7ce9af)
-- [pr26:Analytic.ActualBufferedCount — Analytic.ActualBufferedCount](../records/0174.md#pr26-analytic-actualbufferedcount-6859e3e9ee)

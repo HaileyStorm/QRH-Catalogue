@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 34/43; 10581 matching records.
+Page 34/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-33.md)
 
 [Next](status-unknown-b23a6a8439-35.md)
 
+- [local-section:8a5f3d0ff1e8c96278fb9356 — 1. Literal source and statement](../records/0155.md#local-section-8a5f3d0ff1e8c96278fb9356-3a3cc387c5)
 - [local-section:8a7f11db1862a117ee96f1aa — 4. The original inverse moment and the exact surviving source](../records/0155.md#local-section-8a7f11db1862a117ee96f1aa-26e4058738)
 - [local-section:8a86dfdbb9ff47121d7b3150 — W40-12 — Multiplicative matrix martingale with signed increments; p=.06](../records/0155.md#local-section-8a86dfdbb9ff47121d7b3150-716bebf933)
 - [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
@@ -151,7 +152,7 @@ Page 34/43; 10581 matching records.
 - [local-section:96a8667709ad44ba31f1ff2a — 45. Divisor recovery must keep its cross-row cancellation](../records/0156.md#local-section-96a8667709ad44ba31f1ff2a-1ea251b61f)
 - [local-section:96c5a321ba26ee30991eb683 — 1. Recovery on the squarefree unit set](../records/0156.md#local-section-96c5a321ba26ee30991eb683-c9ed1ec7a9)
 - [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0156.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
-- [local-section:96cdd570e8ecf5456a0ab7ee — 3. Weighted coherent coefficient mass](../records/0156.md#local-section-96cdd570e8ecf5456a0ab7ee-ed28a2b733)
+- [local-section:96cdd570e8ecf5456a0ab7ee — 3. Weighted coherent coefficient mass](../records/0157.md#local-section-96cdd570e8ecf5456a0ab7ee-ed28a2b733)
 - [local-section:96d81c97c2bd8f3ac8141eb7 — 2. Exact full signed gcd sector, before any positivity step](../records/0157.md#local-section-96d81c97c2bd8f3ac8141eb7-9f2b0335ba)
 - [local-section:96f295b9e7bfc83b92511c4b — \[research revision\]: complete rough correlations and local-set observation](../records/0157.md#local-section-96f295b9e7bfc83b92511c4b-a4150be9ea)
 - [local-section:970e32e13595436ccbf2bbf0 — Initial discovery, before duplicate pruning](../records/0157.md#local-section-970e32e13595436ccbf2bbf0-3ff1c320df)
@@ -236,7 +237,7 @@ Page 34/43; 10581 matching records.
 - [local-section:9e4e085d771d6d6df7d7dbdc — B1. Proof with all offsets, tails, and mixed terms](../records/0157.md#local-section-9e4e085d771d6d6df7d7dbdc-b06a133942)
 - [local-section:9e61a7c5ca71cac9ba393287 — 4. Uniform negative lines and all completion errors](../records/0157.md#local-section-9e61a7c5ca71cac9ba393287-dcf81e8b2b)
 - [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0157.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
-- [local-section:9e68f5fa52900feae403267a — 3. Uniform row completion with the actual forced scale](../records/0157.md#local-section-9e68f5fa52900feae403267a-093ae58591)
+- [local-section:9e68f5fa52900feae403267a — 3. Uniform row completion with the actual forced scale](../records/0158.md#local-section-9e68f5fa52900feae403267a-093ae58591)
 - [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0158.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
 - [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0158.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
 - [local-section:9e7e481702dd9153d5df32a9 — Review boundary](../records/0158.md#local-section-9e7e481702dd9153d5df32a9-88590b5431)
@@ -257,4 +258,3 @@ Page 34/43; 10581 matching records.
 - [local-section:9fd292741ff1888369a11a85 — 4. C, D and E: useful failures in their exact scopes](../records/0158.md#local-section-9fd292741ff1888369a11a85-1ae4ce5113)
 - [local-section:a02cd11fefde04f0dba9719d — 1. Selection decision](../records/0158.md#local-section-a02cd11fefde04f0dba9719d-1b9cce8fe6)
 - [local-section:a05b158e973dee5b2abe3fd5 — 4. The other sextic mechanisms: restriction, probe correlation, numerator and calibration](../records/0158.md#local-section-a05b158e973dee5b2abe3fd5-656bbc23f4)
-- [local-section:a0c8279f3678414eb860828d — 3.3 A finite retained source with both complementary errors paid](../records/0158.md#local-section-a0c8279f3678414eb860828d-8ca73e074e)

@@ -48,7 +48,7 @@ Page 2/2; 393 matching records.
 - [local-section:b4ac30daf483ca936fa489bc — 1. The balanced Möbius energy: coincidences and large internal gcd](../records/0160.md#local-section-b4ac30daf483ca936fa489bc-17b187549c)
 - [local-section:b4da428ba371f41f5bdf9eca — Provenance, verification and limitations](../records/0160.md#local-section-b4da428ba371f41f5bdf9eca-e002a52bb4)
 - [local-section:b5d96b0d74f961e0933a7ddc — \[research revision\]: retained support reserve and restricted marked-plain density](../records/0160.md#local-section-b5d96b0d74f961e0933a7ddc-9ad648f003)
-- [local-section:b67aed6e5308c540fd7faa33 — \[research revision\] independent review: complete Liouville square sources](../records/0160.md#local-section-b67aed6e5308c540fd7faa33-325abdf28d)
+- [local-section:b67aed6e5308c540fd7faa33 — \[research revision\] independent review: complete Liouville square sources](../records/0161.md#local-section-b67aed6e5308c540fd7faa33-325abdf28d)
 - [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0161.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
 - [local-section:b7a0b3cc4b897900d0fa22d3 — 2. Sources and independent evidence](../records/0161.md#local-section-b7a0b3cc4b897900d0fa22d3-b9d22a12af)
 - [local-section:baa9a498410eb2aa54096546 — D. Evidence and handoff](../records/0161.md#local-section-baa9a498410eb2aa54096546-4204b49f92)

@@ -248,7 +248,7 @@ Page 1/4; 797 matching records.
 - [local-section:433a6168bd5f719b53479444 — Conditional return and direction](../records/0145.md#local-section-433a6168bd5f719b53479444-9475a009fc)
 - [local-section:439265b918b16a7fe651b7f7 — 2. A marked product-interval square function](../records/0145.md#local-section-439265b918b16a7fe651b7f7-26d6274747)
 - [local-section:439bf6852b80651abaec70a7 — 5. Constant-cut source transfer, with all complements](../records/0145.md#local-section-439bf6852b80651abaec70a7-b36f529bbc)
-- [local-section:4446688c789b1ec03718e361 — \[research revision\]: compensated nonlinear source and paid cutoff coupling](../records/0145.md#local-section-4446688c789b1ec03718e361-705a64ad72)
+- [local-section:4446688c789b1ec03718e361 — \[research revision\]: compensated nonlinear source and paid cutoff coupling](../records/0146.md#local-section-4446688c789b1ec03718e361-705a64ad72)
 - [local-section:456adf7ad36cf418cc10b67f — R10. What is genuinely new, and what remains open](../records/0146.md#local-section-456adf7ad36cf418cc10b67f-e6aa5c5ae9)
 - [local-section:4591c2300d4623afdae97444 — Uniform S09: exact source-specific linear dual and its hidden scalar](../records/0146.md#local-section-4591c2300d4623afdae97444-78a9dc6f67)
 - [local-section:45f72c4a061e771fd01acbc6 — Actual arithmetic dilation: a global theorem and the unpaid local estimate](../records/0146.md#local-section-45f72c4a061e771fd01acbc6-a5637ec90d)

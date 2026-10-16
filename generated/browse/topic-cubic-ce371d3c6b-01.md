@@ -207,7 +207,7 @@ Page 1/3; 545 matching records.
 - [QRH-CONT-R038-CUBE-MARK-SIGNAL — Cube-divisibility local factors and separately calibrated reciprocal signals](../records/0131.md#qrh-cont-r038-cube-mark-signal-c3745d499c)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0137.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
-- [local-section:023d430ae4462de4b08a80f5 — 2. The coupled \\(d,a\\) arithmetic and the sixth-power-free moment](../records/0137.md#local-section-023d430ae4462de4b08a80f5-aa1f78fac7)
+- [local-section:023d430ae4462de4b08a80f5 — 2. The coupled \\(d,a\\) arithmetic and the sixth-power-free moment](../records/0138.md#local-section-023d430ae4462de4b08a80f5-aa1f78fac7)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
 - [local-section:0737de17150af6e51c799c86 — 7. All30 dispositions](../records/0138.md#local-section-0737de17150af6e51c799c86-d7ff94fbec)

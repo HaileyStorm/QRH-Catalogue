@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 42/43; 10581 matching records.
+Page 42/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-41.md)
 
 [Next](status-unknown-b23a6a8439-43.md)
 
+- [pr26:Cycle25.Energy.PositiveHighParameters — Cycle25.Energy.PositiveHighParameters](../records/0200.md#pr26-cycle25-energy-positivehighparameters-149b8df1f7)
 - [pr26:Cycle25.Energy.PositiveHighPhysical — Cycle25.Energy.PositiveHighPhysical](../records/0200.md#pr26-cycle25-energy-positivehighphysical-049305d1f5)
 - [pr26:Cycle25.Energy.PositiveHighSource — Cycle25.Energy.PositiveHighSource](../records/0200.md#pr26-cycle25-energy-positivehighsource-acf8bd3d1b)
 - [pr26:Cycle25.Energy.PositiveHighSourceBound — Cycle25.Energy.PositiveHighSourceBound](../records/0200.md#pr26-cycle25-energy-positivehighsourcebound-8fd3e874bc)
@@ -177,7 +178,7 @@ Page 42/43; 10581 matching records.
 - [pr26:Global.Numerator.SourceMask — Global.Numerator.SourceMask](../records/0209.md#pr26-global-numerator-sourcemask-fde33fbbea)
 - [pr26:Global.Numerator.SourceParameters — Global.Numerator.SourceParameters](../records/0209.md#pr26-global-numerator-sourceparameters-d8e4663df9)
 - [pr26:Global.Numerator.SourcePrimeBins — Global.Numerator.SourcePrimeBins](../records/0209.md#pr26-global-numerator-sourceprimebins-c70d7b4ea4)
-- [pr26:Global.Numerator.SourceSelection — Global.Numerator.SourceSelection](../records/0209.md#pr26-global-numerator-sourceselection-c1d32b9f6e)
+- [pr26:Global.Numerator.SourceSelection — Global.Numerator.SourceSelection](../records/0210.md#pr26-global-numerator-sourceselection-c1d32b9f6e)
 - [pr26:Global.Parameters — Global.Parameters](../records/0210.md#pr26-global-parameters-b4c6d0fdb1)
 - [pr26:Global.SlotLengths — Global.SlotLengths](../records/0210.md#pr26-global-slotlengths-f9be7b04a1)
 - [pr26:Global.Transport.CanonicalCubeChoice — Global.Transport.CanonicalCubeChoice](../records/0210.md#pr26-global-transport-canonicalcubechoice-0a2fe0237a)
@@ -194,7 +195,7 @@ Page 42/43; 10581 matching records.
 - [pr26:Global.Transport.CubeFloorArithmetic — Global.Transport.CubeFloorArithmetic](../records/0210.md#pr26-global-transport-cubefloorarithmetic-284da8fac4)
 - [pr26:Global.Transport.CubeFloorCollected — Global.Transport.CubeFloorCollected](../records/0210.md#pr26-global-transport-cubefloorcollected-bbb6ce776b)
 - [pr26:Global.Transport.CubeFloorGlobal — Global.Transport.CubeFloorGlobal](../records/0210.md#pr26-global-transport-cubefloorglobal-b13c6b07f1)
-- [pr26:Global.Transport.CubeFloorGlobalIntegral — Global.Transport.CubeFloorGlobalIntegral](../records/0210.md#pr26-global-transport-cubefloorglobalintegral-0d4ec09a97)
+- [pr26:Global.Transport.CubeFloorGlobalIntegral — Global.Transport.CubeFloorGlobalIntegral](../records/0211.md#pr26-global-transport-cubefloorglobalintegral-0d4ec09a97)
 - [pr26:Global.Transport.CubeFloorNormalized — Global.Transport.CubeFloorNormalized](../records/0211.md#pr26-global-transport-cubefloornormalized-cd72441999)
 - [pr26:Global.Transport.CubeFloorSaving — Global.Transport.CubeFloorSaving](../records/0211.md#pr26-global-transport-cubefloorsaving-4d48fddba9)
 - [pr26:Global.Transport.CubeFullWNormalized — Global.Transport.CubeFullWNormalized](../records/0211.md#pr26-global-transport-cubefullwnormalized-e071176eb7)
@@ -234,7 +235,7 @@ Page 42/43; 10581 matching records.
 - [pr26:Global.Transport.PrincipalSlots — Global.Transport.PrincipalSlots](../records/0213.md#pr26-global-transport-principalslots-fec1b0ac32)
 - [pr26:Global.Transport.SignalShift — Global.Transport.SignalShift](../records/0213.md#pr26-global-transport-signalshift-23fce85c29)
 - [pr26:Global.Transport.SmallTail — Global.Transport.SmallTail](../records/0213.md#pr26-global-transport-smalltail-1919130b94)
-- [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0213.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
+- [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0214.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
 - [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0214.md#pr26-global-transport-tailscales-92c528c07f)
 - [pr26:Global.Weighted.CellGeometry — Global.Weighted.CellGeometry](../records/0214.md#pr26-global-weighted-cellgeometry-f510f267cc)
 - [pr26:Global.Weighted.FullWCellInput — Global.Weighted.FullWCellInput](../records/0214.md#pr26-global-weighted-fullwcellinput-d66a0e175a)
@@ -257,4 +258,3 @@ Page 42/43; 10581 matching records.
 - [pr26:LocalMoment.UnmarkedBatch — LocalMoment.UnmarkedBatch](../records/0215.md#pr26-localmoment-unmarkedbatch-de06e24cad)
 - [pr26:LocalMoment.UnmarkedDensity — LocalMoment.UnmarkedDensity](../records/0215.md#pr26-localmoment-unmarkeddensity-847ac55e6e)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-6feda61b95)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyarithmetic-e23e66f593)

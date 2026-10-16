@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 31/43; 10581 matching records.
+Page 31/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-30.md)
 
 [Next](status-unknown-b23a6a8439-32.md)
 
+- [local-section:484e95f59a6122d8cf370807 — F04.H — Short-divisor H](../records/0146.md#local-section-484e95f59a6122d8cf370807-9c90084881)
 - [local-section:485d62cbaceeee39e1d8d770 — Sol04 \[research revision\] bounded research handoff](../records/0146.md#local-section-485d62cbaceeee39e1d8d770-23e5ae2f5d)
 - [local-section:4860e807d52007b6ce92798b — 2. Exact intake, sources and limits](../records/0146.md#local-section-4860e807d52007b6ce92798b-6233c16aec)
 - [local-section:486b6e574555605eafa340fb — Development14: exact cover, weighted defect and reconstruction](../records/0146.md#local-section-486b6e574555605eafa340fb-9279bda5db)
@@ -41,7 +42,7 @@ Page 31/43; 10581 matching records.
 - [local-section:4a93d710d80b06bf987a72df — Evidence and source boundary](../records/0146.md#local-section-4a93d710d80b06bf987a72df-1f3593c04c)
 - [local-section:4ab9d1e430f17be39186b42d — Other first tests and scope boundaries](../records/0146.md#local-section-4ab9d1e430f17be39186b42d-06a3cf9918)
 - [local-section:4acd7d6be2953337cd21e694 — 7. Exact c6 replacement boundary](../records/0146.md#local-section-4acd7d6be2953337cd21e694-10f087fb21)
-- [local-section:4ad1b8344d676dbbec363b95 — D02. Rank-one determinant detector: an exact attempted bridge that fails to weaken the input](../records/0146.md#local-section-4ad1b8344d676dbbec363b95-a28d1aeb63)
+- [local-section:4ad1b8344d676dbbec363b95 — D02. Rank-one determinant detector: an exact attempted bridge that fails to weaken the input](../records/0147.md#local-section-4ad1b8344d676dbbec363b95-a28d1aeb63)
 - [local-section:4ad1eb38722b14121e267136 — 3.2 An exact prime-graph storage identity, including the harmonic part](../records/0147.md#local-section-4ad1eb38722b14121e267136-363daca0df)
 - [local-section:4adfcd9927c7a778aede1351 — Source and inherited payment](../records/0147.md#local-section-4adfcd9927c7a778aede1351-f62a89760a)
 - [local-section:4b1d2cb21f739d79f8e32eb8 — 4. An explicit cofactor and its nontriviality](../records/0147.md#local-section-4b1d2cb21f739d79f8e32eb8-3d86a84efd)
@@ -127,7 +128,7 @@ Page 31/43; 10581 matching records.
 - [local-section:51d35ac079b5bb11734f4b72 — 7. Uniform parked audit21: actual cocycle and a paid future inverse](../records/0147.md#local-section-51d35ac079b5bb11734f4b72-a3400c6c00)
 - [local-section:51dd24fc9f9d4a4192467002 — 46. The unpaid far rows have separated simultaneous witnesses](../records/0147.md#local-section-51dd24fc9f9d4a4192467002-36b6caf484)
 - [local-section:51dd62ac4027d1fb1b6b7f4e — 8. The complete sixth-power diagonal is already paid](../records/0147.md#local-section-51dd62ac4027d1fb1b6b7f4e-923b06618b)
-- [local-section:51f13662bfc2859152fc19f1 — 3.2 The stable inverse runs to larger scales](../records/0147.md#local-section-51f13662bfc2859152fc19f1-ed183a2ed9)
+- [local-section:51f13662bfc2859152fc19f1 — 3.2 The stable inverse runs to larger scales](../records/0148.md#local-section-51f13662bfc2859152fc19f1-ed183a2ed9)
 - [local-section:51f6e2b5b0a0cf8350f37877 — 3. W56-26: integral persistence and its complete source return](../records/0148.md#local-section-51f6e2b5b0a0cf8350f37877-a9a712c208)
 - [local-section:521a65bd06cff0d387a67f71 — 3. Complete physical return](../records/0148.md#local-section-521a65bd06cff0d387a67f71-156c7be0e1)
 - [local-section:522606e71e4fa744c99b0900 — 3. The marked free-row inverse amplifier](../records/0148.md#local-section-522606e71e4fa744c99b0900-cf2ccad6a8)
@@ -218,7 +219,7 @@ Page 31/43; 10581 matching records.
 - [local-section:59b77b5be4397824ba8236e2 — 5. Scalar return, certificate domains and all retained d](../records/0148.md#local-section-59b77b5be4397824ba8236e2-72e1857f1e)
 - [local-section:59c46a9d6abe44d9e7d54b54 — 5. Every error, zero and fixed-inducing contribution](../records/0148.md#local-section-59c46a9d6abe44d9e7d54b54-d9a2556ca2)
 - [local-section:59d64ee8e25a9eb5a900e837 — 1. Exact source and its quantitative return](../records/0148.md#local-section-59d64ee8e25a9eb5a900e837-f90db68da9)
-- [local-section:59ecf56b5139705d57b151a3 — 6. All30 dispositions and exact ancestry](../records/0148.md#local-section-59ecf56b5139705d57b151a3-aa4a959e61)
+- [local-section:59ecf56b5139705d57b151a3 — 6. All30 dispositions and exact ancestry](../records/0149.md#local-section-59ecf56b5139705d57b151a3-aa4a959e61)
 - [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0149.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
 - [local-section:5a5cd36f1291572257b6d6f8 — Finite optimization and interpolation do not pay that residual](../records/0149.md#local-section-5a5cd36f1291572257b6d6f8-c673b2deaa)
 - [local-section:5a662def14ed9a5a5f2ddbe0 — Exhaustive detail and scope](../records/0149.md#local-section-5a662def14ed9a5a5f2ddbe0-3e627d83b3)
@@ -257,4 +258,3 @@ Page 31/43; 10581 matching records.
 - [local-section:5d7920c69c67849c61ad5664 — 2.4 The exact hard-prime same-output diagonal costs only a constant](../records/0149.md#local-section-5d7920c69c67849c61ad5664-5333d9aa6e)
 - [local-section:5d833e12d86a3527b9709bde — 4. Finite optimizer and interpolation obstructions](../records/0149.md#local-section-5d833e12d86a3527b9709bde-bd8c0f7c4e)
 - [local-section:5d8dbc4fa7cfa6e4c6d6879c — G150. Complete matching displacement, with the old rank equivalence retained](../records/0149.md#local-section-5d8dbc4fa7cfa6e4c6d6879c-9206e99395)
-- [local-section:5d9630bd9a3909799080aca7 — \[research revision\]: complete signed operator and detector contracts](../records/0149.md#local-section-5d9630bd9a3909799080aca7-a6b633c593)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 33/43; 10581 matching records.
+Page 33/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-32.md)
 
 [Next](status-unknown-b23a6a8439-34.md)
 
+- [local-section:733320b58fc33363bcd6e2cb — 2.1 Exact equation and energy, with no deleted prime powers](../records/0152.md#local-section-733320b58fc33363bcd6e2cb-a5d36b021c)
 - [local-section:73620163f9786d83b03d4976 — UR8. Independent evidence, disposition and remaining work](../records/0152.md#local-section-73620163f9786d83b03d4976-41aafbe0da)
 - [local-section:7362cc1f75d6ea76424d0756 — F08.A / F19.A — Actual modular-residue capture](../records/0152.md#local-section-7362cc1f75d6ea76424d0756-e54f9f8237)
 - [local-section:738ad32b69086848558e98d8 — 4.2 Source-sensitive obstruction at shrinking height](../records/0152.md#local-section-738ad32b69086848558e98d8-157a39be61)
@@ -67,7 +68,7 @@ Page 33/43; 10581 matching records.
 - [local-section:77f85296ec0d48c6f7a1a5f9 — 2. Sampling, chronology and all30 preservation](../records/0152.md#local-section-77f85296ec0d48c6f7a1a5f9-5ff504ba68)
 - [local-section:7828492d7fdc047743d043b6 — 3. Independent proof and quantifier audit of M](../records/0152.md#local-section-7828492d7fdc047743d043b6-f9c0651d64)
 - [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
-- [local-section:7852a5c7a94736af0e539907 — 2. Sources, exact bindings and independent method](../records/0152.md#local-section-7852a5c7a94736af0e539907-f7bea94413)
+- [local-section:7852a5c7a94736af0e539907 — 2. Sources, exact bindings and independent method](../records/0153.md#local-section-7852a5c7a94736af0e539907-f7bea94413)
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0153.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:7864c7683a4d3067e2f4c126 — 5.1 W40-11 — the proposed full operator bound fails for the actual critical split](../records/0153.md#local-section-7864c7683a4d3067e2f4c126-4a7273d875)
 - [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0153.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
@@ -227,7 +228,7 @@ Page 33/43; 10581 matching records.
 - [local-section:875a4a7bd63cb8d290524095 — R7. Protected20: an exact Schur reduction must retain the completion](../records/0154.md#local-section-875a4a7bd63cb8d290524095-7f736a81aa)
 - [local-section:875fc095e437c676ac02abb4 — 5. A precise obstruction to the proposed shortcut](../records/0154.md#local-section-875fc095e437c676ac02abb4-067fa78bc8)
 - [local-section:8765f4b7133e69437e9a9d56 — 4. An exact positive norm and its fully paid diagonal](../records/0154.md#local-section-8765f4b7133e69437e9a9d56-f0245762f2)
-- [local-section:8783e6fbfa4e5f2aeb50796c — 2. Literal source audit](../records/0154.md#local-section-8783e6fbfa4e5f2aeb50796c-7519e07a09)
+- [local-section:8783e6fbfa4e5f2aeb50796c — 2. Literal source audit](../records/0155.md#local-section-8783e6fbfa4e5f2aeb50796c-7519e07a09)
 - [local-section:87971ae77a1cfda3c8258cbd — 5. Additional complete endpoint improvement](../records/0155.md#local-section-87971ae77a1cfda3c8258cbd-55b0988d84)
 - [local-section:879858b64770c1e697414eaf — 5. Original Schwartz weight, all tails and fixed-datum uniformity](../records/0155.md#local-section-879858b64770c1e697414eaf-48dc2ff484)
 - [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0155.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
@@ -257,4 +258,3 @@ Page 33/43; 10581 matching records.
 - [local-section:8a1364a29600c5a59c3595d3 — 34. The actual integer-renewal norm and fixed signed corrections](../records/0155.md#local-section-8a1364a29600c5a59c3595d3-79a6616bb4)
 - [local-section:8a30e545d1aa25a497db332d — 6. High bins: all signs, holes, valuations and labels paid](../records/0155.md#local-section-8a30e545d1aa25a497db332d-5474371a2e)
 - [local-section:8a387234f19eedc0866a094b — 4. Common profile before labels; actual HB and slot payment](../records/0155.md#local-section-8a387234f19eedc0866a094b-b19aa169c1)
-- [local-section:8a5f3d0ff1e8c96278fb9356 — 1. Literal source and statement](../records/0155.md#local-section-8a5f3d0ff1e8c96278fb9356-3a3cc387c5)

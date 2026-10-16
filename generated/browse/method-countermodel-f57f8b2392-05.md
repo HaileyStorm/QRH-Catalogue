@@ -95,7 +95,7 @@ Page 5/5; 1111 matching records.
 - [local:G293 — G293. Positive explicit-formula budget and differentiated signed-zero repair](../records/0173.md#local-g293-2296ca3efc)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
 - [local:G308 — G308. Complete fifth hypothetical-zero Laurent residue return](../records/0173.md#local-g308-65cda3db23)
-- [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0173.md#local-g309-cb6cfa996e)
+- [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0174.md#local-g309-cb6cfa996e)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0174.md#local-g5-edf12c141c)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0174.md#local-g6-e89f333778)

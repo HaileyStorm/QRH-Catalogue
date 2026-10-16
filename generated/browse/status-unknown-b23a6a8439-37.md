@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 37/43; 10581 matching records.
+Page 37/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-36.md)
 
 [Next](status-unknown-b23a6a8439-38.md)
 
+- [local-section:cb964ee0eaf58beef9fb32b9 — Completed small-divisor source](../records/0163.md#local-section-cb964ee0eaf58beef9fb32b9-6b94be2afb)
 - [local-section:cb96694accf5d838ba288987 — 1. Frozen source, sampling and independent audit preparation](../records/0163.md#local-section-cb96694accf5d838ba288987-69f62f23b1)
 - [local-section:cb9795e46c62958d0ea97454 — 6. Transfer to the actual C--C Poisson sector](../records/0163.md#local-section-cb9795e46c62958d0ea97454-3332d22bdd)
 - [local-section:cba2774b0a3d171f34f09e54 — 2. Principal characters: all q-smooth powers and moments are required](../records/0163.md#local-section-cba2774b0a3d171f34f09e54-3d8f70ded2)
@@ -20,7 +21,7 @@ Page 37/43; 10581 matching records.
 - [local-section:cca6592276bd51d8a19bf4e4 — G202. Centered quotient norm and one fixed cumulative source](../records/0163.md#local-section-cca6592276bd51d8a19bf4e4-39b1ee0d39)
 - [local-section:ccad7258a80000cc468a2a7e — Other first tests and actual native-H limit](../records/0163.md#local-section-ccad7258a80000cc468a2a7e-d77de3e722)
 - [local-section:ccae01d2b939db4bdc087268 — 2.1 LP_a and the disk chain](../records/0163.md#local-section-ccae01d2b939db4bdc087268-c5ad1c0cd4)
-- [local-section:ccb890d891820eab6bf816db — G203. A signed inner source does not rescue the outer positive budget](../records/0163.md#local-section-ccb890d891820eab6bf816db-6f95cf5e07)
+- [local-section:ccb890d891820eab6bf816db — G203. A signed inner source does not rescue the outer positive budget](../records/0164.md#local-section-ccb890d891820eab6bf816db-6f95cf5e07)
 - [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:ccdc64b9dcc1fbdd7eb2afba — Verification and next estimate](../records/0164.md#local-section-ccdc64b9dcc1fbdd7eb2afba-90d24bc51d)
 - [local-section:cce6349d90284b9d579c007f — 2. Forward smoothing survives forming the phase family](../records/0164.md#local-section-cce6349d90284b9d579c007f-444ab690ef)
@@ -193,7 +194,7 @@ Page 37/43; 10581 matching records.
 - [local-section:daa27e200f523f13c2d83862 — 5. Full versus truncated allocation contraction](../records/0165.md#local-section-daa27e200f523f13c2d83862-823b3b44f4)
 - [local-section:dad5cf32f05cc61f8fb3e81b — \[research revision\] attempt delta](../records/0165.md#local-section-dad5cf32f05cc61f8fb3e81b-61e7e59567)
 - [local-section:dae2097ca5c421142c1802ba — 4. The finite signed core and paid complements](../records/0165.md#local-section-dae2097ca5c421142c1802ba-0412a17547)
-- [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0165.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
+- [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0166.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
 - [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0166.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
 - [local-section:daf014ed3d79cdc374dbb973 — New merge corollary: common-completed finite incidence is equivalent](../records/0166.md#local-section-daf014ed3d79cdc374dbb973-30cb82bce9)
 - [local-section:db1897b4dfa1a01a6b398abf — W40-08 — Inverse-L dispersion sum rule; p=.07](../records/0166.md#local-section-db1897b4dfa1a01a6b398abf-d96cf0f568)
@@ -257,4 +258,3 @@ Page 37/43; 10581 matching records.
 - [local-section:e11febb0b985c3567302eb26 — 2. A uniform sixth-power-free estimate down to bounded core scale](../records/0166.md#local-section-e11febb0b985c3567302eb26-42b8b0e505)
 - [local-section:e13da6b50f2e2440e5222439 — 3. Fully masked Gaussian Walsh transform](../records/0166.md#local-section-e13da6b50f2e2440e5222439-0f700040d9)
 - [local-section:e160c539dca8358a6287482d — Independent review: arithmetic dilates and the localization deficit](../records/0166.md#local-section-e160c539dca8358a6287482d-3242286bd7)
-- [local-section:e1846c4a3f108f24ba446973 — 7. Evidence, limitations and precise next action](../records/0166.md#local-section-e1846c4a3f108f24ba446973-637d703b0e)

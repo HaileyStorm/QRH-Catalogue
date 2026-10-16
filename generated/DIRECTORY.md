@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21787 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21788 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -68,7 +68,7 @@
 - [F04 — F04. Sextic reflection, physical covariance, probe and numerator](records/0170.md#local-f04-f8d6d7f1ca)
 - [F05 — F05. Möbius-aware polar projection and spectral sieve](records/0170.md#local-f05-b00059fa1b)
 - [F06 — F06. Bilinear currents and actual spectral testing](records/0170.md#local-f06-91b9eb5611)
-- [F07 — F07. Quadratic principal-square Jacobi detector](records/0170.md#local-f07-fa0d056a24)
+- [F07 — F07. Quadratic principal-square Jacobi detector](records/0171.md#local-f07-fa0d056a24)
 - [F08 — F08. Weighted fractional parts and modular residues](records/0171.md#local-f08-1cd15be4b1)
 - [F09 — F09. Adaptive exceptional-mode vector probes](records/0171.md#local-f09-82b521a74d)
 - [F10 — F10. Full signed asymptotic and changed transfer](records/0171.md#local-f10-78df4c18b8)
@@ -100,7 +100,7 @@
 - [G108 — G108. Complete prime-block interactions and descendant errors](records/0171.md#local-g108-f378462f08)
 - [G109 — G109. Fixed countable banks, exact buffering and the complete source](records/0171.md#local-g109-fab6e1e2f7)
 - [G110 — G110. The canonical amplitude-conditioned theorem](records/0171.md#local-g110-07e53448ee)
-- [G111 — G111. Accepted c10 licenses a smaller density capacity](records/0171.md#local-g111-70b84ecbc6)
+- [G111 — G111. Accepted c10 licenses a smaller density capacity](records/0172.md#local-g111-70b84ecbc6)
 - [G112 — G112. Coalescence does not lower the independent-defect power cost](records/0172.md#local-g112-576f044b32)
 - [G113 — G113. Actual signed profiles buy logarithms, with exact limits](records/0172.md#local-g113-6c10bbc310)
 - [G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](records/0172.md#local-g114-fec7178ffd)
@@ -200,7 +200,7 @@
 - [G207 — G207: full product, collisions and weighted removal](records/0172.md#local-g207-3c636df55b)
 - [G208 — G208: exact pair mass and a fifth actual row class](records/0172.md#local-g208-e7dcec8556)
 - [G209 — G209. All thirteen collision types and the exact mixed-order source](records/0172.md#local-g209-c243fafc07)
-- [G210 — G210. Unequal energies and all collision-label sums](records/0172.md#local-g210-2b166add49)
+- [G210 — G210. Unequal energies and all collision-label sums](records/0173.md#local-g210-2b166add49)
 - [G211 — G211. Paid cores in the nonunique companion and the retained hard sum](records/0173.md#local-g211-d9305c406e)
 - [G212 — G212. Fixed-family binding and complete row/column lifts](records/0173.md#local-g212-6e2dec84ed)
 - [G213 — G213. Average the true cubic label before counting repetitions](records/0173.md#local-g213-46d38d3f6e)

@@ -140,7 +140,7 @@ Page 1/4; 777 matching records.
 - [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0139.md#local-section-11eb0e49462494399ea90080-bef6786726)
 - [local-section:125e743e7a9a984a4e0ad65e — Direct mathematical changes](../records/0139.md#local-section-125e743e7a9a984a4e0ad65e-3344fc2d67)
 - [local-section:128f5e836582807e35dba347 — \[research revision\]: fixed-source and native-carrier certificates](../records/0139.md#local-section-128f5e836582807e35dba347-3935ce1dca)
-- [local-section:12cf6f9f687cde69aa00de2a — 1. Stop, useful result and limits](../records/0139.md#local-section-12cf6f9f687cde69aa00de2a-b4d394a5da)
+- [local-section:12cf6f9f687cde69aa00de2a — 1. Stop, useful result and limits](../records/0140.md#local-section-12cf6f9f687cde69aa00de2a-b4d394a5da)
 - [local-section:132cdd716b6b97d5dc79a06d — \[research revision\]-S6. A finite signed Gaussian quadrature certificate](../records/0140.md#local-section-132cdd716b6b97d5dc79a06d-e437a2b039)
 - [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0140.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)

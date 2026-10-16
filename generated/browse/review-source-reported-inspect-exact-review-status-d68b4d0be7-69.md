@@ -2,12 +2,13 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 69/71; 17528 matching records.
+Page 69/71; 17529 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_w@474 — remainder_unramifiedClosed_analytic_w](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-unramifi-26f86dad30)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_x@466 — remainder_unramifiedClosed_analytic_x](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-unramifi-7c2734dca2)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_z@483 — remainder_unramifiedClosed_analytic_z](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-unramifi-6af553d90a)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramified_bound@381 — remainder_unramified_bound](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-unramifi-9026a490ee)
@@ -88,7 +89,7 @@ Page 69/71; 17528 matching records.
 - [pr26:Global.Transport.SignalShift::quotient_polynomial_bound@606 — quotient_polynomial_bound](../records/0213.md#pr26-global-transport-signalshift-quotient-polynomial-bound-606-aef986e209)
 - [pr26:Global.Transport.SmallTail — Global.Transport.SmallTail](../records/0213.md#pr26-global-transport-smalltail-1919130b94)
 - [pr26:Global.Transport.SmallTail::small_physical_dyads_sum@692 — small_physical_dyads_sum](../records/0213.md#pr26-global-transport-smalltail-small-physical-dyads-sum-692-3401a8bad7)
-- [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0213.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
+- [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0214.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
 - [pr26:Global.Transport.SourceAmplitudeClasses::actual_source_amplitude_batches@751 — actual_source_amplitude_batches](../records/0214.md#pr26-global-transport-sourceamplitudeclasses-actual-source-amplit-3a83456190)
 - [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0214.md#pr26-global-transport-tailscales-92c528c07f)
 - [pr26:Global.Transport.TailScales::large_source_scale@338 — large_source_scale](../records/0214.md#pr26-global-transport-tailscales-large-source-scale-338-5ba7febf31)
@@ -188,7 +189,7 @@ Page 69/71; 17528 matching records.
 - [pr26:LocalMoment.SixthRowMask::amplified_modulus_mask@787 — amplified_modulus_mask](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-modulus-mask-787-a105cf085c)
 - [pr26:LocalMoment.SixthRowMask::amplified_nonprincipal@795 — amplified_nonprincipal](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-nonprincipal-795-fb96401a27)
 - [pr26:LocalMoment.SixthRowMask::amplified_positive_zeros@802 — amplified_positive_zeros](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-positive-zeros-802-a0256f8a62)
-- [pr26:LocalMoment.SixthRowMask::amplified_zeroMaximum@810 — amplified_zeroMaximum](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-zeromaximum-810-fdb7a6cba2)
+- [pr26:LocalMoment.SixthRowMask::amplified_zeroMaximum@810 — amplified_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-zeromaximum-810-fdb7a6cba2)
 - [pr26:LocalMoment.SixthRowMask::inducedBy_self@777 — inducedBy_self](../records/0215.md#pr26-localmoment-sixthrowmask-inducedby-self-777-df7aca5872)
 - [pr26:LocalMoment.SixthRowMask::rowData_character_zero@727 — rowData_character_zero](../records/0215.md#pr26-localmoment-sixthrowmask-rowdata-character-zero-727-069536c568)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
@@ -257,4 +258,3 @@ Page 69/71; 17528 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh::fixed_high_bound@216 — fixed_high_bound](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh--0c24c8d0a2)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-cb4afd2ddd)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh::actual_high_probe_from_raw_moments@30 — actual_high_probe_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-actua-d47c4635ba)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-f519a72c51)

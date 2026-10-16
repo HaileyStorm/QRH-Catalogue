@@ -56,7 +56,7 @@ Page 1/3; 699 matching records.
 - [local-section:122dce4f1e6a96fc899b46c7 — 6. Source evidence, checks and limits](../records/0139.md#local-section-122dce4f1e6a96fc899b46c7-2b25754875)
 - [local-section:125e743e7a9a984a4e0ad65e — Direct mathematical changes](../records/0139.md#local-section-125e743e7a9a984a4e0ad65e-3344fc2d67)
 - [local-section:12ced22ee2eb3d26b944b729 — 10. Evidence, dependency boundary and handoff](../records/0139.md#local-section-12ced22ee2eb3d26b944b729-d9a7da1c3a)
-- [local-section:12cf6f9f687cde69aa00de2a — 1. Stop, useful result and limits](../records/0139.md#local-section-12cf6f9f687cde69aa00de2a-b4d394a5da)
+- [local-section:12cf6f9f687cde69aa00de2a — 1. Stop, useful result and limits](../records/0140.md#local-section-12cf6f9f687cde69aa00de2a-b4d394a5da)
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0140.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)

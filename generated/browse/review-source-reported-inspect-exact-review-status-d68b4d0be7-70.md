@@ -2,12 +2,13 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 70/71; 17528 matching records.
+Page 70/71; 17529 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-69.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-71.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-f519a72c51)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral::actual_nonfloor_cube_norm@482 — actual_nonfloor_cube_norm](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-a-35adba16fa)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b9b6013520)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::RawMomentInput@630 — RawMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-0aec01540c)
@@ -38,7 +39,7 @@ Page 70/71; 17528 matching records.
 - [pr26:Physical.ActualPacketUniform — Physical.ActualPacketUniform](../records/0215.md#pr26-physical-actualpacketuniform-8c0d9bf670)
 - [pr26:Physical.ActualPacketUniform::actual_label_half_packet_bin_bound_uniform@707 — actual_label_half_packet_bin_bound_uniform](../records/0215.md#pr26-physical-actualpacketuniform-actual-label-half-packet-bin-bo-4cb310bf95)
 - [pr26:Physical.Bins — Physical.Bins](../records/0215.md#pr26-physical-bins-6cebe091b2)
-- [pr26:Physical.Bins::finite_half_mass_bins@519 — finite_half_mass_bins](../records/0215.md#pr26-physical-bins-finite-half-mass-bins-519-8225ee7bbb)
+- [pr26:Physical.Bins::finite_half_mass_bins@519 — finite_half_mass_bins](../records/0216.md#pr26-physical-bins-finite-half-mass-bins-519-8225ee7bbb)
 - [pr26:Physical.Bins::half_mass_dilation_bin@488 — half_mass_dilation_bin](../records/0216.md#pr26-physical-bins-half-mass-dilation-bin-488-07e62e4d76)
 - [pr26:Physical.Capacity — Physical.Capacity](../records/0216.md#pr26-physical-capacity-a722478daf)
 - [pr26:Physical.Capacity::BareWindow@443 — BareWindow](../records/0216.md#pr26-physical-capacity-barewindow-443-1770c466f1)
@@ -138,7 +139,7 @@ Page 70/71; 17528 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::mixed_width_floor_height@765 — mixed_width_floor_height](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-mixed-width-floor-height-898b4ae1a2)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::naturalPlainCharacter@604 — naturalPlainCharacter](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-naturalplaincharacter-60-83f006e4d0)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::restrictLive@642 — restrictLive](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-restrictlive-642-e2e7e0ec7a)
-- [pr26:ZetaZeroFree.Analytic.Moments.Plain::width@633 — width](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-width-633-d29d59b56e)
+- [pr26:ZetaZeroFree.Analytic.Moments.Plain::width@633 — width](../records/0217.md#pr26-zetazerofree-analytic-moments-plain-width-633-d29d59b56e)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::zero_only_floor@802 — zero_only_floor](../records/0217.md#pr26-zetazerofree-analytic-moments-plain-zero-only-floor-802-363aaa2380)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional — ZetaZeroFree.Analytic.Moments.Unconditional](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-1da4349f4f)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::active_span_swap@2654 — active_span_swap](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-active-span-swap-dda682d5f6)
@@ -228,7 +229,7 @@ Page 70/71; 17528 matching records.
 - [review:A12 — \[research revision\]-review:A12](../records/0217.md#review-a12-c73649739f)
 - [review:A13 — \[research revision\]-review:A13](../records/0217.md#review-a13-381097af30)
 - [review:A14 — \[research revision\]-review:A14](../records/0217.md#review-a14-9001c6dd5f)
-- [review:A15 — \[research revision\]-review:A15](../records/0217.md#review-a15-0a087c3e9a)
+- [review:A15 — \[research revision\]-review:A15](../records/0218.md#review-a15-0a087c3e9a)
 - [review:A16 — \[research revision\]-review:A16](../records/0218.md#review-a16-ab76cbf224)
 - [review:A17 — \[research revision\]-review:A17](../records/0218.md#review-a17-39b81947a9)
 - [review:A18 — \[research revision\]-review:A18](../records/0218.md#review-a18-a1368f48cf)
@@ -257,4 +258,3 @@ Page 70/71; 17528 matching records.
 - [reviewed-claim:A14-decimal-and-code-corrections — \[research revision\]-claim:A14-decimal-and-code-corrections](../records/0218.md#reviewed-claim-a14-decimal-and-code-corrections-f9df4999f4)
 - [reviewed-claim:A14-full-probe-certificate — \[research revision\]-claim:A14-full-probe-certificate](../records/0218.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)
 - [reviewed-claim:A14-model-comparisons — \[research revision\]-claim:A14-model-comparisons](../records/0218.md#reviewed-claim-a14-model-comparisons-ccff46b733)
-- [reviewed-claim:A14-saturated-window — \[research revision\]-claim:A14-saturated-window](../records/0218.md#reviewed-claim-a14-saturated-window-8a05a47159)

@@ -29,7 +29,7 @@ Page 4/4; 785 matching records.
 - [local:G188 — G188. A complete periodic-cofactor estimate](../records/0172.md#local-g188-2d645f9293)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
 - [local:G200 — G200. Complete weighted removal and the fourth paid class](../records/0172.md#local-g200-b27f24a369)
-- [local:G210 — G210. Unequal energies and all collision-label sums](../records/0172.md#local-g210-2b166add49)
+- [local:G210 — G210. Unequal energies and all collision-label sums](../records/0173.md#local-g210-2b166add49)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)

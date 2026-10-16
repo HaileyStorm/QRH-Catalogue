@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 28/43; 10581 matching records.
+Page 28/43; 10582 matching records.
 
 [Previous](status-unknown-b23a6a8439-27.md)
 
 [Next](status-unknown-b23a6a8439-29.md)
 
+- [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:005ffa70ffcb900c32b6b3fb — 2.2 Kernel coefficients and convergence](../records/0137.md#local-section-005ffa70ffcb900c32b6b3fb-131266e85a)
 - [local-section:007153fdd87633827fa7b867 — F26.O — Fredholm models with every compensator retained](../records/0137.md#local-section-007153fdd87633827fa7b867-cb95194bc5)
 - [local-section:0072821175a1d346217ebefd — 4. Exact restorations and the author's two estimates](../records/0137.md#local-section-0072821175a1d346217ebefd-ced112c8d2)
@@ -33,7 +34,7 @@ Page 28/43; 10581 matching records.
 - [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0137.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
 - [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0137.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
 - [local-section:023927cbcffae7946e8656a1 — 3. Development16: the entire sign survives in harmonic degree](../records/0137.md#local-section-023927cbcffae7946e8656a1-db88ef8ce0)
-- [local-section:023d430ae4462de4b08a80f5 — 2. The coupled \\(d,a\\) arithmetic and the sixth-power-free moment](../records/0137.md#local-section-023d430ae4462de4b08a80f5-aa1f78fac7)
+- [local-section:023d430ae4462de4b08a80f5 — 2. The coupled \\(d,a\\) arithmetic and the sixth-power-free moment](../records/0138.md#local-section-023d430ae4462de4b08a80f5-aa1f78fac7)
 - [local-section:0251f621a8fa29705274a50f — Independent completion: the criterion is exactly equivalent for this source](../records/0138.md#local-section-0251f621a8fa29705274a50f-c52a706699)
 - [local-section:02533406933dac2e6e5e6148 — 2.3 Exact coincident aliases and their coefficient energy](../records/0138.md#local-section-02533406933dac2e6e5e6148-99fdaf1da3)
 - [local-section:02737fbc96f66ee44e2ff229 — 6. The other three author first tests](../records/0138.md#local-section-02737fbc96f66ee44e2ff229-50911febd1)
@@ -116,7 +117,7 @@ Page 28/43; 10581 matching records.
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
 - [local-section:0af27ac9e2991ae91270a866 — 3. Frozen-dyad Möbius energy](../records/0138.md#local-section-0af27ac9e2991ae91270a866-03f81729bf)
 - [local-section:0b1eb3feadaf3c4af2030dc5 — Two ordinary PNT substitutions with sharp endpoints](../records/0138.md#local-section-0b1eb3feadaf3c4af2030dc5-4788840090)
-- [local-section:0b44e1a37e726abe4e130c58 — Optional explicit completion of the nonmultiplicativity description](../records/0138.md#local-section-0b44e1a37e726abe4e130c58-71d9ef42c4)
+- [local-section:0b44e1a37e726abe4e130c58 — Optional explicit completion of the nonmultiplicativity description](../records/0139.md#local-section-0b44e1a37e726abe4e130c58-71d9ef42c4)
 - [local-section:0b5346c9470894090f22afb7 — 5. Other three selected tests and strongest scope restrictions](../records/0139.md#local-section-0b5346c9470894090f22afb7-e3e70ddc53)
 - [local-section:0b585e298b1fd90b2e9f33d1 — 10. Lean independent checks, limits and handoff](../records/0139.md#local-section-0b585e298b1fd90b2e9f33d1-260fe7b5f0)
 - [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0139.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
@@ -203,7 +204,7 @@ Page 28/43; 10581 matching records.
 - [local-section:128f5e836582807e35dba347 — \[research revision\]: fixed-source and native-carrier certificates](../records/0139.md#local-section-128f5e836582807e35dba347-3935ce1dca)
 - [local-section:12a4c8e1c23e4f229ec80a86 — 6. Other selected first tests: actual scope and ancestry](../records/0139.md#local-section-12a4c8e1c23e4f229ec80a86-293c38ab36)
 - [local-section:12ced22ee2eb3d26b944b729 — 10. Evidence, dependency boundary and handoff](../records/0139.md#local-section-12ced22ee2eb3d26b944b729-d9a7da1c3a)
-- [local-section:12cf6f9f687cde69aa00de2a — 1. Stop, useful result and limits](../records/0139.md#local-section-12cf6f9f687cde69aa00de2a-b4d394a5da)
+- [local-section:12cf6f9f687cde69aa00de2a — 1. Stop, useful result and limits](../records/0140.md#local-section-12cf6f9f687cde69aa00de2a-b4d394a5da)
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0140.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0140.md#local-section-131afc849327a89df717f91e-446c8d89e1)
 - [local-section:132cdd716b6b97d5dc79a06d — \[research revision\]-S6. A finite signed Gaussian quadrature certificate](../records/0140.md#local-section-132cdd716b6b97d5dc79a06d-e437a2b039)
@@ -257,4 +258,3 @@ Page 28/43; 10581 matching records.
 - [local-section:17ce8cb5466b6cc2778913a6 — 2. Retaining only a small correction-prime range](../records/0140.md#local-section-17ce8cb5466b6cc2778913a6-9bcadb5d17)
 - [local-section:17e100c0b57bae70933061ee — 3. Trying a signed repair that annihilates the leading mean](../records/0140.md#local-section-17e100c0b57bae70933061ee-5c2e9295cf)
 - [local-section:17ef2cf7535ec5a24bcab63d — Complete return of this replacement detector](../records/0140.md#local-section-17ef2cf7535ec5a24bcab63d-ecfdf01cd5)
-- [local-section:180fab2ad1ef502f1674b79b — 3. B1–6: actual occupations and the complete unexposed covariance](../records/0140.md#local-section-180fab2ad1ef502f1674b79b-1cd62e0104)

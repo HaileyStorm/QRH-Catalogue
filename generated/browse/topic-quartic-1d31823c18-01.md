@@ -219,7 +219,7 @@ Page 1/2; 393 matching records.
 - [local-section:75c5294af108f521564a4100 — R10. Independent evidence and completion](../records/0152.md#local-section-75c5294af108f521564a4100-7de4ffa95b)
 - [local-section:765e6b729bde2fb49ea9e6d5 — G110. The canonical amplitude-conditioned theorem](../records/0152.md#local-section-765e6b729bde2fb49ea9e6d5-aa23aee358)
 - [local-section:772762922325a550ed1e067c — \[research revision\]: paid detector overlap and consultation library](../records/0152.md#local-section-772762922325a550ed1e067c-b62b2e1a0a)
-- [local-section:7852a5c7a94736af0e539907 — 2. Sources, exact bindings and independent method](../records/0152.md#local-section-7852a5c7a94736af0e539907-f7bea94413)
+- [local-section:7852a5c7a94736af0e539907 — 2. Sources, exact bindings and independent method](../records/0153.md#local-section-7852a5c7a94736af0e539907-f7bea94413)
 - [local-section:7b9854fba26bfd59756586ed — 6. Payment of every nonlocalized witness](../records/0153.md#local-section-7b9854fba26bfd59756586ed-a84b16b8c4)
 - [local-section:7bdfbe31e82bae04b1922b75 — B. Both detectors: the numerator-moving vector and paid transfers](../records/0153.md#local-section-7bdfbe31e82bae04b1922b75-a9e6de04dc)
 - [local-section:7d048f42820fa3a3155594f9 — \[research revision\] independent headroom review: large common factors in the actual Liouville source](../records/0153.md#local-section-7d048f42820fa3a3155594f9-746909971b)

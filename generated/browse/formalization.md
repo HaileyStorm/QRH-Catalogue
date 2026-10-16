@@ -18,6 +18,7 @@
 - [Textual mathematics only. No Lean formalization, typecheck, axiom audit or kernel verification. (27)](formalization-textual-mathematics-only-no-lean-formalization-typecheck-axiom-au-14004c5e42-01.md)
 - [Textual mathematics only. No Lean formalization, typechecking, axiom audit or kernel replay of this component. (13)](formalization-textual-mathematics-only-no-lean-formalization-typechecking-axiom-9df1b63ea5-01.md)
 - [Textual mathematics only. No new Lean formalization, typecheck, axiom audit, kernel verification or end-to-end formalizer-use claim. (12)](formalization-textual-mathematics-only-no-new-lean-formalization-typecheck-axio-054ab9ae60-01.md)
+- [Textual mathematics only. No new Lean formalization, typechecking, axiom audit or kernel replay. (1)](formalization-textual-mathematics-only-no-new-lean-formalization-typechecking-a-e2983c7fc0-01.md)
 - [Textual source review only in this lane; no reviewer build, elaboration, axiom audit or kernel run. Current R7 complete verification remains pending in its pinned status. (1)](formalization-textual-source-review-only-in-this-lane-no-reviewer-build-elabora-3783c50bf9-01.md)
 - [local unchanged-source compilation (1)](formalization-local-unchanged-source-compilation-450bca7d66-01.md)
 - [local unchanged-source compilation and public theorem axiom audit (10)](formalization-local-unchanged-source-compilation-and-public-theorem-axiom-audit-a2dbfaec20-01.md)

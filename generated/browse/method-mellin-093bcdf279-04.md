@@ -177,7 +177,7 @@ Page 4/5; 1071 matching records.
 - [local-section:f2f5a1ac9943f8ad69469358 — \[research revision\]: the whole one-unit-core C--C sector](../records/0168.md#local-section-f2f5a1ac9943f8ad69469358-bb4581f073)
 - [local-section:f33438366b188e3af92b51a7 — R42.8. Other first tests: precise reach](../records/0168.md#local-section-f33438366b188e3af92b51a7-c4db9ed484)
 - [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0168.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
-- [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
+- [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0169.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0169.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
 - [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)

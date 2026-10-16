@@ -198,7 +198,7 @@ Page 7/11; 2702 matching records.
 - [local-section:39fb3b58fd66dea161ed0123 — A5. The stated Eisenstein Hecke family, with fixed-conductor quantifiers](../records/0144.md#local-section-39fb3b58fd66dea161ed0123-2f257a829e)
 - [local-section:3abf528f324b9f992b81cc88 — 10. Exact scalar return, every row range, and feedback](../records/0144.md#local-section-3abf528f324b9f992b81cc88-ff1844eb92)
 - [local-section:3ad71db0f6526520b5a1b17b — G85. Full-scale moment return without the baseline](../records/0144.md#local-section-3ad71db0f6526520b5a1b17b-82f718a205)
-- [local-section:3c00a9634dcb608cf125849f — T01. Quantitative fixed-factor division — PROVED](../records/0144.md#local-section-3c00a9634dcb608cf125849f-cf71ea93ae)
+- [local-section:3c00a9634dcb608cf125849f — T01. Quantitative fixed-factor division — PROVED](../records/0145.md#local-section-3c00a9634dcb608cf125849f-cf71ea93ae)
 - [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0145.md#local-section-3c630827feaaf3da167e9311-b71969935d)
 - [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0145.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
 - [local-section:3cfb55bc6b80c52e40b58b66 — 4. Literal arithmetic returns and their exact limits](../records/0145.md#local-section-3cfb55bc6b80c52e40b58b66-c26433518e)

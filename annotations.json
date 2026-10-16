@@ -1559,6 +1559,73 @@
           "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
         }
       }
+    },
+    "QRH-CONT-R041-ACTUAL-ZERO-WITNESS": {
+      "hypotheses": {
+        "value": {
+          "witness": "Class.lean alone supplies no zero witness. Use SourceCount current/next detector bands and refine its actual batch by fixed label and both dyadic indices. Keep the calibration, nonprincipal and growing lower row conditions.",
+          "prime_adapters": "Conjugate the whole amplitude for the numerator label; denominator labels retain their exact eta-nonunit residual until the eventual fixed-target support threshold; identity-ray labels align directly. Fixed positive slot widths precede the large scale.",
+          "kernel": "Use the exact actual fixed-label natural family including natural zeros and whole conjugation. Positively enlarge the complete component, explicitly removing row-ray restrictions and retaining fixed coprimality. For transfer to the initial source moments, the lowest annular support edge must exceed ALL FixedInducingRow exceptions, including induction from nonprincipal fixed characters; interpreting the older principal-exception wording as literal principal rows alone is insufficient. The fixed row mask remains disjoint from the good relative conductor. See the later source-adapter qualification in043.",
+          "coefficient": "Fixed integer prime-slot copies, actual annuli and profiles, independent heights and all collision multiplicities. The merged coefficient is supported at X=U^s and isO(X^-1/2 U^epsilon); its energy control is quadratic."
+        },
+        "evidence": {
+          "basis": "later-source-applicability-qualification",
+          "source_sha256": "55a7da8877ddaf3e01c2a79502dabf44fa45526f7d4d101e10bf9e6eb6bc16e2",
+          "locator": "043: Source and the corrected enlargement; exact initialKeep and finite sixth-remainder prerequisites.",
+          "qualification": "Preserves the older source bytes and component scope; no endpoint strengthening or new formal replay."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "path": "restricted-source:2ca0031c91be26dc4cc4cb38803ad247f76661919412b50244f5e9f0eebb7ec6",
+            "sha256": "2ca0031c91be26dc4cc4cb38803ad247f76661919412b50244f5e9f0eebb7ec6",
+            "role": "written-source",
+            "locator": "041_ACTUAL_ZERO_WITNESS_INSERTION.md"
+          },
+          {
+            "access": "restricted-source",
+            "path": "restricted-source:d0bd83a01dedc679f03522cf097fd9e9f0aae7b94a89fda7aba31c5d84e2f395",
+            "sha256": "d0bd83a01dedc679f03522cf097fd9e9f0aae7b94a89fda7aba31c5d84e2f395",
+            "role": "written-source",
+            "locator": "042_WEIGHTED_WITNESS_POISSON_RESIDUAL.md"
+          },
+          {
+            "access": "restricted-source",
+            "path": "restricted-source:2d51b597bb160e51e3eb06f839f9870332285cb60b857005ce92540f664e3d21",
+            "sha256": "2d51b597bb160e51e3eb06f839f9870332285cb60b857005ce92540f664e3d21",
+            "role": "supporting-evidence",
+            "locator": "041_042_PRICE_CHECK.json"
+          },
+          {
+            "access": "restricted-source",
+            "path": "restricted-source:05e7bb084c2cd2d06b7a72affbd9fb492ade13d0a392fb4fef0d21b1f93987d0",
+            "sha256": "05e7bb084c2cd2d06b7a72affbd9fb492ade13d0a392fb4fef0d21b1f93987d0",
+            "role": "supporting-evidence",
+            "locator": "020_PR8_JOINT_WITNESS_SECTORS.md"
+          },
+          {
+            "access": "public",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/Count/SourceCount.lean",
+            "role": "source-definition",
+            "locator": "SourceCount26-96; retained baseline DetectorWitnessRows,PrimeRow and label adapters; source identity, not a new formalized moment."
+          },
+          {
+            "access": "restricted-source",
+            "path": "restricted-source:55a7da8877ddaf3e01c2a79502dabf44fa45526f7d4d101e10bf9e6eb6bc16e2",
+            "sha256": "55a7da8877ddaf3e01c2a79502dabf44fa45526f7d4d101e10bf9e6eb6bc16e2",
+            "role": "written-source",
+            "locator": "043_MATCHED_PRIME_SECTORS.md"
+          }
+        ],
+        "evidence": {
+          "basis": "later-source-applicability-qualification",
+          "source_sha256": "55a7da8877ddaf3e01c2a79502dabf44fa45526f7d4d101e10bf9e6eb6bc16e2",
+          "locator": "043: Source and the corrected enlargement; exact initialKeep and finite sixth-remainder prerequisites.",
+          "qualification": "Preserves the older source bytes and component scope; no endpoint strengthening or new formal replay."
+        }
+      }
     }
   },
   "relations": [
