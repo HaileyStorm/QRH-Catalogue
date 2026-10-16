@@ -2,13 +2,14 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 2/5; 1035 matching records.
+Page 2/5; 1036 matching records.
 
 [Previous](method-gram-caa75103c5-01.md)
 
 [Next](method-gram-caa75103c5-03.md)
 
-- [local-section:1ad8f2b0b1a9b894c059b797 — 1. Exact sources and input contract](../records/0140.md#local-section-1ad8f2b0b1a9b894c059b797-e45e9eb796)
+- [local-section:1a7db47d7e33c397f151e227 — F04.N2 — New pass 1: core-frame calibration and exact mark cumulants](../records/0140.md#local-section-1a7db47d7e33c397f151e227-e53cd3c278)
+- [local-section:1ad8f2b0b1a9b894c059b797 — 1. Exact sources and input contract](../records/0141.md#local-section-1ad8f2b0b1a9b894c059b797-e45e9eb796)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
 - [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0141.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
 - [local-section:1bdfe53cd71518fe8898060d — \[research revision\]: adaptive conductor exclusion and an arbitrary-graph transport adapter for native H](../records/0141.md#local-section-1bdfe53cd71518fe8898060d-af87a211fc)
@@ -60,7 +61,7 @@ Page 2/5; 1035 matching records.
 - [local-section:299c73b9570bd450d57ea2ef — \[research revision\] mathematical disposition](../records/0142.md#local-section-299c73b9570bd450d57ea2ef-08509c36b2)
 - [local-section:2abe55fb4893e64aedcc5d02 — Complete60 dispositions](../records/0142.md#local-section-2abe55fb4893e64aedcc5d02-dd7ca13cef)
 - [local-section:2abfb46d5f73bcf224d4fb84 — \[research revision\]: a complete stationary-cofactor estimate and constant inverse cuts](../records/0142.md#local-section-2abfb46d5f73bcf224d4fb84-b011149719)
-- [local-section:2ae2a8fecf9a7400d7c50cec — Gates and raw populations](../records/0142.md#local-section-2ae2a8fecf9a7400d7c50cec-7ce728afac)
+- [local-section:2ae2a8fecf9a7400d7c50cec — Gates and raw populations](../records/0143.md#local-section-2ae2a8fecf9a7400d7c50cec-7ce728afac)
 - [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0143.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
 - [local-section:2b94a1bc9e8bafe2f1071160 — C. Centered Mayer feedback: exact return and a new next-return formula](../records/0143.md#local-section-2b94a1bc9e8bafe2f1071160-fd2aede397)
 - [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0143.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
@@ -101,7 +102,7 @@ Page 2/5; 1035 matching records.
 - [local-section:3932376f7d2c4ae2d4529440 — Early attempt index: Cycles 1–32](../records/0144.md#local-section-3932376f7d2c4ae2d4529440-14e65a854a)
 - [local-section:39af77f1e15a654f20e4cca1 — 7. Complete thirty-card disposition](../records/0144.md#local-section-39af77f1e15a654f20e4cca1-1e2f5257f0)
 - [local-section:3a4e11924797c08f4c3193a5 — 4.2 Actual arithmetic repair attempted; precise surviving inequality](../records/0144.md#local-section-3a4e11924797c08f4c3193a5-7521134046)
-- [local-section:3b52d14c5c53372827ad1cbf — 4. Completed cube-free mean and finite incidence](../records/0144.md#local-section-3b52d14c5c53372827ad1cbf-a5445b4d56)
+- [local-section:3b52d14c5c53372827ad1cbf — 4. Completed cube-free mean and finite incidence](../records/0145.md#local-section-3b52d14c5c53372827ad1cbf-a5445b4d56)
 - [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0145.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
 - [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0145.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
 - [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0145.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
@@ -128,7 +129,7 @@ Page 2/5; 1035 matching records.
 - [local-section:42e7e1066e9f558dbe345d6b — 5. Completed cube-free means, finite incidence and spectral alternatives](../records/0145.md#local-section-42e7e1066e9f558dbe345d6b-d5d40839de)
 - [local-section:42ec260afb4de0d220a146e6 — 1. Outcome and dependency boundary](../records/0145.md#local-section-42ec260afb4de0d220a146e6-e0e94df3f4)
 - [local-section:434fa74bfd0b47fee6401cc8 — 8. Evidence, novelty and remaining work](../records/0145.md#local-section-434fa74bfd0b47fee6401cc8-6f51e07409)
-- [local-section:439265b918b16a7fe651b7f7 — 2. A marked product-interval square function](../records/0145.md#local-section-439265b918b16a7fe651b7f7-26d6274747)
+- [local-section:439265b918b16a7fe651b7f7 — 2. A marked product-interval square function](../records/0146.md#local-section-439265b918b16a7fe651b7f7-26d6274747)
 - [local-section:4500f8e87eb94ecc3a0e2e50 — 3.3 Error budget and surviving arithmetic target](../records/0146.md#local-section-4500f8e87eb94ecc3a0e2e50-1c10f57ad7)
 - [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0146.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
 - [local-section:45503ed983041ecf3a0ef20e — 6. Independent transport and Jacobi derivations](../records/0146.md#local-section-45503ed983041ecf3a0ef20e-e0e38845e5)
@@ -189,9 +190,9 @@ Page 2/5; 1035 matching records.
 - [local-section:58cb1fdf849c85f618b507a2 — \[research revision\]: a changed useful slot window and c3=.125133](../records/0148.md#local-section-58cb1fdf849c85f618b507a2-5a35d069dd)
 - [local-section:58e1cd1dc68599f9f76147f1 — 5. Wildcard02 local result](../records/0148.md#local-section-58e1cd1dc68599f9f76147f1-f7eb620e5f)
 - [local-section:590fb4eb4f00b758afe3738c — Sol03 independent Astra validation](../records/0148.md#local-section-590fb4eb4f00b758afe3738c-15e8217095)
-- [local-section:597764c0d2ac1c60e12bf504 — Available mathematical inputs](../records/0148.md#local-section-597764c0d2ac1c60e12bf504-0f738d17b1)
-- [local-section:597845bf712e75dae268640f — 4. W40: exact limits of positivity and phase routes](../records/0148.md#local-section-597845bf712e75dae268640f-e3258f3ad5)
-- [local-section:598430938ab2786e41f9f185 — 4. Development C: the signed tensor boundary can be retained, but rank is not saving](../records/0148.md#local-section-598430938ab2786e41f9f185-e7eb090be7)
+- [local-section:597764c0d2ac1c60e12bf504 — Available mathematical inputs](../records/0149.md#local-section-597764c0d2ac1c60e12bf504-0f738d17b1)
+- [local-section:597845bf712e75dae268640f — 4. W40: exact limits of positivity and phase routes](../records/0149.md#local-section-597845bf712e75dae268640f-e3258f3ad5)
+- [local-section:598430938ab2786e41f9f185 — 4. Development C: the signed tensor boundary can be retained, but rank is not saving](../records/0149.md#local-section-598430938ab2786e41f9f185-e7eb090be7)
 - [local-section:59c46a9d6abe44d9e7d54b54 — 5. Every error, zero and fixed-inducing contribution](../records/0149.md#local-section-59c46a9d6abe44d9e7d54b54-d9a2556ca2)
 - [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0149.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
 - [local-section:5a5cd36f1291572257b6d6f8 — Finite optimization and interpolation do not pay that residual](../records/0149.md#local-section-5a5cd36f1291572257b6d6f8-c673b2deaa)
@@ -235,7 +236,7 @@ Page 2/5; 1035 matching records.
 - [local-section:66d1b1ecece34cc67cb84f78 — What is newly available](../records/0150.md#local-section-66d1b1ecece34cc67cb84f78-e8cae400f2)
 - [local-section:6758bc116321b7facbd9bd78 — Acceptance and next action](../records/0150.md#local-section-6758bc116321b7facbd9bd78-14c0575366)
 - [local-section:679ed4234c3a4dde75b1872b — Complete local and physical payment](../records/0150.md#local-section-679ed4234c3a4dde75b1872b-fb861f6088)
-- [local-section:684f7977a7851c898ca5fa62 — 8. Complete reopening contract and ancestry](../records/0150.md#local-section-684f7977a7851c898ca5fa62-111bdb8e96)
+- [local-section:684f7977a7851c898ca5fa62 — 8. Complete reopening contract and ancestry](../records/0151.md#local-section-684f7977a7851c898ca5fa62-111bdb8e96)
 - [local-section:687096acc98d6a5a8e4d4097 — 3.5 Complete shell Gram and damping](../records/0151.md#local-section-687096acc98d6a5a8e4d4097-ea8f83aae5)
 - [local-section:68c7c5d7e152382c27e30b9c — 9. Strongest surviving objection and next action](../records/0151.md#local-section-68c7c5d7e152382c27e30b9c-05faf3f046)
 - [local-section:69bda3b4d99195a8bc8e3e00 — 4. Why this changes the live source contract](../records/0151.md#local-section-69bda3b4d99195a8bc8e3e00-cf929e67b4)
@@ -257,4 +258,3 @@ Page 2/5; 1035 matching records.
 - [local-section:6df4a5b5b6ae0559f36b35ce — \[research revision\] independent quartic boundary review](../records/0151.md#local-section-6df4a5b5b6ae0559f36b35ce-f328dd8f3e)
 - [local-section:6eeb63758a27bd29cbaa6b58 — 40. Exact prediction criterion with paid character-source tails](../records/0151.md#local-section-6eeb63758a27bd29cbaa6b58-ea3c063631)
 - [local-section:6f2fb2fb616e153dc73ac8f9 — 18. Moving negative norms and actual-source transport](../records/0151.md#local-section-6f2fb2fb616e153dc73ac8f9-57d56b3ba0)
-- [local-section:6f59920d1afe94c8385dac2f — 5. All-card final dispositions](../records/0151.md#local-section-6f59920d1afe94c8385dac2f-abc91afe0c)

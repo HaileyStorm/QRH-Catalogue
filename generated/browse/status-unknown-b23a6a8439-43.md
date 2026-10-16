@@ -2,10 +2,16 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 43/43; 10586 matching records.
+Page 43/43; 10592 matching records.
 
 [Previous](status-unknown-b23a6a8439-42.md)
 
+- [pr26:LocalMoment.LowSourceAdapters — LocalMoment.LowSourceAdapters](../records/0214.md#pr26-localmoment-lowsourceadapters-7f82efd750)
+- [pr26:LocalMoment.PlainUnmarkedAdapter — LocalMoment.PlainUnmarkedAdapter](../records/0214.md#pr26-localmoment-plainunmarkedadapter-45e8ad938c)
+- [pr26:LocalMoment.RawSixthDensity — LocalMoment.RawSixthDensity](../records/0214.md#pr26-localmoment-rawsixthdensity-2b171d01ee)
+- [pr26:LocalMoment.RestrictedIncumbent — LocalMoment.RestrictedIncumbent](../records/0214.md#pr26-localmoment-restrictedincumbent-8120af33f8)
+- [pr26:LocalMoment.SignedRows — LocalMoment.SignedRows](../records/0214.md#pr26-localmoment-signedrows-ccfde4dd0e)
+- [pr26:LocalMoment.SixthRowMask — LocalMoment.SixthRowMask](../records/0215.md#pr26-localmoment-sixthrowmask-8e7538badc)
 - [pr26:LocalMoment.UniformDensity — LocalMoment.UniformDensity](../records/0215.md#pr26-localmoment-uniformdensity-025aabe80f)
 - [pr26:LocalMoment.UnmarkedBatch — LocalMoment.UnmarkedBatch](../records/0215.md#pr26-localmoment-unmarkedbatch-de06e24cad)
 - [pr26:LocalMoment.UnmarkedDensity — LocalMoment.UnmarkedDensity](../records/0215.md#pr26-localmoment-unmarkeddensity-847ac55e6e)
@@ -23,9 +29,9 @@ Page 43/43; 10586 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount — OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-7148d87ff2)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence — OAI.NumberTheory.DirichletL.Energy.CertifiedExistence](../records/0215.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-f682546246)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
 - [pr26:Physical.ActualPacketUniform — Physical.ActualPacketUniform](../records/0216.md#pr26-physical-actualpacketuniform-8c0d9bf670)
 - [pr26:Physical.Bins — Physical.Bins](../records/0216.md#pr26-physical-bins-6cebe091b2)
 - [pr26:Physical.Capacity — Physical.Capacity](../records/0216.md#pr26-physical-capacity-a722478daf)

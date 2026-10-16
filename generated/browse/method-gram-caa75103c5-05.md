@@ -2,14 +2,15 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1035 matching records.
+Page 5/5; 1036 matching records.
 
 [Previous](method-gram-caa75103c5-04.md)
 
+- [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0173.md#local-g274-fbf5ea7910)
 - [local:G288 — G288. Finite Euler deletion with explicit divisor-tail and profile budgets](../records/0173.md#local-g288-7313aece03)
 - [local:G289 — G289. Adaptive ordinary Laplace Gram residual and complete primitive-ratio reduction](../records/0173.md#local-g289-5edc57e94d)
 - [local:G297 — G297. Asymmetric continuous Gram with a paid diagonal and unpaid transition](../records/0173.md#local-g297-9211aa135c)
-- [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
+- [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0174.md#local-g3-c51dd6c4a6)
 - [local:G73 — \[research revision\] attempt delta (G73)](../records/0174.md#local-g73-076e11ffdb)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0174.md#local-g75-1359afa204)
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0174.md#local-g77-f75acc7bc5)
@@ -23,12 +24,12 @@ Page 5/5; 1035 matching records.
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0174.md#local-t07-90600e73b5)
 - [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0174.md#local-t08-2d79a03ea8)
 - [pr26:Cycle25.Assembly.Parameters::gram_domination@213 — gram_domination](../records/0198.md#pr26-cycle25-assembly-parameters-gram-domination-213-a99b058c13)
-- [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0204.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
+- [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0205.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
 - [pr26:Global.Low.Detector.LowGramScale — Global.Low.Detector.LowGramScale](../records/0207.md#pr26-global-low-detector-lowgramscale-7dc6d62852)
 - [pr26:Global.Low.Detector.LowGramScale::compensated_gram_ratio@155 — compensated_gram_ratio](../records/0207.md#pr26-global-low-detector-lowgramscale-compensated-gram-ratio-155-6fa6f0f90a)
 - [pr26:Global.Low.Detector.LowGramScale::compensated_gram_scale_bound@159 — compensated_gram_scale_bound](../records/0207.md#pr26-global-low-detector-lowgramscale-compensated-gram-scale-boun-1ab072fd6c)
-- [pr26:Global.Low.Detector.LowGramScale::source_gram_power@184 — source_gram_power](../records/0207.md#pr26-global-low-detector-lowgramscale-source-gram-power-184-1d10911e16)
-- [pr26:Global.Low.Detector.LowGramScale::source_gram_sqrt_power@191 — source_gram_sqrt_power](../records/0207.md#pr26-global-low-detector-lowgramscale-source-gram-sqrt-power-191-e18c314a28)
+- [pr26:Global.Low.Detector.LowGramScale::source_gram_power@184 — source_gram_power](../records/0208.md#pr26-global-low-detector-lowgramscale-source-gram-power-184-1d10911e16)
+- [pr26:Global.Low.Detector.LowGramScale::source_gram_sqrt_power@191 — source_gram_sqrt_power](../records/0208.md#pr26-global-low-detector-lowgramscale-source-gram-sqrt-power-191-e18c314a28)
 - [pr26:Global.Low.Detector.LowSourceScales::eventually_compensated_source_scales@102 — eventually_compensated_source_scales](../records/0208.md#pr26-global-low-detector-lowsourcescales-eventually-compensated-s-b2b282b2dd)
 - [pr26:Global.Low.Detector.LowSourceScales::lowGramFactor_source_bound@95 — lowGramFactor_source_bound](../records/0208.md#pr26-global-low-detector-lowsourcescales-lowgramfactor-source-bou-0da73d1902)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_scale@61 — source_compensated_gram_scale](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--963154156f)

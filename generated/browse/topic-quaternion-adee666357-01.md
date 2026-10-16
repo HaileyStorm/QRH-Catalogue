@@ -27,7 +27,7 @@ Page 1/1; 54 matching records.
 - [local-section:5b0fa0440f6d541d8f4e6a48 — User-directed quaternion norm intake (\[research revision\] amendment)](../records/0149.md#local-section-5b0fa0440f6d541d8f4e6a48-d8c1534226)
 - [local-section:5da736c5f459fdea2b79a8f8 — Frozen evidence and independence](../records/0149.md#local-section-5da736c5f459fdea2b79a8f8-827b485fbc)
 - [local-section:5f983b2df70089500e82512d — 1. Literal source and quaternion conventions](../records/0149.md#local-section-5f983b2df70089500e82512d-1d78fd1146)
-- [local-section:67fddbf8073f77f9de3fc5cc — Source credit, evidence limits and disposition](../records/0150.md#local-section-67fddbf8073f77f9de3fc5cc-054bce6efe)
+- [local-section:67fddbf8073f77f9de3fc5cc — Source credit, evidence limits and disposition](../records/0151.md#local-section-67fddbf8073f77f9de3fc5cc-054bce6efe)
 - [local-section:6a4af2ba62429a9968ac7888 — 71. Genuine cofactor signals and their complete price](../records/0151.md#local-section-6a4af2ba62429a9968ac7888-4c226f7c62)
 - [local-section:6b30f55205413d4675d8f60c — Immutable initial seeds: post52-sol-high-02-\[research revision\]](../records/0151.md#local-section-6b30f55205413d4675d8f60c-bcfc7b3c53)
 - [local-section:6c4de7da8e9f71d011086f71 — 3. A dimension-four obstruction on the ACTUAL Jordan middle](../records/0151.md#local-section-6c4de7da8e9f71d011086f71-dc87567205)

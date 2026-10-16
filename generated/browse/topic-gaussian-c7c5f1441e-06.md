@@ -2,10 +2,12 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 6/6; 1280 matching records.
+Page 6/6; 1282 matching records.
 
 [Previous](topic-gaussian-c7c5f1441e-05.md)
 
+- [pr26:Analytic.JointFirstIndependentErrors::actual_first_independent_extracted_errors@93 — actual_first_independent_extracted_errors](../records/0182.md#pr26-analytic-jointfirstindependenterrors-actual-first-independen-00c2691e2c)
+- [pr26:Analytic.JointFirstIndependentErrorsFull::actual_first_independent_extracted_errors_full@447 — actual_first_independent_extracted_errors_full](../records/0182.md#pr26-analytic-jointfirstindependenterrorsfull-actual-first-indepe-773d600b42)
 - [pr26:Analytic.JointFirstRawErrors::actual_first_independent_raw_errors@104 — actual_first_independent_raw_errors](../records/0183.md#pr26-analytic-jointfirstrawerrors-actual-first-independent-raw-er-2afc50d3db)
 - [pr26:Analytic.JointFirstRawErrorsFull::actual_first_independent_raw_errors_full@1061 — actual_first_independent_raw_errors_full](../records/0183.md#pr26-analytic-jointfirstrawerrorsfull-actual-first-independent-ra-c3c1889067)
 - [pr26:Analytic.JointLocalErrorParameters::error_local_parameters@27 — error_local_parameters](../records/0187.md#pr26-analytic-jointlocalerrorparameters-error-local-parameters-27-06d94e4aca)
@@ -30,8 +32,8 @@ Page 6/6; 1280 matching records.
 - [pr26:Global.Transport.PrincipalRemainderTransport::verticalIntegral_eq_of_shifted_gaussian@189 — verticalIntegral_eq_of_shifted_gaussian](../records/0213.md#pr26-global-transport-principalremaindertransport-verticalintegra-0c9d3bf774)
 - [pr26:Global.Transport.PrincipalSignal::kernel_norm_bound@1014 — kernel_norm_bound](../records/0213.md#pr26-global-transport-principalsignal-kernel-norm-bound-1014-c73005f05f)
 - [pr26:Global.Transport.PrincipalSignal::slotResidue_eq_reciprocal@986 — slotResidue_eq_reciprocal](../records/0213.md#pr26-global-transport-principalsignal-slotresidue-eq-reciprocal-9-6784292a95)
-- [pr26:Global.Transport.SignalShift::contour_shift_left@624 — contour_shift_left](../records/0213.md#pr26-global-transport-signalshift-contour-shift-left-624-b716423a98)
-- [pr26:Global.Transport.SignalShift::contour_shift_left_bound@659 — contour_shift_left_bound](../records/0213.md#pr26-global-transport-signalshift-contour-shift-left-bound-659-a3269176ec)
+- [pr26:Global.Transport.SignalShift::contour_shift_left@624 — contour_shift_left](../records/0214.md#pr26-global-transport-signalshift-contour-shift-left-624-b716423a98)
+- [pr26:Global.Transport.SignalShift::contour_shift_left_bound@659 — contour_shift_left_bound](../records/0214.md#pr26-global-transport-signalshift-contour-shift-left-bound-659-a3269176ec)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_gaussian_from_bands@6579 — actual_error_gaussian_from_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-gau-eb03b2f40d)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_smaller_gaussian@6935 — actual_error_smaller_gaussian](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-sma-d45ff3eb42)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_gaussian_from_bands@4317 — actual_main_gaussian_from_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-gaus-256e15a1c6)

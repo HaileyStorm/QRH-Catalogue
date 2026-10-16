@@ -10,7 +10,7 @@ Page 1/1; 24 matching records.
 - [local:F02.2 — F02.2 — Two-large-prime short-cofactor or product r=mk dispersion with exact divisor fibres; merge unequal cutoffs only when they shorten a live cofactor](../records/0170.md#local-f02-2-8f182b62ed)
 - [local:F03.I — F03.I — Older infinite forced-divisor sparse p⁴ trace retains its own summability and η-to-c formula](../records/0170.md#local-f03-i-980aab66d3)
 - [local:F03.Z — F03.Z — Positive row series or anisotropic a,b series (physical specialization v=2u), with full common-core factor and unit neutrality](../records/0170.md#local-f03-z-1760b49674)
-- [local:F05.R — F05.R — Penalize costly residual modes with principal calibration instead of assuming exact orthogonality](../records/0170.md#local-f05-r-384251b06a)
+- [local:F05.R — F05.R — Penalize costly residual modes with principal calibration instead of assuming exact orthogonality](../records/0171.md#local-f05-r-384251b06a)
 - [local:F06.H — F06.H — Uniform fixed-radius height-area means imply pointwise means by subharmonicity; global weighted-height averages need their own complete contour transfer](../records/0171.md#local-f06-h-d5882764e8)
 - [local:F09.A — F09.A — Full A-dependent physical/numerator Gram under nonzero principal constraint](../records/0171.md#local-f09-a-a23c6af251)
 - [local:F10.G — F10.G — A successful asymptotic beyondK=D needs a new transfer with new polar accounting; alternative two-sided/strip detector is legitimate if it has complete coverage](../records/0171.md#local-f10-g-5db7ed08be)

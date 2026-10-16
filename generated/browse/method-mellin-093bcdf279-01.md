@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1071 matching records.
+Page 1/5; 1072 matching records.
 
 [Next](method-mellin-093bcdf279-02.md)
 
@@ -167,6 +167,7 @@ Page 1/5; 1071 matching records.
 - [QRH-CONT-R018-FIXED-LATTICE-KERNEL — Complete fixed lattice-kernel representation retaining the ordinary outer sum](../records/0131.md#qrh-cont-r018-fixed-lattice-kernel-eb86d046f3)
 - [QRH-CONT-R019-SMALL-PRIME-NORM-PRICE — Exact small-prime pairing and the cost of separately norming its two kernels](../records/0131.md#qrh-cont-r019-small-prime-norm-price-27e946249f)
 - [QRH-CONT-R023-THETA-PROFILE-FILTER — Whole theta-profile filters cancel reflected gamma poles while preserving the reciprocal signal](../records/0131.md#qrh-cont-r023-theta-profile-filter-81078fc068)
+- [QRH-CONT-R054-TWO-RESIDUE-POLARIZATION — Complete gcd Euler residues and a polarized annihilator](../records/0131.md#qrh-cont-r054-two-residue-polarization-187bb7a866)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
@@ -174,9 +175,9 @@ Page 1/5; 1071 matching records.
 - [local-section:00faa049bebb2f9a1ffc62c7 — A3. Complete return and the actual scale budget](../records/0137.md#local-section-00faa049bebb2f9a1ffc62c7-26593bc731)
 - [local-section:011b7c594b5a4224c3ba5b33 — G84. Exact moment and genuine paid sectors](../records/0137.md#local-section-011b7c594b5a4224c3ba5b33-0e053adbcd)
 - [local-section:019b7e6748c560d9641ef714 — 10. Uniformity, tails and independent checks](../records/0137.md#local-section-019b7e6748c560d9641ef714-fd36a2c932)
-- [local-section:01bfba49ac56606caa99ee2b — Late independent review: signed integer renewal and the friable mean](../records/0137.md#local-section-01bfba49ac56606caa99ee2b-366fc79b7c)
-- [local-section:01d4f25f9b6a2d9df8b7027e — 2.3 A paid transport repair with a complete Mellin return](../records/0137.md#local-section-01d4f25f9b6a2d9df8b7027e-3730649dd2)
-- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
+- [local-section:01bfba49ac56606caa99ee2b — Late independent review: signed integer renewal and the friable mean](../records/0138.md#local-section-01bfba49ac56606caa99ee2b-366fc79b7c)
+- [local-section:01d4f25f9b6a2d9df8b7027e — 2.3 A paid transport repair with a complete Mellin return](../records/0138.md#local-section-01d4f25f9b6a2d9df8b7027e-3730649dd2)
+- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0138.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0138.md#local-section-021601cba1a0a08525590f22-7adbe75144)
 - [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0138.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
 - [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0138.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
@@ -201,8 +202,8 @@ Page 1/5; 1071 matching records.
 - [local-section:082a1b7df2eec46561fe4c43 — \[research revision\]: native translation costs and a fixed-source renewal obstruction](../records/0138.md#local-section-082a1b7df2eec46561fe4c43-c5fa414a34)
 - [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
 - [local-section:09e81877dd91cdfd6a1ba02a — T09b. Compact-profile triple-convolution criterion](../records/0138.md#local-section-09e81877dd91cdfd6a1ba02a-c691afa5ab)
-- [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0138.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)
-- [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0138.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
+- [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0139.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)
+- [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0139.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0139.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
 - [local-section:0af27ac9e2991ae91270a866 — 3. Frozen-dyad Möbius energy](../records/0139.md#local-section-0af27ac9e2991ae91270a866-03f81729bf)
 - [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0139.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
@@ -226,7 +227,7 @@ Page 1/5; 1071 matching records.
 - [local-section:11aed782bac35ff6dd5212da — W40 — signed boundary budgets, the cost of positivity, and long projector cycles](../records/0139.md#local-section-11aed782bac35ff6dd5212da-7c09a722f8)
 - [local-section:11c4828e2ec3f8dad4ba9861 — G184. Ambient lower prices and fixed-phase compatibility](../records/0139.md#local-section-11c4828e2ec3f8dad4ba9861-73e122915c)
 - [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0139.md#local-section-11eb0e49462494399ea90080-bef6786726)
-- [local-section:120afe3f057270e2275d23a0 — \[research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0139.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
+- [local-section:120afe3f057270e2275d23a0 — \[research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0140.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
 - [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0140.md#local-section-131afc849327a89df717f91e-446c8d89e1)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
@@ -244,7 +245,7 @@ Page 1/5; 1071 matching records.
 - [local-section:17ce8cb5466b6cc2778913a6 — 2. Retaining only a small correction-prime range](../records/0140.md#local-section-17ce8cb5466b6cc2778913a6-9bcadb5d17)
 - [local-section:180fab2ad1ef502f1674b79b — 3. B1–6: actual occupations and the complete unexposed covariance](../records/0140.md#local-section-180fab2ad1ef502f1674b79b-1cd62e0104)
 - [local-section:188f727ef48f3746e5e233bf — Ordinary-character zero return and concrete high ceilings](../records/0140.md#local-section-188f727ef48f3746e5e233bf-3f96b53ef7)
-- [local-section:1b20144f9569a63a8471358a — \[research revision\] direct joint-window lane: current worklog](../records/0140.md#local-section-1b20144f9569a63a8471358a-a2df10011d)
+- [local-section:1b20144f9569a63a8471358a — \[research revision\] direct joint-window lane: current worklog](../records/0141.md#local-section-1b20144f9569a63a8471358a-a2df10011d)
 - [local-section:1b2c37044f6c187533d54aeb — Fixed-ray squarefree selector estimate](../records/0141.md#local-section-1b2c37044f6c187533d54aeb-6fc8bee1b3)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
 - [local-section:1bd331aed29fd53493b503f4 — 10. Geometric and operator fronts, retained with quantitative gates](../records/0141.md#local-section-1bd331aed29fd53493b503f4-00335f5ee6)
@@ -255,4 +256,3 @@ Page 1/5; 1071 matching records.
 - [local-section:1d890316dcea59e5e2367fc1 — Group2: free invention](../records/0141.md#local-section-1d890316dcea59e5e2367fc1-be2b0a44dd)
 - [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0141.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
 - [local-section:1e1a87e63bdfc925783b9371 — 1. Frozen exploration, source contact and six tests](../records/0141.md#local-section-1e1a87e63bdfc925783b9371-58d6f13dd9)
-- [local-section:1e1dbff162c029be9f0632cb — 4. Full row conductor and a general summation lemma](../records/0141.md#local-section-1e1dbff162c029be9f0632cb-ba229c7981)

@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1071 matching records.
+Page 5/5; 1072 matching records.
 
 [Previous](method-mellin-093bcdf279-04.md)
 
+- [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0173.md#local-g229-8b209e3b2b)
 - [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0173.md#local-g237-a65c76e5f8)
 - [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0173.md#local-g242-d89bd23acd)
 - [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0173.md#local-g244-a12ada8918)
@@ -21,7 +22,7 @@ Page 5/5; 1071 matching records.
 - [local:G276 — G276. Consecutive Mellin companions without a common zero](../records/0173.md#local-g276-4cb20dad30)
 - [local:G279 — G279. Ordinary-character weighted approximation with full tail and height price](../records/0173.md#local-g279-e4f51ee2de)
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
-- [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0173.md#local-g301-26a5fe5643)
+- [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0174.md#local-g301-26a5fe5643)
 - [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0174.md#local-g310-39134eeca1)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)

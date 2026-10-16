@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1280 matching records.
+Page 1/6; 1282 matching records.
 
 [Next](topic-gaussian-c7c5f1441e-02.md)
 
@@ -218,6 +218,8 @@ Page 1/6; 1280 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Poisson.GaussianMoments — OAI.NumberTheory.DirichletL.Poisson.GaussianMoments](../records/0122.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-poisson-gaussianmom-bf1f9d91fe)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Poisson.OscillatoryGaussian — OAI.NumberTheory.DirichletL.Poisson.OscillatoryGaussian](../records/0123.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-poisson-oscillatory-73f21407db)
 - [P7-19 — Low-branch energy loss paid with genuine positive budget](../records/0130.md#p7-19-0a7177927a)
+- [QRH-CONT-R059-WRONSKIAN-CONVOLUTION — Two-probe Wronskian, full convolution and heat indicator test](../records/0131.md#qrh-cont-r059-wronskian-convolution-dee50e3cdc)
+- [QRH-CONT-R062-INDEPENDENT-PROFILE-PAIR — Independent profile pair and a qualified radial volume model](../records/0131.md#qrh-cont-r062-independent-profile-pair-3badad429b)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
 - [local-section:00ea71460e30bc5f16dcecab — C: actual rough-prime zero law](../records/0137.md#local-section-00ea71460e30bc5f16dcecab-9b7e16ecaa)
@@ -225,7 +227,7 @@ Page 1/6; 1280 matching records.
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:011b7c594b5a4224c3ba5b33 — G84. Exact moment and genuine paid sectors](../records/0137.md#local-section-011b7c594b5a4224c3ba5b33-0e053adbcd)
 - [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0137.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
-- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
+- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0138.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0138.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
 - [local-section:023927cbcffae7946e8656a1 — 3. Development16: the entire sign survives in harmonic degree](../records/0138.md#local-section-023927cbcffae7946e8656a1-db88ef8ce0)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
@@ -254,5 +256,3 @@ Page 1/6; 1280 matching records.
 - [local-section:0991c82dc8d1b52a63041c6d — 1. Decision, statement, and evidence class](../records/0138.md#local-section-0991c82dc8d1b52a63041c6d-43292b5ae8)
 - [local-section:09b87f6feae42843b01e5124 — 6. The complementary analytic term is really small](../records/0138.md#local-section-09b87f6feae42843b01e5124-0345f33c57)
 - [local-section:09cdb40378feaa9728bbde5e — G228. The sharp depth of a low-omega-completed inverse column](../records/0138.md#local-section-09cdb40378feaa9728bbde5e-e853a5ed2c)
-- [local-section:0a11b104b84939bb28ff2e91 — 6. Signed Taylor completion; proof of the negative main term](../records/0138.md#local-section-0a11b104b84939bb28ff2e91-b39ab85ad1)
-- [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0138.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)

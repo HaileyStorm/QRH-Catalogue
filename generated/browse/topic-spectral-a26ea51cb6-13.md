@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3035 matching records.
+Page 13/13; 3036 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
+- [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::common_probe_of_raw_moments@593 — common_probe_of_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-common-pr-7a34dce64f)
@@ -17,8 +18,8 @@ Page 13/13; 3035 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::raw_input_chosen_height@652 — raw_input_chosen_height](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-d5722251b7)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::certified_bands@37 — certified_bands](../records/0215.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-certif-507811c872)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::terminal_certificate@58 — terminal_certificate](../records/0215.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-termin-dc9360dea4)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport::actual_nonfloor_probe_transport@299 — actual_nonfloor_probe_transport](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-actu-e2db3e405e)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport::actual_nonfloor_probe_transport@299 — actual_nonfloor_probe_transport](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-actu-e2db3e405e)
 - [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0216.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0216.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0216.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)

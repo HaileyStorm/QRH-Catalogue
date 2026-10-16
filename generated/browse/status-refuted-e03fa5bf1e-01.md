@@ -12,7 +12,7 @@ Page 1/1; 18 matching records.
 - [local-section:dc09eb6f1168dc63e1c2d244 — 5. Counterexample B: inverse packets, actual integer realization and scope](../records/0166.md#local-section-dc09eb6f1168dc63e1c2d244-e02c4fdd36)
 - [local-section:fd9993a3640f63a00fe4f98a — 7. A fixed coefficient counterexample strengthens the diagnosis](../records/0170.md#local-section-fd9993a3640f63a00fe4f98a-a8149863ac)
 - [local:F02.X — F02.X — Compensating prime coefficients principalize the character; even individual P^(5/6) followed by absolute summation loses](../records/0170.md#local-f02-x-af12645de9)
-- [local:F04.X — F04.X — AB16 alone gives no global saving; valuation-six terms are order one](../records/0170.md#local-f04-x-32a8c72417)
+- [local:F04.X — F04.X — AB16 alone gives no global saving; valuation-six terms are order one](../records/0171.md#local-f04-x-32a8c72417)
 - [local:F07.X — F07.X — Gemini χ_n(p²)=χ_n(−1)e_n(−4p)J_n(8p): RHS is S(1,4p²;n); n5,p2 gives(3−√5)/2≠1](../records/0171.md#local-f07-x-a61e34b751)
 - [local:F13.X — F13.X — Cubic row character on squares remains cubic, generally nonprincipal; termwise quadratic-to-radial reconstruction costs conductor](../records/0171.md#local-f13-x-5454e44e14)
 - [local:F18.X — F18.X — Arithmetic row labels are not zeta ordinates; good-row density does not imply all-height exclusion](../records/0171.md#local-f18-x-33f94e9261)

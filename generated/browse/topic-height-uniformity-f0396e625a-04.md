@@ -8,7 +8,7 @@ Page 4/4; 812 matching records.
 
 - [local:F18.X — F18.X — Arithmetic row labels are not zeta ordinates; good-row density does not imply all-height exclusion](../records/0171.md#local-f18-x-33f94e9261)
 - [local:F22.P — F22.P — Nonnegative band bump≥1 and Poincaré–Lelong pairing\<1](../records/0171.md#local-f22-p-6dfabc8aa6)
-- [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0171.md#local-g106-3b75d799b8)
+- [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0172.md#local-g106-3b75d799b8)
 - [local:G111 — G111. Accepted c10 licenses a smaller density capacity](../records/0172.md#local-g111-70b84ecbc6)
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0172.md#local-g114-fec7178ffd)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)

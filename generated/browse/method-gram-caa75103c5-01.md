@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1035 matching records.
+Page 1/5; 1036 matching records.
 
 [Next](method-gram-caa75103c5-02.md)
 
@@ -187,9 +187,10 @@ Page 1/5; 1035 matching records.
 - [QRH-CONT-M012-VAUGHAN — Critical centered Vaughan inverse-square saving with exact joint residual](../records/0131.md#qrh-cont-m012-vaughan-abb162e058)
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
 - [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
+- [QRH-CONT-R062-INDEPENDENT-PROFILE-PAIR — Independent profile pair and a qualified radial volume model](../records/0131.md#qrh-cont-r062-independent-profile-pair-3badad429b)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
-- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
+- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0138.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0138.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
 - [local-section:02fdbca0f365e58ad52a1d8a — 8. Evidence and freeze](../records/0138.md#local-section-02fdbca0f365e58ad52a1d8a-1b01d99df1)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
@@ -234,8 +235,8 @@ Page 1/5; 1035 matching records.
 - [local-section:118963bd238118ae6080faa5 — Remaining arithmetic and potential](../records/0139.md#local-section-118963bd238118ae6080faa5-aea794362b)
 - [local-section:11aed782bac35ff6dd5212da — W40 — signed boundary budgets, the cost of positivity, and long projector cycles](../records/0139.md#local-section-11aed782bac35ff6dd5212da-7c09a722f8)
 - [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0139.md#local-section-11eb0e49462494399ea90080-bef6786726)
-- [local-section:125cf6975592de403015d01e — Current checkpoint](../records/0139.md#local-section-125cf6975592de403015d01e-cb89ad1e54)
-- [local-section:125e743e7a9a984a4e0ad65e — Direct mathematical changes](../records/0139.md#local-section-125e743e7a9a984a4e0ad65e-3344fc2d67)
+- [local-section:125cf6975592de403015d01e — Current checkpoint](../records/0140.md#local-section-125cf6975592de403015d01e-cb89ad1e54)
+- [local-section:125e743e7a9a984a4e0ad65e — Direct mathematical changes](../records/0140.md#local-section-125e743e7a9a984a4e0ad65e-3344fc2d67)
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0140.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0140.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
@@ -255,4 +256,3 @@ Page 1/5; 1035 matching records.
 - [local-section:1974e8f2846df66697104629 — 27. Actual arithmetic dilations and their complete reconstruction cost](../records/0140.md#local-section-1974e8f2846df66697104629-723777c4e6)
 - [local-section:19b1dd180e962311d1d676ff — 11. Two additional brainstorming passes: what was actually added](../records/0140.md#local-section-19b1dd180e962311d1d676ff-a655849e5b)
 - [local-section:19b88181709ca0278b59e6d0 — Quantitative gate index](../records/0140.md#local-section-19b88181709ca0278b59e6d0-8524d45372)
-- [local-section:1a7db47d7e33c397f151e227 — F04.N2 — New pass 1: core-frame calibration and exact mark cumulants](../records/0140.md#local-section-1a7db47d7e33c397f151e227-e53cd3c278)

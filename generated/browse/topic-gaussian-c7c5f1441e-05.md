@@ -2,12 +2,14 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 5/6; 1280 matching records.
+Page 5/6; 1282 matching records.
 
 [Previous](topic-gaussian-c7c5f1441e-04.md)
 
 [Next](topic-gaussian-c7c5f1441e-06.md)
 
+- [local-section:cc55a55277b297cfab4de4ea — 8. Retained alternatives and next action](../records/0164.md#local-section-cc55a55277b297cfab4de4ea-1171d7ba80)
+- [local-section:cc955c34ab85b58f7761dffa — 17. Complete source projections, smooth collars and blocks](../records/0164.md#local-section-cc955c34ab85b58f7761dffa-f7c09b6757)
 - [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:cce6349d90284b9d579c007f — 2. Forward smoothing survives forming the phase family](../records/0164.md#local-section-cce6349d90284b9d579c007f-444ab690ef)
 - [local-section:ce79ff125cae419586b8e902 — Independent recovery review of the partial \[research revision\] signed-core packet](../records/0164.md#local-section-ce79ff125cae419586b8e902-e77e328799)
@@ -28,8 +30,8 @@ Page 5/6; 1280 matching records.
 - [local-section:d27b33e1112c76f337310720 — 8. Evidence, dependency limits and handoff](../records/0164.md#local-section-d27b33e1112c76f337310720-e783e49d37)
 - [local-section:d2d277427d32d0b880f62317 — 3.1 Green comparison and the loss](../records/0164.md#local-section-d2d277427d32d0b880f62317-8124de2b97)
 - [local-section:d2ebcbef7cd9fa14ec9f4759 — 4.2 Complete Mellin scalar and height tails](../records/0164.md#local-section-d2ebcbef7cd9fa14ec9f4759-fd35285902)
-- [local-section:d39eb1035d42b6c1d4a063dd — 9. External claims, novelty and evidence limits](../records/0164.md#local-section-d39eb1035d42b6c1d4a063dd-795c269494)
-- [local-section:d3bd6b441bb1553b12d5cd9e — D02.2 Absolute coefficient and inverse budgets](../records/0164.md#local-section-d3bd6b441bb1553b12d5cd9e-0544c387c1)
+- [local-section:d39eb1035d42b6c1d4a063dd — 9. External claims, novelty and evidence limits](../records/0165.md#local-section-d39eb1035d42b6c1d4a063dd-795c269494)
+- [local-section:d3bd6b441bb1553b12d5cd9e — D02.2 Absolute coefficient and inverse budgets](../records/0165.md#local-section-d3bd6b441bb1553b12d5cd9e-0544c387c1)
 - [local-section:d3f4d0c05dbec25618e7c17b — 5. R1–8 and wildcard02: exact failure scope](../records/0165.md#local-section-d3f4d0c05dbec25618e7c17b-e7ff4d62fd)
 - [local-section:d40c13cf5e0e758f99cc1549 — W66 independent review: affordable inversion, paid critical cutoff, open arithmetic](../records/0165.md#local-section-d40c13cf5e0e758f99cc1549-511479cc40)
 - [local-section:d4c40e516dedc1f5e1c2988c — 2.5 Positivity and the complete band to a terminal threshold](../records/0165.md#local-section-d4c40e516dedc1f5e1c2988c-6315f42b41)
@@ -59,7 +61,7 @@ Page 5/6; 1280 matching records.
 - [local-section:d98e90254e429103a98cb57a — \[research revision\]: signed logarithms, degree truncation and causal output](../records/0165.md#local-section-d98e90254e429103a98cb57a-06c01df32e)
 - [local-section:d9e448bce6868be659c2f2b7 — 10. Evidence, acceptance limits and closeout](../records/0165.md#local-section-d9e448bce6868be659c2f2b7-e82521ee5f)
 - [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0165.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
-- [local-section:da8e7a40429f22b24e5d2281 — 1. Frozen scope and allocation](../records/0165.md#local-section-da8e7a40429f22b24e5d2281-f4d477d407)
+- [local-section:da8e7a40429f22b24e5d2281 — 1. Frozen scope and allocation](../records/0166.md#local-section-da8e7a40429f22b24e5d2281-f4d477d407)
 - [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0166.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
 - [local-section:dad5cf32f05cc61f8fb3e81b — \[research revision\] attempt delta](../records/0166.md#local-section-dad5cf32f05cc61f8fb3e81b-61e7e59567)
 - [local-section:db19ac43e174dd879d502c1f — A3. Full price of the proposed replacement](../records/0166.md#local-section-db19ac43e174dd879d502c1f-53723fc6cf)
@@ -93,7 +95,7 @@ Page 5/6; 1280 matching records.
 - [local-section:e2cea381e110cf4d71490d04 — 10. Comparison with RN, pair02, and the open target](../records/0166.md#local-section-e2cea381e110cf4d71490d04-96f6bf4105)
 - [local-section:e39774305492746e5079b2bf — HCR3. Independent reconstruction of the two-root transform](../records/0166.md#local-section-e39774305492746e5079b2bf-011cff0de9)
 - [local-section:e3bd50d387c8513a01abf8a7 — G1 — uncapped free invention](../records/0166.md#local-section-e3bd50d387c8513a01abf8a7-552c936898)
-- [local-section:e4179c07fb55d3112c683757 — A uniform coarse price, including moving weights](../records/0166.md#local-section-e4179c07fb55d3112c683757-641454ec82)
+- [local-section:e4179c07fb55d3112c683757 — A uniform coarse price, including moving weights](../records/0167.md#local-section-e4179c07fb55d3112c683757-641454ec82)
 - [local-section:e491a5932fb42a2cd08f328d — 70. Parity Jordan source with paid principal far tail](../records/0167.md#local-section-e491a5932fb42a2cd08f328d-610e8c4e74)
 - [local-section:e4f3fa1c040ecb3ab8ccabdd — 2. What the new compact detector changes](../records/0167.md#local-section-e4f3fa1c040ecb3ab8ccabdd-da30963797)
 - [local-section:e54b88f83851878c8b37f5ea — D. Physical sextic covariance](../records/0167.md#local-section-e54b88f83851878c8b37f5ea-4ee8979718)
@@ -120,7 +122,7 @@ Page 5/6; 1280 matching records.
 - [local-section:ea889cd945a4e5e459d93cec — \[research revision\]: the actual Möbius core moment](../records/0167.md#local-section-ea889cd945a4e5e459d93cec-f5d2435ec4)
 - [local-section:eaac231b398f980e74c7e5a3 — W39 / \[research revision\] independent mathematical review](../records/0167.md#local-section-eaac231b398f980e74c7e5a3-32de86ab05)
 - [local-section:eae280c4c987a9592cd692a5 — 3. Complete signed fixed-grid obstruction and finite seeds](../records/0167.md#local-section-eae280c4c987a9592cd692a5-bf576517d0)
-- [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
+- [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0168.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0168.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
 - [local-section:ebe3d4c963956197a2e71718 — 5. Handoff and research calibration](../records/0168.md#local-section-ebe3d4c963956197a2e71718-7e24250b50)
 - [local-section:ec2410b15f4a72a683a74c8b — 2. Exact source and statement of the refined return](../records/0168.md#local-section-ec2410b15f4a72a683a74c8b-1c11466eec)
@@ -144,7 +146,7 @@ Page 5/6; 1280 matching records.
 - [local-section:f2f69daf61bd70a1daefc2e2 — Verdict and current checkpoint](../records/0168.md#local-section-f2f69daf61bd70a1daefc2e2-229a33bf20)
 - [local-section:f314a32e5f4859f824815be2 — Verdict and exact increment](../records/0168.md#local-section-f314a32e5f4859f824815be2-c0c03bdee0)
 - [local-section:f33438366b188e3af92b51a7 — R42.8. Other first tests: precise reach](../records/0168.md#local-section-f33438366b188e3af92b51a7-c4db9ed484)
-- [local-section:f36856d31f7769c616707c11 — \[research revision\]: complete Gaussian compression and source-feedback obstructions](../records/0168.md#local-section-f36856d31f7769c616707c11-1b4a6267d5)
+- [local-section:f36856d31f7769c616707c11 — \[research revision\]: complete Gaussian compression and source-feedback obstructions](../records/0169.md#local-section-f36856d31f7769c616707c11-1b4a6267d5)
 - [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0169.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
 - [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0169.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
 - [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
@@ -256,5 +258,3 @@ Page 5/6; 1280 matching records.
 - [pr26:Analytic.JointErrorAdmitted::refined_error_smaller_gaussian@156 — refined_error_smaller_gaussian](../records/0179.md#pr26-analytic-jointerroradmitted-refined-error-smaller-gaussian-1-9bedbf8b06)
 - [pr26:Analytic.JointErrorGaussian — Analytic.JointErrorGaussian](../records/0179.md#pr26-analytic-jointerrorgaussian-6e127c4064)
 - [pr26:Analytic.JointErrorGaussian::refined_error_gaussian_from_bands@174 — refined_error_gaussian_from_bands](../records/0179.md#pr26-analytic-jointerrorgaussian-refined-error-gaussian-from-band-0caed91541)
-- [pr26:Analytic.JointFirstIndependentErrors::actual_first_independent_extracted_errors@93 — actual_first_independent_extracted_errors](../records/0181.md#pr26-analytic-jointfirstindependenterrors-actual-first-independen-00c2691e2c)
-- [pr26:Analytic.JointFirstIndependentErrorsFull::actual_first_independent_extracted_errors_full@447 — actual_first_independent_extracted_errors_full](../records/0181.md#pr26-analytic-jointfirstindependenterrorsfull-actual-first-indepe-773d600b42)

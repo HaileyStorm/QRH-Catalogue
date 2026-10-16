@@ -2,10 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17533 matching records.
+Page 71/71; 17539 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [reviewed-claim:A02-unequal-Type-I — \[research revision\]-claim:A02-unequal-Type-I](../records/0218.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
+- [reviewed-claim:A11-constrained-anchor-optimizer — \[research revision\]-claim:A11-constrained-anchor-optimizer](../records/0218.md#reviewed-claim-a11-constrained-anchor-optimizer-44d1ef1e1c)
+- [reviewed-claim:A13-Gemini-false-identity — \[research revision\]-claim:A13-Gemini-false-identity](../records/0218.md#reviewed-claim-a13-gemini-false-identity-2aa8791af0)
+- [reviewed-claim:A13-cubic-Jacobi — \[research revision\]-claim:A13-cubic-Jacobi](../records/0218.md#reviewed-claim-a13-cubic-jacobi-d53d784b56)
+- [reviewed-claim:A13-quadratic-Jacobi — \[research revision\]-claim:A13-quadratic-Jacobi](../records/0218.md#reviewed-claim-a13-quadratic-jacobi-4059035f25)
+- [reviewed-claim:A13-quadratic-triple-hybrid — \[research revision\]-claim:A13-quadratic-triple-hybrid](../records/0218.md#reviewed-claim-a13-quadratic-triple-hybrid-c94467a12f)
 - [reviewed-claim:A14-alpha-window-closed-form — \[research revision\]-claim:A14-alpha-window-closed-form](../records/0218.md#reviewed-claim-a14-alpha-window-closed-form-47d077f950)
 - [reviewed-claim:A14-decimal-and-code-corrections — \[research revision\]-claim:A14-decimal-and-code-corrections](../records/0218.md#reviewed-claim-a14-decimal-and-code-corrections-f9df4999f4)
 - [reviewed-claim:A14-full-probe-certificate — \[research revision\]-claim:A14-full-probe-certificate](../records/0218.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)

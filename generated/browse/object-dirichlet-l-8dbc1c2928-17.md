@@ -2,17 +2,18 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 17/17; 4109 matching records.
+Page 17/17; 4110 matching records.
 
 [Previous](object-dirichlet-l-8dbc1c2928-16.md)
 
+- [local:G159 — G159. All arithmetic and frequency complements are accounted for](../records/0172.md#local-g159-0b34895cc9)
 - [local:G164 — \[research revision\]: weighted boundary spectrum and complete source transfers (G164)](../records/0172.md#local-g164-a3e566ccd6)
 - [local:G166 — G166. Prime removal with exact correction and all-shell return](../records/0172.md#local-g166-e58e0a6cf5)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0172.md#local-g173-0a9bfc34dc)
 - [local:G176 — G176. A compensated Liouville source with all square collisions paid](../records/0172.md#local-g176-be12a75444)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
 - [local:G2 — G2 — uncapped free invention](../records/0172.md#local-g2-2c857fea19)
-- [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0172.md#local-g202-0d8b3cdd46)
+- [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0173.md#local-g202-0d8b3cdd46)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
@@ -60,7 +61,7 @@ Page 17/17; 4109 matching records.
 - [pr26:Global.Numerator.OldSourceMask::source_mask_amplitude_class_old@461 — source_mask_amplitude_class_old](../records/0209.md#pr26-global-numerator-oldsourcemask-source-mask-amplitude-class-o-f54f074e37)
 - [pr26:Global.Numerator.SourceBin::source_packet_selected_bin@466 — source_packet_selected_bin](../records/0209.md#pr26-global-numerator-sourcebin-source-packet-selected-bin-466-1f672124bb)
 - [pr26:Global.Numerator.SourceClass::source_packet_amplitude_class@472 — source_packet_amplitude_class](../records/0209.md#pr26-global-numerator-sourceclass-source-packet-amplitude-class-4-2374cc7359)
-- [pr26:Global.Numerator.SourceMask::source_mask_amplitude_class@193 — source_mask_amplitude_class](../records/0209.md#pr26-global-numerator-sourcemask-source-mask-amplitude-class-193-3d510c3a87)
+- [pr26:Global.Numerator.SourceMask::source_mask_amplitude_class@193 — source_mask_amplitude_class](../records/0210.md#pr26-global-numerator-sourcemask-source-mask-amplitude-class-193-3d510c3a87)
 - [pr26:Global.Transport.PrincipalRemainderBounds::full_sharp_pointwise@714 — full_sharp_pointwise](../records/0212.md#pr26-global-transport-principalremainderbounds-full-sharp-pointwi-1e35de8f38)
 - [pr26:Global.Transport.PrincipalRemainderBounds::residue_sharp_pointwise@754 — residue_sharp_pointwise](../records/0212.md#pr26-global-transport-principalremainderbounds-residue-sharp-poin-df520aa423)
 - [pr26:Global.Transport.PrincipalRemainderContours::LFunction_eq_pole_quotient@518 — LFunction_eq_pole_quotient](../records/0212.md#pr26-global-transport-principalremaindercontours-lfunction-eq-pol-83ecb2e7ec)
@@ -109,9 +110,9 @@ Page 17/17; 4109 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::dirichlet_nonzero@799 — dirichlet_nonzero](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-98411b3396)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence — OAI.NumberTheory.DirichletL.Energy.CertifiedExistence](../records/0215.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-f682546246)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
 - [pr26:Physical.LocalSourceBin::source_packet_selected_bin_local@380 — source_packet_selected_bin_local](../records/0216.md#pr26-physical-localsourcebin-source-packet-selected-bin-local-380-475c691d34)
 - [upstream:PR23 — Verify standard submissions with the existing three-kernel runner](../records/0218.md#upstream-pr23-2eff8c3a80)
 - [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0218.md#upstream-pr26-93f630ed04)
