@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1437 matching records.
+Page 1/6; 1438 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 
@@ -212,6 +212,7 @@ Page 1/6; 1437 matching records.
 - [QRH-CONT-M012-VAUGHAN — Critical centered Vaughan inverse-square saving with exact joint residual](../records/0131.md#qrh-cont-m012-vaughan-abb162e058)
 - [QRH-CONT-M015-FOUR-PRIME-WITNESS — Four-prime multiplicity witness for the three-block correction](../records/0131.md#qrh-cont-m015-four-prime-witness-53399d75a8)
 - [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
+- [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0137.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
@@ -255,4 +256,3 @@ Page 1/6; 1437 matching records.
 - [local-section:09513a9f16a43f4724c33e9a — 74. Paid common-readout absolute Gram in arbitrary lift dimension](../records/0138.md#local-section-09513a9f16a43f4724c33e9a-6c0381a1d4)
 - [local-section:09559d68d0bd26ce573399f1 — 3. First powers: common profile, height buffer and one new slot](../records/0138.md#local-section-09559d68d0bd26ce573399f1-cf4d738421)
 - [local-section:09774c6e79465f03471d008e — 7. All sixty original cards retained](../records/0138.md#local-section-09774c6e79465f03471d008e-82c0acfc62)
-- [local-section:099442ad3ce711ca40ec925e — 4. Common-filter arithmetic payment: full proof audit](../records/0138.md#local-section-099442ad3ce711ca40ec925e-4e9180b458)

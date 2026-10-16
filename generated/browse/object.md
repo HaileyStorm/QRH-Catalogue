@@ -54,7 +54,7 @@
 - [periodic cofactor progression (1)](object-periodic-cofactor-progression-767f4eced9-01.md)
 - [physical weighted fibers (1)](object-physical-weighted-fibers-f9868046be-01.md)
 - [physical-row (135)](object-physical-row-29c67e909a-01.md)
-- [prime-slot (455)](object-prime-slot-a8f3a473c8-01.md)
+- [prime-slot (456)](object-prime-slot-a8f3a473c8-01.md)
 - [principal pole (1)](object-principal-pole-7906052ac1-01.md)
 - [row-dependent punctures (1)](object-row-dependent-punctures-2853620306-01.md)
 - [same-scale masked detector (1)](object-same-scale-masked-detector-840a937992-01.md)

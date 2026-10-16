@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 955 matching records.
+Page 4/4; 956 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:de495e5747b9dddee52d0af1 — 2. Square-root threshold: independent proof of CT1, CT2 and CT8](../records/0166.md#local-section-de495e5747b9dddee52d0af1-36c30a0be6)
 - [local-section:de64286651bd57fca937a2bf — Independent review: the compensated nonlinear source](../records/0166.md#local-section-de64286651bd57fca937a2bf-7fd9c18886)
 - [local-section:de9bcbfddb471e1a05cb9e50 — Independent W50 review: energy return, finite character traces and exact continuation states](../records/0166.md#local-section-de9bcbfddb471e1a05cb9e50-554e2617d5)
 - [local-section:dec7fcc42307270c77e57001 — D1c. Full ordinary-character return, with the complementary branch paid](../records/0166.md#local-section-dec7fcc42307270c77e57001-05f58e543d)
@@ -122,7 +123,7 @@ Page 4/4; 955 matching records.
 - [local:F05 — F05. Möbius-aware polar projection and spectral sieve](../records/0170.md#local-f05-b00059fa1b)
 - [local:F05.C — F05.C — Model overlap equals Σμ(c)conjν(c)W_c; baseline overlap alone still leaves cubic exponent≈2.04195](../records/0170.md#local-f05-c-5d30cdcab0)
 - [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
-- [local:F07.C — F07.C — Inverse-cubic Jacobi rational phase t v/(1+v), zero value−1, CRT ideal Möbius](../records/0170.md#local-f07-c-52ad24329e)
+- [local:F07.C — F07.C — Inverse-cubic Jacobi rational phase t v/(1+v), zero value−1, CRT ideal Möbius](../records/0171.md#local-f07-c-52ad24329e)
 - [local:F17 — F17. Coefficient-sensitive trace formulas and transformed kernels](../records/0171.md#local-f17-948f4bcd3f)
 - [local:F17.S — F17.S — Keep actual p⁴ or e⁴R³P⁴ index projector before full Fourier norm; alternatively complete the μ(u)Ξ_R(u) sum at fixed sparse index with its collision masks](../records/0171.md#local-f17-s-860e663abe)
 - [local:F19 — F19. Higher integrability and stable future tails](../records/0171.md#local-f19-105d2ad0ce)
@@ -133,7 +134,7 @@ Page 4/4; 955 matching records.
 - [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0171.md#local-g106-3b75d799b8)
 - [local:G107 — G107. Exact divisor elimination and the real-cutoff repair](../records/0171.md#local-g107-5d5cd18dce)
 - [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0171.md#local-g108-f378462f08)
-- [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0171.md#local-g112-576f044b32)
+- [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0172.md#local-g112-576f044b32)
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0172.md#local-g113-6c10bbc310)
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0172.md#local-g114-fec7178ffd)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)

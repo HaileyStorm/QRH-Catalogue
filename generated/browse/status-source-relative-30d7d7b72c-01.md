@@ -244,7 +244,7 @@ Page 1/4; 843 matching records.
 - [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0141.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
 - [local-section:22408ad9a6780484dea105f6 — 2.3 Moving shell and price of the observed scale](../records/0141.md#local-section-22408ad9a6780484dea105f6-a4c350f734)
 - [local-section:225669f8b1c71da81acaa1df — 2. A/S03: a fully paid moving-order Riesz return](../records/0141.md#local-section-225669f8b1c71da81acaa1df-4973280aea)
-- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
+- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:23b98763ff7d93f6a876cae0 — Quaternion norm applied to the complete Jordan source](../records/0142.md#local-section-23b98763ff7d93f6a876cae0-b5d89f2b62)
 - [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0142.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)

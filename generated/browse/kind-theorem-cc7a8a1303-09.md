@@ -147,7 +147,7 @@ Page 9/13; 3049 matching records.
 - [pr26:Cycle25.Numerator.ActualBin::actual_label_packet_bin_bound@210 — actual_label_packet_bin_bound](../records/0200.md#pr26-cycle25-numerator-actualbin-actual-label-packet-bin-bound-21-5522b07d10)
 - [pr26:Cycle25.Numerator.ActualBin::errorLabelNumerator_eq_packet@308 — errorLabelNumerator_eq_packet](../records/0200.md#pr26-cycle25-numerator-actualbin-errorlabelnumerator-eq-packet-30-58a6873c1e)
 - [pr26:Cycle25.Numerator.AmplitudeHolder::rpow_fourth@192 — rpow_fourth](../records/0200.md#pr26-cycle25-numerator-amplitudeholder-rpow-fourth-192-78d6a4e843)
-- [pr26:Cycle25.Numerator.AmplitudeHolder::weighted_amplitude_bin@197 — weighted_amplitude_bin](../records/0200.md#pr26-cycle25-numerator-amplitudeholder-weighted-amplitude-bin-197-e315f096a5)
+- [pr26:Cycle25.Numerator.AmplitudeHolder::weighted_amplitude_bin@197 — weighted_amplitude_bin](../records/0201.md#pr26-cycle25-numerator-amplitudeholder-weighted-amplitude-bin-197-e315f096a5)
 - [pr26:Cycle25.Numerator.AmplitudeHolder::weighted_dilation_bin@251 — weighted_dilation_bin](../records/0201.md#pr26-cycle25-numerator-amplitudeholder-weighted-dilation-bin-251-884ca3e1f1)
 - [pr26:Cycle25.Numerator.AmplitudeLoss::restore_upper_bin_loss@292 — restore_upper_bin_loss](../records/0201.md#pr26-cycle25-numerator-amplitudeloss-restore-upper-bin-loss-292-fd49f8851e)
 - [pr26:Cycle25.Numerator.AmplitudeLoss::upper_bin_normalized@285 — upper_bin_normalized](../records/0201.md#pr26-cycle25-numerator-amplitudeloss-upper-bin-normalized-285-207aec66a0)

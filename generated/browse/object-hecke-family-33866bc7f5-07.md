@@ -47,7 +47,7 @@ Page 7/11; 2702 matching records.
 - [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0138.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
 - [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0138.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
-- [local-section:0b5346c9470894090f22afb7 — 5. Other three selected tests and strongest scope restrictions](../records/0138.md#local-section-0b5346c9470894090f22afb7-e3e70ddc53)
+- [local-section:0b5346c9470894090f22afb7 — 5. Other three selected tests and strongest scope restrictions](../records/0139.md#local-section-0b5346c9470894090f22afb7-e3e70ddc53)
 - [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0139.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
 - [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0139.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
 - [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0139.md#local-section-0bab331039a7570ab0869054-ecea1c341d)

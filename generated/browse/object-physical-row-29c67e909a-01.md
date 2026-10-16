@@ -39,7 +39,7 @@ Page 1/1; 135 matching records.
 - [local-section:1d01d3989f9a06e0a1c9faaa — DQ10--DQ11. The legitimate weighted cubic-sieve estimate](../records/0141.md#local-section-1d01d3989f9a06e0a1c9faaa-303fd91ffe)
 - [local-section:20e4b37727cde3aaa51ec5f8 — \[research revision\]: weighted physical radical mass](../records/0141.md#local-section-20e4b37727cde3aaa51ec5f8-dd746269dd)
 - [local-section:22117512bd229992623ed60a — 5. The two-root calculation and complete label costs](../records/0141.md#local-section-22117512bd229992623ed60a-05096ac3e0)
-- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
+- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:252d6d45d879f556871b51cc — F01. Multiscale Möbius decomposition and signed block control](../records/0142.md#local-section-252d6d45d879f556871b51cc-6b1c8a5789)
 - [local-section:25b39810c8b971cacdcf751c — 9. Exact residual and the still-open large-core moment](../records/0142.md#local-section-25b39810c8b971cacdcf751c-36788a1d7b)
 - [local-section:3374e0f8fbfa276a6bedc4e4 — A17. Exact completed-cutoff and rough-column obstructions](../records/0143.md#local-section-3374e0f8fbfa276a6bedc4e4-349cfc7c8d)

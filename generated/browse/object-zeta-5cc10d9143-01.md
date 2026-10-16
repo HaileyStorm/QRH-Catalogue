@@ -195,7 +195,7 @@ Page 1/4; 933 matching records.
 - [local-section:020237c41e015e22ab0682bb — 2.1 Uncut coprime identity](../records/0137.md#local-section-020237c41e015e22ab0682bb-9d34e333ac)
 - [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0137.md#local-section-021601cba1a0a08525590f22-7adbe75144)
 - [local-section:023927cbcffae7946e8656a1 — 3. Development16: the entire sign survives in harmonic degree](../records/0137.md#local-section-023927cbcffae7946e8656a1-db88ef8ce0)
-- [local-section:0251f621a8fa29705274a50f — Independent completion: the criterion is exactly equivalent for this source](../records/0137.md#local-section-0251f621a8fa29705274a50f-c52a706699)
+- [local-section:0251f621a8fa29705274a50f — Independent completion: the criterion is exactly equivalent for this source](../records/0138.md#local-section-0251f621a8fa29705274a50f-c52a706699)
 - [local-section:02737fbc96f66ee44e2ff229 — 6. The other three author first tests](../records/0138.md#local-section-02737fbc96f66ee44e2ff229-50911febd1)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
 - [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)

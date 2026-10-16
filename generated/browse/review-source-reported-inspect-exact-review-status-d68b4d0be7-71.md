@@ -2,10 +2,11 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17527 matching records.
+Page 71/71; 17528 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [reviewed-claim:A14-sixth-power-projection — \[research revision\]-claim:A14-sixth-power-projection](../records/0218.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)
 - [reviewed-claim:T08-common-completion-equivalence — \[research revision\]-claim:T08-common-completion-equivalence](../records/0218.md#reviewed-claim-t08-common-completion-equivalence-2e66dac966)
 - [reviewed-claim:T08-corridor-closure — \[research revision\]-claim:T08-corridor-closure](../records/0218.md#reviewed-claim-t08-corridor-closure-533dfc5eb4)
 - [reviewed-claim:T08-exact-incidence — \[research revision\]-claim:T08-exact-incidence](../records/0218.md#reviewed-claim-t08-exact-incidence-afec707c2b)

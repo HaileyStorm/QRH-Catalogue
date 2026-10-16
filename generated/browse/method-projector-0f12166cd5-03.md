@@ -221,7 +221,7 @@ Page 3/5; 1021 matching records.
 - [local-section:d25897efd60e100bcee69075 — What the source actually certifies](../records/0164.md#local-section-d25897efd60e100bcee69075-1698a16fb6)
 - [local-section:d353c85b384424faf44a4be5 — 2. Useful failures and exact reopening conditions](../records/0164.md#local-section-d353c85b384424faf44a4be5-ccf0041174)
 - [local-section:d40c13cf5e0e758f99cc1549 — W66 independent review: affordable inversion, paid critical cutoff, open arithmetic](../records/0164.md#local-section-d40c13cf5e0e758f99cc1549-511479cc40)
-- [local-section:d4c2de88852458dccdccfab1 — Heights and physical limitations](../records/0164.md#local-section-d4c2de88852458dccdccfab1-44e5f2e182)
+- [local-section:d4c2de88852458dccdccfab1 — Heights and physical limitations](../records/0165.md#local-section-d4c2de88852458dccdccfab1-44e5f2e182)
 - [local-section:d4d0e7e4851da57ac4066542 — 10. Source attribution and acceptance boundaries](../records/0165.md#local-section-d4d0e7e4851da57ac4066542-0da05438f3)
 - [local-section:d50557497e9fec31cd47de8c — W53 independent review: pressure, prime blocks and the two frozen audits](../records/0165.md#local-section-d50557497e9fec31cd47de8c-17a97977ad)
 - [local-section:d521054623e00d90249d1e34 — \[research revision\]: failed implications, corrected scopes, and surviving exits](../records/0165.md#local-section-d521054623e00d90249d1e34-6613809ee5)

@@ -236,7 +236,7 @@ Page 1/5; 1035 matching records.
 - [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0139.md#local-section-11eb0e49462494399ea90080-bef6786726)
 - [local-section:125cf6975592de403015d01e — Current checkpoint](../records/0139.md#local-section-125cf6975592de403015d01e-cb89ad1e54)
 - [local-section:125e743e7a9a984a4e0ad65e — Direct mathematical changes](../records/0139.md#local-section-125e743e7a9a984a4e0ad65e-3344fc2d67)
-- [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0139.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
+- [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0140.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0140.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
 - [local-section:149c84564a03cd06d3ee04f2 — \[research revision\]: merged integration and new arithmetic reductions](../records/0140.md#local-section-149c84564a03cd06d3ee04f2-64a140e3f0)

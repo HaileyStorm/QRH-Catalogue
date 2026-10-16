@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/6; 1437 matching records.
+Page 6/6; 1438 matching records.
 
 [Previous](method-duality-c5419f8b09-05.md)
 
+- [local-section:f5f438dfdd593bde9e7fe887 — 2. Literal source contract and the same buffered grade](../records/0169.md#local-section-f5f438dfdd593bde9e7fe887-2c9bc661c0)
 - [local-section:f5fabe11f9050cc940f10487 — \[research revision\]: moving finite detectors with a paid fixed-detector return](../records/0169.md#local-section-f5fabe11f9050cc940f10487-9e3a65d795)
 - [local-section:f5fe7f9b7b63ad029481541c — \[research revision\] headroom pass: signed integer renewal and its friable mean](../records/0169.md#local-section-f5fe7f9b7b63ad029481541c-8c40d8d1fa)
 - [local-section:f661cefc77ab3953cafb60e9 — 64. A paid prime band and the entire outside-band residual](../records/0169.md#local-section-f661cefc77ab3953cafb60e9-869004a473)
@@ -126,7 +127,7 @@ Page 6/6; 1437 matching records.
 - [local:G206 — G206: enlarged caps tied to the original a-dyad](../records/0172.md#local-g206-3ab0f52f50)
 - [local:G207 — G207: full product, collisions and weighted removal](../records/0172.md#local-g207-3c636df55b)
 - [local:G209 — G209. All thirteen collision types and the exact mixed-order source](../records/0172.md#local-g209-c243fafc07)
-- [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
+- [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0173.md#local-g222-849aadba5c)
@@ -152,7 +153,7 @@ Page 6/6; 1437 matching records.
 - [local:G299 — G299. Signed minimum telescoping, erased zero signal and divergent positive inverse](../records/0173.md#local-g299-29e34bc7a7)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
 - [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0173.md#local-g307-de7641143f)
-- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0173.md#local-g310-39134eeca1)
+- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0174.md#local-g310-39134eeca1)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0174.md#local-g5-edf12c141c)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0174.md#local-g75-1359afa204)

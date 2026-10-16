@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 42/43; 10580 matching records.
+Page 42/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-41.md)
 
 [Next](status-unknown-b23a6a8439-43.md)
 
+- [pr26:Cycle25.Energy.PositiveHighPhysical — Cycle25.Energy.PositiveHighPhysical](../records/0200.md#pr26-cycle25-energy-positivehighphysical-049305d1f5)
 - [pr26:Cycle25.Energy.PositiveHighSource — Cycle25.Energy.PositiveHighSource](../records/0200.md#pr26-cycle25-energy-positivehighsource-acf8bd3d1b)
 - [pr26:Cycle25.Energy.PositiveHighSourceBound — Cycle25.Energy.PositiveHighSourceBound](../records/0200.md#pr26-cycle25-energy-positivehighsourcebound-8fd3e874bc)
 - [pr26:Cycle25.Energy.PositiveHighSourceBounded — Cycle25.Energy.PositiveHighSourceBounded](../records/0200.md#pr26-cycle25-energy-positivehighsourcebounded-3f23156c86)
@@ -223,7 +224,7 @@ Page 42/43; 10580 matching records.
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct — Global.Transport.PrincipalRemainderFiniteProduct](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-fff648c062)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProductX — Global.Transport.PrincipalRemainderFiniteProductX](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-73f043486e)
 - [pr26:Global.Transport.PrincipalRemainderNormalized — Global.Transport.PrincipalRemainderNormalized](../records/0212.md#pr26-global-transport-principalremaindernormalized-b2258cbde7)
-- [pr26:Global.Transport.PrincipalRemainderPhysical — Global.Transport.PrincipalRemainderPhysical](../records/0212.md#pr26-global-transport-principalremainderphysical-bc04001cbd)
+- [pr26:Global.Transport.PrincipalRemainderPhysical — Global.Transport.PrincipalRemainderPhysical](../records/0213.md#pr26-global-transport-principalremainderphysical-bc04001cbd)
 - [pr26:Global.Transport.PrincipalRemainderPhysicalBounds — Global.Transport.PrincipalRemainderPhysicalBounds](../records/0213.md#pr26-global-transport-principalremainderphysicalbounds-1834be5a78)
 - [pr26:Global.Transport.PrincipalRemainderRayThresholds — Global.Transport.PrincipalRemainderRayThresholds](../records/0213.md#pr26-global-transport-principalremainderraythresholds-66e72eb069)
 - [pr26:Global.Transport.PrincipalRemainderRegion — Global.Transport.PrincipalRemainderRegion](../records/0213.md#pr26-global-transport-principalremainderregion-7094923cd4)
@@ -257,4 +258,3 @@ Page 42/43; 10580 matching records.
 - [pr26:LocalMoment.UnmarkedDensity — LocalMoment.UnmarkedDensity](../records/0215.md#pr26-localmoment-unmarkeddensity-847ac55e6e)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-6feda61b95)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyarithmetic-e23e66f593)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycertifiedb-cf9b8ae6c2)

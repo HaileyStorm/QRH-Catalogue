@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 955 matching records.
+Page 2/4; 956 matching records.
 
 [Previous](topic-mobius-80a3144bcb-01.md)
 
 [Next](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:4958912978a30104d911cb7c — 4. At the unit dual core the exact Euler operator can be rank one](../records/0146.md#local-section-4958912978a30104d911cb7c-87596e14c0)
 - [local-section:499ccb60b4d0fd4570bf943f — B. Pole subtraction after actual integer-quotient merging](../records/0146.md#local-section-499ccb60b4d0fd4570bf943f-73a6218464)
 - [local-section:49bfda9067024f718b9f41dd — \[research revision\] attempt delta: coupled amplifiers and literal threshold laws](../records/0146.md#local-section-49bfda9067024f718b9f41dd-e82d1ba3b5)
 - [local-section:49c544f3b1e2877b683abccc — Quantitative gates](../records/0146.md#local-section-49c544f3b1e2877b683abccc-f0f208939a)
@@ -41,7 +42,7 @@ Page 2/4; 955 matching records.
 - [local-section:512bbc8403ba12bebbebd820 — W56 author report — \[research revision\]](../records/0147.md#local-section-512bbc8403ba12bebbebd820-b04e125ca2)
 - [local-section:51bdf1b91709c0c318ab89c0 — 1. Outcome and ancestry](../records/0147.md#local-section-51bdf1b91709c0c318ab89c0-cd1a24e3ee)
 - [local-section:51c5acf0ef8a80f133a3bcf0 — \[research revision\] rough-depth renewal — independent mathematical review](../records/0147.md#local-section-51c5acf0ef8a80f133a3bcf0-c0689a600b)
-- [local-section:51f6e2b5b0a0cf8350f37877 — 3. W56-26: integral persistence and its complete source return](../records/0147.md#local-section-51f6e2b5b0a0cf8350f37877-a9a712c208)
+- [local-section:51f6e2b5b0a0cf8350f37877 — 3. W56-26: integral persistence and its complete source return](../records/0148.md#local-section-51f6e2b5b0a0cf8350f37877-a9a712c208)
 - [local-section:52f0b3d18dbbf258b4c671b6 — G181. A smaller signed residual, with the physical return still open](../records/0148.md#local-section-52f0b3d18dbbf258b4c671b6-5c54f00e76)
 - [local-section:532941d7834c0d6520bc59f8 — Independent concrete-progress consultation review](../records/0148.md#local-section-532941d7834c0d6520bc59f8-3481adda79)
 - [local-section:5348e5416bd9c1fb5ed88781 — \[research revision\]: an actual-Möbius obstruction after complete product coalescence](../records/0148.md#local-section-5348e5416bd9c1fb5ed88781-b7dbccdafe)
@@ -113,7 +114,7 @@ Page 2/4; 955 matching records.
 - [local-section:6cfe5ff7ea92b3fa067a9ef1 — \[research revision\]: four cross-copy gcd sectors in the original source](../records/0151.md#local-section-6cfe5ff7ea92b3fa067a9ef1-642fa406e2)
 - [local-section:6e7bff8a01d745d6eb718e6a — W57-23: exact divisor-check recovery and the terminal-row price](../records/0151.md#local-section-6e7bff8a01d745d6eb718e6a-687abe4e2f)
 - [local-section:6eeb63758a27bd29cbaa6b58 — 40. Exact prediction criterion with paid character-source tails](../records/0151.md#local-section-6eeb63758a27bd29cbaa6b58-ea3c063631)
-- [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
+- [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0152.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:71bb65ff638afa27287e55e1 — 5. Genuine embedding in the \[research revision\] joint bank](../records/0152.md#local-section-71bb65ff638afa27287e55e1-64703711bf)
 - [local-section:7254417df981e9a486e26218 — 5. Development C / W49-06: exact prime-square deletion with a complete return](../records/0152.md#local-section-7254417df981e9a486e26218-c70d1ba5da)
 - [local-section:72587f4c4c177af485a07b38 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0152.md#local-section-72587f4c4c177af485a07b38-0f713a9a40)
@@ -133,7 +134,7 @@ Page 2/4; 955 matching records.
 - [local-section:7758f641dc44b310f7091d5c — 2. Quantitative contracts and immediate priorities](../records/0152.md#local-section-7758f641dc44b310f7091d5c-049f400266)
 - [local-section:7828492d7fdc047743d043b6 — 3. Independent proof and quantifier audit of M](../records/0152.md#local-section-7828492d7fdc047743d043b6-f9c0651d64)
 - [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
-- [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
+- [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0153.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0153.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
 - [local-section:78b466827061d6a87e484cd6 — 5. The old arithmetic exponent is preserved: GC21--GC22](../records/0153.md#local-section-78b466827061d6a87e484cd6-a9d01e904c)
 - [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0153.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
@@ -167,7 +168,7 @@ Page 2/4; 955 matching records.
 - [local-section:7f553c4ec43923be68819a50 — 7. Sum the forced opposite incidences and preserve the tails](../records/0153.md#local-section-7f553c4ec43923be68819a50-28f9483fda)
 - [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
-- [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0153.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
+- [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0154.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0154.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
@@ -257,4 +258,3 @@ Page 2/4; 955 matching records.
 - [local-section:9925692b0d82c1e2e364a6fd — Group 5: Mobius compensation / sieve and information or coding / exact invariant](../records/0157.md#local-section-9925692b0d82c1e2e364a6fd-83c664bb30)
 - [local-section:9a1d8046bb14138b4fb35ad9 — 3. Two parked proposals now have precise mathematical contracts](../records/0157.md#local-section-9a1d8046bb14138b4fb35ad9-295961069f)
 - [local-section:9aa4caca4ab461fb84c8c582 — 1. Frozen inputs and attribution](../records/0157.md#local-section-9aa4caca4ab461fb84c8c582-ba58e145c2)
-- [local-section:9abcc5e7a8091a3bca65980b — 1. Frozen selection, provenance and scope](../records/0157.md#local-section-9abcc5e7a8091a3bca65980b-524b3c3ec5)

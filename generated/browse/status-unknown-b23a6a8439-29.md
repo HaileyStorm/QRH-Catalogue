@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 29/43; 10580 matching records.
+Page 29/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-28.md)
 
 [Next](status-unknown-b23a6a8439-30.md)
 
+- [local-section:184cb2e24221e4cd79359f95 — 8. Current calibration and operational closeout](../records/0140.md#local-section-184cb2e24221e4cd79359f95-07e016f67f)
 - [local-section:18606b4fcbf460d2e5b0880d — 6. One complete affine atlas and physical return](../records/0140.md#local-section-18606b4fcbf460d2e5b0880d-ca9c245290)
 - [local-section:186366e824dbed933a3c5329 — 6. Reviewer consequence: a nearby band and the actual decaying tail](../records/0140.md#local-section-186366e824dbed933a3c5329-f72aa4fb78)
 - [local-section:186bf2d468c49c5b33dbd21a — 1. Candidate result and numerical budget](../records/0140.md#local-section-186bf2d468c49c5b33dbd21a-6cad0f4e65)
@@ -38,7 +39,7 @@ Page 29/43; 10580 matching records.
 - [local-section:1b2c37044f6c187533d54aeb — Fixed-ray squarefree selector estimate](../records/0140.md#local-section-1b2c37044f6c187533d54aeb-6fc8bee1b3)
 - [local-section:1b345e9cc2d2f2c155544379 — 2. Development checkpoint and inherited credit](../records/0140.md#local-section-1b345e9cc2d2f2c155544379-a99a9d803e)
 - [local-section:1b54b04d2ee299d4ca14c34a — 2.5 Infinite completion and arbitrary D](../records/0140.md#local-section-1b54b04d2ee299d4ca14c34a-d8c6091c28)
-- [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0140.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
+- [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0141.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
 - [local-section:1b6c4e3f6d610c3ba530c554 — G145. Full-word and sorted-creation commutators have different returns](../records/0141.md#local-section-1b6c4e3f6d610c3ba530c554-26810da9c4)
 - [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0141.md#local-section-1b7972de99305d82899b971b-ad968fff11)
 - [local-section:1b92424757fb59493f7e611d — 1. Frozen intake and the limits of sampling evidence](../records/0141.md#local-section-1b92424757fb59493f7e611d-8e9d28fbdc)
@@ -197,7 +198,7 @@ Page 29/43; 10580 matching records.
 - [local-section:2b64e79ea0f673fde8e9ac10 — R5. Marginal payment and the residual box](../records/0142.md#local-section-2b64e79ea0f673fde8e9ac10-cee316f9fc)
 - [local-section:2b752699b4e913270a8de0cd — Complete endpoint, not just local capacity](../records/0142.md#local-section-2b752699b4e913270a8de0cd-62941cb45d)
 - [local-section:2b94a1bc9e8bafe2f1071160 — C. Centered Mayer feedback: exact return and a new next-return formula](../records/0142.md#local-section-2b94a1bc9e8bafe2f1071160-fd2aede397)
-- [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0142.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
+- [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0143.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
 - [local-section:2ba728cbbfca1403cf83aaec — 13. Verification and handoff boundary](../records/0143.md#local-section-2ba728cbbfca1403cf83aaec-5bb6ca585b)
 - [local-section:2baead16b4c841c3087018ba — M3. Fixed affine correlations, including conjugation](../records/0143.md#local-section-2baead16b4c841c3087018ba-f65182b6ca)
 - [local-section:2bc6a8deea4d593294ecf0c5 — 5. Return through the actual four diagonals and both height variables](../records/0143.md#local-section-2bc6a8deea4d593294ecf0c5-f05c139b18)
@@ -257,4 +258,3 @@ Page 29/43; 10580 matching records.
 - [local-section:30c8872c16b4a05cef1ebe6d — 1. The actual source family, signs, zeros and fixed ideal](../records/0143.md#local-section-30c8872c16b4a05cef1ebe6d-af70e902fe)
 - [local-section:30efb378ff8c77689797c150 — 2. Complete Poisson cancellation before truncating the third factor](../records/0143.md#local-section-30efb378ff8c77689797c150-35b817e6a8)
 - [local-section:3114cffa36d99c9efd89dac3 — 6. Strongest objection and the arithmetic development still missing](../records/0143.md#local-section-3114cffa36d99c9efd89dac3-93900979ce)
-- [local-section:31199af51f1d3cd61de267b7 — W40-02 — Orthogonalize the two heights jointly; p=.12](../records/0143.md#local-section-31199af51f1d3cd61de267b7-6cfb8d8568)

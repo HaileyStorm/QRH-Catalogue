@@ -43,7 +43,7 @@ Page 1/1; 54 matching records.
 - [local-section:b2b856bb1b22f4f47cf91950 — Exact algebra in the user's convention](../records/0160.md#local-section-b2b856bb1b22f4f47cf91950-a48e1bfbd1)
 - [local-section:b5ead09f98ce000827f73da0 — 3. Direct integral, absolute order and the variable-cost correction](../records/0160.md#local-section-b5ead09f98ce000827f73da0-944fc08e64)
 - [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0161.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
-- [local-section:bdbd8ec5896ab5931ccafd68 — Complex-height and multiplicative-source requirements](../records/0161.md#local-section-bdbd8ec5896ab5931ccafd68-0a79585c07)
+- [local-section:bdbd8ec5896ab5931ccafd68 — Complex-height and multiplicative-source requirements](../records/0162.md#local-section-bdbd8ec5896ab5931ccafd68-0a79585c07)
 - [local-section:bf6719fc59f1714291831b02 — All60 retained dispositions](../records/0162.md#local-section-bf6719fc59f1714291831b02-8baa44c5c7)
 - [local-section:c219b8cdcd0b542a3a5aa508 — \[research revision\] high-ceiling exercise: paid linear readout versus absolute Gram](../records/0162.md#local-section-c219b8cdcd0b542a3a5aa508-aec5cbecda)
 - [local-section:c21b1a93af92896cb790b07a — G226. A dimension-free obstruction after paying a common linear readout](../records/0162.md#local-section-c21b1a93af92896cb790b07a-2fe6859f61)

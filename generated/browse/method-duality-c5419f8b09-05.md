@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/6; 1437 matching records.
+Page 5/6; 1438 matching records.
 
 [Previous](method-duality-c5419f8b09-04.md)
 
 [Next](method-duality-c5419f8b09-06.md)
 
+- [local-section:bcaaacf123be209f056e8e95 — \[research revision\]: actual rough-mask covariance in the hard primitive-shift region](../records/0161.md#local-section-bcaaacf123be209f056e8e95-42d7f94ad7)
 - [local-section:bcad8890fd710a665ae17c56 — 8. All30 cards preserved](../records/0161.md#local-section-bcad8890fd710a665ae17c56-d75bb7693c)
 - [local-section:bcf82f89752ecf21c06bdeba — 6. The signed cubic route after physical cube-row restriction](../records/0161.md#local-section-bcf82f89752ecf21c06bdeba-8d0c8d6b26)
 - [local-section:bd093ffc07bb980b6539c01f — \[research revision\] independent review: fixed-ratio source obstruction and paired detectors](../records/0161.md#local-section-bd093ffc07bb980b6539c01f-622992f78c)
@@ -106,7 +107,7 @@ Page 5/6; 1437 matching records.
 - [local-section:d39a3339622ce1f1c6ea0a75 — 1. Inputs, ownership and the precise gain](../records/0164.md#local-section-d39a3339622ce1f1c6ea0a75-0837afd1e7)
 - [local-section:d39a74f69e38f6f3608d8d8b — F. Research disposition and next mathematical action](../records/0164.md#local-section-d39a74f69e38f6f3608d8d8b-afed109010)
 - [local-section:d40c13cf5e0e758f99cc1549 — W66 independent review: affordable inversion, paid critical cutoff, open arithmetic](../records/0164.md#local-section-d40c13cf5e0e758f99cc1549-511479cc40)
-- [local-section:d4c2de88852458dccdccfab1 — Heights and physical limitations](../records/0164.md#local-section-d4c2de88852458dccdccfab1-44e5f2e182)
+- [local-section:d4c2de88852458dccdccfab1 — Heights and physical limitations](../records/0165.md#local-section-d4c2de88852458dccdccfab1-44e5f2e182)
 - [local-section:d4c40e516dedc1f5e1c2988c — 2.5 Positivity and the complete band to a terminal threshold](../records/0165.md#local-section-d4c40e516dedc1f5e1c2988c-6315f42b41)
 - [local-section:d50557497e9fec31cd47de8c — W53 independent review: pressure, prime blocks and the two frozen audits](../records/0165.md#local-section-d50557497e9fec31cd47de8c-17a97977ad)
 - [local-section:d521054623e00d90249d1e34 — \[research revision\]: failed implications, corrected scopes, and surviving exits](../records/0165.md#local-section-d521054623e00d90249d1e34-6613809ee5)
@@ -182,7 +183,7 @@ Page 5/6; 1437 matching records.
 - [local-section:e406dba5a2430da38807f740 — G2 — uncapped free invention](../records/0166.md#local-section-e406dba5a2430da38807f740-40aaced61f)
 - [local-section:e443ed0a58ef16aecc5424f7 — 10. Profiles, two heights, tails and quantifier order](../records/0166.md#local-section-e443ed0a58ef16aecc5424f7-17f46d05fe)
 - [local-section:e44f63ca257ce1299e7cffd5 — 5. Kernel sign, quantitative contradiction, and open remainder](../records/0166.md#local-section-e44f63ca257ce1299e7cffd5-a13aa457b4)
-- [local-section:e4b839936e0170a5dce92b52 — Verdict and calibration](../records/0166.md#local-section-e4b839936e0170a5dce92b52-0ae345bb6f)
+- [local-section:e4b839936e0170a5dce92b52 — Verdict and calibration](../records/0167.md#local-section-e4b839936e0170a5dce92b52-0ae345bb6f)
 - [local-section:e4c9d05243bc50cf831b3135 — 4. Exact resummation of the remaining chains](../records/0167.md#local-section-e4c9d05243bc50cf831b3135-c56d03bcef)
 - [local-section:e5038e2d0a02cecb8d571a63 — G153. Asymmetric completion and a one-Mobius core](../records/0167.md#local-section-e5038e2d0a02cecb8d571a63-a4eb6f83fe)
 - [local-section:e54b88f83851878c8b37f5ea — D. Physical sextic covariance](../records/0167.md#local-section-e54b88f83851878c8b37f5ea-4ee8979718)
@@ -257,4 +258,3 @@ Page 5/6; 1437 matching records.
 - [local-section:f545a7e296fcb46f5dba504a — 5. Realizability, sharp endpoints, and the signed-profile calculation](../records/0169.md#local-section-f545a7e296fcb46f5dba504a-d4efc60804)
 - [local-section:f568e27540a1e9a420d6859c — G101. Linear and nonlinear paired transfers](../records/0169.md#local-section-f568e27540a1e9a420d6859c-0b66ad9552)
 - [local-section:f58f999cde555872db24e027 — 4. A uniform strictly better density for a concrete class](../records/0169.md#local-section-f58f999cde555872db24e027-66487ce57c)
-- [local-section:f5f438dfdd593bde9e7fe887 — 2. Literal source contract and the same buffered grade](../records/0169.md#local-section-f5f438dfdd593bde9e7fe887-2c9bc661c0)

@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 455 matching records.
+Page 1/2; 456 matching records.
 
 [Next](object-prime-slot-a8f3a473c8-02.md)
 
@@ -29,6 +29,7 @@ Page 1/2; 455 matching records.
 - [HIST-d5f14b94c08427e85a93 — B0.3. The physical probe, signed Gram bound and compensator](../records/0079.md#hist-d5f14b94c08427e85a93-b5defb6e61)
 - [HIST-f658ccdccd51a6d71c5b — B3.5. Induction order and the centered comparison](../records/0086.md#hist-f658ccdccd51a6d71c5b-825522d5f9)
 - [P7-10 — Fine positive slots and order of choices](../records/0130.md#p7-10-2592a7cb73)
+- [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
 - [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0137.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
 - [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:01d79cb7aff6695e0c575cb6 — 2. Why the larger amplifier is actually admissible](../records/0137.md#local-section-01d79cb7aff6695e0c575cb6-4d4f42fa5e)
@@ -79,7 +80,7 @@ Page 1/2; 455 matching records.
 - [local-section:20a93b2aed3f756d9d3861ce — 1. Inputs, source and relation to R_nonunique](../records/0141.md#local-section-20a93b2aed3f756d9d3861ce-5f9f08d926)
 - [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0141.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
 - [local-section:22cfc0e4f2ac20ce91238266 — 1. Two separate verdicts](../records/0141.md#local-section-22cfc0e4f2ac20ce91238266-c82c1684ff)
-- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
+- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0142.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)
 - [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0142.md#local-section-23eff95a515b438b71738534-fbea372025)
@@ -105,7 +106,7 @@ Page 1/2; 455 matching records.
 - [local-section:31b5ccdde639c6a79a294d7f — Consequential mathematical verdicts](../records/0143.md#local-section-31b5ccdde639c6a79a294d7f-95f5b55ba1)
 - [local-section:320fe4d1f1632694232728c7 — 6. Weakest complete first-gain target, return, and actual failed test](../records/0143.md#local-section-320fe4d1f1632694232728c7-02d491cc36)
 - [local-section:339e9f2b8bfc821a1f640c67 — 3. The finite atlas and why it is an analytic change](../records/0143.md#local-section-339e9f2b8bfc821a1f640c67-93cbaa4890)
-- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
+- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0144.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0144.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0144.md#local-section-34160f89ce00b43718b31084-77745847c5)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
@@ -159,7 +160,7 @@ Page 1/2; 455 matching records.
 - [local-section:5573778f9580a731550ced58 — Conditioned canonical density and a paid use of the accepted family bound](../records/0148.md#local-section-5573778f9580a731550ced58-ada0a13e85)
 - [local-section:5984f88cef230852394f72f9 — Combined support gain and the complete c8 endpoint](../records/0148.md#local-section-5984f88cef230852394f72f9-eec0bb11f6)
 - [local-section:59c46a9d6abe44d9e7d54b54 — 5. Every error, zero and fixed-inducing contribution](../records/0148.md#local-section-59c46a9d6abe44d9e7d54b54-d9a2556ca2)
-- [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0148.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
+- [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0149.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
 - [local-section:5aea68852bba3e0968911c8a — 6. Full detector rectangle, complements and reciprocal return](../records/0149.md#local-section-5aea68852bba3e0968911c8a-871d3fa416)
 - [local-section:5b431e98582cb052bdfc4ba9 — Actual source admissibility](../records/0149.md#local-section-5b431e98582cb052bdfc4ba9-354865c1ec)
 - [local-section:5c1e133502f387bc078cf192 — R1. Verdict and mathematical boundary](../records/0149.md#local-section-5c1e133502f387bc078cf192-d690ebbbb9)
@@ -250,9 +251,8 @@ Page 1/2; 455 matching records.
 - [local-section:8d1869593932844c3e043f8b — 7. Decision-ready disposition and evidence limits](../records/0155.md#local-section-8d1869593932844c3e043f8b-0a0f7e1cc3)
 - [local-section:8e98752e48333454b964b97d — 6. New local affine moment, with every other branch paid](../records/0155.md#local-section-8e98752e48333454b964b97d-602b26ce96)
 - [local-section:8ee90dc63b5849ec3c0ebf7e — Partial \[research revision\] source development: the complementary cofactor after row Poisson](../records/0155.md#local-section-8ee90dc63b5849ec3c0ebf7e-154fef02fe)
-- [local-section:8ef1e72d73b050b1e4b76e0a — Local masks and exact coherent incidence](../records/0155.md#local-section-8ef1e72d73b050b1e4b76e0a-a112607eb5)
+- [local-section:8ef1e72d73b050b1e4b76e0a — Local masks and exact coherent incidence](../records/0156.md#local-section-8ef1e72d73b050b1e4b76e0a-a112607eb5)
 - [local-section:8f090ee197d8b4a5f323b153 — \[research revision\]: a nonlinear detector with a completely paid far tail](../records/0156.md#local-section-8f090ee197d8b4a5f323b153-13c4eb32e2)
 - [local-section:8f4438f5286ab48878b34720 — Decision](../records/0156.md#local-section-8f4438f5286ab48878b34720-79f2f70383)
 - [local-section:907682cfca2f65110e14b220 — G230. Paid ambient realizations and two independent audits](../records/0156.md#local-section-907682cfca2f65110e14b220-8e48689b1d)
 - [local-section:913544b3f1d498904fd25e7a — Extracted errors, zeros and fixed-inducing exceptions](../records/0156.md#local-section-913544b3f1d498904fd25e7a-9b30c94ab0)
-- [local-section:916eab9f2788eb758e0fabe8 — 7. Independent exact scalar return and remaining analytic fields](../records/0156.md#local-section-916eab9f2788eb758e0fabe8-2aeeabb4ef)

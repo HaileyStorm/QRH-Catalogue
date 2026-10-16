@@ -37,7 +37,7 @@ Page 2/4; 785 matching records.
 - [local-section:597764c0d2ac1c60e12bf504 — Available mathematical inputs](../records/0148.md#local-section-597764c0d2ac1c60e12bf504-0f738d17b1)
 - [local-section:5984f88cef230852394f72f9 — Combined support gain and the complete c8 endpoint](../records/0148.md#local-section-5984f88cef230852394f72f9-eec0bb11f6)
 - [local-section:59b2cd318603aabe75a48072 — 4. Multiplicative arithmetic and complex-height costs](../records/0148.md#local-section-59b2cd318603aabe75a48072-4d80068b31)
-- [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0148.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
+- [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0149.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
 - [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0149.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
 - [local-section:5acf0b635b4ed8599db93153 — Historical overlap and what remains open](../records/0149.md#local-section-5acf0b635b4ed8599db93153-e3ba182f38)
 - [local-section:5b35fb38b47f83f7df0a76ac — 2. Frozen evidence and independent method](../records/0149.md#local-section-5b35fb38b47f83f7df0a76ac-ab53ac71be)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 36/43; 10580 matching records.
+Page 36/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-35.md)
 
 [Next](status-unknown-b23a6a8439-37.md)
 
+- [local-section:b6a7f1f11c36d67becfb44e6 — 5. Complete changed endpoint geometry and shifts](../records/0161.md#local-section-b6a7f1f11c36d67becfb44e6-39a56e5fa1)
 - [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0161.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
 - [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0161.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
 - [local-section:b6d21e68ad3923aa3873f2b8 — G179. Full divisor-projection energy through the within-column cut](../records/0161.md#local-section-b6d21e68ad3923aa3873f2b8-d048808b79)
@@ -92,7 +93,7 @@ Page 36/43; 10580 matching records.
 - [local-section:bd97be3428a73d280db072a9 — 3. D1 — a one-sided subpower finite-volume pressure criterion](../records/0161.md#local-section-bd97be3428a73d280db072a9-71f360f83a)
 - [local-section:bda644af77335e2a6ce3655d — Tilted local plane and all physical branches](../records/0161.md#local-section-bda644af77335e2a6ce3655d-4dcb996cdd)
 - [local-section:bda8f95667ce4b444282a98d — 6. Independent uniform audit F06: a raw principal half-plane obstruction](../records/0161.md#local-section-bda8f95667ce4b444282a98d-35bd896d5f)
-- [local-section:bdbd8ec5896ab5931ccafd68 — Complex-height and multiplicative-source requirements](../records/0161.md#local-section-bdbd8ec5896ab5931ccafd68-0a79585c07)
+- [local-section:bdbd8ec5896ab5931ccafd68 — Complex-height and multiplicative-source requirements](../records/0162.md#local-section-bdbd8ec5896ab5931ccafd68-0a79585c07)
 - [local-section:bdd291ea79856e1913b319a2 — 3.1 A direct periodic hyperbola estimate](../records/0162.md#local-section-bdd291ea79856e1913b319a2-e54f259b20)
 - [local-section:bdf0a350f66a854bb6c0f41a — 3. A fixed quadratic class changes the actual row index](../records/0162.md#local-section-bdf0a350f66a854bb6c0f41a-6eedced03a)
 - [local-section:bdfba458741ea0df9616bb17 — 3. Actual arithmetic grouping, zeros and SF7 mass](../records/0162.md#local-section-bdfba458741ea0df9616bb17-2656713493)
@@ -178,7 +179,7 @@ Page 36/43; 10580 matching records.
 - [local-section:c51e9e04d8f796d976c208d5 — Evidence, novelty and next mathematical action](../records/0162.md#local-section-c51e9e04d8f796d976c208d5-561d4e4183)
 - [local-section:c526b794d30a7173d0e18af4 — Statement](../records/0162.md#local-section-c526b794d30a7173d0e18af4-67d7ad0aa4)
 - [local-section:c5297bd18dc7a2e31c5ef7b4 — Principal characters: an actual whole-cutoff collapse](../records/0162.md#local-section-c5297bd18dc7a2e31c5ef7b4-fe5334c4fd)
-- [local-section:c52dad48913daf917561a068 — Absolute values after shell integration](../records/0162.md#local-section-c52dad48913daf917561a068-a3ec8e5b99)
+- [local-section:c52dad48913daf917561a068 — Absolute values after shell integration](../records/0163.md#local-section-c52dad48913daf917561a068-a3ec8e5b99)
 - [local-section:c53092bfe86b28b080e31a83 — 4. Other actual first tests and their limits](../records/0163.md#local-section-c53092bfe86b28b080e31a83-bb2282f07d)
 - [local-section:c5338ab657c2b10e159e22b2 — Common measurements and next work](../records/0163.md#local-section-c5338ab657c2b10e159e22b2-4661d16aaa)
 - [local-section:c541d68fa1ef058aac37336e — 3. Complete local repricing](../records/0163.md#local-section-c541d68fa1ef058aac37336e-1b87675566)
@@ -257,4 +258,3 @@ Page 36/43; 10580 matching records.
 - [local-section:cb8f0e45fd258b67e97eed01 — Source and review anchors](../records/0163.md#local-section-cb8f0e45fd258b67e97eed01-4c5c5d0b4c)
 - [local-section:cb955c1736ce85084d3693ba — F25. Triple-rotation theta products](../records/0163.md#local-section-cb955c1736ce85084d3693ba-a37249c90a)
 - [local-section:cb964ee0eaf58beef9fb32b9 — Completed small-divisor source](../records/0163.md#local-section-cb964ee0eaf58beef9fb32b9-6b94be2afb)
-- [local-section:cb96694accf5d838ba288987 — 1. Frozen source, sampling and independent audit preparation](../records/0163.md#local-section-cb96694accf5d838ba288987-69f62f23b1)

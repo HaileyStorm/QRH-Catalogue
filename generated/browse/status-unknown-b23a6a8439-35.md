@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 35/43; 10580 matching records.
+Page 35/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-34.md)
 
 [Next](status-unknown-b23a6a8439-36.md)
 
+- [local-section:a0dae9e6c699ad575aeb7cbf — 1. Scope, blind chronology and evidence](../records/0158.md#local-section-a0dae9e6c699ad575aeb7cbf-bb5e7e5d96)
 - [local-section:a0dec8bd0e96306640e0d5f3 — G210. Unequal energies and all collision-label sums](../records/0158.md#local-section-a0dec8bd0e96306640e0d5f3-8515b929a4)
 - [local-section:a0f6b7f293bc3e9699fe2799 — R8. Uniform27: weighted four-cycles, not an unpriced frustration count](../records/0158.md#local-section-a0f6b7f293bc3e9699fe2799-26d84a7299)
 - [local-section:a102b147a0c02997e7165cbe — 2. Exact sources and what they permit](../records/0158.md#local-section-a102b147a0c02997e7165cbe-d9dcc3de11)
@@ -165,7 +166,7 @@ Page 35/43; 10580 matching records.
 - [local-section:add6ae3874f8d2a2d2b7dc71 — 7.1 The complete compensator is longer than the new useful range](../records/0159.md#local-section-add6ae3874f8d2a2d2b7dc71-e80ea50c25)
 - [local-section:adef0965f984251677e8ba44 — 4.2 Local and shortened-scale branches](../records/0159.md#local-section-adef0965f984251677e8ba44-89fbcd6de9)
 - [local-section:ae01d614d6310519c34af7f9 — Primary-source screen, ancestry, and next useful action](../records/0159.md#local-section-ae01d614d6310519c34af7f9-1dda46cb49)
-- [local-section:ae070b23fbd1060340f8c7f9 — 3.3 Explicit constants: no free growing-color import](../records/0159.md#local-section-ae070b23fbd1060340f8c7f9-01d0421437)
+- [local-section:ae070b23fbd1060340f8c7f9 — 3.3 Explicit constants: no free growing-color import](../records/0160.md#local-section-ae070b23fbd1060340f8c7f9-01d0421437)
 - [local-section:ae0a1ee22c954b72a787627d — 4. Ten author tests and two independent audits](../records/0160.md#local-section-ae0a1ee22c954b72a787627d-f01df5e65a)
 - [local-section:ae24a894a18af9497a6f3f03 — 1. Immutable evidence and independence](../records/0160.md#local-section-ae24a894a18af9497a6f3f03-4af53b905f)
 - [local-section:ae2582e0c12178d3cb9d9c69 — 3. Protected S29: a stable prime state still needs a signed observation theorem](../records/0160.md#local-section-ae2582e0c12178d3cb9d9c69-94ce0442f3)
@@ -255,6 +256,5 @@ Page 35/43; 10580 matching records.
 - [local-section:b658fe05ff54d6a88d8d0e7f — R4. Dilation repair: exact source and periodicity](../records/0160.md#local-section-b658fe05ff54d6a88d8d0e7f-f9aeca3b38)
 - [local-section:b65bf4efbaf0a34ed2209e91 — 14. Chaining and simultaneous use in the same proof](../records/0160.md#local-section-b65bf4efbaf0a34ed2209e91-08f7f0ba08)
 - [local-section:b67570a8edd3269965a2c244 — F14/F17/F15 — Expensive mechanisms for the mean, with scope retained](../records/0160.md#local-section-b67570a8edd3269965a2c244-dbccf32bf8)
-- [local-section:b68730de5c6aa2b6fb7e21d3 — 2. Local allocation coefficients and complete coalescence](../records/0160.md#local-section-b68730de5c6aa2b6fb7e21d3-4d16e03068)
+- [local-section:b68730de5c6aa2b6fb7e21d3 — 2. Local allocation coefficients and complete coalescence](../records/0161.md#local-section-b68730de5c6aa2b6fb7e21d3-4d16e03068)
 - [local-section:b6a78353b84b367161989161 — 4. Exact reduction of every source power](../records/0161.md#local-section-b6a78353b84b367161989161-8ad22943c2)
-- [local-section:b6a7f1f11c36d67becfb44e6 — 5. Complete changed endpoint geometry and shifts](../records/0161.md#local-section-b6a7f1f11c36d67becfb44e6-39a56e5fa1)

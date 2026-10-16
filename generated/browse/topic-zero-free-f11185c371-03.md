@@ -76,7 +76,7 @@ Page 3/4; 797 matching records.
 - [local-section:bd37fe163094f460c8f6a0f2 — \[research revision\] independent review of the merged GPT6-Pro consultation](../records/0161.md#local-section-bd37fe163094f460c8f6a0f2-bb4dc2ff92)
 - [local-section:bd505f9d635a513c9e985fa1 — \[research revision\] independent source-range review](../records/0161.md#local-section-bd505f9d635a513c9e985fa1-d637974ead)
 - [local-section:bd97be3428a73d280db072a9 — 3. D1 — a one-sided subpower finite-volume pressure criterion](../records/0161.md#local-section-bd97be3428a73d280db072a9-71f360f83a)
-- [local-section:bdbd8ec5896ab5931ccafd68 — Complex-height and multiplicative-source requirements](../records/0161.md#local-section-bdbd8ec5896ab5931ccafd68-0a79585c07)
+- [local-section:bdbd8ec5896ab5931ccafd68 — Complex-height and multiplicative-source requirements](../records/0162.md#local-section-bdbd8ec5896ab5931ccafd68-0a79585c07)
 - [local-section:bea4f24af36495166b986f8f — 2. Gaussian spectral input and every-interval observation](../records/0162.md#local-section-bea4f24af36495166b986f8f-b8751979aa)
 - [local-section:befedada8ec19707ce5cde44 — \[research revision\]: a licensed density improvement gives c11=.1251459636](../records/0162.md#local-section-befedada8ec19707ce5cde44-286ceaee7c)
 - [local-section:bf27be8a95c9bbd480408b8d — 2. A1–13: independently reconstructing the infinite spectral core](../records/0162.md#local-section-bf27be8a95c9bbd480408b8d-214301d8aa)

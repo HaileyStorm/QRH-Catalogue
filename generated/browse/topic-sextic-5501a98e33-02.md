@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 493 matching records.
+Page 2/2; 494 matching records.
 
 [Previous](topic-sextic-5501a98e33-01.md)
 
+- [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0153.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)
 - [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:81043dce3bb11070b43ef75d — 4. Forced rows and the all-multiplicity second inequality](../records/0154.md#local-section-81043dce3bb11070b43ef75d-4bd2a31498)
@@ -59,7 +60,7 @@ Page 2/2; 493 matching records.
 - [local-section:9dc1ddef45e415e7e5171b59 — 5a. Extension of balanced-residue mass to the COMPLETE tail](../records/0157.md#local-section-9dc1ddef45e415e7e5171b59-7d257aad96)
 - [local-section:9ddf7a81c6e56d13c63f3cee — Actual common-prime valuations and a stronger support bound](../records/0157.md#local-section-9ddf7a81c6e56d13c63f3cee-53376ee9eb)
 - [local-section:9e1507680af714a0269cf566 — 4. Original source interfaces and quantifier order](../records/0157.md#local-section-9e1507680af714a0269cf566-8f9444a9c1)
-- [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0157.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
+- [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0158.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
 - [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0158.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
 - [local-section:9f1457cb9962b9df7721d939 — 7. Evidence and next allocation](../records/0158.md#local-section-9f1457cb9962b9df7721d939-fd7cc43490)
 - [local-section:9f7ffe08a33a563378c74ef1 — \[research revision\]: all-source forced-row bounds for the actual mixed linear probe](../records/0158.md#local-section-9f7ffe08a33a563378c74ef1-ef1feb150d)
@@ -147,7 +148,7 @@ Page 2/2; 493 matching records.
 - [local-section:d9055d7cc725d514f0ef2ac5 — \[research revision\]: growing quadratic classes in the actual cubic moment](../records/0165.md#local-section-d9055d7cc725d514f0ef2ac5-6d623c73ac)
 - [local-section:d92b43110b6819e513cee769 — A far-source reduction to two separated inverse witnesses](../records/0165.md#local-section-d92b43110b6819e513cee769-a3834c375d)
 - [local-section:d9cac4c9cda71c08d374f0ae — \[research revision\] audit, provenance, and reconciliation record](../records/0165.md#local-section-d9cac4c9cda71c08d374f0ae-5b276b16eb)
-- [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0165.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
+- [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0166.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
 - [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0166.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
 - [local-section:db96c2d488b2f6fd52d4f34e — \[research revision\]: forced divisors in the full physical covariance](../records/0166.md#local-section-db96c2d488b2f6fd52d4f34e-fd8a27545d)
 - [local-section:dd50fbabc302107e72683124 — Independent sieve-headroom review and repetition-layer improvement](../records/0166.md#local-section-dd50fbabc302107e72683124-90f250393d)

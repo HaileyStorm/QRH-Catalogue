@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 4/6; 1437 matching records.
+Page 4/6; 1438 matching records.
 
 [Previous](method-duality-c5419f8b09-03.md)
 
 [Next](method-duality-c5419f8b09-05.md)
 
+- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
 - [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0154.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
 - [local-section:808bf921712decac8e287f56 — Verdict and scope](../records/0154.md#local-section-808bf921712decac8e287f56-4cbdd702b6)
@@ -229,7 +230,7 @@ Page 4/6; 1437 matching records.
 - [local-section:b631a3e50972baa4a1629e52 — 6. Protected audit20: actual matching and its paid critical source](../records/0160.md#local-section-b631a3e50972baa4a1629e52-b4fc5f8753)
 - [local-section:b64009c11dacd91179633052 — 5. W56-28: conditional same-zero density gain](../records/0160.md#local-section-b64009c11dacd91179633052-098a6c0843)
 - [local-section:b67570a8edd3269965a2c244 — F14/F17/F15 — Expensive mechanisms for the mean, with scope retained](../records/0160.md#local-section-b67570a8edd3269965a2c244-dbccf32bf8)
-- [local-section:b68730de5c6aa2b6fb7e21d3 — 2. Local allocation coefficients and complete coalescence](../records/0160.md#local-section-b68730de5c6aa2b6fb7e21d3-4d16e03068)
+- [local-section:b68730de5c6aa2b6fb7e21d3 — 2. Local allocation coefficients and complete coalescence](../records/0161.md#local-section-b68730de5c6aa2b6fb7e21d3-4d16e03068)
 - [local-section:b6d7db0bb64f3f56325f2df3 — \[research revision\]: a literal signed primitive low-dual payment](../records/0161.md#local-section-b6d7db0bb64f3f56325f2df3-b9910ae8df)
 - [local-section:b7a390ad35c9d25259f5a05e — 7. All-card disposition and validation](../records/0161.md#local-section-b7a390ad35c9d25259f5a05e-b971bb2f95)
 - [local-section:b7dac1f8a35df4b19d380d57 — \[research revision\] discovery-first sieve headroom](../records/0161.md#local-section-b7dac1f8a35df4b19d380d57-c0eed70b42)
@@ -257,4 +258,3 @@ Page 4/6; 1437 matching records.
 - [local-section:bc5774a912dab6ed5eba9dc3 — 9. All thirty dispositions, preserving untested status](../records/0161.md#local-section-bc5774a912dab6ed5eba9dc3-9bbe839d98)
 - [local-section:bc5e22f7a7f79ca6dc56ec43 — G126. Exact whole-shell bank with two branches paid](../records/0161.md#local-section-bc5e22f7a7f79ca6dc56ec43-87099fc9e3)
 - [local-section:bc92a5590245b2bd10427fc0 — Cofactor residuals, their exact depth threshold and complete observation costs](../records/0161.md#local-section-bc92a5590245b2bd10427fc0-472f959e06)
-- [local-section:bcaaacf123be209f056e8e95 — \[research revision\]: actual rough-mask covariance in the hard primitive-shift region](../records/0161.md#local-section-bcaaacf123be209f056e8e95-42d7f94ad7)

@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 66 matching records.
+Page 1/1; 67 matching records.
 
 - [MATH-PR48-57ca0662-collision-partitions — Collision partitions for overlapping finite slot pools](../records/0129.md#math-pr48-57ca0662-collision-partitions-6b4f96fbc7)
 - [MATH-PR48-57ca0662-finite-polarization — Finite polarization from common product profiles](../records/0129.md#math-pr48-57ca0662-finite-polarization-4afcdc06a5)
@@ -70,3 +70,4 @@ Page 1/1; 66 matching records.
 - [QRH-CONT-R034-PRIME-OVERLAP-MOMENT — Exact selected/full prime overlap and a short-product moment with repeated primes](../records/0131.md#qrh-cont-r034-prime-overlap-moment-7c0306af14)
 - [QRH-CONT-R038-CUBE-MARK-SIGNAL — Cube-divisibility local factors and separately calibrated reciprocal signals](../records/0131.md#qrh-cont-r038-cube-mark-signal-c3745d499c)
 - [QRH-CONT-R039-CONDITIONED-PRIME-TILTS — Conditioned short-prime moment tilts with zero-bin and width costs](../records/0131.md#qrh-cont-r039-conditioned-prime-tilts-86da57966b)
+- [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)

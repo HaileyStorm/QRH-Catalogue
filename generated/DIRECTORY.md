@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21786 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21787 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -101,7 +101,7 @@
 - [G109 — G109. Fixed countable banks, exact buffering and the complete source](records/0171.md#local-g109-fab6e1e2f7)
 - [G110 — G110. The canonical amplitude-conditioned theorem](records/0171.md#local-g110-07e53448ee)
 - [G111 — G111. Accepted c10 licenses a smaller density capacity](records/0171.md#local-g111-70b84ecbc6)
-- [G112 — G112. Coalescence does not lower the independent-defect power cost](records/0171.md#local-g112-576f044b32)
+- [G112 — G112. Coalescence does not lower the independent-defect power cost](records/0172.md#local-g112-576f044b32)
 - [G113 — G113. Actual signed profiles buy logarithms, with exact limits](records/0172.md#local-g113-6c10bbc310)
 - [G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](records/0172.md#local-g114-fec7178ffd)
 - [G115 — 3. G115: complete cutoffs agree at the actual zero](records/0172.md#local-g115-d13affe636)
@@ -201,7 +201,7 @@
 - [G208 — G208: exact pair mass and a fifth actual row class](records/0172.md#local-g208-e7dcec8556)
 - [G209 — G209. All thirteen collision types and the exact mixed-order source](records/0172.md#local-g209-c243fafc07)
 - [G210 — G210. Unequal energies and all collision-label sums](records/0172.md#local-g210-2b166add49)
-- [G211 — G211. Paid cores in the nonunique companion and the retained hard sum](records/0172.md#local-g211-d9305c406e)
+- [G211 — G211. Paid cores in the nonunique companion and the retained hard sum](records/0173.md#local-g211-d9305c406e)
 - [G212 — G212. Fixed-family binding and complete row/column lifts](records/0173.md#local-g212-6e2dec84ed)
 - [G213 — G213. Average the true cubic label before counting repetitions](records/0173.md#local-g213-46d38d3f6e)
 - [G214 — G214. Counted sectors and the full physical obstruction](records/0173.md#local-g214-3db1fe9e64)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 27/43; 10580 matching records.
+Page 27/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-26.md)
 
 [Next](status-unknown-b23a6a8439-28.md)
 
+- [exact-source:979c81d42533e23abf89a447 — Exact source span: e35dbe7b205d lines 511–543](../records/0135.md#exact-source-979c81d42533e23abf89a447-6dd1185cab)
 - [exact-source:97b1bd040477e7d1620da9bd — Exact source span: 44c7c951d5be lines 24–130](../records/0135.md#exact-source-97b1bd040477e7d1620da9bd-67e425c79a)
 - [exact-source:980367b40dfb7f1be3c20c17 — Exact source span: dd4aed8124f9 lines 98–98](../records/0135.md#exact-source-980367b40dfb7f1be3c20c17-8dd029f3ab)
 - [exact-source:9b70265b923dda6f4b3094c2 — Exact source span: 3582859b4716 lines 556–595](../records/0135.md#exact-source-9b70265b923dda6f4b3094c2-df39323f73)
@@ -89,7 +90,7 @@ Page 27/43; 10580 matching records.
 - [exact-source:bb6bd3c7f3d2d77a51e36160 — Exact source span: 2b4c67c3e817 lines 901–943](../records/0135.md#exact-source-bb6bd3c7f3d2d77a51e36160-c9f8c7dd67)
 - [exact-source:bb7f6f96395e1171493b97dc — Exact source span: dd4aed8124f9 lines 1424–1424](../records/0135.md#exact-source-bb7f6f96395e1171493b97dc-4830a2c597)
 - [exact-source:bbc5d25ee29cf2efb9f4b899 — Exact source span: 0f7917aef0da lines 20–76](../records/0135.md#exact-source-bbc5d25ee29cf2efb9f4b899-f179fecae7)
-- [exact-source:bc95c5b346235c16bcf7ce4b — Exact source span: bfb7dc759e87 lines 135–228](../records/0135.md#exact-source-bc95c5b346235c16bcf7ce4b-3a540c7eee)
+- [exact-source:bc95c5b346235c16bcf7ce4b — Exact source span: bfb7dc759e87 lines 135–228](../records/0136.md#exact-source-bc95c5b346235c16bcf7ce4b-3a540c7eee)
 - [exact-source:bc9c714e6b2d5af21f7cbdfb — Exact source span: 11ed4ae5fc39 lines 85–135](../records/0136.md#exact-source-bc9c714e6b2d5af21f7cbdfb-d727f660d4)
 - [exact-source:bd276015b9d465c3ee00c3bb — Exact source span: 2b4c67c3e817 lines 1177–1353](../records/0136.md#exact-source-bd276015b9d465c3ee00c3bb-f1ae75e41e)
 - [exact-source:bd3ce95b7a4322595e36424e — Exact source span: db599b9621c5 lines 124–183](../records/0136.md#exact-source-bd3ce95b7a4322595e36424e-1333c40357)
@@ -189,7 +190,7 @@ Page 27/43; 10580 matching records.
 - [exact-source:e45aefeb0325051e00f9a8c6 — Exact source span: 3582859b4716 lines 186–201](../records/0136.md#exact-source-e45aefeb0325051e00f9a8c6-e1619b6ce3)
 - [exact-source:e55dd4ccd5f5e16c382d8356 — Exact source span: dd4aed8124f9 lines 1206–1206](../records/0136.md#exact-source-e55dd4ccd5f5e16c382d8356-ad8c37abe5)
 - [exact-source:e57dd60ca0f0f9fd42fd8940 — Exact source span: 26037944fae4 lines 63–87](../records/0136.md#exact-source-e57dd60ca0f0f9fd42fd8940-5323f56636)
-- [exact-source:e580b051cb9c492b4bc125bf — Exact source span: dd4aed8124f9 lines 474–474](../records/0136.md#exact-source-e580b051cb9c492b4bc125bf-d096c7fe8c)
+- [exact-source:e580b051cb9c492b4bc125bf — Exact source span: dd4aed8124f9 lines 474–474](../records/0137.md#exact-source-e580b051cb9c492b4bc125bf-d096c7fe8c)
 - [exact-source:e62a0b828359fe9ff4d59d45 — Exact source span: dd4aed8124f9 lines 287–287](../records/0137.md#exact-source-e62a0b828359fe9ff4d59d45-9888537401)
 - [exact-source:e644679b6d67333b220ade63 — Exact source span: 892884d5a277 lines 1–312](../records/0137.md#exact-source-e644679b6d67333b220ade63-2c71663829)
 - [exact-source:e6e31835a8bc91fae9d3fece — Exact source span: dd4aed8124f9 lines 1368–1368](../records/0137.md#exact-source-e6e31835a8bc91fae9d3fece-ad9bc68ccb)
@@ -257,4 +258,3 @@ Page 27/43; 10580 matching records.
 - [exact-source:ffa0b96afc22840fe8b18a6c — Exact source span: dd4aed8124f9 lines 822–822](../records/0137.md#exact-source-ffa0b96afc22840fe8b18a6c-a358bf0670)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
-- [local-section:005ffa70ffcb900c32b6b3fb — 2.2 Kernel coefficients and convergence](../records/0137.md#local-section-005ffa70ffcb900c32b6b3fb-131266e85a)

@@ -35,7 +35,7 @@ Page 3/3; 601 matching records.
 - [local:G163 — G163. Exact native Schur and four-cycle bills](../records/0172.md#local-g163-f5dbf60250)
 - [local:G170 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0172.md#local-g170-c98506834f)
 - [local:G181 — G181. A smaller signed residual, with the physical return still open](../records/0172.md#local-g181-217607fadc)
-- [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
+- [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0174.md#local-g6-e89f333778)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)
 - [local:G83 — G83. Actual balanced completion at growing order](../records/0174.md#local-g83-8dd3bd523d)

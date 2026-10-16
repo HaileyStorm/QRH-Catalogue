@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 30/43; 10580 matching records.
+Page 30/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-29.md)
 
 [Next](status-unknown-b23a6a8439-31.md)
 
+- [local-section:31199af51f1d3cd61de267b7 — W40-02 — Orthogonalize the two heights jointly; p=.12](../records/0143.md#local-section-31199af51f1d3cd61de267b7-6cfb8d8568)
 - [local-section:3142470e9af2d17fb2c69d72 — Reviewed observation, source-filter and positivity components](../records/0143.md#local-section-3142470e9af2d17fb2c69d72-fc8ac8ba98)
 - [local-section:31429f52c33ea991fb883a40 — G158. Actual Type I removal on plain L2, including every character](../records/0143.md#local-section-31429f52c33ea991fb883a40-82b1e1acc9)
 - [local-section:3144790cd4be8cc331c1b966 — G107. Exact divisor elimination and the real-cutoff repair](../records/0143.md#local-section-3144790cd4be8cc331c1b966-9ed0936949)
@@ -121,7 +122,7 @@ Page 30/43; 10580 matching records.
 - [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0144.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
 - [local-section:3bd239d030eef1d7860c0652 — 1. Frozen evidence and sampling](../records/0144.md#local-section-3bd239d030eef1d7860c0652-8ea3001631)
 - [local-section:3bdcf002a3f4f687964d9a46 — 4. Paying the prefix on the whole original slot range](../records/0144.md#local-section-3bdcf002a3f4f687964d9a46-5e928517d8)
-- [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0144.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
+- [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0145.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
 - [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0145.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
 - [local-section:3c4fbfc71bb4dd9193e4f0bc — 2. An actual signed global asymptotic](../records/0145.md#local-section-3c4fbfc71bb4dd9193e4f0bc-8b73f69b29)
 - [local-section:3c5a0aa24c5403797f36c878 — Required precision: limiting exponent versus exact-line inverse](../records/0145.md#local-section-3c5a0aa24c5403797f36c878-385c35d442)
@@ -207,7 +208,7 @@ Page 30/43; 10580 matching records.
 - [local-section:43f1fc7db7e90d6b873ed37d — 2.3 A moving small-prime sector is also fully paid](../records/0145.md#local-section-43f1fc7db7e90d6b873ed37d-c22a9f3e57)
 - [local-section:4403dd770f71040015ed64f9 — 2.4 Global density error, complete core, and exact coefficient 2](../records/0145.md#local-section-4403dd770f71040015ed64f9-38a8b6ee2d)
 - [local-section:4438318619112d5cb3e85ffa — 8. Evidence limits and final state](../records/0145.md#local-section-4438318619112d5cb3e85ffa-748db4272b)
-- [local-section:4447d76efe4fddfedaef4feb — W40-16 — Hankel realization before moment formation; p=.075](../records/0145.md#local-section-4447d76efe4fddfedaef4feb-6de2562d72)
+- [local-section:4447d76efe4fddfedaef4feb — W40-16 — Hankel realization before moment formation; p=.075](../records/0146.md#local-section-4447d76efe4fddfedaef4feb-6de2562d72)
 - [local-section:4457e9b00e9ff73ed973ef0c — 3. W43-15: exact Newton feedback and the missing detector](../records/0146.md#local-section-4457e9b00e9ff73ed973ef0c-2b8f6b38bd)
 - [local-section:44635861556b54569d7ba84d — 10. Verification and handoff boundary](../records/0146.md#local-section-44635861556b54569d7ba84d-f11bac91cb)
 - [local-section:446f581b2f06b60449fddb3b — 5. Full product moment: two added slots and every diagonal](../records/0146.md#local-section-446f581b2f06b60449fddb3b-8bac7e0561)
@@ -257,4 +258,3 @@ Page 30/43; 10580 matching records.
 - [local-section:480e9c55f6d5cc30665ad054 — Sampling, novelty and preserved limits](../records/0146.md#local-section-480e9c55f6d5cc30665ad054-b4a6eac682)
 - [local-section:482ecf42fe5937b8e8ca932e — 6. Full Fourier-height implementation](../records/0146.md#local-section-482ecf42fe5937b8e8ca932e-2ffea287df)
 - [local-section:484e95f59a6122d8cf370807 — F04.H — Short-divisor H](../records/0146.md#local-section-484e95f59a6122d8cf370807-9c90084881)
-- [local-section:485d62cbaceeee39e1d8d770 — Sol04 \[research revision\] bounded research handoff](../records/0146.md#local-section-485d62cbaceeee39e1d8d770-23e5ae2f5d)

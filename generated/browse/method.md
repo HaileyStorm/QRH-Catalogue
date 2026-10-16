@@ -75,7 +75,7 @@
 - [differentiated zero potential (1)](method-differentiated-zero-potential-d58e675db6-01.md)
 - [dirichlet-convolution (2)](method-dirichlet-convolution-8298c79859-01.md)
 - [divisor-projected quadratic bounds (1)](method-divisor-projected-quadratic-bounds-35af8e3502-01.md)
-- [duality (1437)](method-duality-c5419f8b09-01.md)
+- [duality (1438)](method-duality-c5419f8b09-01.md)
 - [dyadic normal continuation (1)](method-dyadic-normal-continuation-30a81efdd9-01.md)
 - [exact Euler-factor convolution (1)](method-exact-euler-factor-convolution-7c0b65da7f-01.md)
 - [exact changed-return diagnosis (1)](method-exact-changed-return-diagnosis-812f677e4b-01.md)

@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 493 matching records.
+Page 1/2; 494 matching records.
 
 [Next](topic-sextic-5501a98e33-02.md)
 
@@ -60,6 +60,7 @@ Page 1/2; 493 matching records.
 - [P30-34 — Norm-lift family and uniform boundary obligations](../records/0130.md#p30-34-f2008f8379)
 - [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
 - [QRH-CONT-R034-PRIME-OVERLAP-MOMENT — Exact selected/full prime overlap and a short-product moment with repeated primes](../records/0131.md#qrh-cont-r034-prime-overlap-moment-7c0306af14)
+- [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0137.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
 - [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0137.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
@@ -109,7 +110,7 @@ Page 1/2; 493 matching records.
 - [local-section:20a93b2aed3f756d9d3861ce — 1. Inputs, source and relation to R_nonunique](../records/0141.md#local-section-20a93b2aed3f756d9d3861ce-5f9f08d926)
 - [local-section:20e4b37727cde3aaa51ec5f8 — \[research revision\]: weighted physical radical mass](../records/0141.md#local-section-20e4b37727cde3aaa51ec5f8-dd746269dd)
 - [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0141.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
-- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
+- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:24bfc80a21c7f1c9e4994e0a — \[research revision\]: complete cross-class reduction](../records/0142.md#local-section-24bfc80a21c7f1c9e4994e0a-853c1be043)
 - [local-section:253bb40bb2b9a9521bae8ff5 — \[research revision\]: a larger literal amplifier gives local capacity 4.44](../records/0142.md#local-section-253bb40bb2b9a9521bae8ff5-d141175ebb)
@@ -135,7 +136,7 @@ Page 1/2; 493 matching records.
 - [local-section:32913ec7134a0e926287eb4c — Corrections that must survive integration](../records/0143.md#local-section-32913ec7134a0e926287eb4c-96749fca6c)
 - [local-section:332b0ac5856c137e26badad2 — D. Secondary survivors and quantitative reopen conditions](../records/0143.md#local-section-332b0ac5856c137e26badad2-20129faa49)
 - [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0143.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
-- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
+- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0144.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
 - [local-section:35394c0ef68a595f98f507c7 — \[research revision\]: original-prime H covariance — bounded development](../records/0144.md#local-section-35394c0ef68a595f98f507c7-e25a7848d5)
 - [local-section:380314b61fa3fde6fa61379c — 2. Primitive Poisson and both orientations](../records/0144.md#local-section-380314b61fa3fde6fa61379c-e7f38cee5f)
@@ -230,7 +231,7 @@ Page 1/2; 493 matching records.
 - [local-section:6fa33cd15f5b15add5f0a2f5 — 1. Frozen source, orientations and precise decomposition](../records/0151.md#local-section-6fa33cd15f5b15add5f0a2f5-d4086f81eb)
 - [local-section:6fff378adca19063ea8dd1c1 — \[research revision\]: an actual large-common-divisor estimate for the separated inverse source](../records/0151.md#local-section-6fff378adca19063ea8dd1c1-698cd21083)
 - [local-section:70376851109010644d97af33 — 5. Low/high branches, missing labels and all-height scope](../records/0151.md#local-section-70376851109010644d97af33-41ed5c4166)
-- [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
+- [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0152.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:71bb65ff638afa27287e55e1 — 5. Genuine embedding in the \[research revision\] joint bank](../records/0152.md#local-section-71bb65ff638afa27287e55e1-64703711bf)
 - [local-section:7214b5cc77611a289b9a8eef — 9. Full costs, transfer boundary and possible direct return](../records/0152.md#local-section-7214b5cc77611a289b9a8eef-184af844c5)
 - [local-section:724707a1bbd5a67003d966ab — 3. Conductor, index, physical row length, and mean exponent are different quantities](../records/0152.md#local-section-724707a1bbd5a67003d966ab-a71e87903e)
@@ -255,4 +256,3 @@ Page 1/2; 493 matching records.
 - [local-section:7dbf76f5b1166499c4f8d3bc — All arithmetic and terminal branches](../records/0153.md#local-section-7dbf76f5b1166499c4f8d3bc-9b16965a8f)
 - [local-section:7e20b3e5e6fbf78f646eb9a5 — F04. Sextic reflection, physical covariance, probe and numerator](../records/0153.md#local-section-7e20b3e5e6fbf78f646eb9a5-f250f8de2e)
 - [local-section:7eea77463838b863b1985ed9 — Surviving mechanism and direct-return boundary](../records/0153.md#local-section-7eea77463838b863b1985ed9-e67f9928f1)
-- [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0153.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)

@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 25/43; 10580 matching records.
+Page 25/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-24.md)
 
@@ -126,6 +126,7 @@ Page 25/43; 10580 matching records.
 - [QRH-CONT-R034-PRIME-OVERLAP-MOMENT — Exact selected/full prime overlap and a short-product moment with repeated primes](../records/0131.md#qrh-cont-r034-prime-overlap-moment-7c0306af14)
 - [QRH-CONT-R038-CUBE-MARK-SIGNAL — Cube-divisibility local factors and separately calibrated reciprocal signals](../records/0131.md#qrh-cont-r038-cube-mark-signal-c3745d499c)
 - [QRH-CONT-R039-CONDITIONED-PRIME-TILTS — Conditioned short-prime moment tilts with zero-bin and width costs](../records/0131.md#qrh-cont-r039-conditioned-prime-tilts-86da57966b)
+- [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
 - [exact-source:0017cd4ac1c1b486d44db640 — Exact source span: dd4aed8124f9 lines 175–175](../records/0131.md#exact-source-0017cd4ac1c1b486d44db640-d9ad901cae)
 - [exact-source:0034e41db97d6416963dcf7f — Exact source span: 3582859b4716 lines 713–747](../records/0131.md#exact-source-0034e41db97d6416963dcf7f-29360534d8)
 - [exact-source:00e55c4bc0250e01c45ac11c — Exact source span: c750f6364171 lines 174–230](../records/0131.md#exact-source-00e55c4bc0250e01c45ac11c-788ef64e02)
@@ -189,7 +190,7 @@ Page 25/43; 10580 matching records.
 - [exact-source:1b5c39b6dfd522691e823d4b — Exact source span: dd4aed8124f9 lines 895–895](../records/0131.md#exact-source-1b5c39b6dfd522691e823d4b-3d58bedd62)
 - [exact-source:1b9d03c84c82f9558bd2e5e4 — Exact source span: e5205bfc0ee9 lines 166–232](../records/0131.md#exact-source-1b9d03c84c82f9558bd2e5e4-7a2db8b76f)
 - [exact-source:1c20dd143cdfa05bccc540d2 — Exact source span: e5205bfc0ee9 lines 121–165](../records/0131.md#exact-source-1c20dd143cdfa05bccc540d2-8302d3d62f)
-- [exact-source:1c5c9820a88a3f614888c9ce — Exact source span: 2b4c67c3e817 lines 1103–1105](../records/0131.md#exact-source-1c5c9820a88a3f614888c9ce-040f100320)
+- [exact-source:1c5c9820a88a3f614888c9ce — Exact source span: 2b4c67c3e817 lines 1103–1105](../records/0132.md#exact-source-1c5c9820a88a3f614888c9ce-040f100320)
 - [exact-source:1c71f54ff0bf57379c1560ba — Exact source span: dd4aed8124f9 lines 145–145](../records/0132.md#exact-source-1c71f54ff0bf57379c1560ba-e250bb7806)
 - [exact-source:1db8b39829141e7c479815ee — Exact source span: c79eb708286d lines 150–226](../records/0132.md#exact-source-1db8b39829141e7c479815ee-68f03e8a16)
 - [exact-source:1ea04959346483b75fc1db69 — Exact source span: 54f9692de185 lines 261–385](../records/0132.md#exact-source-1ea04959346483b75fc1db69-b0a7a591f4)
@@ -257,4 +258,3 @@ Page 25/43; 10580 matching records.
 - [exact-source:37c948335205c53625a9be28 — Exact source span: c8b9994d6a55 lines 4171–4171](../records/0132.md#exact-source-37c948335205c53625a9be28-6fbcd28a70)
 - [exact-source:38373d49ef35c1ca30a8a9b6 — Exact source span: 5c4a5571174c lines 151–155](../records/0132.md#exact-source-38373d49ef35c1ca30a8a9b6-ff98ddfad2)
 - [exact-source:38d77a7db21ad4cafca19074 — Exact source span: 02982181d32f lines 1–33](../records/0132.md#exact-source-38d77a7db21ad4cafca19074-1cb75103d0)
-- [exact-source:38f628aac826d4dae813cfd2 — Exact source span: e35dbe7b205d lines 1818–1906](../records/0132.md#exact-source-38f628aac826d4dae813cfd2-7ce7d9b942)

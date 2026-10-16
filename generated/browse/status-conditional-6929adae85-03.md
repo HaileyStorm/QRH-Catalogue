@@ -141,7 +141,7 @@ Page 3/3; 662 matching records.
 - [local:G306 — G306. Uniform inverse-amplifier constants and single prime-normalization repair](../records/0173.md#local-g306-6a98b46672)
 - [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0173.md#local-g307-de7641143f)
 - [local:G308 — G308. Complete fifth hypothetical-zero Laurent residue return](../records/0173.md#local-g308-65cda3db23)
-- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0173.md#local-g310-39134eeca1)
+- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0174.md#local-g310-39134eeca1)
 - [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0174.md#local-n27-f-a63b19d62a)
 - [local:N28.C — N28.C — Average b continuously on \[2,3\]](../records/0174.md#local-n28-c-ac2c6c0cac)
 - [local:N28.D — N28.D — Δ_bM=M(bx)−b^αM(x), b2,3, fixedα∈(0,1)](../records/0174.md#local-n28-d-ba4cbf6f6f)

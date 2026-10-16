@@ -150,4 +150,4 @@ Page 2/2; 395 matching records.
 - [local:G296 — G296. Shorter-period beta-profile return and a conditional simple-zero mode](../records/0173.md#local-g296-967abf5d0c)
 - [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0173.md#local-g307-de7641143f)
 - [local:G308 — G308. Complete fifth hypothetical-zero Laurent residue return](../records/0173.md#local-g308-65cda3db23)
-- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0173.md#local-g310-39134eeca1)
+- [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0174.md#local-g310-39134eeca1)

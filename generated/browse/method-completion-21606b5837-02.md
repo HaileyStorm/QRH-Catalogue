@@ -18,7 +18,7 @@ Page 2/3; 601 matching records.
 - [local-section:7681d5c8b88a8eacc362c417 — Current result and exact missing arithmetic](../records/0152.md#local-section-7681d5c8b88a8eacc362c417-e64f63e0fe)
 - [local-section:76b413ee7c29f89fb1395eb8 — 1. Verdict](../records/0152.md#local-section-76b413ee7c29f89fb1395eb8-3e8cda31af)
 - [local-section:772762922325a550ed1e067c — \[research revision\]: paid detector overlap and consultation library](../records/0152.md#local-section-772762922325a550ed1e067c-b62b2e1a0a)
-- [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
+- [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0153.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:79a32f3349f78154fe57c510 — 9. Author comparison and final status](../records/0153.md#local-section-79a32f3349f78154fe57c510-27b460a68b)
 - [local-section:79e849d7a09228505787d1b0 — G. Current alternative library and original stable IDs](../records/0153.md#local-section-79e849d7a09228505787d1b0-e1c8108098)
 - [local-section:7a1af8422257d79142924b8b — 3. Exact two-prime source in the Gaussian central range](../records/0153.md#local-section-7a1af8422257d79142924b8b-0459c9145f)

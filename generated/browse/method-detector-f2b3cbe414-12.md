@@ -92,7 +92,7 @@ Page 12/12; 2896 matching records.
 - [pr26:Global.Transport.PrincipalSignal::normalized_source_double_residue@1166 — normalized_source_double_residue](../records/0213.md#pr26-global-transport-principalsignal-normalized-source-double-re-bb3e793922)
 - [pr26:Global.Transport.PrincipalSignal::sourceResidueIntegral_normalized@1192 — sourceResidueIntegral_normalized](../records/0213.md#pr26-global-transport-principalsignal-sourceresidueintegral-norma-72e810f91a)
 - [pr26:Global.Transport.SmallTail::small_physical_dyads_sum@692 — small_physical_dyads_sum](../records/0213.md#pr26-global-transport-smalltail-small-physical-dyads-sum-692-3401a8bad7)
-- [pr26:Global.Transport.SourceAmplitudeClasses::actual_source_amplitude_batches@751 — actual_source_amplitude_batches](../records/0213.md#pr26-global-transport-sourceamplitudeclasses-actual-source-amplit-3a83456190)
+- [pr26:Global.Transport.SourceAmplitudeClasses::actual_source_amplitude_batches@751 — actual_source_amplitude_batches](../records/0214.md#pr26-global-transport-sourceamplitudeclasses-actual-source-amplit-3a83456190)
 - [pr26:Global.Weighted.SourceFinish::weighted_source_normalized_fullW_of_integrated@96 — weighted_source_normalized_fullW_of_integrated](../records/0214.md#pr26-global-weighted-sourcefinish-weighted-source-normalized-full-413001afe4)
 - [pr26:Global.Weighted.SourceScalar::weighted_source_scalar_on_rows@1226 — weighted_source_scalar_on_rows](../records/0214.md#pr26-global-weighted-sourcescalar-weighted-source-scalar-on-rows--c0c4267e94)
 - [pr26:LocalMoment.ActualUnmarkedInputs::unmarked_batch_from_actual_maxima@109 — unmarked_batch_from_actual_maxima](../records/0214.md#pr26-localmoment-actualunmarkedinputs-unmarked-batch-from-actual--73a0c936f2)

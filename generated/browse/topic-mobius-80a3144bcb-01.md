@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 955 matching records.
+Page 1/4; 956 matching records.
 
 [Next](topic-mobius-80a3144bcb-02.md)
 
@@ -33,6 +33,7 @@ Page 1/4; 955 matching records.
 - [QRH-CONT-M017-MOBIUS-TAIL — Complete long-Mobius-factor reduction with a negligible smooth-lattice remainder](../records/0131.md#qrh-cont-m017-mobius-tail-d4fbc01e2c)
 - [QRH-CONT-R018-FIXED-LATTICE-KERNEL — Complete fixed lattice-kernel representation retaining the ordinary outer sum](../records/0131.md#qrh-cont-r018-fixed-lattice-kernel-eb86d046f3)
 - [QRH-CONT-R019-SMALL-PRIME-NORM-PRICE — Exact small-prime pairing and the cost of separately norming its two kernels](../records/0131.md#qrh-cont-r019-small-prime-norm-price-27e946249f)
+- [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
@@ -112,7 +113,7 @@ Page 1/4; 955 matching records.
 - [local-section:1a543dff034dcf5976f6ef0b — 2. Independent reconstruction of the author's deletion and parity claims](../records/0140.md#local-section-1a543dff034dcf5976f6ef0b-76d102bdcd)
 - [local-section:1b0f9cab9c344a3df8cbbbe5 — A shorter-factor corollary and the actual limits of the estimates](../records/0140.md#local-section-1b0f9cab9c344a3df8cbbbe5-35063c1d68)
 - [local-section:1b40398ea284bd7c961c19f7 — G142. Actual logarithmic improvement and the remaining complete core](../records/0140.md#local-section-1b40398ea284bd7c961c19f7-4f1dc27037)
-- [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0140.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
+- [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0141.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
 - [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0141.md#local-section-1b7972de99305d82899b971b-ad968fff11)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
 - [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0141.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
@@ -136,7 +137,7 @@ Page 1/4; 955 matching records.
 - [local-section:214cc4e416753ed8f2fac33d — 9. Fixed-power late flow and the square-root critical profile](../records/0141.md#local-section-214cc4e416753ed8f2fac33d-7c9074ccba)
 - [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0141.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
 - [local-section:217da81863dac82991f78afc — Reconstructing the baseline, including the end ranks](../records/0141.md#local-section-217da81863dac82991f78afc-cd8186e1a2)
-- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
+- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2398625eb5bc1a2804ed48b8 — F07.C / F13.T — Changed Jacobi phase and a quadratic-row triple source](../records/0142.md#local-section-2398625eb5bc1a2804ed48b8-08ee6b40da)
 - [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0142.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)
 - [local-section:23dee2845ddcfb42313c0ac2 — 8. Attempted escape: a zero-sum compensator bank really deflates cells](../records/0142.md#local-section-23dee2845ddcfb42313c0ac2-e5efa90171)
@@ -194,7 +195,7 @@ Page 1/4; 955 matching records.
 - [local-section:32170de5c19ef68116c21f89 — \[research revision\]: complete fugacity and signed boundary contracts](../records/0143.md#local-section-32170de5c19ef68116c21f89-e3bb2e99b0)
 - [local-section:331bd6aa4ece04bce1eae6a6 — 9. What is accepted, what remains open, and next action](../records/0143.md#local-section-331bd6aa4ece04bce1eae6a6-9a64a5fce1)
 - [local-section:3374e0f8fbfa276a6bedc4e4 — A17. Exact completed-cutoff and rough-column obstructions](../records/0143.md#local-section-3374e0f8fbfa276a6bedc4e4-349cfc7c8d)
-- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
+- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0144.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33cc3f99ce651f795de0422c — \[research revision\]: actual integer coalescence and signed friable profiles](../records/0144.md#local-section-33cc3f99ce651f795de0422c-870c282b41)
 - [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
@@ -255,4 +256,3 @@ Page 1/4; 955 matching records.
 - [local-section:485d62cbaceeee39e1d8d770 — Sol04 \[research revision\] bounded research handoff](../records/0146.md#local-section-485d62cbaceeee39e1d8d770-23e5ae2f5d)
 - [local-section:48d81bbb109abceb01dfd3a3 — 7. Fixed-depth deflation and its qualifications](../records/0146.md#local-section-48d81bbb109abceb01dfd3a3-ccd4dabfde)
 - [local-section:48e7975a57315f781fc86611 — \[research revision\]: the actual merged renewal norm and signed profile corrections](../records/0146.md#local-section-48e7975a57315f781fc86611-0d9cc844ff)
-- [local-section:4958912978a30104d911cb7c — 4. At the unit dual core the exact Euler operator can be rank one](../records/0146.md#local-section-4958912978a30104d911cb7c-87596e14c0)

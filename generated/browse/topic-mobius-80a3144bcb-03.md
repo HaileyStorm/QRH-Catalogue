@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 955 matching records.
+Page 3/4; 956 matching records.
 
 [Previous](topic-mobius-80a3144bcb-02.md)
 
 [Next](topic-mobius-80a3144bcb-04.md)
 
+- [local-section:9abcc5e7a8091a3bca65980b — 1. Frozen selection, provenance and scope](../records/0157.md#local-section-9abcc5e7a8091a3bca65980b-524b3c3ec5)
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)
 - [local-section:9b6ca73bc5a2f7fd0f67ac99 — \[research revision\]: complete operator returns and an actual detector repair](../records/0157.md#local-section-9b6ca73bc5a2f7fd0f67ac99-70a9dc44c5)
 - [local-section:9c1d735ac41f78b6a9af3941 — \[research revision\]: complete large-common-factor payment in the Liouville source](../records/0157.md#local-section-9c1d735ac41f78b6a9af3941-59cba83ba3)
@@ -23,7 +24,7 @@ Page 3/4; 955 matching records.
 - [local-section:9e0699e5119c4f161b5338bc — 2. Exact completion and rapidly paid complementary fields](../records/0157.md#local-section-9e0699e5119c4f161b5338bc-eef9d9d2cf)
 - [local-section:9e61a7c5ca71cac9ba393287 — 4. Uniform negative lines and all completion errors](../records/0157.md#local-section-9e61a7c5ca71cac9ba393287-dcf81e8b2b)
 - [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0157.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
-- [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0157.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
+- [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0158.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
 - [local-section:9eb45c19b5afa5af61670699 — \[research revision\]: a complete parity-adapted Jordan source](../records/0158.md#local-section-9eb45c19b5afa5af61670699-d4adc9e64a)
 - [local-section:9ee32fbe66662e4b976002a3 — 4. Natural-zero increments and a fixed-source strengthening](../records/0158.md#local-section-9ee32fbe66662e4b976002a3-a2eb58c1fc)
 - [local-section:9eeaae04a77866e237e74ab4 — W38: accepted developments and independent additions](../records/0158.md#local-section-9eeaae04a77866e237e74ab4-dd3b38b3ed)
@@ -57,7 +58,7 @@ Page 3/4; 955 matching records.
 - [local-section:a59922d95491afa08fac5c48 — \[research revision\]: short arithmetic moves and the complete signed remainder](../records/0158.md#local-section-a59922d95491afa08fac5c48-d51bcd7cc3)
 - [local-section:a5c142e0cbdf7c55452e7ddc — UR1. Frozen source and dependencies](../records/0158.md#local-section-a5c142e0cbdf7c55452e7ddc-e86c49bac0)
 - [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0158.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
-- [local-section:a616062f0f5878467d5a3e76 — 7. A new unconditional paid sector: large median factors](../records/0158.md#local-section-a616062f0f5878467d5a3e76-a0289e2b17)
+- [local-section:a616062f0f5878467d5a3e76 — 7. A new unconditional paid sector: large median factors](../records/0159.md#local-section-a616062f0f5878467d5a3e76-a0289e2b17)
 - [local-section:a69f4443c647dcc7a24d3bdd — 4. Finite product cap and the entire odd-frequency tail](../records/0159.md#local-section-a69f4443c647dcc7a24d3bdd-07b3b0d0c0)
 - [local-section:a6b186245542142cbdcb8d94 — 1. The imported estimate has the claimed normalization and usable uniformity](../records/0159.md#local-section-a6b186245542142cbdcb8d94-4892932e05)
 - [local-section:a72ffebe1ad66dc9afb8cea7 — W57 author report](../records/0159.md#local-section-a72ffebe1ad66dc9afb8cea7-af8c1ef99b)
@@ -245,7 +246,7 @@ Page 3/4; 955 matching records.
 - [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0165.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
 - [local-section:daa27e200f523f13c2d83862 — 5. Full versus truncated allocation contraction](../records/0165.md#local-section-daa27e200f523f13c2d83862-823b3b44f4)
 - [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0165.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
-- [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0165.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
+- [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0166.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
 - [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
 - [local-section:db658d49008adf8499407623 — 5. Complete G34 return, quantitative targets, masks, and both heights](../records/0166.md#local-section-db658d49008adf8499407623-b3e3cb9ffa)
 - [local-section:db70c41257fb1225dc05882e — 5. Complete first-gain return and a deliberately coarse test](../records/0166.md#local-section-db70c41257fb1225dc05882e-fb85653461)
@@ -257,4 +258,3 @@ Page 3/4; 955 matching records.
 - [local-section:dd2db0f40e9a61653f617712 — Finite-prime pole cancellation for a narrow zero detector](../records/0166.md#local-section-dd2db0f40e9a61653f617712-330bcb2a6b)
 - [local-section:dd9dfa23ebe72e54b19ac8e9 — 7. Controller observation: the full-cutoff contract is Mertens-equivalent](../records/0166.md#local-section-dd9dfa23ebe72e54b19ac8e9-70406e30b2)
 - [local-section:ddc728001ba17d762f664136 — 4. Development23: the exact large-prime response diameter](../records/0166.md#local-section-ddc728001ba17d762f664136-00a0ca0c76)
-- [local-section:de495e5747b9dddee52d0af1 — 2. Square-root threshold: independent proof of CT1, CT2 and CT8](../records/0166.md#local-section-de495e5747b9dddee52d0af1-36c30a0be6)

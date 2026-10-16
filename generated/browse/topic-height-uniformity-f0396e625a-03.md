@@ -112,7 +112,7 @@ Page 3/4; 812 matching records.
 - [local-section:cc4934e0ff25e4bc37690d3e — All60 dispositions (untested means untested, not disproved)](../records/0163.md#local-section-cc4934e0ff25e4bc37690d3e-ef72642e23)
 - [local-section:ccad7258a80000cc468a2a7e — Other first tests and actual native-H limit](../records/0163.md#local-section-ccad7258a80000cc468a2a7e-d77de3e722)
 - [local-section:ccae01d2b939db4bdc087268 — 2.1 LP_a and the disk chain](../records/0163.md#local-section-ccae01d2b939db4bdc087268-c5ad1c0cd4)
-- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0163.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
+- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:cd61c4ab29e47989adfeb116 — 1. Frozen inputs and the exact scope reviewed](../records/0164.md#local-section-cd61c4ab29e47989adfeb116-f4d5992bbc)
 - [local-section:cdbe24549aeef7fada25d145 — 1. Literal input and the marked-plain eligibility bridge](../records/0164.md#local-section-cdbe24549aeef7fada25d145-109acb13e1)
 - [local-section:cdf701cc70bb5e677932f6ab — B. Literal arithmetic coefficients and readout](../records/0164.md#local-section-cdf701cc70bb5e677932f6ab-c43aab4b52)

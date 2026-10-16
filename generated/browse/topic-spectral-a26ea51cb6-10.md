@@ -131,7 +131,7 @@ Page 10/13; 3035 matching records.
 - [local-section:cb96694accf5d838ba288987 — 1. Frozen source, sampling and independent audit preparation](../records/0163.md#local-section-cb96694accf5d838ba288987-69f62f23b1)
 - [local-section:cb9795e46c62958d0ea97454 — 6. Transfer to the actual C--C Poisson sector](../records/0163.md#local-section-cb9795e46c62958d0ea97454-3332d22bdd)
 - [local-section:cc4934e0ff25e4bc37690d3e — All60 dispositions (untested means untested, not disproved)](../records/0163.md#local-section-cc4934e0ff25e4bc37690d3e-ef72642e23)
-- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0163.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
+- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0164.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
 - [local-section:cd4125dddd28cdc8142134ba — G148. The unresolved joint estimate and the exact dependence obstruction](../records/0164.md#local-section-cd4125dddd28cdc8142134ba-a28b374b5d)
 - [local-section:cd61c4ab29e47989adfeb116 — 1. Frozen inputs and the exact scope reviewed](../records/0164.md#local-section-cd61c4ab29e47989adfeb116-f4d5992bbc)

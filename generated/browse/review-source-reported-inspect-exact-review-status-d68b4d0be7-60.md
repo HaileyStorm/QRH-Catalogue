@@ -2,12 +2,13 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 60/71; 17527 matching records.
+Page 60/71; 17528 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-59.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-61.md)
 
+- [pr26:Analytic.JointSecondAllocated::actual_second_common_first_projector@250 — actual_second_common_first_projector](../records/0190.md#pr26-analytic-jointsecondallocated-actual-second-common-first-pro-d6c9be605c)
 - [pr26:Analytic.JointSecondAllocated::actual_second_height_phase_source_pair@689 — actual_second_height_phase_source_pair](../records/0190.md#pr26-analytic-jointsecondallocated-actual-second-height-phase-sou-ed1ca8180d)
 - [pr26:Analytic.JointSecondAllocated::actual_second_phase_source_pair@672 — actual_second_phase_source_pair](../records/0190.md#pr26-analytic-jointsecondallocated-actual-second-phase-source-pai-196f864dce)
 - [pr26:Analytic.JointSecondAllocated::commonAllocatedRectangle@338 — commonAllocatedRectangle](../records/0190.md#pr26-analytic-jointsecondallocated-commonallocatedrectangle-338-cbb602b07f)
@@ -38,7 +39,7 @@ Page 60/71; 17527 matching records.
 - [pr26:Analytic.JointSecondBlock::actualSecondBlocks@599 — actualSecondBlocks](../records/0190.md#pr26-analytic-jointsecondblock-actualsecondblocks-599-15529bbec9)
 - [pr26:Analytic.JointSecondBlock::actualSecondBlocks_eq_normalized@627 — actualSecondBlocks_eq_normalized](../records/0190.md#pr26-analytic-jointsecondblock-actualsecondblocks-eq-normalized-6-edee252d23)
 - [pr26:Analytic.JointSecondBlock::actualSecondBlocks_eq_projected@746 — actualSecondBlocks_eq_projected](../records/0190.md#pr26-analytic-jointsecondblock-actualsecondblocks-eq-projected-74-2da9469c5f)
-- [pr26:Analytic.JointSecondBlock::actualSecondChildren@686 — actualSecondChildren](../records/0190.md#pr26-analytic-jointsecondblock-actualsecondchildren-686-9a689257f5)
+- [pr26:Analytic.JointSecondBlock::actualSecondChildren@686 — actualSecondChildren](../records/0191.md#pr26-analytic-jointsecondblock-actualsecondchildren-686-9a689257f5)
 - [pr26:Analytic.JointSecondBlock::actualSecondNormalizedBlocks@612 — actualSecondNormalizedBlocks](../records/0191.md#pr26-analytic-jointsecondblock-actualsecondnormalizedblocks-612-206bab9659)
 - [pr26:Analytic.JointSecondBlock::actualSecondProjectedBlocks@730 — actualSecondProjectedBlocks](../records/0191.md#pr26-analytic-jointsecondblock-actualsecondprojectedblocks-730-d7c64295f1)
 - [pr26:Analytic.JointSecondBlock::actual_enlarged_secondBlock_precount@933 — actual_enlarged_secondBlock_precount](../records/0191.md#pr26-analytic-jointsecondblock-actual-enlarged-secondblock-precou-f16dd51a25)
@@ -138,7 +139,7 @@ Page 60/71; 17527 matching records.
 - [pr26:Analytic.JointSecondKernel::second_child_window_integrable@109 — second_child_window_integrable](../records/0191.md#pr26-analytic-jointsecondkernel-second-child-window-integrable-10-50439502af)
 - [pr26:Analytic.JointSecondKernel::second_child_window_integral@127 — second_child_window_integral](../records/0191.md#pr26-analytic-jointsecondkernel-second-child-window-integral-127-8b4bd3c5c1)
 - [pr26:Analytic.JointSecondKernel::toKernelLabel@540 — toKernelLabel](../records/0191.md#pr26-analytic-jointsecondkernel-tokernellabel-540-d1f0b7e893)
-- [pr26:Analytic.JointSecondKernel::toKernelLabel_eq_projected@556 — toKernelLabel_eq_projected](../records/0191.md#pr26-analytic-jointsecondkernel-tokernellabel-eq-projected-556-b98a21e63c)
+- [pr26:Analytic.JointSecondKernel::toKernelLabel_eq_projected@556 — toKernelLabel_eq_projected](../records/0192.md#pr26-analytic-jointsecondkernel-tokernellabel-eq-projected-556-b98a21e63c)
 - [pr26:Analytic.JointSecondKernel::values_le_retainedPair@636 — values_le_retainedPair](../records/0192.md#pr26-analytic-jointsecondkernel-values-le-retainedpair-636-6157ee9004)
 - [pr26:Analytic.JointSecondKernelCutoff — Analytic.JointSecondKernelCutoff](../records/0192.md#pr26-analytic-jointsecondkernelcutoff-79d092c4b9)
 - [pr26:Analytic.JointSecondKernelCutoff::actual_second_phase_coefficient_le_one@321 — actual_second_phase_coefficient_le_one](../records/0192.md#pr26-analytic-jointsecondkernelcutoff-actual-second-phase-coeffic-7dd9cb368e)
@@ -238,7 +239,7 @@ Page 60/71; 17527 matching records.
 - [pr26:Analytic.JointSourceExtension::recover_label@361 — recover_label](../records/0192.md#pr26-analytic-jointsourceextension-recover-label-361-4e1693696f)
 - [pr26:Analytic.JointSourceExtension::recover_mem@364 — recover_mem](../records/0192.md#pr26-analytic-jointsourceextension-recover-mem-364-430d41f67c)
 - [pr26:Analytic.JointSourceExtension::sourceFirst@415 — sourceFirst](../records/0192.md#pr26-analytic-jointsourceextension-sourcefirst-415-008c953c2d)
-- [pr26:Analytic.JointSourceExtension::sourceFrequency@419 — sourceFrequency](../records/0192.md#pr26-analytic-jointsourceextension-sourcefrequency-419-142630b193)
+- [pr26:Analytic.JointSourceExtension::sourceFrequency@419 — sourceFrequency](../records/0193.md#pr26-analytic-jointsourceextension-sourcefrequency-419-142630b193)
 - [pr26:Analytic.JointSourceExtension::sourceFrequency_nonzero@422 — sourceFrequency_nonzero](../records/0193.md#pr26-analytic-jointsourceextension-sourcefrequency-nonzero-422-2bdf504760)
 - [pr26:Analytic.JointSourceExtension::sourceImage_gates@392 — sourceImage_gates](../records/0193.md#pr26-analytic-jointsourceextension-sourceimage-gates-392-67d4bcfeb7)
 - [pr26:Analytic.JointSourceExtension::sourceKernel@425 — sourceKernel](../records/0193.md#pr26-analytic-jointsourceextension-sourcekernel-425-fbb20b0b92)
@@ -257,4 +258,3 @@ Page 60/71; 17527 matching records.
 - [pr26:Analytic.JointSourceFinite::mem_finiteRows@1007 — mem_finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-mem-finiterows-1007-4f7c0a84c8)
 - [pr26:Analytic.JointSourceFinite::sum_extendData@1059 — sum_extendData](../records/0193.md#pr26-analytic-jointsourcefinite-sum-extenddata-1059-91af4aeed9)
 - [pr26:Analytic.JointSourceFinite::sum_finiteRows@1020 — sum_finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-sum-finiterows-1020-06e8319530)
-- [pr26:Analytic.JointSourceFinite::sum_labels_finiteRows@1034 — sum_labels_finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-sum-labels-finiterows-1034-72f7b1d223)

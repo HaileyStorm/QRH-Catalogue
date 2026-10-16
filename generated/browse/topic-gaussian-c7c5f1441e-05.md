@@ -8,7 +8,7 @@ Page 5/6; 1280 matching records.
 
 [Next](topic-gaussian-c7c5f1441e-06.md)
 
-- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0163.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
+- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:cce6349d90284b9d579c007f — 2. Forward smoothing survives forming the phase family](../records/0164.md#local-section-cce6349d90284b9d579c007f-444ab690ef)
 - [local-section:ce79ff125cae419586b8e902 — Independent recovery review of the partial \[research revision\] signed-core packet](../records/0164.md#local-section-ce79ff125cae419586b8e902-e77e328799)
 - [local-section:ce9cd8c55d14d396b0561ebd — Development B: a mixed-direction Koszul bank on the actual radical field](../records/0164.md#local-section-ce9cd8c55d14d396b0561ebd-f779c7ae14)
@@ -122,7 +122,7 @@ Page 5/6; 1280 matching records.
 - [local-section:eae280c4c987a9592cd692a5 — 3. Complete signed fixed-grid obstruction and finite seeds](../records/0167.md#local-section-eae280c4c987a9592cd692a5-bf576517d0)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0167.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
-- [local-section:ebe3d4c963956197a2e71718 — 5. Handoff and research calibration](../records/0167.md#local-section-ebe3d4c963956197a2e71718-7e24250b50)
+- [local-section:ebe3d4c963956197a2e71718 — 5. Handoff and research calibration](../records/0168.md#local-section-ebe3d4c963956197a2e71718-7e24250b50)
 - [local-section:ec2410b15f4a72a683a74c8b — 2. Exact source and statement of the refined return](../records/0168.md#local-section-ec2410b15f4a72a683a74c8b-1c11466eec)
 - [local-section:ec486c71f4fba2e1928b1eb6 — 4. W40-15: the exact positivity price for literal f3](../records/0168.md#local-section-ec486c71f4fba2e1928b1eb6-a8991c9a46)
 - [local-section:ecc4dbe79198d302005bb122 — 1. Literal primitive cell and its exact contraction](../records/0168.md#local-section-ecc4dbe79198d302005bb122-63d3eca38b)

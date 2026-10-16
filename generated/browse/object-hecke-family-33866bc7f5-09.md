@@ -144,7 +144,7 @@ Page 9/11; 2702 matching records.
 - [local-section:cb8576b3a4e05a685c6ee460 — Pinned admission contract supplied by the user](../records/0163.md#local-section-cb8576b3a4e05a685c6ee460-d1e662896e)
 - [local-section:cb96694accf5d838ba288987 — 1. Frozen source, sampling and independent audit preparation](../records/0163.md#local-section-cb96694accf5d838ba288987-69f62f23b1)
 - [local-section:cb9795e46c62958d0ea97454 — 6. Transfer to the actual C--C Poisson sector](../records/0163.md#local-section-cb9795e46c62958d0ea97454-3332d22bdd)
-- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0163.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
+- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:cd61c4ab29e47989adfeb116 — 1. Frozen inputs and the exact scope reviewed](../records/0164.md#local-section-cd61c4ab29e47989adfeb116-f4d5992bbc)
 - [local-section:cd85fdf685293915f7890c83 — G128. Source, prediction and an exact zero census](../records/0164.md#local-section-cd85fdf685293915f7890c83-52a4c71995)
 - [local-section:cdbe24549aeef7fada25d145 — 1. Literal input and the marked-plain eligibility bridge](../records/0164.md#local-section-cdbe24549aeef7fada25d145-109acb13e1)

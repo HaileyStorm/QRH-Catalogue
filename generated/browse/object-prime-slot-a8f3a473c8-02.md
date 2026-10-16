@@ -2,10 +2,11 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 455 matching records.
+Page 2/2; 456 matching records.
 
 [Previous](object-prime-slot-a8f3a473c8-01.md)
 
+- [local-section:916eab9f2788eb758e0fabe8 — 7. Independent exact scalar return and remaining analytic fields](../records/0156.md#local-section-916eab9f2788eb758e0fabe8-2aeeabb4ef)
 - [local-section:9231da28cc2211931c6757fa — 1. Verdict and limits](../records/0156.md#local-section-9231da28cc2211931c6757fa-37f95b84aa)
 - [local-section:92cdf0be8a32c1c33e744aea — Why this does not raise c by itself](../records/0156.md#local-section-92cdf0be8a32c1c33e744aea-eb5f2eaec3)
 - [local-section:934e70558362015992efbca1 — Evidence, potential and next mathematical action](../records/0156.md#local-section-934e70558362015992efbca1-3a77b285af)
@@ -100,7 +101,7 @@ Page 2/2; 455 matching records.
 - [local-section:d255676bbb519ae2b8c7d521 — F12. Correlated moving-prime amplification](../records/0164.md#local-section-d255676bbb519ae2b8c7d521-b95998ae90)
 - [local-section:d2857bef7c7e22b5100234aa — Actual signed Hankel source: paid Type I and frequency complements](../records/0164.md#local-section-d2857bef7c7e22b5100234aa-a7133f1f1f)
 - [local-section:d40c13cf5e0e758f99cc1549 — W66 independent review: affordable inversion, paid critical cutoff, open arithmetic](../records/0164.md#local-section-d40c13cf5e0e758f99cc1549-511479cc40)
-- [local-section:d4c2de88852458dccdccfab1 — Heights and physical limitations](../records/0164.md#local-section-d4c2de88852458dccdccfab1-44e5f2e182)
+- [local-section:d4c2de88852458dccdccfab1 — Heights and physical limitations](../records/0165.md#local-section-d4c2de88852458dccdccfab1-44e5f2e182)
 - [local-section:d50557497e9fec31cd47de8c — W53 independent review: pressure, prime blocks and the two frozen audits](../records/0165.md#local-section-d50557497e9fec31cd47de8c-17a97977ad)
 - [local-section:d6c114791dec328afb9b5275 — \[research revision\] consolidated mathematical proof state](../records/0165.md#local-section-d6c114791dec328afb9b5275-fc3b353344)
 - [local-section:d6f79d83d49ceb553bd09b85 — W42 independent seed freeze](../records/0165.md#local-section-d6f79d83d49ceb553bd09b85-e99969d6e6)
@@ -124,7 +125,7 @@ Page 2/2; 455 matching records.
 - [local-section:e11febb0b985c3567302eb26 — 2. A uniform sixth-power-free estimate down to bounded core scale](../records/0166.md#local-section-e11febb0b985c3567302eb26-42b8b0e505)
 - [local-section:e1422a4f7d6db63b952a689c — Actual middle frequencies with small square or cube cores](../records/0166.md#local-section-e1422a4f7d6db63b952a689c-cfea27e028)
 - [local-section:e4179c07fb55d3112c683757 — A uniform coarse price, including moving weights](../records/0166.md#local-section-e4179c07fb55d3112c683757-641454ec82)
-- [local-section:e4b839936e0170a5dce92b52 — Verdict and calibration](../records/0166.md#local-section-e4b839936e0170a5dce92b52-0ae345bb6f)
+- [local-section:e4b839936e0170a5dce92b52 — Verdict and calibration](../records/0167.md#local-section-e4b839936e0170a5dce92b52-0ae345bb6f)
 - [local-section:e742cd33141580b1945e8da9 — 8. Actual supremum, failures and next action](../records/0167.md#local-section-e742cd33141580b1945e8da9-b68899b4c6)
 - [local-section:e792e01f43e2e75df07f8d40 — 7. The actual physical return and the remaining quantitative gap](../records/0167.md#local-section-e792e01f43e2e75df07f8d40-2b9a8e86b2)
 - [local-section:e9c7398616ed75625807ee46 — Current proof architecture: conditional local-moment gains and routes onward](../records/0167.md#local-section-e9c7398616ed75625807ee46-aecf8a3f98)

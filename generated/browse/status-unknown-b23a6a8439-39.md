@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10580 matching records.
+Page 39/43; 10581 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
 [Next](status-unknown-b23a6a8439-40.md)
 
+- [local-section:f870cb353a6130b547daa8e5 — 4. The arithmetic pointwise bound survives the full prefix audit](../records/0169.md#local-section-f870cb353a6130b547daa8e5-64560e8124)
 - [local-section:f8733caf9ff610bdfa9a0b2a — The complete c7 endpoint](../records/0169.md#local-section-f8733caf9ff610bdfa9a0b2a-8c34d6fc25)
 - [local-section:f87e81647d6f92ec1e119e04 — Frozen generation and sampling](../records/0169.md#local-section-f87e81647d6f92ec1e119e04-450e30340b)
 - [local-section:f8f1c127ce5124fbe21dbc3a — 7. Exact all-branch linear-probe transfer](../records/0169.md#local-section-f8f1c127ce5124fbe21dbc3a-a3be4c5aca)
@@ -35,7 +36,7 @@ Page 39/43; 10580 matching records.
 - [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
 - [local-section:fb65af9e764b858d998f91e4 — Explicit endpoint constants for the common fixed filter](../records/0169.md#local-section-fb65af9e764b858d998f91e4-279bc3d539)
 - [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0169.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
-- [local-section:fc0234a9a00a786dcde76465 — The actual close-point Gram and its normalization](../records/0169.md#local-section-fc0234a9a00a786dcde76465-f900fe1880)
+- [local-section:fc0234a9a00a786dcde76465 — The actual close-point Gram and its normalization](../records/0170.md#local-section-fc0234a9a00a786dcde76465-f900fe1880)
 - [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0170.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0170.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0170.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
@@ -114,7 +115,7 @@ Page 39/43; 10580 matching records.
 - [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0171.md#local-g108-f378462f08)
 - [local:G109 — G109. Fixed countable banks, exact buffering and the complete source](../records/0171.md#local-g109-fab6e1e2f7)
 - [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0171.md#local-g110-07e53448ee)
-- [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0171.md#local-g112-576f044b32)
+- [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0172.md#local-g112-576f044b32)
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0172.md#local-g113-6c10bbc310)
 - [local:G115 — 3. G115: complete cutoffs agree at the actual zero](../records/0172.md#local-g115-d13affe636)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)
@@ -187,7 +188,7 @@ Page 39/43; 10580 matching records.
 - [local:G208 — G208: exact pair mass and a fifth actual row class](../records/0172.md#local-g208-e7dcec8556)
 - [local:G209 — G209. All thirteen collision types and the exact mixed-order source](../records/0172.md#local-g209-c243fafc07)
 - [local:G210 — G210. Unequal energies and all collision-label sums](../records/0172.md#local-g210-2b166add49)
-- [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
+- [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0173.md#local-g212-6e2dec84ed)
 - [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0173.md#local-g213-46d38d3f6e)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
@@ -257,4 +258,3 @@ Page 39/43; 10580 matching records.
 - [pr26:Analytic.ActualAllocatedErrorsFull — Analytic.ActualAllocatedErrorsFull](../records/0174.md#pr26-analytic-actualallocatederrorsfull-630e7860fe)
 - [pr26:Analytic.ActualBinnedUniform — Analytic.ActualBinnedUniform](../records/0174.md#pr26-analytic-actualbinneduniform-680a7ce9af)
 - [pr26:Analytic.ActualBufferedCount — Analytic.ActualBufferedCount](../records/0174.md#pr26-analytic-actualbufferedcount-6859e3e9ee)
-- [pr26:Analytic.ActualBufferedUniform — Analytic.ActualBufferedUniform](../records/0174.md#pr26-analytic-actualbuffereduniform-a8f703eccf)

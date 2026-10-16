@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 2/6; 1437 matching records.
+Page 2/6; 1438 matching records.
 
 [Previous](method-duality-c5419f8b09-01.md)
 
 [Next](method-duality-c5419f8b09-03.md)
 
+- [local-section:099442ad3ce711ca40ec925e — 4. Common-filter arithmetic payment: full proof audit](../records/0138.md#local-section-099442ad3ce711ca40ec925e-4e9180b458)
 - [local-section:09cdb40378feaa9728bbde5e — G228. The sharp depth of a low-omega-completed inverse column](../records/0138.md#local-section-09cdb40378feaa9728bbde5e-e853a5ed2c)
 - [local-section:09e81877dd91cdfd6a1ba02a — T09b. Compact-profile triple-convolution criterion](../records/0138.md#local-section-09e81877dd91cdfd6a1ba02a-c691afa5ab)
 - [local-section:09f333c66159cfafc5853f8a — 4. Exact two-factor completion with alternating restoration](../records/0138.md#local-section-09f333c66159cfafc5853f8a-113910cc54)
@@ -117,7 +118,7 @@ Page 2/6; 1437 matching records.
 - [local-section:22117512bd229992623ed60a — 5. The two-root calculation and complete label costs](../records/0141.md#local-section-22117512bd229992623ed60a-05096ac3e0)
 - [local-section:22e57b05e00b018de9105d86 — 1. Initial discovery comparison](../records/0141.md#local-section-22e57b05e00b018de9105d86-3bfccec347)
 - [local-section:22ef21f7baaabd4d57807a80 — D02 and the seven other selected first tests](../records/0141.md#local-section-22ef21f7baaabd4d57807a80-2ab1871476)
-- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
+- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0142.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)
 - [local-section:23dee2845ddcfb42313c0ac2 — 8. Attempted escape: a zero-sum compensator bank really deflates cells](../records/0142.md#local-section-23dee2845ddcfb42313c0ac2-e5efa90171)
@@ -148,7 +149,7 @@ Page 2/6; 1437 matching records.
 - [local-section:2ad607a8bff7d8b25eb99688 — Undeveloped seeds, merged mechanisms and coverage boundary](../records/0142.md#local-section-2ad607a8bff7d8b25eb99688-5ad11329dd)
 - [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0142.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
 - [local-section:2b64e79ea0f673fde8e9ac10 — R5. Marginal payment and the residual box](../records/0142.md#local-section-2b64e79ea0f673fde8e9ac10-cee316f9fc)
-- [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0142.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
+- [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0143.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
 - [local-section:2bf30875ec7fffc686cbf324 — 5. The three other author tests retain only their stated scope](../records/0143.md#local-section-2bf30875ec7fffc686cbf324-d7311befb2)
 - [local-section:2c14a467036cee30650794fb — W62 independent review: paid prime flux and two retained audits](../records/0143.md#local-section-2c14a467036cee30650794fb-09b45ed794)
 - [local-section:2c1c47bed4177ba884565fc3 — UR4. The averaged all-height zero-exclusion bridge is valid](../records/0143.md#local-section-2c1c47bed4177ba884565fc3-713612b288)
@@ -173,7 +174,7 @@ Page 2/6; 1437 matching records.
 - [local-section:32958b56014a8c47ab682305 — 7. Frozen dispositions and evidence limits](../records/0143.md#local-section-32958b56014a8c47ab682305-02ffb78b76)
 - [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0143.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0143.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
-- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
+- [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0144.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33cc3f99ce651f795de0422c — \[research revision\]: actual integer coalescence and signed friable profiles](../records/0144.md#local-section-33cc3f99ce651f795de0422c-870c282b41)
 - [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0144.md#local-section-34160f89ce00b43718b31084-77745847c5)
@@ -201,7 +202,7 @@ Page 2/6; 1437 matching records.
 - [local-section:3a6a3cc9e61d9df8566af8a1 — D04: accept the complete collar price; retain the arithmetic problem](../records/0144.md#local-section-3a6a3cc9e61d9df8566af8a1-6d43f98a64)
 - [local-section:3a8a67e04f1051d2078a722c — 7. All thirty dispositions and ancestry](../records/0144.md#local-section-3a8a67e04f1051d2078a722c-31ee2c18a5)
 - [local-section:3b8ffcbfc6737e209da49949 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0144.md#local-section-3b8ffcbfc6737e209da49949-4d4d244e20)
-- [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0144.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
+- [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0145.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
 - [local-section:3c7bddd6d41be992888ec504 — 5. Strongest objections and decisive limitations](../records/0145.md#local-section-3c7bddd6d41be992888ec504-be4434e89d)
 - [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0145.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
 - [local-section:3cdc1a2ecfaa60420268db83 — 7. Paid small-gcd sectors and full margins](../records/0145.md#local-section-3cdc1a2ecfaa60420268db83-e3a414ee25)
@@ -231,7 +232,7 @@ Page 2/6; 1437 matching records.
 - [local-section:42ec260afb4de0d220a146e6 — 1. Outcome and dependency boundary](../records/0145.md#local-section-42ec260afb4de0d220a146e6-e0e94df3f4)
 - [local-section:43cb8b8f4a4a060c0339619f — 6. The other five tests and the original card04 proposal](../records/0145.md#local-section-43cb8b8f4a4a060c0339619f-cf1e3c4731)
 - [local-section:4446688c789b1ec03718e361 — \[research revision\]: compensated nonlinear source and paid cutoff coupling](../records/0145.md#local-section-4446688c789b1ec03718e361-705a64ad72)
-- [local-section:4447d76efe4fddfedaef4feb — W40-16 — Hankel realization before moment formation; p=.075](../records/0145.md#local-section-4447d76efe4fddfedaef4feb-6de2562d72)
+- [local-section:4447d76efe4fddfedaef4feb — W40-16 — Hankel realization before moment formation; p=.075](../records/0146.md#local-section-4447d76efe4fddfedaef4feb-6de2562d72)
 - [local-section:4591c2300d4623afdae97444 — Uniform S09: exact source-specific linear dual and its hidden scalar](../records/0146.md#local-section-4591c2300d4623afdae97444-78a9dc6f67)
 - [local-section:45c4ef9373d6c0aabb4b0e67 — \[research revision\] overlays and \[research revision\]–\[research revision\]: paid sectors and precise residuals](../records/0146.md#local-section-45c4ef9373d6c0aabb4b0e67-0fc80d1388)
 - [local-section:45f72c4a061e771fd01acbc6 — Actual arithmetic dilation: a global theorem and the unpaid local estimate](../records/0146.md#local-section-45f72c4a061e771fd01acbc6-a5637ec90d)
@@ -257,4 +258,3 @@ Page 2/6; 1437 matching records.
 - [local-section:4a212d79357474b7a0dc7742 — Restricted provenance locator](../records/0146.md#local-section-4a212d79357474b7a0dc7742-a9568f9277)
 - [local-section:4a2a39ff11a263661588cf66 — A01. The coherent unembedded nonzero sextic aggregate](../records/0146.md#local-section-4a2a39ff11a263661588cf66-2c065fa01f)
 - [local-section:4a306a2b3e48479977a8f026 — Current checkpoint](../records/0146.md#local-section-4a306a2b3e48479977a8f026-9221aa8654)
-- [local-section:4a40c93b44ef99d015b3f236 — 5. Exact label payment and proof of(A)](../records/0146.md#local-section-4a40c93b44ef99d015b3f236-fe8d277417)

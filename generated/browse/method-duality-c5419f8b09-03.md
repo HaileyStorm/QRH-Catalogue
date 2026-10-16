@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 3/6; 1437 matching records.
+Page 3/6; 1438 matching records.
 
 [Previous](method-duality-c5419f8b09-02.md)
 
 [Next](method-duality-c5419f8b09-04.md)
 
+- [local-section:4a40c93b44ef99d015b3f236 — 5. Exact label payment and proof of(A)](../records/0146.md#local-section-4a40c93b44ef99d015b3f236-fe8d277417)
 - [local-section:4a86bda89942748f7cb8fafa — A paid whole-shell nonprincipal-bank reduction](../records/0146.md#local-section-4a86bda89942748f7cb8fafa-0a21e28caa)
 - [local-section:4acb7a9325485c34ebbf75e7 — 1. Scope and evidence](../records/0146.md#local-section-4acb7a9325485c34ebbf75e7-f3f5a12438)
 - [local-section:4ad1b8344d676dbbec363b95 — D02. Rank-one determinant detector: an exact attempted bridge that fails to weaken the input](../records/0146.md#local-section-4ad1b8344d676dbbec363b95-a28d1aeb63)
@@ -115,7 +116,7 @@ Page 3/6; 1437 matching records.
 - [local-section:61ee22b4c5aa95342e503462 — 8. All30 retained dispositions and remaining actions](../records/0149.md#local-section-61ee22b4c5aa95342e503462-2a46685d45)
 - [local-section:61f50c63208ead66c89a23ee — All 30 frozen seeds: final disposition](../records/0149.md#local-section-61f50c63208ead66c89a23ee-b7056151f7)
 - [local-section:61faa04014d526c968d73ecc — \[research revision\] discovery-first source pass — quantitative short windows and a calibrated multiplicative obstruction](../records/0149.md#local-section-61faa04014d526c968d73ecc-c78c487750)
-- [local-section:61fb54d5310c24ebc512a814 — Sol04 independent first-stage review](../records/0149.md#local-section-61fb54d5310c24ebc512a814-b3e72c6f41)
+- [local-section:61fb54d5310c24ebc512a814 — Sol04 independent first-stage review](../records/0150.md#local-section-61fb54d5310c24ebc512a814-b3e72c6f41)
 - [local-section:6207cc261d20f706b4caed2d — 7. Protected audit27: what a full H-to-sieve witness must actually pay](../records/0150.md#local-section-6207cc261d20f706b4caed2d-2680366feb)
 - [local-section:6231061ae9f0edf53399977b — 4. A complete signed target and its return](../records/0150.md#local-section-6231061ae9f0edf53399977b-8db7eb4c87)
 - [local-section:6232970cab11faa1dab706df — 4. Developed W60-23: all divisibility matchings have a prime cut](../records/0150.md#local-section-6232970cab11faa1dab706df-8666a19874)
@@ -147,7 +148,7 @@ Page 3/6; 1437 matching records.
 - [local-section:68257eb3f12440ba4dbf5291 — \[research revision\] headroom: source replacement discovery and bounded development](../records/0150.md#local-section-68257eb3f12440ba4dbf5291-13c6ae6677)
 - [local-section:684f7977a7851c898ca5fa62 — 8. Complete reopening contract and ancestry](../records/0150.md#local-section-684f7977a7851c898ca5fa62-111bdb8e96)
 - [local-section:68839056246491ee4c620e2f — 3. Fixed amplifier family and simultaneous applicability](../records/0150.md#local-section-68839056246491ee4c620e2f-47f0a9a5ef)
-- [local-section:68c32fd50fedcd421a52d8f0 — R5. Comparable matching cut: correct and separately limited](../records/0150.md#local-section-68c32fd50fedcd421a52d8f0-e2e0117271)
+- [local-section:68c32fd50fedcd421a52d8f0 — R5. Comparable matching cut: correct and separately limited](../records/0151.md#local-section-68c32fd50fedcd421a52d8f0-e2e0117271)
 - [local-section:68cc62362c6d4457c10ecc56 — 1. Exact inputs and scope](../records/0151.md#local-section-68cc62362c6d4457c10ecc56-60c0974acc)
 - [local-section:68d0ab844329bc22388b44cd — 5. Relative characters, complete coefficient mass and masked rows](../records/0151.md#local-section-68d0ab844329bc22388b44cd-657223dfca)
 - [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0151.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
@@ -185,7 +186,7 @@ Page 3/6; 1437 matching records.
 - [local-section:701a92acc07aa6043adf0942 — Group 4: analytic continuation / control or realization / ambient representation](../records/0151.md#local-section-701a92acc07aa6043adf0942-eab8e1d651)
 - [local-section:70376851109010644d97af33 — 5. Low/high branches, missing labels and all-height scope](../records/0151.md#local-section-70376851109010644d97af33-41ed5c4166)
 - [local-section:70be33c07dc6a861b2dea970 — 4. A matching diagonal obstruction in the comparison class](../records/0151.md#local-section-70be33c07dc6a861b2dea970-865f08426e)
-- [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
+- [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0152.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0152.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
 - [local-section:720f61ea303b241f2778f2ab — W40-11 — Conditional expectation with a paid off-diagonal return; p=.08](../records/0152.md#local-section-720f61ea303b241f2778f2ab-4d6b8bfbf7)
 - [local-section:7214b5cc77611a289b9a8eef — 9. Full costs, transfer boundary and possible direct return](../records/0152.md#local-section-7214b5cc77611a289b9a8eef-184af844c5)
@@ -219,7 +220,7 @@ Page 3/6; 1437 matching records.
 - [local-section:77c673316297846c146b59da — Proposed full-sector estimate and exact residual](../records/0152.md#local-section-77c673316297846c146b59da-7084a705b3)
 - [local-section:7828492d7fdc047743d043b6 — 3. Independent proof and quantifier audit of M](../records/0152.md#local-section-7828492d7fdc047743d043b6-f9c0651d64)
 - [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
-- [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
+- [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0153.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:7864c7683a4d3067e2f4c126 — 5.1 W40-11 — the proposed full operator bound fails for the actual critical split](../records/0153.md#local-section-7864c7683a4d3067e2f4c126-4a7273d875)
 - [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0153.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
 - [local-section:78a74daef16a3c7d605c2cd1 — G204: small square cores with unrestricted cubic rows](../records/0153.md#local-section-78a74daef16a3c7d605c2cd1-2cb00d3281)
@@ -254,7 +255,6 @@ Page 3/6; 1437 matching records.
 - [local-section:7f54c68548454261907b4b6e — Independent review: fixed-phase cofactor theorem and degree12 source](../records/0153.md#local-section-7f54c68548454261907b4b6e-2baebb203d)
 - [local-section:7f58006d996fe8306193c3a0 — 2. Evidence and independent calculation](../records/0153.md#local-section-7f58006d996fe8306193c3a0-4b141c56d7)
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
-- [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0153.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
+- [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0154.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0154.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fbfafbaccc58a2dc64c8d35 — G143. Divisor-erasure recovery with literal coprimality and two prices](../records/0154.md#local-section-7fbfafbaccc58a2dc64c8d35-2bda48b58e)
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
