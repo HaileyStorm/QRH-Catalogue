@@ -11,7 +11,7 @@ Page 1/1; 24 matching records.
 - [local:F03.I — F03.I — Older infinite forced-divisor sparse p⁴ trace retains its own summability and η-to-c formula](../records/0170.md#local-f03-i-980aab66d3)
 - [local:F03.Z — F03.Z — Positive row series or anisotropic a,b series (physical specialization v=2u), with full common-core factor and unit neutrality](../records/0170.md#local-f03-z-1760b49674)
 - [local:F05.R — F05.R — Penalize costly residual modes with principal calibration instead of assuming exact orthogonality](../records/0170.md#local-f05-r-384251b06a)
-- [local:F06.H — F06.H — Uniform fixed-radius height-area means imply pointwise means by subharmonicity; global weighted-height averages need their own complete contour transfer](../records/0170.md#local-f06-h-d5882764e8)
+- [local:F06.H — F06.H — Uniform fixed-radius height-area means imply pointwise means by subharmonicity; global weighted-height averages need their own complete contour transfer](../records/0171.md#local-f06-h-d5882764e8)
 - [local:F09.A — F09.A — Full A-dependent physical/numerator Gram under nonzero principal constraint](../records/0171.md#local-f09-a-a23c6af251)
 - [local:F10.G — F10.G — A successful asymptotic beyondK=D needs a new transfer with new polar accounting; alternative two-sided/strip detector is legitimate if it has complete coverage](../records/0171.md#local-f10-g-5db7ed08be)
 - [local:F11.B — F11.B — Two genuinely distinct embedded patterns or actual theta-paired probe; estimate mixed physical and numerator terms before separate norms](../records/0171.md#local-f11-b-a152658270)

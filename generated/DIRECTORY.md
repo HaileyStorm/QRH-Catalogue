@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21790 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21792 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -67,7 +67,7 @@
 - [F03 — F03. Sixth-order sparse-index and ordinary means](records/0170.md#local-f03-a413a453fd)
 - [F04 — F04. Sextic reflection, physical covariance, probe and numerator](records/0170.md#local-f04-f8d6d7f1ca)
 - [F05 — F05. Möbius-aware polar projection and spectral sieve](records/0170.md#local-f05-b00059fa1b)
-- [F06 — F06. Bilinear currents and actual spectral testing](records/0170.md#local-f06-91b9eb5611)
+- [F06 — F06. Bilinear currents and actual spectral testing](records/0171.md#local-f06-91b9eb5611)
 - [F07 — F07. Quadratic principal-square Jacobi detector](records/0171.md#local-f07-fa0d056a24)
 - [F08 — F08. Weighted fractional parts and modular residues](records/0171.md#local-f08-1cd15be4b1)
 - [F09 — F09. Adaptive exceptional-mode vector probes](records/0171.md#local-f09-82b521a74d)
@@ -96,8 +96,8 @@
 - [G104 — G104. Actual finite character traces and their exact limitation](records/0171.md#local-g104-68eaa9b122)
 - [G105 — G105. Exact continuation classes, reconstructed amplitudes and contours](records/0171.md#local-g105-08dc6aeafa)
 - [G106 — G106. Isolated root of the complete cutoff polynomial](records/0171.md#local-g106-3b75d799b8)
-- [G107 — G107. Exact divisor elimination and the real-cutoff repair](records/0171.md#local-g107-5d5cd18dce)
-- [G108 — G108. Complete prime-block interactions and descendant errors](records/0171.md#local-g108-f378462f08)
+- [G107 — G107. Exact divisor elimination and the real-cutoff repair](records/0172.md#local-g107-5d5cd18dce)
+- [G108 — G108. Complete prime-block interactions and descendant errors](records/0172.md#local-g108-f378462f08)
 - [G109 — G109. Fixed countable banks, exact buffering and the complete source](records/0172.md#local-g109-fab6e1e2f7)
 - [G110 — G110. The canonical amplitude-conditioned theorem](records/0172.md#local-g110-07e53448ee)
 - [G111 — G111. Accepted c10 licenses a smaller density capacity](records/0172.md#local-g111-70b84ecbc6)
@@ -196,8 +196,8 @@
 - [G203 — G203. A signed inner source does not rescue the outer positive budget](records/0172.md#local-g203-955af79f25)
 - [G204 — G204: small square cores with unrestricted cubic rows](records/0172.md#local-g204-fa5103d677)
 - [G205 — G205: small cube cores with paid sixth-power punctures](records/0172.md#local-g205-927f8dbb85)
-- [G206 — G206: enlarged caps tied to the original a-dyad](records/0172.md#local-g206-3ab0f52f50)
-- [G207 — G207: full product, collisions and weighted removal](records/0172.md#local-g207-3c636df55b)
+- [G206 — G206: enlarged caps tied to the original a-dyad](records/0173.md#local-g206-3ab0f52f50)
+- [G207 — G207: full product, collisions and weighted removal](records/0173.md#local-g207-3c636df55b)
 - [G208 — G208: exact pair mass and a fifth actual row class](records/0173.md#local-g208-e7dcec8556)
 - [G209 — G209. All thirteen collision types and the exact mixed-order source](records/0173.md#local-g209-c243fafc07)
 - [G210 — G210. Unequal energies and all collision-label sums](records/0173.md#local-g210-2b166add49)

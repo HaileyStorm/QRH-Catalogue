@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 25/43; 10584 matching records.
+Page 25/43; 10586 matching records.
 
 [Previous](status-unknown-b23a6a8439-24.md)
 
@@ -130,6 +130,8 @@ Page 25/43; 10584 matching records.
 - [QRH-CONT-R043-MATCHED-PRIME-SECTORS — Matched prime sectors on the complete natural source and literal first Poisson transform](../records/0131.md#qrh-cont-r043-matched-prime-sectors-18312dd464)
 - [QRH-CONT-R046-MARKED-RECTANGLE — Marked rectangle comparison and signed second-Poisson return](../records/0131.md#qrh-cont-r046-marked-rectangle-6a2023bde2)
 - [QRH-CONT-R048-COUPLED-SHORT-DETECTOR — Complete coupled short-window detector before dyadic selection](../records/0131.md#qrh-cont-r048-coupled-short-detector-08dfda4a82)
+- [QRH-CONT-R049-PRODUCT-CUTOFF-DETECTOR — Original-coefficient product-cutoff detector and complete cofactor energy](../records/0131.md#qrh-cont-r049-product-cutoff-detector-13a8d6fed3)
+- [QRH-CONT-R050-OVERLAPPING-MARKED-INVERSE — Marked sixth-power amplification and fixed-slot overlapping-pool reduction](../records/0131.md#qrh-cont-r050-overlapping-marked-inverse-455e829199)
 - [exact-source:0017cd4ac1c1b486d44db640 — Exact source span: dd4aed8124f9 lines 175–175](../records/0131.md#exact-source-0017cd4ac1c1b486d44db640-d9ad901cae)
 - [exact-source:0034e41db97d6416963dcf7f — Exact source span: 3582859b4716 lines 713–747](../records/0131.md#exact-source-0034e41db97d6416963dcf7f-29360534d8)
 - [exact-source:00e55c4bc0250e01c45ac11c — Exact source span: c750f6364171 lines 174–230](../records/0131.md#exact-source-00e55c4bc0250e01c45ac11c-788ef64e02)
@@ -188,8 +190,8 @@ Page 25/43; 10584 matching records.
 - [exact-source:18cd22b39f1504f51104f28d — Exact source span: e35dbe7b205d lines 571–594](../records/0131.md#exact-source-18cd22b39f1504f51104f28d-6d57a12a12)
 - [exact-source:19258e886af71069a35ba983 — Exact source span: 5c4a5571174c lines 190–196](../records/0131.md#exact-source-19258e886af71069a35ba983-4be5357c5c)
 - [exact-source:193d58fbc195ae2af203c248 — Exact source span: 453f13690716 lines 234–247](../records/0131.md#exact-source-193d58fbc195ae2af203c248-8ab46248d8)
-- [exact-source:1ab29db0d9cf654f8d8abbb3 — Exact source span: 11ed4ae5fc39 lines 199–221](../records/0131.md#exact-source-1ab29db0d9cf654f8d8abbb3-d1291a4b70)
-- [exact-source:1af0b00400bfc813cb4e85d0 — Exact source span: dd4aed8124f9 lines 407–407](../records/0131.md#exact-source-1af0b00400bfc813cb4e85d0-ef980f4ee3)
+- [exact-source:1ab29db0d9cf654f8d8abbb3 — Exact source span: 11ed4ae5fc39 lines 199–221](../records/0132.md#exact-source-1ab29db0d9cf654f8d8abbb3-d1291a4b70)
+- [exact-source:1af0b00400bfc813cb4e85d0 — Exact source span: dd4aed8124f9 lines 407–407](../records/0132.md#exact-source-1af0b00400bfc813cb4e85d0-ef980f4ee3)
 - [exact-source:1b5c39b6dfd522691e823d4b — Exact source span: dd4aed8124f9 lines 895–895](../records/0132.md#exact-source-1b5c39b6dfd522691e823d4b-3d58bedd62)
 - [exact-source:1b9d03c84c82f9558bd2e5e4 — Exact source span: e5205bfc0ee9 lines 166–232](../records/0132.md#exact-source-1b9d03c84c82f9558bd2e5e4-7a2db8b76f)
 - [exact-source:1c20dd143cdfa05bccc540d2 — Exact source span: e5205bfc0ee9 lines 121–165](../records/0132.md#exact-source-1c20dd143cdfa05bccc540d2-8302d3d62f)
@@ -256,5 +258,3 @@ Page 25/43; 10584 matching records.
 - [exact-source:366c3add74f26e95a5f6c0c7 — Exact source span: 44c7c951d5be lines 215–274](../records/0132.md#exact-source-366c3add74f26e95a5f6c0c7-e4ab76e98f)
 - [exact-source:3721c4cbe19c4b329e942897 — Exact source span: d8891be8bfc4 lines 89–150](../records/0132.md#exact-source-3721c4cbe19c4b329e942897-d1bd31fbc3)
 - [exact-source:37312488fe36cbe2c1bcbcb7 — Exact source span: dd4aed8124f9 lines 255–255](../records/0132.md#exact-source-37312488fe36cbe2c1bcbcb7-5a092ce06c)
-- [exact-source:377357f32e0cbfef9a99124e — Exact source span: e35dbe7b205d lines 9–13](../records/0132.md#exact-source-377357f32e0cbfef9a99124e-c7fe94bc4a)
-- [exact-source:37a37c39efb64199c6210689 — Exact source span: dd4aed8124f9 lines 334–334](../records/0132.md#exact-source-37a37c39efb64199c6210689-f3b7d0c7c5)

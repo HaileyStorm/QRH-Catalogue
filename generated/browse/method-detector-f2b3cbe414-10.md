@@ -2,18 +2,19 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 10/12; 2897 matching records.
+Page 10/12; 2898 matching records.
 
 [Previous](method-detector-f2b3cbe414-09.md)
 
 [Next](method-detector-f2b3cbe414-11.md)
 
+- [local-section:eaac231b398f980e74c7e5a3 — W39 / \[research revision\] independent mathematical review](../records/0167.md#local-section-eaac231b398f980e74c7e5a3-32de86ab05)
 - [local-section:eabd34860666102d33214d34 — Complete scalar numerator bound](../records/0167.md#local-section-eabd34860666102d33214d34-f79e117ba0)
 - [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
 - [local-section:eb80e8881c30292d6ca15975 — 7. Exact residual form and the power budget](../records/0167.md#local-section-eb80e8881c30292d6ca15975-155268a584)
 - [local-section:eb83f1d6260efd41613fc500 — Complete endpoint return with the changed complements](../records/0167.md#local-section-eb83f1d6260efd41613fc500-fb2ece6b81)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
-- [local-section:eba9f2fd8eec2ebd076f9772 — 12. Portfolio allocation, promotion and stop rules](../records/0167.md#local-section-eba9f2fd8eec2ebd076f9772-b9bbab7591)
+- [local-section:eba9f2fd8eec2ebd076f9772 — 12. Portfolio allocation, promotion and stop rules](../records/0168.md#local-section-eba9f2fd8eec2ebd076f9772-b9bbab7591)
 - [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0168.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
 - [local-section:ebcf3bff1cff58735b813bc7 — R6. Scope of the remaining author tests](../records/0168.md#local-section-ebcf3bff1cff58735b813bc7-b2f16615d1)
 - [local-section:ed14f34cc4a7e3765c095a93 — 6. Recovery price defeats that generic upper envelope](../records/0168.md#local-section-ed14f34cc4a7e3765c095a93-b7591848ca)
@@ -60,8 +61,8 @@ Page 10/12; 2897 matching records.
 - [local-section:fa206dfebde122b90d2b31bb — 39. Curved detector and a complete nonprincipal bank](../records/0169.md#local-section-fa206dfebde122b90d2b31bb-d4ffe66966)
 - [local-section:facd979354c33c53ddc95253 — W40-05 — Exterior-power exclusion witness; p=.035](../records/0169.md#local-section-facd979354c33c53ddc95253-35c3ff6182)
 - [local-section:fb3aa09c6b13770dda7e67a5 — F07. Quadratic principal-square Jacobi detector](../records/0169.md#local-section-fb3aa09c6b13770dda7e67a5-4f88720cd9)
-- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0169.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
-- [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
+- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0170.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
+- [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0170.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
 - [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0170.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0170.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0170.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
@@ -123,7 +124,7 @@ Page 10/12; 2897 matching records.
 - [local:G186 — G186. Larger paid low band, genuine far tail and finite signed residual](../records/0172.md#local-g186-dd7a0ad393)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
 - [local:G2 — G2 — uncapped free invention](../records/0172.md#local-g2-2c857fea19)
-- [local:G206 — G206: enlarged caps tied to the original a-dyad](../records/0172.md#local-g206-3ab0f52f50)
+- [local:G206 — G206: enlarged caps tied to the original a-dyad](../records/0173.md#local-g206-3ab0f52f50)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0173.md#local-g212-6e2dec84ed)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
@@ -201,7 +202,7 @@ Page 10/12; 2897 matching records.
 - [pr26:Cycle25.Assembly.Count.MomentDetectorInverseFields — Cycle25.Assembly.Count.MomentDetectorInverseFields](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorinversefields-2a8e316783)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorInverseFields::weighted_source_batch_inverse_fields@752 — weighted_source_batch_inverse_fields](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorinversefields-weighted--6bc6030b37)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorInverseMarkedField — Cycle25.Assembly.Count.MomentDetectorInverseMarkedField](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorinversemarkedfield-c84a884bb5)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry — Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-6a4fcba08e)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry — Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-6a4fcba08e)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_fiber_prime_geometry_eventually@789 — weighted_sourceMoment_fiber_prime_geometry_eventually](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-dda647e36d)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_denominator@725 — weighted_sourceMoment_live_denominator](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-fdc8e670dc)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_disjoint@712 — weighted_sourceMoment_live_disjoint](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-920ddda181)
@@ -257,4 +258,3 @@ Page 10/12; 2897 matching records.
 - [pr26:Cycle25.Assembly.Count.WeightedSourceMaskedCount::weighted_source_masked_amplitude_count@129 — weighted_source_masked_amplitude_count](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcemaskedcount-weighted-so-7588008d71)
 - [pr26:Cycle25.Energy.Physical.CertifiedFourier::certified_reflected_fourier_moment@165 — certified_reflected_fourier_moment](../records/0199.md#pr26-cycle25-energy-physical-certifiedfourier-certified-reflected-af95958590)
 - [pr26:Cycle25.Energy.Physical.CertifiedFourier::eventually_fixed_source_keep@147 — eventually_fixed_source_keep](../records/0199.md#pr26-cycle25-energy-physical-certifiedfourier-eventually-fixed-so-e7cb19f562)
-- [pr26:Cycle25.Energy.Physical.CertifiedRetained::certified_actual_retained_fourth@855 — certified_actual_retained_fourth](../records/0199.md#pr26-cycle25-energy-physical-certifiedretained-certified-actual-r-7f018a0a5f)

@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 957 matching records.
+Page 3/4; 958 matching records.
 
 [Previous](topic-mobius-80a3144bcb-02.md)
 
 [Next](topic-mobius-80a3144bcb-04.md)
 
+- [local-section:9a1d8046bb14138b4fb35ad9 — 3. Two parked proposals now have precise mathematical contracts](../records/0157.md#local-section-9a1d8046bb14138b4fb35ad9-295961069f)
 - [local-section:9aa4caca4ab461fb84c8c582 — 1. Frozen inputs and attribution](../records/0157.md#local-section-9aa4caca4ab461fb84c8c582-ba58e145c2)
 - [local-section:9abcc5e7a8091a3bca65980b — 1. Frozen selection, provenance and scope](../records/0157.md#local-section-9abcc5e7a8091a3bca65980b-524b3c3ec5)
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)
@@ -56,7 +57,7 @@ Page 3/4; 957 matching records.
 - [local-section:a4fd8641a1100e96b1d9da07 — F17. Coefficient-sensitive trace formulas and transformed kernels](../records/0158.md#local-section-a4fd8641a1100e96b1d9da07-461bb7b4c2)
 - [local-section:a54db206dcfcca97a65a9b7d — 4. Development B / W49-24: a sharp-cutoff matching exhausts itself after one prime](../records/0158.md#local-section-a54db206dcfcca97a65a9b7d-6e6cd61840)
 - [local-section:a569610f4222f38e9709416a — 9. Fixed-power late flow and the square-root critical profile](../records/0158.md#local-section-a569610f4222f38e9709416a-e2cf2336a8)
-- [local-section:a59922d95491afa08fac5c48 — \[research revision\]: short arithmetic moves and the complete signed remainder](../records/0158.md#local-section-a59922d95491afa08fac5c48-d51bcd7cc3)
+- [local-section:a59922d95491afa08fac5c48 — \[research revision\]: short arithmetic moves and the complete signed remainder](../records/0159.md#local-section-a59922d95491afa08fac5c48-d51bcd7cc3)
 - [local-section:a5c142e0cbdf7c55452e7ddc — UR1. Frozen source and dependencies](../records/0159.md#local-section-a5c142e0cbdf7c55452e7ddc-e86c49bac0)
 - [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0159.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
 - [local-section:a616062f0f5878467d5a3e76 — 7. A new unconditional paid sector: large median factors](../records/0159.md#local-section-a616062f0f5878467d5a3e76-a0289e2b17)
@@ -81,7 +82,7 @@ Page 3/4; 957 matching records.
 - [local-section:ac66129df59a901c74fbe489 — 4. Power-paid small-divisor theorem for the actual completed source](../records/0159.md#local-section-ac66129df59a901c74fbe489-90f1dd210f)
 - [local-section:ace62961c87b7cf395ef8382 — \[research revision\] headroom A: spectral observation and a quartic replacement kernel](../records/0159.md#local-section-ace62961c87b7cf395ef8382-8c1575c065)
 - [local-section:ad6d338772eeb74ab79c2023 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0159.md#local-section-ad6d338772eeb74ab79c2023-4fe1219028)
-- [local-section:adc9ec3f96a79f64c654b8dc — Preserved interfaces and scoped audits](../records/0159.md#local-section-adc9ec3f96a79f64c654b8dc-6d42fc3138)
+- [local-section:adc9ec3f96a79f64c654b8dc — Preserved interfaces and scoped audits](../records/0160.md#local-section-adc9ec3f96a79f64c654b8dc-6d42fc3138)
 - [local-section:ae79a6f8808374567f7ae865 — 36. Paid localization of the full renewal defect](../records/0160.md#local-section-ae79a6f8808374567f7ae865-1d8def2008)
 - [local-section:af6ef0ccf97e6685a10d75b8 — 8. Fixed components and completion of the original row integral](../records/0160.md#local-section-af6ef0ccf97e6685a10d75b8-4a89cc24d2)
 - [local-section:af7a969ebbbaf4a893a0921e — 3. Development A / W49-02: the exact renewal defect and its sharp cost](../records/0160.md#local-section-af7a969ebbbaf4a893a0921e-c27dec35c7)
@@ -192,7 +193,7 @@ Page 3/4; 957 matching records.
 - [local-section:cbfd3226fc7e8263ece48f5b — 4. Development06: a source-exact polylogarithmic Gaussian compression](../records/0163.md#local-section-cbfd3226fc7e8263ece48f5b-eab9517860)
 - [local-section:cc05d9b2a55d5de5acbbc59f — \[research revision\] attempt delta](../records/0163.md#local-section-cc05d9b2a55d5de5acbbc59f-859ad67aca)
 - [local-section:cc55a55277b297cfab4de4ea — 8. Retained alternatives and next action](../records/0163.md#local-section-cc55a55277b297cfab4de4ea-1171d7ba80)
-- [local-section:cca6592276bd51d8a19bf4e4 — G202. Centered quotient norm and one fixed cumulative source](../records/0163.md#local-section-cca6592276bd51d8a19bf4e4-39b1ee0d39)
+- [local-section:cca6592276bd51d8a19bf4e4 — G202. Centered quotient norm and one fixed cumulative source](../records/0164.md#local-section-cca6592276bd51d8a19bf4e4-39b1ee0d39)
 - [local-section:cd56a490d63e093b8b90f001 — G222. Exact prime-deletion inversion and the full signed readout](../records/0164.md#local-section-cd56a490d63e093b8b90f001-1912d1cc5d)
 - [local-section:cd94a17da96fb47403c75fc7 — D1d: the second-root inference is valid but only necessary](../records/0164.md#local-section-cd94a17da96fb47403c75fc7-2a96208ec4)
 - [local-section:cdd63f21b9d79baab18dbbf3 — 8. Functional novelty, objections and next mathematical action](../records/0164.md#local-section-cdd63f21b9d79baab18dbbf3-7ce315c74e)
@@ -244,8 +245,8 @@ Page 3/4; 957 matching records.
 - [local-section:d9f5d7def3c38ddc8daa5cd7 — 7. Open remainder and review gate](../records/0165.md#local-section-d9f5d7def3c38ddc8daa5cd7-0594bc8e13)
 - [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0165.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
 - [local-section:da309b33e95e4cf9258184a3 — Source bindings and novelty boundary](../records/0165.md#local-section-da309b33e95e4cf9258184a3-330328588e)
-- [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0165.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
-- [local-section:daa27e200f523f13c2d83862 — 5. Full versus truncated allocation contraction](../records/0165.md#local-section-daa27e200f523f13c2d83862-823b3b44f4)
+- [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0166.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
+- [local-section:daa27e200f523f13c2d83862 — 5. Full versus truncated allocation contraction](../records/0166.md#local-section-daa27e200f523f13c2d83862-823b3b44f4)
 - [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0166.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
 - [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0166.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
 - [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
@@ -257,4 +258,3 @@ Page 3/4; 957 matching records.
 - [local-section:dc9ff265f5647daf56375377 — \[research revision\]: complete character energy and lawful source-state merging](../records/0166.md#local-section-dc9ff265f5647daf56375377-8a71bf3592)
 - [local-section:dd0b43c79077be96ec22538f — D04: complete collars and derivative costs](../records/0166.md#local-section-dd0b43c79077be96ec22538f-9e6d851326)
 - [local-section:dd2db0f40e9a61653f617712 — Finite-prime pole cancellation for a narrow zero detector](../records/0166.md#local-section-dd2db0f40e9a61653f617712-330bcb2a6b)
-- [local-section:dd9dfa23ebe72e54b19ac8e9 — 7. Controller observation: the full-cutoff contract is Mertens-equivalent](../records/0166.md#local-section-dd9dfa23ebe72e54b19ac8e9-70406e30b2)

@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 12/12; 2897 matching records.
+Page 12/12; 2898 matching records.
 
 [Previous](method-detector-f2b3cbe414-11.md)
 
+- [pr26:Global.Transport.PhysicalLargeTail::large_original_physical_tail@363 — large_original_physical_tail](../records/0211.md#pr26-global-transport-physicallargetail-large-original-physical-t-2acd9dd307)
 - [pr26:Global.Transport.PhysicalSmallTail::small_original_physical_tail@222 — small_original_physical_tail](../records/0211.md#pr26-global-transport-physicalsmalltail-small-original-physical-t-f437d83ca2)
-- [pr26:Global.Transport.PrincipalRemainderBounds::active_prime_sum_bound@553 — active_prime_sum_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-active-prime-sum-b-1faa078892)
+- [pr26:Global.Transport.PrincipalRemainderBounds::active_prime_sum_bound@553 — active_prime_sum_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-active-prime-sum-b-1faa078892)
 - [pr26:Global.Transport.PrincipalRemainderBounds::full_scale_bound@817 — full_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-full-scale-bound-8-e506fef687)
 - [pr26:Global.Transport.PrincipalRemainderBounds::full_vertical_scale_bound@934 — full_vertical_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-full-vertical-scal-d0bd1f91d5)
 - [pr26:Global.Transport.PrincipalRemainderBounds::ordered_remainders_scale_bound@1005 — ordered_remainders_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-ordered-remainders-b11f0eb0e3)
@@ -70,8 +71,8 @@ Page 12/12; 2897 matching records.
 - [pr26:Global.Transport.PrincipalRemainderFiniteProductX::continued_source_differentiable_strip@508 — continued_source_differentiable_strip](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-continued--776ab03371)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProductX::continued_source_eq_raw@498 — continued_source_eq_raw](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-continued--4f878b58f9)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProductX::local_analytic_x@443 — local_analytic_x](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-local-anal-2bd03ddcc5)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProductX::marked_differentiableAt_x@428 — marked_differentiableAt_x](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-marked-dif-b4fa83f848)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProductX::slot_analytic_x@468 — slot_analytic_x](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-slot-analy-0d0dcd4bc8)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProductX::marked_differentiableAt_x@428 — marked_differentiableAt_x](../records/0213.md#pr26-global-transport-principalremainderfiniteproductx-marked-dif-b4fa83f848)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProductX::slot_analytic_x@468 — slot_analytic_x](../records/0213.md#pr26-global-transport-principalremainderfiniteproductx-slot-analy-0d0dcd4bc8)
 - [pr26:Global.Transport.PrincipalRemainderPhysical::principalPoolKernel_as_tuples@44 — principalPoolKernel_as_tuples](../records/0213.md#pr26-global-transport-principalremainderphysical-principalpoolker-e089a03f89)
 - [pr26:Global.Transport.PrincipalRemainderPhysical::principal_physical_pool_initial@57 — principal_physical_pool_initial](../records/0213.md#pr26-global-transport-principalremainderphysical-principal-physic-5c547ced53)
 - [pr26:Global.Transport.PrincipalRemainderPhysical::principal_physical_pool_ordered@88 — principal_physical_pool_ordered](../records/0213.md#pr26-global-transport-principalremainderphysical-principal-physic-923c4283c5)

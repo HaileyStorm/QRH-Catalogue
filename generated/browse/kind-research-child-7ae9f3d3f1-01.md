@@ -30,7 +30,7 @@ Page 1/1; 109 matching records.
 - [local:F05.C — F05.C — Model overlap equals Σμ(c)conjν(c)W_c; baseline overlap alone still leaves cubic exponent≈2.04195](../records/0170.md#local-f05-c-5d30cdcab0)
 - [local:F05.P — F05.P — Identify true residual coefficient vector in actual metric, expand residual/complement including mixed terms, and pay every polar contribution](../records/0170.md#local-f05-p-35fc48b78e)
 - [local:F05.R — F05.R — Penalize costly residual modes with principal calibration instead of assuming exact orthogonality](../records/0170.md#local-f05-r-384251b06a)
-- [local:F06.H — F06.H — Uniform fixed-radius height-area means imply pointwise means by subharmonicity; global weighted-height averages need their own complete contour transfer](../records/0170.md#local-f06-h-d5882764e8)
+- [local:F06.H — F06.H — Uniform fixed-radius height-area means imply pointwise means by subharmonicity; global weighted-height averages need their own complete contour transfer](../records/0171.md#local-f06-h-d5882764e8)
 - [local:F06.P — F06.P — Use actual finite primitive-current image and calibrated projected test norm; first ordinary-prime diagonal/offdiagonal](../records/0171.md#local-f06-p-ab62e56f13)
 - [local:F06.X — F06.X — Summing individual q_h bounds gives X³; a pointwise q_h^(1−δ) proof needs δ≈.95072 to cross.1255 by this route](../records/0171.md#local-f06-x-05ff2936cd)
 - [local:F07.C — F07.C — Inverse-cubic Jacobi rational phase t v/(1+v), zero value−1, CRT ideal Möbius](../records/0171.md#local-f07-c-52ad24329e)

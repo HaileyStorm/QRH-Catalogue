@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 8/12; 2897 matching records.
+Page 8/12; 2898 matching records.
 
 [Previous](method-detector-f2b3cbe414-07.md)
 
 [Next](method-detector-f2b3cbe414-09.md)
 
+- [local-section:56d1a5a3d050cc63774765bc — 7. Complete endpoint geometry and all shortening cases](../records/0148.md#local-section-56d1a5a3d050cc63774765bc-4c058bcae4)
 - [local-section:572811beacd136b8e447ed7e — F. Alternative zero detectors, positive covers and finite-data failures](../records/0148.md#local-section-572811beacd136b8e447ed7e-7e438d1a6c)
 - [local-section:575c194f03cd99bbdaba58da — 11. Independent diagnostics and uniformity limits](../records/0148.md#local-section-575c194f03cd99bbdaba58da-032d12104d)
 - [local-section:575c1b72e2d8f469c968a573 — 3. D04: complete independent reconstruction](../records/0148.md#local-section-575c1b72e2d8f469c968a573-e90bbd8f45)
@@ -19,7 +20,7 @@ Page 8/12; 2897 matching records.
 - [local-section:590fb4eb4f00b758afe3738c — Sol03 independent Astra validation](../records/0148.md#local-section-590fb4eb4f00b758afe3738c-15e8217095)
 - [local-section:598430938ab2786e41f9f185 — 4. Development C: the signed tensor boundary can be retained, but rank is not saving](../records/0148.md#local-section-598430938ab2786e41f9f185-e7eb090be7)
 - [local-section:5984f88cef230852394f72f9 — Combined support gain and the complete c8 endpoint](../records/0148.md#local-section-5984f88cef230852394f72f9-eec0bb11f6)
-- [local-section:59b77b5be4397824ba8236e2 — 5. Scalar return, certificate domains and all retained d](../records/0148.md#local-section-59b77b5be4397824ba8236e2-72e1857f1e)
+- [local-section:59b77b5be4397824ba8236e2 — 5. Scalar return, certificate domains and all retained d](../records/0149.md#local-section-59b77b5be4397824ba8236e2-72e1857f1e)
 - [local-section:59ecf56b5139705d57b151a3 — 6. All30 dispositions and exact ancestry](../records/0149.md#local-section-59ecf56b5139705d57b151a3-aa4a959e61)
 - [local-section:5a662def14ed9a5a5f2ddbe0 — Exhaustive detail and scope](../records/0149.md#local-section-5a662def14ed9a5a5f2ddbe0-3e627d83b3)
 - [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0149.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
@@ -49,7 +50,7 @@ Page 8/12; 2897 matching records.
 - [local-section:602681e0750b3eddb49a81e1 — 8. Evidence, novelty, strongest objections and next action](../records/0149.md#local-section-602681e0750b3eddb49a81e1-83010fce6a)
 - [local-section:608b6997ef1012412b8123b0 — 6.1 Complete rough feedback defeats this absolute small-gain proposal](../records/0149.md#local-section-608b6997ef1012412b8123b0-94972e7118)
 - [local-section:60c8c59a46da91da8e171807 — G111. Accepted c10 licenses a smaller density capacity](../records/0149.md#local-section-60c8c59a46da91da8e171807-e29c8eb586)
-- [local-section:61ee22b4c5aa95342e503462 — 8. All30 retained dispositions and remaining actions](../records/0149.md#local-section-61ee22b4c5aa95342e503462-2a46685d45)
+- [local-section:61ee22b4c5aa95342e503462 — 8. All30 retained dispositions and remaining actions](../records/0150.md#local-section-61ee22b4c5aa95342e503462-2a46685d45)
 - [local-section:61f50c63208ead66c89a23ee — All 30 frozen seeds: final disposition](../records/0150.md#local-section-61f50c63208ead66c89a23ee-b7056151f7)
 - [local-section:61faa04014d526c968d73ecc — \[research revision\] discovery-first source pass — quantitative short windows and a calibrated multiplicative obstruction](../records/0150.md#local-section-61faa04014d526c968d73ecc-c78c487750)
 - [local-section:61fb54d5310c24ebc512a814 — Sol04 independent first-stage review](../records/0150.md#local-section-61fb54d5310c24ebc512a814-b3e72c6f41)
@@ -103,7 +104,7 @@ Page 8/12; 2897 matching records.
 - [local-section:701a92acc07aa6043adf0942 — Group 4: analytic continuation / control or realization / ambient representation](../records/0151.md#local-section-701a92acc07aa6043adf0942-eab8e1d651)
 - [local-section:70376851109010644d97af33 — 5. Low/high branches, missing labels and all-height scope](../records/0151.md#local-section-70376851109010644d97af33-41ed5c4166)
 - [local-section:70815b74dc189bc4e4a38d39 — G105. Exact continuation classes, reconstructed amplitudes and contours](../records/0151.md#local-section-70815b74dc189bc4e4a38d39-8c5af61196)
-- [local-section:70a513d8d02583c37e0363cd — F09. Adaptive exceptional-mode vector probes](../records/0151.md#local-section-70a513d8d02583c37e0363cd-5d99cbb330)
+- [local-section:70a513d8d02583c37e0363cd — F09. Adaptive exceptional-mode vector probes](../records/0152.md#local-section-70a513d8d02583c37e0363cd-5d99cbb330)
 - [local-section:70c8913cf85abfe83170d166 — 13. Profile annihilation can remove the signal, and moving twists can move a paid root](../records/0152.md#local-section-70c8913cf85abfe83170d166-76ace56ba3)
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0152.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0152.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
@@ -239,7 +240,7 @@ Page 8/12; 2897 matching records.
 - [local-section:964491872fce608e4928187d — \[research revision\]: narrow joint witnesses and paid detector alternatives](../records/0156.md#local-section-964491872fce608e4928187d-b9f45c9a54)
 - [local-section:9672bf8d794bf486e8fff7f4 — Independent review: the cofactor-labelled source and its complete price](../records/0156.md#local-section-9672bf8d794bf486e8fff7f4-ed269a718c)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0156.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
-- [local-section:969bb28db7d73140a3a6fa0e — 42. Finite growing Riesz fields with a complete fixed-source return](../records/0156.md#local-section-969bb28db7d73140a3a6fa0e-1390092971)
+- [local-section:969bb28db7d73140a3a6fa0e — 42. Finite growing Riesz fields with a complete fixed-source return](../records/0157.md#local-section-969bb28db7d73140a3a6fa0e-1390092971)
 - [local-section:96f295b9e7bfc83b92511c4b — \[research revision\]: complete rough correlations and local-set observation](../records/0157.md#local-section-96f295b9e7bfc83b92511c4b-a4150be9ea)
 - [local-section:973513bf90fab49d339ffccf — 7. What remains open, evidence and provenance](../records/0157.md#local-section-973513bf90fab49d339ffccf-a7d0d49c47)
 - [local-section:978e7b6c097536505cbc8e3f — Independent review of conductor-restricted density and the completed joint detector](../records/0157.md#local-section-978e7b6c097536505cbc8e3f-730181668f)
@@ -257,4 +258,3 @@ Page 8/12; 2897 matching records.
 - [local-section:9a74495edc16dd445a69c938 — Principal, contour, and continuation costs](../records/0157.md#local-section-9a74495edc16dd445a69c938-53924c988b)
 - [local-section:9ad8cd882ead4b8398b0ebdd — G166. Prime removal with exact correction and all-shell return](../records/0157.md#local-section-9ad8cd882ead4b8398b0ebdd-2ee1fb44fa)
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)
-- [local-section:9b1de17dfa1bf3453bc4390c — 7. Physical endpoint, sharp shortening cutoffs and free shifts](../records/0157.md#local-section-9b1de17dfa1bf3453bc4390c-a0010c07be)

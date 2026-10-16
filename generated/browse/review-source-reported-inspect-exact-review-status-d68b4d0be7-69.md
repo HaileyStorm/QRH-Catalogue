@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 69/71; 17531 matching records.
+Page 69/71; 17533 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_bound@507 — remainder_globalClosedCorrection_bound](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-globalcl-4712567a88)
+- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_multipliable@515 — remainder_globalClosedCorrection_multipliable](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-globalcl-f9e479173a)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_idealClosedCorrection_bound@494 — remainder_idealClosedCorrection_bound](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-idealclo-1fff3ffa7e)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_open_region_denominators@444 — remainder_open_region_denominators](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-open-reg-fafe098c73)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_w@474 — remainder_unramifiedClosed_analytic_w](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-unramifi-26f86dad30)
@@ -87,8 +89,8 @@ Page 69/71; 17531 matching records.
 - [pr26:Global.Transport.SignalShift — Global.Transport.SignalShift](../records/0213.md#pr26-global-transport-signalshift-23fce85c29)
 - [pr26:Global.Transport.SignalShift::contour_shift_left@624 — contour_shift_left](../records/0213.md#pr26-global-transport-signalshift-contour-shift-left-624-b716423a98)
 - [pr26:Global.Transport.SignalShift::contour_shift_left_bound@659 — contour_shift_left_bound](../records/0213.md#pr26-global-transport-signalshift-contour-shift-left-bound-659-a3269176ec)
-- [pr26:Global.Transport.SignalShift::quotient_holomorphic@597 — quotient_holomorphic](../records/0213.md#pr26-global-transport-signalshift-quotient-holomorphic-597-dfd86bfda6)
-- [pr26:Global.Transport.SignalShift::quotient_polynomial_bound@606 — quotient_polynomial_bound](../records/0213.md#pr26-global-transport-signalshift-quotient-polynomial-bound-606-aef986e209)
+- [pr26:Global.Transport.SignalShift::quotient_holomorphic@597 — quotient_holomorphic](../records/0214.md#pr26-global-transport-signalshift-quotient-holomorphic-597-dfd86bfda6)
+- [pr26:Global.Transport.SignalShift::quotient_polynomial_bound@606 — quotient_polynomial_bound](../records/0214.md#pr26-global-transport-signalshift-quotient-polynomial-bound-606-aef986e209)
 - [pr26:Global.Transport.SmallTail — Global.Transport.SmallTail](../records/0214.md#pr26-global-transport-smalltail-1919130b94)
 - [pr26:Global.Transport.SmallTail::small_physical_dyads_sum@692 — small_physical_dyads_sum](../records/0214.md#pr26-global-transport-smalltail-small-physical-dyads-sum-692-3401a8bad7)
 - [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0214.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
@@ -187,8 +189,8 @@ Page 69/71; 17531 matching records.
 - [pr26:LocalMoment.SignedRows::right_local@299 — right_local](../records/0214.md#pr26-localmoment-signedrows-right-local-299-0d3cb7d872)
 - [pr26:LocalMoment.SixthRowMask — LocalMoment.SixthRowMask](../records/0214.md#pr26-localmoment-sixthrowmask-8e7538badc)
 - [pr26:LocalMoment.SixthRowMask::amplified_element_mask@764 — amplified_element_mask](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-element-mask-764-498d721dd2)
-- [pr26:LocalMoment.SixthRowMask::amplified_ideal_mask@737 — amplified_ideal_mask](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-ideal-mask-737-bdd5d88097)
-- [pr26:LocalMoment.SixthRowMask::amplified_modulus_mask@787 — amplified_modulus_mask](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-modulus-mask-787-a105cf085c)
+- [pr26:LocalMoment.SixthRowMask::amplified_ideal_mask@737 — amplified_ideal_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-ideal-mask-737-bdd5d88097)
+- [pr26:LocalMoment.SixthRowMask::amplified_modulus_mask@787 — amplified_modulus_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-modulus-mask-787-a105cf085c)
 - [pr26:LocalMoment.SixthRowMask::amplified_nonprincipal@795 — amplified_nonprincipal](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-nonprincipal-795-fb96401a27)
 - [pr26:LocalMoment.SixthRowMask::amplified_positive_zeros@802 — amplified_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-positive-zeros-802-a0256f8a62)
 - [pr26:LocalMoment.SixthRowMask::amplified_zeroMaximum@810 — amplified_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-zeromaximum-810-fdb7a6cba2)
@@ -256,5 +258,3 @@ Page 69/71; 17531 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass::actual_nonfloor_class_from_raw_moments@1034 — actual_nonfloor_class_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyclass-actu-e62d69f77e)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycollected-645bf41129)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected::actual_nonfloor_rows_saving@183 — actual_nonfloor_rows_saving](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycollected--7744243229)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh-eb02a37f8d)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh::fixed_high_bound@216 — fixed_high_bound](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh--0c24c8d0a2)

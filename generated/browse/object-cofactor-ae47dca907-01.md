@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 395 matching records.
+Page 1/2; 396 matching records.
 
 [Next](object-cofactor-ae47dca907-02.md)
 
@@ -12,6 +12,7 @@ Page 1/2; 395 matching records.
 - [QRH-CONT-M006-QUADRATIC-TAIL — Quadratic large-sieve bound for the complete twisted prime tail](../records/0130.md#qrh-cont-m006-quadratic-tail-7e507878d2)
 - [QRH-CONT-M008-CORE-BAND — Complete growing small-core sector in the all-power quadratic source](../records/0131.md#qrh-cont-m008-core-band-5e9e4c034c)
 - [QRH-CONT-M013-ANGULAR-COFACTOR — Complete angular cofactor, primitive source and exact rational-ray locking](../records/0131.md#qrh-cont-m013-angular-cofactor-901c9a5e52)
+- [QRH-CONT-R049-PRODUCT-CUTOFF-DETECTOR — Original-coefficient product-cutoff detector and complete cofactor energy](../records/0131.md#qrh-cont-r049-product-cutoff-detector-13a8d6fed3)
 - [local-section:035701346f99d3890ec7be86 — \[research revision\]: signed deletion, critical flux and common-readout Gram](../records/0138.md#local-section-035701346f99d3890ec7be86-e321acbb45)
 - [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
 - [local-section:04f7098c7a39f445d177cdcf — 9. Verification, limitations and next action](../records/0138.md#local-section-04f7098c7a39f445d177cdcf-8a0d57f014)
@@ -42,7 +43,7 @@ Page 1/2; 395 matching records.
 - [local-section:19f3fda7bd054beedc38a074 — 4. Development23: full large-prime complement and sharp diameter](../records/0140.md#local-section-19f3fda7bd054beedc38a074-6760737993)
 - [local-section:1a543dff034dcf5976f6ef0b — 2. Independent reconstruction of the author's deletion and parity claims](../records/0140.md#local-section-1a543dff034dcf5976f6ef0b-76d102bdcd)
 - [local-section:1a7db47d7e33c397f151e227 — F04.N2 — New pass 1: core-frame calibration and exact mark cumulants](../records/0140.md#local-section-1a7db47d7e33c397f151e227-e53cd3c278)
-- [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0140.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
+- [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0141.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
 - [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0141.md#local-section-1b7972de99305d82899b971b-ad968fff11)
 - [local-section:1bf9191234ba9671e6b37a3a — 6. What is actually paid; the unit and low-gcd complement](../records/0141.md#local-section-1bf9191234ba9671e6b37a3a-b8e98411db)
 - [local-section:1c0afe168ddc858a6450b8da — W60: prime-factor turnover is the missing cost in local coding](../records/0141.md#local-section-1c0afe168ddc858a6450b8da-f92f7b59e9)
@@ -63,7 +64,7 @@ Page 1/2; 395 matching records.
 - [local-section:2a61031dd44d11c2234f5ab9 — \[research revision\]: exact cofactor residual and a sharp completion threshold](../records/0142.md#local-section-2a61031dd44d11c2234f5ab9-8231d44b9b)
 - [local-section:2abfb46d5f73bcf224d4fb84 — \[research revision\]: a complete stationary-cofactor estimate and constant inverse cuts](../records/0142.md#local-section-2abfb46d5f73bcf224d4fb84-b011149719)
 - [local-section:2acf9660b86aa238921bd7db — 5. Uniform audit W58-08: genuine lift, principal branch obstruction, exact repair](../records/0142.md#local-section-2acf9660b86aa238921bd7db-dde23cccbd)
-- [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0142.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
+- [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0143.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
 - [local-section:2c14a467036cee30650794fb — W62 independent review: paid prime flux and two retained audits](../records/0143.md#local-section-2c14a467036cee30650794fb-09b45ed794)
 - [local-section:2c577ededb97705857b60472 — R3. Exact convolution identities, including the exclusions](../records/0143.md#local-section-2c577ededb97705857b60472-347f2d94d1)
 - [local-section:2ca3770e79cd2de3bcdf9bec — \[research revision\] high-ceiling discovery: an exact reciprocal channel inside Hankel twist dispersion](../records/0143.md#local-section-2ca3770e79cd2de3bcdf9bec-898383f502)
@@ -104,7 +105,7 @@ Page 1/2; 395 matching records.
 - [local-section:46fb63ecd35dd6dcb7e90c52 — 0. Current worklog and disposition](../records/0146.md#local-section-46fb63ecd35dd6dcb7e90c52-9b630e515f)
 - [local-section:4711acfd66edb842206b1bf5 — \[research revision\]: the actual Hankel low-frequency problem](../records/0146.md#local-section-4711acfd66edb842206b1bf5-a464879995)
 - [local-section:47298c94c76950af6c64f76d — 7. Exact evidence, calibration and next mathematical action](../records/0146.md#local-section-47298c94c76950af6c64f76d-ea7118119c)
-- [local-section:4ab9d1e430f17be39186b42d — Other first tests and scope boundaries](../records/0146.md#local-section-4ab9d1e430f17be39186b42d-06a3cf9918)
+- [local-section:4ab9d1e430f17be39186b42d — Other first tests and scope boundaries](../records/0147.md#local-section-4ab9d1e430f17be39186b42d-06a3cf9918)
 - [local-section:4acb7a9325485c34ebbf75e7 — 1. Scope and evidence](../records/0147.md#local-section-4acb7a9325485c34ebbf75e7-f3f5a12438)
 - [local-section:4b1d2cb21f739d79f8e32eb8 — 4. An explicit cofactor and its nontriviality](../records/0147.md#local-section-4b1d2cb21f739d79f8e32eb8-3d86a84efd)
 - [local-section:4b7d4e63a890f93b3c9822c1 — 4. A full-coefficient prime block in the retained far form](../records/0147.md#local-section-4b7d4e63a890f93b3c9822c1-45bd369d00)
@@ -181,7 +182,7 @@ Page 1/2; 395 matching records.
 - [local-section:8659d15e866e40396b980791 — 1. Discovery and selection](../records/0154.md#local-section-8659d15e866e40396b980791-23d6646fb8)
 - [local-section:86cdcfec737fa6d20c331872 — 9. All thirty dispositions retained](../records/0154.md#local-section-86cdcfec737fa6d20c331872-c267b41ef1)
 - [local-section:86f5b12f04050cbcb97cdbf3 — 75. Cofactor-resolved inverse certificates and their exact depth](../records/0154.md#local-section-86f5b12f04050cbcb97cdbf3-61ceb461a6)
-- [local-section:875fc095e437c676ac02abb4 — 5. A precise obstruction to the proposed shortcut](../records/0154.md#local-section-875fc095e437c676ac02abb4-067fa78bc8)
+- [local-section:875fc095e437c676ac02abb4 — 5. A precise obstruction to the proposed shortcut](../records/0155.md#local-section-875fc095e437c676ac02abb4-067fa78bc8)
 - [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0155.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
 - [local-section:88779e40b84fa7d7a0b8eae9 — 2. The full allocation mask and the new sector theorem](../records/0155.md#local-section-88779e40b84fa7d7a0b8eae9-fc5b6cf843)
 - [local-section:891c3d87c756a9a4feef1aed — 1. Exact source and original obstruction](../records/0155.md#local-section-891c3d87c756a9a4feef1aed-4038970e71)
@@ -255,4 +256,3 @@ Page 1/2; 395 matching records.
 - [local-section:b2e60a9a238769df60cab716 — 5. Complete Liouville core and paid short-square sources](../records/0160.md#local-section-b2e60a9a238769df60cab716-b9c64f8664)
 - [local-section:b346046e9b268a2c25df15b8 — Direct proof lanes and recombination](../records/0160.md#local-section-b346046e9b268a2c25df15b8-5eb9c7811b)
 - [local-section:b3519a2c2c76020224f529cb — 8. What is and is not established](../records/0160.md#local-section-b3519a2c2c76020224f529cb-50a20f7638)
-- [local-section:b382f820e9eeb2c64e9b51ae — 2. A complete direct return, and the proposed code graph](../records/0160.md#local-section-b382f820e9eeb2c64e9b51ae-9670c610c1)

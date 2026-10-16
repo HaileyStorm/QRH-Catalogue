@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 11/12; 2897 matching records.
+Page 11/12; 2898 matching records.
 
 [Previous](method-detector-f2b3cbe414-10.md)
 
 [Next](method-detector-f2b3cbe414-12.md)
 
+- [pr26:Cycle25.Energy.Physical.CertifiedRetained::certified_actual_retained_fourth@855 — certified_actual_retained_fourth](../records/0199.md#pr26-cycle25-energy-physical-certifiedretained-certified-actual-r-7f018a0a5f)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::certified_reflected_zero_fourier_moment@243 — certified_reflected_zero_fourier_moment](../records/0199.md#pr26-cycle25-energy-physical-certifiedzero-certified-reflected-ze-a6a42a7ce9)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::finite_pair_zeroAt@210 — finite_pair_zeroAt](../records/0199.md#pr26-cycle25-energy-physical-certifiedzero-finite-pair-zeroat-210-dda9c51815)
 - [pr26:Cycle25.Energy.Physical.FourierProfiles::inverse_annular_norm_eq@147 — inverse_annular_norm_eq](../records/0199.md#pr26-cycle25-energy-physical-fourierprofiles-inverse-annular-norm-985c12d7d9)
@@ -30,8 +31,8 @@ Page 11/12; 2897 matching records.
 - [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_positive_energy@198 — weighted_terminal_positive_energy](../records/0200.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-positive--4792cce125)
 - [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_zero_energy@224 — weighted_terminal_zero_energy](../records/0200.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-zero-ener-4c240e3cd4)
 - [pr26:Cycle25.Numerator.ActiveFourth::certified_active_box_fourth@575 — certified_active_box_fourth](../records/0200.md#pr26-cycle25-numerator-activefourth-certified-active-box-fourth-5-28ce14cbc9)
-- [pr26:Cycle25.Numerator.ActualBin::actual_label_packet_bin_bound@210 — actual_label_packet_bin_bound](../records/0200.md#pr26-cycle25-numerator-actualbin-actual-label-packet-bin-bound-21-5522b07d10)
-- [pr26:Cycle25.Numerator.ActualBin::errorLabelNumerator_eq_packet@308 — errorLabelNumerator_eq_packet](../records/0200.md#pr26-cycle25-numerator-actualbin-errorlabelnumerator-eq-packet-30-58a6873c1e)
+- [pr26:Cycle25.Numerator.ActualBin::actual_label_packet_bin_bound@210 — actual_label_packet_bin_bound](../records/0201.md#pr26-cycle25-numerator-actualbin-actual-label-packet-bin-bound-21-5522b07d10)
+- [pr26:Cycle25.Numerator.ActualBin::errorLabelNumerator_eq_packet@308 — errorLabelNumerator_eq_packet](../records/0201.md#pr26-cycle25-numerator-actualbin-errorlabelnumerator-eq-packet-30-58a6873c1e)
 - [pr26:Cycle25.Numerator.ActualBin::labelPolynomialPacket@199 — labelPolynomialPacket](../records/0201.md#pr26-cycle25-numerator-actualbin-labelpolynomialpacket-199-4c65b48ad0)
 - [pr26:Cycle25.Numerator.BoxReconstruction::actual_label_series_norm_summable@1316 — actual_label_series_norm_summable](../records/0201.md#pr26-cycle25-numerator-boxreconstruction-actual-label-series-norm-2b99dc2570)
 - [pr26:Cycle25.Numerator.BoxReconstruction::actual_label_term_zero_of_cutoff@1261 — actual_label_term_zero_of_cutoff](../records/0201.md#pr26-cycle25-numerator-boxreconstruction-actual-label-term-zero-o-e827b571ea)
@@ -59,8 +60,8 @@ Page 11/12; 2897 matching records.
 - [pr26:Cycle25.Numerator.Imported.FullWFiniteError::fullW_prime_product_bound@237 — fullW_prime_product_bound](../records/0201.md#pr26-cycle25-numerator-imported-fullwfiniteerror-fullw-prime-prod-5ba72b0e5d)
 - [pr26:Cycle25.Numerator.Imported.FullWFiniteError::fullW_prime_tuple_count@269 — fullW_prime_tuple_count](../records/0201.md#pr26-cycle25-numerator-imported-fullwfiniteerror-fullw-prime-tupl-7474467940)
 - [pr26:Cycle25.Numerator.Imported.FullWFiniteError::original_row_fullW_arbitrary_saving@286 — original_row_fullW_arbitrary_saving](../records/0201.md#pr26-cycle25-numerator-imported-fullwfiniteerror-original-row-ful-3103ae9b81)
-- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::finiteFullW_reconstruction@409 — finiteFullW_reconstruction](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-finitefullw-r-c8c93b26d0)
-- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::fullW_factored_integral@384 — fullW_factored_integral](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-fullw-factore-abf67588fb)
+- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::finiteFullW_reconstruction@409 — finiteFullW_reconstruction](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-finitefullw-r-c8c93b26d0)
+- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::fullW_factored_integral@384 — fullW_factored_integral](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-fullw-factore-abf67588fb)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::integratedDyadValue@401 — integratedDyadValue](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-integrateddya-f2cebb66df)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::integratedRowValue@353 — integratedRowValue](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-integratedrow-3d6ee24d90)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::rowNumeratorIntegral@345 — rowNumeratorIntegral](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-rownumeratori-32e1d9ea9f)
@@ -115,8 +116,8 @@ Page 11/12; 2897 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorLabelReconstruction::partialErrorTuple_label_series@1182 — partialErrorTuple_label_series](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlabelreconstruction-part-8d77c445d6)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPhysicalPacketMass::actual_physical_label_mass@1369 — actual_physical_label_mass](../records/0203.md#pr26-cycle25-numerator-imported-numeratorphysicalpacketmass-actua-882dfc56ce)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actualUnramifiedCoefficients@457 — actualUnramifiedCoefficients](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actualunr-d4c9edc033)
-- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_expansion@522 — actual_unramified_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-e75404bd90)
-- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_expansion@464 — actual_unramified_local_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-16a1637f29)
+- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_expansion@522 — actual_unramified_expansion](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-e75404bd90)
+- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_expansion@464 — actual_unramified_local_expansion](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-16a1637f29)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_mass@489 — actual_unramified_local_mass](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-a89e9328a9)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_mass_summable@508 — actual_unramified_local_mass_summable](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-404849999f)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::primeScale@455 — primeScale](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-primescal-be1f65e498)
@@ -187,8 +188,8 @@ Page 11/12; 2897 matching records.
 - [pr26:Global.Low.Detector.LowGramScale — Global.Low.Detector.LowGramScale](../records/0207.md#pr26-global-low-detector-lowgramscale-7dc6d62852)
 - [pr26:Global.Low.Detector.LowInverseNormalize — Global.Low.Detector.LowInverseNormalize](../records/0207.md#pr26-global-low-detector-lowinversenormalize-138ec71cb2)
 - [pr26:Global.Low.Detector.LowNominalEnergy — Global.Low.Detector.LowNominalEnergy](../records/0207.md#pr26-global-low-detector-lownominalenergy-d207f30ac6)
-- [pr26:Global.Low.Detector.LowNominalEnergy::low_selected_nominal_energy@409 — low_selected_nominal_energy](../records/0207.md#pr26-global-low-detector-lownominalenergy-low-selected-nominal-en-d00dab027e)
-- [pr26:Global.Low.Detector.LowNominalGeometry — Global.Low.Detector.LowNominalGeometry](../records/0207.md#pr26-global-low-detector-lownominalgeometry-19e647f671)
+- [pr26:Global.Low.Detector.LowNominalEnergy::low_selected_nominal_energy@409 — low_selected_nominal_energy](../records/0208.md#pr26-global-low-detector-lownominalenergy-low-selected-nominal-en-d00dab027e)
+- [pr26:Global.Low.Detector.LowNominalGeometry — Global.Low.Detector.LowNominalGeometry](../records/0208.md#pr26-global-low-detector-lownominalgeometry-19e647f671)
 - [pr26:Global.Low.Detector.LowNormalized — Global.Low.Detector.LowNormalized](../records/0208.md#pr26-global-low-detector-lownormalized-13e2232d99)
 - [pr26:Global.Low.Detector.LowNormalized::original_normalized_compensatedPhysicalProbe_low@630 — original_normalized_compensatedPhysicalProbe_low](../records/0208.md#pr26-global-low-detector-lownormalized-original-normalized-compen-6742ae621a)
 - [pr26:Global.Low.Detector.LowOriginalPools — Global.Low.Detector.LowOriginalPools](../records/0208.md#pr26-global-low-detector-loworiginalpools-cf741e62d8)
@@ -257,4 +258,3 @@ Page 11/12; 2897 matching records.
 - [pr26:Global.Transport.NonfloorTransport::actual_nonfloor_probe_transport@517 — actual_nonfloor_probe_transport](../records/0211.md#pr26-global-transport-nonfloortransport-actual-nonfloor-probe-tra-0073c44cb4)
 - [pr26:Global.Transport.NormalizedTransport::actual_normalized_probe_transport@605 — actual_normalized_probe_transport](../records/0211.md#pr26-global-transport-normalizedtransport-actual-normalized-probe-d53a59865b)
 - [pr26:Global.Transport.NormalizedTransportSaving::actual_normalized_probe_transport_saving@604 — actual_normalized_probe_transport_saving](../records/0211.md#pr26-global-transport-normalizedtransportsaving-actual-normalized-1f97990cb6)
-- [pr26:Global.Transport.PhysicalLargeTail::large_original_physical_tail@363 — large_original_physical_tail](../records/0211.md#pr26-global-transport-physicallargetail-large-original-physical-t-2acd9dd307)

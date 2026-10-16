@@ -2,10 +2,11 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 395 matching records.
+Page 2/2; 396 matching records.
 
 [Previous](object-cofactor-ae47dca907-01.md)
 
+- [local-section:b382f820e9eeb2c64e9b51ae — 2. A complete direct return, and the proposed code graph](../records/0160.md#local-section-b382f820e9eeb2c64e9b51ae-9670c610c1)
 - [local-section:b3a1cf188d293357a19a3f5d — UR3. Pole cofactor: exact expansion, nontriviality and multiplicities](../records/0160.md#local-section-b3a1cf188d293357a19a3f5d-4c813b4895)
 - [local-section:b498095bd506495386e822c6 — W67 independent review: exact representations and a cofactor-resolved residual](../records/0160.md#local-section-b498095bd506495386e822c6-d6741de9bd)
 - [local-section:b505ef85ea326e878e564490 — 2. Saved mathematical prefix: adaptive one-Mobius cutoff](../records/0160.md#local-section-b505ef85ea326e878e564490-23fb59bce3)
@@ -27,7 +28,7 @@ Page 2/2; 395 matching records.
 - [local-section:c40c65314324a0313f6ceb6e — 9. Sources, comparison and exact limitations](../records/0162.md#local-section-c40c65314324a0313f6ceb6e-2a8784454f)
 - [local-section:c47162ed49383fb4d3ccafe3 — 8. Uniform critic audit S10: one compact sensor, all heights, paid stability](../records/0162.md#local-section-c47162ed49383fb4d3ccafe3-d8860b14b6)
 - [local-section:c473fe88d2e9272b51b0bcdc — \[research revision\]: complete stationary cofactor payment](../records/0162.md#local-section-c473fe88d2e9272b51b0bcdc-6424a1d8cc)
-- [local-section:c4ab52ba58d3b91e0c3bc25d — D12 / S12: accept the conditional same-exponent return](../records/0162.md#local-section-c4ab52ba58d3b91e0c3bc25d-9f62cb3eb5)
+- [local-section:c4ab52ba58d3b91e0c3bc25d — D12 / S12: accept the conditional same-exponent return](../records/0163.md#local-section-c4ab52ba58d3b91e0c3bc25d-9f62cb3eb5)
 - [local-section:c582165b33e7bfa0986e54a7 — 9. A separate quantitative anchor: delta=2 really has an inverse](../records/0163.md#local-section-c582165b33e7bfa0986e54a7-4bb610826e)
 - [local-section:c6362fdc6feabff5107ee363 — 3. D2: all prime blocks, all complements](../records/0163.md#local-section-c6362fdc6feabff5107ee363-06e738c8ed)
 - [local-section:c657d653e0228f338d0e0f3d — W61 independent review: actual-source certificate costs and complete readouts](../records/0163.md#local-section-c657d653e0228f338d0e0f3d-ac6494c22d)
@@ -74,7 +75,7 @@ Page 2/2; 395 matching records.
 - [local-section:d92b43110b6819e513cee769 — A far-source reduction to two separated inverse witnesses](../records/0165.md#local-section-d92b43110b6819e513cee769-a3834c375d)
 - [local-section:d9506ac7bea296232f667992 — 1. G116: a complete paid complement for integer renewal](../records/0165.md#local-section-d9506ac7bea296232f667992-270365d9c1)
 - [local-section:d9f5d7def3c38ddc8daa5cd7 — 7. Open remainder and review gate](../records/0165.md#local-section-d9f5d7def3c38ddc8daa5cd7-0594bc8e13)
-- [local-section:daa27e200f523f13c2d83862 — 5. Full versus truncated allocation contraction](../records/0165.md#local-section-daa27e200f523f13c2d83862-823b3b44f4)
+- [local-section:daa27e200f523f13c2d83862 — 5. Full versus truncated allocation contraction](../records/0166.md#local-section-daa27e200f523f13c2d83862-823b3b44f4)
 - [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
 - [local-section:db99ba545c6ce114485720d4 — 10. Checks, limitations, and handoff boundary](../records/0166.md#local-section-db99ba545c6ce114485720d4-cdb7a82301)
 - [local-section:dc9ff265f5647daf56375377 — \[research revision\]: complete character energy and lawful source-state merging](../records/0166.md#local-section-dc9ff265f5647daf56375377-8a71bf3592)
@@ -102,7 +103,7 @@ Page 2/2; 395 matching records.
 - [local-section:f5ad2e47ad8526ebc8116dae — Complete stationary cofactor payment and constant inverse cuts](../records/0169.md#local-section-f5ad2e47ad8526ebc8116dae-ecebaca4de)
 - [local-section:f83e0e895e94ce63aeca44be — \[research revision\]: signed logarithms and exact causal readout](../records/0169.md#local-section-f83e0e895e94ce63aeca44be-41f97d423b)
 - [local-section:f9408f431fd6b0324deca0e4 — \[research revision\]: all four cross-gcd sectors paid in the original mixed source](../records/0169.md#local-section-f9408f431fd6b0324deca0e4-e2646470c9)
-- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0169.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
+- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0170.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
 - [local-section:fbd675157195efb8f87057ca — 3. Reconstructing the author's unconditional estimate](../records/0170.md#local-section-fbd675157195efb8f87057ca-40471efd5e)
 - [local-section:fc9409d58222d0fd6c96c0e0 — 4. Protected audit S25: decimation with all induced interactions](../records/0170.md#local-section-fc9409d58222d0fd6c96c0e0-df28e4e747)
 - [local-section:fce5e3d67a5da77d6d4c5658 — 3. A complete constant-cut core](../records/0170.md#local-section-fce5e3d67a5da77d6d4c5658-73681d3051)
@@ -112,7 +113,7 @@ Page 2/2; 395 matching records.
 - [local:F02 — F02. Large-prime null packets and common-core dispersion](../records/0170.md#local-f02-73bce7daec)
 - [local:F02.2 — F02.2 — Two-large-prime short-cofactor or product r=mk dispersion with exact divisor fibres; merge unequal cutoffs only when they shorten a live cofactor](../records/0170.md#local-f02-2-8f182b62ed)
 - [local:G104 — G104. Actual finite character traces and their exact limitation](../records/0171.md#local-g104-68eaa9b122)
-- [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0171.md#local-g108-f378462f08)
+- [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0172.md#local-g108-f378462f08)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)
 - [local:G118 — 3. G118: finite-prefix and all-layer audits](../records/0172.md#local-g118-50557224bc)
 - [local:G132 — G132. A complete positive prefix estimate](../records/0172.md#local-g132-a6c45dea4e)
@@ -130,7 +131,7 @@ Page 2/2; 395 matching records.
 - [local:G191 — G191. Complete periodic cofactor estimate for fixed b,k](../records/0172.md#local-g191-707efc9449)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
 - [local:G193 — G193. Paid diagonal and the exact remaining signed estimate](../records/0172.md#local-g193-f396ec5478)
-- [local:G207 — G207: full product, collisions and weighted removal](../records/0172.md#local-g207-3c636df55b)
+- [local:G207 — G207: full product, collisions and weighted removal](../records/0173.md#local-g207-3c636df55b)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0173.md#local-g222-849aadba5c)

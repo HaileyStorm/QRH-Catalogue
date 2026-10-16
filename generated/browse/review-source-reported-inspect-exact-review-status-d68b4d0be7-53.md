@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/71; 17531 matching records.
+Page 53/71; 17533 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
@@ -48,6 +48,8 @@ Page 53/71; 17531 matching records.
 - [QRH-CONT-R043-MATCHED-PRIME-SECTORS — Matched prime sectors on the complete natural source and literal first Poisson transform](../records/0131.md#qrh-cont-r043-matched-prime-sectors-18312dd464)
 - [QRH-CONT-R046-MARKED-RECTANGLE — Marked rectangle comparison and signed second-Poisson return](../records/0131.md#qrh-cont-r046-marked-rectangle-6a2023bde2)
 - [QRH-CONT-R048-COUPLED-SHORT-DETECTOR — Complete coupled short-window detector before dyadic selection](../records/0131.md#qrh-cont-r048-coupled-short-detector-08dfda4a82)
+- [QRH-CONT-R049-PRODUCT-CUTOFF-DETECTOR — Original-coefficient product-cutoff detector and complete cofactor energy](../records/0131.md#qrh-cont-r049-product-cutoff-detector-13a8d6fed3)
+- [QRH-CONT-R050-OVERLAPPING-MARKED-INVERSE — Marked sixth-power amplification and fixed-slot overlapping-pool reduction](../records/0131.md#qrh-cont-r050-overlapping-marked-inverse-455e829199)
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0170.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0170.md#local-a02-e20ad4bdfd)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0170.md#local-a03-9e9a3d45e7)
@@ -140,8 +142,8 @@ Page 53/71; 17531 matching records.
 - [local:G302 — G302. Same-scale divisor-projection transfer for row-dependent masked moments](../records/0173.md#local-g302-083bb0aec3)
 - [local:G303 — G303. Unit-invariant additive and sign expansions of ideal masks with explicit level costs](../records/0173.md#local-g303-fdf949bbae)
 - [local:G304 — G304. Coupled density split and source-plane scalar family, with a comparison-selector exclusion](../records/0173.md#local-g304-913b942ee7)
-- [local:G305 — G305. Global positive-quadratic endpoint certificates with explicit denominator and domain gates](../records/0173.md#local-g305-cfe213f8d4)
-- [local:G306 — G306. Uniform inverse-amplifier constants and single prime-normalization repair](../records/0173.md#local-g306-6a98b46672)
+- [local:G305 — G305. Global positive-quadratic endpoint certificates with explicit denominator and domain gates](../records/0174.md#local-g305-cfe213f8d4)
+- [local:G306 — G306. Uniform inverse-amplifier constants and single prime-normalization repair](../records/0174.md#local-g306-6a98b46672)
 - [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0174.md#local-g307-de7641143f)
 - [local:G308 — G308. Complete fifth hypothetical-zero Laurent residue return](../records/0174.md#local-g308-65cda3db23)
 - [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0174.md#local-g309-cb6cfa996e)
@@ -187,8 +189,8 @@ Page 53/71; 17531 matching records.
 - [pr26:Analytic.ActualExtractedErrorAverage — Analytic.ActualExtractedErrorAverage](../records/0174.md#pr26-analytic-actualextractederroraverage-c57988d08f)
 - [pr26:Analytic.ActualExtractedErrorAverage::actual_firstExtractedErrors_local_average@683 — actual_firstExtractedErrors_local_average](../records/0174.md#pr26-analytic-actualextractederroraverage-actual-firstextracteder-f11bb0633e)
 - [pr26:Analytic.ActualExtractedErrorAverageFull — Analytic.ActualExtractedErrorAverageFull](../records/0174.md#pr26-analytic-actualextractederroraveragefull-9ac07451c2)
-- [pr26:Analytic.ActualExtractedErrorAverageFull::actual_firstExtractedErrors_local_average_full@643 — actual_firstExtractedErrors_local_average_full](../records/0174.md#pr26-analytic-actualextractederroraveragefull-actual-firstextract-5604c4aeac)
-- [pr26:Analytic.ActualExtractedErrorCaps — Analytic.ActualExtractedErrorCaps](../records/0174.md#pr26-analytic-actualextractederrorcaps-da148f0c4e)
+- [pr26:Analytic.ActualExtractedErrorAverageFull::actual_firstExtractedErrors_local_average_full@643 — actual_firstExtractedErrors_local_average_full](../records/0175.md#pr26-analytic-actualextractederroraveragefull-actual-firstextract-5604c4aeac)
+- [pr26:Analytic.ActualExtractedErrorCaps — Analytic.ActualExtractedErrorCaps](../records/0175.md#pr26-analytic-actualextractederrorcaps-da148f0c4e)
 - [pr26:Analytic.ActualExtractedErrorCaps::actual_firstExtractedErrors_power_from_caps@286 — actual_firstExtractedErrors_power_from_caps](../records/0175.md#pr26-analytic-actualextractederrorcaps-actual-firstextractederror-e544f91abb)
 - [pr26:Analytic.ActualExtractedErrorCapsFull — Analytic.ActualExtractedErrorCapsFull](../records/0175.md#pr26-analytic-actualextractederrorcapsfull-28dba18253)
 - [pr26:Analytic.ActualExtractedErrorCapsFull::actual_firstExtractedErrors_power_from_caps_full@666 — actual_firstExtractedErrors_power_from_caps_full](../records/0175.md#pr26-analytic-actualextractederrorcapsfull-actual-firstextractede-476d67e3fc)
@@ -256,5 +258,3 @@ Page 53/71; 17531 matching records.
 - [pr26:Analytic.AllocatedBufferedLength::allocated_positive_support@180 — allocated_positive_support](../records/0175.md#pr26-analytic-allocatedbufferedlength-allocated-positive-support--519b8ab3d5)
 - [pr26:Analytic.AllocatedBufferedLength::clipped_log_le@140 — clipped_log_le](../records/0175.md#pr26-analytic-allocatedbufferedlength-clipped-log-le-140-1f7ef8c3c6)
 - [pr26:Analytic.AllocatedBufferedLength::eventually_allocated_length_tolerance@251 — eventually_allocated_length_tolerance](../records/0175.md#pr26-analytic-allocatedbufferedlength-eventually-allocated-length-b7a4ac7b39)
-- [pr26:Analytic.AllocatedBufferedLength::mul_logb_rpow_base@150 — mul_logb_rpow_base](../records/0175.md#pr26-analytic-allocatedbufferedlength-mul-logb-rpow-base-150-5bb074e7d7)
-- [pr26:Analytic.AllocatedBufferedLength::retained_positive_support@157 — retained_positive_support](../records/0175.md#pr26-analytic-allocatedbufferedlength-retained-positive-support-1-060d58ecb1)

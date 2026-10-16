@@ -15,7 +15,7 @@ Page 1/1; 43 matching records.
 - [pr26:Analytic.ActualFirstExtractedErrors::ExtractedErrorRun@863 — ExtractedErrorRun](../records/0175.md#pr26-analytic-actualfirstextractederrors-extractederrorrun-863-cb072a75d5)
 - [pr26:Analytic.ActualRawDensity::DensityWindow@133 — DensityWindow](../records/0175.md#pr26-analytic-actualrawdensity-densitywindow-133-b0c5d2f3a1)
 - [pr26:Analytic.BufferedProduct::BufferedPlainProfile@264 — BufferedPlainProfile](../records/0175.md#pr26-analytic-bufferedproduct-bufferedplainprofile-264-5d66261937)
-- [pr26:Analytic.JointBufferedData::Admissible@368 — Admissible](../records/0176.md#pr26-analytic-jointbuffereddata-admissible-368-090e3107d5)
+- [pr26:Analytic.JointBufferedData::Admissible@368 — Admissible](../records/0177.md#pr26-analytic-jointbuffereddata-admissible-368-090e3107d5)
 - [pr26:Analytic.JointBufferedData::JointBufferedProductData@326 — JointBufferedProductData](../records/0177.md#pr26-analytic-jointbuffereddata-jointbufferedproductdata-326-869abede51)
 - [pr26:Analytic.JointBufferedShortSlots::ShortSlotGates@566 — ShortSlotGates](../records/0177.md#pr26-analytic-jointbufferedshortslots-shortslotgates-566-5f3399ea4b)
 - [pr26:Analytic.JointExceptionalFirstContribution::Admissible@74 — Admissible](../records/0180.md#pr26-analytic-jointexceptionalfirstcontribution-admissible-74-7a9fc52389)

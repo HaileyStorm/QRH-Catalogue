@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 31/43; 10584 matching records.
+Page 31/43; 10586 matching records.
 
 [Previous](status-unknown-b23a6a8439-30.md)
 
 [Next](status-unknown-b23a6a8439-32.md)
 
+- [local-section:47fa7bee4b177717d2ae2b0e — 7. Acceptance, repair status and useful next contract](../records/0146.md#local-section-47fa7bee4b177717d2ae2b0e-268c0e1577)
+- [local-section:47fd8ec74e251e5b92ccec61 — 1. Inputs and the new results](../records/0146.md#local-section-47fd8ec74e251e5b92ccec61-88776de232)
 - [local-section:480e9c55f6d5cc30665ad054 — Sampling, novelty and preserved limits](../records/0146.md#local-section-480e9c55f6d5cc30665ad054-b4a6eac682)
 - [local-section:482ecf42fe5937b8e8ca932e — 6. Full Fourier-height implementation](../records/0146.md#local-section-482ecf42fe5937b8e8ca932e-2ffea287df)
 - [local-section:484e95f59a6122d8cf370807 — F04.H — Short-divisor H](../records/0146.md#local-section-484e95f59a6122d8cf370807-9c90084881)
@@ -42,7 +44,7 @@ Page 31/43; 10584 matching records.
 - [local-section:4a797fdc406ddcaab524a6e1 — 2. Moving deletion ideals can be removed without moving the datum](../records/0146.md#local-section-4a797fdc406ddcaab524a6e1-96f2e02122)
 - [local-section:4a86bda89942748f7cb8fafa — A paid whole-shell nonprincipal-bank reduction](../records/0146.md#local-section-4a86bda89942748f7cb8fafa-0a21e28caa)
 - [local-section:4a93d710d80b06bf987a72df — Evidence and source boundary](../records/0146.md#local-section-4a93d710d80b06bf987a72df-1f3593c04c)
-- [local-section:4ab9d1e430f17be39186b42d — Other first tests and scope boundaries](../records/0146.md#local-section-4ab9d1e430f17be39186b42d-06a3cf9918)
+- [local-section:4ab9d1e430f17be39186b42d — Other first tests and scope boundaries](../records/0147.md#local-section-4ab9d1e430f17be39186b42d-06a3cf9918)
 - [local-section:4acd7d6be2953337cd21e694 — 7. Exact c6 replacement boundary](../records/0147.md#local-section-4acd7d6be2953337cd21e694-10f087fb21)
 - [local-section:4ad1b8344d676dbbec363b95 — D02. Rank-one determinant detector: an exact attempted bridge that fails to weaken the input](../records/0147.md#local-section-4ad1b8344d676dbbec363b95-a28d1aeb63)
 - [local-section:4ad1eb38722b14121e267136 — 3.2 An exact prime-graph storage identity, including the harmonic part](../records/0147.md#local-section-4ad1eb38722b14121e267136-363daca0df)
@@ -126,8 +128,8 @@ Page 31/43; 10584 matching records.
 - [local-section:518817d50029c838568a13b6 — 6. Physical main, errors and source-relative status](../records/0147.md#local-section-518817d50029c838568a13b6-9853d0b7bd)
 - [local-section:518b68d37e91117e958d0886 — 9. All original free Euler shifts, including empty selection](../records/0147.md#local-section-518b68d37e91117e958d0886-2a14ce06f6)
 - [local-section:51aef98d509add2da84c8534 — 1. Sources, exact family and scope](../records/0147.md#local-section-51aef98d509add2da84c8534-a58fec56eb)
-- [local-section:51c5acf0ef8a80f133a3bcf0 — \[research revision\] rough-depth renewal — independent mathematical review](../records/0147.md#local-section-51c5acf0ef8a80f133a3bcf0-c0689a600b)
-- [local-section:51d35ac079b5bb11734f4b72 — 7. Uniform parked audit21: actual cocycle and a paid future inverse](../records/0147.md#local-section-51d35ac079b5bb11734f4b72-a3400c6c00)
+- [local-section:51c5acf0ef8a80f133a3bcf0 — \[research revision\] rough-depth renewal — independent mathematical review](../records/0148.md#local-section-51c5acf0ef8a80f133a3bcf0-c0689a600b)
+- [local-section:51d35ac079b5bb11734f4b72 — 7. Uniform parked audit21: actual cocycle and a paid future inverse](../records/0148.md#local-section-51d35ac079b5bb11734f4b72-a3400c6c00)
 - [local-section:51dd24fc9f9d4a4192467002 — 46. The unpaid far rows have separated simultaneous witnesses](../records/0148.md#local-section-51dd24fc9f9d4a4192467002-36b6caf484)
 - [local-section:51dd62ac4027d1fb1b6b7f4e — 8. The complete sixth-power diagonal is already paid](../records/0148.md#local-section-51dd62ac4027d1fb1b6b7f4e-923b06618b)
 - [local-section:51f13662bfc2859152fc19f1 — 3.2 The stable inverse runs to larger scales](../records/0148.md#local-section-51f13662bfc2859152fc19f1-ed183a2ed9)
@@ -217,8 +219,8 @@ Page 31/43; 10584 matching records.
 - [local-section:5984f88cef230852394f72f9 — Combined support gain and the complete c8 endpoint](../records/0148.md#local-section-5984f88cef230852394f72f9-eec0bb11f6)
 - [local-section:5991b0f75143207f9135cc4d — Source and quantifiers](../records/0148.md#local-section-5991b0f75143207f9135cc4d-00f8f661d3)
 - [local-section:599bfe26883323ed680734ff — 4. Removing the principal-root loss on its exact exceptional complement](../records/0148.md#local-section-599bfe26883323ed680734ff-2ab564e8fc)
-- [local-section:59b2cd318603aabe75a48072 — 4. Multiplicative arithmetic and complex-height costs](../records/0148.md#local-section-59b2cd318603aabe75a48072-4d80068b31)
-- [local-section:59b77b5be4397824ba8236e2 — 5. Scalar return, certificate domains and all retained d](../records/0148.md#local-section-59b77b5be4397824ba8236e2-72e1857f1e)
+- [local-section:59b2cd318603aabe75a48072 — 4. Multiplicative arithmetic and complex-height costs](../records/0149.md#local-section-59b2cd318603aabe75a48072-4d80068b31)
+- [local-section:59b77b5be4397824ba8236e2 — 5. Scalar return, certificate domains and all retained d](../records/0149.md#local-section-59b77b5be4397824ba8236e2-72e1857f1e)
 - [local-section:59c46a9d6abe44d9e7d54b54 — 5. Every error, zero and fixed-inducing contribution](../records/0149.md#local-section-59c46a9d6abe44d9e7d54b54-d9a2556ca2)
 - [local-section:59d64ee8e25a9eb5a900e837 — 1. Exact source and its quantitative return](../records/0149.md#local-section-59d64ee8e25a9eb5a900e837-f90db68da9)
 - [local-section:59ecf56b5139705d57b151a3 — 6. All30 dispositions and exact ancestry](../records/0149.md#local-section-59ecf56b5139705d57b151a3-aa4a959e61)
@@ -256,5 +258,3 @@ Page 31/43; 10584 matching records.
 - [local-section:5d154ce0356e5dafc073b329 — Disk lemma](../records/0149.md#local-section-5d154ce0356e5dafc073b329-a2057297a6)
 - [local-section:5d2813f95cb725ca3b117949 — \[research revision\]: a short-row gain for the actual nonprincipal Möbius energy](../records/0149.md#local-section-5d2813f95cb725ca3b117949-8a3bfa91c0)
 - [local-section:5d50a18bda8e187223ad7ce5 — 4. Sampling, scope and evidence](../records/0149.md#local-section-5d50a18bda8e187223ad7ce5-40a3acc152)
-- [local-section:5d66218dc14a22368dc00cd2 — 3. Primary imports and local proof review](../records/0149.md#local-section-5d66218dc14a22368dc00cd2-1dc3a286f5)
-- [local-section:5d7920c69c67849c61ad5664 — 2.4 The exact hard-prime same-output diagonal costs only a constant](../records/0149.md#local-section-5d7920c69c67849c61ad5664-5333d9aa6e)

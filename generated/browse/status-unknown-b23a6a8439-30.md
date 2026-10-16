@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 30/43; 10584 matching records.
+Page 30/43; 10586 matching records.
 
 [Previous](status-unknown-b23a6a8439-29.md)
 
 [Next](status-unknown-b23a6a8439-31.md)
 
+- [local-section:30c0f68a93cb95febbfd751c — Own protected audit S31: an actual finite certificate and its infinite obligation](../records/0143.md#local-section-30c0f68a93cb95febbfd751c-3fa343a1e1)
+- [local-section:30c73f969bad63daef8b9c94 — 2.3 Every alias remainder is paid](../records/0143.md#local-section-30c73f969bad63daef8b9c94-0104ee5657)
 - [local-section:30c8872c16b4a05cef1ebe6d — 1. The actual source family, signs, zeros and fixed ideal](../records/0143.md#local-section-30c8872c16b4a05cef1ebe6d-af70e902fe)
 - [local-section:30efb378ff8c77689797c150 — 2. Complete Poisson cancellation before truncating the third factor](../records/0143.md#local-section-30efb378ff8c77689797c150-35b817e6a8)
 - [local-section:3114cffa36d99c9efd89dac3 — 6. Strongest objection and the arithmetic development still missing](../records/0143.md#local-section-3114cffa36d99c9efd89dac3-93900979ce)
@@ -36,8 +38,8 @@ Page 30/43; 10584 matching records.
 - [local-section:33340933b39e6c659b90a349 — 1. Exact row Dirichlet series](../records/0143.md#local-section-33340933b39e6c659b90a349-58de5b0e7d)
 - [local-section:336a42f421fd9d8c854c53da — \[research revision\]: the actual rough correlation requires joint cancellation](../records/0143.md#local-section-336a42f421fd9d8c854c53da-3558f30c6c)
 - [local-section:3374e0f8fbfa276a6bedc4e4 — A17. Exact completed-cutoff and rough-column obstructions](../records/0143.md#local-section-3374e0f8fbfa276a6bedc4e4-349cfc7c8d)
-- [local-section:339264c75be943e51bc30eb7 — Other tested cards, sampling and verification](../records/0143.md#local-section-339264c75be943e51bc30eb7-548bbf8fa4)
-- [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0143.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
+- [local-section:339264c75be943e51bc30eb7 — Other tested cards, sampling and verification](../records/0144.md#local-section-339264c75be943e51bc30eb7-548bbf8fa4)
+- [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0144.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
 - [local-section:339e9f2b8bfc821a1f640c67 — 3. The finite atlas and why it is an analytic change](../records/0144.md#local-section-339e9f2b8bfc821a1f640c67-93cbaa4890)
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0144.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
 - [local-section:33c15e3aefd046f4c9cbf377 — 8. Handoff boundary](../records/0144.md#local-section-33c15e3aefd046f4c9cbf377-8afebcd6f2)
@@ -122,8 +124,8 @@ Page 30/43; 10584 matching records.
 - [local-section:3b52d14c5c53372827ad1cbf — 4. Completed cube-free mean and finite incidence](../records/0144.md#local-section-3b52d14c5c53372827ad1cbf-a5445b4d56)
 - [local-section:3b56cf336ae1d8f037c674d2 — The exact obstruction to a free overlap transfer](../records/0144.md#local-section-3b56cf336ae1d8f037c674d2-11f934229e)
 - [local-section:3b8ffcbfc6737e209da49949 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0144.md#local-section-3b8ffcbfc6737e209da49949-4d4d244e20)
-- [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0144.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
-- [local-section:3bd239d030eef1d7860c0652 — 1. Frozen evidence and sampling](../records/0144.md#local-section-3bd239d030eef1d7860c0652-8ea3001631)
+- [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0145.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
+- [local-section:3bd239d030eef1d7860c0652 — 1. Frozen evidence and sampling](../records/0145.md#local-section-3bd239d030eef1d7860c0652-8ea3001631)
 - [local-section:3bdcf002a3f4f687964d9a46 — 4. Paying the prefix on the whole original slot range](../records/0145.md#local-section-3bdcf002a3f4f687964d9a46-5e928517d8)
 - [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0145.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
 - [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0145.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
@@ -207,8 +209,8 @@ Page 30/43; 10584 matching records.
 - [local-section:439bf6852b80651abaec70a7 — 5. Constant-cut source transfer, with all complements](../records/0145.md#local-section-439bf6852b80651abaec70a7-b36f529bbc)
 - [local-section:43a28d8d7abbe6442d2aef8a — 3.2 The corrected main term uses the same energy](../records/0145.md#local-section-43a28d8d7abbe6442d2aef8a-a917e97862)
 - [local-section:43c6a5c82696a5c4dc5b0807 — 3. Reconstructing the complete integer-state coefficient](../records/0145.md#local-section-43c6a5c82696a5c4dc5b0807-6cd2ab63a7)
-- [local-section:43cb8b8f4a4a060c0339619f — 6. The other five tests and the original card04 proposal](../records/0145.md#local-section-43cb8b8f4a4a060c0339619f-cf1e3c4731)
-- [local-section:43f1fc7db7e90d6b873ed37d — 2.3 A moving small-prime sector is also fully paid](../records/0145.md#local-section-43f1fc7db7e90d6b873ed37d-c22a9f3e57)
+- [local-section:43cb8b8f4a4a060c0339619f — 6. The other five tests and the original card04 proposal](../records/0146.md#local-section-43cb8b8f4a4a060c0339619f-cf1e3c4731)
+- [local-section:43f1fc7db7e90d6b873ed37d — 2.3 A moving small-prime sector is also fully paid](../records/0146.md#local-section-43f1fc7db7e90d6b873ed37d-c22a9f3e57)
 - [local-section:4403dd770f71040015ed64f9 — 2.4 Global density error, complete core, and exact coefficient 2](../records/0146.md#local-section-4403dd770f71040015ed64f9-38a8b6ee2d)
 - [local-section:4438318619112d5cb3e85ffa — 8. Evidence limits and final state](../records/0146.md#local-section-4438318619112d5cb3e85ffa-748db4272b)
 - [local-section:4447d76efe4fddfedaef4feb — W40-16 — Hankel realization before moment formation; p=.075](../records/0146.md#local-section-4447d76efe4fddfedaef4feb-6de2562d72)
@@ -256,5 +258,3 @@ Page 30/43; 10584 matching records.
 - [local-section:47b2ddf29237d840ef3bb64c — R42.1. Frozen evidence and actual sampling](../records/0146.md#local-section-47b2ddf29237d840ef3bb64c-1fff2fd227)
 - [local-section:47caf9102f4367641875b2ec — 7. Complete paired transfer and local plane](../records/0146.md#local-section-47caf9102f4367641875b2ec-7b23deefd5)
 - [local-section:47ec494961948fde172946d9 — 9. Actual whole complement, its stronger Gram, and exact mismatch](../records/0146.md#local-section-47ec494961948fde172946d9-49aa26dc3d)
-- [local-section:47fa7bee4b177717d2ae2b0e — 7. Acceptance, repair status and useful next contract](../records/0146.md#local-section-47fa7bee4b177717d2ae2b0e-268c0e1577)
-- [local-section:47fd8ec74e251e5b92ccec61 — 1. Inputs and the new results](../records/0146.md#local-section-47fd8ec74e251e5b92ccec61-88776de232)

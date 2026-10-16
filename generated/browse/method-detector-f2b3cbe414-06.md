@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2897 matching records.
+Page 6/12; 2898 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -236,6 +236,7 @@ Page 6/12; 2897 matching records.
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
 - [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
 - [QRH-CONT-R048-COUPLED-SHORT-DETECTOR — Complete coupled short-window detector before dyadic selection](../records/0131.md#qrh-cont-r048-coupled-short-detector-08dfda4a82)
+- [QRH-CONT-R049-PRODUCT-CUTOFF-DETECTOR — Original-coefficient product-cutoff detector and complete cofactor energy](../records/0131.md#qrh-cont-r049-product-cutoff-detector-13a8d6fed3)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
 - [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0137.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
@@ -243,8 +244,8 @@ Page 6/12; 2897 matching records.
 - [local-section:019b7e6748c560d9641ef714 — 10. Uniformity, tails and independent checks](../records/0137.md#local-section-019b7e6748c560d9641ef714-fd36a2c932)
 - [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:01d79cb7aff6695e0c575cb6 — 2. Why the larger amplifier is actually admissible](../records/0137.md#local-section-01d79cb7aff6695e0c575cb6-4d4f42fa5e)
-- [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0137.md#local-section-021601cba1a0a08525590f22-7adbe75144)
-- [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0137.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
+- [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0138.md#local-section-021601cba1a0a08525590f22-7adbe75144)
+- [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0138.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
@@ -257,4 +258,3 @@ Page 6/12; 2897 matching records.
 - [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0138.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
 - [local-section:0702bc739eb372136a17d2cb — 1. Result and limits](../records/0138.md#local-section-0702bc739eb372136a17d2cb-4acd2bc919)
 - [local-section:07b88c0f93747803aa8cbeb8 — 3. The exact polynomial, its far part and changing the truncation](../records/0138.md#local-section-07b88c0f93747803aa8cbeb8-297d0bc09d)
-- [local-section:07c50be59f02ac80fa4faaa0 — 4. Reconstructing the enlarged density theorem](../records/0138.md#local-section-07c50be59f02ac80fa4faaa0-b84270e5b8)

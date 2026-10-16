@@ -2,10 +2,12 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17531 matching records.
+Page 71/71; 17533 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [reviewed-claim:A14-alpha-window-closed-form — \[research revision\]-claim:A14-alpha-window-closed-form](../records/0218.md#reviewed-claim-a14-alpha-window-closed-form-47d077f950)
+- [reviewed-claim:A14-decimal-and-code-corrections — \[research revision\]-claim:A14-decimal-and-code-corrections](../records/0218.md#reviewed-claim-a14-decimal-and-code-corrections-f9df4999f4)
 - [reviewed-claim:A14-full-probe-certificate — \[research revision\]-claim:A14-full-probe-certificate](../records/0218.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)
 - [reviewed-claim:A14-model-comparisons — \[research revision\]-claim:A14-model-comparisons](../records/0218.md#reviewed-claim-a14-model-comparisons-ccff46b733)
 - [reviewed-claim:A14-saturated-window — \[research revision\]-claim:A14-saturated-window](../records/0218.md#reviewed-claim-a14-saturated-window-8a05a47159)

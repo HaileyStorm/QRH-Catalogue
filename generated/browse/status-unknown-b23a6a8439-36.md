@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 36/43; 10584 matching records.
+Page 36/43; 10586 matching records.
 
 [Previous](status-unknown-b23a6a8439-35.md)
 
 [Next](status-unknown-b23a6a8439-37.md)
 
+- [local-section:b658fe05ff54d6a88d8d0e7f — R4. Dilation repair: exact source and periodicity](../records/0161.md#local-section-b658fe05ff54d6a88d8d0e7f-f9aeca3b38)
+- [local-section:b65bf4efbaf0a34ed2209e91 — 14. Chaining and simultaneous use in the same proof](../records/0161.md#local-section-b65bf4efbaf0a34ed2209e91-08f7f0ba08)
 - [local-section:b67570a8edd3269965a2c244 — F14/F17/F15 — Expensive mechanisms for the mean, with scope retained](../records/0161.md#local-section-b67570a8edd3269965a2c244-dbccf32bf8)
 - [local-section:b68730de5c6aa2b6fb7e21d3 — 2. Local allocation coefficients and complete coalescence](../records/0161.md#local-section-b68730de5c6aa2b6fb7e21d3-4d16e03068)
 - [local-section:b6a78353b84b367161989161 — 4. Exact reduction of every source power](../records/0161.md#local-section-b6a78353b84b367161989161-8ad22943c2)
@@ -92,8 +94,8 @@ Page 36/43; 10584 matching records.
 - [local-section:bd37fe163094f460c8f6a0f2 — \[research revision\] independent review of the merged GPT6-Pro consultation](../records/0161.md#local-section-bd37fe163094f460c8f6a0f2-bb4dc2ff92)
 - [local-section:bd4d8b3cda323aca8bbde4ff — H: a useful failed bilinear replacement](../records/0161.md#local-section-bd4d8b3cda323aca8bbde4ff-f86cea83bc)
 - [local-section:bd505f9d635a513c9e985fa1 — \[research revision\] independent source-range review](../records/0161.md#local-section-bd505f9d635a513c9e985fa1-d637974ead)
-- [local-section:bd5f22d173c3221ffe125934 — \[research revision\] attempt delta](../records/0161.md#local-section-bd5f22d173c3221ffe125934-a0baa0ca96)
-- [local-section:bd97be3428a73d280db072a9 — 3. D1 — a one-sided subpower finite-volume pressure criterion](../records/0161.md#local-section-bd97be3428a73d280db072a9-71f360f83a)
+- [local-section:bd5f22d173c3221ffe125934 — \[research revision\] attempt delta](../records/0162.md#local-section-bd5f22d173c3221ffe125934-a0baa0ca96)
+- [local-section:bd97be3428a73d280db072a9 — 3. D1 — a one-sided subpower finite-volume pressure criterion](../records/0162.md#local-section-bd97be3428a73d280db072a9-71f360f83a)
 - [local-section:bda644af77335e2a6ce3655d — Tilted local plane and all physical branches](../records/0162.md#local-section-bda644af77335e2a6ce3655d-4dcb996cdd)
 - [local-section:bda8f95667ce4b444282a98d — 6. Independent uniform audit F06: a raw principal half-plane obstruction](../records/0162.md#local-section-bda8f95667ce4b444282a98d-35bd896d5f)
 - [local-section:bdbd8ec5896ab5931ccafd68 — Complex-height and multiplicative-source requirements](../records/0162.md#local-section-bdbd8ec5896ab5931ccafd68-0a79585c07)
@@ -178,7 +180,7 @@ Page 36/43; 10584 matching records.
 - [local-section:c465f905e277f8e835729502 — 49. Restricted separated mixed moment and remaining signed source](../records/0162.md#local-section-c465f905e277f8e835729502-5c7cbb8c09)
 - [local-section:c47162ed49383fb4d3ccafe3 — 8. Uniform critic audit S10: one compact sensor, all heights, paid stability](../records/0162.md#local-section-c47162ed49383fb4d3ccafe3-d8860b14b6)
 - [local-section:c48480cb88a922c3f1fb7808 — 2. Exact two-color endpoint](../records/0162.md#local-section-c48480cb88a922c3f1fb7808-c308117d0b)
-- [local-section:c4f9af23f2b7203719f1f1bf — 4. Licensed core energies and the six exact prices](../records/0162.md#local-section-c4f9af23f2b7203719f1f1bf-c5143c1432)
+- [local-section:c4f9af23f2b7203719f1f1bf — 4. Licensed core energies and the six exact prices](../records/0163.md#local-section-c4f9af23f2b7203719f1f1bf-c5143c1432)
 - [local-section:c51e9e04d8f796d976c208d5 — Evidence, novelty and next mathematical action](../records/0163.md#local-section-c51e9e04d8f796d976c208d5-561d4e4183)
 - [local-section:c526b794d30a7173d0e18af4 — Statement](../records/0163.md#local-section-c526b794d30a7173d0e18af4-67d7ad0aa4)
 - [local-section:c5297bd18dc7a2e31c5ef7b4 — Principal characters: an actual whole-cutoff collapse](../records/0163.md#local-section-c5297bd18dc7a2e31c5ef7b4-fe5334c4fd)
@@ -256,5 +258,3 @@ Page 36/43; 10584 matching records.
 - [local-section:cb1d791868350d516e76387a — 2. D1: full polynomial, explicit constants and both branches](../records/0163.md#local-section-cb1d791868350d516e76387a-fe91589763)
 - [local-section:cb334c5c443aba629d8642db — 9. Novelty boundary, strongest obstruction and next action](../records/0163.md#local-section-cb334c5c443aba629d8642db-aaa46d11cd)
 - [local-section:cb3dfc5189c048178884e9d2 — 2. Full observation theorem and both paid tails](../records/0163.md#local-section-cb3dfc5189c048178884e9d2-82338b414c)
-- [local-section:cb5d21d0a8563facce56050b — 4. Exhaustive W35 card navigation, without discarding seed history](../records/0163.md#local-section-cb5d21d0a8563facce56050b-cbdaaa6d93)
-- [local-section:cb8576b3a4e05a685c6ee460 — Pinned admission contract supplied by the user](../records/0163.md#local-section-cb8576b3a4e05a685c6ee460-d1e662896e)

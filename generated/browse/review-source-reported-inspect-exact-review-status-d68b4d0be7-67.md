@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 67/71; 17531 matching records.
+Page 67/71; 17533 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
+- [pr26:Global.Low.Detector.LowReflectedLength — Global.Low.Detector.LowReflectedLength](../records/0208.md#pr26-global-low-detector-lowreflectedlength-c0abc60600)
+- [pr26:Global.Low.Detector.LowReflectedLength::compensated_reflected_exponent_with_length@220 — compensated_reflected_exponent_with_length](../records/0208.md#pr26-global-low-detector-lowreflectedlength-compensated-reflected-71755518e3)
 - [pr26:Global.Low.Detector.LowRemoteMass — Global.Low.Detector.LowRemoteMass](../records/0208.md#pr26-global-low-detector-lowremotemass-a7d5d0e31e)
 - [pr26:Global.Low.Detector.LowRemoteMass::canonicalSlot_count@95 — canonicalSlot_count](../records/0208.md#pr26-global-low-detector-lowremotemass-canonicalslot-count-95-c54bbb43b4)
 - [pr26:Global.Low.Detector.LowRemoteMass::canonicalTuple_count@105 — canonicalTuple_count](../records/0208.md#pr26-global-low-detector-lowremotemass-canonicaltuple-count-105-7897524159)
@@ -87,8 +89,8 @@ Page 67/71; 17531 matching records.
 - [pr26:Global.Low.Reflection.LowRetained::original_low_sector_retained_energy@39 — original_low_sector_retained_energy](../records/0208.md#pr26-global-low-reflection-lowretained-original-low-sector-retain-91af2ae737)
 - [pr26:Global.Low.Reflection.LowRetainedBudget — Global.Low.Reflection.LowRetainedBudget](../records/0208.md#pr26-global-low-reflection-lowretainedbudget-f69017d6d1)
 - [pr26:Global.Low.Reflection.LowRetainedBudget::original_low_sector_retained_budget@249 — original_low_sector_retained_budget](../records/0208.md#pr26-global-low-reflection-lowretainedbudget-original-low-sector--b42e45fc8b)
-- [pr26:Global.Low.Reflection.LowSector — Global.Low.Reflection.LowSector](../records/0208.md#pr26-global-low-reflection-lowsector-eba8872faa)
-- [pr26:Global.Low.Reflection.LowSector::original_low_sector_literal_energy@39 — original_low_sector_literal_energy](../records/0208.md#pr26-global-low-reflection-lowsector-original-low-sector-literal--1f29739d78)
+- [pr26:Global.Low.Reflection.LowSector — Global.Low.Reflection.LowSector](../records/0209.md#pr26-global-low-reflection-lowsector-eba8872faa)
+- [pr26:Global.Low.Reflection.LowSector::original_low_sector_literal_energy@39 — original_low_sector_literal_energy](../records/0209.md#pr26-global-low-reflection-lowsector-original-low-sector-literal--1f29739d78)
 - [pr26:Global.Low.RegionalCorrection — Global.Low.RegionalCorrection](../records/0209.md#pr26-global-low-regionalcorrection-244777aec4)
 - [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_analytic_w@591 — weighted_globalClosedCorrection_analytic_w](../records/0209.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-92a596d636)
 - [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_analytic_x@576 — weighted_globalClosedCorrection_analytic_x](../records/0209.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-a9ca4a0d4a)
@@ -187,8 +189,8 @@ Page 67/71; 17531 matching records.
 - [pr26:Global.Numerator.SourceMask::source_mask_amplitude_class@193 — source_mask_amplitude_class](../records/0209.md#pr26-global-numerator-sourcemask-source-mask-amplitude-class-193-3d510c3a87)
 - [pr26:Global.Numerator.SourceParameters — Global.Numerator.SourceParameters](../records/0209.md#pr26-global-numerator-sourceparameters-d8e4663df9)
 - [pr26:Global.Numerator.SourceParameters::source_complex_profile_norm@43 — source_complex_profile_norm](../records/0209.md#pr26-global-numerator-sourceparameters-source-complex-profile-nor-afb3984d21)
-- [pr26:Global.Numerator.SourceParameters::source_main_normalized_upper@48 — source_main_normalized_upper](../records/0209.md#pr26-global-numerator-sourceparameters-source-main-normalized-upp-fccd1d2d2e)
-- [pr26:Global.Numerator.SourceParameters::source_packet_lines@31 — source_packet_lines](../records/0209.md#pr26-global-numerator-sourceparameters-source-packet-lines-31-f27f21d367)
+- [pr26:Global.Numerator.SourceParameters::source_main_normalized_upper@48 — source_main_normalized_upper](../records/0210.md#pr26-global-numerator-sourceparameters-source-main-normalized-upp-fccd1d2d2e)
+- [pr26:Global.Numerator.SourceParameters::source_packet_lines@31 — source_packet_lines](../records/0210.md#pr26-global-numerator-sourceparameters-source-packet-lines-31-f27f21d367)
 - [pr26:Global.Numerator.SourcePrimeBins — Global.Numerator.SourcePrimeBins](../records/0210.md#pr26-global-numerator-sourceprimebins-c70d7b4ea4)
 - [pr26:Global.Numerator.SourcePrimeBins::weighted_source_prime_bins@256 — weighted_source_prime_bins](../records/0210.md#pr26-global-numerator-sourceprimebins-weighted-source-prime-bins--c542285178)
 - [pr26:Global.Numerator.SourceSelection — Global.Numerator.SourceSelection](../records/0210.md#pr26-global-numerator-sourceselection-c1d32b9f6e)
@@ -256,5 +258,3 @@ Page 67/71; 17531 matching records.
 - [pr26:Global.Transport.CanonicalCubeChoice — Global.Transport.CanonicalCubeChoice](../records/0210.md#pr26-global-transport-canonicalcubechoice-0a2fe0237a)
 - [pr26:Global.Transport.CanonicalCubeChoice::canonical_probe_exists_cube@342 — canonical_probe_exists_cube](../records/0210.md#pr26-global-transport-canonicalcubechoice-canonical-probe-exists--d378c7b626)
 - [pr26:Global.Transport.CanonicalCubeReduction — Global.Transport.CanonicalCubeReduction](../records/0210.md#pr26-global-transport-canonicalcubereduction-0b0e647aaa)
-- [pr26:Global.Transport.CanonicalCubeReduction::canonical_probe_minus_cube@156 — canonical_probe_minus_cube](../records/0210.md#pr26-global-transport-canonicalcubereduction-canonical-probe-minu-a9ac636c78)
-- [pr26:Global.Transport.CanonicalRayCube — Global.Transport.CanonicalRayCube](../records/0210.md#pr26-global-transport-canonicalraycube-39e02987af)

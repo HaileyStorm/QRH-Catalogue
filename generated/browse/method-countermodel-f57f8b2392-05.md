@@ -6,8 +6,8 @@ Page 5/5; 1111 matching records.
 
 [Previous](method-countermodel-f57f8b2392-04.md)
 
-- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0169.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
-- [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
+- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0170.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
+- [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0170.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
 - [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0170.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
 - [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0170.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
 - [local-section:fcf26516ad547088eb751edd — Positive cofactor-hole absolute Gram: independent corollary check](../records/0170.md#local-section-fcf26516ad547088eb751edd-a5a177cdb6)

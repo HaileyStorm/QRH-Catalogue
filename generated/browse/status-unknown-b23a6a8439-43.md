@@ -2,10 +2,12 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 43/43; 10584 matching records.
+Page 43/43; 10586 matching records.
 
 [Previous](status-unknown-b23a6a8439-42.md)
 
+- [pr26:LocalMoment.UniformDensity — LocalMoment.UniformDensity](../records/0215.md#pr26-localmoment-uniformdensity-025aabe80f)
+- [pr26:LocalMoment.UnmarkedBatch — LocalMoment.UnmarkedBatch](../records/0215.md#pr26-localmoment-unmarkedbatch-de06e24cad)
 - [pr26:LocalMoment.UnmarkedDensity — LocalMoment.UnmarkedDensity](../records/0215.md#pr26-localmoment-unmarkeddensity-847ac55e6e)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-6feda61b95)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyarithmetic-e23e66f593)
@@ -24,7 +26,7 @@ Page 43/43; 10584 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
-- [pr26:Physical.ActualPacketUniform — Physical.ActualPacketUniform](../records/0215.md#pr26-physical-actualpacketuniform-8c0d9bf670)
+- [pr26:Physical.ActualPacketUniform — Physical.ActualPacketUniform](../records/0216.md#pr26-physical-actualpacketuniform-8c0d9bf670)
 - [pr26:Physical.Bins — Physical.Bins](../records/0216.md#pr26-physical-bins-6cebe091b2)
 - [pr26:Physical.Capacity — Physical.Capacity](../records/0216.md#pr26-physical-capacity-a722478daf)
 - [pr26:Physical.Capacity::transport_pair_dispatch@567 — transport_pair_dispatch](../records/0216.md#pr26-physical-capacity-transport-pair-dispatch-567-36720ba6bb)

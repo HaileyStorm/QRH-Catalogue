@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 66/71; 17531 matching records.
+Page 66/71; 17533 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-65.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-67.md)
 
+- [pr26:Cycle25.Numerator.PhysicalFront::frequencyWeight_dyad_bound@593 — frequencyWeight_dyad_bound](../records/0205.md#pr26-cycle25-numerator-physicalfront-frequencyweight-dyad-bound-5-975a4e3a63)
+- [pr26:Cycle25.Numerator.PhysicalFront::frequencyWeight_source_conductor_bound@779 — frequencyWeight_source_conductor_bound](../records/0205.md#pr26-cycle25-numerator-physicalfront-frequencyweight-source-condu-21eea85ed9)
 - [pr26:Cycle25.Numerator.PhysicalFront::physicalMainPool_product@558 — physicalMainPool_product](../records/0205.md#pr26-cycle25-numerator-physicalfront-physicalmainpool-product-558-51295260c4)
 - [pr26:Cycle25.Numerator.PhysicalFront::physicalMainPool_product_bound@735 — physicalMainPool_product_bound](../records/0205.md#pr26-cycle25-numerator-physicalfront-physicalmainpool-product-bou-f8768ec1aa)
 - [pr26:Cycle25.Numerator.PhysicalFront::physicalMainPool_product_norm@574 — physicalMainPool_product_norm](../records/0205.md#pr26-cycle25-numerator-physicalfront-physicalmainpool-product-nor-d7d196d586)
@@ -37,8 +39,8 @@ Page 66/71; 17531 matching records.
 - [pr26:Cycle25.Numerator.Scalar.Exponent::numerator_supremum_improvement@815 — numerator_supremum_improvement](../records/0205.md#pr26-cycle25-numerator-scalar-exponent-numerator-supremum-improve-0fbc52d515)
 - [pr26:Cycle25.Numerator.Scalar.Exponent::rowCount_binding@733 — rowCount_binding](../records/0205.md#pr26-cycle25-numerator-scalar-exponent-rowcount-binding-733-09fb7b9d15)
 - [pr26:Cycle25.Numerator.Scalar.Exponent::rowCount_bounds@756 — rowCount_bounds](../records/0205.md#pr26-cycle25-numerator-scalar-exponent-rowcount-bounds-756-c5e91c152f)
-- [pr26:Cycle25.Numerator.Scalar.Exponent::weightedSourceSZExponent@744 — weightedSourceSZExponent](../records/0205.md#pr26-cycle25-numerator-scalar-exponent-weightedsourceszexponent-7-b9fbaa521a)
-- [pr26:Cycle25.Numerator.Scalar.SourceLoss — Cycle25.Numerator.Scalar.SourceLoss](../records/0205.md#pr26-cycle25-numerator-scalar-sourceloss-13537c5c1f)
+- [pr26:Cycle25.Numerator.Scalar.Exponent::weightedSourceSZExponent@744 — weightedSourceSZExponent](../records/0206.md#pr26-cycle25-numerator-scalar-exponent-weightedsourceszexponent-7-b9fbaa521a)
+- [pr26:Cycle25.Numerator.Scalar.SourceLoss — Cycle25.Numerator.Scalar.SourceLoss](../records/0206.md#pr26-cycle25-numerator-scalar-sourceloss-13537c5c1f)
 - [pr26:Cycle25.Numerator.Scalar.SourceLoss::sourceMesh_le@185 — sourceMesh_le](../records/0206.md#pr26-cycle25-numerator-scalar-sourceloss-sourcemesh-le-185-867f2bd96f)
 - [pr26:Cycle25.Numerator.Scalar.SourceLoss::weightedSourceLoss@195 — weightedSourceLoss](../records/0206.md#pr26-cycle25-numerator-scalar-sourceloss-weightedsourceloss-195-406cd7bdce)
 - [pr26:Cycle25.Numerator.Scalar.SourceLoss::weightedSourceLoss_le@200 — weightedSourceLoss_le](../records/0206.md#pr26-cycle25-numerator-scalar-sourceloss-weightedsourceloss-le-20-c454b5825f)
@@ -137,8 +139,8 @@ Page 66/71; 17531 matching records.
 - [pr26:Endpoint.Perturbation::source_beta_feedback@443 — source_beta_feedback](../records/0206.md#pr26-endpoint-perturbation-source-beta-feedback-443-ca1ba761e1)
 - [pr26:Endpoint.Perturbation::source_local_kappa_gap@349 — source_local_kappa_gap](../records/0206.md#pr26-endpoint-perturbation-source-local-kappa-gap-349-1e4ae1ebf4)
 - [pr26:Endpoint.Perturbation::source_old_kappa_gap@369 — source_old_kappa_gap](../records/0206.md#pr26-endpoint-perturbation-source-old-kappa-gap-369-212d57ce4e)
-- [pr26:Endpoint.Perturbation::source_piecewise_kappa_gap@428 — source_piecewise_kappa_gap](../records/0206.md#pr26-endpoint-perturbation-source-piecewise-kappa-gap-428-6da56dd8b3)
-- [pr26:Endpoint.Perturbation::source_row_kappa_effect@332 — source_row_kappa_effect](../records/0206.md#pr26-endpoint-perturbation-source-row-kappa-effect-332-78afac9ddb)
+- [pr26:Endpoint.Perturbation::source_piecewise_kappa_gap@428 — source_piecewise_kappa_gap](../records/0207.md#pr26-endpoint-perturbation-source-piecewise-kappa-gap-428-6da56dd8b3)
+- [pr26:Endpoint.Perturbation::source_row_kappa_effect@332 — source_row_kappa_effect](../records/0207.md#pr26-endpoint-perturbation-source-row-kappa-effect-332-78afac9ddb)
 - [pr26:Endpoint.SourceFormula — Endpoint.SourceFormula](../records/0207.md#pr26-endpoint-sourceformula-a9e8cc7a47)
 - [pr26:Endpoint.SourceFormula::sourceHighRowExponent@870 — sourceHighRowExponent](../records/0207.md#pr26-endpoint-sourceformula-sourcehighrowexponent-870-bfa260c643)
 - [pr26:Endpoint.SourceFormula::sourceHighRowExponent_eq@875 — sourceHighRowExponent_eq](../records/0207.md#pr26-endpoint-sourceformula-sourcehighrowexponent-eq-875-ca7a80bbea)
@@ -237,8 +239,8 @@ Page 66/71; 17531 matching records.
 - [pr26:Global.Low.Detector.LowInverseNormalize::low_inverse_power_cancel@32 — low_inverse_power_cancel](../records/0207.md#pr26-global-low-detector-lowinversenormalize-low-inverse-power-ca-9770337bcb)
 - [pr26:Global.Low.Detector.LowInverseNormalize::low_inverse_sqrt_normalized@43 — low_inverse_sqrt_normalized](../records/0207.md#pr26-global-low-detector-lowinversenormalize-low-inverse-sqrt-nor-0f3d463e11)
 - [pr26:Global.Low.Detector.LowNominalEnergy — Global.Low.Detector.LowNominalEnergy](../records/0207.md#pr26-global-low-detector-lownominalenergy-d207f30ac6)
-- [pr26:Global.Low.Detector.LowNominalEnergy::low_selected_nominal_energy@409 — low_selected_nominal_energy](../records/0207.md#pr26-global-low-detector-lownominalenergy-low-selected-nominal-en-d00dab027e)
-- [pr26:Global.Low.Detector.LowNominalGeometry — Global.Low.Detector.LowNominalGeometry](../records/0207.md#pr26-global-low-detector-lownominalgeometry-19e647f671)
+- [pr26:Global.Low.Detector.LowNominalEnergy::low_selected_nominal_energy@409 — low_selected_nominal_energy](../records/0208.md#pr26-global-low-detector-lownominalenergy-low-selected-nominal-en-d00dab027e)
+- [pr26:Global.Low.Detector.LowNominalGeometry — Global.Low.Detector.LowNominalGeometry](../records/0208.md#pr26-global-low-detector-lownominalgeometry-19e647f671)
 - [pr26:Global.Low.Detector.LowNominalGeometry::lowLength_bounds@699 — lowLength_bounds](../records/0208.md#pr26-global-low-detector-lownominalgeometry-lowlength-bounds-699-a78f889065)
 - [pr26:Global.Low.Detector.LowNominalGeometry::lowLength_sum@694 — lowLength_sum](../records/0208.md#pr26-global-low-detector-lownominalgeometry-lowlength-sum-694-be4b577cd7)
 - [pr26:Global.Low.Detector.LowNominalGeometry::lowPhysicalScale_nominal_bound@741 — lowPhysicalScale_nominal_bound](../records/0208.md#pr26-global-low-detector-lownominalgeometry-lowphysicalscale-nomi-6abad1fd23)
@@ -256,5 +258,3 @@ Page 66/71; 17531 matching records.
 - [pr26:Global.Low.Detector.LowOriginalPools::originalPools_low_scales@558 — originalPools_low_scales](../records/0208.md#pr26-global-low-detector-loworiginalpools-originalpools-low-scale-c4b22721f0)
 - [pr26:Global.Low.Detector.LowPhysicalInverseBound — Global.Low.Detector.LowPhysicalInverseBound](../records/0208.md#pr26-global-low-detector-lowphysicalinversebound-74d0de5244)
 - [pr26:Global.Low.Detector.LowPhysicalInverseBound::low_physical_inverse_normalized@348 — low_physical_inverse_normalized](../records/0208.md#pr26-global-low-detector-lowphysicalinversebound-low-physical-inv-da63453c98)
-- [pr26:Global.Low.Detector.LowReflectedLength — Global.Low.Detector.LowReflectedLength](../records/0208.md#pr26-global-low-detector-lowreflectedlength-c0abc60600)
-- [pr26:Global.Low.Detector.LowReflectedLength::compensated_reflected_exponent_with_length@220 — compensated_reflected_exponent_with_length](../records/0208.md#pr26-global-low-detector-lowreflectedlength-compensated-reflected-71755518e3)

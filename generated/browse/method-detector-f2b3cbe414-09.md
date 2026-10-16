@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 9/12; 2897 matching records.
+Page 9/12; 2898 matching records.
 
 [Previous](method-detector-f2b3cbe414-08.md)
 
 [Next](method-detector-f2b3cbe414-10.md)
 
+- [local-section:9b1de17dfa1bf3453bc4390c — 7. Physical endpoint, sharp shortening cutoffs and free shifts](../records/0157.md#local-section-9b1de17dfa1bf3453bc4390c-a0010c07be)
 - [local-section:9b2b8c4ea8f0b57b66d19aa3 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction](../records/0157.md#local-section-9b2b8c4ea8f0b57b66d19aa3-26dc29beda)
 - [local-section:9b6ca73bc5a2f7fd0f67ac99 — \[research revision\]: complete operator returns and an actual detector repair](../records/0157.md#local-section-9b6ca73bc5a2f7fd0f67ac99-70a9dc44c5)
 - [local-section:9c3632cf2e0780769fea898c — 11. Remaining fields, target order, and zero exclusion](../records/0157.md#local-section-9c3632cf2e0780769fea898c-edc5fbc3f8)
@@ -38,8 +39,8 @@ Page 9/12; 2897 matching records.
 - [local-section:a40adf9476e7460274c31347 — 8. Literal physical input, modulus padding, and every shortening](../records/0158.md#local-section-a40adf9476e7460274c31347-6c8fb9e8ab)
 - [local-section:a40f4f8233b131f1cced0c41 — \[research revision\] attempt index: accepted advances and exact remaining estimates](../records/0158.md#local-section-a40f4f8233b131f1cced0c41-053f5e3ea0)
 - [local-section:a4ef468a047a8e5c8ee90177 — W60 independent review: short prime turnover and the complete residual](../records/0158.md#local-section-a4ef468a047a8e5c8ee90177-97a7cd865b)
-- [local-section:a59922d95491afa08fac5c48 — \[research revision\]: short arithmetic moves and the complete signed remainder](../records/0158.md#local-section-a59922d95491afa08fac5c48-d51bcd7cc3)
-- [local-section:a59d03375b5846ee0e900e7d — 1. Authority, scope, and outcome](../records/0158.md#local-section-a59d03375b5846ee0e900e7d-55944c56aa)
+- [local-section:a59922d95491afa08fac5c48 — \[research revision\]: short arithmetic moves and the complete signed remainder](../records/0159.md#local-section-a59922d95491afa08fac5c48-d51bcd7cc3)
+- [local-section:a59d03375b5846ee0e900e7d — 1. Authority, scope, and outcome](../records/0159.md#local-section-a59d03375b5846ee0e900e7d-55944c56aa)
 - [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0159.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
 - [local-section:a6d99b6c11372dc2112b2b43 — 3. Survivors11/22: an exact signed Walsh codec with a paid tail](../records/0159.md#local-section-a6d99b6c11372dc2112b2b43-7b00634ba8)
 - [local-section:a6dabf3409ad9596d463bacd — Current checkpoint](../records/0159.md#local-section-a6dabf3409ad9596d463bacd-a9ba44e7a1)
@@ -65,8 +66,8 @@ Page 9/12; 2897 matching records.
 - [local-section:ace62961c87b7cf395ef8382 — \[research revision\] headroom A: spectral observation and a quartic replacement kernel](../records/0159.md#local-section-ace62961c87b7cf395ef8382-8c1575c065)
 - [local-section:ad6e5b89849110c53696eea9 — R7. Original slots inside the positive norm](../records/0159.md#local-section-ad6e5b89849110c53696eea9-cf119fd873)
 - [local-section:adac186c22ff73ffee01cabb — 6. Principal, finite, small, large, and off-height terms](../records/0159.md#local-section-adac186c22ff73ffee01cabb-49cad67678)
-- [local-section:adc9ec3f96a79f64c654b8dc — Preserved interfaces and scoped audits](../records/0159.md#local-section-adc9ec3f96a79f64c654b8dc-6d42fc3138)
-- [local-section:add3aac0f4f2793e022f98da — D02 and the seven other first tests](../records/0159.md#local-section-add3aac0f4f2793e022f98da-a3f6783667)
+- [local-section:adc9ec3f96a79f64c654b8dc — Preserved interfaces and scoped audits](../records/0160.md#local-section-adc9ec3f96a79f64c654b8dc-6d42fc3138)
+- [local-section:add3aac0f4f2793e022f98da — D02 and the seven other first tests](../records/0160.md#local-section-add3aac0f4f2793e022f98da-a3f6783667)
 - [local-section:ae01d614d6310519c34af7f9 — Primary-source screen, ancestry, and next useful action](../records/0160.md#local-section-ae01d614d6310519c34af7f9-1dda46cb49)
 - [local-section:ae0a1ee22c954b72a787627d — 4. Ten author tests and two independent audits](../records/0160.md#local-section-ae0a1ee22c954b72a787627d-f01df5e65a)
 - [local-section:ae2c65cc6ad827cabebbbbf9 — Pointwise actual-source consequence](../records/0160.md#local-section-ae2c65cc6ad827cabebbbbf9-b993f2f6ed)
@@ -142,7 +143,7 @@ Page 9/12; 2897 matching records.
 - [local-section:c3b58162eeb84d62f848b320 — 6. Full physical comparison and unresolved complements](../records/0162.md#local-section-c3b58162eeb84d62f848b320-d3317ddc45)
 - [local-section:c3e5d91dc03217453ff95eac — 9. Outcome and limitations](../records/0162.md#local-section-c3e5d91dc03217453ff95eac-d5efa893aa)
 - [local-section:c40f08cb34220921d3baeb51 — Independent review of the actual R4 nonunique companion](../records/0162.md#local-section-c40f08cb34220921d3baeb51-1d7034bae7)
-- [local-section:c4ab52ba58d3b91e0c3bc25d — D12 / S12: accept the conditional same-exponent return](../records/0162.md#local-section-c4ab52ba58d3b91e0c3bc25d-9f62cb3eb5)
+- [local-section:c4ab52ba58d3b91e0c3bc25d — D12 / S12: accept the conditional same-exponent return](../records/0163.md#local-section-c4ab52ba58d3b91e0c3bc25d-9f62cb3eb5)
 - [local-section:c53092bfe86b28b080e31a83 — 4. Other actual first tests and their limits](../records/0163.md#local-section-c53092bfe86b28b080e31a83-bb2282f07d)
 - [local-section:c5338ab657c2b10e159e22b2 — Common measurements and next work](../records/0163.md#local-section-c5338ab657c2b10e159e22b2-4661d16aaa)
 - [local-section:c58336f5f0daf0157988ce26 — Group 6: high ceiling / invented connection / reverse implication and converse](../records/0163.md#local-section-c58336f5f0daf0157988ce26-75945f72da)
@@ -209,7 +210,7 @@ Page 9/12; 2897 matching records.
 - [local-section:d9cac4c9cda71c08d374f0ae — \[research revision\] audit, provenance, and reconciliation record](../records/0165.md#local-section-d9cac4c9cda71c08d374f0ae-5b276b16eb)
 - [local-section:d9f5d7def3c38ddc8daa5cd7 — 7. Open remainder and review gate](../records/0165.md#local-section-d9f5d7def3c38ddc8daa5cd7-0594bc8e13)
 - [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0165.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
-- [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0165.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
+- [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0166.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
 - [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0166.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
 - [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0166.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
 - [local-section:db1897b4dfa1a01a6b398abf — W40-08 — Inverse-L dispersion sum rule; p=.07](../records/0166.md#local-section-db1897b4dfa1a01a6b398abf-d96cf0f568)
@@ -257,4 +258,3 @@ Page 9/12; 2897 matching records.
 - [local-section:e9be19a230144f7a8a93a6ee — 8. Discovery choices, provenance and next action](../records/0167.md#local-section-e9be19a230144f7a8a93a6ee-495cc18e13)
 - [local-section:e9c7398616ed75625807ee46 — Current proof architecture: conditional local-moment gains and routes onward](../records/0167.md#local-section-e9c7398616ed75625807ee46-aecf8a3f98)
 - [local-section:ea5ed15f7313d698dd4699a4 — \[research revision\]: W55 finite detector transfer and complete signed targets](../records/0167.md#local-section-ea5ed15f7313d698dd4699a4-36f3bcc80a)
-- [local-section:eaac231b398f980e74c7e5a3 — W39 / \[research revision\] independent mathematical review](../records/0167.md#local-section-eaac231b398f980e74c7e5a3-32de86ab05)

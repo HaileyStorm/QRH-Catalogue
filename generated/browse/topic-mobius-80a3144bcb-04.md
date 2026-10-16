@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 957 matching records.
+Page 4/4; 958 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:dd9dfa23ebe72e54b19ac8e9 — 7. Controller observation: the full-cutoff contract is Mertens-equivalent](../records/0166.md#local-section-dd9dfa23ebe72e54b19ac8e9-70406e30b2)
 - [local-section:ddc728001ba17d762f664136 — 4. Development23: the exact large-prime response diameter](../records/0166.md#local-section-ddc728001ba17d762f664136-00a0ca0c76)
 - [local-section:de495e5747b9dddee52d0af1 — 2. Square-root threshold: independent proof of CT1, CT2 and CT8](../records/0166.md#local-section-de495e5747b9dddee52d0af1-36c30a0be6)
 - [local-section:de64286651bd57fca937a2bf — Independent review: the compensated nonlinear source](../records/0166.md#local-section-de64286651bd57fca937a2bf-7fd9c18886)
@@ -48,7 +49,7 @@ Page 4/4; 957 matching records.
 - [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:eba218e9145ecd7c55b4b800 — G106. Isolated root of the complete cutoff polynomial](../records/0167.md#local-section-eba218e9145ecd7c55b4b800-95a0534d1e)
-- [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0167.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
+- [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0168.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
 - [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0168.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
 - [local-section:ec486c71f4fba2e1928b1eb6 — 4. W40-15: the exact positivity price for literal f3](../records/0168.md#local-section-ec486c71f4fba2e1928b1eb6-a8991c9a46)
 - [local-section:ec9a19283d3bfcfba83008a7 — B3. Strongest objection: actual cumulative inputs have bounded increments](../records/0168.md#local-section-ec9a19283d3bfcfba83008a7-d89c9a63cb)
@@ -75,7 +76,7 @@ Page 4/4; 957 matching records.
 - [local-section:f304532ae1813958a28c3655 — G125. Exact curved return and actual coarse bound](../records/0168.md#local-section-f304532ae1813958a28c3655-f059b83dc8)
 - [local-section:f33438366b188e3af92b51a7 — R42.8. Other first tests: precise reach](../records/0168.md#local-section-f33438366b188e3af92b51a7-c4db9ed484)
 - [local-section:f36856d31f7769c616707c11 — \[research revision\]: complete Gaussian compression and source-feedback obstructions](../records/0168.md#local-section-f36856d31f7769c616707c11-1b4a6267d5)
-- [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0168.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
+- [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0169.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0169.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f46c222da6f0d60a6a1fa098 — Accepted mathematics](../records/0169.md#local-section-f46c222da6f0d60a6a1fa098-a29562026f)
@@ -100,8 +101,8 @@ Page 4/4; 957 matching records.
 - [local-section:fab4f807b95b813232046002 — F01. Multiscale Möbius decomposition and signed block control](../records/0169.md#local-section-fab4f807b95b813232046002-1ece3d3c92)
 - [local-section:faca33f6323c9c4d43e425e3 — \[research revision\] independent review: actual f3 hard correlation](../records/0169.md#local-section-faca33f6323c9c4d43e425e3-de94f7d95a)
 - [local-section:fb3aa09c6b13770dda7e67a5 — F07. Quadratic principal-square Jacobi detector](../records/0169.md#local-section-fb3aa09c6b13770dda7e67a5-4f88720cd9)
-- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0169.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
-- [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
+- [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0170.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
+- [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0170.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0170.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fc9409d58222d0fd6c96c0e0 — 4. Protected audit S25: decimation with all induced interactions](../records/0170.md#local-section-fc9409d58222d0fd6c96c0e0-df28e4e747)
@@ -133,8 +134,8 @@ Page 4/4; 957 matching records.
 - [local:F25.K — F25.K — Controlled Bessel-profile representation in admissible fixed Möbius norms could share a saving; ideal/rational arithmetic and inverse analytic costs must be proved](../records/0171.md#local-f25-k-6de17c934c)
 - [local:G103 — G103. Complete unsmoothed energy and fixed-modulus covariance](../records/0171.md#local-g103-c6618adc7f)
 - [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0171.md#local-g106-3b75d799b8)
-- [local:G107 — G107. Exact divisor elimination and the real-cutoff repair](../records/0171.md#local-g107-5d5cd18dce)
-- [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0171.md#local-g108-f378462f08)
+- [local:G107 — G107. Exact divisor elimination and the real-cutoff repair](../records/0172.md#local-g107-5d5cd18dce)
+- [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0172.md#local-g108-f378462f08)
 - [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0172.md#local-g112-576f044b32)
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0172.md#local-g113-6c10bbc310)
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0172.md#local-g114-fec7178ffd)

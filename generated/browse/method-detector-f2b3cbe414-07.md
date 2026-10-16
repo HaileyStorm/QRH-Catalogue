@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 7/12; 2897 matching records.
+Page 7/12; 2898 matching records.
 
 [Previous](method-detector-f2b3cbe414-06.md)
 
 [Next](method-detector-f2b3cbe414-08.md)
 
+- [local-section:07c50be59f02ac80fa4faaa0 — 4. Reconstructing the enlarged density theorem](../records/0138.md#local-section-07c50be59f02ac80fa4faaa0-b84270e5b8)
 - [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
 - [local-section:08dd61ac28abc668bf15ef0a — 9. The asserted prime-square Jacobi identity is false](../records/0138.md#local-section-08dd61ac28abc668bf15ef0a-c2b6d9a483)
 - [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
@@ -19,7 +20,7 @@ Page 7/12; 2897 matching records.
 - [local-section:0a1fc8e1096bfc5a7b952bb5 — 8. Exact whole-rectangle proof and feedback](../records/0138.md#local-section-0a1fc8e1096bfc5a7b952bb5-2b90ced3f8)
 - [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0138.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0138.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
-- [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
+- [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0139.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
 - [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0139.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
 - [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0139.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
@@ -74,7 +75,7 @@ Page 7/12; 2897 matching records.
 - [local-section:19b88181709ca0278b59e6d0 — Quantitative gate index](../records/0140.md#local-section-19b88181709ca0278b59e6d0-8524d45372)
 - [local-section:1a7a4007951797e6484cf856 — 8. Every card's independent disposition](../records/0140.md#local-section-1a7a4007951797e6484cf856-94a687a7ef)
 - [local-section:1ad8f2b0b1a9b894c059b797 — 1. Exact sources and input contract](../records/0140.md#local-section-1ad8f2b0b1a9b894c059b797-e45e9eb796)
-- [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0140.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
+- [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0141.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
 - [local-section:1bc8ee86d4af759b5e6e0d66 — 4. Literal degree12 source and all complements](../records/0141.md#local-section-1bc8ee86d4af759b5e6e0d66-b001ab16fe)
 - [local-section:1bd331aed29fd53493b503f4 — 10. Geometric and operator fronts, retained with quantitative gates](../records/0141.md#local-section-1bd331aed29fd53493b503f4-00335f5ee6)
@@ -147,7 +148,7 @@ Page 7/12; 2897 matching records.
 - [local-section:318df335f67cc148048b0d9d — R6. Cutoff removal and a noncircular second extraction](../records/0143.md#local-section-318df335f67cc148048b0d9d-e062ff6da8)
 - [local-section:320fe4d1f1632694232728c7 — 6. Weakest complete first-gain target, return, and actual failed test](../records/0143.md#local-section-320fe4d1f1632694232728c7-02d491cc36)
 - [local-section:32913ec7134a0e926287eb4c — Corrections that must survive integration](../records/0143.md#local-section-32913ec7134a0e926287eb4c-96749fca6c)
-- [local-section:339264c75be943e51bc30eb7 — Other tested cards, sampling and verification](../records/0143.md#local-section-339264c75be943e51bc30eb7-548bbf8fa4)
+- [local-section:339264c75be943e51bc30eb7 — Other tested cards, sampling and verification](../records/0144.md#local-section-339264c75be943e51bc30eb7-548bbf8fa4)
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0144.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0144.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0144.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
@@ -172,7 +173,7 @@ Page 7/12; 2897 matching records.
 - [local-section:399039ae623c147cb2b6cd5a — 7. All sixty dispositions](../records/0144.md#local-section-399039ae623c147cb2b6cd5a-7d8f5aaa62)
 - [local-section:39af77f1e15a654f20e4cca1 — 7. Complete thirty-card disposition](../records/0144.md#local-section-39af77f1e15a654f20e4cca1-1e2f5257f0)
 - [local-section:3a6a3cc9e61d9df8566af8a1 — D04: accept the complete collar price; retain the arithmetic problem](../records/0144.md#local-section-3a6a3cc9e61d9df8566af8a1-6d43f98a64)
-- [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0144.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
+- [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0145.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
 - [local-section:3bdcf002a3f4f687964d9a46 — 4. Paying the prefix on the whole original slot range](../records/0145.md#local-section-3bdcf002a3f4f687964d9a46-5e928517d8)
 - [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0145.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
 - [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0145.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
@@ -257,4 +258,3 @@ Page 7/12; 2897 matching records.
 - [local-section:5573778f9580a731550ced58 — Conditioned canonical density and a paid use of the accepted family bound](../records/0148.md#local-section-5573778f9580a731550ced58-ada0a13e85)
 - [local-section:55f0a4dc25214e8b4252dc10 — R2. Exact source, rows and parameter ledger](../records/0148.md#local-section-55f0a4dc25214e8b4252dc10-0488bdd51b)
 - [local-section:56738ae6201f243ddc607fb4 — 3. Every inverse-length regime and the sharper free-row statement](../records/0148.md#local-section-56738ae6201f243ddc607fb4-29937d90fb)
-- [local-section:56d1a5a3d050cc63774765bc — 7. Complete endpoint geometry and all shortening cases](../records/0148.md#local-section-56d1a5a3d050cc63774765bc-4c058bcae4)

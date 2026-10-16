@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 34/43; 10584 matching records.
+Page 34/43; 10586 matching records.
 
 [Previous](status-unknown-b23a6a8439-33.md)
 
 [Next](status-unknown-b23a6a8439-35.md)
 
+- [local-section:8a03efccb0cd0121588142de — G77. Full contour gluing includes the horizontal and residue terms](../records/0155.md#local-section-8a03efccb0cd0121588142de-53e3d3bea3)
+- [local-section:8a1364a29600c5a59c3595d3 — 34. The actual integer-renewal norm and fixed signed corrections](../records/0155.md#local-section-8a1364a29600c5a59c3595d3-79a6616bb4)
 - [local-section:8a30e545d1aa25a497db332d — 6. High bins: all signs, holes, valuations and labels paid](../records/0155.md#local-section-8a30e545d1aa25a497db332d-5474371a2e)
 - [local-section:8a387234f19eedc0866a094b — 4. Common profile before labels; actual HB and slot payment](../records/0155.md#local-section-8a387234f19eedc0866a094b-b19aa169c1)
 - [local-section:8a5f3d0ff1e8c96278fb9356 — 1. Literal source and statement](../records/0155.md#local-section-8a5f3d0ff1e8c96278fb9356-3a3cc387c5)
@@ -151,7 +153,7 @@ Page 34/43; 10584 matching records.
 - [local-section:967a1f245f3d15c001a56301 — Evidence, preserved candidates and next estimate](../records/0156.md#local-section-967a1f245f3d15c001a56301-e0f97b5005)
 - [local-section:9689afc7fccaa1828a573fa2 — D33.2 Quantitative Gaussian cancellation for a growing model](../records/0156.md#local-section-9689afc7fccaa1828a573fa2-00caa81cb0)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0156.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
-- [local-section:96a8667709ad44ba31f1ff2a — 45. Divisor recovery must keep its cross-row cancellation](../records/0156.md#local-section-96a8667709ad44ba31f1ff2a-1ea251b61f)
+- [local-section:96a8667709ad44ba31f1ff2a — 45. Divisor recovery must keep its cross-row cancellation](../records/0157.md#local-section-96a8667709ad44ba31f1ff2a-1ea251b61f)
 - [local-section:96c5a321ba26ee30991eb683 — 1. Recovery on the squarefree unit set](../records/0157.md#local-section-96c5a321ba26ee30991eb683-c9ed1ec7a9)
 - [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0157.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
 - [local-section:96cdd570e8ecf5456a0ab7ee — 3. Weighted coherent coefficient mass](../records/0157.md#local-section-96cdd570e8ecf5456a0ab7ee-ed28a2b733)
@@ -235,8 +237,8 @@ Page 34/43; 10584 matching records.
 - [local-section:9df83cd9f2939926dd06df47 — 5. The other three tests keep their exact source obligations](../records/0157.md#local-section-9df83cd9f2939926dd06df47-4840921a7f)
 - [local-section:9dfb888c857e3273d3f5a553 — 4. Exact divisor-check dual and a complete signed target](../records/0157.md#local-section-9dfb888c857e3273d3f5a553-b1058e2b8b)
 - [local-section:9e0699e5119c4f161b5338bc — 2. Exact completion and rapidly paid complementary fields](../records/0157.md#local-section-9e0699e5119c4f161b5338bc-eef9d9d2cf)
-- [local-section:9e1507680af714a0269cf566 — 4. Original source interfaces and quantifier order](../records/0157.md#local-section-9e1507680af714a0269cf566-8f9444a9c1)
-- [local-section:9e4e085d771d6d6df7d7dbdc — B1. Proof with all offsets, tails, and mixed terms](../records/0157.md#local-section-9e4e085d771d6d6df7d7dbdc-b06a133942)
+- [local-section:9e1507680af714a0269cf566 — 4. Original source interfaces and quantifier order](../records/0158.md#local-section-9e1507680af714a0269cf566-8f9444a9c1)
+- [local-section:9e4e085d771d6d6df7d7dbdc — B1. Proof with all offsets, tails, and mixed terms](../records/0158.md#local-section-9e4e085d771d6d6df7d7dbdc-b06a133942)
 - [local-section:9e61a7c5ca71cac9ba393287 — 4. Uniform negative lines and all completion errors](../records/0158.md#local-section-9e61a7c5ca71cac9ba393287-dcf81e8b2b)
 - [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0158.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
 - [local-section:9e68f5fa52900feae403267a — 3. Uniform row completion with the actual forced scale](../records/0158.md#local-section-9e68f5fa52900feae403267a-093ae58591)
@@ -256,5 +258,3 @@ Page 34/43; 10584 matching records.
 - [local-section:9f7ffe08a33a563378c74ef1 — \[research revision\]: all-source forced-row bounds for the actual mixed linear probe](../records/0158.md#local-section-9f7ffe08a33a563378c74ef1-ef1feb150d)
 - [local-section:9f94e9b2a21a159421d37045 — 5. Two representations of each actual far annulus](../records/0158.md#local-section-9f94e9b2a21a159421d37045-ed6d4c2380)
 - [local-section:9fb812413ceae9ccbd5659ca — D04.4 Explicit near and high-ceiling budgets](../records/0158.md#local-section-9fb812413ceae9ccbd5659ca-1f8f3a0ee0)
-- [local-section:9fb822de8128e9f17ac81f67 — 3. L1–10: the complete signed logarithmic criterion](../records/0158.md#local-section-9fb822de8128e9f17ac81f67-45d26f53fd)
-- [local-section:9fd292741ff1888369a11a85 — 4. C, D and E: useful failures in their exact scopes](../records/0158.md#local-section-9fd292741ff1888369a11a85-1ae4ce5113)

@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 494 matching records.
+Page 2/2; 495 matching records.
 
 [Previous](topic-sextic-5501a98e33-01.md)
 
+- [local-section:7eea77463838b863b1985ed9 — Surviving mechanism and direct-return boundary](../records/0153.md#local-section-7eea77463838b863b1985ed9-e67f9928f1)
 - [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0153.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)
-- [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
+- [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0154.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:81043dce3bb11070b43ef75d — 4. Forced rows and the all-multiplicity second inequality](../records/0154.md#local-section-81043dce3bb11070b43ef75d-4bd2a31498)
 - [local-section:81884ab57ca1812f1498031a — \[research revision\] independent review: two complementary witnesses on one far annulus](../records/0154.md#local-section-81884ab57ca1812f1498031a-f483e7cda3)
@@ -18,7 +19,7 @@ Page 2/2; 494 matching records.
 - [local-section:83a69d48277b9669d24893c9 — G123. Complete relative mass and full-hole Poisson](../records/0154.md#local-section-83a69d48277b9669d24893c9-b4b79b804c)
 - [local-section:864daf8c0b802cd863e672a5 — \[research revision\] discovery-first headroom pass: nonlinear-phase source compression](../records/0154.md#local-section-864daf8c0b802cd863e672a5-0c74d1cfe0)
 - [local-section:8750d45ee4660ade659d9664 — 3. The actual physical family and the selected slots](../records/0154.md#local-section-8750d45ee4660ade659d9664-a2ee569221)
-- [local-section:875fc095e437c676ac02abb4 — 5. A precise obstruction to the proposed shortcut](../records/0154.md#local-section-875fc095e437c676ac02abb4-067fa78bc8)
+- [local-section:875fc095e437c676ac02abb4 — 5. A precise obstruction to the proposed shortcut](../records/0155.md#local-section-875fc095e437c676ac02abb4-067fa78bc8)
 - [local-section:8765f4b7133e69437e9a9d56 — 4. An exact positive norm and its fully paid diagonal](../records/0155.md#local-section-8765f4b7133e69437e9a9d56-f0245762f2)
 - [local-section:8958eaf50466fff634cc11ec — \[research revision\] signed-core review: complete cofactor payment and a rectangular core](../records/0155.md#local-section-8958eaf50466fff634cc11ec-e399898544)
 - [local-section:89655f7c9c085ac19e2bf09a — G90: marked inverse amplification, weighted density and signed transport](../records/0155.md#local-section-89655f7c9c085ac19e2bf09a-6c727c0c07)
@@ -59,7 +60,7 @@ Page 2/2; 494 matching records.
 - [local-section:9d82d07ee45f7884918f9559 — Shared-zero coupling, primitive conductor, and a completed signed target](../records/0157.md#local-section-9d82d07ee45f7884918f9559-f94cb092b6)
 - [local-section:9dc1ddef45e415e7e5171b59 — 5a. Extension of balanced-residue mass to the COMPLETE tail](../records/0157.md#local-section-9dc1ddef45e415e7e5171b59-7d257aad96)
 - [local-section:9ddf7a81c6e56d13c63f3cee — Actual common-prime valuations and a stronger support bound](../records/0157.md#local-section-9ddf7a81c6e56d13c63f3cee-53376ee9eb)
-- [local-section:9e1507680af714a0269cf566 — 4. Original source interfaces and quantifier order](../records/0157.md#local-section-9e1507680af714a0269cf566-8f9444a9c1)
+- [local-section:9e1507680af714a0269cf566 — 4. Original source interfaces and quantifier order](../records/0158.md#local-section-9e1507680af714a0269cf566-8f9444a9c1)
 - [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0158.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
 - [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0158.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
 - [local-section:9f1457cb9962b9df7721d939 — 7. Evidence and next allocation](../records/0158.md#local-section-9f1457cb9962b9df7721d939-fd7cc43490)
@@ -134,7 +135,7 @@ Page 2/2; 494 matching records.
 - [local-section:d17c226650af71db63123681 — 4. Raw lifting and precise scope of the conditional improvement](../records/0164.md#local-section-d17c226650af71db63123681-7797b43b45)
 - [local-section:d199d3e1a5322a1202dd898a — 4. Actual transforms and main low/high branches](../records/0164.md#local-section-d199d3e1a5322a1202dd898a-457e269cba)
 - [local-section:d37c5de7f26360a233c842f5 — 5. Raw rows and finite inducing cores](../records/0164.md#local-section-d37c5de7f26360a233c842f5-6c27eb4fd2)
-- [local-section:d3e53c61aed1a16b7f48fa13 — 2. Source interfaces and the strongest applicability objection](../records/0164.md#local-section-d3e53c61aed1a16b7f48fa13-d2041b2a39)
+- [local-section:d3e53c61aed1a16b7f48fa13 — 2. Source interfaces and the strongest applicability objection](../records/0165.md#local-section-d3e53c61aed1a16b7f48fa13-d2041b2a39)
 - [local-section:d521054623e00d90249d1e34 — \[research revision\]: failed implications, corrected scopes, and surviving exits](../records/0165.md#local-section-d521054623e00d90249d1e34-6613809ee5)
 - [local-section:d5ae86b0df092dfa9c633647 — \[research revision\]: power-core payment for the complete nonunique R4 companion](../records/0165.md#local-section-d5ae86b0df092dfa9c633647-37957c5c28)
 - [local-section:d5d737c7398577455d081c5e — 2. Sources, accepted scope and quantifiers](../records/0165.md#local-section-d5d737c7398577455d081c5e-0dccb5acae)
@@ -166,7 +167,7 @@ Page 2/2; 494 matching records.
 - [local-section:e9c7398616ed75625807ee46 — Current proof architecture: conditional local-moment gains and routes onward](../records/0167.md#local-section-e9c7398616ed75625807ee46-aecf8a3f98)
 - [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
 - [local-section:eb99833da1986e77925f5a0b — D26.4 Sixth-power extraction and the stronger paid target](../records/0167.md#local-section-eb99833da1986e77925f5a0b-aa4f2afc2b)
-- [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0167.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
+- [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0168.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
 - [local-section:ed54f6d13053562ac8129710 — 4. Label average, collisions and the existing local comparisons](../records/0168.md#local-section-ed54f6d13053562ac8129710-6a39a6bb65)
 - [local-section:ede2bc5ee1e326791af1a84a — 1. Decision and what this pass earns](../records/0168.md#local-section-ede2bc5ee1e326791af1a84a-b3695f5810)
 - [local-section:ee10d28d86a939c77eca6318 — 7. Strongest objections, provenance and next action](../records/0168.md#local-section-ee10d28d86a939c77eca6318-f2129fa3c4)

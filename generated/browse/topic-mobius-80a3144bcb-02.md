@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 957 matching records.
+Page 2/4; 958 matching records.
 
 [Previous](topic-mobius-80a3144bcb-01.md)
 
 [Next](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:48d81bbb109abceb01dfd3a3 — 7. Fixed-depth deflation and its qualifications](../records/0146.md#local-section-48d81bbb109abceb01dfd3a3-ccd4dabfde)
 - [local-section:48e7975a57315f781fc86611 — \[research revision\]: the actual merged renewal norm and signed profile corrections](../records/0146.md#local-section-48e7975a57315f781fc86611-0d9cc844ff)
 - [local-section:4958912978a30104d911cb7c — 4. At the unit dual core the exact Euler operator can be rank one](../records/0146.md#local-section-4958912978a30104d911cb7c-87596e14c0)
 - [local-section:499ccb60b4d0fd4570bf943f — B. Pole subtraction after actual integer-quotient merging](../records/0146.md#local-section-499ccb60b4d0fd4570bf943f-73a6218464)
@@ -17,8 +18,8 @@ Page 2/4; 957 matching records.
 - [local-section:49e40df7a704dc32b3649b13 — Verdict and calibration](../records/0146.md#local-section-49e40df7a704dc32b3649b13-3c6ea726ba)
 - [local-section:4a0f7f9d584e0daa4f9ed197 — W40 initial seed freeze](../records/0146.md#local-section-4a0f7f9d584e0daa4f9ed197-e2f1b95898)
 - [local-section:4a797fdc406ddcaab524a6e1 — 2. Moving deletion ideals can be removed without moving the datum](../records/0146.md#local-section-4a797fdc406ddcaab524a6e1-96f2e02122)
-- [local-section:4ab9d1e430f17be39186b42d — Other first tests and scope boundaries](../records/0146.md#local-section-4ab9d1e430f17be39186b42d-06a3cf9918)
-- [local-section:4ac4b3d457188a61be8f97cf — 6. Exact gain and a proved obstruction to a tempting iteration](../records/0146.md#local-section-4ac4b3d457188a61be8f97cf-8903901336)
+- [local-section:4ab9d1e430f17be39186b42d — Other first tests and scope boundaries](../records/0147.md#local-section-4ab9d1e430f17be39186b42d-06a3cf9918)
+- [local-section:4ac4b3d457188a61be8f97cf — 6. Exact gain and a proved obstruction to a tempting iteration](../records/0147.md#local-section-4ac4b3d457188a61be8f97cf-8903901336)
 - [local-section:4b6547fa2e01d05ba4979d39 — 5. The fixed-order future return and its necessary distinction](../records/0147.md#local-section-4b6547fa2e01d05ba4979d39-70bcffd0a5)
 - [local-section:4b7d4e63a890f93b3c9822c1 — 4. A full-coefficient prime block in the retained far form](../records/0147.md#local-section-4b7d4e63a890f93b3c9822c1-45bd369d00)
 - [local-section:4ba58ee5e29555d364ac150a — 1. Verdict and contribution](../records/0147.md#local-section-4ba58ee5e29555d364ac150a-5d19c459ed)
@@ -42,7 +43,7 @@ Page 2/4; 957 matching records.
 - [local-section:5125ad184d0fc6370fb2e60e — 8. Paid sectors and literal f3 depth cancellation](../records/0147.md#local-section-5125ad184d0fc6370fb2e60e-b3012da587)
 - [local-section:512bbc8403ba12bebbebd820 — W56 author report — \[research revision\]](../records/0147.md#local-section-512bbc8403ba12bebbebd820-b04e125ca2)
 - [local-section:51bdf1b91709c0c318ab89c0 — 1. Outcome and ancestry](../records/0147.md#local-section-51bdf1b91709c0c318ab89c0-cd1a24e3ee)
-- [local-section:51c5acf0ef8a80f133a3bcf0 — \[research revision\] rough-depth renewal — independent mathematical review](../records/0147.md#local-section-51c5acf0ef8a80f133a3bcf0-c0689a600b)
+- [local-section:51c5acf0ef8a80f133a3bcf0 — \[research revision\] rough-depth renewal — independent mathematical review](../records/0148.md#local-section-51c5acf0ef8a80f133a3bcf0-c0689a600b)
 - [local-section:51f6e2b5b0a0cf8350f37877 — 3. W56-26: integral persistence and its complete source return](../records/0148.md#local-section-51f6e2b5b0a0cf8350f37877-a9a712c208)
 - [local-section:52f0b3d18dbbf258b4c671b6 — G181. A smaller signed residual, with the physical return still open](../records/0148.md#local-section-52f0b3d18dbbf258b4c671b6-5c54f00e76)
 - [local-section:532941d7834c0d6520bc59f8 — Independent concrete-progress consultation review](../records/0148.md#local-section-532941d7834c0d6520bc59f8-3481adda79)
@@ -133,7 +134,7 @@ Page 2/4; 957 matching records.
 - [local-section:7722659e69686a552dff17c9 — \[research revision\]: complete renewal localization and signed flux contracts](../records/0152.md#local-section-7722659e69686a552dff17c9-5952cc18af)
 - [local-section:772762922325a550ed1e067c — \[research revision\]: paid detector overlap and consultation library](../records/0152.md#local-section-772762922325a550ed1e067c-b62b2e1a0a)
 - [local-section:7758f641dc44b310f7091d5c — 2. Quantitative contracts and immediate priorities](../records/0152.md#local-section-7758f641dc44b310f7091d5c-049f400266)
-- [local-section:7828492d7fdc047743d043b6 — 3. Independent proof and quantifier audit of M](../records/0152.md#local-section-7828492d7fdc047743d043b6-f9c0651d64)
+- [local-section:7828492d7fdc047743d043b6 — 3. Independent proof and quantifier audit of M](../records/0153.md#local-section-7828492d7fdc047743d043b6-f9c0651d64)
 - [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0153.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0153.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0153.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
@@ -167,7 +168,7 @@ Page 2/4; 957 matching records.
 - [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0153.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)
 - [local-section:7f4ad26435ecd130f60b66bd — \[research revision\] headroom: adaptive completion on the actual phase surface](../records/0153.md#local-section-7f4ad26435ecd130f60b66bd-92c090308d)
 - [local-section:7f553c4ec43923be68819a50 — 7. Sum the forced opposite incidences and preserve the tails](../records/0153.md#local-section-7f553c4ec43923be68819a50-28f9483fda)
-- [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
+- [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0154.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0154.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0154.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0154.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
@@ -248,7 +249,7 @@ Page 2/4; 957 matching records.
 - [local-section:961ac9721192c13395c9fd1b — Frozen-dyad balanced finite form](../records/0156.md#local-section-961ac9721192c13395c9fd1b-1ca1704cd2)
 - [local-section:9672bf8d794bf486e8fff7f4 — Independent review: the cofactor-labelled source and its complete price](../records/0156.md#local-section-9672bf8d794bf486e8fff7f4-ed269a718c)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0156.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
-- [local-section:969bb28db7d73140a3a6fa0e — 42. Finite growing Riesz fields with a complete fixed-source return](../records/0156.md#local-section-969bb28db7d73140a3a6fa0e-1390092971)
+- [local-section:969bb28db7d73140a3a6fa0e — 42. Finite growing Riesz fields with a complete fixed-source return](../records/0157.md#local-section-969bb28db7d73140a3a6fa0e-1390092971)
 - [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0157.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
 - [local-section:970e32e13595436ccbf2bbf0 — Initial discovery, before duplicate pruning](../records/0157.md#local-section-970e32e13595436ccbf2bbf0-3ff1c320df)
 - [local-section:973513bf90fab49d339ffccf — 7. What remains open, evidence and provenance](../records/0157.md#local-section-973513bf90fab49d339ffccf-a7d0d49c47)
@@ -257,4 +258,3 @@ Page 2/4; 957 matching records.
 - [local-section:9831a6c9e598a448e349de8e — 3. Pay every sixth-power repetition with the actual Möbius coefficients](../records/0157.md#local-section-9831a6c9e598a448e349de8e-9dcede1dd9)
 - [local-section:98cc5604fa5a484e926c0d4b — 3. Exact inverse deletion and its Hilbert-space norm](../records/0157.md#local-section-98cc5604fa5a484e926c0d4b-92abafced7)
 - [local-section:9925692b0d82c1e2e364a6fd — Group 5: Mobius compensation / sieve and information or coding / exact invariant](../records/0157.md#local-section-9925692b0d82c1e2e364a6fd-83c664bb30)
-- [local-section:9a1d8046bb14138b4fb35ad9 — 3. Two parked proposals now have precise mathematical contracts](../records/0157.md#local-section-9a1d8046bb14138b4fb35ad9-295961069f)

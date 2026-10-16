@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 32/43; 10584 matching records.
+Page 32/43; 10586 matching records.
 
 [Previous](status-unknown-b23a6a8439-31.md)
 
 [Next](status-unknown-b23a6a8439-33.md)
 
+- [local-section:5d66218dc14a22368dc00cd2 — 3. Primary imports and local proof review](../records/0149.md#local-section-5d66218dc14a22368dc00cd2-1dc3a286f5)
+- [local-section:5d7920c69c67849c61ad5664 — 2.4 The exact hard-prime same-output diagonal costs only a constant](../records/0149.md#local-section-5d7920c69c67849c61ad5664-5333d9aa6e)
 - [local-section:5d833e12d86a3527b9709bde — 4. Finite optimizer and interpolation obstructions](../records/0149.md#local-section-5d833e12d86a3527b9709bde-bd8c0f7c4e)
 - [local-section:5d8dbc4fa7cfa6e4c6d6879c — G150. Complete matching displacement, with the old rank equivalence retained](../records/0149.md#local-section-5d8dbc4fa7cfa6e4c6d6879c-9206e99395)
 - [local-section:5d9630bd9a3909799080aca7 — \[research revision\]: complete signed operator and detector contracts](../records/0149.md#local-section-5d9630bd9a3909799080aca7-a6b633c593)
@@ -57,8 +59,8 @@ Page 32/43; 10584 matching records.
 - [local-section:61818f7a896a11ae40829849 — Late safe-freeze amendment](../records/0149.md#local-section-61818f7a896a11ae40829849-3dbe182f51)
 - [local-section:61a964a5cb4d0976c1b4101e — R2. Frozen evidence and source boundary](../records/0149.md#local-section-61a964a5cb4d0976c1b4101e-a363ce0a10)
 - [local-section:61b6c2d8dc93067761a2e7a6 — R5. The 24 positive-exponent terms and both mixed terms](../records/0149.md#local-section-61b6c2d8dc93067761a2e7a6-6e5bae92d2)
-- [local-section:61da7346808f59b9f2e1ab4a — G178. Actual variance, complete logarithmic test and higher-ceiling scope](../records/0149.md#local-section-61da7346808f59b9f2e1ab4a-76440551b3)
-- [local-section:61ee22b4c5aa95342e503462 — 8. All30 retained dispositions and remaining actions](../records/0149.md#local-section-61ee22b4c5aa95342e503462-2a46685d45)
+- [local-section:61da7346808f59b9f2e1ab4a — G178. Actual variance, complete logarithmic test and higher-ceiling scope](../records/0150.md#local-section-61da7346808f59b9f2e1ab4a-76440551b3)
+- [local-section:61ee22b4c5aa95342e503462 — 8. All30 retained dispositions and remaining actions](../records/0150.md#local-section-61ee22b4c5aa95342e503462-2a46685d45)
 - [local-section:61f50c63208ead66c89a23ee — All 30 frozen seeds: final disposition](../records/0150.md#local-section-61f50c63208ead66c89a23ee-b7056151f7)
 - [local-section:61f5da1a7af1dddd858f5be0 — 6. Tests17 and22: the rare code and wildcard curvature paths](../records/0150.md#local-section-61f5da1a7af1dddd858f5be0-86dd1ef9ad)
 - [local-section:61faa04014d526c968d73ecc — \[research revision\] discovery-first source pass — quantitative short windows and a calibrated multiplicative obstruction](../records/0150.md#local-section-61faa04014d526c968d73ecc-c78c487750)
@@ -146,8 +148,8 @@ Page 32/43; 10584 matching records.
 - [local-section:6813729f73f230a07c46ca0d — Frozen sampling and scope](../records/0150.md#local-section-6813729f73f230a07c46ca0d-fd5d12dbfc)
 - [local-section:683ff1e7ee2d23949479c4fd — Result and current checkpoint](../records/0150.md#local-section-683ff1e7ee2d23949479c4fd-65a7c40a9f)
 - [local-section:684f7977a7851c898ca5fa62 — 8. Complete reopening contract and ancestry](../records/0150.md#local-section-684f7977a7851c898ca5fa62-111bdb8e96)
-- [local-section:6862884fab300a6a9ab1f6e3 — W40-29 — Phase list-decoding inequality; p=.006](../records/0150.md#local-section-6862884fab300a6a9ab1f6e3-70e115d77d)
-- [local-section:687096acc98d6a5a8e4d4097 — 3.5 Complete shell Gram and damping](../records/0150.md#local-section-687096acc98d6a5a8e4d4097-ea8f83aae5)
+- [local-section:6862884fab300a6a9ab1f6e3 — W40-29 — Phase list-decoding inequality; p=.006](../records/0151.md#local-section-6862884fab300a6a9ab1f6e3-70e115d77d)
+- [local-section:687096acc98d6a5a8e4d4097 — 3.5 Complete shell Gram and damping](../records/0151.md#local-section-687096acc98d6a5a8e4d4097-ea8f83aae5)
 - [local-section:68839056246491ee4c620e2f — 3. Fixed amplifier family and simultaneous applicability](../records/0151.md#local-section-68839056246491ee4c620e2f-47f0a9a5ef)
 - [local-section:68af9fa54ed1674d7f9fc3c2 — 3. Reciprocal replenishment and the finite bootstrap](../records/0151.md#local-section-68af9fa54ed1674d7f9fc3c2-924bc126f8)
 - [local-section:68bcff28cb956f3fda29f1d0 — 3. Original canonical and completed coefficients](../records/0151.md#local-section-68bcff28cb956f3fda29f1d0-910b6c87d1)
@@ -231,8 +233,8 @@ Page 32/43; 10584 matching records.
 - [local-section:70376851109010644d97af33 — 5. Low/high branches, missing labels and all-height scope](../records/0151.md#local-section-70376851109010644d97af33-41ed5c4166)
 - [local-section:703b69adbc6e977c9255ad82 — 2.3 Complete return, thresholds and remaining arithmetic](../records/0151.md#local-section-703b69adbc6e977c9255ad82-bf2e3ae659)
 - [local-section:70815b74dc189bc4e4a38d39 — G105. Exact continuation classes, reconstructed amplitudes and contours](../records/0151.md#local-section-70815b74dc189bc4e4a38d39-8c5af61196)
-- [local-section:70a513d8d02583c37e0363cd — F09. Adaptive exceptional-mode vector probes](../records/0151.md#local-section-70a513d8d02583c37e0363cd-5d99cbb330)
-- [local-section:70be33c07dc6a861b2dea970 — 4. A matching diagonal obstruction in the comparison class](../records/0151.md#local-section-70be33c07dc6a861b2dea970-865f08426e)
+- [local-section:70a513d8d02583c37e0363cd — F09. Adaptive exceptional-mode vector probes](../records/0152.md#local-section-70a513d8d02583c37e0363cd-5d99cbb330)
+- [local-section:70be33c07dc6a861b2dea970 — 4. A matching diagonal obstruction in the comparison class](../records/0152.md#local-section-70be33c07dc6a861b2dea970-865f08426e)
 - [local-section:70efff50d550a29dccabd47f — 4. Tilted local theorem and every physical branch](../records/0152.md#local-section-70efff50d550a29dccabd47f-5845564711)
 - [local-section:70f53554aaaec4da40c89786 — 3. Actual source identity, floor geometry and profile](../records/0152.md#local-section-70f53554aaaec4da40c89786-fbaa3a1fc4)
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0152.md#local-section-7126758558c81c5469a39021-04d1da4174)
@@ -256,5 +258,3 @@ Page 32/43; 10584 matching records.
 - [local-section:7298125b919bc983cad5d749 — 6. Uniform ordered prime density with sharp endpoints](../records/0152.md#local-section-7298125b919bc983cad5d749-b456f1b33e)
 - [local-section:72a8947857f7ff984ca5d55e — Comparison, source limits and verification](../records/0152.md#local-section-72a8947857f7ff984ca5d55e-55495fed68)
 - [local-section:72cf7da5834812d3bdaa0cb6 — 28. Retained first-support reserve and partial marked-plain density](../records/0152.md#local-section-72cf7da5834812d3bdaa0cb6-901e712ef4)
-- [local-section:72d432598ccad91ad6f91984 — Full-cutoff positive moment: a direct return without the baseline](../records/0152.md#local-section-72d432598ccad91ad6f91984-4899ae08a7)
-- [local-section:7315d4f108b9bbfc06ed15d9 — Natural holes at the new frequency](../records/0152.md#local-section-7315d4f108b9bbfc06ed15d9-34f9b3077d)

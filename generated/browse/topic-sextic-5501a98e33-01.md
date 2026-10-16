@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 494 matching records.
+Page 1/2; 495 matching records.
 
 [Next](topic-sextic-5501a98e33-02.md)
 
@@ -61,6 +61,7 @@ Page 1/2; 494 matching records.
 - [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
 - [QRH-CONT-R034-PRIME-OVERLAP-MOMENT — Exact selected/full prime overlap and a short-product moment with repeated primes](../records/0131.md#qrh-cont-r034-prime-overlap-moment-7c0306af14)
 - [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
+- [QRH-CONT-R050-OVERLAPPING-MARKED-INVERSE — Marked sixth-power amplification and fixed-slot overlapping-pool reduction](../records/0131.md#qrh-cont-r050-overlapping-marked-inverse-455e829199)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0137.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
 - [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0137.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
@@ -86,7 +87,7 @@ Page 1/2; 494 matching records.
 - [local-section:0d63031e38d91b9fa5050f0b — \[research revision\]: coupling the original slot width to a finite amplifier atlas](../records/0139.md#local-section-0d63031e38d91b9fa5050f0b-bd75e5ce3d)
 - [local-section:0deb294e62e4267c57e6ceed — A slot-weighted high-bin estimate and a candidate c = .12514](../records/0139.md#local-section-0deb294e62e4267c57e6ceed-c437dd7048)
 - [local-section:0f8d17cdaf42d1670e4be6a8 — Accepted input packages](../records/0139.md#local-section-0f8d17cdaf42d1670e4be6a8-3b5dc21d96)
-- [local-section:128df8b541e28ea33920a5f6 — 1. Result and exact boundary](../records/0139.md#local-section-128df8b541e28ea33920a5f6-2ba139126c)
+- [local-section:128df8b541e28ea33920a5f6 — 1. Result and exact boundary](../records/0140.md#local-section-128df8b541e28ea33920a5f6-2ba139126c)
 - [local-section:135f2d4b7dec2a2cf76f3e00 — Source and discovery record](../records/0140.md#local-section-135f2d4b7dec2a2cf76f3e00-52fec6bd6a)
 - [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
@@ -135,7 +136,7 @@ Page 1/2; 494 matching records.
 - [local-section:308dc4fcb4c78ceaeaad739f — 4. The full forced exceptional count](../records/0143.md#local-section-308dc4fcb4c78ceaeaad739f-3ed2c54ad3)
 - [local-section:32913ec7134a0e926287eb4c — Corrections that must survive integration](../records/0143.md#local-section-32913ec7134a0e926287eb4c-96749fca6c)
 - [local-section:332b0ac5856c137e26badad2 — D. Secondary survivors and quantitative reopen conditions](../records/0143.md#local-section-332b0ac5856c137e26badad2-20129faa49)
-- [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0143.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
+- [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0144.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0144.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
 - [local-section:35394c0ef68a595f98f507c7 — \[research revision\]: original-prime H covariance — bounded development](../records/0144.md#local-section-35394c0ef68a595f98f507c7-e25a7848d5)
@@ -166,7 +167,7 @@ Page 1/2; 494 matching records.
 - [local-section:49c9fe4fa856ce9541fd1b7e — 1. Verdict and exact scope](../records/0146.md#local-section-49c9fe4fa856ce9541fd1b7e-9f8cdf827b)
 - [local-section:4a212d79357474b7a0dc7742 — Restricted provenance locator](../records/0146.md#local-section-4a212d79357474b7a0dc7742-a9568f9277)
 - [local-section:4a2a39ff11a263661588cf66 — A01. The coherent unembedded nonzero sextic aggregate](../records/0146.md#local-section-4a2a39ff11a263661588cf66-2c065fa01f)
-- [local-section:4ac4b3d457188a61be8f97cf — 6. Exact gain and a proved obstruction to a tempting iteration](../records/0146.md#local-section-4ac4b3d457188a61be8f97cf-8903901336)
+- [local-section:4ac4b3d457188a61be8f97cf — 6. Exact gain and a proved obstruction to a tempting iteration](../records/0147.md#local-section-4ac4b3d457188a61be8f97cf-8903901336)
 - [local-section:4adfcd9927c7a778aede1351 — Source and inherited payment](../records/0147.md#local-section-4adfcd9927c7a778aede1351-f62a89760a)
 - [local-section:4be025221ce9aa2c49d8c5a9 — 4. Consequential corrections and unresolved assertions](../records/0147.md#local-section-4be025221ce9aa2c49d8c5a9-57ab4bff2a)
 - [local-section:4c021f37a5f4d8a69869f3e3 — 1. Evidence and conventions](../records/0147.md#local-section-4c021f37a5f4d8a69869f3e3-69cba18b83)
@@ -255,4 +256,3 @@ Page 1/2; 494 matching records.
 - [local-section:7d78add8abad96a2987c0793 — 9. What is proved, what is not, and next action](../records/0153.md#local-section-7d78add8abad96a2987c0793-9a0f251255)
 - [local-section:7dbf76f5b1166499c4f8d3bc — All arithmetic and terminal branches](../records/0153.md#local-section-7dbf76f5b1166499c4f8d3bc-9b16965a8f)
 - [local-section:7e20b3e5e6fbf78f646eb9a5 — F04. Sextic reflection, physical covariance, probe and numerator](../records/0153.md#local-section-7e20b3e5e6fbf78f646eb9a5-f250f8de2e)
-- [local-section:7eea77463838b863b1985ed9 — Surviving mechanism and direct-return boundary](../records/0153.md#local-section-7eea77463838b863b1985ed9-e67f9928f1)

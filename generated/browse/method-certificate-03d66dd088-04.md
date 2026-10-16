@@ -9,7 +9,7 @@ Page 4/4; 777 matching records.
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0173.md#local-g291-a2d579dcd5)
 - [local:G299 — G299. Signed minimum telescoping, erased zero signal and divergent positive inverse](../records/0173.md#local-g299-29e34bc7a7)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
-- [local:G305 — G305. Global positive-quadratic endpoint certificates with explicit denominator and domain gates](../records/0173.md#local-g305-cfe213f8d4)
+- [local:G305 — G305. Global positive-quadratic endpoint certificates with explicit denominator and domain gates](../records/0174.md#local-g305-cfe213f8d4)
 - [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0174.md#local-g309-cb6cfa996e)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0174.md#local-g5-edf12c141c)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)

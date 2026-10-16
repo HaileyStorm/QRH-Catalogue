@@ -23,7 +23,7 @@ Page 1/1; 54 matching records.
 - [local-section:26376828d0ad2a295bcac03b — 2. Six first tests](../records/0142.md#local-section-26376828d0ad2a295bcac03b-578cb9fde8)
 - [local-section:306961b2b544a1fa857b3183 — \[research revision\] next headroom pass — actual Möbius inversion](../records/0143.md#local-section-306961b2b544a1fa857b3183-b44afef253)
 - [local-section:4f42bc1864dd208c8972d219 — 6. Exact high moment, paid sectors and positive price](../records/0147.md#local-section-4f42bc1864dd208c8972d219-f0073c64fd)
-- [local-section:59b2cd318603aabe75a48072 — 4. Multiplicative arithmetic and complex-height costs](../records/0148.md#local-section-59b2cd318603aabe75a48072-4d80068b31)
+- [local-section:59b2cd318603aabe75a48072 — 4. Multiplicative arithmetic and complex-height costs](../records/0149.md#local-section-59b2cd318603aabe75a48072-4d80068b31)
 - [local-section:5b0fa0440f6d541d8f4e6a48 — User-directed quaternion norm intake (\[research revision\] amendment)](../records/0149.md#local-section-5b0fa0440f6d541d8f4e6a48-d8c1534226)
 - [local-section:5da736c5f459fdea2b79a8f8 — Frozen evidence and independence](../records/0149.md#local-section-5da736c5f459fdea2b79a8f8-827b485fbc)
 - [local-section:5f983b2df70089500e82512d — 1. Literal source and quaternion conventions](../records/0149.md#local-section-5f983b2df70089500e82512d-1d78fd1146)

@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 65/71; 17531 matching records.
+Page 65/71; 17533 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-64.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
+- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::error_product_expansion@508 — error_product_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-error-produ-e76b36ddd9)
+- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteCoefficient@453 — finiteCoefficient](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitecoeff-caaf29959a)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteScale@456 — finiteScale](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitescale-2340483ded)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteScale_one_le@459 — finiteScale_one_le](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitescale-a2062944d0)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finite_packet_expansion@473 — finite_packet_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finite-pack-be5e42c6ef)
@@ -87,8 +89,8 @@ Page 65/71; 17531 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::QuadraticCoefficients.vector@441 — QuadraticCoefficients.vector](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-quadratic-206ff0a2ad)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actualUnramifiedCoefficients@457 — actualUnramifiedCoefficients](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actualunr-d4c9edc033)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_coefficient_mass@545 — actual_unramified_coefficient_mass](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-036bfb4988)
-- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_expansion@522 — actual_unramified_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-e75404bd90)
-- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_expansion@464 — actual_unramified_local_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-16a1637f29)
+- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_expansion@522 — actual_unramified_expansion](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-e75404bd90)
+- [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_expansion@464 — actual_unramified_local_expansion](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-16a1637f29)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_mass@489 — actual_unramified_local_mass](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-a89e9328a9)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::actual_unramified_local_mass_summable@508 — actual_unramified_local_mass_summable](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-actual-un-404849999f)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPrimeExpansion::primeScale@455 — primeScale](../records/0204.md#pr26-cycle25-numerator-imported-numeratorprimeexpansion-primescal-be1f65e498)
@@ -187,8 +189,8 @@ Page 65/71; 17531 matching records.
 - [pr26:Cycle25.Numerator.Imported.Parameters::extended_row_supply@85 — extended_row_supply](../records/0204.md#pr26-cycle25-numerator-imported-parameters-extended-row-supply-85-7d027383e8)
 - [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0204.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
 - [pr26:Cycle25.Numerator.Imported.Parameters::h@32 — h](../records/0204.md#pr26-cycle25-numerator-imported-parameters-h-32-01c5e2b77f)
-- [pr26:Cycle25.Numerator.Imported.Parameters::h_gt_half@72 — h_gt_half](../records/0204.md#pr26-cycle25-numerator-imported-parameters-h-gt-half-72-fad7f8034e)
-- [pr26:Cycle25.Numerator.Imported.Parameters::h_lt_one@73 — h_lt_one](../records/0204.md#pr26-cycle25-numerator-imported-parameters-h-lt-one-73-71310b037f)
+- [pr26:Cycle25.Numerator.Imported.Parameters::h_gt_half@72 — h_gt_half](../records/0205.md#pr26-cycle25-numerator-imported-parameters-h-gt-half-72-fad7f8034e)
+- [pr26:Cycle25.Numerator.Imported.Parameters::h_lt_one@73 — h_lt_one](../records/0205.md#pr26-cycle25-numerator-imported-parameters-h-lt-one-73-71310b037f)
 - [pr26:Cycle25.Numerator.Imported.Parameters::h_pos@71 — h_pos](../records/0205.md#pr26-cycle25-numerator-imported-parameters-h-pos-71-e7f2b72af5)
 - [pr26:Cycle25.Numerator.Imported.Parameters::kappa@33 — kappa](../records/0205.md#pr26-cycle25-numerator-imported-parameters-kappa-33-2baa4dc30e)
 - [pr26:Cycle25.Numerator.Imported.Parameters::kappa_admissible@48 — kappa_admissible](../records/0205.md#pr26-cycle25-numerator-imported-parameters-kappa-admissible-48-3517692c7c)
@@ -256,5 +258,3 @@ Page 65/71; 17531 matching records.
 - [pr26:Cycle25.Numerator.PhysicalFront — Cycle25.Numerator.PhysicalFront](../records/0205.md#pr26-cycle25-numerator-physicalfront-6851caa312)
 - [pr26:Cycle25.Numerator.PhysicalFront::error_main_scale_product@756 — error_main_scale_product](../records/0205.md#pr26-cycle25-numerator-physicalfront-error-main-scale-product-756-be154c441c)
 - [pr26:Cycle25.Numerator.PhysicalFront::error_main_source_scale@766 — error_main_source_scale](../records/0205.md#pr26-cycle25-numerator-physicalfront-error-main-source-scale-766-82d6416a44)
-- [pr26:Cycle25.Numerator.PhysicalFront::frequencyWeight_dyad_bound@593 — frequencyWeight_dyad_bound](../records/0205.md#pr26-cycle25-numerator-physicalfront-frequencyweight-dyad-bound-5-975a4e3a63)
-- [pr26:Cycle25.Numerator.PhysicalFront::frequencyWeight_source_conductor_bound@779 — frequencyWeight_source_conductor_bound](../records/0205.md#pr26-cycle25-numerator-physicalfront-frequencyweight-source-condu-21eea85ed9)
