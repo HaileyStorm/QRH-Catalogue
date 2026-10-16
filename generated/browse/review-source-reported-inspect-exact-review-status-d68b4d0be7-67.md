@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 67/71; 17525 matching records.
+Page 67/71; 17527 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
+- [pr26:Global.Low.Detector.LowRemoteMass::compensation_scale_mass_bound@144 — compensation_scale_mass_bound](../records/0208.md#pr26-global-low-detector-lowremotemass-compensation-scale-mass-bo-96a5e7e8eb)
+- [pr26:Global.Low.Detector.LowRemoteMass::slotProduct_norm_ge_one@126 — slotProduct_norm_ge_one](../records/0208.md#pr26-global-low-detector-lowremotemass-slotproduct-norm-ge-one-12-6e8c421769)
 - [pr26:Global.Low.Detector.LowSelectedBound — Global.Low.Detector.LowSelectedBound](../records/0208.md#pr26-global-low-detector-lowselectedbound-212932768b)
 - [pr26:Global.Low.Detector.LowSelectedBound::gaussianFixedWindow_support@705 — gaussianFixedWindow_support](../records/0208.md#pr26-global-low-detector-lowselectedbound-gaussianfixedwindow-sup-9ce65c1146)
 - [pr26:Global.Low.Detector.LowSelectedBound::lowReflectionMask_bad_ideals@711 — lowReflectionMask_bad_ideals](../records/0208.md#pr26-global-low-detector-lowselectedbound-lowreflectionmask-bad-i-ebffe1d412)
@@ -87,8 +89,8 @@ Page 67/71; 17525 matching records.
 - [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_analytic_w@591 — weighted_globalClosedCorrection_analytic_w](../records/0208.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-92a596d636)
 - [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_analytic_x@576 — weighted_globalClosedCorrection_analytic_x](../records/0208.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-a9ca4a0d4a)
 - [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_analytic_z@607 — weighted_globalClosedCorrection_analytic_z](../records/0208.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-62e15aa155)
-- [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_bound@553 — weighted_globalClosedCorrection_bound](../records/0208.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-1d9e14fab3)
-- [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_multipliable@561 — weighted_globalClosedCorrection_multipliable](../records/0208.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-0dad5cf4d0)
+- [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_bound@553 — weighted_globalClosedCorrection_bound](../records/0209.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-1d9e14fab3)
+- [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_multipliable@561 — weighted_globalClosedCorrection_multipliable](../records/0209.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-0dad5cf4d0)
 - [pr26:Global.Low.RegionalCorrection::weighted_idealClosedCorrection_bound@540 — weighted_idealClosedCorrection_bound](../records/0209.md#pr26-global-low-regionalcorrection-weighted-idealclosedcorrection-97283f9a8b)
 - [pr26:Global.Low.RegionalCorrection::weighted_open_region_denominators@490 — weighted_open_region_denominators](../records/0209.md#pr26-global-low-regionalcorrection-weighted-open-region-denominat-4daca30db1)
 - [pr26:Global.Low.RegionalCorrection::weighted_unramifiedClosed_analytic_w@520 — weighted_unramifiedClosed_analytic_w](../records/0209.md#pr26-global-low-regionalcorrection-weighted-unramifiedclosed-anal-cd3b69aff1)
@@ -187,8 +189,8 @@ Page 67/71; 17525 matching records.
 - [pr26:Global.Numerator.SourcePrimeBins::weighted_source_prime_bins@256 — weighted_source_prime_bins](../records/0209.md#pr26-global-numerator-sourceprimebins-weighted-source-prime-bins--c542285178)
 - [pr26:Global.Numerator.SourceSelection — Global.Numerator.SourceSelection](../records/0209.md#pr26-global-numerator-sourceselection-c1d32b9f6e)
 - [pr26:Global.Numerator.SourceSelection::amplitude_class_main_upper@848 — amplitude_class_main_upper](../records/0209.md#pr26-global-numerator-sourceselection-amplitude-class-main-upper--31888fce4e)
-- [pr26:Global.Numerator.SourceSelection::masked_main_product_upper@701 — masked_main_product_upper](../records/0209.md#pr26-global-numerator-sourceselection-masked-main-product-upper-7-6428af9ec1)
-- [pr26:Global.Numerator.SourceSelection::source_class_main_selection@756 — source_class_main_selection](../records/0209.md#pr26-global-numerator-sourceselection-source-class-main-selection-93ce86324c)
+- [pr26:Global.Numerator.SourceSelection::masked_main_product_upper@701 — masked_main_product_upper](../records/0210.md#pr26-global-numerator-sourceselection-masked-main-product-upper-7-6428af9ec1)
+- [pr26:Global.Numerator.SourceSelection::source_class_main_selection@756 — source_class_main_selection](../records/0210.md#pr26-global-numerator-sourceselection-source-class-main-selection-93ce86324c)
 - [pr26:Global.Numerator.SourceSelection::source_count_physical_eq@740 — source_count_physical_eq](../records/0210.md#pr26-global-numerator-sourceselection-source-count-physical-eq-74-597bb1be33)
 - [pr26:Global.Numerator.SourceSelection::source_selected_product_crude@868 — source_selected_product_crude](../records/0210.md#pr26-global-numerator-sourceselection-source-selected-product-cru-d06cb4e708)
 - [pr26:Global.Numerator.SourceSelection::squared_selected_lower@836 — squared_selected_lower](../records/0210.md#pr26-global-numerator-sourceselection-squared-selected-lower-836-220cd91ad7)
@@ -256,5 +258,3 @@ Page 67/71; 17525 matching records.
 - [pr26:Global.Transport.CanonicalReduction — Global.Transport.CanonicalReduction](../records/0210.md#pr26-global-transport-canonicalreduction-f6bd51750c)
 - [pr26:Global.Transport.CanonicalReduction::canonical_probe_minus_central@351 — canonical_probe_minus_central](../records/0210.md#pr26-global-transport-canonicalreduction-canonical-probe-minus-ce-f97b92533d)
 - [pr26:Global.Transport.CanonicalTails — Global.Transport.CanonicalTails](../records/0210.md#pr26-global-transport-canonicaltails-773bc34b0e)
-- [pr26:Global.Transport.CanonicalTails::canonical_large_original_tail@594 — canonical_large_original_tail](../records/0210.md#pr26-global-transport-canonicaltails-canonical-large-original-tai-de543e2718)
-- [pr26:Global.Transport.CanonicalTails::canonical_small_original_tail@558 — canonical_small_original_tail](../records/0210.md#pr26-global-transport-canonicaltails-canonical-small-original-tai-6ed9922938)

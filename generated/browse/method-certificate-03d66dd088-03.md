@@ -85,7 +85,7 @@ Page 3/4; 777 matching records.
 - [local-section:c2c32d1288ca1b9794e46ec0 — G129. Actual divisor Bellman identity and a scoped price](../records/0162.md#local-section-c2c32d1288ca1b9794e46ec0-245c4c192a)
 - [local-section:c33f4c72515d0d52cf5ae8ec — 8. Evidence and unresolved scope](../records/0162.md#local-section-c33f4c72515d0d52cf5ae8ec-4b2813e4a3)
 - [local-section:c40f08cb34220921d3baeb51 — Independent review of the actual R4 nonunique companion](../records/0162.md#local-section-c40f08cb34220921d3baeb51-1d7034bae7)
-- [local-section:c53092bfe86b28b080e31a83 — 4. Other actual first tests and their limits](../records/0162.md#local-section-c53092bfe86b28b080e31a83-bb2282f07d)
+- [local-section:c53092bfe86b28b080e31a83 — 4. Other actual first tests and their limits](../records/0163.md#local-section-c53092bfe86b28b080e31a83-bb2282f07d)
 - [local-section:c582165b33e7bfa0986e54a7 — 9. A separate quantitative anchor: delta=2 really has an inverse](../records/0163.md#local-section-c582165b33e7bfa0986e54a7-4bb610826e)
 - [local-section:c5c30bdfcc4987fbf42f963e — H: simultaneous product intervals and the exact far mask](../records/0163.md#local-section-c5c30bdfcc4987fbf42f963e-4a39c6bfd4)
 - [local-section:c5dc2f5ca8e653cd5026f66c — G96. The complete shrinking-arc return and finite signed core](../records/0163.md#local-section-c5dc2f5ca8e653cd5026f66c-78d8886f8d)

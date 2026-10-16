@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 55/71; 17525 matching records.
+Page 55/71; 17527 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-54.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-56.md)
 
+- [pr26:Analytic.JointCoherentExceptionalPower — Analytic.JointCoherentExceptionalPower](../records/0178.md#pr26-analytic-jointcoherentexceptionalpower-1495ffcb40)
+- [pr26:Analytic.JointCoherentExceptionalPower::actual_coherent_exceptional_scalar_uniform@90 — actual_coherent_exceptional_scalar_uniform](../records/0178.md#pr26-analytic-jointcoherentexceptionalpower-actual-coherent-excep-1012dbe4fb)
 - [pr26:Analytic.JointCoherentExceptionalPower::coherent_exceptional_column_power@55 — coherent_exceptional_column_power](../records/0178.md#pr26-analytic-jointcoherentexceptionalpower-coherent-exceptional--4a3be2decc)
 - [pr26:Analytic.JointCoherentExceptionalProfile — Analytic.JointCoherentExceptionalProfile](../records/0178.md#pr26-analytic-jointcoherentexceptionalprofile-441c63950a)
 - [pr26:Analytic.JointCoherentExceptionalProfile::coherentExceptionalProfile_exact@84 — coherentExceptionalProfile_exact](../records/0178.md#pr26-analytic-jointcoherentexceptionalprofile-coherentexceptional-8c69ffee33)
@@ -87,8 +89,8 @@ Page 55/71; 17525 matching records.
 - [pr26:Analytic.JointCommonFiberMass::actual_common_fiber_mass@809 — actual_common_fiber_mass](../records/0178.md#pr26-analytic-jointcommonfibermass-actual-common-fiber-mass-809-c922710a36)
 - [pr26:Analytic.JointCommonFiberMass::actual_common_physical_fiber_mass@840 — actual_common_physical_fiber_mass](../records/0178.md#pr26-analytic-jointcommonfibermass-actual-common-physical-fiber-m-985303f0a1)
 - [pr26:Analytic.JointCommonFiberMass::commonSourceProfile@753 — commonSourceProfile](../records/0178.md#pr26-analytic-jointcommonfibermass-commonsourceprofile-753-19dd63a03b)
-- [pr26:Analytic.JointCommonFiberMass::commonSourceProfile_nonneg@756 — commonSourceProfile_nonneg](../records/0178.md#pr26-analytic-jointcommonfibermass-commonsourceprofile-nonneg-756-16070e0c5f)
-- [pr26:Analytic.JointCommonFiberMass::secondCommonVolume_identity@760 — secondCommonVolume_identity](../records/0178.md#pr26-analytic-jointcommonfibermass-secondcommonvolume-identity-76-5c7bc6a770)
+- [pr26:Analytic.JointCommonFiberMass::commonSourceProfile_nonneg@756 — commonSourceProfile_nonneg](../records/0179.md#pr26-analytic-jointcommonfibermass-commonsourceprofile-nonneg-756-16070e0c5f)
+- [pr26:Analytic.JointCommonFiberMass::secondCommonVolume_identity@760 — secondCommonVolume_identity](../records/0179.md#pr26-analytic-jointcommonfibermass-secondcommonvolume-identity-76-5c7bc6a770)
 - [pr26:Analytic.JointCommonFiberMass::secondCommonWeightAt_norm_bound@801 — secondCommonWeightAt_norm_bound](../records/0179.md#pr26-analytic-jointcommonfibermass-secondcommonweightat-norm-boun-b3cc204105)
 - [pr26:Analytic.JointCommonFiberMass::secondCommonWeightAt_sq@767 — secondCommonWeightAt_sq](../records/0179.md#pr26-analytic-jointcommonfibermass-secondcommonweightat-sq-767-216f2d96c7)
 - [pr26:Analytic.JointCommonFiberMass::secondCommonWeightAt_sq_bound@781 — secondCommonWeightAt_sq_bound](../records/0179.md#pr26-analytic-jointcommonfibermass-secondcommonweightat-sq-bound--bb04bd50fe)
@@ -187,8 +189,8 @@ Page 55/71; 17525 matching records.
 - [pr26:Analytic.JointExceptionalFirstContribution::Admissible@74 — Admissible](../records/0179.md#pr26-analytic-jointexceptionalfirstcontribution-admissible-74-7a9fc52389)
 - [pr26:Analytic.JointExceptionalFirstContribution::MainExceptionalRun@49 — MainExceptionalRun](../records/0179.md#pr26-analytic-jointexceptionalfirstcontribution-mainexceptionalru-a153b79ce9)
 - [pr26:Analytic.JointExceptionalFirstContribution::actual_first_allocated_exceptional_sum@149 — actual_first_allocated_exceptional_sum](../records/0179.md#pr26-analytic-jointexceptionalfirstcontribution-actual-first-allo-09e92f9cbe)
-- [pr26:Analytic.JointExceptionalFirstContribution::actual_local_main_exceptional_runs@98 — actual_local_main_exceptional_runs](../records/0179.md#pr26-analytic-jointexceptionalfirstcontribution-actual-local-main-de31387073)
-- [pr26:Analytic.JointExceptionalFirstContribution::normalizedValue@62 — normalizedValue](../records/0179.md#pr26-analytic-jointexceptionalfirstcontribution-normalizedvalue-6-fa2860f6f9)
+- [pr26:Analytic.JointExceptionalFirstContribution::actual_local_main_exceptional_runs@98 — actual_local_main_exceptional_runs](../records/0180.md#pr26-analytic-jointexceptionalfirstcontribution-actual-local-main-de31387073)
+- [pr26:Analytic.JointExceptionalFirstContribution::normalizedValue@62 — normalizedValue](../records/0180.md#pr26-analytic-jointexceptionalfirstcontribution-normalizedvalue-6-fa2860f6f9)
 - [pr26:Analytic.JointExceptionalLedger — Analytic.JointExceptionalLedger](../records/0180.md#pr26-analytic-jointexceptionalledger-160add6f99)
 - [pr26:Analytic.JointExceptionalLedger::actual_enlarged_first_saving@575 — actual_enlarged_first_saving](../records/0180.md#pr26-analytic-jointexceptionalledger-actual-enlarged-first-saving-82f35aef81)
 - [pr26:Analytic.JointExceptionalLedger::actual_local_exceptional_error_child@638 — actual_local_exceptional_error_child](../records/0180.md#pr26-analytic-jointexceptionalledger-actual-local-exceptional-err-08745a0c53)
@@ -256,5 +258,3 @@ Page 55/71; 17525 matching records.
 - [pr26:Analytic.JointFirstAnnularFixed — Analytic.JointFirstAnnularFixed](../records/0180.md#pr26-analytic-jointfirstannularfixed-427c899bc0)
 - [pr26:Analytic.JointFirstAnnularFixed::actual_literal_first_annular_targets_fixed@41 — actual_literal_first_annular_targets_fixed](../records/0180.md#pr26-analytic-jointfirstannularfixed-actual-literal-first-annular-eda81b78c2)
 - [pr26:Analytic.JointFirstAnnularHighJoin — Analytic.JointFirstAnnularHighJoin](../records/0180.md#pr26-analytic-jointfirstannularhighjoin-de6ff131aa)
-- [pr26:Analytic.JointFirstAnnularHighJoin::actual_literal_first_annular_targets_of_high@870 — actual_literal_first_annular_targets_of_high](../records/0180.md#pr26-analytic-jointfirstannularhighjoin-actual-literal-first-annu-a64d5a07f1)
-- [pr26:Analytic.JointFirstAnnularHighJoin::firstLiteralAnnularEnergy@854 — firstLiteralAnnularEnergy](../records/0180.md#pr26-analytic-jointfirstannularhighjoin-firstliteralannularenergy-3d7d93413a)

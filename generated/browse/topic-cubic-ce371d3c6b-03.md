@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 544 matching records.
+Page 3/3; 545 matching records.
 
 [Previous](topic-cubic-ce371d3c6b-02.md)
 
+- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G219 — G219. Actual principal channels and the cheapest generic price](../records/0173.md#local-g219-b390f41fe3)
 - [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0173.md#local-g252-64bd5a4ae5)
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)

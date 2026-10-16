@@ -23,7 +23,7 @@ Page 5/5; 1071 matching records.
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
 - [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0173.md#local-g301-26a5fe5643)
 - [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0173.md#local-g310-39134eeca1)
-- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
+- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)
 - [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0174.md#local-g68-8d260df78f)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)

@@ -227,7 +227,7 @@ Page 1/5; 1071 matching records.
 - [local-section:11c4828e2ec3f8dad4ba9861 — G184. Ambient lower prices and fixed-phase compatibility](../records/0139.md#local-section-11c4828e2ec3f8dad4ba9861-73e122915c)
 - [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0139.md#local-section-11eb0e49462494399ea90080-bef6786726)
 - [local-section:120afe3f057270e2275d23a0 — \[research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0139.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
-- [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0139.md#local-section-131afc849327a89df717f91e-446c8d89e1)
+- [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0140.md#local-section-131afc849327a89df717f91e-446c8d89e1)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
 - [local-section:13ef8507f522dfa9043aafaf — 3.3 Complete physical-shell restoration](../records/0140.md#local-section-13ef8507f522dfa9043aafaf-c711a9aaea)

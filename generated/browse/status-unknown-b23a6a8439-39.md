@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10578 matching records.
+Page 39/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
 [Next](status-unknown-b23a6a8439-40.md)
 
+- [local-section:f8733caf9ff610bdfa9a0b2a — The complete c7 endpoint](../records/0169.md#local-section-f8733caf9ff610bdfa9a0b2a-8c34d6fc25)
+- [local-section:f87e81647d6f92ec1e119e04 — Frozen generation and sampling](../records/0169.md#local-section-f87e81647d6f92ec1e119e04-450e30340b)
 - [local-section:f8f1c127ce5124fbe21dbc3a — 7. Exact all-branch linear-probe transfer](../records/0169.md#local-section-f8f1c127ce5124fbe21dbc3a-a3be4c5aca)
 - [local-section:f9297f4a4d8a4b2f88846290 — 4.2 Whole nonlinear kernel and the low/high split](../records/0169.md#local-section-f9297f4a4d8a4b2f88846290-2ca26ef3ff)
 - [local-section:f92d7a275257b0519ac9cd1c — 3a(ii). A cheaper coherent source approximation, and a principal tail theorem](../records/0169.md#local-section-f92d7a275257b0519ac9cd1c-0c45f47544)
@@ -34,8 +36,8 @@ Page 39/43; 10578 matching records.
 - [local-section:fb65af9e764b858d998f91e4 — Explicit endpoint constants for the common fixed filter](../records/0169.md#local-section-fb65af9e764b858d998f91e4-279bc3d539)
 - [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0169.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
 - [local-section:fc0234a9a00a786dcde76465 — The actual close-point Gram and its normalization](../records/0169.md#local-section-fc0234a9a00a786dcde76465-f900fe1880)
-- [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0169.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
-- [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0169.md#local-section-fc2c99a526ece62caf359d66-9738608419)
+- [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0170.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
+- [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0170.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0170.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0170.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
@@ -113,7 +115,7 @@ Page 39/43; 10578 matching records.
 - [local:G109 — G109. Fixed countable banks, exact buffering and the complete source](../records/0171.md#local-g109-fab6e1e2f7)
 - [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0171.md#local-g110-07e53448ee)
 - [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0171.md#local-g112-576f044b32)
-- [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0171.md#local-g113-6c10bbc310)
+- [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0172.md#local-g113-6c10bbc310)
 - [local:G115 — 3. G115: complete cutoffs agree at the actual zero](../records/0172.md#local-g115-d13affe636)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)
 - [local:G117 — 2. G117: two precisely scoped certificate obstructions](../records/0172.md#local-g117-ec123049a5)
@@ -186,8 +188,8 @@ Page 39/43; 10578 matching records.
 - [local:G209 — G209. All thirteen collision types and the exact mixed-order source](../records/0172.md#local-g209-c243fafc07)
 - [local:G210 — G210. Unequal energies and all collision-label sums](../records/0172.md#local-g210-2b166add49)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
-- [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0172.md#local-g212-6e2dec84ed)
-- [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0172.md#local-g213-46d38d3f6e)
+- [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0173.md#local-g212-6e2dec84ed)
+- [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0173.md#local-g213-46d38d3f6e)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G216 — G216. Exact recovery, actual absolute cost and complete diagonal](../records/0173.md#local-g216-ffe0a34c47)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
@@ -207,8 +209,8 @@ Page 39/43; 10578 matching records.
 - [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0173.md#local-g275-c56c1a0489)
 - [local:G277 — G277. Prime-incidence gauge, residual charge and exact leaf energy fee](../records/0173.md#local-g277-351b226bb0)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
-- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
-- [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0173.md#local-g5-edf12c141c)
+- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
+- [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0174.md#local-g5-edf12c141c)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0174.md#local-g6-e89f333778)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)
 - [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0174.md#local-g68-8d260df78f)
@@ -256,5 +258,3 @@ Page 39/43; 10578 matching records.
 - [pr26:Analytic.ActualBinnedUniform — Analytic.ActualBinnedUniform](../records/0174.md#pr26-analytic-actualbinneduniform-680a7ce9af)
 - [pr26:Analytic.ActualBufferedCount — Analytic.ActualBufferedCount](../records/0174.md#pr26-analytic-actualbufferedcount-6859e3e9ee)
 - [pr26:Analytic.ActualBufferedUniform — Analytic.ActualBufferedUniform](../records/0174.md#pr26-analytic-actualbuffereduniform-a8f703eccf)
-- [pr26:Analytic.ActualErrorPower — Analytic.ActualErrorPower](../records/0174.md#pr26-analytic-actualerrorpower-e6fb213bdc)
-- [pr26:Analytic.ActualErrorPowerFull — Analytic.ActualErrorPowerFull](../records/0174.md#pr26-analytic-actualerrorpowerfull-2c07b981ca)

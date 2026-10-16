@@ -219,7 +219,7 @@ Page 1/3; 699 matching records.
 - [local-section:51180445d2d20784b3fe12c5 — 6. Growing signed Taylor completion and main-term evaluation](../records/0147.md#local-section-51180445d2d20784b3fe12c5-d9564e765b)
 - [local-section:5125ad184d0fc6370fb2e60e — 8. Paid sectors and literal f3 depth cancellation](../records/0147.md#local-section-5125ad184d0fc6370fb2e60e-b3012da587)
 - [local-section:51c5acf0ef8a80f133a3bcf0 — \[research revision\] rough-depth renewal — independent mathematical review](../records/0147.md#local-section-51c5acf0ef8a80f133a3bcf0-c0689a600b)
-- [local-section:52024a45216b27bf0fb0d0ba — 1. Verdict and scope](../records/0147.md#local-section-52024a45216b27bf0fb0d0ba-0f7c65b1ce)
+- [local-section:52024a45216b27bf0fb0d0ba — 1. Verdict and scope](../records/0148.md#local-section-52024a45216b27bf0fb0d0ba-0f7c65b1ce)
 - [local-section:52d349e6ef6534d2a5076d3e — Main term and all-order constants](../records/0148.md#local-section-52d349e6ef6534d2a5076d3e-3bfe7f94da)
 - [local-section:532941d7834c0d6520bc59f8 — Independent concrete-progress consultation review](../records/0148.md#local-section-532941d7834c0d6520bc59f8-3481adda79)
 - [local-section:53424e9c8396dc0d9044ff0e — 8. Uniform audit W47-11: heat trace, actual Gram and observation loss](../records/0148.md#local-section-53424e9c8396dc0d9044ff0e-95f3a020d3)

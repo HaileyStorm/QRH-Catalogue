@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 69/71; 17525 matching records.
+Page 69/71; 17527 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramifiedClosed_analytic_z@483 — remainder_unramifiedClosed_analytic_z](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-unramifi-6af553d90a)
+- [pr26:Global.Transport.PrincipalRemainderRegion::remainder_unramified_bound@381 — remainder_unramified_bound](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-unramifi-9026a490ee)
 - [pr26:Global.Transport.PrincipalRemainderResidueActual — Global.Transport.PrincipalRemainderResidueActual](../records/0213.md#pr26-global-transport-principalremainderresidueactual-04d1851033)
 - [pr26:Global.Transport.PrincipalRemainderResidueActual::actual_window_residue@544 — actual_window_residue](../records/0213.md#pr26-global-transport-principalremainderresidueactual-actual-wind-4d7b33488d)
 - [pr26:Global.Transport.PrincipalRemainderResidueActual::normalized_actual_window_residue@552 — normalized_actual_window_residue](../records/0213.md#pr26-global-transport-principalremainderresidueactual-normalized--ef210721a6)
@@ -87,8 +89,8 @@ Page 69/71; 17525 matching records.
 - [pr26:Global.Transport.SmallTail::small_physical_dyads_sum@692 — small_physical_dyads_sum](../records/0213.md#pr26-global-transport-smalltail-small-physical-dyads-sum-692-3401a8bad7)
 - [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0213.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
 - [pr26:Global.Transport.SourceAmplitudeClasses::actual_source_amplitude_batches@751 — actual_source_amplitude_batches](../records/0213.md#pr26-global-transport-sourceamplitudeclasses-actual-source-amplit-3a83456190)
-- [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0213.md#pr26-global-transport-tailscales-92c528c07f)
-- [pr26:Global.Transport.TailScales::large_source_scale@338 — large_source_scale](../records/0213.md#pr26-global-transport-tailscales-large-source-scale-338-5ba7febf31)
+- [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0214.md#pr26-global-transport-tailscales-92c528c07f)
+- [pr26:Global.Transport.TailScales::large_source_scale@338 — large_source_scale](../records/0214.md#pr26-global-transport-tailscales-large-source-scale-338-5ba7febf31)
 - [pr26:Global.Transport.TailScales::physical_scale_power@318 — physical_scale_power](../records/0214.md#pr26-global-transport-tailscales-physical-scale-power-318-4d6f3a797b)
 - [pr26:Global.Transport.TailScales::selected_scale_power@313 — selected_scale_power](../records/0214.md#pr26-global-transport-tailscales-selected-scale-power-313-6077ca918f)
 - [pr26:Global.Transport.TailScales::small_source_scale@328 — small_source_scale](../records/0214.md#pr26-global-transport-tailscales-small-source-scale-328-49b8fc2b9a)
@@ -187,8 +189,8 @@ Page 69/71; 17525 matching records.
 - [pr26:LocalMoment.SixthRowMask::amplified_positive_zeros@802 — amplified_positive_zeros](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-positive-zeros-802-a0256f8a62)
 - [pr26:LocalMoment.SixthRowMask::amplified_zeroMaximum@810 — amplified_zeroMaximum](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-zeromaximum-810-fdb7a6cba2)
 - [pr26:LocalMoment.SixthRowMask::inducedBy_self@777 — inducedBy_self](../records/0214.md#pr26-localmoment-sixthrowmask-inducedby-self-777-df7aca5872)
-- [pr26:LocalMoment.SixthRowMask::rowData_character_zero@727 — rowData_character_zero](../records/0214.md#pr26-localmoment-sixthrowmask-rowdata-character-zero-727-069536c568)
-- [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
+- [pr26:LocalMoment.SixthRowMask::rowData_character_zero@727 — rowData_character_zero](../records/0215.md#pr26-localmoment-sixthrowmask-rowdata-character-zero-727-069536c568)
+- [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
 - [pr26:LocalMoment.UniformDensity — LocalMoment.UniformDensity](../records/0215.md#pr26-localmoment-uniformdensity-025aabe80f)
@@ -256,5 +258,3 @@ Page 69/71; 17525 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh::actual_high_probe_from_raw_moments@30 — actual_high_probe_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-actua-d47c4635ba)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-f519a72c51)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral::actual_nonfloor_cube_norm@482 — actual_nonfloor_cube_norm](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-a-35adba16fa)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b9b6013520)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::RawMomentInput@630 — RawMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-0aec01540c)

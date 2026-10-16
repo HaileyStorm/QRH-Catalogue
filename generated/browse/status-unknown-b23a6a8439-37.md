@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 37/43; 10578 matching records.
+Page 37/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-36.md)
 
 [Next](status-unknown-b23a6a8439-38.md)
 
+- [local-section:cb9795e46c62958d0ea97454 — 6. Transfer to the actual C--C Poisson sector](../records/0163.md#local-section-cb9795e46c62958d0ea97454-3332d22bdd)
+- [local-section:cba2774b0a3d171f34f09e54 — 2. Principal characters: all q-smooth powers and moments are required](../records/0163.md#local-section-cba2774b0a3d171f34f09e54-3d8f70ded2)
 - [local-section:cbfd3226fc7e8263ece48f5b — 4. Development06: a source-exact polylogarithmic Gaussian compression](../records/0163.md#local-section-cbfd3226fc7e8263ece48f5b-eab9517860)
 - [local-section:cc05d9b2a55d5de5acbbc59f — \[research revision\] attempt delta](../records/0163.md#local-section-cc05d9b2a55d5de5acbbc59f-859ad67aca)
 - [local-section:cc217ce7d298b0c81a8d121a — 9. Every original free Euler shift and the empty-slot end](../records/0163.md#local-section-cc217ce7d298b0c81a8d121a-bbd5d02f72)
@@ -19,8 +21,8 @@ Page 37/43; 10578 matching records.
 - [local-section:ccae01d2b939db4bdc087268 — 2.1 LP_a and the disk chain](../records/0163.md#local-section-ccae01d2b939db4bdc087268-c5ad1c0cd4)
 - [local-section:ccb890d891820eab6bf816db — G203. A signed inner source does not rescue the outer positive budget](../records/0163.md#local-section-ccb890d891820eab6bf816db-6f95cf5e07)
 - [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0163.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
-- [local-section:ccdc64b9dcc1fbdd7eb2afba — Verification and next estimate](../records/0163.md#local-section-ccdc64b9dcc1fbdd7eb2afba-90d24bc51d)
-- [local-section:cce6349d90284b9d579c007f — 2. Forward smoothing survives forming the phase family](../records/0163.md#local-section-cce6349d90284b9d579c007f-444ab690ef)
+- [local-section:ccdc64b9dcc1fbdd7eb2afba — Verification and next estimate](../records/0164.md#local-section-ccdc64b9dcc1fbdd7eb2afba-90d24bc51d)
+- [local-section:cce6349d90284b9d579c007f — 2. Forward smoothing survives forming the phase family](../records/0164.md#local-section-cce6349d90284b9d579c007f-444ab690ef)
 - [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0164.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
 - [local-section:cd1fc251fefd95d918136912 — 5. Paid coherent and same-core sectors do not pay the remaining covariance](../records/0164.md#local-section-cd1fc251fefd95d918136912-fcb7843141)
 - [local-section:cd4125dddd28cdc8142134ba — G148. The unresolved joint estimate and the exact dependence obstruction](../records/0164.md#local-section-cd4125dddd28cdc8142134ba-a28b374b5d)
@@ -103,8 +105,8 @@ Page 37/43; 10578 matching records.
 - [local-section:d3e53c61aed1a16b7f48fa13 — 2. Source interfaces and the strongest applicability objection](../records/0164.md#local-section-d3e53c61aed1a16b7f48fa13-d2041b2a39)
 - [local-section:d3f4d0c05dbec25618e7c17b — 5. R1–8 and wildcard02: exact failure scope](../records/0164.md#local-section-d3f4d0c05dbec25618e7c17b-e7ff4d62fd)
 - [local-section:d42549c8b024c99e44db5b64 — 8. Result, limits, and next live action](../records/0164.md#local-section-d42549c8b024c99e44db5b64-1451e5b595)
-- [local-section:d4c40e516dedc1f5e1c2988c — 2.5 Positivity and the complete band to a terminal threshold](../records/0164.md#local-section-d4c40e516dedc1f5e1c2988c-6315f42b41)
-- [local-section:d4cb7e5d9264bd77562af174 — G108. Complete prime-block interactions and descendant errors](../records/0164.md#local-section-d4cb7e5d9264bd77562af174-d489992f7a)
+- [local-section:d4c40e516dedc1f5e1c2988c — 2.5 Positivity and the complete band to a terminal threshold](../records/0165.md#local-section-d4c40e516dedc1f5e1c2988c-6315f42b41)
+- [local-section:d4cb7e5d9264bd77562af174 — G108. Complete prime-block interactions and descendant errors](../records/0165.md#local-section-d4cb7e5d9264bd77562af174-d489992f7a)
 - [local-section:d4d0e7e4851da57ac4066542 — 10. Source attribution and acceptance boundaries](../records/0165.md#local-section-d4d0e7e4851da57ac4066542-0da05438f3)
 - [local-section:d4da15d75518b11a2d54a83c — \[research revision\]: full large-common-factor payment](../records/0165.md#local-section-d4da15d75518b11a2d54a83c-ba1df53739)
 - [local-section:d4ff0bd37d1fa9b40236fb9e — 10. Evidence and handoff](../records/0165.md#local-section-d4ff0bd37d1fa9b40236fb9e-f7967b6dbb)
@@ -192,8 +194,8 @@ Page 37/43; 10578 matching records.
 - [local-section:dae2097ca5c421142c1802ba — 4. The finite signed core and paid complements](../records/0165.md#local-section-dae2097ca5c421142c1802ba-0412a17547)
 - [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0165.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
 - [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0165.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
-- [local-section:daf014ed3d79cdc374dbb973 — New merge corollary: common-completed finite incidence is equivalent](../records/0165.md#local-section-daf014ed3d79cdc374dbb973-30cb82bce9)
-- [local-section:db1897b4dfa1a01a6b398abf — W40-08 — Inverse-L dispersion sum rule; p=.07](../records/0165.md#local-section-db1897b4dfa1a01a6b398abf-d96cf0f568)
+- [local-section:daf014ed3d79cdc374dbb973 — New merge corollary: common-completed finite incidence is equivalent](../records/0166.md#local-section-daf014ed3d79cdc374dbb973-30cb82bce9)
+- [local-section:db1897b4dfa1a01a6b398abf — W40-08 — Inverse-L dispersion sum rule; p=.07](../records/0166.md#local-section-db1897b4dfa1a01a6b398abf-d96cf0f568)
 - [local-section:db19ac43e174dd879d502c1f — A3. Full price of the proposed replacement](../records/0166.md#local-section-db19ac43e174dd879d502c1f-53723fc6cf)
 - [local-section:db2290e49df482bbac0d3747 — 3.2 Genuine selection and zero supply](../records/0166.md#local-section-db2290e49df482bbac0d3747-582622e9cf)
 - [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
@@ -256,5 +258,3 @@ Page 37/43; 10578 matching records.
 - [local-section:e160c539dca8358a6287482d — Independent review: arithmetic dilates and the localization deficit](../records/0166.md#local-section-e160c539dca8358a6287482d-3242286bd7)
 - [local-section:e1846c4a3f108f24ba446973 — 7. Evidence, limitations and precise next action](../records/0166.md#local-section-e1846c4a3f108f24ba446973-637d703b0e)
 - [local-section:e201a8824b1c3a79af90569c — 3. Exact proposed column and prime witness](../records/0166.md#local-section-e201a8824b1c3a79af90569c-4eb24944d9)
-- [local-section:e20f0317329f9449d1271406 — F01.M — The fixed rational Möbius energy](../records/0166.md#local-section-e20f0317329f9449d1271406-dbd82575af)
-- [local-section:e2149d471125be2ba956524b — 6. Other actual author tests](../records/0166.md#local-section-e2149d471125be2ba956524b-9373594299)

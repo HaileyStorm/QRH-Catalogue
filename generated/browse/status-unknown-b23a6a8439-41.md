@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 41/43; 10578 matching records.
+Page 41/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-40.md)
 
 [Next](status-unknown-b23a6a8439-42.md)
 
+- [pr26:Analytic.JointHighScalarSector — Analytic.JointHighScalarSector](../records/0186.md#pr26-analytic-jointhighscalarsector-f157f4aa40)
+- [pr26:Analytic.JointHighSecondRows — Analytic.JointHighSecondRows](../records/0186.md#pr26-analytic-jointhighsecondrows-a0145793da)
 - [pr26:Analytic.JointHighSource — Analytic.JointHighSource](../records/0186.md#pr26-analytic-jointhighsource-32ee5fcf6c)
 - [pr26:Analytic.JointHighSourceCaps — Analytic.JointHighSourceCaps](../records/0186.md#pr26-analytic-jointhighsourcecaps-75e60a4876)
 - [pr26:Analytic.JointHighSourceDyadic — Analytic.JointHighSourceDyadic](../records/0186.md#pr26-analytic-jointhighsourcedyadic-ffbb8d5e6e)
@@ -117,7 +119,7 @@ Page 41/43; 10578 matching records.
 - [pr26:Analytic.JointSecondFiberMass — Analytic.JointSecondFiberMass](../records/0191.md#pr26-analytic-jointsecondfibermass-429bd512f6)
 - [pr26:Analytic.JointSecondFibers — Analytic.JointSecondFibers](../records/0191.md#pr26-analytic-jointsecondfibers-e179364bff)
 - [pr26:Analytic.JointSecondKernel — Analytic.JointSecondKernel](../records/0191.md#pr26-analytic-jointsecondkernel-278376f95d)
-- [pr26:Analytic.JointSecondKernelCutoff — Analytic.JointSecondKernelCutoff](../records/0191.md#pr26-analytic-jointsecondkernelcutoff-79d092c4b9)
+- [pr26:Analytic.JointSecondKernelCutoff — Analytic.JointSecondKernelCutoff](../records/0192.md#pr26-analytic-jointsecondkernelcutoff-79d092c4b9)
 - [pr26:Analytic.JointSecondLowGate — Analytic.JointSecondLowGate](../records/0192.md#pr26-analytic-jointsecondlowgate-63dd8f36dc)
 - [pr26:Analytic.JointSecondLowTransport — Analytic.JointSecondLowTransport](../records/0192.md#pr26-analytic-jointsecondlowtransport-014ec78c63)
 - [pr26:Analytic.JointSecondProjector — Analytic.JointSecondProjector](../records/0192.md#pr26-analytic-jointsecondprojector-084be6349c)
@@ -209,7 +211,7 @@ Page 41/43; 10578 matching records.
 - [pr26:Cycle25.Assembly.Count.SlotWidths — Cycle25.Assembly.Count.SlotWidths](../records/0197.md#pr26-cycle25-assembly-count-slotwidths-c2a04ff27f)
 - [pr26:Cycle25.Assembly.Count.SourceAmplitudeClasses — Cycle25.Assembly.Count.SourceAmplitudeClasses](../records/0197.md#pr26-cycle25-assembly-count-sourceamplitudeclasses-1a59a94e57)
 - [pr26:Cycle25.Assembly.Count.SourceBatch — Cycle25.Assembly.Count.SourceBatch](../records/0197.md#pr26-cycle25-assembly-count-sourcebatch-01d3857bcb)
-- [pr26:Cycle25.Assembly.Count.SourceMomentInput — Cycle25.Assembly.Count.SourceMomentInput](../records/0197.md#pr26-cycle25-assembly-count-sourcemomentinput-692ff8273b)
+- [pr26:Cycle25.Assembly.Count.SourceMomentInput — Cycle25.Assembly.Count.SourceMomentInput](../records/0198.md#pr26-cycle25-assembly-count-sourcemomentinput-692ff8273b)
 - [pr26:Cycle25.Assembly.Count.SourceParametersCount — Cycle25.Assembly.Count.SourceParametersCount](../records/0198.md#pr26-cycle25-assembly-count-sourceparameterscount-8c764b8981)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceCount — Cycle25.Assembly.Count.WeightedSourceCount](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcecount-f6872a4e3b)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceMaskedCount — Cycle25.Assembly.Count.WeightedSourceMaskedCount](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcemaskedcount-b9d18d086f)
@@ -256,5 +258,3 @@ Page 41/43; 10578 matching records.
 - [pr26:Cycle25.Energy.PositiveHighBound — Cycle25.Energy.PositiveHighBound](../records/0200.md#pr26-cycle25-energy-positivehighbound-016801161e)
 - [pr26:Cycle25.Energy.PositiveHighParameters — Cycle25.Energy.PositiveHighParameters](../records/0200.md#pr26-cycle25-energy-positivehighparameters-149b8df1f7)
 - [pr26:Cycle25.Energy.PositiveHighPhysical — Cycle25.Energy.PositiveHighPhysical](../records/0200.md#pr26-cycle25-energy-positivehighphysical-049305d1f5)
-- [pr26:Cycle25.Energy.PositiveHighSource — Cycle25.Energy.PositiveHighSource](../records/0200.md#pr26-cycle25-energy-positivehighsource-acf8bd3d1b)
-- [pr26:Cycle25.Energy.PositiveHighSourceBound — Cycle25.Energy.PositiveHighSourceBound](../records/0200.md#pr26-cycle25-energy-positivehighsourcebound-8fd3e874bc)

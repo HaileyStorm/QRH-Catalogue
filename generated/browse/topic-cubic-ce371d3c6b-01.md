@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 544 matching records.
+Page 1/3; 545 matching records.
 
 [Next](topic-cubic-ce371d3c6b-02.md)
 
@@ -204,6 +204,7 @@ Page 1/3; 544 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.RowCompletion.CubicReopening — OAI.NumberTheory.DirichletL.RowCompletion.CubicReopening](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-rowcompletion-cubic-ab684d66e8)
 - [P7-17 — Historical cubic boundary barrier](../records/0130.md#p7-17-4f62c74f2d)
 - [P7-25 — Historical record clarification](../records/0130.md#p7-25-cf82414472)
+- [QRH-CONT-R038-CUBE-MARK-SIGNAL — Cube-divisibility local factors and separately calibrated reciprocal signals](../records/0131.md#qrh-cont-r038-cube-mark-signal-c3745d499c)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0137.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
 - [local-section:023d430ae4462de4b08a80f5 — 2. The coupled \\(d,a\\) arithmetic and the sixth-power-free moment](../records/0137.md#local-section-023d430ae4462de4b08a80f5-aa1f78fac7)
@@ -213,7 +214,7 @@ Page 1/3; 544 matching records.
 - [local-section:0817888a96467a5d6b5d11b3 — Initial saved checkpoint (retained as recovery evidence)](../records/0138.md#local-section-0817888a96467a5d6b5d11b3-85a6d42e60)
 - [local-section:08dd61ac28abc668bf15ef0a — 9. The asserted prime-square Jacobi identity is false](../records/0138.md#local-section-08dd61ac28abc668bf15ef0a-c2b6d9a483)
 - [local-section:0a7095081b2891c6ad4d0a10 — 4. Pointwise cubic-sieve bound with the actual colors and slots](../records/0138.md#local-section-0a7095081b2891c6ad4d0a10-9413f657b0)
-- [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0138.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
+- [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0139.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
 - [local-section:0c403f6e0469d25490673b25 — Next estimates](../records/0139.md#local-section-0c403f6e0469d25490673b25-3cf812fc48)
 - [local-section:0f280def20a7b2a8198225b7 — DQ9. The complementary classes force the opposite pole](../records/0139.md#local-section-0f280def20a7b2a8198225b7-10a4276904)
 - [local-section:0f8d17cdaf42d1670e4be6a8 — Accepted input packages](../records/0139.md#local-section-0f8d17cdaf42d1670e4be6a8-3b5dc21d96)
@@ -243,7 +244,7 @@ Page 1/3; 544 matching records.
 - [local-section:210014557018a84cd2e8f376 — 6. Size of the new payment and the primitive-row obstruction](../records/0141.md#local-section-210014557018a84cd2e8f376-720c7104d3)
 - [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0141.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
 - [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
-- [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0141.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
+- [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:2398625eb5bc1a2804ed48b8 — F07.C / F13.T — Changed Jacobi phase and a quadratic-row triple source](../records/0142.md#local-section-2398625eb5bc1a2804ed48b8-08ee6b40da)
 - [local-section:252d6d45d879f556871b51cc — F01. Multiscale Möbius decomposition and signed block control](../records/0142.md#local-section-252d6d45d879f556871b51cc-6b1c8a5789)
 - [local-section:25b39810c8b971cacdcf751c — 9. Exact residual and the still-open large-core moment](../records/0142.md#local-section-25b39810c8b971cacdcf751c-36788a1d7b)
@@ -255,4 +256,3 @@ Page 1/3; 544 matching records.
 - [local-section:2c81744dd0a686be1ab1007a — \[research revision\]: larger actual R4 middle sectors](../records/0143.md#local-section-2c81744dd0a686be1ab1007a-100c2904ba)
 - [local-section:2ca3770e79cd2de3bcdf9bec — \[research revision\] high-ceiling discovery: an exact reciprocal channel inside Hankel twist dispersion](../records/0143.md#local-section-2ca3770e79cd2de3bcdf9bec-898383f502)
 - [local-section:332b0ac5856c137e26badad2 — D. Secondary survivors and quantitative reopen conditions](../records/0143.md#local-section-332b0ac5856c137e26badad2-20129faa49)
-- [local-section:33340933b39e6c659b90a349 — 1. Exact row Dirichlet series](../records/0143.md#local-section-33340933b39e6c659b90a349-58de5b0e7d)

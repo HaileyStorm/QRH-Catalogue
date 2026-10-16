@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 38/43; 10578 matching records.
+Page 38/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-37.md)
 
 [Next](status-unknown-b23a6a8439-39.md)
 
+- [local-section:e20f0317329f9449d1271406 — F01.M — The fixed rational Möbius energy](../records/0166.md#local-section-e20f0317329f9449d1271406-dbd82575af)
+- [local-section:e2149d471125be2ba956524b — 6. Other actual author tests](../records/0166.md#local-section-e2149d471125be2ba956524b-9373594299)
 - [local-section:e2678c68310cb6b41915565b — A2. The single-step exponent, with the Taylor remainder paid first](../records/0166.md#local-section-e2678c68310cb6b41915565b-467963afcf)
 - [local-section:e27e905244801e9eccf26185 — Frozen selection and first tests](../records/0166.md#local-section-e27e905244801e9eccf26185-3c634160e8)
 - [local-section:e2aa5bf0a6c0564018974bcc — A10. Two exact countermodels for positivity-based geometric shortcuts](../records/0166.md#local-section-e2aa5bf0a6c0564018974bcc-18aa86baf6)
@@ -28,8 +30,8 @@ Page 38/43; 10578 matching records.
 - [local-section:e49bded395961d8a9a062ada — 5. Sharp local inequalities](../records/0166.md#local-section-e49bded395961d8a9a062ada-da4677d325)
 - [local-section:e4b14f457c814be698f9d742 — 3. Prime input, product size, and all-order Euler bounds](../records/0166.md#local-section-e4b14f457c814be698f9d742-38a25c7572)
 - [local-section:e4b4698c138fd35d33d8f707 — 8. Failures, credit and final disposition](../records/0166.md#local-section-e4b4698c138fd35d33d8f707-179f46c8a2)
-- [local-section:e4c9d05243bc50cf831b3135 — 4. Exact resummation of the remaining chains](../records/0166.md#local-section-e4c9d05243bc50cf831b3135-c56d03bcef)
-- [local-section:e4dac9e7b26d42dd0c7f60b7 — 9. Evidence, ancestry and next action](../records/0166.md#local-section-e4dac9e7b26d42dd0c7f60b7-5feb778251)
+- [local-section:e4c9d05243bc50cf831b3135 — 4. Exact resummation of the remaining chains](../records/0167.md#local-section-e4c9d05243bc50cf831b3135-c56d03bcef)
+- [local-section:e4dac9e7b26d42dd0c7f60b7 — 9. Evidence, ancestry and next action](../records/0167.md#local-section-e4dac9e7b26d42dd0c7f60b7-5feb778251)
 - [local-section:e4f3fa1c040ecb3ab8ccabdd — 2. What the new compact detector changes](../records/0167.md#local-section-e4f3fa1c040ecb3ab8ccabdd-da30963797)
 - [local-section:e527a5dfd674836c49b1336e — 6. Deliberately coarse bounds and two failed repairs](../records/0167.md#local-section-e527a5dfd674836c49b1336e-6261b8dca5)
 - [local-section:e547cecbe5b50181a70407e8 — 2. Exact local forcing, including the embedding exceptions](../records/0167.md#local-section-e547cecbe5b50181a70407e8-e0b654e4e2)
@@ -114,8 +116,8 @@ Page 38/43; 10578 matching records.
 - [local-section:ebc7eefe68a5f7ec87ba34f2 — Full product, collisions and both gates](../records/0167.md#local-section-ebc7eefe68a5f7ec87ba34f2-e21ec0a63a)
 - [local-section:ebcf3bff1cff58735b813bc7 — R6. Scope of the remaining author tests](../records/0167.md#local-section-ebcf3bff1cff58735b813bc7-b2f16615d1)
 - [local-section:ebe3d4c963956197a2e71718 — 5. Handoff and research calibration](../records/0167.md#local-section-ebe3d4c963956197a2e71718-7e24250b50)
-- [local-section:ec175b33866a625b1de61808 — Evidence, ancestry and the next arithmetic estimate](../records/0167.md#local-section-ec175b33866a625b1de61808-5e61e2bda2)
-- [local-section:ec22afe4ca91bc1cfef0e63d — Complete energy and the remaining arithmetic problem](../records/0167.md#local-section-ec22afe4ca91bc1cfef0e63d-f76a3dfc0c)
+- [local-section:ec175b33866a625b1de61808 — Evidence, ancestry and the next arithmetic estimate](../records/0168.md#local-section-ec175b33866a625b1de61808-5e61e2bda2)
+- [local-section:ec22afe4ca91bc1cfef0e63d — Complete energy and the remaining arithmetic problem](../records/0168.md#local-section-ec22afe4ca91bc1cfef0e63d-f76a3dfc0c)
 - [local-section:ec2410b15f4a72a683a74c8b — 2. Exact source and statement of the refined return](../records/0168.md#local-section-ec2410b15f4a72a683a74c8b-1c11466eec)
 - [local-section:ec4466dd871211a4e2646988 — 6. All thirty dispositions](../records/0168.md#local-section-ec4466dd871211a4e2646988-348e61701c)
 - [local-section:ec4493e3740d38d6caeaf333 — 4.3 Explicit growth is accounted for but gives no growing-J theorem](../records/0168.md#local-section-ec4493e3740d38d6caeaf333-5416ff5664)
@@ -203,8 +205,8 @@ Page 38/43; 10578 matching records.
 - [local-section:f3f6112b3549379c0b822adf — G95. An exact source with a positive signed global leading term](../records/0168.md#local-section-f3f6112b3549379c0b822adf-e72e558c7a)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f40b7499b94fc9e47b6cf47a — 4.3 Paying the small-prime complement](../records/0168.md#local-section-f40b7499b94fc9e47b6cf47a-c89e375b8d)
-- [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0168.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
-- [local-section:f428d90d2f1a5606c82a666c — 2. Exact source evidence and its limits](../records/0168.md#local-section-f428d90d2f1a5606c82a666c-413662fc42)
+- [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0169.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
+- [local-section:f428d90d2f1a5606c82a666c — 2. Exact source evidence and its limits](../records/0169.md#local-section-f428d90d2f1a5606c82a666c-413662fc42)
 - [local-section:f42a841878e5f1146653e007 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0169.md#local-section-f42a841878e5f1146653e007-9245de9c38)
 - [local-section:f42df9970a96ba20397eed2d — E. Wildcard11: parity-preserving compression has a precise cost](../records/0169.md#local-section-f42df9970a96ba20397eed2d-6c26925a42)
 - [local-section:f46c222da6f0d60a6a1fa098 — Accepted mathematics](../records/0169.md#local-section-f46c222da6f0d60a6a1fa098-a29562026f)
@@ -256,5 +258,3 @@ Page 38/43; 10578 matching records.
 - [local-section:f8492a78d04a7130fbfbdc73 — HCR11. Exact easy bound and its failed inequality](../records/0169.md#local-section-f8492a78d04a7130fbfbdc73-9eee9848cb)
 - [local-section:f86d2ff7532ec9d38faa2c6a — 2. Native JN translation theorem and required correction](../records/0169.md#local-section-f86d2ff7532ec9d38faa2c6a-aea2236cfa)
 - [local-section:f870cb353a6130b547daa8e5 — 4. The arithmetic pointwise bound survives the full prefix audit](../records/0169.md#local-section-f870cb353a6130b547daa8e5-64560e8124)
-- [local-section:f8733caf9ff610bdfa9a0b2a — The complete c7 endpoint](../records/0169.md#local-section-f8733caf9ff610bdfa9a0b2a-8c34d6fc25)
-- [local-section:f87e81647d6f92ec1e119e04 — Frozen generation and sampling](../records/0169.md#local-section-f87e81647d6f92ec1e119e04-450e30340b)

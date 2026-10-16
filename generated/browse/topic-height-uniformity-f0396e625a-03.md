@@ -189,7 +189,7 @@ Page 3/4; 812 matching records.
 - [local-section:e35b46423fbdb1e65ca3c229 — G175. Two exact source returns with their inverse costs](../records/0166.md#local-section-e35b46423fbdb1e65ca3c229-885c1f55e9)
 - [local-section:e3a56a158fce80d703c81d50 — 5.3 Uniform gain is a separate question from qualitative return](../records/0166.md#local-section-e3a56a158fce80d703c81d50-9477e04912)
 - [local-section:e491a5932fb42a2cd08f328d — 70. Parity Jordan source with paid principal far tail](../records/0166.md#local-section-e491a5932fb42a2cd08f328d-610e8c4e74)
-- [local-section:e4dac9e7b26d42dd0c7f60b7 — 9. Evidence, ancestry and next action](../records/0166.md#local-section-e4dac9e7b26d42dd0c7f60b7-5feb778251)
+- [local-section:e4dac9e7b26d42dd0c7f60b7 — 9. Evidence, ancestry and next action](../records/0167.md#local-section-e4dac9e7b26d42dd0c7f60b7-5feb778251)
 - [local-section:e64455b9b685b3ea2b460f0e — 5. W40-25: phase has metric content, with a cycle-length cost](../records/0167.md#local-section-e64455b9b685b3ea2b460f0e-648bfb5615)
 - [local-section:e652a8219b18f55665624354 — 2.4 A primary-source universality test rejects the bare arithmetic target](../records/0167.md#local-section-e652a8219b18f55665624354-e0742195ec)
 - [local-section:e6f8b9a27bfcda475b602799 — 5. Zero exclusion from any proved E9](../records/0167.md#local-section-e6f8b9a27bfcda475b602799-ea3fa6f305)

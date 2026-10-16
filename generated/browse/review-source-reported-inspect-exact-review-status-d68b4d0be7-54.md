@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 54/71; 17525 matching records.
+Page 54/71; 17527 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-53.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-55.md)
 
+- [pr26:Analytic.BufferedDilation::bufferedDilatedProfile@269 — bufferedDilatedProfile](../records/0175.md#pr26-analytic-buffereddilation-buffereddilatedprofile-269-0ee16ae810)
+- [pr26:Analytic.BufferedDilation::dilated_mellin_pair_uniform@246 — dilated_mellin_pair_uniform](../records/0175.md#pr26-analytic-buffereddilation-dilated-mellin-pair-uniform-246-9b6cf772af)
 - [pr26:Analytic.BufferedDilation::dilated_mellin_uniform@205 — dilated_mellin_uniform](../records/0175.md#pr26-analytic-buffereddilation-dilated-mellin-uniform-205-d6796b8224)
 - [pr26:Analytic.BufferedPartition — Analytic.BufferedPartition](../records/0175.md#pr26-analytic-bufferedpartition-ef70a4fe55)
 - [pr26:Analytic.BufferedPartition::buffered_count_of_bin_counts@566 — buffered_count_of_bin_counts](../records/0175.md#pr26-analytic-bufferedpartition-buffered-count-of-bin-counts-566-7ff955fdc2)
@@ -37,8 +39,8 @@ Page 54/71; 17525 matching records.
 - [pr26:Analytic.CancellationMasks::naturalRow_excluded_height@727 — naturalRow_excluded_height](../records/0175.md#pr26-analytic-cancellationmasks-naturalrow-excluded-height-727-db277d296b)
 - [pr26:Analytic.CancellationMasks::naturalRow_height@721 — naturalRow_height](../records/0175.md#pr26-analytic-cancellationmasks-naturalrow-height-721-b75ce7e24b)
 - [pr26:Analytic.CanonicalReconstruction — Analytic.CanonicalReconstruction](../records/0175.md#pr26-analytic-canonicalreconstruction-1ed5dfd1b9)
-- [pr26:Analytic.CanonicalReconstruction::activeExponent_lt@934 — activeExponent_lt](../records/0175.md#pr26-analytic-canonicalreconstruction-activeexponent-lt-934-3fcf1894c2)
-- [pr26:Analytic.CanonicalReconstruction::activeExponent_pos@930 — activeExponent_pos](../records/0175.md#pr26-analytic-canonicalreconstruction-activeexponent-pos-930-08cd1465d1)
+- [pr26:Analytic.CanonicalReconstruction::activeExponent_lt@934 — activeExponent_lt](../records/0176.md#pr26-analytic-canonicalreconstruction-activeexponent-lt-934-3fcf1894c2)
+- [pr26:Analytic.CanonicalReconstruction::activeExponent_pos@930 — activeExponent_pos](../records/0176.md#pr26-analytic-canonicalreconstruction-activeexponent-pos-930-08cd1465d1)
 - [pr26:Analytic.CanonicalReconstruction::activePrimary@914 — activePrimary](../records/0176.md#pr26-analytic-canonicalreconstruction-activeprimary-914-25e67c8319)
 - [pr26:Analytic.CanonicalReconstruction::activePrimary_primary@925 — activePrimary_primary](../records/0176.md#pr26-analytic-canonicalreconstruction-activeprimary-primary-925-87e7fe6959)
 - [pr26:Analytic.CanonicalReconstruction::activePrimary_span@917 — activePrimary_span](../records/0176.md#pr26-analytic-canonicalreconstruction-activeprimary-span-917-7539261933)
@@ -137,8 +139,8 @@ Page 54/71; 17525 matching records.
 - [pr26:Analytic.JointBufferedData::eligible@387 — eligible](../records/0176.md#pr26-analytic-jointbuffereddata-eligible-387-9c0421aeba)
 - [pr26:Analytic.JointBufferedData::joint_buffered_data_bound@436 — joint_buffered_data_bound](../records/0176.md#pr26-analytic-jointbuffereddata-joint-buffered-data-bound-436-0fad607a50)
 - [pr26:Analytic.JointBufferedData::length@346 — length](../records/0176.md#pr26-analytic-jointbuffereddata-length-346-92a670ef75)
-- [pr26:Analytic.JointBufferedData::value@353 — value](../records/0176.md#pr26-analytic-jointbuffereddata-value-353-1a5dcabb63)
-- [pr26:Analytic.JointBufferedData::zeroMaximum_le@399 — zeroMaximum_le](../records/0176.md#pr26-analytic-jointbuffereddata-zeromaximum-le-399-d8d78bd6e3)
+- [pr26:Analytic.JointBufferedData::value@353 — value](../records/0177.md#pr26-analytic-jointbuffereddata-value-353-1a5dcabb63)
+- [pr26:Analytic.JointBufferedData::zeroMaximum_le@399 — zeroMaximum_le](../records/0177.md#pr26-analytic-jointbuffereddata-zeromaximum-le-399-d8d78bd6e3)
 - [pr26:Analytic.JointBufferedDominatedFibers — Analytic.JointBufferedDominatedFibers](../records/0177.md#pr26-analytic-jointbuffereddominatedfibers-0df18220d9)
 - [pr26:Analytic.JointBufferedDominatedFibers::joint_buffered_product_fibers_of_le@177 — joint_buffered_product_fibers_of_le](../records/0177.md#pr26-analytic-jointbuffereddominatedfibers-joint-buffered-product-86596ecb74)
 - [pr26:Analytic.JointBufferedExistentialFibers — Analytic.JointBufferedExistentialFibers](../records/0177.md#pr26-analytic-jointbufferedexistentialfibers-0ccfdedfe2)
@@ -237,8 +239,8 @@ Page 54/71; 17525 matching records.
 - [pr26:Analytic.JointCoherentExceptionalLocalGates::firstLowMainScale_actual_radius@369 — firstLowMainScale_actual_radius](../records/0177.md#pr26-analytic-jointcoherentexceptionallocalgates-firstlowmainscal-f095d153b7)
 - [pr26:Analytic.JointCoherentExceptionalLocalGates::firstNominalScale_swap@363 — firstNominalScale_swap](../records/0177.md#pr26-analytic-jointcoherentexceptionallocalgates-firstnominalscal-293e0d885b)
 - [pr26:Analytic.JointCoherentExceptionalLocalGates::first_side_expanded_factor_cap@406 — first_side_expanded_factor_cap](../records/0177.md#pr26-analytic-jointcoherentexceptionallocalgates-first-side-expan-9a1398275f)
-- [pr26:Analytic.JointCoherentExceptionalLocalTarget — Analytic.JointCoherentExceptionalLocalTarget](../records/0177.md#pr26-analytic-jointcoherentexceptionallocaltarget-4b6497e8b3)
-- [pr26:Analytic.JointCoherentExceptionalLocalTarget::actual_local_first_coherent_exceptional_target@639 — actual_local_first_coherent_exceptional_target](../records/0177.md#pr26-analytic-jointcoherentexceptionallocaltarget-actual-local-fi-ca082c7d24)
+- [pr26:Analytic.JointCoherentExceptionalLocalTarget — Analytic.JointCoherentExceptionalLocalTarget](../records/0178.md#pr26-analytic-jointcoherentexceptionallocaltarget-4b6497e8b3)
+- [pr26:Analytic.JointCoherentExceptionalLocalTarget::actual_local_first_coherent_exceptional_target@639 — actual_local_first_coherent_exceptional_target](../records/0178.md#pr26-analytic-jointcoherentexceptionallocaltarget-actual-local-fi-ca082c7d24)
 - [pr26:Analytic.JointCoherentExceptionalLocalTarget::firstCoherentExceptionalPart@624 — firstCoherentExceptionalPart](../records/0178.md#pr26-analytic-jointcoherentexceptionallocaltarget-firstcoherentex-b5f7dec26f)
 - [pr26:Analytic.JointCoherentExceptionalMass — Analytic.JointCoherentExceptionalMass](../records/0178.md#pr26-analytic-jointcoherentexceptionalmass-3c6e0c4d0c)
 - [pr26:Analytic.JointCoherentExceptionalMass::actual_common_second_radical_mass@340 — actual_common_second_radical_mass](../records/0178.md#pr26-analytic-jointcoherentexceptionalmass-actual-common-second-r-b107d115fb)
@@ -256,5 +258,3 @@ Page 54/71; 17525 matching records.
 - [pr26:Analytic.JointCoherentExceptionalPhysicalBase::coherentExceptionalProfile_nonneg@895 — coherentExceptionalProfile_nonneg](../records/0178.md#pr26-analytic-jointcoherentexceptionalphysicalbase-coherentexcept-9e2de8d0ed)
 - [pr26:Analytic.JointCoherentExceptionalPhysicalBase::coherent_exceptional_kernel_scalar@931 — coherent_exceptional_kernel_scalar](../records/0178.md#pr26-analytic-jointcoherentexceptionalphysicalbase-coherent-excep-e0874d3253)
 - [pr26:Analytic.JointCoherentExceptionalPhysicalBase::projectedSecondKernelSum_weighted_norm_le@831 — projectedSecondKernelSum_weighted_norm_le](../records/0178.md#pr26-analytic-jointcoherentexceptionalphysicalbase-projectedsecon-9cc9c1a64a)
-- [pr26:Analytic.JointCoherentExceptionalPower — Analytic.JointCoherentExceptionalPower](../records/0178.md#pr26-analytic-jointcoherentexceptionalpower-1495ffcb40)
-- [pr26:Analytic.JointCoherentExceptionalPower::actual_coherent_exceptional_scalar_uniform@90 — actual_coherent_exceptional_scalar_uniform](../records/0178.md#pr26-analytic-jointcoherentexceptionalpower-actual-coherent-excep-1012dbe4fb)

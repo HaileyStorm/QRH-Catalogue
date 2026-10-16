@@ -182,7 +182,7 @@ Page 4/4; 933 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::zeta_nonzero@805 — zeta_nonzero](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-43b9c48c08)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional — ZetaZeroFree.Analytic.Moments.Exceptional](../records/0216.md#pr26-zetazerofree-analytic-moments-exceptional-512ceec19e)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain — ZetaZeroFree.Analytic.Moments.Plain](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-a4d600b89c)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional — ZetaZeroFree.Analytic.Moments.Unconditional](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-1da4349f4f)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional — ZetaZeroFree.Analytic.Moments.Unconditional](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-1da4349f4f)
 - [public-artifact:3b044a1ad47906aa0da40d02 — QuasiRiemannTracker-e668ad9a44228d9d2b708fc4576825811c985f95/proofs/cycle25-quartic-20261010/manuscript/paper.tex](../records/0217.md#public-artifact-3b044a1ad47906aa0da40d02-bb838d632b)
 - [public-artifact:41c9154080f1033d5592a0e8 — single-prime-29-33-20261010/manuscript/zeta_zero_free_4_33_self_contained.tex](../records/0217.md#public-artifact-41c9154080f1033d5592a0e8-005aa2db1b)
 - [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0217.md#public-paper-liu-paper-1-e60f4435bd)

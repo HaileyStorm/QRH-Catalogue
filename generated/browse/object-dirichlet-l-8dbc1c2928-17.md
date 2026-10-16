@@ -25,7 +25,7 @@ Page 17/17; 4109 matching records.
 - [local:G289 — G289. Adaptive ordinary Laplace Gram residual and complete primitive-ratio reduction](../records/0173.md#local-g289-5edc57e94d)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0173.md#local-g291-a2d579dcd5)
 - [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0173.md#local-g309-cb6cfa996e)
-- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
+- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)
 - [local:G78 — G78. Uniform depth and the full physical tail](../records/0174.md#local-g78-9d1a1f7ec0)
 - [local:G83 — G83. Actual balanced completion at growing order](../records/0174.md#local-g83-8dd3bd523d)

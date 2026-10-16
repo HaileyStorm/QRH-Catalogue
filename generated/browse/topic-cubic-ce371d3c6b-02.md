@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/3; 544 matching records.
+Page 2/3; 545 matching records.
 
 [Previous](topic-cubic-ce371d3c6b-01.md)
 
 [Next](topic-cubic-ce371d3c6b-03.md)
 
+- [local-section:33340933b39e6c659b90a349 — 1. Exact row Dirichlet series](../records/0143.md#local-section-33340933b39e6c659b90a349-58de5b0e7d)
 - [local-section:3374e0f8fbfa276a6bedc4e4 — A17. Exact completed-cutoff and rough-column obstructions](../records/0143.md#local-section-3374e0f8fbfa276a6bedc4e4-349cfc7c8d)
 - [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:35078af1e308e72d9f570cab — 1. Exact review object and dependencies](../records/0144.md#local-section-35078af1e308e72d9f570cab-6edc54b0d0)
@@ -21,7 +22,7 @@ Page 2/3; 544 matching records.
 - [local-section:3932376f7d2c4ae2d4529440 — Early attempt index: Cycles 1–32](../records/0144.md#local-section-3932376f7d2c4ae2d4529440-14e65a854a)
 - [local-section:3b52d14c5c53372827ad1cbf — 4. Completed cube-free mean and finite incidence](../records/0144.md#local-section-3b52d14c5c53372827ad1cbf-a5445b4d56)
 - [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0144.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
-- [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0144.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
+- [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0145.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
 - [local-section:3c7bddd6d41be992888ec504 — 5. Strongest objections and decisive limitations](../records/0145.md#local-section-3c7bddd6d41be992888ec504-be4434e89d)
 - [local-section:3f657626bf477c08a4a12109 — 5. Reconstructing the inherited raw graph contract](../records/0145.md#local-section-3f657626bf477c08a4a12109-593ba288ec)
 - [local-section:3f8c0e495079e263750c92a7 — Source and verification boundary](../records/0145.md#local-section-3f8c0e495079e263750c92a7-d93c34aacd)
@@ -76,7 +77,7 @@ Page 2/3; 544 matching records.
 - [local-section:756d49686f41eeff2e5fd6f5 — D. A marked bilinear consequence, with the far-cutoff cost paid](../records/0152.md#local-section-756d49686f41eeff2e5fd6f5-1c7ca9b6a1)
 - [local-section:76de71dc31b8c4a9e7b270b8 — \[research revision\]: complete labelled repetition-layer sieve](../records/0152.md#local-section-76de71dc31b8c4a9e7b270b8-f6016fc4f8)
 - [local-section:7758f641dc44b310f7091d5c — 2. Quantitative contracts and immediate priorities](../records/0152.md#local-section-7758f641dc44b310f7091d5c-049f400266)
-- [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0152.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
+- [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0153.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
 - [local-section:78a74daef16a3c7d605c2cd1 — G204: small square cores with unrestricted cubic rows](../records/0153.md#local-section-78a74daef16a3c7d605c2cd1-2cb00d3281)
 - [local-section:78aa00256f69d8616e32ad4f — 7. Evidence, limits and frozen handoff](../records/0153.md#local-section-78aa00256f69d8616e32ad4f-687682e951)
 - [local-section:79e849d7a09228505787d1b0 — G. Current alternative library and original stable IDs](../records/0153.md#local-section-79e849d7a09228505787d1b0-e1c8108098)
@@ -97,7 +98,7 @@ Page 2/3; 544 matching records.
 - [local-section:82e34225d55291b5e6e5a2bf — E. Native short-divisor H: source sectors and failed joint shortcuts](../records/0154.md#local-section-82e34225d55291b5e6e5a2bf-0975ab2267)
 - [local-section:8306899a6efdcbe591caf7f6 — Dependency map and proof locations](../records/0154.md#local-section-8306899a6efdcbe591caf7f6-4aefa46a88)
 - [local-section:86a814590aa65af4b5ec7b14 — 4. Decisive pressure test and the remaining original-prime term](../records/0154.md#local-section-86a814590aa65af4b5ec7b14-26bfe11be1)
-- [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0154.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
+- [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0155.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
 - [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0155.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
 - [local-section:89a07fae25bf69e8bf1cf64b — An exact formulation of the remaining prime mean](../records/0155.md#local-section-89a07fae25bf69e8bf1cf64b-a75d16e1bc)
 - [local-section:8a387234f19eedc0866a094b — 4. Common profile before labels; actual HB and slot payment](../records/0155.md#local-section-8a387234f19eedc0866a094b-b19aa169c1)
@@ -124,7 +125,7 @@ Page 2/3; 544 matching records.
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)
 - [local-section:9ca224f1c49bc5cb51f4a416 — Inputs and exact scope](../records/0157.md#local-section-9ca224f1c49bc5cb51f4a416-b9b44f19bd)
 - [local-section:9dc1ddef45e415e7e5171b59 — 5a. Extension of balanced-residue mass to the COMPLETE tail](../records/0157.md#local-section-9dc1ddef45e415e7e5171b59-7d257aad96)
-- [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0157.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
+- [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0158.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
 - [local-section:9f1457cb9962b9df7721d939 — 7. Evidence and next allocation](../records/0158.md#local-section-9f1457cb9962b9df7721d939-fd7cc43490)
 - [local-section:a05b158e973dee5b2abe3fd5 — 4. The other sextic mechanisms: restriction, probe correlation, numerator and calibration](../records/0158.md#local-section-a05b158e973dee5b2abe3fd5-656bbc23f4)
 - [local-section:a0a5bf95c1d04e395bd99ee1 — 7. Failures, ancestry, evidence limits, and complete return](../records/0158.md#local-section-a0a5bf95c1d04e395bd99ee1-767d9ae616)
@@ -159,7 +160,7 @@ Page 2/3; 544 matching records.
 - [local-section:bd4d8b3cda323aca8bbde4ff — H: a useful failed bilinear replacement](../records/0161.md#local-section-bd4d8b3cda323aca8bbde4ff-f86cea83bc)
 - [local-section:bd5f22d173c3221ffe125934 — \[research revision\] attempt delta](../records/0161.md#local-section-bd5f22d173c3221ffe125934-a0baa0ca96)
 - [local-section:bd986abf1d40776357356e8f — Independent R4 review: original-color cubic sieve after primitive Poisson](../records/0161.md#local-section-bd986abf1d40776357356e8f-44976a7b40)
-- [local-section:bdf0a350f66a854bb6c0f41a — 3. A fixed quadratic class changes the actual row index](../records/0161.md#local-section-bdf0a350f66a854bb6c0f41a-6eedced03a)
+- [local-section:bdf0a350f66a854bb6c0f41a — 3. A fixed quadratic class changes the actual row index](../records/0162.md#local-section-bdf0a350f66a854bb6c0f41a-6eedced03a)
 - [local-section:bdfba458741ea0df9616bb17 — 3. Actual arithmetic grouping, zeros and SF7 mass](../records/0162.md#local-section-bdfba458741ea0df9616bb17-2656713493)
 - [local-section:c04f796fa861b6aad88fd61e — 8. Other discoveries, evidence and retained scope](../records/0162.md#local-section-c04f796fa861b6aad88fd61e-25767f1914)
 - [local-section:c3d5f53b8e6e7ffe85b586f3 — DQ1--DQ2. Exact cube classes and their natural zeros](../records/0162.md#local-section-c3d5f53b8e6e7ffe85b586f3-90fa129fb3)
@@ -256,5 +257,4 @@ Page 2/3; 544 matching records.
 - [local:G185 — G185. Primitive Poisson and the complete two-color sieve bound](../records/0172.md#local-g185-098059391a)
 - [local:G204 — G204: small square cores with unrestricted cubic rows](../records/0172.md#local-g204-fa5103d677)
 - [local:G210 — G210. Unequal energies and all collision-label sums](../records/0172.md#local-g210-2b166add49)
-- [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0172.md#local-g213-46d38d3f6e)
-- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
+- [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0173.md#local-g213-46d38d3f6e)

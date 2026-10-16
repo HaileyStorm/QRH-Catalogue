@@ -39,7 +39,7 @@ Page 3/3; 662 matching records.
 - [local:F18.A — F18.A — Exceptional countX^d and amplitudeX^B costX^(d+2B); one orderX row can ruin OM](../records/0171.md#local-f18-a-35372a7106)
 - [local:F25.E — F25.E — Actual three-source double-torus convolution, compact r∈\[1,2\] scale energy](../records/0171.md#local-f25-e-72872f0970)
 - [local:G111 — G111. Accepted c10 licenses a smaller density capacity](../records/0171.md#local-g111-70b84ecbc6)
-- [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0171.md#local-g114-fec7178ffd)
+- [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0172.md#local-g114-fec7178ffd)
 - [local:G119 — G119. Anchored one-sided pressure has an exact zero-exclusion return](../records/0172.md#local-g119-9dbed5d96f)
 - [local:G120 — G120. Complete phase blocks and thermal readout prices](../records/0172.md#local-g120-fbe02bb45f)
 - [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0172.md#local-g122-fe374f44f7)

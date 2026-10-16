@@ -2,10 +2,12 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 43/43; 10578 matching records.
+Page 43/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-42.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-b04b816de4)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyclass-02e4d1c023)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycollected-645bf41129)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh-eb02a37f8d)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-cb4afd2ddd)
@@ -20,7 +22,7 @@ Page 43/43; 10578 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
 - [pr26:Physical.ActualPacketUniform — Physical.ActualPacketUniform](../records/0215.md#pr26-physical-actualpacketuniform-8c0d9bf670)
 - [pr26:Physical.Bins — Physical.Bins](../records/0215.md#pr26-physical-bins-6cebe091b2)
-- [pr26:Physical.Capacity — Physical.Capacity](../records/0215.md#pr26-physical-capacity-a722478daf)
+- [pr26:Physical.Capacity — Physical.Capacity](../records/0216.md#pr26-physical-capacity-a722478daf)
 - [pr26:Physical.Capacity::transport_pair_dispatch@567 — transport_pair_dispatch](../records/0216.md#pr26-physical-capacity-transport-pair-dispatch-567-36720ba6bb)
 - [pr26:Physical.Capacity::transport_repayment@486 — transport_repayment](../records/0216.md#pr26-physical-capacity-transport-repayment-486-6b12ba64d2)
 - [pr26:Physical.DiagonalCapacity — Physical.DiagonalCapacity](../records/0216.md#pr26-physical-diagonalcapacity-cef5fdbb76)
@@ -41,7 +43,7 @@ Page 43/43; 10578 matching records.
 - [pr26:Physical.Selection — Physical.Selection](../records/0216.md#pr26-physical-selection-bc60b08f69)
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional — ZetaZeroFree.Analytic.Moments.Exceptional](../records/0216.md#pr26-zetazerofree-analytic-moments-exceptional-512ceec19e)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain — ZetaZeroFree.Analytic.Moments.Plain](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-a4d600b89c)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional — ZetaZeroFree.Analytic.Moments.Unconditional](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-1da4349f4f)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional — ZetaZeroFree.Analytic.Moments.Unconditional](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-1da4349f4f)
 - [pr26:original-explanation — pr26:original-explanation](../records/0217.md#pr26-original-explanation-52ad61d34c)
 - [pr26:original-manifest — pr26:original-manifest](../records/0217.md#pr26-original-manifest-30c9db0e44)
 - [public-artifact:15bf4d810f4bbead9ce5e977 — nielstron-algebraic-20261009/compressed/inputs/qrh-formalization-handoff-20261009/accepted-answer.tex](../records/0217.md#public-artifact-15bf4d810f4bbead9ce5e977-4535615e7a)

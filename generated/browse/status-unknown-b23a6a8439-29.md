@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 29/43; 10578 matching records.
+Page 29/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-28.md)
 
 [Next](status-unknown-b23a6a8439-30.md)
 
+- [local-section:18606b4fcbf460d2e5b0880d — 6. One complete affine atlas and physical return](../records/0140.md#local-section-18606b4fcbf460d2e5b0880d-ca9c245290)
+- [local-section:186366e824dbed933a3c5329 — 6. Reviewer consequence: a nearby band and the actual decaying tail](../records/0140.md#local-section-186366e824dbed933a3c5329-f72aa4fb78)
 - [local-section:186bf2d468c49c5b33dbd21a — 1. Candidate result and numerical budget](../records/0140.md#local-section-186bf2d468c49c5b33dbd21a-6cad0f4e65)
 - [local-section:187e966a40cebe7bca7de078 — Accepted written extension: larger amplifier, c1 = 0.12512](../records/0140.md#local-section-187e966a40cebe7bca7de078-7dd2c94c78)
 - [local-section:188f727ef48f3746e5e233bf — Ordinary-character zero return and concrete high ceilings](../records/0140.md#local-section-188f727ef48f3746e5e233bf-3f96b53ef7)
@@ -37,8 +39,8 @@ Page 29/43; 10578 matching records.
 - [local-section:1b345e9cc2d2f2c155544379 — 2. Development checkpoint and inherited credit](../records/0140.md#local-section-1b345e9cc2d2f2c155544379-a99a9d803e)
 - [local-section:1b54b04d2ee299d4ca14c34a — 2.5 Infinite completion and arbitrary D](../records/0140.md#local-section-1b54b04d2ee299d4ca14c34a-d8c6091c28)
 - [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0140.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
-- [local-section:1b6c4e3f6d610c3ba530c554 — G145. Full-word and sorted-creation commutators have different returns](../records/0140.md#local-section-1b6c4e3f6d610c3ba530c554-26810da9c4)
-- [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0140.md#local-section-1b7972de99305d82899b971b-ad968fff11)
+- [local-section:1b6c4e3f6d610c3ba530c554 — G145. Full-word and sorted-creation commutators have different returns](../records/0141.md#local-section-1b6c4e3f6d610c3ba530c554-26810da9c4)
+- [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0141.md#local-section-1b7972de99305d82899b971b-ad968fff11)
 - [local-section:1b92424757fb59493f7e611d — 1. Frozen intake and the limits of sampling evidence](../records/0141.md#local-section-1b92424757fb59493f7e611d-8e9d28fbdc)
 - [local-section:1b98b1cb15e75d39f297d71b — 5. Required edits and limits of acceptance](../records/0141.md#local-section-1b98b1cb15e75d39f297d71b-967ece9cb3)
 - [local-section:1bb500b1cbdde64a0ec21b1d — G197. Two paid classes with complete shared-prime cost](../records/0141.md#local-section-1bb500b1cbdde64a0ec21b1d-8384c5ec01)
@@ -196,8 +198,8 @@ Page 29/43; 10578 matching records.
 - [local-section:2b752699b4e913270a8de0cd — Complete endpoint, not just local capacity](../records/0142.md#local-section-2b752699b4e913270a8de0cd-62941cb45d)
 - [local-section:2b94a1bc9e8bafe2f1071160 — C. Centered Mayer feedback: exact return and a new next-return formula](../records/0142.md#local-section-2b94a1bc9e8bafe2f1071160-fd2aede397)
 - [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0142.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
-- [local-section:2ba728cbbfca1403cf83aaec — 13. Verification and handoff boundary](../records/0142.md#local-section-2ba728cbbfca1403cf83aaec-5bb6ca585b)
-- [local-section:2baead16b4c841c3087018ba — M3. Fixed affine correlations, including conjugation](../records/0142.md#local-section-2baead16b4c841c3087018ba-f65182b6ca)
+- [local-section:2ba728cbbfca1403cf83aaec — 13. Verification and handoff boundary](../records/0143.md#local-section-2ba728cbbfca1403cf83aaec-5bb6ca585b)
+- [local-section:2baead16b4c841c3087018ba — M3. Fixed affine correlations, including conjugation](../records/0143.md#local-section-2baead16b4c841c3087018ba-f65182b6ca)
 - [local-section:2bc6a8deea4d593294ecf0c5 — 5. Return through the actual four diagonals and both height variables](../records/0143.md#local-section-2bc6a8deea4d593294ecf0c5-f05c139b18)
 - [local-section:2bde2805b0dfd635b320e976 — 5. Low bins and the canonical actual-width correction](../records/0143.md#local-section-2bde2805b0dfd635b320e976-e76ee254f3)
 - [local-section:2bde29c1d560cac4b20530c5 — R7. Fourier compression and the sharp endpoint](../records/0143.md#local-section-2bde29c1d560cac4b20530c5-00a61f46f4)
@@ -256,5 +258,3 @@ Page 29/43; 10578 matching records.
 - [local-section:30efb378ff8c77689797c150 — 2. Complete Poisson cancellation before truncating the third factor](../records/0143.md#local-section-30efb378ff8c77689797c150-35b817e6a8)
 - [local-section:3114cffa36d99c9efd89dac3 — 6. Strongest objection and the arithmetic development still missing](../records/0143.md#local-section-3114cffa36d99c9efd89dac3-93900979ce)
 - [local-section:31199af51f1d3cd61de267b7 — W40-02 — Orthogonalize the two heights jointly; p=.12](../records/0143.md#local-section-31199af51f1d3cd61de267b7-6cfb8d8568)
-- [local-section:3142470e9af2d17fb2c69d72 — Reviewed observation, source-filter and positivity components](../records/0143.md#local-section-3142470e9af2d17fb2c69d72-fc8ac8ba98)
-- [local-section:31429f52c33ea991fb883a40 — G158. Actual Type I removal on plain L2, including every character](../records/0143.md#local-section-31429f52c33ea991fb883a40-82b1e1acc9)

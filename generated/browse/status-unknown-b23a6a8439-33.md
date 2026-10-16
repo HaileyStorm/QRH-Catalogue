@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 33/43; 10578 matching records.
+Page 33/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-32.md)
 
 [Next](status-unknown-b23a6a8439-34.md)
 
+- [local-section:7362cc1f75d6ea76424d0756 — F08.A / F19.A — Actual modular-residue capture](../records/0152.md#local-section-7362cc1f75d6ea76424d0756-e54f9f8237)
+- [local-section:738ad32b69086848558e98d8 — 4.2 Source-sensitive obstruction at shrinking height](../records/0152.md#local-section-738ad32b69086848558e98d8-157a39be61)
 - [local-section:73c7b2271b0da0f3d52e9cdd — 5. The other three first tests, with exact scope](../records/0152.md#local-section-73c7b2271b0da0f3d52e9cdd-c950611f83)
 - [local-section:73dbbdfd697186be8a456262 — R10. All thirty final dispositions and portfolio comparison](../records/0152.md#local-section-73dbbdfd697186be8a456262-c123025ace)
 - [local-section:73dec1ac53b5eb9be1d2d710 — 9. Exact remaining estimate and limitations](../records/0152.md#local-section-73dec1ac53b5eb9be1d2d710-0ab5d5d06f)
@@ -66,8 +68,8 @@ Page 33/43; 10578 matching records.
 - [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
 - [local-section:7852a5c7a94736af0e539907 — 2. Sources, exact bindings and independent method](../records/0152.md#local-section-7852a5c7a94736af0e539907-f7bea94413)
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
-- [local-section:7864c7683a4d3067e2f4c126 — 5.1 W40-11 — the proposed full operator bound fails for the actual critical split](../records/0152.md#local-section-7864c7683a4d3067e2f4c126-4a7273d875)
-- [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0152.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
+- [local-section:7864c7683a4d3067e2f4c126 — 5.1 W40-11 — the proposed full operator bound fails for the actual critical split](../records/0153.md#local-section-7864c7683a4d3067e2f4c126-4a7273d875)
+- [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0153.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
 - [local-section:78a74daef16a3c7d605c2cd1 — G204: small square cores with unrestricted cubic rows](../records/0153.md#local-section-78a74daef16a3c7d605c2cd1-2cb00d3281)
 - [local-section:78aa00256f69d8616e32ad4f — 7. Evidence, limits and frozen handoff](../records/0153.md#local-section-78aa00256f69d8616e32ad4f-687682e951)
 - [local-section:78b466827061d6a87e484cd6 — 5. The old arithmetic exponent is preserved: GC21--GC22](../records/0153.md#local-section-78b466827061d6a87e484cd6-a9d01e904c)
@@ -146,7 +148,7 @@ Page 33/43; 10578 matching records.
 - [local-section:7f5c6156a62f03b4f8dc704e — 7. Complete rectangles, lower rows and feedback](../records/0153.md#local-section-7f5c6156a62f03b4f8dc704e-2400199619)
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0153.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
-- [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
+- [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0154.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
 - [local-section:7fbfafbaccc58a2dc64c8d35 — G143. Divisor-erasure recovery with literal coprimality and two prices](../records/0154.md#local-section-7fbfafbaccc58a2dc64c8d35-2bda48b58e)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
@@ -226,8 +228,8 @@ Page 33/43; 10578 matching records.
 - [local-section:8765f4b7133e69437e9a9d56 — 4. An exact positive norm and its fully paid diagonal](../records/0154.md#local-section-8765f4b7133e69437e9a9d56-f0245762f2)
 - [local-section:8783e6fbfa4e5f2aeb50796c — 2. Literal source audit](../records/0154.md#local-section-8783e6fbfa4e5f2aeb50796c-7519e07a09)
 - [local-section:87971ae77a1cfda3c8258cbd — 5. Additional complete endpoint improvement](../records/0154.md#local-section-87971ae77a1cfda3c8258cbd-55b0988d84)
-- [local-section:879858b64770c1e697414eaf — 5. Original Schwartz weight, all tails and fixed-datum uniformity](../records/0154.md#local-section-879858b64770c1e697414eaf-48dc2ff484)
-- [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0154.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
+- [local-section:879858b64770c1e697414eaf — 5. Original Schwartz weight, all tails and fixed-datum uniformity](../records/0155.md#local-section-879858b64770c1e697414eaf-48dc2ff484)
+- [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0155.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
 - [local-section:87a9affb06a07980f7a55421 — B1. Finite-prime f3 parity is much smaller than the full unknown parity](../records/0155.md#local-section-87a9affb06a07980f7a55421-5784ae6369)
 - [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0155.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
 - [local-section:87f2d1112ecba41ba147a17e — 2. Primary prime input and order of quantifiers](../records/0155.md#local-section-87f2d1112ecba41ba147a17e-ed8c0e6086)
@@ -256,5 +258,3 @@ Page 33/43; 10578 matching records.
 - [local-section:8a387234f19eedc0866a094b — 4. Common profile before labels; actual HB and slot payment](../records/0155.md#local-section-8a387234f19eedc0866a094b-b19aa169c1)
 - [local-section:8a5f3d0ff1e8c96278fb9356 — 1. Literal source and statement](../records/0155.md#local-section-8a5f3d0ff1e8c96278fb9356-3a3cc387c5)
 - [local-section:8a7f11db1862a117ee96f1aa — 4. The original inverse moment and the exact surviving source](../records/0155.md#local-section-8a7f11db1862a117ee96f1aa-26e4058738)
-- [local-section:8a86dfdbb9ff47121d7b3150 — W40-12 — Multiplicative matrix martingale with signed increments; p=.06](../records/0155.md#local-section-8a86dfdbb9ff47121d7b3150-716bebf933)
-- [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)

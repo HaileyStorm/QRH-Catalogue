@@ -32,7 +32,7 @@ Page 4/4; 794 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::FineMomentInput@37 — FineMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-7efb3830a5)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::RawMomentInput@630 — RawMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-0aec01540c)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::SourceMomentBound@609 — SourceMomentBound](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b1297b3701)
-- [pr26:Physical.Capacity::BareWindow@443 — BareWindow](../records/0215.md#pr26-physical-capacity-barewindow-443-1770c466f1)
+- [pr26:Physical.Capacity::BareWindow@443 — BareWindow](../records/0216.md#pr26-physical-capacity-barewindow-443-1770c466f1)
 - [pr26:Physical.Capacity::baseCapacity@437 — baseCapacity](../records/0216.md#pr26-physical-capacity-basecapacity-437-75699b3eac)
 - [pr26:Physical.Capacity::localCapacity@438 — localCapacity](../records/0216.md#pr26-physical-capacity-localcapacity-438-0fb26a2db8)
 - [pr26:Physical.Capacity::oldCapacity@439 — oldCapacity](../records/0216.md#pr26-physical-capacity-oldcapacity-439-f0eae0715f)

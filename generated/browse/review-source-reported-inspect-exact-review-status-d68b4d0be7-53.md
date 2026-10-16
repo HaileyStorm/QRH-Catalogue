@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/71; 17525 matching records.
+Page 53/71; 17527 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
@@ -42,6 +42,8 @@ Page 53/71; 17525 matching records.
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
 - [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
 - [QRH-CONT-R034-PRIME-OVERLAP-MOMENT — Exact selected/full prime overlap and a short-product moment with repeated primes](../records/0131.md#qrh-cont-r034-prime-overlap-moment-7c0306af14)
+- [QRH-CONT-R038-CUBE-MARK-SIGNAL — Cube-divisibility local factors and separately calibrated reciprocal signals](../records/0131.md#qrh-cont-r038-cube-mark-signal-c3745d499c)
+- [QRH-CONT-R039-CONDITIONED-PRIME-TILTS — Conditioned short-prime moment tilts with zero-bin and width costs](../records/0131.md#qrh-cont-r039-conditioned-prime-tilts-86da57966b)
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0170.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0170.md#local-a02-e20ad4bdfd)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0170.md#local-a03-9e9a3d45e7)
@@ -187,8 +189,8 @@ Page 53/71; 17525 matching records.
 - [pr26:Analytic.ActualExtractedErrorCapsFull — Analytic.ActualExtractedErrorCapsFull](../records/0174.md#pr26-analytic-actualextractederrorcapsfull-28dba18253)
 - [pr26:Analytic.ActualExtractedErrorCapsFull::actual_firstExtractedErrors_power_from_caps_full@666 — actual_firstExtractedErrors_power_from_caps_full](../records/0174.md#pr26-analytic-actualextractederrorcapsfull-actual-firstextractede-476d67e3fc)
 - [pr26:Analytic.ActualExtractedErrors — Analytic.ActualExtractedErrors](../records/0174.md#pr26-analytic-actualextractederrors-bf5fd18c0e)
-- [pr26:Analytic.ActualExtractedErrors::actual_firstExtractedErrors_power@517 — actual_firstExtractedErrors_power](../records/0174.md#pr26-analytic-actualextractederrors-actual-firstextractederrors-p-1fe3082db6)
-- [pr26:Analytic.ActualExtractedLocalErrors — Analytic.ActualExtractedLocalErrors](../records/0174.md#pr26-analytic-actualextractedlocalerrors-48848d2714)
+- [pr26:Analytic.ActualExtractedErrors::actual_firstExtractedErrors_power@517 — actual_firstExtractedErrors_power](../records/0175.md#pr26-analytic-actualextractederrors-actual-firstextractederrors-p-1fe3082db6)
+- [pr26:Analytic.ActualExtractedLocalErrors — Analytic.ActualExtractedLocalErrors](../records/0175.md#pr26-analytic-actualextractedlocalerrors-48848d2714)
 - [pr26:Analytic.ActualExtractedLocalErrors::actual_firstExtractedErrors_local_bound@238 — actual_firstExtractedErrors_local_bound](../records/0175.md#pr26-analytic-actualextractedlocalerrors-actual-firstextractederr-20534f92e4)
 - [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
 - [pr26:Analytic.ActualExtractedLocalErrorsFull::actual_firstExtractedErrors_local_bound_full@78 — actual_firstExtractedErrors_local_bound_full](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-actual-firstextracte-5222f312d2)
@@ -256,5 +258,3 @@ Page 53/71; 17525 matching records.
 - [pr26:Analytic.AllocatedBufferedProfiles — Analytic.AllocatedBufferedProfiles](../records/0175.md#pr26-analytic-allocatedbufferedprofiles-f0fd37c177)
 - [pr26:Analytic.AllocatedBufferedProfiles::actual_allocated_buffered_profiles@308 — actual_allocated_buffered_profiles](../records/0175.md#pr26-analytic-allocatedbufferedprofiles-actual-allocated-buffered-abc3c84915)
 - [pr26:Analytic.BufferedDilation — Analytic.BufferedDilation](../records/0175.md#pr26-analytic-buffereddilation-3dc6d0c6f8)
-- [pr26:Analytic.BufferedDilation::bufferedDilatedProfile@269 — bufferedDilatedProfile](../records/0175.md#pr26-analytic-buffereddilation-buffereddilatedprofile-269-0ee16ae810)
-- [pr26:Analytic.BufferedDilation::dilated_mellin_pair_uniform@246 — dilated_mellin_pair_uniform](../records/0175.md#pr26-analytic-buffereddilation-dilated-mellin-pair-uniform-246-9b6cf772af)

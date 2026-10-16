@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 42/43; 10578 matching records.
+Page 42/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-41.md)
 
 [Next](status-unknown-b23a6a8439-43.md)
 
+- [pr26:Cycle25.Energy.PositiveHighSource — Cycle25.Energy.PositiveHighSource](../records/0200.md#pr26-cycle25-energy-positivehighsource-acf8bd3d1b)
+- [pr26:Cycle25.Energy.PositiveHighSourceBound — Cycle25.Energy.PositiveHighSourceBound](../records/0200.md#pr26-cycle25-energy-positivehighsourcebound-8fd3e874bc)
 - [pr26:Cycle25.Energy.PositiveHighSourceBounded — Cycle25.Energy.PositiveHighSourceBounded](../records/0200.md#pr26-cycle25-energy-positivehighsourcebounded-3f23156c86)
 - [pr26:Cycle25.Energy.ReferenceDeletionCapacity — Cycle25.Energy.ReferenceDeletionCapacity](../records/0200.md#pr26-cycle25-energy-referencedeletioncapacity-77bf3678c6)
 - [pr26:Cycle25.Energy.ReferenceDeletionClipped — Cycle25.Energy.ReferenceDeletionClipped](../records/0200.md#pr26-cycle25-energy-referencedeletionclipped-c0ce95be93)
@@ -26,7 +28,7 @@ Page 42/43; 10578 matching records.
 - [pr26:Cycle25.Numerator.ActiveFourth — Cycle25.Numerator.ActiveFourth](../records/0200.md#pr26-cycle25-numerator-activefourth-8c401189ac)
 - [pr26:Cycle25.Numerator.ActualBin — Cycle25.Numerator.ActualBin](../records/0200.md#pr26-cycle25-numerator-actualbin-9d7e2559b9)
 - [pr26:Cycle25.Numerator.AmplitudeHolder — Cycle25.Numerator.AmplitudeHolder](../records/0200.md#pr26-cycle25-numerator-amplitudeholder-51ec49e247)
-- [pr26:Cycle25.Numerator.AmplitudeLoss — Cycle25.Numerator.AmplitudeLoss](../records/0200.md#pr26-cycle25-numerator-amplitudeloss-4281a62e6a)
+- [pr26:Cycle25.Numerator.AmplitudeLoss — Cycle25.Numerator.AmplitudeLoss](../records/0201.md#pr26-cycle25-numerator-amplitudeloss-4281a62e6a)
 - [pr26:Cycle25.Numerator.BoxGeometry — Cycle25.Numerator.BoxGeometry](../records/0201.md#pr26-cycle25-numerator-boxgeometry-b39d6fcf08)
 - [pr26:Cycle25.Numerator.BoxReconstruction — Cycle25.Numerator.BoxReconstruction](../records/0201.md#pr26-cycle25-numerator-boxreconstruction-3c3cbcb2de)
 - [pr26:Cycle25.Numerator.Damping — Cycle25.Numerator.Damping](../records/0201.md#pr26-cycle25-numerator-damping-2c743c8878)
@@ -192,7 +194,7 @@ Page 42/43; 10578 matching records.
 - [pr26:Global.Transport.CubeFloorCollected — Global.Transport.CubeFloorCollected](../records/0210.md#pr26-global-transport-cubefloorcollected-bbb6ce776b)
 - [pr26:Global.Transport.CubeFloorGlobal — Global.Transport.CubeFloorGlobal](../records/0210.md#pr26-global-transport-cubefloorglobal-b13c6b07f1)
 - [pr26:Global.Transport.CubeFloorGlobalIntegral — Global.Transport.CubeFloorGlobalIntegral](../records/0210.md#pr26-global-transport-cubefloorglobalintegral-0d4ec09a97)
-- [pr26:Global.Transport.CubeFloorNormalized — Global.Transport.CubeFloorNormalized](../records/0210.md#pr26-global-transport-cubefloornormalized-cd72441999)
+- [pr26:Global.Transport.CubeFloorNormalized — Global.Transport.CubeFloorNormalized](../records/0211.md#pr26-global-transport-cubefloornormalized-cd72441999)
 - [pr26:Global.Transport.CubeFloorSaving — Global.Transport.CubeFloorSaving](../records/0211.md#pr26-global-transport-cubefloorsaving-4d48fddba9)
 - [pr26:Global.Transport.CubeFullWNormalized — Global.Transport.CubeFullWNormalized](../records/0211.md#pr26-global-transport-cubefullwnormalized-e071176eb7)
 - [pr26:Global.Transport.CubeFullWTransfer — Global.Transport.CubeFullWTransfer](../records/0211.md#pr26-global-transport-cubefullwtransfer-3ff4021d43)
@@ -232,7 +234,7 @@ Page 42/43; 10578 matching records.
 - [pr26:Global.Transport.SignalShift — Global.Transport.SignalShift](../records/0213.md#pr26-global-transport-signalshift-23fce85c29)
 - [pr26:Global.Transport.SmallTail — Global.Transport.SmallTail](../records/0213.md#pr26-global-transport-smalltail-1919130b94)
 - [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0213.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
-- [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0213.md#pr26-global-transport-tailscales-92c528c07f)
+- [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0214.md#pr26-global-transport-tailscales-92c528c07f)
 - [pr26:Global.Weighted.CellGeometry — Global.Weighted.CellGeometry](../records/0214.md#pr26-global-weighted-cellgeometry-f510f267cc)
 - [pr26:Global.Weighted.FullWCellInput — Global.Weighted.FullWCellInput](../records/0214.md#pr26-global-weighted-fullwcellinput-d66a0e175a)
 - [pr26:Global.Weighted.Input — Global.Weighted.Input](../records/0214.md#pr26-global-weighted-input-285ce29193)
@@ -256,5 +258,3 @@ Page 42/43; 10578 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-6feda61b95)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyarithmetic-e23e66f593)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycertifiedb-cf9b8ae6c2)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-b04b816de4)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyclass-02e4d1c023)

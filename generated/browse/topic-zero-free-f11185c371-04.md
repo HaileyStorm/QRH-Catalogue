@@ -30,7 +30,7 @@ Page 4/4; 797 matching records.
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0173.md#local-g283-bef435ea5c)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0173.md#local-g291-a2d579dcd5)
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
-- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
+- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0174.md#local-g69-9bdd438ff0)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0174.md#local-g77-f75acc7bc5)

@@ -2,10 +2,12 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17525 matching records.
+Page 71/71; 17527 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [reviewed-claim:T08-common-completion-equivalence — \[research revision\]-claim:T08-common-completion-equivalence](../records/0218.md#reviewed-claim-t08-common-completion-equivalence-2e66dac966)
+- [reviewed-claim:T08-corridor-closure — \[research revision\]-claim:T08-corridor-closure](../records/0218.md#reviewed-claim-t08-corridor-closure-533dfc5eb4)
 - [reviewed-claim:T08-exact-incidence — \[research revision\]-claim:T08-exact-incidence](../records/0218.md#reviewed-claim-t08-exact-incidence-afec707c2b)
 - [reviewed-claim:T08-finite-incidence-transfer — \[research revision\]-claim:T08-finite-incidence-transfer](../records/0218.md#reviewed-claim-t08-finite-incidence-transfer-1d3757e237)
 - [reviewed-claim:T08-fixed-buffer — \[research revision\]-claim:T08-fixed-buffer](../records/0218.md#reviewed-claim-t08-fixed-buffer-adde43a7ae)

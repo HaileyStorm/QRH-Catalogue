@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 70/71; 17525 matching records.
+Page 70/71; 17527 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-69.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-71.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b9b6013520)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::RawMomentInput@630 — RawMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-0aec01540c)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::SourceMomentBound.mono_constant@621 — SourceMomentBound.mono_constant](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-5488bc43af)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::SourceMomentBound@609 — SourceMomentBound](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b1297b3701)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::polynomial_height_absorption@638 — polynomial_height_absorption](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b056378442)
@@ -37,8 +39,8 @@ Page 70/71; 17525 matching records.
 - [pr26:Physical.Bins — Physical.Bins](../records/0215.md#pr26-physical-bins-6cebe091b2)
 - [pr26:Physical.Bins::finite_half_mass_bins@519 — finite_half_mass_bins](../records/0215.md#pr26-physical-bins-finite-half-mass-bins-519-8225ee7bbb)
 - [pr26:Physical.Bins::half_mass_dilation_bin@488 — half_mass_dilation_bin](../records/0215.md#pr26-physical-bins-half-mass-dilation-bin-488-07e62e4d76)
-- [pr26:Physical.Capacity — Physical.Capacity](../records/0215.md#pr26-physical-capacity-a722478daf)
-- [pr26:Physical.Capacity::BareWindow@443 — BareWindow](../records/0215.md#pr26-physical-capacity-barewindow-443-1770c466f1)
+- [pr26:Physical.Capacity — Physical.Capacity](../records/0216.md#pr26-physical-capacity-a722478daf)
+- [pr26:Physical.Capacity::BareWindow@443 — BareWindow](../records/0216.md#pr26-physical-capacity-barewindow-443-1770c466f1)
 - [pr26:Physical.Capacity::baseCapacity@437 — baseCapacity](../records/0216.md#pr26-physical-capacity-basecapacity-437-75699b3eac)
 - [pr26:Physical.Capacity::baseCapacity_bounds@445 — baseCapacity_bounds](../records/0216.md#pr26-physical-capacity-basecapacity-bounds-445-88fb32e500)
 - [pr26:Physical.Capacity::localCapacity@438 — localCapacity](../records/0216.md#pr26-physical-capacity-localcapacity-438-0fb26a2db8)
@@ -137,8 +139,8 @@ Page 70/71; 17525 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::restrictLive@642 — restrictLive](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-restrictlive-642-e2e7e0ec7a)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::width@633 — width](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-width-633-d29d59b56e)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::zero_only_floor@802 — zero_only_floor](../records/0216.md#pr26-zetazerofree-analytic-moments-plain-zero-only-floor-802-363aaa2380)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional — ZetaZeroFree.Analytic.Moments.Unconditional](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-1da4349f4f)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::active_span_swap@2654 — active_span_swap](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-active-span-swap-dda682d5f6)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional — ZetaZeroFree.Analytic.Moments.Unconditional](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-1da4349f4f)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::active_span_swap@2654 — active_span_swap](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-active-span-swap-dda682d5f6)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_admitted_subsets_high_column@9364 — actual_admitted_subsets_high_column](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-admitted--119c805aea)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_admitted_subsets_low_column@8936 — actual_admitted_subsets_low_column](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-admitted--35efc8878b)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_allocated_paid_bands@2315 — actual_allocated_paid_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-allocated-d4f70845c7)
@@ -227,8 +229,8 @@ Page 70/71; 17525 matching records.
 - [review:A14 — \[research revision\]-review:A14](../records/0217.md#review-a14-9001c6dd5f)
 - [review:A15 — \[research revision\]-review:A15](../records/0217.md#review-a15-0a087c3e9a)
 - [review:A16 — \[research revision\]-review:A16](../records/0217.md#review-a16-ab76cbf224)
-- [review:A17 — \[research revision\]-review:A17](../records/0217.md#review-a17-39b81947a9)
-- [review:A18 — \[research revision\]-review:A18](../records/0217.md#review-a18-a1368f48cf)
+- [review:A17 — \[research revision\]-review:A17](../records/0218.md#review-a17-39b81947a9)
+- [review:A18 — \[research revision\]-review:A18](../records/0218.md#review-a18-a1368f48cf)
 - [review:T01 — \[research revision\]-review:T01](../records/0218.md#review-t01-d60a8ef6a7)
 - [review:T02 — \[research revision\]-review:T02](../records/0218.md#review-t02-74c6b63ea9)
 - [review:T03 — \[research revision\]-review:T03](../records/0218.md#review-t03-67333eb8a1)
@@ -256,5 +258,3 @@ Page 70/71; 17525 matching records.
 - [reviewed-claim:A14-model-comparisons — \[research revision\]-claim:A14-model-comparisons](../records/0218.md#reviewed-claim-a14-model-comparisons-ccff46b733)
 - [reviewed-claim:A14-saturated-window — \[research revision\]-claim:A14-saturated-window](../records/0218.md#reviewed-claim-a14-saturated-window-8a05a47159)
 - [reviewed-claim:A14-sixth-power-projection — \[research revision\]-claim:A14-sixth-power-projection](../records/0218.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)
-- [reviewed-claim:T08-common-completion-equivalence — \[research revision\]-claim:T08-common-completion-equivalence](../records/0218.md#reviewed-claim-t08-common-completion-equivalence-2e66dac966)
-- [reviewed-claim:T08-corridor-closure — \[research revision\]-claim:T08-corridor-closure](../records/0218.md#reviewed-claim-t08-corridor-closure-533dfc5eb4)

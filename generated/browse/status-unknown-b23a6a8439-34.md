@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 34/43; 10578 matching records.
+Page 34/43; 10580 matching records.
 
 [Previous](status-unknown-b23a6a8439-33.md)
 
 [Next](status-unknown-b23a6a8439-35.md)
 
+- [local-section:8a86dfdbb9ff47121d7b3150 — W40-12 — Multiplicative matrix martingale with signed increments; p=.06](../records/0155.md#local-section-8a86dfdbb9ff47121d7b3150-716bebf933)
+- [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
 - [local-section:8a927db3735ee3decd667c43 — W40-26 — Sieve syndrome with exact erasure completion; p=.009](../records/0155.md#local-section-8a927db3735ee3decd667c43-50dc6fb6f7)
 - [local-section:8a98d228ede588df90ff5044 — 4. Full endpoint return](../records/0155.md#local-section-8a98d228ede588df90ff5044-f605183a23)
 - [local-section:8ac113c63caa7e0dca5c05fe — A5. The strongest objection produces an exact signed compression](../records/0155.md#local-section-8ac113c63caa7e0dca5c05fe-1d4e8e4646)
@@ -150,8 +152,8 @@ Page 34/43; 10578 matching records.
 - [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0156.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
 - [local-section:96cdd570e8ecf5456a0ab7ee — 3. Weighted coherent coefficient mass](../records/0156.md#local-section-96cdd570e8ecf5456a0ab7ee-ed28a2b733)
 - [local-section:96d81c97c2bd8f3ac8141eb7 — 2. Exact full signed gcd sector, before any positivity step](../records/0156.md#local-section-96d81c97c2bd8f3ac8141eb7-9f2b0335ba)
-- [local-section:96f295b9e7bfc83b92511c4b — \[research revision\]: complete rough correlations and local-set observation](../records/0156.md#local-section-96f295b9e7bfc83b92511c4b-a4150be9ea)
-- [local-section:970e32e13595436ccbf2bbf0 — Initial discovery, before duplicate pruning](../records/0156.md#local-section-970e32e13595436ccbf2bbf0-3ff1c320df)
+- [local-section:96f295b9e7bfc83b92511c4b — \[research revision\]: complete rough correlations and local-set observation](../records/0157.md#local-section-96f295b9e7bfc83b92511c4b-a4150be9ea)
+- [local-section:970e32e13595436ccbf2bbf0 — Initial discovery, before duplicate pruning](../records/0157.md#local-section-970e32e13595436ccbf2bbf0-3ff1c320df)
 - [local-section:975ba30e67e20cede77c3321 — Frozen objective and discovery](../records/0157.md#local-section-975ba30e67e20cede77c3321-32cc772772)
 - [local-section:975de8818c7a16f37884083b — Evidence, ancestry and next estimates](../records/0157.md#local-section-975de8818c7a16f37884083b-b366145999)
 - [local-section:97654c379b82b39fa0d0354a — 6. Size and limitations of the new sector](../records/0157.md#local-section-97654c379b82b39fa0d0354a-01e843b9e1)
@@ -235,8 +237,8 @@ Page 34/43; 10578 matching records.
 - [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0157.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
 - [local-section:9e68f5fa52900feae403267a — 3. Uniform row completion with the actual forced scale](../records/0157.md#local-section-9e68f5fa52900feae403267a-093ae58591)
 - [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0157.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
-- [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0157.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
-- [local-section:9e7e481702dd9153d5df32a9 — Review boundary](../records/0157.md#local-section-9e7e481702dd9153d5df32a9-88590b5431)
+- [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0158.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
+- [local-section:9e7e481702dd9153d5df32a9 — Review boundary](../records/0158.md#local-section-9e7e481702dd9153d5df32a9-88590b5431)
 - [local-section:9e8b6e2d5ff4eb91922a49b4 — 1. The local-set theorem](../records/0158.md#local-section-9e8b6e2d5ff4eb91922a49b4-44e5160df5)
 - [local-section:9ea3f39f3fe57382d853c77b — 6. The actual common-zero identity before witness selection](../records/0158.md#local-section-9ea3f39f3fe57382d853c77b-fac8a9ae8a)
 - [local-section:9eb900e5ddd472a6b32a5c86 — 3. Double compensation is coefficient-exact](../records/0158.md#local-section-9eb900e5ddd472a6b32a5c86-d67de0fc91)
@@ -256,5 +258,3 @@ Page 34/43; 10578 matching records.
 - [local-section:a05b158e973dee5b2abe3fd5 — 4. The other sextic mechanisms: restriction, probe correlation, numerator and calibration](../records/0158.md#local-section-a05b158e973dee5b2abe3fd5-656bbc23f4)
 - [local-section:a0c8279f3678414eb860828d — 3.3 A finite retained source with both complementary errors paid](../records/0158.md#local-section-a0c8279f3678414eb860828d-8ca73e074e)
 - [local-section:a0dae9e6c699ad575aeb7cbf — 1. Scope, blind chronology and evidence](../records/0158.md#local-section-a0dae9e6c699ad575aeb7cbf-bb5e7e5d96)
-- [local-section:a0dec8bd0e96306640e0d5f3 — G210. Unequal energies and all collision-label sums](../records/0158.md#local-section-a0dec8bd0e96306640e0d5f3-8515b929a4)
-- [local-section:a0f6b7f293bc3e9699fe2799 — R8. Uniform27: weighted four-cycles, not an unpriced frustration count](../records/0158.md#local-section-a0f6b7f293bc3e9699fe2799-26d84a7299)

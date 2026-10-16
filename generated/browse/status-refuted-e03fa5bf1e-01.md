@@ -19,6 +19,6 @@ Page 1/1; 18 matching records.
 - [local:F24.X — F24.X — Modular scattering denominatorΛ(2s) sees zeta zeroρ at parameterρ/2, outside asserted L² chamber](../records/0171.md#local-f24-x-1c41b68634)
 - [local:F26.O — F26.O — Prime diagonal det(I−T_s)=1/ζ onlyσ\>1; det₂ extension omits e^−P(s), which retains unresolved poles](../records/0171.md#local-f26-o-92cd4af753)
 - [review:A13 — \[research revision\]-review:A13](../records/0217.md#review-a13-381097af30)
-- [review:A17 — \[research revision\]-review:A17](../records/0217.md#review-a17-39b81947a9)
+- [review:A17 — \[research revision\]-review:A17](../records/0218.md#review-a17-39b81947a9)
 - [reviewed-claim:A13-Gemini-false-identity — \[research revision\]-claim:A13-Gemini-false-identity](../records/0218.md#reviewed-claim-a13-gemini-false-identity-2aa8791af0)
 - [reviewed-claim:cubic-A02 — \[research revision\]-claim:cubic-A02](../records/0218.md#reviewed-claim-cubic-a02-0d4f2c45e2)

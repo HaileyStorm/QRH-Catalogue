@@ -15,7 +15,7 @@ Page 1/1; 54 matching records.
 - [local-section:118963bd238118ae6080faa5 — Remaining arithmetic and potential](../records/0139.md#local-section-118963bd238118ae6080faa5-aea794362b)
 - [local-section:1511c22742fbf0b393529c47 — \[research revision\] independent review: growing-order balanced completion and its exact arithmetic target](../records/0140.md#local-section-1511c22742fbf0b393529c47-fdef8d364f)
 - [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0140.md#local-section-160b4939857b2accee77efb9-442b8b8857)
-- [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0140.md#local-section-1b7972de99305d82899b971b-ad968fff11)
+- [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0141.md#local-section-1b7972de99305d82899b971b-ad968fff11)
 - [local-section:1cb76ddeb165bbea4bbff611 — 5. Prior SU(2) use and useful next action](../records/0141.md#local-section-1cb76ddeb165bbea4bbff611-f7b8c1433a)
 - [local-section:1cfd335cb0fa6708c15b4db1 — Signed readouts, paid prime cutoffs and actual positive Gram prices](../records/0141.md#local-section-1cfd335cb0fa6708c15b4db1-e0609bdb72)
 - [local-section:203154b6c64da8ecb39d9245 — \[research revision\] discovery pass: arithmetic dilates and the localization deficit](../records/0141.md#local-section-203154b6c64da8ecb39d9245-1a6869d78d)
