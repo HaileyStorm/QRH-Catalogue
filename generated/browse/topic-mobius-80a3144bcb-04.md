@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 959 matching records.
+Page 4/4; 960 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:dd0b43c79077be96ec22538f — D04: complete collars and derivative costs](../records/0166.md#local-section-dd0b43c79077be96ec22538f-9e6d851326)
 - [local-section:dd2db0f40e9a61653f617712 — Finite-prime pole cancellation for a narrow zero detector](../records/0166.md#local-section-dd2db0f40e9a61653f617712-330bcb2a6b)
 - [local-section:dd9dfa23ebe72e54b19ac8e9 — 7. Controller observation: the full-cutoff contract is Mertens-equivalent](../records/0166.md#local-section-dd9dfa23ebe72e54b19ac8e9-70406e30b2)
 - [local-section:ddc728001ba17d762f664136 — 4. Development23: the exact large-prime response diameter](../records/0166.md#local-section-ddc728001ba17d762f664136-00a0ca0c76)
@@ -47,7 +48,7 @@ Page 4/4; 959 matching records.
 - [local-section:ea71b170dfe41e0b8c4f60d3 — 23. Growing-order arithmetic sectors and centered exceptional reserve](../records/0167.md#local-section-ea71b170dfe41e0b8c4f60d3-a4c28573cb)
 - [local-section:ea889cd945a4e5e459d93cec — \[research revision\]: the actual Möbius core moment](../records/0167.md#local-section-ea889cd945a4e5e459d93cec-f5d2435ec4)
 - [local-section:eaac231b398f980e74c7e5a3 — W39 / \[research revision\] independent mathematical review](../records/0167.md#local-section-eaac231b398f980e74c7e5a3-32de86ab05)
-- [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
+- [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0168.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0168.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:eba218e9145ecd7c55b4b800 — G106. Isolated root of the complete cutoff polynomial](../records/0168.md#local-section-eba218e9145ecd7c55b4b800-95a0534d1e)
 - [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0168.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
@@ -74,8 +75,8 @@ Page 4/4; 959 matching records.
 - [local-section:f05f30d392cd5b1d0fd0aa46 — 3. Merged completion and the new radical support identity](../records/0168.md#local-section-f05f30d392cd5b1d0fd0aa46-ea9d6e2212)
 - [local-section:f17eb5d58a001f4438650df0 — 3. D26: pay unrevealed correction primes after removing a known L-factor](../records/0168.md#local-section-f17eb5d58a001f4438650df0-5eec68a5e0)
 - [local-section:f1c1f6c47809ecb98c3cc623 — G155. Actual large-common-divisor saving](../records/0168.md#local-section-f1c1f6c47809ecb98c3cc623-a0e083ae17)
-- [local-section:f304532ae1813958a28c3655 — G125. Exact curved return and actual coarse bound](../records/0168.md#local-section-f304532ae1813958a28c3655-f059b83dc8)
-- [local-section:f33438366b188e3af92b51a7 — R42.8. Other first tests: precise reach](../records/0168.md#local-section-f33438366b188e3af92b51a7-c4db9ed484)
+- [local-section:f304532ae1813958a28c3655 — G125. Exact curved return and actual coarse bound](../records/0169.md#local-section-f304532ae1813958a28c3655-f059b83dc8)
+- [local-section:f33438366b188e3af92b51a7 — R42.8. Other first tests: precise reach](../records/0169.md#local-section-f33438366b188e3af92b51a7-c4db9ed484)
 - [local-section:f36856d31f7769c616707c11 — \[research revision\]: complete Gaussian compression and source-feedback obstructions](../records/0169.md#local-section-f36856d31f7769c616707c11-1b4a6267d5)
 - [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0169.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0169.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
@@ -99,8 +100,8 @@ Page 4/4; 959 matching records.
 - [local-section:f9408f431fd6b0324deca0e4 — \[research revision\]: all four cross-gcd sectors paid in the original mixed source](../records/0169.md#local-section-f9408f431fd6b0324deca0e4-e2646470c9)
 - [local-section:f9d9026ef10be9566ac27635 — \[research revision\]: one fixed balanced test and limits of the existing sextic budget](../records/0169.md#local-section-f9d9026ef10be9566ac27635-4ce442e709)
 - [local-section:fa206dfebde122b90d2b31bb — 39. Curved detector and a complete nonprincipal bank](../records/0169.md#local-section-fa206dfebde122b90d2b31bb-d4ffe66966)
-- [local-section:fab4f807b95b813232046002 — F01. Multiscale Möbius decomposition and signed block control](../records/0169.md#local-section-fab4f807b95b813232046002-1ece3d3c92)
-- [local-section:faca33f6323c9c4d43e425e3 — \[research revision\] independent review: actual f3 hard correlation](../records/0169.md#local-section-faca33f6323c9c4d43e425e3-de94f7d95a)
+- [local-section:fab4f807b95b813232046002 — F01. Multiscale Möbius decomposition and signed block control](../records/0170.md#local-section-fab4f807b95b813232046002-1ece3d3c92)
+- [local-section:faca33f6323c9c4d43e425e3 — \[research revision\] independent review: actual f3 hard correlation](../records/0170.md#local-section-faca33f6323c9c4d43e425e3-de94f7d95a)
 - [local-section:fb3aa09c6b13770dda7e67a5 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-section-fb3aa09c6b13770dda7e67a5-4f88720cd9)
 - [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0170.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
 - [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0170.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
@@ -195,8 +196,8 @@ Page 4/4; 959 matching records.
 - [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0173.md#local-g280-92c627efc9)
 - [local:G281 — G281. Complete exponential Green energy, exact finite-site readout and weighted-prefix return](../records/0173.md#local-g281-08e5b2df7d)
 - [local:G282 — G282. Conditional Mobius parity entropy, paid CRT discrepancy and character equivalence](../records/0173.md#local-g282-80ac2a35f5)
-- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
-- [local:G298 — G298. Fixed-depth periodic inverse and complete multivariate Abel payment](../records/0173.md#local-g298-3312f01d4a)
+- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0174.md#local-g295-06047ab12a)
+- [local:G298 — G298. Fixed-depth periodic inverse and complete multivariate Abel payment](../records/0174.md#local-g298-3312f01d4a)
 - [local:G303 — G303. Unit-invariant additive and sign expansions of ideal masks with explicit level costs](../records/0174.md#local-g303-fdf949bbae)
 - [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0174.md#local-g307-de7641143f)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0174.md#local-g6-e89f333778)

@@ -4,7 +4,7 @@
 
 Page 1/1; 7 matching records.
 
-- [P30-14 — Unproved sixth numerator moment route](../records/0129.md#p30-14-9b2450ed55)
+- [P30-14 — Unproved sixth numerator moment route](../records/0130.md#p30-14-9b2450ed55)
 - [P30-15 — Quartic-numerator inverse mixed target](../records/0130.md#p30-15-343bff8420)
 - [P30-16 — Simultaneous inverse/plain/physical mixed variant](../records/0130.md#p30-16-922bc5e90a)
 - [P30-29 — Improving sixth-power padding slope](../records/0130.md#p30-29-4d53077bb1)

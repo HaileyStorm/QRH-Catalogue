@@ -2,10 +2,11 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 700 matching records.
+Page 3/3; 701 matching records.
 
 [Previous](object-signed-energy-c52ce005f6-02.md)
 
+- [local-section:c4ab52ba58d3b91e0c3bc25d — D12 / S12: accept the conditional same-exponent return](../records/0163.md#local-section-c4ab52ba58d3b91e0c3bc25d-9f62cb3eb5)
 - [local-section:c51e9e04d8f796d976c208d5 — Evidence, novelty and next mathematical action](../records/0163.md#local-section-c51e9e04d8f796d976c208d5-561d4e4183)
 - [local-section:c58336f5f0daf0157988ce26 — Group 6: high ceiling / invented connection / reverse implication and converse](../records/0163.md#local-section-c58336f5f0daf0157988ce26-75945f72da)
 - [local-section:c6883bea517977af28e46858 — 5. Failed selected tests28/21, at their precise scopes](../records/0163.md#local-section-c6883bea517977af28e46858-9881ea7a0d)
@@ -40,8 +41,8 @@ Page 3/3; 700 matching records.
 - [local-section:d23cfc251192db42b690e2fe — 6. Why direct canonical merging remains open](../records/0164.md#local-section-d23cfc251192db42b690e2fe-f3889d66e5)
 - [local-section:d2857bef7c7e22b5100234aa — Actual signed Hankel source: paid Type I and frequency complements](../records/0164.md#local-section-d2857bef7c7e22b5100234aa-a7133f1f1f)
 - [local-section:d2d277427d32d0b880f62317 — 3.1 Green comparison and the loss](../records/0164.md#local-section-d2d277427d32d0b880f62317-8124de2b97)
-- [local-section:d3460a4eb038f469b075a5af — Independent W65 audits before author outcome intake](../records/0164.md#local-section-d3460a4eb038f469b075a5af-69e6c4d77a)
-- [local-section:d353c85b384424faf44a4be5 — 2. Useful failures and exact reopening conditions](../records/0164.md#local-section-d353c85b384424faf44a4be5-ccf0041174)
+- [local-section:d3460a4eb038f469b075a5af — Independent W65 audits before author outcome intake](../records/0165.md#local-section-d3460a4eb038f469b075a5af-69e6c4d77a)
+- [local-section:d353c85b384424faf44a4be5 — 2. Useful failures and exact reopening conditions](../records/0165.md#local-section-d353c85b384424faf44a4be5-ccf0041174)
 - [local-section:d40c13cf5e0e758f99cc1549 — W66 independent review: affordable inversion, paid critical cutoff, open arithmetic](../records/0165.md#local-section-d40c13cf5e0e758f99cc1549-511479cc40)
 - [local-section:d50557497e9fec31cd47de8c — W53 independent review: pressure, prime blocks and the two frozen audits](../records/0165.md#local-section-d50557497e9fec31cd47de8c-17a97977ad)
 - [local-section:d521054623e00d90249d1e34 — \[research revision\]: failed implications, corrected scopes, and surviving exits](../records/0165.md#local-section-d521054623e00d90249d1e34-6613809ee5)
@@ -67,7 +68,7 @@ Page 3/3; 700 matching records.
 - [local-section:d902367a647f11fa6cc20765 — Novelty, calibration and useful next work](../records/0165.md#local-section-d902367a647f11fa6cc20765-1e93ac8ec8)
 - [local-section:d92b43110b6819e513cee769 — A far-source reduction to two separated inverse witnesses](../records/0165.md#local-section-d92b43110b6819e513cee769-a3834c375d)
 - [local-section:d9c9df346a273e0861cdbf4e — 6. The other three first tests](../records/0165.md#local-section-d9c9df346a273e0861cdbf4e-a989e14773)
-- [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0165.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
+- [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0166.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
 - [local-section:dae2097ca5c421142c1802ba — 4. The finite signed core and paid complements](../records/0166.md#local-section-dae2097ca5c421142c1802ba-0412a17547)
 - [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0166.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
 - [local-section:db99ba545c6ce114485720d4 — 10. Checks, limitations, and handoff boundary](../records/0166.md#local-section-db99ba545c6ce114485720d4-cdb7a82301)
@@ -112,7 +113,7 @@ Page 3/3; 700 matching records.
 - [local-section:ea5ed15f7313d698dd4699a4 — \[research revision\]: W55 finite detector transfer and complete signed targets](../records/0167.md#local-section-ea5ed15f7313d698dd4699a4-36f3bcc80a)
 - [local-section:eaac231b398f980e74c7e5a3 — W39 / \[research revision\] independent mathematical review](../records/0167.md#local-section-eaac231b398f980e74c7e5a3-32de86ab05)
 - [local-section:eae280c4c987a9592cd692a5 — 3. Complete signed fixed-grid obstruction and finite seeds](../records/0167.md#local-section-eae280c4c987a9592cd692a5-bf576517d0)
-- [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
+- [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0168.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0168.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:eb99833da1986e77925f5a0b — D26.4 Sixth-power extraction and the stronger paid target](../records/0168.md#local-section-eb99833da1986e77925f5a0b-aa4f2afc2b)
 - [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0168.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
@@ -138,7 +139,7 @@ Page 3/3; 700 matching records.
 - [local-section:f0ffdd538fb3b4d316f5bfc7 — 5. Two transforms, joint labels, and low/high estimates](../records/0168.md#local-section-f0ffdd538fb3b4d316f5bfc7-fe2791c41b)
 - [local-section:f17eb5d58a001f4438650df0 — 3. D26: pay unrevealed correction primes after removing a known L-factor](../records/0168.md#local-section-f17eb5d58a001f4438650df0-5eec68a5e0)
 - [local-section:f25f125317b1ca1f80d242c1 — 2. Pointwise source and its paid cost](../records/0168.md#local-section-f25f125317b1ca1f80d242c1-c520451adf)
-- [local-section:f314a32e5f4859f824815be2 — Verdict and exact increment](../records/0168.md#local-section-f314a32e5f4859f824815be2-c0c03bdee0)
+- [local-section:f314a32e5f4859f824815be2 — Verdict and exact increment](../records/0169.md#local-section-f314a32e5f4859f824815be2-c0c03bdee0)
 - [local-section:f3bed8b2ecbc4b5e7411423c — 8. Evidence and next action](../records/0169.md#local-section-f3bed8b2ecbc4b5e7411423c-b6881a238e)
 - [local-section:f3f6112b3549379c0b822adf — G95. An exact source with a positive signed global leading term](../records/0169.md#local-section-f3f6112b3549379c0b822adf-e72e558c7a)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0169.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)

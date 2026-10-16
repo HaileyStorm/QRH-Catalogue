@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 797 matching records.
+Page 1/4; 799 matching records.
 
 [Next](topic-zero-free-f11185c371-02.md)
 
@@ -65,6 +65,8 @@ Page 1/4; 797 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.RowCompletion.ThetaNonvanishing — OAI.NumberTheory.DirichletL.RowCompletion.ThetaNonvanishing](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-rowcompletion-theta-e400a72c47)
 - [M23-WRAPPER — Classical nonvanishing at theta1 using Mathlib LSeries nonvanishing and LFunction=LSeries; zeta specialization](../records/0129.md#m23-wrapper-a69bd02e3e)
 - [QRH-CONT-M012-CONDUCTOR-ADAPTER — Universal ordinary seed adapter with logarithmic covariance conductor cost](../records/0131.md#qrh-cont-m012-conductor-adapter-2e0ea3bdfa)
+- [QRH-CONT-R069-ORDINARY-HEAT-RETURN — Complete ordinary heat indicator and fixed-line zero-free return](../records/0131.md#qrh-cont-r069-ordinary-heat-return-c9ed9cd5a4)
+- [QRH-CONT-R072-CENTERED-LONG-PAIR-HEAT — Complete ordinary centered long-long-cofactor heat reduction](../records/0131.md#qrh-cont-r072-centered-long-pair-heat-a1f8a8ae5f)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0137.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
@@ -93,7 +95,7 @@ Page 1/4; 797 matching records.
 - [local-section:0991c82dc8d1b52a63041c6d — 1. Decision, statement, and evidence class](../records/0138.md#local-section-0991c82dc8d1b52a63041c6d-43292b5ae8)
 - [local-section:099442ad3ce711ca40ec925e — 4. Common-filter arithmetic payment: full proof audit](../records/0138.md#local-section-099442ad3ce711ca40ec925e-4e9180b458)
 - [local-section:099ea90e765b38d0a0bc0243 — 3. The actual witness contract](../records/0138.md#local-section-099ea90e765b38d0a0bc0243-33e4477fc2)
-- [local-section:09e81877dd91cdfd6a1ba02a — T09b. Compact-profile triple-convolution criterion](../records/0138.md#local-section-09e81877dd91cdfd6a1ba02a-c691afa5ab)
+- [local-section:09e81877dd91cdfd6a1ba02a — T09b. Compact-profile triple-convolution criterion](../records/0139.md#local-section-09e81877dd91cdfd6a1ba02a-c691afa5ab)
 - [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0139.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0139.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0139.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
@@ -117,8 +119,8 @@ Page 1/4; 797 matching records.
 - [local-section:100108cea4ba380f43271ffc — W53: finite-prime log pressure and phase-balanced blocks](../records/0139.md#local-section-100108cea4ba380f43271ffc-431eaad6e9)
 - [local-section:10c38729d32cfd9413bf0bd8 — 6. A useful closed local plane and unaffected branches](../records/0139.md#local-section-10c38729d32cfd9413bf0bd8-02ccdfc1e9)
 - [local-section:10e0b59d783d31dc0eae0ef6 — Independent square-collision refinement — proof record](../records/0139.md#local-section-10e0b59d783d31dc0eae0ef6-0e40738dc8)
-- [local-section:11aed782bac35ff6dd5212da — W40 — signed boundary budgets, the cost of positivity, and long projector cycles](../records/0139.md#local-section-11aed782bac35ff6dd5212da-7c09a722f8)
-- [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0139.md#local-section-11eb0e49462494399ea90080-bef6786726)
+- [local-section:11aed782bac35ff6dd5212da — W40 — signed boundary budgets, the cost of positivity, and long projector cycles](../records/0140.md#local-section-11aed782bac35ff6dd5212da-7c09a722f8)
+- [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0140.md#local-section-11eb0e49462494399ea90080-bef6786726)
 - [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0140.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
 - [local-section:135f2d4b7dec2a2cf76f3e00 — Source and discovery record](../records/0140.md#local-section-135f2d4b7dec2a2cf76f3e00-52fec6bd6a)
 - [local-section:136992535e0923895bbf7b26 — 6. Coarse attempts on the actual hard remainder](../records/0140.md#local-section-136992535e0923895bbf7b26-cf5523b89c)
@@ -160,7 +162,7 @@ Page 1/4; 797 matching records.
 - [local-section:20b0bf4acb9e90acbb2a214c — 3. Simultaneous detectors can cover numerator zeros](../records/0141.md#local-section-20b0bf4acb9e90acbb2a214c-1c24dcf572)
 - [local-section:20e4b37727cde3aaa51ec5f8 — \[research revision\]: weighted physical radical mass](../records/0141.md#local-section-20e4b37727cde3aaa51ec5f8-dd746269dd)
 - [local-section:2109fa82e7c49e55dc7481a9 — 7. Evidence and provenance](../records/0141.md#local-section-2109fa82e7c49e55dc7481a9-bbc1db6e4d)
-- [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0141.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
+- [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0142.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
 - [local-section:225669f8b1c71da81acaa1df — 2. A/S03: a fully paid moving-order Riesz return](../records/0142.md#local-section-225669f8b1c71da81acaa1df-4973280aea)
 - [local-section:22db3afc9817834e3cd9b37c — 11. Principal, finite, large and off-height fields; common-saving return](../records/0142.md#local-section-22db3afc9817834e3cd9b37c-147d5ee39c)
 - [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
@@ -185,8 +187,8 @@ Page 1/4; 797 matching records.
 - [local-section:299c73b9570bd450d57ea2ef — \[research revision\] mathematical disposition](../records/0142.md#local-section-299c73b9570bd450d57ea2ef-08509c36b2)
 - [local-section:2a61031dd44d11c2234f5ab9 — \[research revision\]: exact cofactor residual and a sharp completion threshold](../records/0142.md#local-section-2a61031dd44d11c2234f5ab9-8231d44b9b)
 - [local-section:2a7736b9764e0cd53e9e8d6b — \[research revision\]: the small-core principal term and its exact cutoff obstruction](../records/0142.md#local-section-2a7736b9764e0cd53e9e8d6b-4aa782fd1e)
-- [local-section:2abe55fb4893e64aedcc5d02 — Complete60 dispositions](../records/0142.md#local-section-2abe55fb4893e64aedcc5d02-dd7ca13cef)
-- [local-section:2abfb46d5f73bcf224d4fb84 — \[research revision\]: a complete stationary-cofactor estimate and constant inverse cuts](../records/0142.md#local-section-2abfb46d5f73bcf224d4fb84-b011149719)
+- [local-section:2abe55fb4893e64aedcc5d02 — Complete60 dispositions](../records/0143.md#local-section-2abe55fb4893e64aedcc5d02-dd7ca13cef)
+- [local-section:2abfb46d5f73bcf224d4fb84 — \[research revision\]: a complete stationary-cofactor estimate and constant inverse cuts](../records/0143.md#local-section-2abfb46d5f73bcf224d4fb84-b011149719)
 - [local-section:2acf9660b86aa238921bd7db — 5. Uniform audit W58-08: genuine lift, principal branch obstruction, exact repair](../records/0143.md#local-section-2acf9660b86aa238921bd7db-dde23cccbd)
 - [local-section:2ad87e16128cc4294c45a205 — 2. W40-20: the Poisson budget and complete conditional return](../records/0143.md#local-section-2ad87e16128cc4294c45a205-5151c19d16)
 - [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0143.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
@@ -245,7 +247,7 @@ Page 1/4; 797 matching records.
 - [local-section:4129c2481b126e5425073c80 — \[research revision\]: exact small-prime allocation cancellation](../records/0145.md#local-section-4129c2481b126e5425073c80-cd08526816)
 - [local-section:415a0ec30ba05ff09e79b6c2 — Duplicated scale returns retained without arithmetic credit](../records/0145.md#local-section-415a0ec30ba05ff09e79b6c2-c6b71464dd)
 - [local-section:415debe4c56acf516e64e666 — 8. Remaining fields and common-saving zero exclusion](../records/0145.md#local-section-415debe4c56acf516e64e666-139c80f6cd)
-- [local-section:433a6168bd5f719b53479444 — Conditional return and direction](../records/0145.md#local-section-433a6168bd5f719b53479444-9475a009fc)
+- [local-section:433a6168bd5f719b53479444 — Conditional return and direction](../records/0146.md#local-section-433a6168bd5f719b53479444-9475a009fc)
 - [local-section:439265b918b16a7fe651b7f7 — 2. A marked product-interval square function](../records/0146.md#local-section-439265b918b16a7fe651b7f7-26d6274747)
 - [local-section:439bf6852b80651abaec70a7 — 5. Constant-cut source transfer, with all complements](../records/0146.md#local-section-439bf6852b80651abaec70a7-b36f529bbc)
 - [local-section:4446688c789b1ec03718e361 — \[research revision\]: compensated nonlinear source and paid cutoff coupling](../records/0146.md#local-section-4446688c789b1ec03718e361-705a64ad72)
@@ -254,5 +256,3 @@ Page 1/4; 797 matching records.
 - [local-section:45f72c4a061e771fd01acbc6 — Actual arithmetic dilation: a global theorem and the unpaid local estimate](../records/0146.md#local-section-45f72c4a061e771fd01acbc6-a5637ec90d)
 - [local-section:461d0e68ab339beb41a56f07 — Independent W48 review: the same complete energy has a higher-order return](../records/0146.md#local-section-461d0e68ab339beb41a56f07-a23786188e)
 - [local-section:461f1c61965b1612eab27437 — W66: cutoff prime deletion and the critical prime-flux boundary](../records/0146.md#local-section-461f1c61965b1612eab27437-0398e91dab)
-- [local-section:465ec5c49b267a30f0867981 — 1. Decision and limits](../records/0146.md#local-section-465ec5c49b267a30f0867981-83cb3b9ae5)
-- [local-section:4671b2a7eb7193a9aa7c2d71 — G172. Deflation changes the obstructing cell and preserves its cost](../records/0146.md#local-section-4671b2a7eb7193a9aa7c2d71-a8288b38ac)

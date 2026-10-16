@@ -12,5 +12,5 @@ Page 1/1; 10 matching records.
 - [public-artifact:c7c941d024c6ce231a7018c9 — Beyond_the_Seven_Eighths_Barrier.tex](../records/0217.md#public-artifact-c7c941d024c6ce231a7018c9-def8552fbc)
 - [public-artifact:cb1999eb9cb8dc1638111b7b — nielstron-20261009-tightening/compressed/inputs/qrh-formalization-handoff-20261009/research_notes.tex](../records/0217.md#public-artifact-cb1999eb9cb8dc1638111b7b-3d8d9f793b)
 - [public-artifact:f615a14813412dbc869037e2 — akashlevy-20261009-weighted-numerator/manuscript/weighted_numerator_lemma.tex](../records/0217.md#public-artifact-f615a14813412dbc869037e2-00a621832d)
-- [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0217.md#public-paper-liu-paper-1-e60f4435bd)
-- [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0217.md#public-paper-liu-paper-2-7a347a3bbf)
+- [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0218.md#public-paper-liu-paper-1-e60f4435bd)
+- [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0218.md#public-paper-liu-paper-2-7a347a3bbf)

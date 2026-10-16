@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 5/6; 1282 matching records.
+Page 5/6; 1283 matching records.
 
 [Previous](topic-gaussian-c7c5f1441e-04.md)
 
 [Next](topic-gaussian-c7c5f1441e-06.md)
 
+- [local-section:cc4934e0ff25e4bc37690d3e — All60 dispositions (untested means untested, not disproved)](../records/0164.md#local-section-cc4934e0ff25e4bc37690d3e-ef72642e23)
 - [local-section:cc55a55277b297cfab4de4ea — 8. Retained alternatives and next action](../records/0164.md#local-section-cc55a55277b297cfab4de4ea-1171d7ba80)
 - [local-section:cc955c34ab85b58f7761dffa — 17. Complete source projections, smooth collars and blocks](../records/0164.md#local-section-cc955c34ab85b58f7761dffa-f7c09b6757)
 - [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
@@ -60,7 +61,7 @@ Page 5/6; 1282 matching records.
 - [local-section:d92a6644f3d200c11b0bd084 — 3. Complete Gram, scalar, heights, and the remaining power target](../records/0165.md#local-section-d92a6644f3d200c11b0bd084-cea92d0050)
 - [local-section:d98e90254e429103a98cb57a — \[research revision\]: signed logarithms, degree truncation and causal output](../records/0165.md#local-section-d98e90254e429103a98cb57a-06c01df32e)
 - [local-section:d9e448bce6868be659c2f2b7 — 10. Evidence, acceptance limits and closeout](../records/0165.md#local-section-d9e448bce6868be659c2f2b7-e82521ee5f)
-- [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0165.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
+- [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0166.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
 - [local-section:da8e7a40429f22b24e5d2281 — 1. Frozen scope and allocation](../records/0166.md#local-section-da8e7a40429f22b24e5d2281-f4d477d407)
 - [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0166.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
 - [local-section:dad5cf32f05cc61f8fb3e81b — \[research revision\] attempt delta](../records/0166.md#local-section-dad5cf32f05cc61f8fb3e81b-61e7e59567)
@@ -93,8 +94,8 @@ Page 5/6; 1282 matching records.
 - [local-section:e2678c68310cb6b41915565b — A2. The single-step exponent, with the Taylor remainder paid first](../records/0166.md#local-section-e2678c68310cb6b41915565b-467963afcf)
 - [local-section:e27e905244801e9eccf26185 — Frozen selection and first tests](../records/0166.md#local-section-e27e905244801e9eccf26185-3c634160e8)
 - [local-section:e2cea381e110cf4d71490d04 — 10. Comparison with RN, pair02, and the open target](../records/0166.md#local-section-e2cea381e110cf4d71490d04-96f6bf4105)
-- [local-section:e39774305492746e5079b2bf — HCR3. Independent reconstruction of the two-root transform](../records/0166.md#local-section-e39774305492746e5079b2bf-011cff0de9)
-- [local-section:e3bd50d387c8513a01abf8a7 — G1 — uncapped free invention](../records/0166.md#local-section-e3bd50d387c8513a01abf8a7-552c936898)
+- [local-section:e39774305492746e5079b2bf — HCR3. Independent reconstruction of the two-root transform](../records/0167.md#local-section-e39774305492746e5079b2bf-011cff0de9)
+- [local-section:e3bd50d387c8513a01abf8a7 — G1 — uncapped free invention](../records/0167.md#local-section-e3bd50d387c8513a01abf8a7-552c936898)
 - [local-section:e4179c07fb55d3112c683757 — A uniform coarse price, including moving weights](../records/0167.md#local-section-e4179c07fb55d3112c683757-641454ec82)
 - [local-section:e491a5932fb42a2cd08f328d — 70. Parity Jordan source with paid principal far tail](../records/0167.md#local-section-e491a5932fb42a2cd08f328d-610e8c4e74)
 - [local-section:e4f3fa1c040ecb3ab8ccabdd — 2. What the new compact detector changes](../records/0167.md#local-section-e4f3fa1c040ecb3ab8ccabdd-da30963797)
@@ -143,9 +144,9 @@ Page 5/6; 1282 matching records.
 - [local-section:f1442cea10b69ee4fb9a5d38 — Evidence, ancestry and the next attack](../records/0168.md#local-section-f1442cea10b69ee4fb9a5d38-2059cc85ef)
 - [local-section:f17eb5d58a001f4438650df0 — 3. D26: pay unrevealed correction primes after removing a known L-factor](../records/0168.md#local-section-f17eb5d58a001f4438650df0-5eec68a5e0)
 - [local-section:f1e27b6edee0e8bbdf933eb7 — Critic-added exact joint-shell cost for this R](../records/0168.md#local-section-f1e27b6edee0e8bbdf933eb7-dca5bced29)
-- [local-section:f2f69daf61bd70a1daefc2e2 — Verdict and current checkpoint](../records/0168.md#local-section-f2f69daf61bd70a1daefc2e2-229a33bf20)
-- [local-section:f314a32e5f4859f824815be2 — Verdict and exact increment](../records/0168.md#local-section-f314a32e5f4859f824815be2-c0c03bdee0)
-- [local-section:f33438366b188e3af92b51a7 — R42.8. Other first tests: precise reach](../records/0168.md#local-section-f33438366b188e3af92b51a7-c4db9ed484)
+- [local-section:f2f69daf61bd70a1daefc2e2 — Verdict and current checkpoint](../records/0169.md#local-section-f2f69daf61bd70a1daefc2e2-229a33bf20)
+- [local-section:f314a32e5f4859f824815be2 — Verdict and exact increment](../records/0169.md#local-section-f314a32e5f4859f824815be2-c0c03bdee0)
+- [local-section:f33438366b188e3af92b51a7 — R42.8. Other first tests: precise reach](../records/0169.md#local-section-f33438366b188e3af92b51a7-c4db9ed484)
 - [local-section:f36856d31f7769c616707c11 — \[research revision\]: complete Gaussian compression and source-feedback obstructions](../records/0169.md#local-section-f36856d31f7769c616707c11-1b4a6267d5)
 - [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0169.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
 - [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0169.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
@@ -171,7 +172,7 @@ Page 5/6; 1282 matching records.
 - [local-section:f8a2482aa587eb31f1859be0 — \[research revision\]: actual-source costs of positive certificates](../records/0169.md#local-section-f8a2482aa587eb31f1859be0-5cf3fdccc2)
 - [local-section:f9d9026ef10be9566ac27635 — \[research revision\]: one fixed balanced test and limits of the existing sextic budget](../records/0169.md#local-section-f9d9026ef10be9566ac27635-4ce442e709)
 - [local-section:fa0e326802aa07d9d89cc391 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0169.md#local-section-fa0e326802aa07d9d89cc391-a4249b6990)
-- [local-section:faca33f6323c9c4d43e425e3 — \[research revision\] independent review: actual f3 hard correlation](../records/0169.md#local-section-faca33f6323c9c4d43e425e3-de94f7d95a)
+- [local-section:faca33f6323c9c4d43e425e3 — \[research revision\] independent review: actual f3 hard correlation](../records/0170.md#local-section-faca33f6323c9c4d43e425e3-de94f7d95a)
 - [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0170.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
 - [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0170.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
 - [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0170.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
@@ -195,7 +196,7 @@ Page 5/6; 1282 matching records.
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0170.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0170.md#local-a02-e20ad4bdfd)
 - [local:A04 — A04. Exact calibration of a family of adaptive probes](../records/0170.md#local-a04-e3c8a7886d)
-- [local:G1 — G1 — uncapped free invention](../records/0171.md#local-g1-110e500ec4)
+- [local:G1 — G1 — uncapped free invention](../records/0172.md#local-g1-110e500ec4)
 - [local:G109 — G109. Fixed countable banks, exact buffering and the complete source](../records/0172.md#local-g109-fab6e1e2f7)
 - [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0172.md#local-g122-fe374f44f7)
 - [local:G123 — G123. Complete relative mass and full-hole Poisson](../records/0172.md#local-g123-25009c8d8f)
@@ -257,4 +258,3 @@ Page 5/6; 1282 matching records.
 - [pr26:Analytic.ActualFirstExtractedErrors::actual_first_allocated_extracted_error_sum@912 — actual_first_allocated_extracted_error_sum](../records/0175.md#pr26-analytic-actualfirstextractederrors-actual-first-allocated-e-ab0160b9bf)
 - [pr26:Analytic.JointErrorAdmitted::refined_error_smaller_gaussian@156 — refined_error_smaller_gaussian](../records/0179.md#pr26-analytic-jointerroradmitted-refined-error-smaller-gaussian-1-9bedbf8b06)
 - [pr26:Analytic.JointErrorGaussian — Analytic.JointErrorGaussian](../records/0179.md#pr26-analytic-jointerrorgaussian-6e127c4064)
-- [pr26:Analytic.JointErrorGaussian::refined_error_gaussian_from_bands@174 — refined_error_gaussian_from_bands](../records/0179.md#pr26-analytic-jointerrorgaussian-refined-error-gaussian-from-band-0caed91541)

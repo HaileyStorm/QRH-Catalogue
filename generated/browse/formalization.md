@@ -3,6 +3,7 @@
 [All facets](../DIRECTORY.md)
 
 - [B021/B022 source bodies inspected; no new reviewer Lean, axiom or kernel run. R6 author receipts do not certify R7's revised full source closure. (1)](formalization-b021-b022-source-bodies-inspected-no-new-reviewer-lean-axiom-or-k-a1efd3cb75-01.md)
+- [Enclosing exact-head official canonical verification reported PASS with Lean default, NanoDa and con-ron; source correspondence checked. No new local or separate per-helper replay. (2)](formalization-enclosing-exact-head-official-canonical-verification-reported-pas-5a4a5b73a1-01.md)
 - [Exact source declarations linked; check individual formal-component stages. (20)](formalization-exact-source-declarations-linked-check-individual-formal-componen-d798a1bf55-01.md)
 - [No new Lean declaration, typecheck, axiom audit or kernel check. Source-indexed module evidence and enclosing source-reported checks remain separate. (3)](formalization-no-new-lean-declaration-typecheck-axiom-audit-or-kernel-check-sou-3c98d405e2-01.md)
 - [No new Lean declaration, typecheck, axiom audit or kernel execution. Existing source-indexed module and enclosing reported checks retain their separate scope. (1)](formalization-no-new-lean-declaration-typecheck-axiom-audit-or-kernel-execution-bf100f86d0-01.md)
@@ -19,7 +20,7 @@
 - [Textual mathematics only. No Lean formalization, typechecking, axiom audit or kernel replay of this component. (13)](formalization-textual-mathematics-only-no-lean-formalization-typechecking-axiom-9df1b63ea5-01.md)
 - [Textual mathematics only. No new Lean formalization, typecheck, axiom audit, kernel verification or end-to-end formalizer-use claim. (12)](formalization-textual-mathematics-only-no-new-lean-formalization-typecheck-axio-054ab9ae60-01.md)
 - [Textual mathematics only. No new Lean formalization, typechecking, axiom audit or kernel replay. (1)](formalization-textual-mathematics-only-no-new-lean-formalization-typechecking-a-e2983c7fc0-01.md)
-- [Textual mathematics only; no new Lean formalization, typechecking, axiom audit or kernel replay. (10)](formalization-textual-mathematics-only-no-new-lean-formalization-typechecking-a-76b76303c0-01.md)
+- [Textual mathematics only; no new Lean formalization, typechecking, axiom audit or kernel replay. (14)](formalization-textual-mathematics-only-no-new-lean-formalization-typechecking-a-76b76303c0-01.md)
 - [Textual source review only in this lane; no reviewer build, elaboration, axiom audit or kernel run. Current R7 complete verification remains pending in its pinned status. (1)](formalization-textual-source-review-only-in-this-lane-no-reviewer-build-elabora-3783c50bf9-01.md)
 - [local unchanged-source compilation (1)](formalization-local-unchanged-source-compilation-450bca7d66-01.md)
 - [local unchanged-source compilation and public theorem axiom audit (10)](formalization-local-unchanged-source-compilation-and-public-theorem-axiom-audit-a2dbfaec20-01.md)

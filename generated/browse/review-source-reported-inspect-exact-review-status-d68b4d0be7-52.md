@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 52/71; 17539 matching records.
+Page 52/71; 17545 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-51.md)
 
@@ -144,6 +144,8 @@ Page 52/71; 17539 matching records.
 - [MATH-PR60-74643447-closed-count — Cycle63 closed-form affine count and exact region certificates](../records/0129.md#math-pr60-74643447-closed-count-34ac4de39b)
 - [MATH-PR60-74643447-detector-moment-supply — Cycle63 affine detector moment supply with character-local parameters](../records/0129.md#math-pr60-74643447-detector-moment-supply-f504dd9a67)
 - [MATH-PR60-74643447-region-count — Cycle63 region-aware affine counting and masked transport](../records/0129.md#math-pr60-74643447-region-count-d783725a81)
+- [MATH-PR62-b5e69ce5-ACTUAL-VALUATION-PAYMENT — Actual PR62 numerator facet and joint HIGH payment](../records/0129.md#math-pr62-b5e69ce5-actual-valuation-payment-8831aed115)
+- [MATH-PR62-b5e69ce5-CONSERVED-WIDTH-PAYMENT — Actual PR62 selected-width conservation and coupled payment](../records/0129.md#math-pr62-b5e69ce5-conserved-width-payment-05c781288e)
 - [P30-01 — Restricted quartic envelope factorization](../records/0129.md#p30-01-5dc88fa6b4)
 - [P30-02 — Admissible unique quartic root and factor signs](../records/0129.md#p30-02-52d9795aa6)
 - [P30-03 — No gain from h tuning on this slice](../records/0129.md#p30-03-2f3c0576a4)
@@ -156,8 +158,8 @@ Page 52/71; 17539 matching records.
 - [P30-10 — Existing pointwise reduction reaches but does not improve mixed loss](../records/0129.md#p30-10-e3df734bb1)
 - [P30-11 — Scalar concentration sharpness fixture](../records/0129.md#p30-11-4395c40772)
 - [P30-12 — Product length is not moment capacity](../records/0129.md#p30-12-fafbbd76b6)
-- [P30-13 — Long witness and full-neighborhood requirement](../records/0129.md#p30-13-8317a8494e)
-- [P30-14 — Unproved sixth numerator moment route](../records/0129.md#p30-14-9b2450ed55)
+- [P30-13 — Long witness and full-neighborhood requirement](../records/0130.md#p30-13-8317a8494e)
+- [P30-14 — Unproved sixth numerator moment route](../records/0130.md#p30-14-9b2450ed55)
 - [P30-15 — Quartic-numerator inverse mixed target](../records/0130.md#p30-15-343bff8420)
 - [P30-16 — Simultaneous inverse/plain/physical mixed variant](../records/0130.md#p30-16-922bc5e90a)
 - [P30-17 — Finite zero-aware signed Gram expansion](../records/0130.md#p30-17-e8244a67ac)
@@ -256,5 +258,3 @@ Page 52/71; 17539 matching records.
 - [QRH-CONT-M005-CENTERED-GRAM — Sharp centered Gram blocks and paid incomplete-mean tail](../records/0130.md#qrh-cont-m005-centered-gram-aaff344f3b)
 - [QRH-CONT-M005-SPARSE-COMPLETION — Sparse all-power completion of the actual small-g Gram source](../records/0130.md#qrh-cont-m005-sparse-completion-efbced5f33)
 - [QRH-CONT-M006-PRIME-FILTER — Complete ordinary prime filter with half-scale comparison error](../records/0130.md#qrh-cont-m006-prime-filter-2e455060ed)
-- [QRH-CONT-M006-QUADRATIC-TAIL — Quadratic large-sieve bound for the complete twisted prime tail](../records/0130.md#qrh-cont-m006-quadratic-tail-7e507878d2)
-- [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)

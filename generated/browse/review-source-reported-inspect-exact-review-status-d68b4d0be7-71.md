@@ -2,10 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17539 matching records.
+Page 71/71; 17545 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [review:T10 — \[research revision\]-review:T10](../records/0218.md#review-t10-2738c6d533)
+- [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0218.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
+- [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0218.md#reviewed-claim-a01-embedded-extension-9eec840d93)
+- [reviewed-claim:A02-anisotropic-AFE-budget — \[research revision\]-claim:A02-anisotropic-AFE-budget](../records/0218.md#reviewed-claim-a02-anisotropic-afe-budget-a8cad57bbf)
+- [reviewed-claim:A02-rectangular-frontier — \[research revision\]-claim:A02-rectangular-frontier](../records/0218.md#reviewed-claim-a02-rectangular-frontier-e29f8341ff)
+- [reviewed-claim:A02-reduced-index — \[research revision\]-claim:A02-reduced-index](../records/0218.md#reviewed-claim-a02-reduced-index-de8dae2b57)
 - [reviewed-claim:A02-unequal-Type-I — \[research revision\]-claim:A02-unequal-Type-I](../records/0218.md#reviewed-claim-a02-unequal-type-i-60dc3c4100)
 - [reviewed-claim:A11-constrained-anchor-optimizer — \[research revision\]-claim:A11-constrained-anchor-optimizer](../records/0218.md#reviewed-claim-a11-constrained-anchor-optimizer-44d1ef1e1c)
 - [reviewed-claim:A13-Gemini-false-identity — \[research revision\]-claim:A13-Gemini-false-identity](../records/0218.md#reviewed-claim-a13-gemini-false-identity-2aa8791af0)

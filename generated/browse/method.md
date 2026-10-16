@@ -172,7 +172,7 @@
 - [prime-support containment (1)](method-prime-support-containment-6e4c63c691-01.md)
 - [primitive-ratio decomposition (1)](method-primitive-ratio-decomposition-aef94b08d1-01.md)
 - [principal residue subtraction (1)](method-principal-residue-subtraction-53b92bec0f-01.md)
-- [projector (1022)](method-projector-0f12166cd5-01.md)
+- [projector (1023)](method-projector-0f12166cd5-01.md)
 - [quadratic large sieve with square parts (1)](method-quadratic-large-sieve-with-square-parts-8124e5d862-01.md)
 - [quadratic optimization (1)](method-quadratic-optimization-aacd790377-01.md)
 - [quantified periodic summation (1)](method-quantified-periodic-summation-6f008ac818-01.md)

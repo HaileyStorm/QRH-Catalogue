@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21798 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21804 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -88,8 +88,8 @@
 - [F24 — F24. Left-first and two-sided spectral/Mellin methods](records/0171.md#local-f24-ce3e45fce5)
 - [F25 — F25. Triple-rotation theta products](records/0171.md#local-f25-0919a5edc6)
 - [F26 — F26. Direct shifted criteria and constrained operators](records/0171.md#local-f26-9e013a3bbb)
-- [G1 — G1 — uncapped free invention](records/0171.md#local-g1-110e500ec4)
-- [G100 — G100. Unbounded actual valuation certificate](records/0171.md#local-g100-7478ed7422)
+- [G1 — G1 — uncapped free invention](records/0172.md#local-g1-110e500ec4)
+- [G100 — G100. Unbounded actual valuation certificate](records/0172.md#local-g100-7478ed7422)
 - [G101 — G101. Linear and nonlinear paired transfers](records/0172.md#local-g101-716f90abdd)
 - [G102 — G102. Three complete physical returns](records/0172.md#local-g102-60fe1940ee)
 - [G103 — G103. Complete unsmoothed energy and fixed-modulus covariance](records/0172.md#local-g103-c6618adc7f)
@@ -184,12 +184,12 @@
 - [G192 — G192. Complete degree12 source transfer](records/0172.md#local-g192-c5383e05d4)
 - [G193 — G193. Paid diagonal and the exact remaining signed estimate](records/0172.md#local-g193-f396ec5478)
 - [G194 — G194. The literal matrix and its complete positive price](records/0172.md#local-g194-dabcb1723f)
-- [G195 — G195. Every fixed low-chain sector under one common filter](records/0172.md#local-g195-9c2a4ca679)
-- [G196 — G196. The complete linked remainder and its weaker sufficient norm](records/0172.md#local-g196-0d7a2adae2)
-- [G197 — G197. Two paid classes with complete shared-prime cost](records/0172.md#local-g197-c026bfa5b0)
-- [G198 — G198. A coupled cutoff halves the residual repeat width](records/0172.md#local-g198-7f566a54d3)
-- [G199 — G199. Complete prime-band product estimate](records/0172.md#local-g199-8391045147)
-- [G2 — G2 — uncapped free invention](records/0172.md#local-g2-2c857fea19)
+- [G195 — G195. Every fixed low-chain sector under one common filter](records/0173.md#local-g195-9c2a4ca679)
+- [G196 — G196. The complete linked remainder and its weaker sufficient norm](records/0173.md#local-g196-0d7a2adae2)
+- [G197 — G197. Two paid classes with complete shared-prime cost](records/0173.md#local-g197-c026bfa5b0)
+- [G198 — G198. A coupled cutoff halves the residual repeat width](records/0173.md#local-g198-7f566a54d3)
+- [G199 — G199. Complete prime-band product estimate](records/0173.md#local-g199-8391045147)
+- [G2 — G2 — uncapped free invention](records/0173.md#local-g2-2c857fea19)
 - [G200 — G200. Complete weighted removal and the fourth paid class](records/0173.md#local-g200-b27f24a369)
 - [G201 — G201. Exact native carrier spectrum, with normalized stencil cost](records/0173.md#local-g201-653f9140ed)
 - [G202 — G202. Centered quotient norm and one fixed cumulative source](records/0173.md#local-g202-0d8b3cdd46)

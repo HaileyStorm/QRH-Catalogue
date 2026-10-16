@@ -1626,6 +1626,30 @@
           "qualification": "Preserves the older source bytes and component scope; no endpoint strengthening or new formal replay."
         }
       }
+    },
+    "QRH-CONT-R057-VALUATION-ONE-CANONICAL-LABEL": {
+      "statement": {
+        "value": "A same-scale mark z_p=(1-rho_p)1_(v_p(A)=1)-rho_p1_(v_p(A)=0), rho_p=1/(Np+1), removes selected-prime cube collisions and preserves a growing-pool principal reciprocal scalar. Exact Gauss extraction produces a shorter completed sum with a canonical mixed label P1 P0^3. The existing applicable completed-energy proof bounds the whole new source, but too weakly.",
+        "evidence": {
+          "basis": "Exact existing labels hypothesis and source061; wording correction only, no source or status change.",
+          "source_sha256": "060f9f04688d138b7d520b50e4caf7bd096ad563e89ea1a038994eb7997d4d79"
+        }
+      }
+    },
+    "MATH-PR53-15520c3f-candidate-envelope": {
+      "additional_source_provenance": {
+        "value": {
+          "revision": "df08a83bd6d336d50c9243a86d3234e29877097c",
+          "B127_sha256": "00191fe0426e88fa939d3b49c7d1cec1441579e3ba64fe5d3f71eefdbe06242e",
+          "same_B127_as_revision": "15520c3f46e92df5e86abb7fc6ac02e24d467cd2",
+          "metadata_change": "Correct predecessor PR41 URL to PR38; no new B127 mathematics or verification."
+        },
+        "evidence": {
+          "basis": "Exact B127 byte identity and pinned one-file commit diff",
+          "public_url": "https://github.com/DevinWatson/QuasiRiemannTracker/commit/df08a83bd6d336d50c9243a86d3234e29877097c",
+          "review_source_sha256": "0259fe778f714b7d5a0223b57c171fd48baf9c42a84f0aa37e6694fa2a7d0d53"
+        }
+      }
     }
   },
   "relations": [
@@ -127102,6 +127126,33 @@
         "basis": "complete-forcing-and-derivative-combination",
         "locator": "M017 Mobius-tail section1 combines the finite Selberg identity with its logarithmic derivative term.",
         "qualification": "The reduction is elementary and does not inherit an improved forcing estimate."
+      }
+    },
+    {
+      "source": "QRH-CONT-R070-INTERACTING-PRIME-MARK",
+      "target": "QRH-CONT-R057-VALUATION-ONE-CANONICAL-LABEL",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Explicit source use in the contributed note; exact source hashes in its record.",
+        "qualification": "This dependence does not establish the remaining stronger bound."
+      }
+    },
+    {
+      "source": "QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD",
+      "target": "QRH-CONT-R069-ORDINARY-HEAT-RETURN",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Explicit source use in the contributed note; exact source hashes in its record.",
+        "qualification": "This dependence does not establish the remaining stronger bound."
+      }
+    },
+    {
+      "source": "QRH-CONT-R072-CENTERED-LONG-PAIR-HEAT",
+      "target": "QRH-CONT-R069-ORDINARY-HEAT-RETURN",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Explicit source use in the contributed note; exact source hashes in its record.",
+        "qualification": "This dependence does not establish the remaining stronger bound."
       }
     }
   ],

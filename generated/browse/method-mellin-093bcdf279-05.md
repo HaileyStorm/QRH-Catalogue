@@ -21,7 +21,7 @@ Page 5/5; 1072 matching records.
 - [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0173.md#local-g274-fbf5ea7910)
 - [local:G276 — G276. Consecutive Mellin companions without a common zero](../records/0173.md#local-g276-4cb20dad30)
 - [local:G279 — G279. Ordinary-character weighted approximation with full tail and height price](../records/0173.md#local-g279-e4f51ee2de)
-- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
+- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0174.md#local-g295-06047ab12a)
 - [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0174.md#local-g301-26a5fe5643)
 - [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0174.md#local-g310-39134eeca1)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)

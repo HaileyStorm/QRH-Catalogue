@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 812 matching records.
+Page 4/4; 813 matching records.
 
 [Previous](topic-height-uniformity-f0396e625a-03.md)
 
+- [local:F18 — F18. Short intervals, exceptional rows and amplitude-sensitive bounds](../records/0171.md#local-f18-12da3cf010)
 - [local:F18.X — F18.X — Arithmetic row labels are not zeta ordinates; good-row density does not imply all-height exclusion](../records/0171.md#local-f18-x-33f94e9261)
 - [local:F22.P — F22.P — Nonnegative band bump≥1 and Poincaré–Lelong pairing\<1](../records/0171.md#local-f22-p-6dfabc8aa6)
 - [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0172.md#local-g106-3b75d799b8)
@@ -64,7 +65,7 @@ Page 4/4; 812 matching records.
 - [pr26:Analytic.JointFirstAnalyticalEstimateExplicitMesh::actual_local_natural_moment_all_heights_explicit_mesh@509 — actual_local_natural_moment_all_heights_explicit_mesh](../records/0180.md#pr26-analytic-jointfirstanalyticalestimateexplicitmesh-actual-loc-de96d79c57)
 - [pr26:Analytic.JointFirstAnalyticalEstimateExplicitMesh::actual_local_natural_moment_all_heights_uniform_mesh@562 — actual_local_natural_moment_all_heights_uniform_mesh](../records/0180.md#pr26-analytic-jointfirstanalyticalestimateexplicitmesh-actual-loc-5424e8f4ed)
 - [pr26:Analytic.JointFirstHeightExtension::all_height_bound_of_local_and_coarse@46 — all_height_bound_of_local_and_coarse](../records/0181.md#pr26-analytic-jointfirstheightextension-all-height-bound-of-local-bd6e0ff8a5)
-- [pr26:Analytic.JointIndependentUniform::independent_height_factor@318 — independent_height_factor](../records/0186.md#pr26-analytic-jointindependentuniform-independent-height-factor-3-2f7c8949e0)
-- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::zero_at_independent_heights@453 — zero_at_independent_heights](../records/0216.md#pr26-zetazerofree-analytic-moments-exceptional-zero-at-independen-09b90a48fc)
+- [pr26:Analytic.JointIndependentUniform::independent_height_factor@318 — independent_height_factor](../records/0187.md#pr26-analytic-jointindependentuniform-independent-height-factor-3-2f7c8949e0)
+- [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::zero_at_independent_heights@453 — zero_at_independent_heights](../records/0217.md#pr26-zetazerofree-analytic-moments-exceptional-zero-at-independen-09b90a48fc)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_large@679 — ray_prime_all_height_large](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-52e25e7eaf)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_squared@763 — ray_prime_all_height_squared](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-32244da39c)

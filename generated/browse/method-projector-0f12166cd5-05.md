@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1022 matching records.
+Page 5/5; 1023 matching records.
 
 [Previous](method-projector-0f12166cd5-04.md)
 
+- [pr26:Analytic.JointSecondKernel::toKernelLabel_eq_projected@556 — toKernelLabel_eq_projected](../records/0192.md#pr26-analytic-jointsecondkernel-tokernellabel-eq-projected-556-b98a21e63c)
 - [pr26:Analytic.JointSecondKernel::values_le_retainedPair@636 — values_le_retainedPair](../records/0192.md#pr26-analytic-jointsecondkernel-values-le-retainedpair-636-6157ee9004)
 - [pr26:Analytic.JointSecondKernelCutoff::joint_second_projector_kernel_from_cutoff@336 — joint_second_projector_kernel_from_cutoff](../records/0192.md#pr26-analytic-jointsecondkernelcutoff-joint-second-projector-kern-0798ed98bc)
 - [pr26:Analytic.JointSecondProjector — Analytic.JointSecondProjector](../records/0192.md#pr26-analytic-jointsecondprojector-084be6349c)

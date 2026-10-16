@@ -2,7 +2,7 @@
 
 [Facet directory](formalization.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 10 matching records.
+Page 1/1; 14 matching records.
 
 - [QRH-CONT-R046-MARKED-RECTANGLE — Marked rectangle comparison and signed second-Poisson return](../records/0131.md#qrh-cont-r046-marked-rectangle-6a2023bde2)
 - [QRH-CONT-R048-COUPLED-SHORT-DETECTOR — Complete coupled short-window detector before dyadic selection](../records/0131.md#qrh-cont-r048-coupled-short-detector-08dfda4a82)
@@ -14,3 +14,7 @@ Page 1/1; 10 matching records.
 - [QRH-CONT-R059-WRONSKIAN-CONVOLUTION — Two-probe Wronskian, full convolution and heat indicator test](../records/0131.md#qrh-cont-r059-wronskian-convolution-dee50e3cdc)
 - [QRH-CONT-R062-INDEPENDENT-PROFILE-PAIR — Independent profile pair and a qualified radial volume model](../records/0131.md#qrh-cont-r062-independent-profile-pair-3badad429b)
 - [QRH-CONT-R064-COMMON-SCALE-LOG-DIVISOR — Common-scale logarithmic divisor source and radial repair](../records/0131.md#qrh-cont-r064-common-scale-log-divisor-cb06d2f33d)
+- [QRH-CONT-R069-ORDINARY-HEAT-RETURN — Complete ordinary heat indicator and fixed-line zero-free return](../records/0131.md#qrh-cont-r069-ordinary-heat-return-c9ed9cd5a4)
+- [QRH-CONT-R070-INTERACTING-PRIME-MARK — Actual rank-two interacting prime mark with complete subtraction branch](../records/0131.md#qrh-cont-r070-interacting-prime-mark-43db166970)
+- [QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD — Positive ordinary Gaussian height norm and complete gcd pair source](../records/0131.md#qrh-cont-r071-ordinary-heat-norm-gcd-61e0d76bfa)
+- [QRH-CONT-R072-CENTERED-LONG-PAIR-HEAT — Complete ordinary centered long-long-cofactor heat reduction](../records/0131.md#qrh-cont-r072-centered-long-pair-heat-a1f8a8ae5f)

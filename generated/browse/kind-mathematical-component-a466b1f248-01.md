@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 78 matching records.
+Page 1/1; 84 matching records.
 
 - [MATH-PR48-57ca0662-collision-partitions — Collision partitions for overlapping finite slot pools](../records/0129.md#math-pr48-57ca0662-collision-partitions-6b4f96fbc7)
 - [MATH-PR48-57ca0662-finite-polarization — Finite polarization from common product profiles](../records/0129.md#math-pr48-57ca0662-finite-polarization-4afcdc06a5)
@@ -24,6 +24,8 @@ Page 1/1; 78 matching records.
 - [MATH-PR60-74643447-closed-count — Cycle63 closed-form affine count and exact region certificates](../records/0129.md#math-pr60-74643447-closed-count-34ac4de39b)
 - [MATH-PR60-74643447-detector-moment-supply — Cycle63 affine detector moment supply with character-local parameters](../records/0129.md#math-pr60-74643447-detector-moment-supply-f504dd9a67)
 - [MATH-PR60-74643447-region-count — Cycle63 region-aware affine counting and masked transport](../records/0129.md#math-pr60-74643447-region-count-d783725a81)
+- [MATH-PR62-b5e69ce5-ACTUAL-VALUATION-PAYMENT — Actual PR62 numerator facet and joint HIGH payment](../records/0129.md#math-pr62-b5e69ce5-actual-valuation-payment-8831aed115)
+- [MATH-PR62-b5e69ce5-CONSERVED-WIDTH-PAYMENT — Actual PR62 selected-width conservation and coupled payment](../records/0129.md#math-pr62-b5e69ce5-conserved-width-payment-05c781288e)
 - [QRH-CONT-M001-SQUARE-CONTENT — Complete signed payment of maximal inverse square content](../records/0130.md#qrh-cont-m001-square-content-e74058120a)
 - [QRH-CONT-M002-CENTERED-CONTENT — Paid CM principal mean and stronger centered square-content charge](../records/0130.md#qrh-cont-m002-centered-content-03aba8cc9a)
 - [QRH-CONT-M002-DEPTH-EXTRACTION — Complete inverse-depth derivative extraction with bounded angular norm](../records/0130.md#qrh-cont-m002-depth-extraction-c04ef32cc1)
@@ -33,8 +35,8 @@ Page 1/1; 78 matching records.
 - [QRH-CONT-M005-CENTERED-GRAM — Sharp centered Gram blocks and paid incomplete-mean tail](../records/0130.md#qrh-cont-m005-centered-gram-aaff344f3b)
 - [QRH-CONT-M005-SPARSE-COMPLETION — Sparse all-power completion of the actual small-g Gram source](../records/0130.md#qrh-cont-m005-sparse-completion-efbced5f33)
 - [QRH-CONT-M006-PRIME-FILTER — Complete ordinary prime filter with half-scale comparison error](../records/0130.md#qrh-cont-m006-prime-filter-2e455060ed)
-- [QRH-CONT-M006-QUADRATIC-TAIL — Quadratic large-sieve bound for the complete twisted prime tail](../records/0130.md#qrh-cont-m006-quadratic-tail-7e507878d2)
-- [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)
+- [QRH-CONT-M006-QUADRATIC-TAIL — Quadratic large-sieve bound for the complete twisted prime tail](../records/0131.md#qrh-cont-m006-quadratic-tail-7e507878d2)
+- [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0131.md#qrh-cont-m007-moving-transform-91d6faea60)
 - [QRH-CONT-M007-SQUARE-MEAN — Actual quadratic square mean and normalized two-geometry cancellation](../records/0131.md#qrh-cont-m007-square-mean-e7cc1a1e2f)
 - [QRH-CONT-M008-CORE-BAND — Complete growing small-core sector in the all-power quadratic source](../records/0131.md#qrh-cont-m008-core-band-5e9e4c034c)
 - [QRH-CONT-M009-CONGRUENCE — Congruence source with fixed-modulus zeta covering and sharp geometric edge cost](../records/0131.md#qrh-cont-m009-congruence-eaf61764a7)
@@ -82,3 +84,7 @@ Page 1/1; 78 matching records.
 - [QRH-CONT-R059-WRONSKIAN-CONVOLUTION — Two-probe Wronskian, full convolution and heat indicator test](../records/0131.md#qrh-cont-r059-wronskian-convolution-dee50e3cdc)
 - [QRH-CONT-R062-INDEPENDENT-PROFILE-PAIR — Independent profile pair and a qualified radial volume model](../records/0131.md#qrh-cont-r062-independent-profile-pair-3badad429b)
 - [QRH-CONT-R064-COMMON-SCALE-LOG-DIVISOR — Common-scale logarithmic divisor source and radial repair](../records/0131.md#qrh-cont-r064-common-scale-log-divisor-cb06d2f33d)
+- [QRH-CONT-R069-ORDINARY-HEAT-RETURN — Complete ordinary heat indicator and fixed-line zero-free return](../records/0131.md#qrh-cont-r069-ordinary-heat-return-c9ed9cd5a4)
+- [QRH-CONT-R070-INTERACTING-PRIME-MARK — Actual rank-two interacting prime mark with complete subtraction branch](../records/0131.md#qrh-cont-r070-interacting-prime-mark-43db166970)
+- [QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD — Positive ordinary Gaussian height norm and complete gcd pair source](../records/0131.md#qrh-cont-r071-ordinary-heat-norm-gcd-61e0d76bfa)
+- [QRH-CONT-R072-CENTERED-LONG-PAIR-HEAT — Complete ordinary centered long-long-cofactor heat reduction](../records/0131.md#qrh-cont-r072-centered-long-pair-heat-a1f8a8ae5f)

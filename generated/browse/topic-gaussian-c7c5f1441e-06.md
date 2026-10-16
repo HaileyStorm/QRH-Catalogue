@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 6/6; 1282 matching records.
+Page 6/6; 1283 matching records.
 
 [Previous](topic-gaussian-c7c5f1441e-05.md)
 
+- [pr26:Analytic.JointErrorGaussian::refined_error_gaussian_from_bands@174 — refined_error_gaussian_from_bands](../records/0179.md#pr26-analytic-jointerrorgaussian-refined-error-gaussian-from-band-0caed91541)
 - [pr26:Analytic.JointFirstIndependentErrors::actual_first_independent_extracted_errors@93 — actual_first_independent_extracted_errors](../records/0182.md#pr26-analytic-jointfirstindependenterrors-actual-first-independen-00c2691e2c)
 - [pr26:Analytic.JointFirstIndependentErrorsFull::actual_first_independent_extracted_errors_full@447 — actual_first_independent_extracted_errors_full](../records/0182.md#pr26-analytic-jointfirstindependenterrorsfull-actual-first-indepe-773d600b42)
 - [pr26:Analytic.JointFirstRawErrors::actual_first_independent_raw_errors@104 — actual_first_independent_raw_errors](../records/0183.md#pr26-analytic-jointfirstrawerrors-actual-first-independent-raw-er-2afc50d3db)
@@ -20,8 +21,8 @@ Page 6/6; 1282 matching records.
 - [pr26:Global.Low.Detector.LowGaussianDyad::low_central_gaussian_dyad@860 — low_central_gaussian_dyad](../records/0207.md#pr26-global-low-detector-lowgaussiandyad-low-central-gaussian-dya-cafccc5eac)
 - [pr26:Global.Low.Detector.LowGaussianRemote — Global.Low.Detector.LowGaussianRemote](../records/0207.md#pr26-global-low-detector-lowgaussianremote-20806ed819)
 - [pr26:Global.Low.Detector.LowGaussianRemote::low_remote_gaussian_dyads@98 — low_remote_gaussian_dyads](../records/0207.md#pr26-global-low-detector-lowgaussianremote-low-remote-gaussian-dy-ad886d9a37)
-- [pr26:Global.Low.Detector.LowGaussianSum — Global.Low.Detector.LowGaussianSum](../records/0207.md#pr26-global-low-detector-lowgaussiansum-e7f77b6496)
-- [pr26:Global.Low.Detector.LowGaussianSum::low_all_gaussian_dyads@635 — low_all_gaussian_dyads](../records/0207.md#pr26-global-low-detector-lowgaussiansum-low-all-gaussian-dyads-63-b0e3e7899b)
+- [pr26:Global.Low.Detector.LowGaussianSum — Global.Low.Detector.LowGaussianSum](../records/0208.md#pr26-global-low-detector-lowgaussiansum-e7f77b6496)
+- [pr26:Global.Low.Detector.LowGaussianSum::low_all_gaussian_dyads@635 — low_all_gaussian_dyads](../records/0208.md#pr26-global-low-detector-lowgaussiansum-low-all-gaussian-dyads-63-b0e3e7899b)
 - [pr26:Global.Low.Detector.LowRemoteMass::compensation_scale_mass_bound@144 — compensation_scale_mass_bound](../records/0208.md#pr26-global-low-detector-lowremotemass-compensation-scale-mass-bo-96a5e7e8eb)
 - [pr26:Global.Low.Detector.LowSelectedBound::gaussianFixedWindow_support@705 — gaussianFixedWindow_support](../records/0208.md#pr26-global-low-detector-lowselectedbound-gaussianfixedwindow-sup-9ce65c1146)
 - [pr26:Global.Transport.PrincipalRemainderTransport::gaussianMoment_even@169 — gaussianMoment_even](../records/0213.md#pr26-global-transport-principalremaindertransport-gaussianmoment--3283d52b3e)

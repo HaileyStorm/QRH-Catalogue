@@ -2,10 +2,12 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 797 matching records.
+Page 4/4; 799 matching records.
 
 [Previous](topic-zero-free-f11185c371-03.md)
 
+- [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0172.md#local-g149-643389d4ad)
+- [local:G151 — G151. An actual two-variable repair and two fully priced detector interfaces](../records/0172.md#local-g151-b657e21536)
 - [local:G152 — \[research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0172.md#local-g152-1776ec5c14)
 - [local:G161 — \[research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0172.md#local-g161-cdae7b8782)
 - [local:G167 — \[research revision\]: actual-source costs of positive certificates (G167)](../records/0172.md#local-g167-804bc4b63c)
@@ -13,7 +15,7 @@ Page 4/4; 797 matching records.
 - [local:G170 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0172.md#local-g170-c98506834f)
 - [local:G172 — G172. Deflation changes the obstructing cell and preserves its cost](../records/0172.md#local-g172-3d45f2fa11)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0172.md#local-g173-0a9bfc34dc)
-- [local:G2 — G2 — uncapped free invention](../records/0172.md#local-g2-2c857fea19)
+- [local:G2 — G2 — uncapped free invention](../records/0173.md#local-g2-2c857fea19)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
@@ -29,7 +31,7 @@ Page 4/4; 797 matching records.
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0173.md#local-g246-8dd56008a9)
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0173.md#local-g283-bef435ea5c)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0173.md#local-g291-a2d579dcd5)
-- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
+- [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0174.md#local-g295-06047ab12a)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0174.md#local-g69-9bdd438ff0)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)
@@ -45,8 +47,8 @@ Page 4/4; 797 matching records.
 - [local:T09b — T09b. Compact-profile triple-convolution criterion](../records/0174.md#local-t09b-4ff2a69c3c)
 - [local:T10 — T10. Two-dilation and continuum-dilation Möbius criteria](../records/0174.md#local-t10-6e6d231190)
 - [public-artifact:41c9154080f1033d5592a0e8 — single-prime-29-33-20261010/manuscript/zeta_zero_free_4_33_self_contained.tex](../records/0217.md#public-artifact-41c9154080f1033d5592a0e8-005aa2db1b)
-- [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0217.md#public-paper-liu-paper-1-e60f4435bd)
-- [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0217.md#public-paper-liu-paper-2-7a347a3bbf)
+- [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0218.md#public-paper-liu-paper-1-e60f4435bd)
+- [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0218.md#public-paper-liu-paper-2-7a347a3bbf)
 - [review:T01 — \[research revision\]-review:T01](../records/0218.md#review-t01-d60a8ef6a7)
 - [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0218.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
