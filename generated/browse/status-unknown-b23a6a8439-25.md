@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 25/43; 10567 matching records.
+Page 25/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-24.md)
 
@@ -113,6 +113,7 @@ Page 25/43; 10567 matching records.
 - [P7-C33 — principal_w_reserve](../records/0130.md#p7-c33-3de17b5598)
 - [P7-C34 — principal_z_reserve](../records/0130.md#p7-c34-72ec533d32)
 - [PUBLIC-C61-submission-fb6d4fd1 — Cycle61 c=125139/1000000 public submission source](../records/0130.md#public-c61-submission-fb6d4fd1-54db6de17c)
+- [QRH-CONT-M017-MOBIUS-TAIL — Complete long-Mobius-factor reduction with a negligible smooth-lattice remainder](../records/0131.md#qrh-cont-m017-mobius-tail-d4fbc01e2c)
 - [exact-source:0017cd4ac1c1b486d44db640 — Exact source span: dd4aed8124f9 lines 175–175](../records/0131.md#exact-source-0017cd4ac1c1b486d44db640-d9ad901cae)
 - [exact-source:0034e41db97d6416963dcf7f — Exact source span: 3582859b4716 lines 713–747](../records/0131.md#exact-source-0034e41db97d6416963dcf7f-29360534d8)
 - [exact-source:00e55c4bc0250e01c45ac11c — Exact source span: c750f6364171 lines 174–230](../records/0131.md#exact-source-00e55c4bc0250e01c45ac11c-788ef64e02)
@@ -189,8 +190,8 @@ Page 25/43; 10567 matching records.
 - [exact-source:225deef391aa250ae4010b21 — Exact source span: 1bb0182899ee lines 20–54](../records/0131.md#exact-source-225deef391aa250ae4010b21-2af2c12166)
 - [exact-source:22d5ccce58ae62f9c4ae9c96 — Exact source span: dd4aed8124f9 lines 1590–1590](../records/0131.md#exact-source-22d5ccce58ae62f9c4ae9c96-5a1e7c7d0d)
 - [exact-source:22dbd02cf4aeacb6cd346315 — Exact source span: e35dbe7b205d lines 1371–1406](../records/0131.md#exact-source-22dbd02cf4aeacb6cd346315-11da4ab1e3)
-- [exact-source:22f29e0b262dec9f6ec1e9c9 — Exact source span: dd4aed8124f9 lines 1552–1552](../records/0131.md#exact-source-22f29e0b262dec9f6ec1e9c9-184a970f0f)
-- [exact-source:2341448e798c2696f2e45e40 — Exact source span: dd4aed8124f9 lines 1074–1074](../records/0131.md#exact-source-2341448e798c2696f2e45e40-2257812a56)
+- [exact-source:22f29e0b262dec9f6ec1e9c9 — Exact source span: dd4aed8124f9 lines 1552–1552](../records/0132.md#exact-source-22f29e0b262dec9f6ec1e9c9-184a970f0f)
+- [exact-source:2341448e798c2696f2e45e40 — Exact source span: dd4aed8124f9 lines 1074–1074](../records/0132.md#exact-source-2341448e798c2696f2e45e40-2257812a56)
 - [exact-source:2393a5cce3d6dcec15c857ec — Exact source span: 6a25ee71258a lines 9–20](../records/0132.md#exact-source-2393a5cce3d6dcec15c857ec-0589491f4b)
 - [exact-source:2434eb76d503208a668e80c2 — Exact source span: dd4aed8124f9 lines 170–170](../records/0132.md#exact-source-2434eb76d503208a668e80c2-1f69a83561)
 - [exact-source:24a81cfc53c00ad6e3271b8e — Exact source span: 3582859b4716 lines 538–555](../records/0132.md#exact-source-24a81cfc53c00ad6e3271b8e-2d704d4e62)
@@ -257,4 +258,3 @@ Page 25/43; 10567 matching records.
 - [exact-source:3cf50d78a62881af6f6cdf94 — Exact source span: 2b4c67c3e817 lines 1399–1401](../records/0132.md#exact-source-3cf50d78a62881af6f6cdf94-29a1c93246)
 - [exact-source:3d0ad5ea67f7fab101ce2449 — Exact source span: e0376190cd60 lines 292–373](../records/0132.md#exact-source-3d0ad5ea67f7fab101ce2449-fa63bb0a15)
 - [exact-source:3d206afc9dfe6254d5fd8cc3 — Exact source span: c955b2ddde81 lines 153–213](../records/0132.md#exact-source-3d206afc9dfe6254d5fd8cc3-73a974b6bd)
-- [exact-source:3d2678490b15991ecf4e5ebc — Exact source span: 453f13690716 lines 104–106](../records/0132.md#exact-source-3d2678490b15991ecf4e5ebc-fda28b4e43)

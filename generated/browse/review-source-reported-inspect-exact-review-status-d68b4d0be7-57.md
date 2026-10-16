@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 57/71; 17513 matching records.
+Page 57/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-56.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-58.md)
 
+- [pr26:Analytic.JointFirstParentWidth — Analytic.JointFirstParentWidth](../records/0183.md#pr26-analytic-jointfirstparentwidth-3d51810bd6)
+- [pr26:Analytic.JointFirstParentWidth::eventually_first_parent_width@183 — eventually_first_parent_width](../records/0183.md#pr26-analytic-jointfirstparentwidth-eventually-first-parent-width-0d32f38a45)
 - [pr26:Analytic.JointFirstProjectorMass — Analytic.JointFirstProjectorMass](../records/0183.md#pr26-analytic-jointfirstprojectormass-70ea34208d)
 - [pr26:Analytic.JointFirstProjectorMass::actual_first_projector_harmonic_mass@315 — actual_first_projector_harmonic_mass](../records/0183.md#pr26-analytic-jointfirstprojectormass-actual-first-projector-harm-dbbadd94e8)
 - [pr26:Analytic.JointFirstProjectorMass::actual_first_supported_label_harmonic_mass@352 — actual_first_supported_label_harmonic_mass](../records/0183.md#pr26-analytic-jointfirstprojectormass-actual-first-supported-labe-469c202a58)
@@ -87,8 +89,8 @@ Page 57/71; 17513 matching records.
 - [pr26:Analytic.JointFirstSectorTolerances — Analytic.JointFirstSectorTolerances](../records/0183.md#pr26-analytic-jointfirstsectortolerances-11b3f4dc9a)
 - [pr26:Analytic.JointFirstSectorTolerances::firstMainExponent@101 — firstMainExponent](../records/0183.md#pr26-analytic-jointfirstsectortolerances-firstmainexponent-101-5e4ce71b35)
 - [pr26:Analytic.JointFirstSectorTolerances::first_main_exponent_lower@115 — first_main_exponent_lower](../records/0183.md#pr26-analytic-jointfirstsectortolerances-first-main-exponent-lowe-2107e6f6bf)
-- [pr26:Analytic.JointFirstSectorTolerances::first_main_exponent_upper@104 — first_main_exponent_upper](../records/0183.md#pr26-analytic-jointfirstsectortolerances-first-main-exponent-uppe-d73b693084)
-- [pr26:Analytic.JointFirstSectorTolerances::first_missing_sector_loss@139 — first_missing_sector_loss](../records/0183.md#pr26-analytic-jointfirstsectortolerances-first-missing-sector-los-43eb6586a7)
+- [pr26:Analytic.JointFirstSectorTolerances::first_main_exponent_upper@104 — first_main_exponent_upper](../records/0184.md#pr26-analytic-jointfirstsectortolerances-first-main-exponent-uppe-d73b693084)
+- [pr26:Analytic.JointFirstSectorTolerances::first_missing_sector_loss@139 — first_missing_sector_loss](../records/0184.md#pr26-analytic-jointfirstsectortolerances-first-missing-sector-los-43eb6586a7)
 - [pr26:Analytic.JointFirstSectorTolerances::first_row_scale_sector_lower@126 — first_row_scale_sector_lower](../records/0184.md#pr26-analytic-jointfirstsectortolerances-first-row-scale-sector-l-acced4efe7)
 - [pr26:Analytic.JointFirstSectorTolerances::first_row_sector_loss@144 — first_row_sector_loss](../records/0184.md#pr26-analytic-jointfirstsectortolerances-first-row-sector-loss-14-983a35b47f)
 - [pr26:Analytic.JointFirstSideEnergy — Analytic.JointFirstSideEnergy](../records/0184.md#pr26-analytic-jointfirstsideenergy-1ebbb9c06a)
@@ -187,8 +189,8 @@ Page 57/71; 17513 matching records.
 - [pr26:Analytic.JointHighComplete::actual_joint_high_contribution@498 — actual_joint_high_contribution](../records/0184.md#pr26-analytic-jointhighcomplete-actual-joint-high-contribution-49-cc173398bc)
 - [pr26:Analytic.JointHighCumulativeSectors — Analytic.JointHighCumulativeSectors](../records/0184.md#pr26-analytic-jointhighcumulativesectors-f343d956a9)
 - [pr26:Analytic.JointHighCumulativeSectors::first_second_sector_gates@291 — first_second_sector_gates](../records/0184.md#pr26-analytic-jointhighcumulativesectors-first-second-sector-gate-23ff679845)
-- [pr26:Analytic.JointHighDyadicGates — Analytic.JointHighDyadicGates](../records/0184.md#pr26-analytic-jointhighdyadicgates-7c44651748)
-- [pr26:Analytic.JointHighDyadicGates::firstLowMainScale_eq_exponent@394 — firstLowMainScale_eq_exponent](../records/0184.md#pr26-analytic-jointhighdyadicgates-firstlowmainscale-eq-exponent--07d58cab4b)
+- [pr26:Analytic.JointHighDyadicGates — Analytic.JointHighDyadicGates](../records/0185.md#pr26-analytic-jointhighdyadicgates-7c44651748)
+- [pr26:Analytic.JointHighDyadicGates::firstLowMainScale_eq_exponent@394 — firstLowMainScale_eq_exponent](../records/0185.md#pr26-analytic-jointhighdyadicgates-firstlowmainscale-eq-exponent--07d58cab4b)
 - [pr26:Analytic.JointHighDyadicGates::firstLowMainScale_ge_inv_cube@427 — firstLowMainScale_ge_inv_cube](../records/0185.md#pr26-analytic-jointhighdyadicgates-firstlowmainscale-ge-inv-cube--5bc69b9707)
 - [pr26:Analytic.JointHighDyadicGates::firstLowMainScale_sector_bounds@403 — firstLowMainScale_sector_bounds](../records/0185.md#pr26-analytic-jointhighdyadicgates-firstlowmainscale-sector-bound-917a72a0ba)
 - [pr26:Analytic.JointHighDyadicGates::firstLowRadius_polynomial_cap@439 — firstLowRadius_polynomial_cap](../records/0185.md#pr26-analytic-jointhighdyadicgates-firstlowradius-polynomial-cap--91bd00a369)
@@ -256,5 +258,3 @@ Page 57/71; 17513 matching records.
 - [pr26:Analytic.JointHighPacketRecoveryGates — Analytic.JointHighPacketRecoveryGates](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-add9e1c665)
 - [pr26:Analytic.JointHighPacketRecoveryGates::literal_first_dyadic_caps@91 — literal_first_dyadic_caps](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-literal-first-dyadic-c-17beaf8933)
 - [pr26:Analytic.JointHighPacketRecoveryGates::live_rayTarget_first_mem@106 — live_rayTarget_first_mem](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-live-raytarget-first-m-6b5db5a095)
-- [pr26:Analytic.JointHighPacketRecoveryGates::live_rayTarget_fourier_gates@123 — live_rayTarget_fourier_gates](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-live-raytarget-fourier-7498b5b774)
-- [pr26:Analytic.JointHighPacketRecoveryGates::packet_first_mem@40 — packet_first_mem](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-packet-first-mem-40-05a9c075f6)

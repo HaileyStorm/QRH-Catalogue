@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 30/43; 10567 matching records.
+Page 30/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-29.md)
 
 [Next](status-unknown-b23a6a8439-31.md)
 
+- [local-section:32170de5c19ef68116c21f89 — \[research revision\]: complete fugacity and signed boundary contracts](../records/0143.md#local-section-32170de5c19ef68116c21f89-e3bb2e99b0)
 - [local-section:323cfae232016a525b28ecb3 — Discovery pass: paid recovery, unchanged arithmetic](../records/0143.md#local-section-323cfae232016a525b28ecb3-255b8c1b1c)
 - [local-section:32531622142eac7c96eb7090 — Uniform G6-08: torsion does not replace the scalar projection](../records/0143.md#local-section-32531622142eac7c96eb7090-59e42bbf77)
 - [local-section:32913ec7134a0e926287eb4c — Corrections that must survive integration](../records/0143.md#local-section-32913ec7134a0e926287eb4c-96749fca6c)
@@ -119,8 +120,8 @@ Page 30/43; 10567 matching records.
 - [local-section:3cdf0a8a6a95c32aa2d4bbb3 — R5. Wildcard S23: actual compact certificate, with the all-scale premise visible](../records/0144.md#local-section-3cdf0a8a6a95c32aa2d4bbb3-8682f59b3b)
 - [local-section:3cf882726fbcd59fe31d85e5 — G163. Exact native Schur and four-cycle bills](../records/0144.md#local-section-3cf882726fbcd59fe31d85e5-5afad4f8cc)
 - [local-section:3cfb55bc6b80c52e40b58b66 — 4. Literal arithmetic returns and their exact limits](../records/0144.md#local-section-3cfb55bc6b80c52e40b58b66-c26433518e)
-- [local-section:3cfcd1506a128de4d8e455c2 — 4.2 Exact squarefree Euler correction and all p shifts](../records/0144.md#local-section-3cfcd1506a128de4d8e455c2-9c4026ad4e)
-- [local-section:3cfd40163d916bd9976ed58d — 4. D3 / S24: a lossless ambient system must pay scale and defect return](../records/0144.md#local-section-3cfd40163d916bd9976ed58d-dd5056f639)
+- [local-section:3cfcd1506a128de4d8e455c2 — 4.2 Exact squarefree Euler correction and all p shifts](../records/0145.md#local-section-3cfcd1506a128de4d8e455c2-9c4026ad4e)
+- [local-section:3cfd40163d916bd9976ed58d — 4. D3 / S24: a lossless ambient system must pay scale and defect return](../records/0145.md#local-section-3cfd40163d916bd9976ed58d-dd5056f639)
 - [local-section:3cfdf4d1d647ce561c250fd8 — 4. C1–8: full biased-Walsh reconstruction and its price](../records/0145.md#local-section-3cfdf4d1d647ce561c250fd8-8beecf9d47)
 - [local-section:3d2c314962e1d213c7c7736e — Evidence and next research step](../records/0145.md#local-section-3d2c314962e1d213c7c7736e-bb171aedff)
 - [local-section:3d4b2decc729838aecf4e75f — F04. Sextic reflection, physical covariance, probe and numerator](../records/0145.md#local-section-3d4b2decc729838aecf4e75f-078d48eb14)
@@ -205,8 +206,8 @@ Page 30/43; 10567 matching records.
 - [local-section:4591c2300d4623afdae97444 — Uniform S09: exact source-specific linear dual and its hidden scalar](../records/0145.md#local-section-4591c2300d4623afdae97444-78a9dc6f67)
 - [local-section:45be2c9607efc7b04c92aa2e — 3. The entire positive chain mass really has exponent one](../records/0145.md#local-section-45be2c9607efc7b04c92aa2e-a8a22a0f65)
 - [local-section:45c4ef9373d6c0aabb4b0e67 — \[research revision\] overlays and \[research revision\]–\[research revision\]: paid sectors and precise residuals](../records/0145.md#local-section-45c4ef9373d6c0aabb4b0e67-0fc80d1388)
-- [local-section:45cd43f9ed862ddbee4f6b24 — 1. Transfers between fixed smoothers](../records/0145.md#local-section-45cd43f9ed862ddbee4f6b24-0cf56fdbfb)
-- [local-section:45d03031654352e30d17c057 — 2. Sampling and preserved audits](../records/0145.md#local-section-45d03031654352e30d17c057-3522e2db8d)
+- [local-section:45cd43f9ed862ddbee4f6b24 — 1. Transfers between fixed smoothers](../records/0146.md#local-section-45cd43f9ed862ddbee4f6b24-0cf56fdbfb)
+- [local-section:45d03031654352e30d17c057 — 2. Sampling and preserved audits](../records/0146.md#local-section-45d03031654352e30d17c057-3522e2db8d)
 - [local-section:45f72c4a061e771fd01acbc6 — Actual arithmetic dilation: a global theorem and the unpaid local estimate](../records/0146.md#local-section-45f72c4a061e771fd01acbc6-a5637ec90d)
 - [local-section:4603488242b05c57c03ea126 — 5. The whole paired diagonal](../records/0146.md#local-section-4603488242b05c57c03ea126-39af984461)
 - [local-section:461d0e68ab339beb41a56f07 — Independent W48 review: the same complete energy has a higher-order return](../records/0146.md#local-section-461d0e68ab339beb41a56f07-a23786188e)
@@ -257,4 +258,3 @@ Page 30/43; 10567 matching records.
 - [local-section:49550f1d5bf9393d988d08c0 — 3. Independent proof of W48.1](../records/0146.md#local-section-49550f1d5bf9393d988d08c0-09fc4c1b56)
 - [local-section:4958912978a30104d911cb7c — 4. At the unit dual core the exact Euler operator can be rank one](../records/0146.md#local-section-4958912978a30104d911cb7c-87596e14c0)
 - [local-section:498d24fc15018d3dfa590270 — 7. Source Euler data and quantitative costs](../records/0146.md#local-section-498d24fc15018d3dfa590270-7662edd81c)
-- [local-section:49938bddd79d65143fd119f0 — 2. Frozen sources and evidence](../records/0146.md#local-section-49938bddd79d65143fd119f0-bf9b4edc91)

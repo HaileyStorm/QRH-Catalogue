@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 40/43; 10567 matching records.
+Page 40/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-39.md)
 
 [Next](status-unknown-b23a6a8439-41.md)
 
+- [pr26:Analytic.ActualFirstExtractedErrors — Analytic.ActualFirstExtractedErrors](../records/0175.md#pr26-analytic-actualfirstextractederrors-da69dc8577)
 - [pr26:Analytic.ActualFreeDensity — Analytic.ActualFreeDensity](../records/0175.md#pr26-analytic-actualfreedensity-0cd70401dd)
 - [pr26:Analytic.ActualGlobalRemoval — Analytic.ActualGlobalRemoval](../records/0175.md#pr26-analytic-actualglobalremoval-5f75bc7e72)
 - [pr26:Analytic.ActualIncumbent — Analytic.ActualIncumbent](../records/0175.md#pr26-analytic-actualincumbent-966c77c9d4)
@@ -29,7 +30,7 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.CancellationMasks — Analytic.CancellationMasks](../records/0175.md#pr26-analytic-cancellationmasks-f40ec01b3a)
 - [pr26:Analytic.CanonicalReconstruction — Analytic.CanonicalReconstruction](../records/0175.md#pr26-analytic-canonicalreconstruction-1ed5dfd1b9)
 - [pr26:Analytic.CommonMeshMonotonicity — Analytic.CommonMeshMonotonicity](../records/0175.md#pr26-analytic-commonmeshmonotonicity-8415e00906)
-- [pr26:Analytic.DensityArithmetic — Analytic.DensityArithmetic](../records/0175.md#pr26-analytic-densityarithmetic-ac4c206055)
+- [pr26:Analytic.DensityArithmetic — Analytic.DensityArithmetic](../records/0176.md#pr26-analytic-densityarithmetic-ac4c206055)
 - [pr26:Analytic.DensityLargeHeight — Analytic.DensityLargeHeight](../records/0176.md#pr26-analytic-densitylargeheight-103a83c5a9)
 - [pr26:Analytic.FixedPhaseDictionary — Analytic.FixedPhaseDictionary](../records/0176.md#pr26-analytic-fixedphasedictionary-114bd24c3d)
 - [pr26:Analytic.JointActiveErrors — Analytic.JointActiveErrors](../records/0176.md#pr26-analytic-jointactiveerrors-ccbd2681fb)
@@ -67,7 +68,7 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.JointCoherentExceptionalNormalization — Analytic.JointCoherentExceptionalNormalization](../records/0177.md#pr26-analytic-jointcoherentexceptionalnormalization-4a558f92f2)
 - [pr26:Analytic.JointCoherentExceptionalNormalized — Analytic.JointCoherentExceptionalNormalized](../records/0177.md#pr26-analytic-jointcoherentexceptionalnormalized-19c7546264)
 - [pr26:Analytic.JointCoherentExceptionalPhysical — Analytic.JointCoherentExceptionalPhysical](../records/0177.md#pr26-analytic-jointcoherentexceptionalphysical-ecdfd3dde0)
-- [pr26:Analytic.JointCoherentExceptionalPhysicalBase — Analytic.JointCoherentExceptionalPhysicalBase](../records/0177.md#pr26-analytic-jointcoherentexceptionalphysicalbase-afc78becc2)
+- [pr26:Analytic.JointCoherentExceptionalPhysicalBase — Analytic.JointCoherentExceptionalPhysicalBase](../records/0178.md#pr26-analytic-jointcoherentexceptionalphysicalbase-afc78becc2)
 - [pr26:Analytic.JointCoherentExceptionalPower — Analytic.JointCoherentExceptionalPower](../records/0178.md#pr26-analytic-jointcoherentexceptionalpower-1495ffcb40)
 - [pr26:Analytic.JointCoherentExceptionalProfile — Analytic.JointCoherentExceptionalProfile](../records/0178.md#pr26-analytic-jointcoherentexceptionalprofile-441c63950a)
 - [pr26:Analytic.JointCoherentExceptionalScalar — Analytic.JointCoherentExceptionalScalar](../records/0178.md#pr26-analytic-jointcoherentexceptionalscalar-fb648e5f87)
@@ -91,7 +92,7 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.JointCommonNormalizedSplit — Analytic.JointCommonNormalizedSplit](../records/0178.md#pr26-analytic-jointcommonnormalizedsplit-91b6f35ee0)
 - [pr26:Analytic.JointCommonRetainedBuffered — Analytic.JointCommonRetainedBuffered](../records/0178.md#pr26-analytic-jointcommonretainedbuffered-6f5bcef141)
 - [pr26:Analytic.JointCommonShortGates — Analytic.JointCommonShortGates](../records/0178.md#pr26-analytic-jointcommonshortgates-60db965e12)
-- [pr26:Analytic.JointCommonVolume — Analytic.JointCommonVolume](../records/0178.md#pr26-analytic-jointcommonvolume-a9e5b8d519)
+- [pr26:Analytic.JointCommonVolume — Analytic.JointCommonVolume](../records/0179.md#pr26-analytic-jointcommonvolume-a9e5b8d519)
 - [pr26:Analytic.JointCommonVolumeSector — Analytic.JointCommonVolumeSector](../records/0179.md#pr26-analytic-jointcommonvolumesector-06e933c643)
 - [pr26:Analytic.JointCompleteBins — Analytic.JointCompleteBins](../records/0179.md#pr26-analytic-jointcompletebins-6d43d8a756)
 - [pr26:Analytic.JointDictionaryDensity — Analytic.JointDictionaryDensity](../records/0179.md#pr26-analytic-jointdictionarydensity-d79161c392)
@@ -118,7 +119,7 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.JointExceptionalLedger — Analytic.JointExceptionalLedger](../records/0179.md#pr26-analytic-jointexceptionalledger-160add6f99)
 - [pr26:Analytic.JointExceptionalLocalContribution — Analytic.JointExceptionalLocalContribution](../records/0179.md#pr26-analytic-jointexceptionallocalcontribution-6bb1bf40a3)
 - [pr26:Analytic.JointExceptionalNormalization — Analytic.JointExceptionalNormalization](../records/0179.md#pr26-analytic-jointexceptionalnormalization-145ee23c97)
-- [pr26:Analytic.JointExceptionalPairIdentity — Analytic.JointExceptionalPairIdentity](../records/0179.md#pr26-analytic-jointexceptionalpairidentity-969d9cb395)
+- [pr26:Analytic.JointExceptionalPairIdentity — Analytic.JointExceptionalPairIdentity](../records/0180.md#pr26-analytic-jointexceptionalpairidentity-969d9cb395)
 - [pr26:Analytic.JointExceptionalUniformChild — Analytic.JointExceptionalUniformChild](../records/0180.md#pr26-analytic-jointexceptionaluniformchild-b1ac6bebcd)
 - [pr26:Analytic.JointExtractedErrorBudget — Analytic.JointExtractedErrorBudget](../records/0180.md#pr26-analytic-jointextractederrorbudget-88395f240f)
 - [pr26:Analytic.JointExtractedErrorNormalization — Analytic.JointExtractedErrorNormalization](../records/0180.md#pr26-analytic-jointextractederrornormalization-e1a573a0d6)
@@ -179,7 +180,7 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.JointFirstNaturalSource — Analytic.JointFirstNaturalSource](../records/0182.md#pr26-analytic-jointfirstnaturalsource-57aec6cb0b)
 - [pr26:Analytic.JointFirstNaturalTarget — Analytic.JointFirstNaturalTarget](../records/0182.md#pr26-analytic-jointfirstnaturaltarget-37a9735a45)
 - [pr26:Analytic.JointFirstNaturalTargetExplicitMesh — Analytic.JointFirstNaturalTargetExplicitMesh](../records/0182.md#pr26-analytic-jointfirstnaturaltargetexplicitmesh-bc3da40a04)
-- [pr26:Analytic.JointFirstOriginalExplicitMesh — Analytic.JointFirstOriginalExplicitMesh](../records/0182.md#pr26-analytic-jointfirstoriginalexplicitmesh-aecb73a7da)
+- [pr26:Analytic.JointFirstOriginalExplicitMesh — Analytic.JointFirstOriginalExplicitMesh](../records/0183.md#pr26-analytic-jointfirstoriginalexplicitmesh-aecb73a7da)
 - [pr26:Analytic.JointFirstOriginalRemainder — Analytic.JointFirstOriginalRemainder](../records/0183.md#pr26-analytic-jointfirstoriginalremainder-d213b7e5fa)
 - [pr26:Analytic.JointFirstOriginalRemainderTarget — Analytic.JointFirstOriginalRemainderTarget](../records/0183.md#pr26-analytic-jointfirstoriginalremaindertarget-2452c02bb3)
 - [pr26:Analytic.JointFirstOriginalTail — Analytic.JointFirstOriginalTail](../records/0183.md#pr26-analytic-jointfirstoriginaltail-90e88b5ae9)
@@ -215,7 +216,7 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.JointGlobalSourceBins — Analytic.JointGlobalSourceBins](../records/0184.md#pr26-analytic-jointglobalsourcebins-791886b054)
 - [pr26:Analytic.JointHighComplete — Analytic.JointHighComplete](../records/0184.md#pr26-analytic-jointhighcomplete-036092f244)
 - [pr26:Analytic.JointHighCumulativeSectors — Analytic.JointHighCumulativeSectors](../records/0184.md#pr26-analytic-jointhighcumulativesectors-f343d956a9)
-- [pr26:Analytic.JointHighDyadicGates — Analytic.JointHighDyadicGates](../records/0184.md#pr26-analytic-jointhighdyadicgates-7c44651748)
+- [pr26:Analytic.JointHighDyadicGates — Analytic.JointHighDyadicGates](../records/0185.md#pr26-analytic-jointhighdyadicgates-7c44651748)
 - [pr26:Analytic.JointHighFirstNormGates — Analytic.JointHighFirstNormGates](../records/0185.md#pr26-analytic-jointhighfirstnormgates-5e630ce554)
 - [pr26:Analytic.JointHighKernel — Analytic.JointHighKernel](../records/0185.md#pr26-analytic-jointhighkernel-26461fa9d2)
 - [pr26:Analytic.JointHighKernelActualRows — Analytic.JointHighKernelActualRows](../records/0185.md#pr26-analytic-jointhighkernelactualrows-ca2f8eb868)
@@ -242,7 +243,7 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.JointHighProduct — Analytic.JointHighProduct](../records/0185.md#pr26-analytic-jointhighproduct-498db9be7e)
 - [pr26:Analytic.JointHighReferenceGates — Analytic.JointHighReferenceGates](../records/0185.md#pr26-analytic-jointhighreferencegates-a63ffaaa33)
 - [pr26:Analytic.JointHighReferencePacketGates — Analytic.JointHighReferencePacketGates](../records/0185.md#pr26-analytic-jointhighreferencepacketgates-e2e64e0df7)
-- [pr26:Analytic.JointHighRetained — Analytic.JointHighRetained](../records/0185.md#pr26-analytic-jointhighretained-3f847cbebf)
+- [pr26:Analytic.JointHighRetained — Analytic.JointHighRetained](../records/0186.md#pr26-analytic-jointhighretained-3f847cbebf)
 - [pr26:Analytic.JointHighRetainedDominated — Analytic.JointHighRetainedDominated](../records/0186.md#pr26-analytic-jointhighretaineddominated-8904c9680f)
 - [pr26:Analytic.JointHighScalar — Analytic.JointHighScalar](../records/0186.md#pr26-analytic-jointhighscalar-39a328be82)
 - [pr26:Analytic.JointHighScalarSector — Analytic.JointHighScalarSector](../records/0186.md#pr26-analytic-jointhighscalarsector-f157f4aa40)
@@ -257,4 +258,3 @@ Page 40/43; 10567 matching records.
 - [pr26:Analytic.JointHighSourceRays — Analytic.JointHighSourceRays](../records/0186.md#pr26-analytic-jointhighsourcerays-62029c6612)
 - [pr26:Analytic.JointIndependentHeights — Analytic.JointIndependentHeights](../records/0186.md#pr26-analytic-jointindependentheights-f86903f0d5)
 - [pr26:Analytic.JointIndependentHeights::annular_slot_height_shift@659 — annular_slot_height_shift](../records/0186.md#pr26-analytic-jointindependentheights-annular-slot-height-shift-6-f8d63e7515)
-- [pr26:Analytic.JointIndependentHeights::independent_energy_le_diagonal_energies@722 — independent_energy_le_diagonal_energies](../records/0186.md#pr26-analytic-jointindependentheights-independent-energy-le-diago-b8ad1daa6b)

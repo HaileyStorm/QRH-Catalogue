@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1034 matching records.
+Page 1/5; 1035 matching records.
 
 [Next](method-gram-caa75103c5-02.md)
 
@@ -186,6 +186,7 @@ Page 1/5; 1034 matching records.
 - [QRH-CONT-M012-CONDUCTOR-ADAPTER — Universal ordinary seed adapter with logarithmic covariance conductor cost](../records/0131.md#qrh-cont-m012-conductor-adapter-2e0ea3bdfa)
 - [QRH-CONT-M012-VAUGHAN — Critical centered Vaughan inverse-square saving with exact joint residual](../records/0131.md#qrh-cont-m012-vaughan-abb162e058)
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
+- [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
@@ -255,4 +256,3 @@ Page 1/5; 1034 matching records.
 - [local-section:19b1dd180e962311d1d676ff — 11. Two additional brainstorming passes: what was actually added](../records/0140.md#local-section-19b1dd180e962311d1d676ff-a655849e5b)
 - [local-section:19b88181709ca0278b59e6d0 — Quantitative gate index](../records/0140.md#local-section-19b88181709ca0278b59e6d0-8524d45372)
 - [local-section:1a7db47d7e33c397f151e227 — F04.N2 — New pass 1: core-frame calibration and exact mark cumulants](../records/0140.md#local-section-1a7db47d7e33c397f151e227-e53cd3c278)
-- [local-section:1ad8f2b0b1a9b894c059b797 — 1. Exact sources and input contract](../records/0140.md#local-section-1ad8f2b0b1a9b894c059b797-e45e9eb796)

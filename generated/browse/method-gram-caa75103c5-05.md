@@ -2,16 +2,17 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1034 matching records.
+Page 5/5; 1035 matching records.
 
 [Previous](method-gram-caa75103c5-04.md)
 
+- [local:G288 — G288. Finite Euler deletion with explicit divisor-tail and profile budgets](../records/0173.md#local-g288-7313aece03)
 - [local:G289 — G289. Adaptive ordinary Laplace Gram residual and complete primitive-ratio reduction](../records/0173.md#local-g289-5edc57e94d)
 - [local:G297 — G297. Asymmetric continuous Gram with a paid diagonal and unpaid transition](../records/0173.md#local-g297-9211aa135c)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
 - [local:G73 — \[research revision\] attempt delta (G73)](../records/0173.md#local-g73-076e11ffdb)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0173.md#local-g75-1359afa204)
-- [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0173.md#local-g77-f75acc7bc5)
+- [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0174.md#local-g77-f75acc7bc5)
 - [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0174.md#local-g80-5d9f92de8e)
 - [local:G81 — G81. Largest-prime renewal and its complete covariance](../records/0174.md#local-g81-99411dc86c)
 - [local:G82 — G82. Heat-trace threshold and the actual Gram obstruction](../records/0174.md#local-g82-b0a5fbfc89)

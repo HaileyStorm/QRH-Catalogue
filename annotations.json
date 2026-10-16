@@ -125751,6 +125751,26 @@
         "basis": "written-scope-comparison",
         "locator": "Both retain the actual q=1 prime error and centering; neither provides the target estimate."
       }
+    },
+    {
+      "source": "QRH-CONT-M017-LOG-COVARIANCE",
+      "target": "QRH-CONT-M016-PRIME-COVARIANCE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "explicit-written-proof-use",
+        "locator": "M017 logarithmic covariance equation1 uses exact M016 covariance including both lower edges.",
+        "qualification": "Exact starting identity; no endpoint transfer."
+      }
+    },
+    {
+      "source": "QRH-CONT-M017-MOBIUS-TAIL",
+      "target": "QRH-CONT-M016-CENTERED-RENEWAL",
+      "kind": "related",
+      "evidence": {
+        "basis": "complete-forcing-and-derivative-combination",
+        "locator": "M017 Mobius-tail section1 combines the finite Selberg identity with its logarithmic derivative term.",
+        "qualification": "The reduction is elementary and does not inherit an improved forcing estimate."
+      }
     }
   ],
   "schema_version": 1

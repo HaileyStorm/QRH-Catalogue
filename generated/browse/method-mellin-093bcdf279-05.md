@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1067 matching records.
+Page 5/5; 1068 matching records.
 
 [Previous](method-mellin-093bcdf279-04.md)
 
+- [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0173.md#local-g245-5bef916afc)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0173.md#local-g246-8dd56008a9)
 - [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0173.md#local-g249-33b0a017f2)
 - [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0173.md#local-g251-2e3e6366df)
@@ -24,7 +25,7 @@ Page 5/5; 1067 matching records.
 - [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0173.md#local-g68-8d260df78f)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0173.md#local-g72-501fc8c07b)
 - [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0173.md#local-g74-c3716b767a)
-- [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0173.md#local-g76-089f3bed55)
+- [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0174.md#local-g76-089f3bed55)
 - [local:G78 — G78. Uniform depth and the full physical tail](../records/0174.md#local-g78-9d1a1f7ec0)
 - [local:G83 — G83. Actual balanced completion at growing order](../records/0174.md#local-g83-8dd3bd523d)
 - [local:G84 — G84. Exact moment and genuine paid sectors](../records/0174.md#local-g84-39571ccd9d)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 28/43; 10567 matching records.
+Page 28/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-27.md)
 
 [Next](status-unknown-b23a6a8439-29.md)
 
+- [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0137.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
 - [local-section:015dd76d4f6a52bc3cf07323 — 12. A source theorem must match the actual coefficient and level family](../records/0137.md#local-section-015dd76d4f6a52bc3cf07323-3ff001bf2c)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0137.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
 - [local-section:019b7e6748c560d9641ef714 — 10. Uniformity, tails and independent checks](../records/0137.md#local-section-019b7e6748c560d9641ef714-fd36a2c932)
@@ -31,8 +32,8 @@ Page 28/43; 10567 matching records.
 - [local-section:02fdbca0f365e58ad52a1d8a — 8. Evidence and freeze](../records/0137.md#local-section-02fdbca0f365e58ad52a1d8a-1b01d99df1)
 - [local-section:0300064e6646ee5a9ff359bd — R39-A. Complex-polynomial interpolation is valid](../records/0137.md#local-section-0300064e6646ee5a9ff359bd-7d8c3a3a68)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0137.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
-- [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0137.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
-- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0137.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
+- [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
+- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0138.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
 - [local-section:03ded9de2bce6435961f851f — Evidence, failures and further work](../records/0138.md#local-section-03ded9de2bce6435961f851f-e921817e5d)
 - [local-section:0400fb8cae6f2f20f06e267c — G156. Complete diagonal and two off-diagonal sectors](../records/0138.md#local-section-0400fb8cae6f2f20f06e267c-3484d3ff52)
 - [local-section:0409bef3c7a87643553801ce — D48: accept signed block transport and fixed-source pole preservation](../records/0138.md#local-section-0409bef3c7a87643553801ce-fa41babf77)
@@ -112,8 +113,8 @@ Page 28/43; 10567 matching records.
 - [local-section:0c16cf3e1ee0b89946566b4b — 5. Checks, source scope and dispositions of all30 cards](../records/0138.md#local-section-0c16cf3e1ee0b89946566b4b-5a30366b9d)
 - [local-section:0c1c5886e72dd71d409efeaf — 4. The untruncated completion error](../records/0138.md#local-section-0c1c5886e72dd71d409efeaf-8a6c04cd8d)
 - [local-section:0c403f6e0469d25490673b25 — Next estimates](../records/0138.md#local-section-0c403f6e0469d25490673b25-3cf812fc48)
-- [local-section:0c63d13ac9a95e9904d846de — 2. Evidence and independent computation](../records/0138.md#local-section-0c63d13ac9a95e9904d846de-a7b793f6ef)
-- [local-section:0c72d9bdc3055ec72acea72e — A4. A real attempt at a coarse approximate state, and what fails](../records/0138.md#local-section-0c72d9bdc3055ec72acea72e-67839b33c1)
+- [local-section:0c63d13ac9a95e9904d846de — 2. Evidence and independent computation](../records/0139.md#local-section-0c63d13ac9a95e9904d846de-a7b793f6ef)
+- [local-section:0c72d9bdc3055ec72acea72e — A4. A real attempt at a coarse approximate state, and what fails](../records/0139.md#local-section-0c72d9bdc3055ec72acea72e-67839b33c1)
 - [local-section:0c955dd3c8039c58ad1094ba — 4. What the first row Poisson actually does](../records/0139.md#local-section-0c955dd3c8039c58ad1094ba-3174d2d6d4)
 - [local-section:0ca7d90e4ba6ff488c4d46cf — Theorem B: exact complete offset-averaged short-window return](../records/0139.md#local-section-0ca7d90e4ba6ff488c4d46cf-243e55b38d)
 - [local-section:0cb2c7f814aee1f30c829b0c — 32. Countable detector banks and the endpoint correction](../records/0139.md#local-section-0cb2c7f814aee1f30c829b0c-c623618ec1)
@@ -201,8 +202,8 @@ Page 28/43; 10567 matching records.
 - [local-section:13ce6e80bfc522d9eb2c8f06 — 5. Locally nonprincipal outer refinement](../records/0139.md#local-section-13ce6e80bfc522d9eb2c8f06-49c52101e1)
 - [local-section:13ef8507f522dfa9043aafaf — 3.3 Complete physical-shell restoration](../records/0139.md#local-section-13ef8507f522dfa9043aafaf-c711a9aaea)
 - [local-section:13fe34ba2752f3f0c4c30529 — 3.1 Orientation and exact adjoint](../records/0139.md#local-section-13fe34ba2752f3f0c4c30529-5537e23924)
-- [local-section:145bccf19c137b7b5994d21e — 1. Exact results and scope](../records/0139.md#local-section-145bccf19c137b7b5994d21e-a9448df08e)
-- [local-section:145de2caaa57e97fe637df4f — HC7. Weak sufficient estimate, all-height return and prospective ceilings](../records/0139.md#local-section-145de2caaa57e97fe637df4f-fe05f63d23)
+- [local-section:145bccf19c137b7b5994d21e — 1. Exact results and scope](../records/0140.md#local-section-145bccf19c137b7b5994d21e-a9448df08e)
+- [local-section:145de2caaa57e97fe637df4f — HC7. Weak sufficient estimate, all-height return and prospective ceilings](../records/0140.md#local-section-145de2caaa57e97fe637df4f-fe05f63d23)
 - [local-section:14866488f6a6790c25657d22 — 3. Cone contraction and its complete character defect](../records/0140.md#local-section-14866488f6a6790c25657d22-730a9c4b44)
 - [local-section:148809b5e80ff66019a73887 — 2. Exact Euler multiplier, inverse, and all-height return](../records/0140.md#local-section-148809b5e80ff66019a73887-8a2d806f39)
 - [local-section:148ebd628a5c6187ea0cf3e5 — 7. Corrections, qualifications and evidence limits](../records/0140.md#local-section-148ebd628a5c6187ea0cf3e5-e4afbb4f37)
@@ -257,4 +258,3 @@ Page 28/43; 10567 matching records.
 - [local-section:1941fb35943e4ae464305a21 — 2. New exact conductor geometry](../records/0140.md#local-section-1941fb35943e4ae464305a21-d70e959930)
 - [local-section:1966e74b9dd907ef360e3ca5 — 3. Complete endpoint return](../records/0140.md#local-section-1966e74b9dd907ef360e3ca5-118a1d61aa)
 - [local-section:1974e8f2846df66697104629 — 27. Actual arithmetic dilations and their complete reconstruction cost](../records/0140.md#local-section-1974e8f2846df66697104629-723777c4e6)
-- [local-section:1987d00fae8a1e085952a2f5 — G208: exact pair mass and a fifth actual row class](../records/0140.md#local-section-1987d00fae8a1e085952a2f5-1f73fb2c6e)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 34/43; 10567 matching records.
+Page 34/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-33.md)
 
 [Next](status-unknown-b23a6a8439-35.md)
 
+- [local-section:8b3920a270fb682abb9bcadf — Source anchors and review targets](../records/0155.md#local-section-8b3920a270fb682abb9bcadf-b3a9dd86af)
 - [local-section:8b4000372ee929209db5e682 — N29. Density-subtracted prime/Cayley/Laguerre criteria](../records/0155.md#local-section-8b4000372ee929209db5e682-b47ba50e5b)
 - [local-section:8b4a4f30ef608618d9b24d30 — 4.1 The inherited exact source, with all endpoints](../records/0155.md#local-section-8b4a4f30ef608618d9b24d30-73e9d4f15b)
 - [local-section:8b5528dac191ce3a6d39f0a7 — Literal character convention](../records/0155.md#local-section-8b5528dac191ce3a6d39f0a7-e16dc043d4)
@@ -61,7 +62,7 @@ Page 34/43; 10567 matching records.
 - [local-section:901ca9d44ca93bde071020ea — 3. D2 / S27: the collective dual transform retains the whole mask](../records/0155.md#local-section-901ca9d44ca93bde071020ea-2108e9eecc)
 - [local-section:902da169d59da7404d9a87ee — 10. Exact endpoint polynomial and feedback on every retained row](../records/0155.md#local-section-902da169d59da7404d9a87ee-502d002802)
 - [local-section:9069ee3acc40f4f65f55f051 — 4. Radical cancellation and complete low-core payment](../records/0155.md#local-section-9069ee3acc40f4f65f55f051-b89b8386ea)
-- [local-section:906d99629c74e07e1c1c46a2 — New content and next action](../records/0155.md#local-section-906d99629c74e07e1c1c46a2-207bd18154)
+- [local-section:906d99629c74e07e1c1c46a2 — New content and next action](../records/0156.md#local-section-906d99629c74e07e1c1c46a2-207bd18154)
 - [local-section:9086cd85172cb7dad7517749 — \[research revision\] controller candidate: rough-depth renewal for the actual f3 field](../records/0156.md#local-section-9086cd85172cb7dad7517749-1b746a6fd3)
 - [local-section:90aabefa37bb046bb18eea86 — 1. Kernel construction and exact scale transfer](../records/0156.md#local-section-90aabefa37bb046bb18eea86-9322cd539e)
 - [local-section:90b8dd6abb691b79c8e40eb0 — The actual tensor and adaptive conductor selection](../records/0156.md#local-section-90b8dd6abb691b79c8e40eb0-e1021b5966)
@@ -148,8 +149,8 @@ Page 34/43; 10567 matching records.
 - [local-section:979e4fc787f7e5822fe5668f — Evidence and pin discipline](../records/0156.md#local-section-979e4fc787f7e5822fe5668f-e54a26e21e)
 - [local-section:97a46085e7c58db0082f7f3d — 2. A paid small-radical field, including its unbounded prime powers](../records/0156.md#local-section-97a46085e7c58db0082f7f3d-d592878453)
 - [local-section:97d77ac7983cd872b4e322db — 7. The complete problem reduces to one coprime cell](../records/0156.md#local-section-97d77ac7983cd872b4e322db-28ef646307)
-- [local-section:97d92eb2e6638e824655246e — What the short-row and cubic estimates remove](../records/0156.md#local-section-97d92eb2e6638e824655246e-63fb507508)
-- [local-section:97e0e31b129b6bce89d3d12b — A. Exterior completion: valid local progress, exact global gap](../records/0156.md#local-section-97e0e31b129b6bce89d3d12b-e5378af542)
+- [local-section:97d92eb2e6638e824655246e — What the short-row and cubic estimates remove](../records/0157.md#local-section-97d92eb2e6638e824655246e-63fb507508)
+- [local-section:97e0e31b129b6bce89d3d12b — A. Exterior completion: valid local progress, exact global gap](../records/0157.md#local-section-97e0e31b129b6bce89d3d12b-e5378af542)
 - [local-section:9821a881b8911244c5eb06ca — 5. Independent strengthening by the exact collision second moment](../records/0157.md#local-section-9821a881b8911244c5eb06ca-ba12f5f719)
 - [local-section:982906802a0425a2f148c304 — The actual principal obstruction](../records/0157.md#local-section-982906802a0425a2f148c304-1895f6dbe5)
 - [local-section:9831a6c9e598a448e349de8e — 3. Pay every sixth-power repetition with the actual Möbius coefficients](../records/0157.md#local-section-9831a6c9e598a448e349de8e-9dcede1dd9)
@@ -234,7 +235,7 @@ Page 34/43; 10567 matching records.
 - [local-section:9eeaae04a77866e237e74ab4 — W38: accepted developments and independent additions](../records/0157.md#local-section-9eeaae04a77866e237e74ab4-dd3b38b3ed)
 - [local-section:9ef5728dbbdf04444b256125 — 5. Development11/15: phase geometry keeps a complete native Gram bill](../records/0157.md#local-section-9ef5728dbbdf04444b256125-e7b476d628)
 - [local-section:9f1457cb9962b9df7721d939 — 7. Evidence and next allocation](../records/0157.md#local-section-9f1457cb9962b9df7721d939-fd7cc43490)
-- [local-section:9f23ecef4ce615b5200a150e — 2. Agreement with the independently derived transfer](../records/0157.md#local-section-9f23ecef4ce615b5200a150e-ac1322a046)
+- [local-section:9f23ecef4ce615b5200a150e — 2. Agreement with the independently derived transfer](../records/0158.md#local-section-9f23ecef4ce615b5200a150e-ac1322a046)
 - [local-section:9f5719a223fdc7605568ba69 — 6. The strongest arithmetic obstruction: an actual semiprime corner](../records/0158.md#local-section-9f5719a223fdc7605568ba69-78668830c3)
 - [local-section:9f7ffe08a33a563378c74ef1 — \[research revision\]: all-source forced-row bounds for the actual mixed linear probe](../records/0158.md#local-section-9f7ffe08a33a563378c74ef1-ef1feb150d)
 - [local-section:9f94e9b2a21a159421d37045 — 5. Two representations of each actual far annulus](../records/0158.md#local-section-9f94e9b2a21a159421d37045-ed6d4c2380)
@@ -257,4 +258,3 @@ Page 34/43; 10567 matching records.
 - [local-section:a17f9e68bab4d4555eeaf88f — G174. Actual cutoff boundaries and the price of a positive observation](../records/0158.md#local-section-a17f9e68bab4d4555eeaf88f-83e6e725ae)
 - [local-section:a19cd4d40c5b00cbd35b0c2e — D48. Native Gaussian innovation, then a paid all-block replacement](../records/0158.md#local-section-a19cd4d40c5b00cbd35b0c2e-5dc4009b20)
 - [local-section:a1bd878ff310da814964a4c8 — 4. Harvest different estimates and merge them rigorously](../records/0158.md#local-section-a1bd878ff310da814964a4c8-0096c0ca75)
-- [local-section:a1c9a686c3fca22543ac4dea — 5. Finite signed core with every complement paid](../records/0158.md#local-section-a1c9a686c3fca22543ac4dea-06a6773701)

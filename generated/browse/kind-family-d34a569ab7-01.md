@@ -13,7 +13,7 @@ Page 1/1; 29 matching records.
 - [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
 - [local:F08 — F08. Weighted fractional parts and modular residues](../records/0170.md#local-f08-1cd15be4b1)
 - [local:F09 — F09. Adaptive exceptional-mode vector probes](../records/0170.md#local-f09-82b521a74d)
-- [local:F10 — F10. Full signed asymptotic and changed transfer](../records/0170.md#local-f10-78df4c18b8)
+- [local:F10 — F10. Full signed asymptotic and changed transfer](../records/0171.md#local-f10-78df4c18b8)
 - [local:F11 — F11. Paired compensators and cross-Gram interference](../records/0171.md#local-f11-1fe192e6da)
 - [local:F12 — F12. Correlated moving-prime amplification](../records/0171.md#local-f12-b67c4de618)
 - [local:F13 — F13. Quadratic–cubic column-only hybrids](../records/0171.md#local-f13-18a9525da6)

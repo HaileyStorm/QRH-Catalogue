@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 2/5; 1067 matching records.
+Page 2/5; 1068 matching records.
 
 [Previous](method-mellin-093bcdf279-01.md)
 
 [Next](method-mellin-093bcdf279-03.md)
 
+- [local-section:201fc0277da5ab3da3be2d73 — The same window energy supports a higher-order return](../records/0141.md#local-section-201fc0277da5ab3da3be2d73-7c5b1ef31a)
 - [local-section:202d429c4d477fa73624eaa1 — A3. Why the ordinary L-function replenishes the complex bound](../records/0141.md#local-section-202d429c4d477fa73624eaa1-c78070e79d)
 - [local-section:2094a6e07a48f190cabac1a0 — 3.3 Character-specific transform and all-height zero return](../records/0141.md#local-section-2094a6e07a48f190cabac1a0-0738348f7b)
 - [local-section:20b0bf4acb9e90acbb2a214c — 3. Simultaneous detectors can cover numerator zeros](../records/0141.md#local-section-20b0bf4acb9e90acbb2a214c-1c24dcf572)
@@ -20,7 +21,7 @@ Page 2/5; 1067 matching records.
 - [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0141.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)
 - [local-section:23dee2845ddcfb42313c0ac2 — 8. Attempted escape: a zero-sum compensator bank really deflates cells](../records/0141.md#local-section-23dee2845ddcfb42313c0ac2-e5efa90171)
 - [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0141.md#local-section-23eff95a515b438b71738534-fbea372025)
-- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0141.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
+- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0142.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
 - [local-section:252d6d45d879f556871b51cc — F01. Multiscale Möbius decomposition and signed block control](../records/0142.md#local-section-252d6d45d879f556871b51cc-6b1c8a5789)
 - [local-section:253bb40bb2b9a9521bae8ff5 — \[research revision\]: a larger literal amplifier gives local capacity 4.44](../records/0142.md#local-section-253bb40bb2b9a9521bae8ff5-d141175ebb)
 - [local-section:25428601e047f9d34294a7c7 — Evidence, limits and review packet](../records/0142.md#local-section-25428601e047f9d34294a7c7-9a165d7bdf)
@@ -76,7 +77,7 @@ Page 2/5; 1067 matching records.
 - [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0143.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0143.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0143.md#local-section-34160f89ce00b43718b31084-77745847c5)
-- [local-section:34a64812d1c3d348dd872cb4 — \[research revision\]: nonlinear source, complete tail and arithmetic core](../records/0143.md#local-section-34a64812d1c3d348dd872cb4-07a51cc96b)
+- [local-section:34a64812d1c3d348dd872cb4 — \[research revision\]: nonlinear source, complete tail and arithmetic core](../records/0144.md#local-section-34a64812d1c3d348dd872cb4-07a51cc96b)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
 - [local-section:3523f4afbd0b6ea18dba2f6f — 1. Reconstructing the arithmetic inverse](../records/0144.md#local-section-3523f4afbd0b6ea18dba2f6f-dd630dd392)
 - [local-section:35693aab9eccde89be64c404 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0144.md#local-section-35693aab9eccde89be64c404-94d484667a)
@@ -124,7 +125,7 @@ Page 2/5; 1067 matching records.
 - [local-section:4447d76efe4fddfedaef4feb — W40-16 — Hankel realization before moment formation; p=.075](../records/0145.md#local-section-4447d76efe4fddfedaef4feb-6de2562d72)
 - [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0145.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
 - [local-section:45c4ef9373d6c0aabb4b0e67 — \[research revision\] overlays and \[research revision\]–\[research revision\]: paid sectors and precise residuals](../records/0145.md#local-section-45c4ef9373d6c0aabb4b0e67-0fc80d1388)
-- [local-section:45cd43f9ed862ddbee4f6b24 — 1. Transfers between fixed smoothers](../records/0145.md#local-section-45cd43f9ed862ddbee4f6b24-0cf56fdbfb)
+- [local-section:45cd43f9ed862ddbee4f6b24 — 1. Transfers between fixed smoothers](../records/0146.md#local-section-45cd43f9ed862ddbee4f6b24-0cf56fdbfb)
 - [local-section:45f72c4a061e771fd01acbc6 — Actual arithmetic dilation: a global theorem and the unpaid local estimate](../records/0146.md#local-section-45f72c4a061e771fd01acbc6-a5637ec90d)
 - [local-section:461d0e68ab339beb41a56f07 — Independent W48 review: the same complete energy has a higher-order return](../records/0146.md#local-section-461d0e68ab339beb41a56f07-a23786188e)
 - [local-section:4671b2a7eb7193a9aa7c2d71 — G172. Deflation changes the obstructing cell and preserves its cost](../records/0146.md#local-section-4671b2a7eb7193a9aa7c2d71-a8288b38ac)
@@ -172,7 +173,7 @@ Page 2/5; 1067 matching records.
 - [local-section:52024a45216b27bf0fb0d0ba — 1. Verdict and scope](../records/0147.md#local-section-52024a45216b27bf0fb0d0ba-0f7c65b1ce)
 - [local-section:52d71f6490b9486c95758256 — 2. Protected high-reach development W41-17](../records/0147.md#local-section-52d71f6490b9486c95758256-80a3404194)
 - [local-section:52e9f2480615222ec7d36a9d — 5. Development C: complete moving-prime-square mask and equivalence](../records/0147.md#local-section-52e9f2480615222ec7d36a9d-496d66e225)
-- [local-section:52f314830d9018babe778511 — 8. The exact next object to construct](../records/0147.md#local-section-52f314830d9018babe778511-b7093e8c27)
+- [local-section:52f314830d9018babe778511 — 8. The exact next object to construct](../records/0148.md#local-section-52f314830d9018babe778511-b7093e8c27)
 - [local-section:532941d7834c0d6520bc59f8 — Independent concrete-progress consultation review](../records/0148.md#local-section-532941d7834c0d6520bc59f8-3481adda79)
 - [local-section:5339757d50337e22297a07f2 — R39-E. The Hecke counting argument supplies the needed package](../records/0148.md#local-section-5339757d50337e22297a07f2-9982042855)
 - [local-section:539d118bf5800e2a1b25f5aa — G134. Uniform second-order moving Riesz comparison](../records/0148.md#local-section-539d118bf5800e2a1b25f5aa-368ae9e191)
@@ -202,7 +203,7 @@ Page 2/5; 1067 matching records.
 - [local-section:5ae458469ad44675a761f9d4 — 7. Uniform parked audit18: continuation of a state does not continue zero exclusion](../records/0148.md#local-section-5ae458469ad44675a761f9d4-546bd83dce)
 - [local-section:5aea68852bba3e0968911c8a — 6. Full detector rectangle, complements and reciprocal return](../records/0148.md#local-section-5aea68852bba3e0968911c8a-871d3fa416)
 - [local-section:5aedf1778e753d8e9c0a76a3 — 2. Protected result: persistence has a complete and expensive arithmetic return](../records/0148.md#local-section-5aedf1778e753d8e9c0a76a3-a6bd41e473)
-- [local-section:5b2f534270324ddd4d2fa082 — 9. Remaining analytic fields and fixed-family conclusion](../records/0148.md#local-section-5b2f534270324ddd4d2fa082-01a5ffd213)
+- [local-section:5b2f534270324ddd4d2fa082 — 9. Remaining analytic fields and fixed-family conclusion](../records/0149.md#local-section-5b2f534270324ddd4d2fa082-01a5ffd213)
 - [local-section:5b55ec2a70e2891cf0d41b64 — 8. Exact residual signed correlation and zero-exclusion return](../records/0149.md#local-section-5b55ec2a70e2891cf0d41b64-739e37aa80)
 - [local-section:5b79b72a28ec0a525cf7d516 — B3. Zero-exclusion return and family scope](../records/0149.md#local-section-5b79b72a28ec0a525cf7d516-4303be420e)
 - [local-section:5ba57c1688a48ec99c04dd21 — Enlarged unmarked density and the complete c6 endpoint](../records/0149.md#local-section-5ba57c1688a48ec99c04dd21-2352afb7c3)
@@ -250,11 +251,10 @@ Page 2/5; 1067 matching records.
 - [local-section:684f7977a7851c898ca5fa62 — 8. Complete reopening contract and ancestry](../records/0150.md#local-section-684f7977a7851c898ca5fa62-111bdb8e96)
 - [local-section:68af9fa54ed1674d7f9fc3c2 — 3. Reciprocal replenishment and the finite bootstrap](../records/0150.md#local-section-68af9fa54ed1674d7f9fc3c2-924bc126f8)
 - [local-section:68bcff28cb956f3fda29f1d0 — 3. Original canonical and completed coefficients](../records/0150.md#local-section-68bcff28cb956f3fda29f1d0-910b6c87d1)
-- [local-section:69cc7a223e5c7bea364eb7f5 — 3. A concrete simultaneous two-filter detector](../records/0150.md#local-section-69cc7a223e5c7bea364eb7f5-6cbda46d9b)
+- [local-section:69cc7a223e5c7bea364eb7f5 — 3. A concrete simultaneous two-filter detector](../records/0151.md#local-section-69cc7a223e5c7bea364eb7f5-6cbda46d9b)
 - [local-section:6a4af2ba62429a9968ac7888 — 71. Genuine cofactor signals and their complete price](../records/0151.md#local-section-6a4af2ba62429a9968ac7888-4c226f7c62)
 - [local-section:6a506bf2cbe206aef907099e — \[research revision\]: curved detector and a complete Gauss bank](../records/0151.md#local-section-6a506bf2cbe206aef907099e-e18fdc2d69)
 - [local-section:6a82ba81bc4f03afa38eb56f — M2. Exact continuation and complete Gaussian readout](../records/0151.md#local-section-6a82ba81bc4f03afa38eb56f-fe8c1f3d2a)
 - [local-section:6a88824e3cf099a7f961f80b — Support: exact fixed-degree consequences](../records/0151.md#local-section-6a88824e3cf099a7f961f80b-73e55fd033)
 - [local-section:6b30f55205413d4675d8f60c — Immutable initial seeds: post52-sol-high-02-\[research revision\]](../records/0151.md#local-section-6b30f55205413d4675d8f60c-bcfc7b3c53)
 - [local-section:6b8e446ed4f36ed1bad8b9f2 — 9. Complete supremum, principal and norm return](../records/0151.md#local-section-6b8e446ed4f36ed1bad8b9f2-e3ea1e24ba)
-- [local-section:6bf2279b72a2d1f6b07d2a5a — Inputs and exact scope](../records/0151.md#local-section-6bf2279b72a2d1f6b07d2a5a-c647112ff0)

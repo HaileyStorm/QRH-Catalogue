@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 952 matching records.
+Page 3/4; 953 matching records.
 
 [Previous](topic-mobius-80a3144bcb-02.md)
 
 [Next](topic-mobius-80a3144bcb-04.md)
 
+- [local-section:9c1d735ac41f78b6a9af3941 — \[research revision\]: complete large-common-factor payment in the Liouville source](../records/0157.md#local-section-9c1d735ac41f78b6a9af3941-59cba83ba3)
 - [local-section:9c406270fe7dfcfced4300dd — Current worklog and retained authority](../records/0157.md#local-section-9c406270fe7dfcfced4300dd-413dbc3a4e)
 - [local-section:9c45fc4d8c0c3926c65ee320 — 7. Trying actual squarefree averaging in the localized Gram](../records/0157.md#local-section-9c45fc4d8c0c3926c65ee320-0104af4681)
 - [local-section:9c8f5829832a89482cdb0e3f — Six decisive tests](../records/0157.md#local-section-9c8f5829832a89482cdb0e3f-ad96d1404d)
@@ -25,8 +26,8 @@ Page 3/4; 952 matching records.
 - [local-section:9ee32fbe66662e4b976002a3 — 4. Natural-zero increments and a fixed-source strengthening](../records/0157.md#local-section-9ee32fbe66662e4b976002a3-a2eb58c1fc)
 - [local-section:9eeaae04a77866e237e74ab4 — W38: accepted developments and independent additions](../records/0157.md#local-section-9eeaae04a77866e237e74ab4-dd3b38b3ed)
 - [local-section:9f00fb05f20efe3e8ec21552 — No lost zeros in the numerator](../records/0157.md#local-section-9f00fb05f20efe3e8ec21552-5690b4c81e)
-- [local-section:9f23ecef4ce615b5200a150e — 2. Agreement with the independently derived transfer](../records/0157.md#local-section-9f23ecef4ce615b5200a150e-ac1322a046)
-- [local-section:9f2fc284426404499754ed2a — 2. Duplicate screen, selected repair and source status](../records/0157.md#local-section-9f2fc284426404499754ed2a-995e5b68a7)
+- [local-section:9f23ecef4ce615b5200a150e — 2. Agreement with the independently derived transfer](../records/0158.md#local-section-9f23ecef4ce615b5200a150e-ac1322a046)
+- [local-section:9f2fc284426404499754ed2a — 2. Duplicate screen, selected repair and source status](../records/0158.md#local-section-9f2fc284426404499754ed2a-995e5b68a7)
 - [local-section:9f5719a223fdc7605568ba69 — 6. The strongest arithmetic obstruction: an actual semiprime corner](../records/0158.md#local-section-9f5719a223fdc7605568ba69-78668830c3)
 - [local-section:a05b158e973dee5b2abe3fd5 — 4. The other sextic mechanisms: restriction, probe correlation, numerator and calibration](../records/0158.md#local-section-a05b158e973dee5b2abe3fd5-656bbc23f4)
 - [local-section:a0a5bf95c1d04e395bd99ee1 — 7. Failures, ancestry, evidence limits, and complete return](../records/0158.md#local-section-a0a5bf95c1d04e395bd99ee1-767d9ae616)
@@ -78,8 +79,8 @@ Page 3/4; 952 matching records.
 - [local-section:ad6d338772eeb74ab79c2023 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0159.md#local-section-ad6d338772eeb74ab79c2023-4fe1219028)
 - [local-section:adc9ec3f96a79f64c654b8dc — Preserved interfaces and scoped audits](../records/0159.md#local-section-adc9ec3f96a79f64c654b8dc-6d42fc3138)
 - [local-section:ae79a6f8808374567f7ae865 — 36. Paid localization of the full renewal defect](../records/0159.md#local-section-ae79a6f8808374567f7ae865-1d8def2008)
-- [local-section:af6ef0ccf97e6685a10d75b8 — 8. Fixed components and completion of the original row integral](../records/0159.md#local-section-af6ef0ccf97e6685a10d75b8-4a89cc24d2)
-- [local-section:af7a969ebbbaf4a893a0921e — 3. Development A / W49-02: the exact renewal defect and its sharp cost](../records/0159.md#local-section-af7a969ebbbaf4a893a0921e-c27dec35c7)
+- [local-section:af6ef0ccf97e6685a10d75b8 — 8. Fixed components and completion of the original row integral](../records/0160.md#local-section-af6ef0ccf97e6685a10d75b8-4a89cc24d2)
+- [local-section:af7a969ebbbaf4a893a0921e — 3. Development A / W49-02: the exact renewal defect and its sharp cost](../records/0160.md#local-section-af7a969ebbbaf4a893a0921e-c27dec35c7)
 - [local-section:af919ef34d68e7f5e325fa24 — \[research revision\]: parameter and square-row interfaces](../records/0160.md#local-section-af919ef34d68e7f5e325fa24-eac048a11e)
 - [local-section:b02f2623021a9510d6d317c5 — HC5. Twenty-four monomials and both ordered mixed terms are paid](../records/0160.md#local-section-b02f2623021a9510d6d317c5-3d4a4366e4)
 - [local-section:b0445d211d977b3ea0b298f6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0160.md#local-section-b0445d211d977b3ea0b298f6-e14a961fc5)
@@ -106,7 +107,7 @@ Page 3/4; 952 matching records.
 - [local-section:b5fdb8efc522fe4b3df8418b — G127. Energy, absolute price and point observation](../records/0160.md#local-section-b5fdb8efc522fe4b3df8418b-4ccaac160f)
 - [local-section:b67aed6e5308c540fd7faa33 — \[research revision\] independent review: complete Liouville square sources](../records/0160.md#local-section-b67aed6e5308c540fd7faa33-325abdf28d)
 - [local-section:b7027a41d4d2ae7f454a1d2b — 1. Literal statement](../records/0160.md#local-section-b7027a41d4d2ae7f454a1d2b-f903492e03)
-- [local-section:b71e49b57146a9195c087f71 — 5. Protected parked audit20: an exact observability test](../records/0160.md#local-section-b71e49b57146a9195c087f71-e69bd3f591)
+- [local-section:b71e49b57146a9195c087f71 — 5. Protected parked audit20: an exact observability test](../records/0161.md#local-section-b71e49b57146a9195c087f71-e69bd3f591)
 - [local-section:b7dac1f8a35df4b19d380d57 — \[research revision\] discovery-first sieve headroom](../records/0161.md#local-section-b7dac1f8a35df4b19d380d57-c0eed70b42)
 - [local-section:b8242e860c6fa289438340fa — W34: native support inside the actual separated source](../records/0161.md#local-section-b8242e860c6fa289438340fa-0de20bf59b)
 - [local-section:b84b592d75c1a22ce0bc7cf0 — 9. Approximation, wavelets, damping and the source resolvent](../records/0161.md#local-section-b84b592d75c1a22ce0bc7cf0-606a32634b)
@@ -159,8 +160,8 @@ Page 3/4; 952 matching records.
 - [local-section:c58336f5f0daf0157988ce26 — Group 6: high ceiling / invented connection / reverse implication and converse](../records/0162.md#local-section-c58336f5f0daf0157988ce26-75945f72da)
 - [local-section:c5dc2f5ca8e653cd5026f66c — G96. The complete shrinking-arc return and finite signed core](../records/0162.md#local-section-c5dc2f5ca8e653cd5026f66c-78d8886f8d)
 - [local-section:c6362fdc6feabff5107ee363 — 3. D2: all prime blocks, all complements](../records/0162.md#local-section-c6362fdc6feabff5107ee363-06e738c8ed)
-- [local-section:c657d653e0228f338d0e0f3d — W61 independent review: actual-source certificate costs and complete readouts](../records/0162.md#local-section-c657d653e0228f338d0e0f3d-ac6494c22d)
-- [local-section:c66006252e8a23d9df3a5518 — 2. Exact independent-error norm: exponent1](../records/0162.md#local-section-c66006252e8a23d9df3a5518-ca008ce951)
+- [local-section:c657d653e0228f338d0e0f3d — W61 independent review: actual-source certificate costs and complete readouts](../records/0163.md#local-section-c657d653e0228f338d0e0f3d-ac6494c22d)
+- [local-section:c66006252e8a23d9df3a5518 — 2. Exact independent-error norm: exponent1](../records/0163.md#local-section-c66006252e8a23d9df3a5518-ca008ce951)
 - [local-section:c6883bea517977af28e46858 — 5. Failed selected tests28/21, at their precise scopes](../records/0163.md#local-section-c6883bea517977af28e46858-9881ea7a0d)
 - [local-section:c6a63f432ef09d32b861cc33 — \[research revision\] independent review of headroom A](../records/0163.md#local-section-c6a63f432ef09d32b861cc33-a0ba9f74c8)
 - [local-section:c703cf4e635b99dc082411dc — 4. Both height variables and the remaining signed scalar](../records/0163.md#local-section-c703cf4e635b99dc082411dc-0eec0ac70e)
@@ -257,4 +258,3 @@ Page 3/4; 952 matching records.
 - [local-section:de495e5747b9dddee52d0af1 — 2. Square-root threshold: independent proof of CT1, CT2 and CT8](../records/0166.md#local-section-de495e5747b9dddee52d0af1-36c30a0be6)
 - [local-section:de64286651bd57fca937a2bf — Independent review: the compensated nonlinear source](../records/0166.md#local-section-de64286651bd57fca937a2bf-7fd9c18886)
 - [local-section:de9bcbfddb471e1a05cb9e50 — Independent W50 review: energy return, finite character traces and exact continuation states](../records/0166.md#local-section-de9bcbfddb471e1a05cb9e50-554e2617d5)
-- [local-section:dec7fcc42307270c77e57001 — D1c. Full ordinary-character return, with the complementary branch paid](../records/0166.md#local-section-dec7fcc42307270c77e57001-05f58e543d)

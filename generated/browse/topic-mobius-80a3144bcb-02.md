@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 952 matching records.
+Page 2/4; 953 matching records.
 
 [Previous](topic-mobius-80a3144bcb-01.md)
 
 [Next](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:49c544f3b1e2877b683abccc — Quantitative gates](../records/0146.md#local-section-49c544f3b1e2877b683abccc-f0f208939a)
 - [local-section:49c9fe4fa856ce9541fd1b7e — 1. Verdict and exact scope](../records/0146.md#local-section-49c9fe4fa856ce9541fd1b7e-9f8cdf827b)
 - [local-section:49e40df7a704dc32b3649b13 — Verdict and calibration](../records/0146.md#local-section-49e40df7a704dc32b3649b13-3c6ea726ba)
 - [local-section:4a0f7f9d584e0daa4f9ed197 — W40 initial seed freeze](../records/0146.md#local-section-4a0f7f9d584e0daa4f9ed197-e2f1b95898)
@@ -39,7 +40,7 @@ Page 2/4; 952 matching records.
 - [local-section:51bdf1b91709c0c318ab89c0 — 1. Outcome and ancestry](../records/0147.md#local-section-51bdf1b91709c0c318ab89c0-cd1a24e3ee)
 - [local-section:51c5acf0ef8a80f133a3bcf0 — \[research revision\] rough-depth renewal — independent mathematical review](../records/0147.md#local-section-51c5acf0ef8a80f133a3bcf0-c0689a600b)
 - [local-section:51f6e2b5b0a0cf8350f37877 — 3. W56-26: integral persistence and its complete source return](../records/0147.md#local-section-51f6e2b5b0a0cf8350f37877-a9a712c208)
-- [local-section:52f0b3d18dbbf258b4c671b6 — G181. A smaller signed residual, with the physical return still open](../records/0147.md#local-section-52f0b3d18dbbf258b4c671b6-5c54f00e76)
+- [local-section:52f0b3d18dbbf258b4c671b6 — G181. A smaller signed residual, with the physical return still open](../records/0148.md#local-section-52f0b3d18dbbf258b4c671b6-5c54f00e76)
 - [local-section:532941d7834c0d6520bc59f8 — Independent concrete-progress consultation review](../records/0148.md#local-section-532941d7834c0d6520bc59f8-3481adda79)
 - [local-section:5348e5416bd9c1fb5ed88781 — \[research revision\]: an actual-Möbius obstruction after complete product coalescence](../records/0148.md#local-section-5348e5416bd9c1fb5ed88781-b7dbccdafe)
 - [local-section:539bcc69ccb276673306d354 — 3. Independent reconstruction of the large-gcd identity](../records/0148.md#local-section-539bcc69ccb276673306d354-b3ffd2a011)
@@ -75,7 +76,7 @@ Page 2/4; 952 matching records.
 - [local-section:620c78e99c0e2195526cefe3 — D26.3 Quantitative returns and first useful next estimate](../records/0149.md#local-section-620c78e99c0e2195526cefe3-54b2e16ae0)
 - [local-section:62246689cf603bd1586d2471 — Proposed growing-order source theorem: statement and exact algebra](../records/0149.md#local-section-62246689cf603bd1586d2471-39ee2f4f3b)
 - [local-section:622587107f14659bdbd8f03d — 2. Development04: full energy bridge and exact fixed-modulus target](../records/0149.md#local-section-622587107f14659bdbd8f03d-7b0e870c4f)
-- [local-section:624f28c3cba6cf5738606e68 — 3. Protected rare27: integrated logarithmic Hankel operator](../records/0149.md#local-section-624f28c3cba6cf5738606e68-34328ba5a5)
+- [local-section:624f28c3cba6cf5738606e68 — 3. Protected rare27: integrated logarithmic Hankel operator](../records/0150.md#local-section-624f28c3cba6cf5738606e68-34328ba5a5)
 - [local-section:63276a950e67b59c981cc025 — 2. D1 / R11: an actual ordinary-character source and exact realization](../records/0150.md#local-section-63276a950e67b59c981cc025-fa6d4d83b5)
 - [local-section:634871ec7cbafed79d21b3e7 — \[research revision\]-W2. Exact Newton correction has a support/feedback dichotomy](../records/0150.md#local-section-634871ec7cbafed79d21b3e7-536a151c9b)
 - [local-section:636980e1c736c20896fa8368 — 5. A stronger consequence for the existing multiplicative countermodel](../records/0150.md#local-section-636980e1c736c20896fa8368-15ffbef2c9)
@@ -112,7 +113,7 @@ Page 2/4; 952 matching records.
 - [local-section:6eeb63758a27bd29cbaa6b58 — 40. Exact prediction criterion with paid character-source tails](../records/0151.md#local-section-6eeb63758a27bd29cbaa6b58-ea3c063631)
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:71bb65ff638afa27287e55e1 — 5. Genuine embedding in the \[research revision\] joint bank](../records/0151.md#local-section-71bb65ff638afa27287e55e1-64703711bf)
-- [local-section:7254417df981e9a486e26218 — 5. Development C / W49-06: exact prime-square deletion with a complete return](../records/0151.md#local-section-7254417df981e9a486e26218-c70d1ba5da)
+- [local-section:7254417df981e9a486e26218 — 5. Development C / W49-06: exact prime-square deletion with a complete return](../records/0152.md#local-section-7254417df981e9a486e26218-c70d1ba5da)
 - [local-section:72587f4c4c177af485a07b38 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0152.md#local-section-72587f4c4c177af485a07b38-0f713a9a40)
 - [local-section:72d432598ccad91ad6f91984 — Full-cutoff positive moment: a direct return without the baseline](../records/0152.md#local-section-72d432598ccad91ad6f91984-4899ae08a7)
 - [local-section:7315d4f108b9bbfc06ed15d9 — Natural holes at the new frequency](../records/0152.md#local-section-7315d4f108b9bbfc06ed15d9-34f9b3077d)
@@ -135,7 +136,7 @@ Page 2/4; 952 matching records.
 - [local-section:78b466827061d6a87e484cd6 — 5. The old arithmetic exponent is preserved: GC21--GC22](../records/0152.md#local-section-78b466827061d6a87e484cd6-a9d01e904c)
 - [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0152.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
 - [local-section:795d2452f80ee887cfda771f — R2. Exact block optimum and the actual-source isolation lemma](../records/0152.md#local-section-795d2452f80ee887cfda771f-bd772a61fb)
-- [local-section:7995a72c52e1866847d401df — T09a. One fixed Möbius profile](../records/0152.md#local-section-7995a72c52e1866847d401df-35f6b5c2e4)
+- [local-section:7995a72c52e1866847d401df — T09a. One fixed Möbius profile](../records/0153.md#local-section-7995a72c52e1866847d401df-35f6b5c2e4)
 - [local-section:79e849d7a09228505787d1b0 — G. Current alternative library and original stable IDs](../records/0153.md#local-section-79e849d7a09228505787d1b0-e1c8108098)
 - [local-section:7a40bf92b0ffb52eeea2387f — F25. Triple-rotation theta products](../records/0153.md#local-section-7a40bf92b0ffb52eeea2387f-54b14e8ef9)
 - [local-section:7a88316e4cce6b2a7e0707fe — \[research revision\] continuation brief](../records/0153.md#local-section-7a88316e4cce6b2a7e0707fe-632299919e)
@@ -169,7 +170,7 @@ Page 2/4; 952 matching records.
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0153.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
 - [local-section:809227fddb7bb2146424cb5a — 7. Supporting identities, failed shortcut, and novelty](../records/0153.md#local-section-809227fddb7bb2146424cb5a-a8793076f1)
-- [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0153.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
+- [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0154.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
 - [local-section:80f12332a3f04a9428525762 — 3. Exact long-cut completion, including endpoints](../records/0154.md#local-section-80f12332a3f04a9428525762-c2d66adc8a)
 - [local-section:80fa490cbff8cdc67c1e4be0 — 3.2 Pole, Hilbert-Schmidt and oscillation tests](../records/0154.md#local-section-80fa490cbff8cdc67c1e4be0-0123f5cedc)
 - [local-section:8146ba8443856dc1f6a097d3 — 5. Source identity and the complete changed-core transfer](../records/0154.md#local-section-8146ba8443856dc1f6a097d3-0e898282d6)
@@ -225,7 +226,7 @@ Page 2/4; 952 matching records.
 - [local-section:8ee90dc63b5849ec3c0ebf7e — Partial \[research revision\] source development: the complementary cofactor after row Poisson](../records/0155.md#local-section-8ee90dc63b5849ec3c0ebf7e-154fef02fe)
 - [local-section:8f090ee197d8b4a5f323b153 — \[research revision\]: a nonlinear detector with a completely paid far tail](../records/0155.md#local-section-8f090ee197d8b4a5f323b153-13c4eb32e2)
 - [local-section:8f4438f5286ab48878b34720 — Decision](../records/0155.md#local-section-8f4438f5286ab48878b34720-79f2f70383)
-- [local-section:907682cfca2f65110e14b220 — G230. Paid ambient realizations and two independent audits](../records/0155.md#local-section-907682cfca2f65110e14b220-8e48689b1d)
+- [local-section:907682cfca2f65110e14b220 — G230. Paid ambient realizations and two independent audits](../records/0156.md#local-section-907682cfca2f65110e14b220-8e48689b1d)
 - [local-section:90cdd5b10ebe74718ec55204 — B. A parity-adapted Jordan source with its complete ordinary-character return](../records/0156.md#local-section-90cdd5b10ebe74718ec55204-2ec985f210)
 - [local-section:9103a3332eff1d1a52796ff0 — G225. Actual positive cofactor-hole prices, including after integration](../records/0156.md#local-section-9103a3332eff1d1a52796ff0-4014b8b33b)
 - [local-section:91093a8bcc15b32441ed2de5 — 8. Paid sectors and literal f3 depth cancellation](../records/0156.md#local-section-91093a8bcc15b32441ed2de5-0e29980581)
@@ -257,4 +258,3 @@ Page 2/4; 952 matching records.
 - [local-section:9abcc5e7a8091a3bca65980b — 1. Frozen selection, provenance and scope](../records/0157.md#local-section-9abcc5e7a8091a3bca65980b-524b3c3ec5)
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)
 - [local-section:9b6ca73bc5a2f7fd0f67ac99 — \[research revision\]: complete operator returns and an actual detector repair](../records/0157.md#local-section-9b6ca73bc5a2f7fd0f67ac99-70a9dc44c5)
-- [local-section:9c1d735ac41f78b6a9af3941 — \[research revision\]: complete large-common-factor payment in the Liouville source](../records/0157.md#local-section-9c1d735ac41f78b6a9af3941-59cba83ba3)

@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 4/5; 1067 matching records.
+Page 4/5; 1068 matching records.
 
 [Previous](method-mellin-093bcdf279-03.md)
 
 [Next](method-mellin-093bcdf279-05.md)
 
+- [local-section:bc53bb72be11b5666bd85d3a — W48 — higher-order return from the same complete window energy](../records/0161.md#local-section-bc53bb72be11b5666bd85d3a-19fa5b81f5)
 - [local-section:bc5e22f7a7f79ca6dc56ec43 — G126. Exact whole-shell bank with two branches paid](../records/0161.md#local-section-bc5e22f7a7f79ca6dc56ec43-87099fc9e3)
 - [local-section:bc6251fa498017e1a353da2a — 2. Literal arithmetic source and the correct zero-exclusion return](../records/0161.md#local-section-bc6251fa498017e1a353da2a-0bfe47c0c5)
 - [local-section:bc92a5590245b2bd10427fc0 — Cofactor residuals, their exact depth threshold and complete observation costs](../records/0161.md#local-section-bc92a5590245b2bd10427fc0-472f959e06)
@@ -84,7 +85,7 @@ Page 4/5; 1067 matching records.
 - [local-section:d50557497e9fec31cd47de8c — W53 independent review: pressure, prime blocks and the two frozen audits](../records/0164.md#local-section-d50557497e9fec31cd47de8c-17a97977ad)
 - [local-section:d521054623e00d90249d1e34 — \[research revision\]: failed implications, corrected scopes, and surviving exits](../records/0164.md#local-section-d521054623e00d90249d1e34-6613809ee5)
 - [local-section:d52141a608f7d70bdabf666d — Third smaller post-\[research revision\] Sol High batch: signed boundary inverses](../records/0164.md#local-section-d52141a608f7d70bdabf666d-d6b580688e)
-- [local-section:d59cba5678cf0426ea49122e — 2. The fixed angular sums and the moving deletion](../records/0164.md#local-section-d59cba5678cf0426ea49122e-45750aa151)
+- [local-section:d59cba5678cf0426ea49122e — 2. The fixed angular sums and the moving deletion](../records/0165.md#local-section-d59cba5678cf0426ea49122e-45750aa151)
 - [local-section:d61a0127b91551e6cc77cd1f — 3. Complete endpoint contract and target arithmetic](../records/0165.md#local-section-d61a0127b91551e6cc77cd1f-08110bb5a9)
 - [local-section:d62969a7c5038c49a20cd09d — 3. G118: finite-prefix and all-layer audits](../records/0165.md#local-section-d62969a7c5038c49a20cd09d-30b2ed5a2e)
 - [local-section:d6539371354cbeca0c33c830 — R1. Exact sources and evidence boundary](../records/0165.md#local-section-d6539371354cbeca0c33c830-442d86bd8b)
@@ -161,7 +162,7 @@ Page 4/5; 1067 matching records.
 - [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0167.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
 - [local-section:ec175b33866a625b1de61808 — Evidence, ancestry and the next arithmetic estimate](../records/0167.md#local-section-ec175b33866a625b1de61808-5e61e2bda2)
 - [local-section:ec22afe4ca91bc1cfef0e63d — Complete energy and the remaining arithmetic problem](../records/0167.md#local-section-ec22afe4ca91bc1cfef0e63d-f76a3dfc0c)
-- [local-section:ecd4bdc997b5ef77f2881d4a — 4. A polynomial dual truncation, including its error](../records/0167.md#local-section-ecd4bdc997b5ef77f2881d4a-1a169ef838)
+- [local-section:ecd4bdc997b5ef77f2881d4a — 4. A polynomial dual truncation, including its error](../records/0168.md#local-section-ecd4bdc997b5ef77f2881d4a-1a169ef838)
 - [local-section:ee1d1a5c85144d53e96b394e — 7. A changed source with a weaker observation geometry](../records/0168.md#local-section-ee1d1a5c85144d53e96b394e-9d7eda5765)
 - [local-section:ee3239e3ac4fe748c313d339 — Independent \[research revision\] review: larger Gao amplifier and endpoint return](../records/0168.md#local-section-ee3239e3ac4fe748c313d339-67e6cb4dd5)
 - [local-section:ee76eaf557662c0aa55b8bb7 — Accepted literal f3 threshold laws](../records/0168.md#local-section-ee76eaf557662c0aa55b8bb7-ab112b38d0)
@@ -206,7 +207,7 @@ Page 4/5; 1067 matching records.
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0169.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
 - [local-section:fc9409d58222d0fd6c96c0e0 — 4. Protected audit S25: decimation with all induced interactions](../records/0169.md#local-section-fc9409d58222d0fd6c96c0e0-df28e4e747)
-- [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0169.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
+- [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0170.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
 - [local-section:fd64d576a594915e12693898 — 8. All-height zero exclusion and broader fixed-parameter scope](../records/0170.md#local-section-fd64d576a594915e12693898-bf56c780e5)
 - [local-section:fdf8ec3b2dfd322739d4eaaa — 58. Complete large-common-factor payment in the ordinary source](../records/0170.md#local-section-fdf8ec3b2dfd322739d4eaaa-e0339e856c)
 - [local-section:fe7dcd8d549482b37b08f296 — 1. Initial discovery comparison (before full-index intake)](../records/0170.md#local-section-fe7dcd8d549482b37b08f296-0754f1fda6)
@@ -228,8 +229,8 @@ Page 4/5; 1067 matching records.
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0171.md#local-g114-fec7178ffd)
 - [local:G115 — 3. G115: complete cutoffs agree at the actual zero](../records/0171.md#local-g115-d13affe636)
 - [local:G118 — 3. G118: finite-prefix and all-layer audits](../records/0171.md#local-g118-50557224bc)
-- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0171.md#local-g125-91d6b6ad62)
-- [local:G126 — G126. Exact whole-shell bank with two branches paid](../records/0171.md#local-g126-b3c601af4a)
+- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0172.md#local-g125-91d6b6ad62)
+- [local:G126 — G126. Exact whole-shell bank with two branches paid](../records/0172.md#local-g126-b3c601af4a)
 - [local:G134 — G134. Uniform second-order moving Riesz comparison](../records/0172.md#local-g134-5bbbd177cd)
 - [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0172.md#local-g137-8fee24c3bf)
 - [local:G138 — G138. Full integral persistence and fixed versus moving readouts](../records/0172.md#local-g138-eaca2cb913)
@@ -257,4 +258,3 @@ Page 4/5; 1067 matching records.
 - [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0173.md#local-g237-a65c76e5f8)
 - [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0173.md#local-g242-d89bd23acd)
 - [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0173.md#local-g244-a12ada8918)
-- [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0173.md#local-g245-5bef916afc)

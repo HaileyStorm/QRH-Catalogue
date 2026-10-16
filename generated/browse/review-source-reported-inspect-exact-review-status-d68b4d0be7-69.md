@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 69/71; 17513 matching records.
+Page 69/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:Global.Transport.PrincipalRemainderTransport::continued_z_shift@332 — continued_z_shift](../records/0213.md#pr26-global-transport-principalremaindertransport-continued-z-shi-58b507337b)
+- [pr26:Global.Transport.PrincipalRemainderTransport::gaussianMoment_even@169 — gaussianMoment_even](../records/0213.md#pr26-global-transport-principalremaindertransport-gaussianmoment--3283d52b3e)
 - [pr26:Global.Transport.PrincipalRemainderTransport::gaussianMoment_tendsto@158 — gaussianMoment_tendsto](../records/0213.md#pr26-global-transport-principalremaindertransport-gaussianmoment--4994fcd33d)
 - [pr26:Global.Transport.PrincipalRemainderTransport::principal_box_majorant@216 — principal_box_majorant](../records/0213.md#pr26-global-transport-principalremaindertransport-principal-box-m-d24ac80efb)
 - [pr26:Global.Transport.PrincipalRemainderTransport::shifted_gaussian_bottom@180 — shifted_gaussian_bottom](../records/0213.md#pr26-global-transport-principalremaindertransport-shifted-gaussia-88d0c2d155)
@@ -87,8 +89,8 @@ Page 69/71; 17513 matching records.
 - [pr26:Global.Weighted.CellGeometry::weighted_source_cell_geometry@105 — weighted_source_cell_geometry](../records/0213.md#pr26-global-weighted-cellgeometry-weighted-source-cell-geometry-1-857d84ca0f)
 - [pr26:Global.Weighted.CellGeometry::weighted_source_height_le@55 — weighted_source_height_le](../records/0213.md#pr26-global-weighted-cellgeometry-weighted-source-height-le-55-d8e68db9d9)
 - [pr26:Global.Weighted.CellGeometry::weighted_source_pools_nonempty@23 — weighted_source_pools_nonempty](../records/0213.md#pr26-global-weighted-cellgeometry-weighted-source-pools-nonempty--ebb1aface7)
-- [pr26:Global.Weighted.FullWCellInput — Global.Weighted.FullWCellInput](../records/0213.md#pr26-global-weighted-fullwcellinput-d66a0e175a)
-- [pr26:Global.Weighted.FullWCellInput::FullWCellsAt@722 — FullWCellsAt](../records/0213.md#pr26-global-weighted-fullwcellinput-fullwcellsat-722-23863532da)
+- [pr26:Global.Weighted.FullWCellInput — Global.Weighted.FullWCellInput](../records/0214.md#pr26-global-weighted-fullwcellinput-d66a0e175a)
+- [pr26:Global.Weighted.FullWCellInput::FullWCellsAt@722 — FullWCellsAt](../records/0214.md#pr26-global-weighted-fullwcellinput-fullwcellsat-722-23863532da)
 - [pr26:Global.Weighted.Input — Global.Weighted.Input](../records/0214.md#pr26-global-weighted-input-285ce29193)
 - [pr26:Global.Weighted.Input::FullWAnalyticInput@326 — FullWAnalyticInput](../records/0214.md#pr26-global-weighted-input-fullwanalyticinput-326-6efec1fcd8)
 - [pr26:Global.Weighted.Input::IntegratedFullWAnalyticInput@342 — IntegratedFullWAnalyticInput](../records/0214.md#pr26-global-weighted-input-integratedfullwanalyticinput-342-64b36804ea)
@@ -187,8 +189,8 @@ Page 69/71; 17513 matching records.
 - [pr26:LocalMoment.UnmarkedBatch — LocalMoment.UnmarkedBatch](../records/0214.md#pr26-localmoment-unmarkedbatch-de06e24cad)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.card_bound@948 — UnmarkedBatch.card_bound](../records/0214.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-card-bound-948-501cf69a50)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.card_eq_sum_fibers@939 — UnmarkedBatch.card_eq_sum_fibers](../records/0214.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-card-eq-sum-fibers-9-def0b30c8a)
-- [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.fiber@921 — UnmarkedBatch.fiber](../records/0214.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-fiber-921-38f8294b58)
-- [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.fiberRows@916 — UnmarkedBatch.fiberRows](../records/0214.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-fiberrows-916-851f2e1f33)
+- [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.fiber@921 — UnmarkedBatch.fiber](../records/0215.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-fiber-921-38f8294b58)
+- [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.fiberRows@916 — UnmarkedBatch.fiberRows](../records/0215.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-fiberrows-916-851f2e1f33)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch.ofSupportedRows@895 — UnmarkedBatch.ofSupportedRows](../records/0215.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-ofsupportedrows-895-0576ba55f9)
 - [pr26:LocalMoment.UnmarkedBatch::UnmarkedBatch@872 — UnmarkedBatch](../records/0215.md#pr26-localmoment-unmarkedbatch-unmarkedbatch-872-35bd92feae)
 - [pr26:LocalMoment.UnmarkedBatch::batch_count_from_unmarked_raw_moments@979 — batch_count_from_unmarked_raw_moments](../records/0215.md#pr26-localmoment-unmarkedbatch-batch-count-from-unmarked-raw-mome-826e84f712)
@@ -256,5 +258,3 @@ Page 69/71; 17513 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount::adaptive_source_count_from_raw_moments@772 — adaptive_source_count_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-505b52f87a)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount::balanced_source_count_from_raw_moments@692 — balanced_source_count_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-a56013b465)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount::high_source_count_from_raw_moments@734 — high_source_count_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-2f90213fb8)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::detector_certified_bands@777 — detector_certified_bands](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-3f9ace9912)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 35/43; 10567 matching records.
+Page 35/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-34.md)
 
 [Next](status-unknown-b23a6a8439-36.md)
 
+- [local-section:a1c9a686c3fca22543ac4dea — 5. Finite signed core with every complement paid](../records/0158.md#local-section-a1c9a686c3fca22543ac4dea-06a6773701)
 - [local-section:a1f98ec31891ba14a51a14cd — Exact geometry and physical source](../records/0158.md#local-section-a1f98ec31891ba14a51a14cd-8a950bc3d8)
 - [local-section:a1fa6c963a5ba4ba07104bd3 — 4. Complete Gaussian, smooth, and prime-power tails](../records/0158.md#local-section-a1fa6c963a5ba4ba07104bd3-d0aea631fc)
 - [local-section:a1fb00706aedb9eca5671e8b — D04. Moving rough f3 detector with a paid cofactor head](../records/0158.md#local-section-a1fb00706aedb9eca5671e8b-8634ebad70)
@@ -71,8 +72,8 @@ Page 35/43; 10567 matching records.
 - [local-section:a6dabf3409ad9596d463bacd — Current checkpoint](../records/0158.md#local-section-a6dabf3409ad9596d463bacd-a9ba44e7a1)
 - [local-section:a6daee9967481dea57db3f77 — Mathematical proof handoff for external formalization](../records/0158.md#local-section-a6daee9967481dea57db3f77-34a3ffee79)
 - [local-section:a7702a9808de9df6474be248 — Development23: source coefficients, exact dual and the surviving signed target](../records/0158.md#local-section-a7702a9808de9df6474be248-d9fc340be6)
-- [local-section:a7877d2a4ab6f665777d85ba — 9. Endpoint interface: mesh before target, uniformity in live scales](../records/0158.md#local-section-a7877d2a4ab6f665777d85ba-d6c3c84e5f)
-- [local-section:a7921108e22a047b3821b5fa — 1. Frozen input and independent selection chronology](../records/0158.md#local-section-a7921108e22a047b3821b5fa-9779ac6362)
+- [local-section:a7877d2a4ab6f665777d85ba — 9. Endpoint interface: mesh before target, uniformity in live scales](../records/0159.md#local-section-a7877d2a4ab6f665777d85ba-d6c3c84e5f)
+- [local-section:a7921108e22a047b3821b5fa — 1. Frozen input and independent selection chronology](../records/0159.md#local-section-a7921108e22a047b3821b5fa-9779ac6362)
 - [local-section:a7c108045a1df993daee3b22 — 3. W47-15: uniform growing depth, complete Gaussian restoration](../records/0159.md#local-section-a7c108045a1df993daee3b22-326d6f57e8)
 - [local-section:a7cd132ac90232262468f578 — 2. Development04: unsmoothed energy and a full character return](../records/0159.md#local-section-a7cd132ac90232262468f578-bbce6ee60f)
 - [local-section:a7d39f62bded3e3b2b21b314 — W45: signed geometric means and an exact prime-state codec](../records/0159.md#local-section-a7d39f62bded3e3b2b21b314-c5e545525c)
@@ -164,8 +165,8 @@ Page 35/43; 10567 matching records.
 - [local-section:aeaef0132915daa8b71a3221 — Fixed-cutoff restoration before applying UM](../records/0159.md#local-section-aeaef0132915daa8b71a3221-ec4da9bc51)
 - [local-section:aed8c7a00ca7646a55bd5f85 — 4.1 Exact bin geometry and permissible source tails](../records/0159.md#local-section-aed8c7a00ca7646a55bd5f85-da1a0b407e)
 - [local-section:af2fc179c058d68cd15e7210 — 5. Endpoint interface that cannot be shortened away](../records/0159.md#local-section-af2fc179c058d68cd15e7210-a22038577b)
-- [local-section:af6ef0ccf97e6685a10d75b8 — 8. Fixed components and completion of the original row integral](../records/0159.md#local-section-af6ef0ccf97e6685a10d75b8-4a89cc24d2)
-- [local-section:af7a969ebbbaf4a893a0921e — 3. Development A / W49-02: the exact renewal defect and its sharp cost](../records/0159.md#local-section-af7a969ebbbaf4a893a0921e-c27dec35c7)
+- [local-section:af6ef0ccf97e6685a10d75b8 — 8. Fixed components and completion of the original row integral](../records/0160.md#local-section-af6ef0ccf97e6685a10d75b8-4a89cc24d2)
+- [local-section:af7a969ebbbaf4a893a0921e — 3. Development A / W49-02: the exact renewal defect and its sharp cost](../records/0160.md#local-section-af7a969ebbbaf4a893a0921e-c27dec35c7)
 - [local-section:af832255ac9b7f48e61e3832 — 2. Evidence and precise source contract](../records/0160.md#local-section-af832255ac9b7f48e61e3832-8dde950a55)
 - [local-section:af890c3f7bca64891da191b8 — 5. Complete local comparison, including the existing reflection bound](../records/0160.md#local-section-af890c3f7bca64891da191b8-e82c374c47)
 - [local-section:af919ef34d68e7f5e325fa24 — \[research revision\]: parameter and square-row interfaces](../records/0160.md#local-section-af919ef34d68e7f5e325fa24-eac048a11e)
@@ -254,7 +255,6 @@ Page 35/43; 10567 matching records.
 - [local-section:b7076afcddd00af62bade064 — G135. Exact rank and renewal targets, with their costs retained](../records/0160.md#local-section-b7076afcddd00af62bade064-f72d3479b4)
 - [local-section:b708b1805e474053f086d728 — 4. Weighted witnesses: every inverse length and every height](../records/0160.md#local-section-b708b1805e474053f086d728-8902fbee88)
 - [local-section:b713e60fc5d8acfd10731c61 — A08. An arithmetic source operator and the exact approximation cost](../records/0160.md#local-section-b713e60fc5d8acfd10731c61-a28eee4997)
-- [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0160.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
-- [local-section:b71e49b57146a9195c087f71 — 5. Protected parked audit20: an exact observability test](../records/0160.md#local-section-b71e49b57146a9195c087f71-e69bd3f591)
+- [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0161.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
+- [local-section:b71e49b57146a9195c087f71 — 5. Protected parked audit20: an exact observability test](../records/0161.md#local-section-b71e49b57146a9195c087f71-e69bd3f591)
 - [local-section:b762cc8a145befbaaa83b0d9 — 1.5 The decisive signed Taylor remainder](../records/0161.md#local-section-b762cc8a145befbaaa83b0d9-990f4e83c4)
-- [local-section:b775ef32464908daf0f9b4c6 — 4. Independent full-lattice projection calculation](../records/0161.md#local-section-b775ef32464908daf0f9b4c6-3c581b9cfb)

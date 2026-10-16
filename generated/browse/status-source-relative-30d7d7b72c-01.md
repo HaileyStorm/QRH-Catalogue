@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 842 matching records.
+Page 1/4; 843 matching records.
 
 [Next](status-source-relative-30d7d7b72c-02.md)
 
@@ -184,6 +184,7 @@ Page 1/4; 842 matching records.
 - [QRH-CONT-M016-CENTERED-RENEWAL — Exact centered Selberg renewal and two-moment norm divergence](../records/0131.md#qrh-cont-m016-centered-renewal-bb4db03fd5)
 - [QRH-CONT-M016-FACTORIZATION — All-order factorization and its coefficientwise majorant pole](../records/0131.md#qrh-cont-m016-factorization-cffcd9b9d3)
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
+- [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0137.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:01b1b466a00885bebb7922e2 — 5.1 The entire coarse estimate fails by a specific power](../records/0137.md#local-section-01b1b466a00885bebb7922e2-60b33f7786)
@@ -227,7 +228,7 @@ Page 1/4; 842 matching records.
 - [local-section:1b20144f9569a63a8471358a — \[research revision\] direct joint-window lane: current worklog](../records/0140.md#local-section-1b20144f9569a63a8471358a-a2df10011d)
 - [local-section:1b40398ea284bd7c961c19f7 — G142. Actual logarithmic improvement and the remaining complete core](../records/0140.md#local-section-1b40398ea284bd7c961c19f7-4f1dc27037)
 - [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0140.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
-- [local-section:1c0afe168ddc858a6450b8da — W60: prime-factor turnover is the missing cost in local coding](../records/0140.md#local-section-1c0afe168ddc858a6450b8da-f92f7b59e9)
+- [local-section:1c0afe168ddc858a6450b8da — W60: prime-factor turnover is the missing cost in local coding](../records/0141.md#local-section-1c0afe168ddc858a6450b8da-f92f7b59e9)
 - [local-section:1cb91defb5a68e6d50e6289c — Verdict and exact acceptance limits](../records/0141.md#local-section-1cb91defb5a68e6d50e6289c-550a8c2075)
 - [local-section:1ceae10f077710f5c0513654 — 8. Value, unresolved work, and final mathematical status](../records/0141.md#local-section-1ceae10f077710f5c0513654-fd7d4b7a1e)
 - [local-section:1cfd335cb0fa6708c15b4db1 — Signed readouts, paid prime cutoffs and actual positive Gram prices](../records/0141.md#local-section-1cfd335cb0fa6708c15b4db1-e0609bdb72)
@@ -255,4 +256,3 @@ Page 1/4; 842 matching records.
 - [local-section:28a943828ac121b8f11bfc04 — \[research revision\]: countable bank obstruction and endpoint return](../records/0142.md#local-section-28a943828ac121b8f11bfc04-a5728f1eb2)
 - [local-section:29025f14ca8313e9bf417ae5 — 3.3 Exact arithmetic target and coarse headroom](../records/0142.md#local-section-29025f14ca8313e9bf417ae5-61074f060c)
 - [local-section:2a61031dd44d11c2234f5ab9 — \[research revision\]: exact cofactor residual and a sharp completion threshold](../records/0142.md#local-section-2a61031dd44d11c2234f5ab9-8231d44b9b)
-- [local-section:2a7407c81610c5a862a32521 — \[research revision\] independent review: separated inverse products](../records/0142.md#local-section-2a7407c81610c5a862a32521-855720ac86)

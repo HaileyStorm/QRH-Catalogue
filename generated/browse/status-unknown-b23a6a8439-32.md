@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 32/43; 10567 matching records.
+Page 32/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-31.md)
 
 [Next](status-unknown-b23a6a8439-33.md)
 
+- [local-section:5ec00f99243b5e38f28e26e3 — Outcome and compact checkpoint](../records/0149.md#local-section-5ec00f99243b5e38f28e26e3-3b02402aa0)
 - [local-section:5ed1d6844e84811ac5bc9e25 — 3.1 Coefficients, conjugation and eligibility](../records/0149.md#local-section-5ed1d6844e84811ac5bc9e25-0cdb09a76b)
 - [local-section:5eeb12ce8055c72877647e29 — 5. Independent protected audit G4-05: exact signed supply, no free coercivity](../records/0149.md#local-section-5eeb12ce8055c72877647e29-b54e4f281d)
 - [local-section:5efb120595e13df052683ef6 — \[research revision\] independent review: affine local window and complete c5 endpoint](../records/0149.md#local-section-5efb120595e13df052683ef6-585d761133)
@@ -58,7 +59,7 @@ Page 32/43; 10567 matching records.
 - [local-section:6231061ae9f0edf53399977b — 4. A complete signed target and its return](../records/0149.md#local-section-6231061ae9f0edf53399977b-8db7eb4c87)
 - [local-section:6232970cab11faa1dab706df — 4. Developed W60-23: all divisibility matchings have a prime cut](../records/0149.md#local-section-6232970cab11faa1dab706df-8666a19874)
 - [local-section:6236c07a0c10e443b3b310dc — History contacts and what is actually different](../records/0149.md#local-section-6236c07a0c10e443b3b310dc-5625eb3ca9)
-- [local-section:625f3405844068172da269b1 — Frozen selection intent](../records/0149.md#local-section-625f3405844068172da269b1-06b9eb29d2)
+- [local-section:625f3405844068172da269b1 — Frozen selection intent](../records/0150.md#local-section-625f3405844068172da269b1-06b9eb29d2)
 - [local-section:6290b5dd1062ecb4ee92434c — 4. Development16: the exact cubical source retains harmonic parity](../records/0150.md#local-section-6290b5dd1062ecb4ee92434c-6ae7999350)
 - [local-section:6296e0b3dc6f6d83e6f56b8a — Literal source and the new weight](../records/0150.md#local-section-6296e0b3dc6f6d83e6f56b8a-e2e61c7d05)
 - [local-section:62a9aa37fec31cfb34516b14 — 4. Full square-prefix estimate, including every alias](../records/0150.md#local-section-62a9aa37fec31cfb34516b14-db9408ca4e)
@@ -146,8 +147,8 @@ Page 32/43; 10567 matching records.
 - [local-section:69942a8b3f45721ee7909ae3 — E. Complete disposition of the thirty original seeds](../records/0150.md#local-section-69942a8b3f45721ee7909ae3-9ef2dbabda)
 - [local-section:69b90293a632c59dfc676575 — 7. Independent extension: fixed bounded-variation profiles](../records/0150.md#local-section-69b90293a632c59dfc676575-c93b9149ba)
 - [local-section:69bda3b4d99195a8bc8e3e00 — 4. Why this changes the live source contract](../records/0150.md#local-section-69bda3b4d99195a8bc8e3e00-cf929e67b4)
-- [local-section:69cc7a223e5c7bea364eb7f5 — 3. A concrete simultaneous two-filter detector](../records/0150.md#local-section-69cc7a223e5c7bea364eb7f5-6cbda46d9b)
-- [local-section:69e30a97c20f8d3d3f94aca4 — 8. Paid portions of the small-gcd norm](../records/0150.md#local-section-69e30a97c20f8d3d3f94aca4-75676ae71d)
+- [local-section:69cc7a223e5c7bea364eb7f5 — 3. A concrete simultaneous two-filter detector](../records/0151.md#local-section-69cc7a223e5c7bea364eb7f5-6cbda46d9b)
+- [local-section:69e30a97c20f8d3d3f94aca4 — 8. Paid portions of the small-gcd norm](../records/0151.md#local-section-69e30a97c20f8d3d3f94aca4-75676ae71d)
 - [local-section:6a137f7229683397996809ae — G104. Actual finite character traces and their exact limitation](../records/0151.md#local-section-6a137f7229683397996809ae-a64d3942a1)
 - [local-section:6a39fcc9c16200bb27ae1169 — Literal author sampling and evidence limit](../records/0151.md#local-section-6a39fcc9c16200bb27ae1169-fcb4be02c9)
 - [local-section:6a4af2ba62429a9968ac7888 — 71. Genuine cofactor signals and their complete price](../records/0151.md#local-section-6a4af2ba62429a9968ac7888-4c226f7c62)
@@ -228,8 +229,8 @@ Page 32/43; 10567 matching records.
 - [local-section:723120f2e82b726676c97a46 — Exact coefficient and valuation audit](../records/0151.md#local-section-723120f2e82b726676c97a46-a098512192)
 - [local-section:7236d7e8a8b3f9bcb6f9f5e4 — 5. W60-28 and W60-26: what the native H packet actually permits](../records/0151.md#local-section-7236d7e8a8b3f9bcb6f9f5e4-0f013da64e)
 - [local-section:7246c0c4564380f057b84e5f — 9. All thirty original dispositions and novelty limits](../records/0151.md#local-section-7246c0c4564380f057b84e5f-b36ee1cd42)
-- [local-section:724707a1bbd5a67003d966ab — 3. Conductor, index, physical row length, and mean exponent are different quantities](../records/0151.md#local-section-724707a1bbd5a67003d966ab-a71e87903e)
-- [local-section:7254417df981e9a486e26218 — 5. Development C / W49-06: exact prime-square deletion with a complete return](../records/0151.md#local-section-7254417df981e9a486e26218-c70d1ba5da)
+- [local-section:724707a1bbd5a67003d966ab — 3. Conductor, index, physical row length, and mean exponent are different quantities](../records/0152.md#local-section-724707a1bbd5a67003d966ab-a71e87903e)
+- [local-section:7254417df981e9a486e26218 — 5. Development C / W49-06: exact prime-square deletion with a complete return](../records/0152.md#local-section-7254417df981e9a486e26218-c70d1ba5da)
 - [local-section:7254892984d735372a595b83 — \[research revision\]: the quartic identity cell, phase boundary, and missing relative map](../records/0152.md#local-section-7254892984d735372a595b83-20e3b8542a)
 - [local-section:72636612036f9ab5b2da8bb4 — Full zero return and scope](../records/0152.md#local-section-72636612036f9ab5b2da8bb4-d72ec768dc)
 - [local-section:72678a99cb83fea0f4cadc8c — 7. A complete signed norm that replaces the witness prerequisite](../records/0152.md#local-section-72678a99cb83fea0f4cadc8c-c15cf62894)
@@ -257,4 +258,3 @@ Page 32/43; 10567 matching records.
 - [local-section:7469730f324e4bfb743fa6f2 — 1. Frozen source and acceptance boundaries](../records/0152.md#local-section-7469730f324e4bfb743fa6f2-7476aea0bb)
 - [local-section:7469789b12eadd4e1c3d0ccc — 3. An all-character repair with its literal coefficients](../records/0152.md#local-section-7469789b12eadd4e1c3d0ccc-dfe2480bb5)
 - [local-section:746f17a1d7ba6a623c0a6bc1 — What the density calculation really proves](../records/0152.md#local-section-746f17a1d7ba6a623c0a6bc1-70a6d00ccd)
-- [local-section:7477decd6ccd3886218a1dea — Blind sequence and sampling](../records/0152.md#local-section-7477decd6ccd3886218a1dea-a928e6ee83)

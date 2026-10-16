@@ -4,8 +4,8 @@
 
 Page 1/1; 44 matching records.
 
-- [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0217.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
-- [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0217.md#reviewed-claim-a01-embedded-extension-9eec840d93)
+- [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0218.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
+- [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0218.md#reviewed-claim-a01-embedded-extension-9eec840d93)
 - [reviewed-claim:A02-anisotropic-AFE-budget — \[research revision\]-claim:A02-anisotropic-AFE-budget](../records/0218.md#reviewed-claim-a02-anisotropic-afe-budget-a8cad57bbf)
 - [reviewed-claim:A02-rectangular-frontier — \[research revision\]-claim:A02-rectangular-frontier](../records/0218.md#reviewed-claim-a02-rectangular-frontier-e29f8341ff)
 - [reviewed-claim:A02-reduced-index — \[research revision\]-claim:A02-reduced-index](../records/0218.md#reviewed-claim-a02-reduced-index-de8dae2b57)

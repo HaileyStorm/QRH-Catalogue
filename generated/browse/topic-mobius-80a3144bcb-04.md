@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 952 matching records.
+Page 4/4; 953 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:dec7fcc42307270c77e57001 — D1c. Full ordinary-character return, with the complementary branch paid](../records/0166.md#local-section-dec7fcc42307270c77e57001-05f58e543d)
 - [local-section:def42bfb4242e6376e1e5f10 — 7. Independent improvement: a complete tail norm without log loss](../records/0166.md#local-section-def42bfb4242e6376e1e5f10-c79f5eb6ab)
 - [local-section:df162c7f5cc7b5de23263083 — 6. The balanced kernel retains the zero it would need to exclude](../records/0166.md#local-section-df162c7f5cc7b5de23263083-d89a89534a)
 - [local-section:dfeee61da7ce1a2b4a9c2687 — 10. Evidence, failures retained and credit](../records/0166.md#local-section-dfeee61da7ce1a2b4a9c2687-a54da3cd13)
@@ -100,7 +101,7 @@ Page 4/4; 952 matching records.
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0169.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fc9409d58222d0fd6c96c0e0 — 4. Protected audit S25: decimation with all induced interactions](../records/0169.md#local-section-fc9409d58222d0fd6c96c0e0-df28e4e747)
-- [local-section:fcda35be4a3d92747f637c12 — W36: a paid aggregate-overlap sector and scoped failures](../records/0169.md#local-section-fcda35be4a3d92747f637c12-b72ad11113)
+- [local-section:fcda35be4a3d92747f637c12 — W36: a paid aggregate-overlap sector and scoped failures](../records/0170.md#local-section-fcda35be4a3d92747f637c12-b72ad11113)
 - [local-section:fcf26516ad547088eb751edd — Positive cofactor-hole absolute Gram: independent corollary check](../records/0170.md#local-section-fcf26516ad547088eb751edd-a5a177cdb6)
 - [local-section:fd9993a3640f63a00fe4f98a — 7. A fixed coefficient counterexample strengthens the diagnosis](../records/0170.md#local-section-fd9993a3640f63a00fe4f98a-a8149863ac)
 - [local-section:fe34e1adaebc4960b3c7efc5 — W57-14: a flat residue cover does not create a twisted Mobius index](../records/0170.md#local-section-fe34e1adaebc4960b3c7efc5-cd1ad7fcd3)
@@ -134,7 +135,7 @@ Page 4/4; 952 matching records.
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0171.md#local-g113-6c10bbc310)
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0171.md#local-g114-fec7178ffd)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0171.md#local-g116-82b0aa6b3e)
-- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0171.md#local-g125-91d6b6ad62)
+- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0172.md#local-g125-91d6b6ad62)
 - [local:G127 — G127. Energy, absolute price and point observation](../records/0172.md#local-g127-6723c2d7bd)
 - [local:G129 — G129. Actual divisor Bellman identity and a scoped price](../records/0172.md#local-g129-eebc3d9b57)
 - [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0172.md#local-g137-8fee24c3bf)
@@ -162,7 +163,7 @@ Page 4/4; 952 matching records.
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0172.md#local-g217-1ea6acd977)
 - [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0172.md#local-g222-849aadba5c)
-- [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0172.md#local-g225-8fc7b83906)
+- [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0173.md#local-g225-8fc7b83906)
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0173.md#local-g227-4fd8db96d9)
 - [local:G228 — G228. The sharp depth of a low-omega-completed inverse column](../records/0173.md#local-g228-b8e6c60a37)
 - [local:G230 — G230. Paid ambient realizations and two independent audits](../records/0173.md#local-g230-30aad82136)

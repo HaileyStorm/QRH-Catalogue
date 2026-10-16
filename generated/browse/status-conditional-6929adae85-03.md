@@ -2,13 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 661 matching records.
+Page 3/3; 662 matching records.
 
 [Previous](status-conditional-6929adae85-02.md)
 
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0168.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
 - [local-section:f4d276fee597c0e3b9c4816c — \[research revision\]: weighted boundary spectrum and complete source transfers](../records/0168.md#local-section-f4d276fee597c0e3b9c4816c-522ce1782e)
-- [local-section:f52bd39bd06ba37e76aee32d — G214. Counted sectors and the full physical obstruction](../records/0168.md#local-section-f52bd39bd06ba37e76aee32d-ef6df84730)
+- [local-section:f52bd39bd06ba37e76aee32d — G214. Counted sectors and the full physical obstruction](../records/0169.md#local-section-f52bd39bd06ba37e76aee32d-ef6df84730)
 - [local-section:f5360e1646b9d274b3f333af — \[research revision\]: a conductor saving and the complete shared-zero detector](../records/0169.md#local-section-f5360e1646b9d274b3f333af-03e529bee5)
 - [local-section:f5ad2e47ad8526ebc8116dae — Complete stationary cofactor payment and constant inverse cuts](../records/0169.md#local-section-f5ad2e47ad8526ebc8116dae-ecebaca4de)
 - [local-section:f5fabe11f9050cc940f10487 — \[research revision\]: moving finite detectors with a paid fixed-detector return](../records/0169.md#local-section-f5fabe11f9050cc940f10487-9e3a65d795)
@@ -43,7 +44,7 @@ Page 3/3; 661 matching records.
 - [local:G120 — G120. Complete phase blocks and thermal readout prices](../records/0171.md#local-g120-fbe02bb45f)
 - [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0171.md#local-g122-fe374f44f7)
 - [local:G124 — G124. Current margins and precise remaining signed input](../records/0171.md#local-g124-05c454b9ec)
-- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0171.md#local-g125-91d6b6ad62)
+- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0172.md#local-g125-91d6b6ad62)
 - [local:G133 — G133. Two restricted returns with rational interval certificates](../records/0172.md#local-g133-8752df7331)
 - [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0172.md#local-g137-8fee24c3bf)
 - [local:G140 — \[research revision\]: a nonlinear detector with a completely paid far tail (G140)](../records/0172.md#local-g140-88c35bf505)

@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 62/71; 17513 matching records.
+Page 62/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-61.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-63.md)
 
+- [pr26:Cycle25.Arithmetic.GlobalBound::boundaryF_eq_iff@484 — boundaryF_eq_iff](../records/0195.md#pr26-cycle25-arithmetic-globalbound-boundaryf-eq-iff-484-5f003d3446)
+- [pr26:Cycle25.Arithmetic.GlobalBound::boundaryF_le_b0@453 — boundaryF_le_b0](../records/0195.md#pr26-cycle25-arithmetic-globalbound-boundaryf-le-b0-453-1965d9f5a9)
 - [pr26:Cycle25.Arithmetic.GlobalBound::certA1@397 — certA1](../records/0195.md#pr26-cycle25-arithmetic-globalbound-certa1-397-44ee8db81e)
 - [pr26:Cycle25.Arithmetic.GlobalBound::certA1_pos@421 — certA1_pos](../records/0195.md#pr26-cycle25-arithmetic-globalbound-certa1-pos-421-b8a548471f)
 - [pr26:Cycle25.Arithmetic.GlobalBound::certA2@398 — certA2](../records/0195.md#pr26-cycle25-arithmetic-globalbound-certa2-398-b50a768d55)
@@ -37,8 +39,8 @@ Page 62/71; 17513 matching records.
 - [pr26:Cycle25.Arithmetic.Perturbation::row_gap@825 — row_gap](../records/0195.md#pr26-cycle25-arithmetic-perturbation-row-gap-825-76476d82f3)
 - [pr26:Cycle25.Arithmetic.Perturbation::supremum_improvement@925 — supremum_improvement](../records/0195.md#pr26-cycle25-arithmetic-perturbation-supremum-improvement-925-12e431e161)
 - [pr26:Cycle25.Assembly.Continuation — Cycle25.Assembly.Continuation](../records/0195.md#pr26-cycle25-assembly-continuation-9ed56bae95)
-- [pr26:Cycle25.Assembly.Continuation::PrimitiveProbeContract@942 — PrimitiveProbeContract](../records/0195.md#pr26-cycle25-assembly-continuation-primitiveprobecontract-942-5675e11096)
-- [pr26:Cycle25.Assembly.Continuation::UniformCommonProbe@954 — UniformCommonProbe](../records/0195.md#pr26-cycle25-assembly-continuation-uniformcommonprobe-954-087cc9a76b)
+- [pr26:Cycle25.Assembly.Continuation::PrimitiveProbeContract@942 — PrimitiveProbeContract](../records/0196.md#pr26-cycle25-assembly-continuation-primitiveprobecontract-942-5675e11096)
+- [pr26:Cycle25.Assembly.Continuation::UniformCommonProbe@954 — UniformCommonProbe](../records/0196.md#pr26-cycle25-assembly-continuation-uniformcommonprobe-954-087cc9a76b)
 - [pr26:Cycle25.Assembly.Continuation::beta_le_of_common_probe@959 — beta_le_of_common_probe](../records/0196.md#pr26-cycle25-assembly-continuation-beta-le-of-common-probe-959-f7be941520)
 - [pr26:Cycle25.Assembly.Continuation::continuationMargin@862 — continuationMargin](../records/0196.md#pr26-cycle25-assembly-continuation-continuationmargin-862-80f582a724)
 - [pr26:Cycle25.Assembly.Continuation::continuationMargin_pos@864 — continuationMargin_pos](../records/0196.md#pr26-cycle25-assembly-continuation-continuationmargin-pos-864-d2d540e8ec)
@@ -137,8 +139,8 @@ Page 62/71; 17513 matching records.
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainExceptional::weighted_retained_positive_energy_le_source@55 — weighted_retained_positive_energy_le_source](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorplainexceptional-weight-3d5d434439)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainExceptional::weighted_source_batch_plain_retained@131 — weighted_source_batch_plain_retained](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorplainexceptional-weight-d1e8aa9951)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainExceptional::weighted_source_fibers_eventually_retained@102 — weighted_source_fibers_eventually_retained](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorplainexceptional-weight-8fdf3f7706)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField — Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedfinefield-42bd0c4882)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField::weighted_PositiveFineSourceInput@113 — weighted_PositiveFineSourceInput](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedfinefield-we-5534990a0a)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField — Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedfinefield-42bd0c4882)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField::weighted_PositiveFineSourceInput@113 — weighted_PositiveFineSourceInput](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedfinefield-we-5534990a0a)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedFineField::weighted_source_batch_plain_marked_fine@120 — weighted_source_batch_plain_marked_fine](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedfinefield-we-6eaaddce9e)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState — Cycle25.Assembly.Count.MomentDetectorPlainMarkedState](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-6c92d82429)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMarkedState::weighted_marked_capacity@282 — weighted_marked_capacity](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmarkedstate-weight-e9cad6023a)
@@ -237,8 +239,8 @@ Page 62/71; 17513 matching records.
 - [pr26:Cycle25.Assembly.HighData::HighData.toMomentData@187 — HighData.toMomentData](../records/0197.md#pr26-cycle25-assembly-highdata-highdata-tomomentdata-187-883d806370)
 - [pr26:Cycle25.Assembly.HighData::HighData@138 — HighData](../records/0197.md#pr26-cycle25-assembly-highdata-highdata-138-c99a6084d7)
 - [pr26:Cycle25.Assembly.HighDataFine — Cycle25.Assembly.HighDataFine](../records/0197.md#pr26-cycle25-assembly-highdatafine-b970bdd742)
-- [pr26:Cycle25.Assembly.HighDataFine::exists_high_data_fine@254 — exists_high_data_fine](../records/0197.md#pr26-cycle25-assembly-highdatafine-exists-high-data-fine-254-b038977192)
-- [pr26:Cycle25.Assembly.HighDataFine::fine_slot_widths@341 — fine_slot_widths](../records/0197.md#pr26-cycle25-assembly-highdatafine-fine-slot-widths-341-f3741d8105)
+- [pr26:Cycle25.Assembly.HighDataFine::exists_high_data_fine@254 — exists_high_data_fine](../records/0198.md#pr26-cycle25-assembly-highdatafine-exists-high-data-fine-254-b038977192)
+- [pr26:Cycle25.Assembly.HighDataFine::fine_slot_widths@341 — fine_slot_widths](../records/0198.md#pr26-cycle25-assembly-highdatafine-fine-slot-widths-341-f3741d8105)
 - [pr26:Cycle25.Assembly.Mesh — Cycle25.Assembly.Mesh](../records/0198.md#pr26-cycle25-assembly-mesh-c7a9cab41e)
 - [pr26:Cycle25.Assembly.Mesh::sourceMesh@24 — sourceMesh](../records/0198.md#pr26-cycle25-assembly-mesh-sourcemesh-24-9375f5fbf9)
 - [pr26:Cycle25.Assembly.Mesh::sourceMesh_pos@26 — sourceMesh_pos](../records/0198.md#pr26-cycle25-assembly-mesh-sourcemesh-pos-26-a57ef54557)
@@ -256,5 +258,3 @@ Page 62/71; 17513 matching records.
 - [pr26:Cycle25.Assembly.Parameters::extended_row_count_supply@221 — extended_row_count_supply](../records/0198.md#pr26-cycle25-assembly-parameters-extended-row-count-supply-221-295b48396f)
 - [pr26:Cycle25.Assembly.Parameters::extended_row_supply@237 — extended_row_supply](../records/0198.md#pr26-cycle25-assembly-parameters-extended-row-supply-237-a9d2ae7aae)
 - [pr26:Cycle25.Assembly.Parameters::gram_domination@213 — gram_domination](../records/0198.md#pr26-cycle25-assembly-parameters-gram-domination-213-a99b058c13)
-- [pr26:Cycle25.Assembly.Parameters::h@180 — h](../records/0198.md#pr26-cycle25-assembly-parameters-h-180-dcc0db06bc)
-- [pr26:Cycle25.Assembly.Parameters::h_gt_half@218 — h_gt_half](../records/0198.md#pr26-cycle25-assembly-parameters-h-gt-half-218-504cd517e6)

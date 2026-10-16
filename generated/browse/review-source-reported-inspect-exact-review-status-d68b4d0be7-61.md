@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 61/71; 17513 matching records.
+Page 61/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-60.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
+- [pr26:Analytic.JointSourceLiveRows::sum_nonzeroRows@548 — sum_nonzeroRows](../records/0193.md#pr26-analytic-jointsourceliverows-sum-nonzerorows-548-61d76a630f)
+- [pr26:Analytic.JointSourceLowerSupport — Analytic.JointSourceLowerSupport](../records/0193.md#pr26-analytic-jointsourcelowersupport-a20a0c0ffe)
 - [pr26:Analytic.JointSourceLowerSupport::actual_common_physical_lower_dyads@688 — actual_common_physical_lower_dyads](../records/0193.md#pr26-analytic-jointsourcelowersupport-actual-common-physical-lowe-601bb13096)
 - [pr26:Analytic.JointSourceLowerSupport::common_second_column_lower@658 — common_second_column_lower](../records/0193.md#pr26-analytic-jointsourcelowersupport-common-second-column-lower--b2e6740d7a)
 - [pr26:Analytic.JointSourceLowerSupport::common_second_column_lower_profiles@676 — common_second_column_lower_profiles](../records/0193.md#pr26-analytic-jointsourcelowersupport-common-second-column-lower--76e1d7e4fe)
@@ -87,8 +89,8 @@ Page 61/71; 17513 matching records.
 - [pr26:Analytic.JointSupport::joint_prime_mem_support@606 — joint_prime_mem_support](../records/0193.md#pr26-analytic-jointsupport-joint-prime-mem-support-606-b928832e62)
 - [pr26:Analytic.JointSupport::joint_second_support@693 — joint_second_support](../records/0193.md#pr26-analytic-jointsupport-joint-second-support-693-76bbc2c94b)
 - [pr26:Analytic.JointSurvivingHighProduct — Analytic.JointSurvivingHighProduct](../records/0193.md#pr26-analytic-jointsurvivinghighproduct-d423311fc9)
-- [pr26:Analytic.JointSurvivingHighProduct::Admissible@810 — Admissible](../records/0193.md#pr26-analytic-jointsurvivinghighproduct-admissible-810-27c7a3579f)
-- [pr26:Analytic.JointSurvivingHighProduct::SurvivingBufferedData@792 — SurvivingBufferedData](../records/0193.md#pr26-analytic-jointsurvivinghighproduct-survivingbuffereddata-792-c26170e08c)
+- [pr26:Analytic.JointSurvivingHighProduct::Admissible@810 — Admissible](../records/0194.md#pr26-analytic-jointsurvivinghighproduct-admissible-810-27c7a3579f)
+- [pr26:Analytic.JointSurvivingHighProduct::SurvivingBufferedData@792 — SurvivingBufferedData](../records/0194.md#pr26-analytic-jointsurvivinghighproduct-survivingbuffereddata-792-c26170e08c)
 - [pr26:Analytic.JointSurvivingHighProduct::actual_joint_surviving_high_product@839 — actual_joint_surviving_high_product](../records/0194.md#pr26-analytic-jointsurvivinghighproduct-actual-joint-surviving-hi-296858b451)
 - [pr26:Analytic.JointSurvivingHighProduct::length@802 — length](../records/0194.md#pr26-analytic-jointsurvivinghighproduct-length-802-24c4efb6e0)
 - [pr26:Analytic.JointSurvivingHighProduct::value@804 — value](../records/0194.md#pr26-analytic-jointsurvivinghighproduct-value-804-16f4250c48)
@@ -187,8 +189,8 @@ Page 61/71; 17513 matching records.
 - [pr26:Cycle25.Arithmetic.Certificate::certTPoly@36 — certTPoly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certtpoly-36-0080ee3bdb)
 - [pr26:Cycle25.Arithmetic.Certificate::certT_poly@44 — certT_poly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certt-poly-44-c8bae3df04)
 - [pr26:Cycle25.Arithmetic.Certificate::certk0@26 — certk0](../records/0194.md#pr26-cycle25-arithmetic-certificate-certk0-26-1122d05e17)
-- [pr26:Cycle25.Arithmetic.Certificate::certk1@27 — certk1](../records/0194.md#pr26-cycle25-arithmetic-certificate-certk1-27-c82dfcf655)
-- [pr26:Cycle25.Arithmetic.Certificate::coefficient_minorants@131 — coefficient_minorants](../records/0194.md#pr26-cycle25-arithmetic-certificate-coefficient-minorants-131-66d17110ed)
+- [pr26:Cycle25.Arithmetic.Certificate::certk1@27 — certk1](../records/0195.md#pr26-cycle25-arithmetic-certificate-certk1-27-c82dfcf655)
+- [pr26:Cycle25.Arithmetic.Certificate::coefficient_minorants@131 — coefficient_minorants](../records/0195.md#pr26-cycle25-arithmetic-certificate-coefficient-minorants-131-66d17110ed)
 - [pr26:Cycle25.Arithmetic.Certificate::ell0_power_bounds@125 — ell0_power_bounds](../records/0195.md#pr26-cycle25-arithmetic-certificate-ell0-power-bounds-125-8bff632e3f)
 - [pr26:Cycle25.Arithmetic.Certificate::tangency_constant@106 — tangency_constant](../records/0195.md#pr26-cycle25-arithmetic-certificate-tangency-constant-106-9b7eaa48b5)
 - [pr26:Cycle25.Arithmetic.Certificate::tangency_linear@116 — tangency_linear](../records/0195.md#pr26-cycle25-arithmetic-certificate-tangency-linear-116-af7d82a1f1)
@@ -256,5 +258,3 @@ Page 61/71; 17513 matching records.
 - [pr26:Cycle25.Arithmetic.GlobalBound — Cycle25.Arithmetic.GlobalBound](../records/0195.md#pr26-cycle25-arithmetic-globalbound-5ab05b3b5c)
 - [pr26:Cycle25.Arithmetic.GlobalBound::boundaryF@395 — boundaryF](../records/0195.md#pr26-cycle25-arithmetic-globalbound-boundaryf-395-d855b9e9ed)
 - [pr26:Cycle25.Arithmetic.GlobalBound::boundaryF_binding@474 — boundaryF_binding](../records/0195.md#pr26-cycle25-arithmetic-globalbound-boundaryf-binding-474-00e71f43da)
-- [pr26:Cycle25.Arithmetic.GlobalBound::boundaryF_eq_iff@484 — boundaryF_eq_iff](../records/0195.md#pr26-cycle25-arithmetic-globalbound-boundaryf-eq-iff-484-5f003d3446)
-- [pr26:Cycle25.Arithmetic.GlobalBound::boundaryF_le_b0@453 — boundaryF_le_b0](../records/0195.md#pr26-cycle25-arithmetic-globalbound-boundaryf-le-b0-453-1965d9f5a9)

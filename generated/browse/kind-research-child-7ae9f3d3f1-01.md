@@ -44,7 +44,7 @@ Page 1/1; 109 matching records.
 - [local:F08.V — F08.V — Affine Green form, high sine modes paid, low weighted Σ\|S_j\|²/j² open; include j1 and all integer shells](../records/0170.md#local-f08-v-e548edb1a8)
 - [local:F09.A — F09.A — Full A-dependent physical/numerator Gram under nonzero principal constraint](../records/0170.md#local-f09-a-a23c6af251)
 - [local:F09.P — F09.P — Penalized nuisance energy or joint physical/numerator Rayleigh quotient; may avoid exact annihilation](../records/0170.md#local-f09-p-ec47d656d0)
-- [local:F09.X — F09.X — A-independent componentwise nulling kills physical principal aliases; frozen-A toy can cancel whole signal](../records/0170.md#local-f09-x-66dc535c1f)
+- [local:F09.X — F09.X — A-independent componentwise nulling kills physical principal aliases; frozen-A toy can cancel whole signal](../records/0171.md#local-f09-x-66dc535c1f)
 - [local:F10.A — F10.A — Main-term plus power-saving error for true coprime covariance, all projections/diagonals](../records/0171.md#local-f10-a-ed47fa155a)
 - [local:F10.G — F10.G — A successful asymptotic beyondK=D needs a new transfer with new polar accounting; alternative two-sided/strip detector is legitimate if it has complete coverage](../records/0171.md#local-f10-g-5db7ed08be)
 - [local:F11.B — F11.B — Two genuinely distinct embedded patterns or actual theta-paired probe; estimate mixed physical and numerator terms before separate norms](../records/0171.md#local-f11-b-a152658270)

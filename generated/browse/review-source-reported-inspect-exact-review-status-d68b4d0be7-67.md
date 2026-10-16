@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 67/71; 17513 matching records.
+Page 67/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
+- [pr26:Global.Low.Detector.LowSourceScales::eventually_compensated_source_scales@102 — eventually_compensated_source_scales](../records/0208.md#pr26-global-low-detector-lowsourcescales-eventually-compensated-s-b2b282b2dd)
+- [pr26:Global.Low.Detector.LowSourceScales::lowGramFactor_source_bound@95 — lowGramFactor_source_bound](../records/0208.md#pr26-global-low-detector-lowsourcescales-lowgramfactor-source-bou-0da73d1902)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_scale@61 — source_compensated_gram_scale](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--963154156f)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_sqrt@85 — source_compensated_gram_sqrt](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--51842670ba)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_scale_admissible@43 — source_compensated_scale_admissible](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-scale-5bdcf187e6)
@@ -87,8 +89,8 @@ Page 67/71; 17513 matching records.
 - [pr26:Global.Low.SourceProbe::actual_source_analytic@834 — actual_source_analytic](../records/0208.md#pr26-global-low-sourceprobe-actual-source-analytic-834-2fe9cd8a4b)
 - [pr26:Global.Low.SourceProbe::isBigO_rpow_of_eventual_norm_bound@803 — isBigO_rpow_of_eventual_norm_bound](../records/0208.md#pr26-global-low-sourceprobe-isbigo-rpow-of-eventual-norm-bound-80-d977cd34a2)
 - [pr26:Global.Low.SourceProbe::normalizedProbe@791 — normalizedProbe](../records/0208.md#pr26-global-low-sourceprobe-normalizedprobe-791-85fed2cca2)
-- [pr26:Global.Low.SourceProbe::normalizedProbe_low@811 — normalizedProbe_low](../records/0208.md#pr26-global-low-sourceprobe-normalizedprobe-low-811-c926917737)
-- [pr26:Global.Low.SourceProbe::sourceProbe@843 — sourceProbe](../records/0208.md#pr26-global-low-sourceprobe-sourceprobe-843-c1f4ee282e)
+- [pr26:Global.Low.SourceProbe::normalizedProbe_low@811 — normalizedProbe_low](../records/0209.md#pr26-global-low-sourceprobe-normalizedprobe-low-811-c926917737)
+- [pr26:Global.Low.SourceProbe::sourceProbe@843 — sourceProbe](../records/0209.md#pr26-global-low-sourceprobe-sourceprobe-843-c1f4ee282e)
 - [pr26:Global.Low.SourceProbe::sourceProbe_low@848 — sourceProbe_low](../records/0209.md#pr26-global-low-sourceprobe-sourceprobe-low-848-a6303f24c1)
 - [pr26:Global.Numerator.ActiveFourth — Global.Numerator.ActiveFourth](../records/0209.md#pr26-global-numerator-activefourth-faaed9a2db)
 - [pr26:Global.Numerator.ActiveFourth::certified_active_box_fourth@57 — certified_active_box_fourth](../records/0209.md#pr26-global-numerator-activefourth-certified-active-box-fourth-57-8421bdcf1e)
@@ -187,8 +189,8 @@ Page 67/71; 17513 matching records.
 - [pr26:Global.Parameters::ell@474 — ell](../records/0209.md#pr26-global-parameters-ell-474-237e8635ff)
 - [pr26:Global.Parameters::ell_interval@482 — ell_interval](../records/0209.md#pr26-global-parameters-ell-interval-482-53586040a7)
 - [pr26:Global.Parameters::ell_lt_one_fifth@501 — ell_lt_one_fifth](../records/0209.md#pr26-global-parameters-ell-lt-one-fifth-501-1875cab829)
-- [pr26:Global.Parameters::ell_pos@500 — ell_pos](../records/0209.md#pr26-global-parameters-ell-pos-500-2b085b5e57)
-- [pr26:Global.Parameters::extended_h_lt_one@531 — extended_h_lt_one](../records/0209.md#pr26-global-parameters-extended-h-lt-one-531-f345b76feb)
+- [pr26:Global.Parameters::ell_pos@500 — ell_pos](../records/0210.md#pr26-global-parameters-ell-pos-500-2b085b5e57)
+- [pr26:Global.Parameters::extended_h_lt_one@531 — extended_h_lt_one](../records/0210.md#pr26-global-parameters-extended-h-lt-one-531-f345b76feb)
 - [pr26:Global.Parameters::extended_numerator_short@527 — extended_numerator_short](../records/0210.md#pr26-global-parameters-extended-numerator-short-527-152519cea1)
 - [pr26:Global.Parameters::extended_row_count_supply@518 — extended_row_count_supply](../records/0210.md#pr26-global-parameters-extended-row-count-supply-518-375d5af87e)
 - [pr26:Global.Parameters::extended_row_count_supply_one_fifth@563 — extended_row_count_supply_one_fifth](../records/0210.md#pr26-global-parameters-extended-row-count-supply-one-fifth-563-5f2f6a947f)
@@ -256,5 +258,3 @@ Page 67/71; 17513 matching records.
 - [pr26:Global.Transport.CentralExponent — Global.Transport.CentralExponent](../records/0210.md#pr26-global-transport-centralexponent-65ebfcd719)
 - [pr26:Global.Transport.CentralExponent::actual_central_class_saving@484 — actual_central_class_saving](../records/0210.md#pr26-global-transport-centralexponent-actual-central-class-saving-0fd7f01cd2)
 - [pr26:Global.Transport.CentralExponent::adaptive_count_identity@449 — adaptive_count_identity](../records/0210.md#pr26-global-transport-centralexponent-adaptive-count-identity-449-ef0b747ae2)
-- [pr26:Global.Transport.CentralExponent::central_class_saving@464 — central_class_saving](../records/0210.md#pr26-global-transport-centralexponent-central-class-saving-464-561cb2a66d)
-- [pr26:Global.Transport.CentralExponent::central_exponent_identity@455 — central_exponent_identity](../records/0210.md#pr26-global-transport-centralexponent-central-exponent-identity-4-01f61914f4)

@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 70/71; 17513 matching records.
+Page 70/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-69.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-71.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::detector_certified_bands@777 — detector_certified_bands](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-3f9ace9912)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::dirichlet_nonzero@799 — dirichlet_nonzero](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-98411b3396)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::zeta_nonzero@805 — zeta_nonzero](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-43b9c48c08)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence — OAI.NumberTheory.DirichletL.Energy.CertifiedExistence](../records/0215.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-f682546246)
@@ -37,8 +39,8 @@ Page 70/71; 17513 matching records.
 - [pr26:Physical.Capacity::old_capacity_of_downward@527 — old_capacity_of_downward](../records/0215.md#pr26-physical-capacity-old-capacity-of-downward-527-0ad4c64cf4)
 - [pr26:Physical.Capacity::old_capacity_of_short@522 — old_capacity_of_short](../records/0215.md#pr26-physical-capacity-old-capacity-of-short-522-cbd8aa24dd)
 - [pr26:Physical.Capacity::transportCapacity@440 — transportCapacity](../records/0215.md#pr26-physical-capacity-transportcapacity-440-d366c089d2)
-- [pr26:Physical.Capacity::transportCapacity_le_base@466 — transportCapacity_le_base](../records/0215.md#pr26-physical-capacity-transportcapacity-le-base-466-319245a120)
-- [pr26:Physical.Capacity::transportCapacity_le_supply@481 — transportCapacity_le_supply](../records/0215.md#pr26-physical-capacity-transportcapacity-le-supply-481-7b7ed6e263)
+- [pr26:Physical.Capacity::transportCapacity_le_base@466 — transportCapacity_le_base](../records/0216.md#pr26-physical-capacity-transportcapacity-le-base-466-319245a120)
+- [pr26:Physical.Capacity::transportCapacity_le_supply@481 — transportCapacity_le_supply](../records/0216.md#pr26-physical-capacity-transportcapacity-le-supply-481-7b7ed6e263)
 - [pr26:Physical.Capacity::transportCapacity_nonneg@462 — transportCapacity_nonneg](../records/0216.md#pr26-physical-capacity-transportcapacity-nonneg-462-c3698027b9)
 - [pr26:Physical.Capacity::transport_pair_dispatch@567 — transport_pair_dispatch](../records/0216.md#pr26-physical-capacity-transport-pair-dispatch-567-36720ba6bb)
 - [pr26:Physical.Capacity::transport_repayment@486 — transport_repayment](../records/0216.md#pr26-physical-capacity-transport-repayment-486-6b12ba64d2)
@@ -137,8 +139,8 @@ Page 70/71; 17513 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_clipped_paid_bands@2425 — actual_clipped_paid_bands](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-clipped-p-73d1737056)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_common_paid_source@3221 — actual_common_paid_source](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-common-pa-8c9f60243b)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_child_from_bands@5985 — actual_error_child_from_bands](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-chi-e4884d9897)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_gaussian_from_bands@6579 — actual_error_gaussian_from_bands](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-gau-eb03b2f40d)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_homogeneous@7527 — actual_error_homogeneous](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-hom-7b67aead72)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_gaussian_from_bands@6579 — actual_error_gaussian_from_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-gau-eb03b2f40d)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_homogeneous@7527 — actual_error_homogeneous](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-hom-7b67aead72)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_power_from_bands@7217 — actual_error_power_from_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-pow-d78e8eeeff)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_smaller_gaussian@6935 — actual_error_smaller_gaussian](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-sma-d45ff3eb42)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_error_uniform_child@6311 — actual_error_uniform_child](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-error-uni-0fc6b8d87c)
@@ -227,8 +229,8 @@ Page 70/71; 17513 matching records.
 - [review:T08 — \[research revision\]-review:T08](../records/0217.md#review-t08-da626c3108)
 - [review:T09 — \[research revision\]-review:T09](../records/0217.md#review-t09-9b55f2ffc3)
 - [review:T10 — \[research revision\]-review:T10](../records/0217.md#review-t10-2738c6d533)
-- [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0217.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
-- [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0217.md#reviewed-claim-a01-embedded-extension-9eec840d93)
+- [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0218.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
+- [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0218.md#reviewed-claim-a01-embedded-extension-9eec840d93)
 - [reviewed-claim:A02-anisotropic-AFE-budget — \[research revision\]-claim:A02-anisotropic-AFE-budget](../records/0218.md#reviewed-claim-a02-anisotropic-afe-budget-a8cad57bbf)
 - [reviewed-claim:A02-rectangular-frontier — \[research revision\]-claim:A02-rectangular-frontier](../records/0218.md#reviewed-claim-a02-rectangular-frontier-e29f8341ff)
 - [reviewed-claim:A02-reduced-index — \[research revision\]-claim:A02-reduced-index](../records/0218.md#reviewed-claim-a02-reduced-index-de8dae2b57)
@@ -256,5 +258,3 @@ Page 70/71; 17513 matching records.
 - [reviewed-claim:T09-full-shift-kernel — \[research revision\]-claim:T09-full-shift-kernel](../records/0218.md#reviewed-claim-t09-full-shift-kernel-98ad734238)
 - [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0218.md#reviewed-claim-t10-continuum-69e758bd43)
 - [reviewed-claim:T10-continuum-reciprocal — \[research revision\]-claim:T10-continuum-reciprocal](../records/0218.md#reviewed-claim-t10-continuum-reciprocal-58e80583f4)
-- [reviewed-claim:T10-dilation-compatibility — \[research revision\]-claim:T10-dilation-compatibility](../records/0218.md#reviewed-claim-t10-dilation-compatibility-45a4194680)
-- [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0218.md#reviewed-claim-t10-two-dilations-33adf7cbdb)

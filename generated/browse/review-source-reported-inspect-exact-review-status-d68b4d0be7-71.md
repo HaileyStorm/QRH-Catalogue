@@ -2,10 +2,12 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17513 matching records.
+Page 71/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [reviewed-claim:T10-dilation-compatibility — \[research revision\]-claim:T10-dilation-compatibility](../records/0218.md#reviewed-claim-t10-dilation-compatibility-45a4194680)
+- [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0218.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
 - [reviewed-claim:cubic-A01 — \[research revision\]-claim:cubic-A01](../records/0218.md#reviewed-claim-cubic-a01-49a2a8afc6)
 - [reviewed-claim:cubic-A02 — \[research revision\]-claim:cubic-A02](../records/0218.md#reviewed-claim-cubic-a02-0d4f2c45e2)
 - [reviewed-claim:cubic-A03 — \[research revision\]-claim:cubic-A03](../records/0218.md#reviewed-claim-cubic-a03-9b180e0957)

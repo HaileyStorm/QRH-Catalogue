@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 52 matching records.
+Page 1/1; 54 matching records.
 
 - [MATH-PR48-57ca0662-collision-partitions — Collision partitions for overlapping finite slot pools](../records/0129.md#math-pr48-57ca0662-collision-partitions-6b4f96fbc7)
 - [MATH-PR48-57ca0662-finite-polarization — Finite polarization from common product profiles](../records/0129.md#math-pr48-57ca0662-finite-polarization-4afcdc06a5)
@@ -56,3 +56,5 @@ Page 1/1; 52 matching records.
 - [QRH-CONT-M016-CENTERED-RENEWAL — Exact centered Selberg renewal and two-moment norm divergence](../records/0131.md#qrh-cont-m016-centered-renewal-bb4db03fd5)
 - [QRH-CONT-M016-FACTORIZATION — All-order factorization and its coefficientwise majorant pole](../records/0131.md#qrh-cont-m016-factorization-cffcd9b9d3)
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
+- [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
+- [QRH-CONT-M017-MOBIUS-TAIL — Complete long-Mobius-factor reduction with a negligible smooth-lattice remainder](../records/0131.md#qrh-cont-m017-mobius-tail-d4fbc01e2c)

@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 58/71; 17513 matching records.
+Page 58/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-57.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-59.md)
 
+- [pr26:Analytic.JointHighPacketRecoveryGates::live_rayTarget_fourier_gates@123 — live_rayTarget_fourier_gates](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-live-raytarget-fourier-7498b5b774)
+- [pr26:Analytic.JointHighPacketRecoveryGates::packet_first_mem@40 — packet_first_mem](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-packet-first-mem-40-05a9c075f6)
 - [pr26:Analytic.JointHighPacketRecoveryGates::packet_outer_mem@49 — packet_outer_mem](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-packet-outer-mem-49-33b5d99949)
 - [pr26:Analytic.JointHighPacketRecoveryGates::rayRows_main_dyadic_caps@72 — rayRows_main_dyadic_caps](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-rayrows-main-dyadic-ca-8680befeeb)
 - [pr26:Analytic.JointHighPacketRecoveryGates::rayTarget_first_mem@57 — rayTarget_first_mem](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-raytarget-first-mem-57-1ed939b040)
@@ -37,8 +39,8 @@ Page 58/71; 17513 matching records.
 - [pr26:Analytic.JointHighReferencePacketGates::highPacketMissingWidth@551 — highPacketMissingWidth](../records/0185.md#pr26-analytic-jointhighreferencepacketgates-highpacketmissingwidt-9c172ede77)
 - [pr26:Analytic.JointHighReferencePacketGates::highPacketOmegaLoss@548 — highPacketOmegaLoss](../records/0185.md#pr26-analytic-jointhighreferencepacketgates-highpacketomegaloss-5-312c093cb2)
 - [pr26:Analytic.JointHighReferencePacketGates::highPacketRowWidth@549 — highPacketRowWidth](../records/0185.md#pr26-analytic-jointhighreferencepacketgates-highpacketrowwidth-54-a034c26a0a)
-- [pr26:Analytic.JointHighRetained — Analytic.JointHighRetained](../records/0185.md#pr26-analytic-jointhighretained-3f847cbebf)
-- [pr26:Analytic.JointHighRetained::actual_joint_high_retained_contribution@240 — actual_joint_high_retained_contribution](../records/0185.md#pr26-analytic-jointhighretained-actual-joint-high-retained-contri-43da070cf9)
+- [pr26:Analytic.JointHighRetained — Analytic.JointHighRetained](../records/0186.md#pr26-analytic-jointhighretained-3f847cbebf)
+- [pr26:Analytic.JointHighRetained::actual_joint_high_retained_contribution@240 — actual_joint_high_retained_contribution](../records/0186.md#pr26-analytic-jointhighretained-actual-joint-high-retained-contri-43da070cf9)
 - [pr26:Analytic.JointHighRetained::retainedProfileEnvelope@199 — retainedProfileEnvelope](../records/0186.md#pr26-analytic-jointhighretained-retainedprofileenvelope-199-92062f0814)
 - [pr26:Analytic.JointHighRetained::retainedProfileEnvelope_bound@210 — retainedProfileEnvelope_bound](../records/0186.md#pr26-analytic-jointhighretained-retainedprofileenvelope-bound-210-cc1f2ba399)
 - [pr26:Analytic.JointHighRetained::retainedProfileEnvelope_nonneg@204 — retainedProfileEnvelope_nonneg](../records/0186.md#pr26-analytic-jointhighretained-retainedprofileenvelope-nonneg-20-a12c699d0e)
@@ -137,8 +139,8 @@ Page 58/71; 17513 matching records.
 - [pr26:Analytic.JointLocalErrorParameters::errorLocalEps@24 — errorLocalEps](../records/0186.md#pr26-analytic-jointlocalerrorparameters-errorlocaleps-24-00d1f93d3c)
 - [pr26:Analytic.JointLocalErrorParameters::errorLocalMask@25 — errorLocalMask](../records/0186.md#pr26-analytic-jointlocalerrorparameters-errorlocalmask-25-aec70771cf)
 - [pr26:Analytic.JointLocalErrorParameters::error_local_declared_capacity@68 — error_local_declared_capacity](../records/0186.md#pr26-analytic-jointlocalerrorparameters-error-local-declared-capa-2384d6ab0b)
-- [pr26:Analytic.JointLocalErrorParameters::error_local_parameters@27 — error_local_parameters](../records/0186.md#pr26-analytic-jointlocalerrorparameters-error-local-parameters-27-06d94e4aca)
-- [pr26:Analytic.JointLocalErrorTarget — Analytic.JointLocalErrorTarget](../records/0186.md#pr26-analytic-jointlocalerrortarget-cf42bed307)
+- [pr26:Analytic.JointLocalErrorParameters::error_local_parameters@27 — error_local_parameters](../records/0187.md#pr26-analytic-jointlocalerrorparameters-error-local-parameters-27-06d94e4aca)
+- [pr26:Analytic.JointLocalErrorTarget — Analytic.JointLocalErrorTarget](../records/0187.md#pr26-analytic-jointlocalerrortarget-cf42bed307)
 - [pr26:Analytic.JointLocalErrorTarget::actual_literal_first_extracted_error_target@419 — actual_literal_first_extracted_error_target](../records/0187.md#pr26-analytic-jointlocalerrortarget-actual-literal-first-extracte-2a87a82b6f)
 - [pr26:Analytic.JointLocalErrorTarget::firstCoherentErrorTerm@404 — firstCoherentErrorTerm](../records/0187.md#pr26-analytic-jointlocalerrortarget-firstcoherenterrorterm-404-77140886fc)
 - [pr26:Analytic.JointLowAbsorption — Analytic.JointLowAbsorption](../records/0187.md#pr26-analytic-jointlowabsorption-98d6d10c7a)
@@ -237,8 +239,8 @@ Page 58/71; 17513 matching records.
 - [pr26:Analytic.JointLowLocalGates::sourceRadius_le_fixed_volume@152 — sourceRadius_le_fixed_volume](../records/0187.md#pr26-analytic-jointlowlocalgates-sourceradius-le-fixed-volume-152-95f0abde97)
 - [pr26:Analytic.JointLowLocalTarget — Analytic.JointLowLocalTarget](../records/0187.md#pr26-analytic-jointlowlocaltarget-ae1aa601d8)
 - [pr26:Analytic.JointLowLocalTarget::actual_local_first_low_target@143 — actual_local_first_low_target](../records/0187.md#pr26-analytic-jointlowlocaltarget-actual-local-first-low-target-1-9c52788d93)
-- [pr26:Analytic.JointLowMixedHarmonic — Analytic.JointLowMixedHarmonic](../records/0187.md#pr26-analytic-jointlowmixedharmonic-e7ba03c2fc)
-- [pr26:Analytic.JointLowMixedHarmonic::actual_common_second_mixed_harmonic_mass@686 — actual_common_second_mixed_harmonic_mass](../records/0187.md#pr26-analytic-jointlowmixedharmonic-actual-common-second-mixed-ha-5e999489c4)
+- [pr26:Analytic.JointLowMixedHarmonic — Analytic.JointLowMixedHarmonic](../records/0188.md#pr26-analytic-jointlowmixedharmonic-e7ba03c2fc)
+- [pr26:Analytic.JointLowMixedHarmonic::actual_common_second_mixed_harmonic_mass@686 — actual_common_second_mixed_harmonic_mass](../records/0188.md#pr26-analytic-jointlowmixedharmonic-actual-common-second-mixed-ha-5e999489c4)
 - [pr26:Analytic.JointLowMixedHarmonic::actual_second_ray_mixed_factor@658 — actual_second_ray_mixed_factor](../records/0188.md#pr26-analytic-jointlowmixedharmonic-actual-second-ray-mixed-facto-ebfb824724)
 - [pr26:Analytic.JointLowMixedHarmonic::moebius_mixed_harmonic_pointwise@638 — moebius_mixed_harmonic_pointwise](../records/0188.md#pr26-analytic-jointlowmixedharmonic-moebius-mixed-harmonic-pointw-c08f6e3452)
 - [pr26:Analytic.JointLowMoment — Analytic.JointLowMoment](../records/0188.md#pr26-analytic-jointlowmoment-f68b814ee8)
@@ -256,5 +258,3 @@ Page 58/71; 17513 matching records.
 - [pr26:Analytic.JointLowNormalization::pairWeight_eq_power@433 — pairWeight_eq_power](../records/0188.md#pr26-analytic-jointlownormalization-pairweight-eq-power-433-e6e3da32b1)
 - [pr26:Analytic.JointLowOriginalVolume — Analytic.JointLowOriginalVolume](../records/0188.md#pr26-analytic-jointloworiginalvolume-94ed4f7d16)
 - [pr26:Analytic.JointLowOriginalVolume::low_sector_to_original_volume@629 — low_sector_to_original_volume](../records/0188.md#pr26-analytic-jointloworiginalvolume-low-sector-to-original-volum-20665ec623)
-- [pr26:Analytic.JointLowPairedBound — Analytic.JointLowPairedBound](../records/0188.md#pr26-analytic-jointlowpairedbound-3bcddb2d66)
-- [pr26:Analytic.JointLowPairedBound::actual_second_low_paired_values_of_common_bin@531 — actual_second_low_paired_values_of_common_bin](../records/0188.md#pr26-analytic-jointlowpairedbound-actual-second-low-paired-values-e0e187465f)

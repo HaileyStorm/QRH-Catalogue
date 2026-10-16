@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 29/43; 10567 matching records.
+Page 29/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-28.md)
 
 [Next](status-unknown-b23a6a8439-30.md)
 
+- [local-section:1987d00fae8a1e085952a2f5 — G208: exact pair mass and a fifth actual row class](../records/0140.md#local-section-1987d00fae8a1e085952a2f5-1f73fb2c6e)
 - [local-section:199a804321886cb16ff431d7 — Evidence and scope](../records/0140.md#local-section-199a804321886cb16ff431d7-e532fef1a7)
 - [local-section:19b1dd180e962311d1d676ff — 11. Two additional brainstorming passes: what was actually added](../records/0140.md#local-section-19b1dd180e962311d1d676ff-a655849e5b)
 - [local-section:19b88181709ca0278b59e6d0 — Quantitative gate index](../records/0140.md#local-section-19b88181709ca0278b59e6d0-8524d45372)
@@ -37,7 +38,7 @@ Page 29/43; 10567 matching records.
 - [local-section:1bd331aed29fd53493b503f4 — 10. Geometric and operator fronts, retained with quantitative gates](../records/0140.md#local-section-1bd331aed29fd53493b503f4-00335f5ee6)
 - [local-section:1bdfe53cd71518fe8898060d — \[research revision\]: adaptive conductor exclusion and an arbitrary-graph transport adapter for native H](../records/0140.md#local-section-1bdfe53cd71518fe8898060d-af87a211fc)
 - [local-section:1be57b6616be8d3b7921572e — W40-20 — Herglotz measure repair from negative mass; p=.006](../records/0140.md#local-section-1be57b6616be8d3b7921572e-75d47d02af)
-- [local-section:1bf9191234ba9671e6b37a3a — 6. What is actually paid; the unit and low-gcd complement](../records/0140.md#local-section-1bf9191234ba9671e6b37a3a-b8e98411db)
+- [local-section:1bf9191234ba9671e6b37a3a — 6. What is actually paid; the unit and low-gcd complement](../records/0141.md#local-section-1bf9191234ba9671e6b37a3a-b8e98411db)
 - [local-section:1c0fcf5454917c54e39ec770 — Local moment with two original-data envelopes](../records/0141.md#local-section-1c0fcf5454917c54e39ec770-69053ed277)
 - [local-section:1c1323abafd914be4b98db3a — New quantitative theorem](../records/0141.md#local-section-1c1323abafd914be4b98db3a-caed4bf531)
 - [local-section:1c1b75a05345ccd8382710b0 — 1. Decision and exact theorem](../records/0141.md#local-section-1c1b75a05345ccd8382710b0-6b3344a073)
@@ -112,7 +113,7 @@ Page 29/43; 10567 matching records.
 - [local-section:23fdce57e9a1b43257b2c448 — \[research revision\]: growing-order arithmetic sectors and a centered source refinement](../records/0141.md#local-section-23fdce57e9a1b43257b2c448-17d84d0974)
 - [local-section:243bb4380f1c3f9fec04539d — F17.T — Corrected Gemini trace-function descendant](../records/0141.md#local-section-243bb4380f1c3f9fec04539d-09835dc4e8)
 - [local-section:247c1461ab74a028b9490c99 — Exact source and replacement](../records/0141.md#local-section-247c1461ab74a028b9490c99-9caa189775)
-- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0141.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
+- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0142.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
 - [local-section:24de66a554de14d7595e796e — 9. Evidence, calibration and acceptance boundary](../records/0142.md#local-section-24de66a554de14d7595e796e-b8829896f2)
 - [local-section:252d6d45d879f556871b51cc — F01. Multiscale Möbius decomposition and signed block control](../records/0142.md#local-section-252d6d45d879f556871b51cc-6b1c8a5789)
 - [local-section:253bb40bb2b9a9521bae8ff5 — \[research revision\]: a larger literal amplifier gives local capacity 4.44](../records/0142.md#local-section-253bb40bb2b9a9521bae8ff5-d141175ebb)
@@ -195,8 +196,8 @@ Page 29/43; 10567 matching records.
 - [local-section:2c1c47bed4177ba884565fc3 — UR4. The averaged all-height zero-exclusion bridge is valid](../records/0142.md#local-section-2c1c47bed4177ba884565fc3-713612b288)
 - [local-section:2c2287f05922e8fa4ec85273 — 7. A stronger exact floor and the literal interpolating coefficients](../records/0142.md#local-section-2c2287f05922e8fa4ec85273-966de4b9fd)
 - [local-section:2c2f84619cc5b0d86b72f6f3 — 7. Every part of the changed physical return](../records/0142.md#local-section-2c2f84619cc5b0d86b72f6f3-35caccaeb1)
-- [local-section:2c3f5884cafa44f8c3d4ea20 — \[research revision\]: a sharper exceptional branch from the literal transforms](../records/0142.md#local-section-2c3f5884cafa44f8c3d4ea20-b8fba8fe87)
-- [local-section:2c577ededb97705857b60472 — R3. Exact convolution identities, including the exclusions](../records/0142.md#local-section-2c577ededb97705857b60472-347f2d94d1)
+- [local-section:2c3f5884cafa44f8c3d4ea20 — \[research revision\]: a sharper exceptional branch from the literal transforms](../records/0143.md#local-section-2c3f5884cafa44f8c3d4ea20-b8fba8fe87)
+- [local-section:2c577ededb97705857b60472 — R3. Exact convolution identities, including the exclusions](../records/0143.md#local-section-2c577ededb97705857b60472-347f2d94d1)
 - [local-section:2c71727fb820ca2f4369820c — 4. Literal arithmetic returns and the first-gain contract](../records/0143.md#local-section-2c71727fb820ca2f4369820c-0f4c1b7500)
 - [local-section:2c81744dd0a686be1ab1007a — \[research revision\]: larger actual R4 middle sectors](../records/0143.md#local-section-2c81744dd0a686be1ab1007a-100c2904ba)
 - [local-section:2ca3770e79cd2de3bcdf9bec — \[research revision\] high-ceiling discovery: an exact reciprocal channel inside Hankel twist dispersion](../records/0143.md#local-section-2ca3770e79cd2de3bcdf9bec-898383f502)
@@ -257,4 +258,3 @@ Page 29/43; 10567 matching records.
 - [local-section:31e262fde5e371c86c842bf6 — Candidate dimension-free lemma](../records/0143.md#local-section-31e262fde5e371c86c842bf6-878306cb45)
 - [local-section:31fbb15c47bbc0a5c7c09253 — Weakest first-gain threshold and two larger targets](../records/0143.md#local-section-31fbb15c47bbc0a5c7c09253-5ccbd686c1)
 - [local-section:32028697ed60c1ce6c62dc16 — \[research revision\]: changed-window endpoint and ongoing arithmetic work](../records/0143.md#local-section-32028697ed60c1ce6c62dc16-b19dcabc6c)
-- [local-section:32170de5c19ef68116c21f89 — \[research revision\]: complete fugacity and signed boundary contracts](../records/0143.md#local-section-32170de5c19ef68116c21f89-e3bb2e99b0)

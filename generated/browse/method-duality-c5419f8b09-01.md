@@ -229,7 +229,7 @@ Page 1/6; 1436 matching records.
 - [local-section:02b41380eaa7f3da4806f180 — 7. Evidence, limits and next mathematical action](../records/0137.md#local-section-02b41380eaa7f3da4806f180-b77494ddb6)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0137.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:02f8669f1658d13dbcf1f468 — \[research revision\]-S5. Two literal native JN contracts](../records/0137.md#local-section-02f8669f1658d13dbcf1f468-f0f56dd251)
-- [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0137.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
+- [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
 - [local-section:035701346f99d3890ec7be86 — \[research revision\]: signed deletion, critical flux and common-readout Gram](../records/0138.md#local-section-035701346f99d3890ec7be86-e321acbb45)
 - [local-section:0400fb8cae6f2f20f06e267c — G156. Complete diagonal and two off-diagonal sectors](../records/0138.md#local-section-0400fb8cae6f2f20f06e267c-3484d3ff52)
 - [local-section:044cc15db39bd4764b52dd0d — Sampling, chronology, and all six first tests](../records/0138.md#local-section-044cc15db39bd4764b52dd0d-54abae69a0)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 37/43; 10567 matching records.
+Page 37/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-36.md)
 
 [Next](status-unknown-b23a6a8439-38.md)
 
+- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0163.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:ccdc64b9dcc1fbdd7eb2afba — Verification and next estimate](../records/0163.md#local-section-ccdc64b9dcc1fbdd7eb2afba-90d24bc51d)
 - [local-section:cce6349d90284b9d579c007f — 2. Forward smoothing survives forming the phase family](../records/0163.md#local-section-cce6349d90284b9d579c007f-444ab690ef)
 - [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0163.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
@@ -19,8 +20,8 @@ Page 37/43; 10567 matching records.
 - [local-section:cd85fdf685293915f7890c83 — G128. Source, prediction and an exact zero census](../records/0163.md#local-section-cd85fdf685293915f7890c83-52a4c71995)
 - [local-section:cd94a17da96fb47403c75fc7 — D1d: the second-root inference is valid but only necessary](../records/0163.md#local-section-cd94a17da96fb47403c75fc7-2a96208ec4)
 - [local-section:cdba3bd6b8c23824d50f8bf1 — 5. All core tails and the zero-large-prime class](../records/0163.md#local-section-cdba3bd6b8c23824d50f8bf1-be1a3fe602)
-- [local-section:cdbe24549aeef7fada25d145 — 1. Literal input and the marked-plain eligibility bridge](../records/0163.md#local-section-cdbe24549aeef7fada25d145-109acb13e1)
-- [local-section:cdcb54aa89d337c22d98a837 — W40-14 — Noncommutative sector capacity dual; p=.025](../records/0163.md#local-section-cdcb54aa89d337c22d98a837-1468815910)
+- [local-section:cdbe24549aeef7fada25d145 — 1. Literal input and the marked-plain eligibility bridge](../records/0164.md#local-section-cdbe24549aeef7fada25d145-109acb13e1)
+- [local-section:cdcb54aa89d337c22d98a837 — W40-14 — Noncommutative sector capacity dual; p=.025](../records/0164.md#local-section-cdcb54aa89d337c22d98a837-1468815910)
 - [local-section:cdd63f21b9d79baab18dbbf3 — 8. Functional novelty, objections and next mathematical action](../records/0164.md#local-section-cdd63f21b9d79baab18dbbf3-7ce315c74e)
 - [local-section:cdf701cc70bb5e677932f6ab — B. Literal arithmetic coefficients and readout](../records/0164.md#local-section-cdf701cc70bb5e677932f6ab-c43aab4b52)
 - [local-section:ce096041dc8a7efb3defa01e — 6. Distinct lower-order sectors with their full class count](../records/0164.md#local-section-ce096041dc8a7efb3defa01e-80d30d5cb9)
@@ -101,7 +102,7 @@ Page 37/43; 10567 matching records.
 - [local-section:d5559f530d999bf390b81073 — 3. Two compatible envelopes and fixed finite choices](../records/0164.md#local-section-d5559f530d999bf390b81073-2c18e1e5e2)
 - [local-section:d55ae5a2551854a0e60ee14c — Disposition and current checkpoint](../records/0164.md#local-section-d55ae5a2551854a0e60ee14c-5d1e26a868)
 - [local-section:d588a64d23236303cac1bb35 — Exact moving Bessel filter](../records/0164.md#local-section-d588a64d23236303cac1bb35-96ed9985e0)
-- [local-section:d59cba5678cf0426ea49122e — 2. The fixed angular sums and the moving deletion](../records/0164.md#local-section-d59cba5678cf0426ea49122e-45750aa151)
+- [local-section:d59cba5678cf0426ea49122e — 2. The fixed angular sums and the moving deletion](../records/0165.md#local-section-d59cba5678cf0426ea49122e-45750aa151)
 - [local-section:d5b850e14b3444f204aab8c4 — 7. A decisive failed finite-inverse inequality on the original data](../records/0165.md#local-section-d5b850e14b3444f204aab8c4-b35f81b750)
 - [local-section:d5bd80c768bb134c257164ad — G217. Actual-source obstructions and their exact scopes](../records/0165.md#local-section-d5bd80c768bb134c257164ad-915a324874)
 - [local-section:d5d2671c54f7d20acbb53049 — HCR9. Norm transfer, cap cost and every signed interaction](../records/0165.md#local-section-d5d2671c54f7d20acbb53049-d881ca7e44)
@@ -190,8 +191,8 @@ Page 37/43; 10567 matching records.
 - [local-section:db658d49008adf8499407623 — 5. Complete G34 return, quantitative targets, masks, and both heights](../records/0165.md#local-section-db658d49008adf8499407623-b3e3cb9ffa)
 - [local-section:db8bb80e7644029158625d6a — 8. Quadratic and alternative arithmetic encodings](../records/0165.md#local-section-db8bb80e7644029158625d6a-49aabf638b)
 - [local-section:db99ba545c6ce114485720d4 — 10. Checks, limitations, and handoff boundary](../records/0165.md#local-section-db99ba545c6ce114485720d4-cdb7a82301)
-- [local-section:dbb29f705e111e0433861ef6 — Verdict and intended use](../records/0165.md#local-section-dbb29f705e111e0433861ef6-98ba2c4144)
-- [local-section:dbb70f937ba41ce1c46f7e5f — 9. Verification and evidence limits](../records/0165.md#local-section-dbb70f937ba41ce1c46f7e5f-a2b3ef91b3)
+- [local-section:dbb29f705e111e0433861ef6 — Verdict and intended use](../records/0166.md#local-section-dbb29f705e111e0433861ef6-98ba2c4144)
+- [local-section:dbb70f937ba41ce1c46f7e5f — 9. Verification and evidence limits](../records/0166.md#local-section-dbb70f937ba41ce1c46f7e5f-a2b3ef91b3)
 - [local-section:dbbd1a4a45ff33063943d6e5 — 9. Higher-ceiling direct returns, including the principal pole](../records/0166.md#local-section-dbbd1a4a45ff33063943d6e5-849f142077)
 - [local-section:dbe7adcf207393c34588d6c3 — \[research revision\] attempt delta](../records/0166.md#local-section-dbe7adcf207393c34588d6c3-dce49a1ce9)
 - [local-section:dbf6410e43e771d0947be990 — All60 dispositions preserved](../records/0166.md#local-section-dbf6410e43e771d0947be990-10cf767b31)
@@ -257,4 +258,3 @@ Page 37/43; 10567 matching records.
 - [local-section:e3a56a158fce80d703c81d50 — 5.3 Uniform gain is a separate question from qualitative return](../records/0166.md#local-section-e3a56a158fce80d703c81d50-9477e04912)
 - [local-section:e3bd50d387c8513a01abf8a7 — G1 — uncapped free invention](../records/0166.md#local-section-e3bd50d387c8513a01abf8a7-552c936898)
 - [local-section:e3f1c1e8096a84905b7c90aa — A complete and faster source-tail bound](../records/0166.md#local-section-e3f1c1e8096a84905b7c90aa-903ce98443)
-- [local-section:e406dba5a2430da38807f740 — G2 — uncapped free invention](../records/0166.md#local-section-e406dba5a2430da38807f740-40aaced61f)

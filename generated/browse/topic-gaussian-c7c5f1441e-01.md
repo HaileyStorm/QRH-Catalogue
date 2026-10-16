@@ -231,7 +231,7 @@ Page 1/6; 1280 matching records.
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0137.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:0300064e6646ee5a9ff359bd — R39-A. Complex-polynomial interpolation is valid](../records/0137.md#local-section-0300064e6646ee5a9ff359bd-7d8c3a3a68)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0137.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
-- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0137.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
+- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0138.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
 - [local-section:035701346f99d3890ec7be86 — \[research revision\]: signed deletion, critical flux and common-readout Gram](../records/0138.md#local-section-035701346f99d3890ec7be86-e321acbb45)
 - [local-section:03ded9de2bce6435961f851f — Evidence, failures and further work](../records/0138.md#local-section-03ded9de2bce6435961f851f-e921817e5d)
 - [local-section:0409bef3c7a87643553801ce — D48: accept signed block transport and fixed-source pole preservation](../records/0138.md#local-section-0409bef3c7a87643553801ce-fa41babf77)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10567 matching records.
+Page 39/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
 [Next](status-unknown-b23a6a8439-40.md)
 
+- [local-section:fa8131d2c6f297e3e8321f40 — 6. Verification, limits and handoff](../records/0169.md#local-section-fa8131d2c6f297e3e8321f40-5292b396e3)
 - [local-section:fa8a9821c401171d61db0712 — 6. The other three selected tests](../records/0169.md#local-section-fa8a9821c401171d61db0712-e5c9835001)
 - [local-section:fab4f807b95b813232046002 — F01. Multiscale Möbius decomposition and signed block control](../records/0169.md#local-section-fab4f807b95b813232046002-1ece3d3c92)
 - [local-section:fac2368a2ac0dcab361bf7f1 — 4. The global reflection does not shorten the columns](../records/0169.md#local-section-fac2368a2ac0dcab361bf7f1-1ab78169e0)
@@ -35,8 +36,8 @@ Page 39/43; 10567 matching records.
 - [local-section:fcb06517352dcd637563e2f2 — Exact numerical transfers and an off-central version](../records/0169.md#local-section-fcb06517352dcd637563e2f2-cf2f56d4ad)
 - [local-section:fcbfa837cee2fa7f04834c31 — 3. Literal valuations, both signs and the unbounded certificate](../records/0169.md#local-section-fcbfa837cee2fa7f04834c31-246395c66a)
 - [local-section:fcc7fb8c4d40ce365a454f8c — 10. Evidence and operational limits](../records/0169.md#local-section-fcc7fb8c4d40ce365a454f8c-51982c90e2)
-- [local-section:fcda35be4a3d92747f637c12 — W36: a paid aggregate-overlap sector and scoped failures](../records/0169.md#local-section-fcda35be4a3d92747f637c12-b72ad11113)
-- [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0169.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
+- [local-section:fcda35be4a3d92747f637c12 — W36: a paid aggregate-overlap sector and scoped failures](../records/0170.md#local-section-fcda35be4a3d92747f637c12-b72ad11113)
+- [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0170.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
 - [local-section:fce5e3d67a5da77d6d4c5658 — 3. A complete constant-cut core](../records/0170.md#local-section-fce5e3d67a5da77d6d4c5658-73681d3051)
 - [local-section:fd06c1cbcc2b8bf13cb56a92 — 3. Exact moving cuts and the small-source estimate](../records/0170.md#local-section-fd06c1cbcc2b8bf13cb56a92-a657fa0342)
 - [local-section:fd3eb11e06ee97827ad2e676 — Exact result to prepare](../records/0170.md#local-section-fd3eb11e06ee97827ad2e676-1604dc9f46)
@@ -72,7 +73,7 @@ Page 39/43; 10567 matching records.
 - [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
 - [local:F08 — F08. Weighted fractional parts and modular residues](../records/0170.md#local-f08-1cd15be4b1)
 - [local:F09 — F09. Adaptive exceptional-mode vector probes](../records/0170.md#local-f09-82b521a74d)
-- [local:F10 — F10. Full signed asymptotic and changed transfer](../records/0170.md#local-f10-78df4c18b8)
+- [local:F10 — F10. Full signed asymptotic and changed transfer](../records/0171.md#local-f10-78df4c18b8)
 - [local:F11 — F11. Paired compensators and cross-Gram interference](../records/0171.md#local-f11-1fe192e6da)
 - [local:F12 — F12. Correlated moving-prime amplification](../records/0171.md#local-f12-b67c4de618)
 - [local:F13 — F13. Quadratic–cubic column-only hybrids](../records/0171.md#local-f13-18a9525da6)
@@ -109,7 +110,7 @@ Page 39/43; 10567 matching records.
 - [local:G118 — 3. G118: finite-prefix and all-layer audits](../records/0171.md#local-g118-50557224bc)
 - [local:G121 — G121. Exact threshold rank and the complete signed rectangle return](../records/0171.md#local-g121-1e67089380)
 - [local:G123 — G123. Complete relative mass and full-hole Poisson](../records/0171.md#local-g123-25009c8d8f)
-- [local:G126 — G126. Exact whole-shell bank with two branches paid](../records/0171.md#local-g126-b3c601af4a)
+- [local:G126 — G126. Exact whole-shell bank with two branches paid](../records/0172.md#local-g126-b3c601af4a)
 - [local:G127 — G127. Energy, absolute price and point observation](../records/0172.md#local-g127-6723c2d7bd)
 - [local:G128 — G128. Source, prediction and an exact zero census](../records/0172.md#local-g128-b9b933b7d4)
 - [local:G129 — G129. Actual divisor Bellman identity and a scoped price](../records/0172.md#local-g129-eebc3d9b57)
@@ -183,8 +184,8 @@ Page 39/43; 10567 matching records.
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0172.md#local-g218-72ef21b6b0)
 - [local:G220 — G220. Complete finite covariance and the limiting-bank alternative](../records/0172.md#local-g220-ffb41daae7)
 - [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0172.md#local-g222-849aadba5c)
-- [local:G224 — G224. Exact chirp and paired-character audits, with reconstruction paid](../records/0172.md#local-g224-98c6aaf7a2)
-- [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0172.md#local-g225-8fc7b83906)
+- [local:G224 — G224. Exact chirp and paired-character audits, with reconstruction paid](../records/0173.md#local-g224-98c6aaf7a2)
+- [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0173.md#local-g225-8fc7b83906)
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0173.md#local-g227-4fd8db96d9)
 - [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0173.md#local-g229-8b209e3b2b)
 - [local:G253 — G253. Gaussian density with local laws preserves ambient inverse sharpness](../records/0173.md#local-g253-8f2fb2f1d9)
@@ -208,8 +209,8 @@ Page 39/43; 10567 matching records.
 - [local:G73 — \[research revision\] attempt delta (G73)](../records/0173.md#local-g73-076e11ffdb)
 - [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0173.md#local-g74-c3716b767a)
 - [local:G75 — G75. The native H operator must retain phases and the full Gram sum](../records/0173.md#local-g75-1359afa204)
-- [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0173.md#local-g76-089f3bed55)
-- [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0173.md#local-g77-f75acc7bc5)
+- [local:G76 — G76. Exact first-eligible-prime matching, with a uniform critical bill](../records/0174.md#local-g76-089f3bed55)
+- [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0174.md#local-g77-f75acc7bc5)
 - [local:G78 — G78. Uniform depth and the full physical tail](../records/0174.md#local-g78-9d1a1f7ec0)
 - [local:G79 — G79. Exact drift and normalized Ward defects](../records/0174.md#local-g79-99600dfe1a)
 - [local:G80 — G80. Sharp exterior certificate, with the actual H contract](../records/0174.md#local-g80-5d9f92de8e)
@@ -257,4 +258,3 @@ Page 39/43; 10567 matching records.
 - [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0174.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
 - [pr26:Analytic.ActualFirstErrorIdentity — Analytic.ActualFirstErrorIdentity](../records/0174.md#pr26-analytic-actualfirsterroridentity-9a72eb2003)
 - [pr26:Analytic.ActualFirstErrorSource — Analytic.ActualFirstErrorSource](../records/0174.md#pr26-analytic-actualfirsterrorsource-f7af7f8a0c)
-- [pr26:Analytic.ActualFirstExtractedErrors — Analytic.ActualFirstExtractedErrors](../records/0175.md#pr26-analytic-actualfirstextractederrors-da69dc8577)

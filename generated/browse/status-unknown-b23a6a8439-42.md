@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 42/43; 10567 matching records.
+Page 42/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-41.md)
 
 [Next](status-unknown-b23a6a8439-43.md)
 
+- [pr26:Cycle25.Energy.ReferenceRobustDeletedEnergy — Cycle25.Energy.ReferenceRobustDeletedEnergy](../records/0200.md#pr26-cycle25-energy-referencerobustdeletedenergy-c0ef887f56)
 - [pr26:Cycle25.Energy.ReferenceRobustOriginal — Cycle25.Energy.ReferenceRobustOriginal](../records/0200.md#pr26-cycle25-energy-referencerobustoriginal-12bf9e8031)
 - [pr26:Cycle25.Energy.ReferenceRobustPower — Cycle25.Energy.ReferenceRobustPower](../records/0200.md#pr26-cycle25-energy-referencerobustpower-551d13eb73)
 - [pr26:Cycle25.Energy.ReferenceState — Cycle25.Energy.ReferenceState](../records/0200.md#pr26-cycle25-energy-referencestate-87170cd2fb)
@@ -72,7 +73,7 @@ Page 42/43; 10567 matching records.
 - [pr26:Cycle25.Numerator.Scalar.Exponent — Cycle25.Numerator.Scalar.Exponent](../records/0205.md#pr26-cycle25-numerator-scalar-exponent-4898006baf)
 - [pr26:Cycle25.Numerator.Scalar.SourceLoss — Cycle25.Numerator.Scalar.SourceLoss](../records/0205.md#pr26-cycle25-numerator-scalar-sourceloss-13537c5c1f)
 - [pr26:Cycle25.Numerator.SlotSelection — Cycle25.Numerator.SlotSelection](../records/0205.md#pr26-cycle25-numerator-slotselection-5e853d4836)
-- [pr26:Cycle25.Numerator.SourceParameters — Cycle25.Numerator.SourceParameters](../records/0205.md#pr26-cycle25-numerator-sourceparameters-eb8157edc3)
+- [pr26:Cycle25.Numerator.SourceParameters — Cycle25.Numerator.SourceParameters](../records/0206.md#pr26-cycle25-numerator-sourceparameters-eb8157edc3)
 - [pr26:Cycle25.Numerator.SourcePrimeBins — Cycle25.Numerator.SourcePrimeBins](../records/0206.md#pr26-cycle25-numerator-sourceprimebins-ddee0b1f1c)
 - [pr26:Cycle25.Numerator.SourceSZBound — Cycle25.Numerator.SourceSZBound](../records/0206.md#pr26-cycle25-numerator-sourceszbound-164a74e170)
 - [pr26:Cycle25.Numerator.SourceScalar — Cycle25.Numerator.SourceScalar](../records/0206.md#pr26-cycle25-numerator-sourcescalar-547088bbc7)
@@ -84,8 +85,8 @@ Page 42/43; 10567 matching records.
 - [pr26:Global.Detector.Mesh — Global.Detector.Mesh](../records/0206.md#pr26-global-detector-mesh-119719d5bb)
 - [pr26:Global.Detector.WeightedSourceCount — Global.Detector.WeightedSourceCount](../records/0206.md#pr26-global-detector-weightedsourcecount-9ce3634c94)
 - [pr26:Global.Detector.WeightedSourceMaskedCount — Global.Detector.WeightedSourceMaskedCount](../records/0206.md#pr26-global-detector-weightedsourcemaskedcount-392be62e62)
-- [pr26:Global.Endpoint — Global.Endpoint](../records/0206.md#pr26-global-endpoint-d76f8d31a5)
-- [pr26:Global.Endpoint::beta_le_theta@485 — beta_le_theta](../records/0206.md#pr26-global-endpoint-beta-le-theta-485-04ac651cb5)
+- [pr26:Global.Endpoint — Global.Endpoint](../records/0207.md#pr26-global-endpoint-d76f8d31a5)
+- [pr26:Global.Endpoint::beta_le_theta@485 — beta_le_theta](../records/0207.md#pr26-global-endpoint-beta-le-theta-485-04ac651cb5)
 - [pr26:Global.Endpoint::dirichlet_nonzero@494 — dirichlet_nonzero](../records/0207.md#pr26-global-endpoint-dirichlet-nonzero-494-0ad4673c49)
 - [pr26:Global.Final.Baseline — Global.Final.Baseline](../records/0207.md#pr26-global-final-baseline-525e3b0453)
 - [pr26:Global.Final.CommonProbe — Global.Final.CommonProbe](../records/0207.md#pr26-global-final-commonprobe-8ae5dcb372)
@@ -111,7 +112,7 @@ Page 42/43; 10567 matching records.
 - [pr26:Global.Low.Detector.LowNormalized — Global.Low.Detector.LowNormalized](../records/0207.md#pr26-global-low-detector-lownormalized-13e2232d99)
 - [pr26:Global.Low.Detector.LowOriginalPools — Global.Low.Detector.LowOriginalPools](../records/0207.md#pr26-global-low-detector-loworiginalpools-cf741e62d8)
 - [pr26:Global.Low.Detector.LowPhysicalInverseBound — Global.Low.Detector.LowPhysicalInverseBound](../records/0207.md#pr26-global-low-detector-lowphysicalinversebound-74d0de5244)
-- [pr26:Global.Low.Detector.LowReflectedLength — Global.Low.Detector.LowReflectedLength](../records/0207.md#pr26-global-low-detector-lowreflectedlength-c0abc60600)
+- [pr26:Global.Low.Detector.LowReflectedLength — Global.Low.Detector.LowReflectedLength](../records/0208.md#pr26-global-low-detector-lowreflectedlength-c0abc60600)
 - [pr26:Global.Low.Detector.LowRemoteMass — Global.Low.Detector.LowRemoteMass](../records/0208.md#pr26-global-low-detector-lowremotemass-a7d5d0e31e)
 - [pr26:Global.Low.Detector.LowSelectedBound — Global.Low.Detector.LowSelectedBound](../records/0208.md#pr26-global-low-detector-lowselectedbound-212932768b)
 - [pr26:Global.Low.Detector.LowSlotScales — Global.Low.Detector.LowSlotScales](../records/0208.md#pr26-global-low-detector-lowslotscales-beb05eedd6)
@@ -185,7 +186,7 @@ Page 42/43; 10567 matching records.
 - [pr26:Global.Transport.CubeFloorSaving — Global.Transport.CubeFloorSaving](../records/0210.md#pr26-global-transport-cubefloorsaving-4d48fddba9)
 - [pr26:Global.Transport.CubeFullWNormalized — Global.Transport.CubeFullWNormalized](../records/0210.md#pr26-global-transport-cubefullwnormalized-e071176eb7)
 - [pr26:Global.Transport.CubeFullWTransfer — Global.Transport.CubeFullWTransfer](../records/0210.md#pr26-global-transport-cubefullwtransfer-3ff4021d43)
-- [pr26:Global.Transport.CubeSlotExponent — Global.Transport.CubeSlotExponent](../records/0210.md#pr26-global-transport-cubeslotexponent-179ffc3f0d)
+- [pr26:Global.Transport.CubeSlotExponent — Global.Transport.CubeSlotExponent](../records/0211.md#pr26-global-transport-cubeslotexponent-179ffc3f0d)
 - [pr26:Global.Transport.EasyExponent — Global.Transport.EasyExponent](../records/0211.md#pr26-global-transport-easyexponent-9d1b9f3547)
 - [pr26:Global.Transport.FloorExponent — Global.Transport.FloorExponent](../records/0211.md#pr26-global-transport-floorexponent-f8af18592f)
 - [pr26:Global.Transport.FullWFiniteError — Global.Transport.FullWFiniteError](../records/0211.md#pr26-global-transport-fullwfiniteerror-9236c08fc1)
@@ -223,7 +224,7 @@ Page 42/43; 10567 matching records.
 - [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0213.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
 - [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0213.md#pr26-global-transport-tailscales-92c528c07f)
 - [pr26:Global.Weighted.CellGeometry — Global.Weighted.CellGeometry](../records/0213.md#pr26-global-weighted-cellgeometry-f510f267cc)
-- [pr26:Global.Weighted.FullWCellInput — Global.Weighted.FullWCellInput](../records/0213.md#pr26-global-weighted-fullwcellinput-d66a0e175a)
+- [pr26:Global.Weighted.FullWCellInput — Global.Weighted.FullWCellInput](../records/0214.md#pr26-global-weighted-fullwcellinput-d66a0e175a)
 - [pr26:Global.Weighted.Input — Global.Weighted.Input](../records/0214.md#pr26-global-weighted-input-285ce29193)
 - [pr26:Global.Weighted.RawCells — Global.Weighted.RawCells](../records/0214.md#pr26-global-weighted-rawcells-1300ef5554)
 - [pr26:Global.Weighted.SourceFinish — Global.Weighted.SourceFinish](../records/0214.md#pr26-global-weighted-sourcefinish-2fedcc0055)
@@ -257,4 +258,3 @@ Page 42/43; 10567 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence — OAI.NumberTheory.DirichletL.Energy.CertifiedExistence](../records/0215.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-f682546246)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)

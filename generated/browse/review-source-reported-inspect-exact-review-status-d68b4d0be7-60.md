@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 60/71; 17513 matching records.
+Page 60/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-59.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-61.md)
 
+- [pr26:Analytic.JointSecondAllocated::live_projected_supported_sum@374 — live_projected_supported_sum](../records/0190.md#pr26-analytic-jointsecondallocated-live-projected-supported-sum-3-392351900f)
+- [pr26:Analytic.JointSecondAllocated::original_projected_live_column@317 — original_projected_live_column](../records/0190.md#pr26-analytic-jointsecondallocated-original-projected-live-column-108f278f8d)
 - [pr26:Analytic.JointSecondAllocated::original_second_child_eq_rectangles@420 — original_second_child_eq_rectangles](../records/0190.md#pr26-analytic-jointsecondallocated-original-second-child-eq-recta-ab82133a42)
 - [pr26:Analytic.JointSecondAllocated::original_second_child_normalized@627 — original_second_child_normalized](../records/0190.md#pr26-analytic-jointsecondallocated-original-second-child-normaliz-8dcf17467f)
 - [pr26:Analytic.JointSecondAllocated::original_second_child_normalized_at@585 — original_second_child_normalized_at](../records/0190.md#pr26-analytic-jointsecondallocated-original-second-child-normaliz-63f4432d11)
@@ -37,8 +39,8 @@ Page 60/71; 17513 matching records.
 - [pr26:Analytic.JointSecondBlock::commonSecondColumns@566 — commonSecondColumns](../records/0190.md#pr26-analytic-jointsecondblock-commonsecondcolumns-566-09af945de5)
 - [pr26:Analytic.JointSecondBlock::commonSecond_source_norm_cap@574 — commonSecond_source_norm_cap](../records/0190.md#pr26-analytic-jointsecondblock-commonsecond-source-norm-cap-574-4dd2dfc2a3)
 - [pr26:Analytic.JointSecondBlock::enlarged_second_precount_factor@915 — enlarged_second_precount_factor](../records/0190.md#pr26-analytic-jointsecondblock-enlarged-second-precount-factor-91-da82e1df6c)
-- [pr26:Analytic.JointSecondBlock::enlarged_second_precount_log@896 — enlarged_second_precount_log](../records/0190.md#pr26-analytic-jointsecondblock-enlarged-second-precount-log-896-c30ed98c88)
-- [pr26:Analytic.JointSecondBlock::joint_commonEnergy_second_blocks@815 — joint_commonEnergy_second_blocks](../records/0190.md#pr26-analytic-jointsecondblock-joint-commonenergy-second-blocks-8-fcfca96504)
+- [pr26:Analytic.JointSecondBlock::enlarged_second_precount_log@896 — enlarged_second_precount_log](../records/0191.md#pr26-analytic-jointsecondblock-enlarged-second-precount-log-896-c30ed98c88)
+- [pr26:Analytic.JointSecondBlock::joint_commonEnergy_second_blocks@815 — joint_commonEnergy_second_blocks](../records/0191.md#pr26-analytic-jointsecondblock-joint-commonenergy-second-blocks-8-fcfca96504)
 - [pr26:Analytic.JointSecondBlock::joint_normalizedBlock_eq_actual_children@714 — joint_normalizedBlock_eq_actual_children](../records/0191.md#pr26-analytic-jointsecondblock-joint-normalizedblock-eq-actual-ch-f710790e30)
 - [pr26:Analytic.JointSecondBlock::normalizedBlock_eq_actual_children@702 — normalizedBlock_eq_actual_children](../records/0191.md#pr26-analytic-jointsecondblock-normalizedblock-eq-actual-children-1397980f34)
 - [pr26:Analytic.JointSecondBlock::secondBlockChildCoefficient@652 — secondBlockChildCoefficient](../records/0191.md#pr26-analytic-jointsecondblock-secondblockchildcoefficient-652-84530d84e4)
@@ -137,8 +139,8 @@ Page 60/71; 17513 matching records.
 - [pr26:Analytic.JointSecondLowTransport::actual_second_family_deleted_natural_rows@146 — actual_second_family_deleted_natural_rows](../records/0191.md#pr26-analytic-jointsecondlowtransport-actual-second-family-delete-1d52653ad8)
 - [pr26:Analytic.JointSecondLowTransport::actual_second_family_masked_row@114 — actual_second_family_masked_row](../records/0191.md#pr26-analytic-jointsecondlowtransport-actual-second-family-masked-eb490405e7)
 - [pr26:Analytic.JointSecondLowTransport::actual_second_side_deleted_dictionary@221 — actual_second_side_deleted_dictionary](../records/0191.md#pr26-analytic-jointsecondlowtransport-actual-second-side-deleted--f61529b02f)
-- [pr26:Analytic.JointSecondLowTransport::firstSideCanceled@202 — firstSideCanceled](../records/0191.md#pr26-analytic-jointsecondlowtransport-firstsidecanceled-202-8df9f12537)
-- [pr26:Analytic.JointSecondLowTransport::firstSideCharacter@197 — firstSideCharacter](../records/0191.md#pr26-analytic-jointsecondlowtransport-firstsidecharacter-197-b60c7f1555)
+- [pr26:Analytic.JointSecondLowTransport::firstSideCanceled@202 — firstSideCanceled](../records/0192.md#pr26-analytic-jointsecondlowtransport-firstsidecanceled-202-8df9f12537)
+- [pr26:Analytic.JointSecondLowTransport::firstSideCharacter@197 — firstSideCharacter](../records/0192.md#pr26-analytic-jointsecondlowtransport-firstsidecharacter-197-b60c7f1555)
 - [pr26:Analytic.JointSecondLowTransport::firstSideDictionaryUnit@253 — firstSideDictionaryUnit](../records/0192.md#pr26-analytic-jointsecondlowtransport-firstsidedictionaryunit-253-96ec531a5c)
 - [pr26:Analytic.JointSecondLowTransport::secondReconstructedRow@205 — secondReconstructedRow](../records/0192.md#pr26-analytic-jointsecondlowtransport-secondreconstructedrow-205-1c7bd6448d)
 - [pr26:Analytic.JointSecondProjector — Analytic.JointSecondProjector](../records/0192.md#pr26-analytic-jointsecondprojector-084be6349c)
@@ -237,8 +239,8 @@ Page 60/71; 17513 matching records.
 - [pr26:Analytic.JointSourceFinite — Analytic.JointSourceFinite](../records/0192.md#pr26-analytic-jointsourcefinite-4f4634c156)
 - [pr26:Analytic.JointSourceFinite::FirstIndex@991 — FirstIndex](../records/0192.md#pr26-analytic-jointsourcefinite-firstindex-991-510804ab1b)
 - [pr26:Analytic.JointSourceFinite::SecondIndex@992 — SecondIndex](../records/0192.md#pr26-analytic-jointsourcefinite-secondindex-992-97abd1e8b1)
-- [pr26:Analytic.JointSourceFinite::extendData@1051 — extendData](../records/0192.md#pr26-analytic-jointsourcefinite-extenddata-1051-956fe83a4d)
-- [pr26:Analytic.JointSourceFinite::extendData_label@1055 — extendData_label](../records/0192.md#pr26-analytic-jointsourcefinite-extenddata-label-1055-f570c30e81)
+- [pr26:Analytic.JointSourceFinite::extendData@1051 — extendData](../records/0193.md#pr26-analytic-jointsourcefinite-extenddata-1051-956fe83a4d)
+- [pr26:Analytic.JointSourceFinite::extendData_label@1055 — extendData_label](../records/0193.md#pr26-analytic-jointsourcefinite-extenddata-label-1055-f570c30e81)
 - [pr26:Analytic.JointSourceFinite::finiteRows@997 — finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-finiterows-997-6fcde302d3)
 - [pr26:Analytic.JointSourceFinite::mem_finiteRows@1007 — mem_finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-mem-finiterows-1007-4f7c0a84c8)
 - [pr26:Analytic.JointSourceFinite::sum_extendData@1059 — sum_extendData](../records/0193.md#pr26-analytic-jointsourcefinite-sum-extenddata-1059-91af4aeed9)
@@ -256,5 +258,3 @@ Page 60/71; 17513 matching records.
 - [pr26:Analytic.JointSourceLiveRows::liveFrequencyRows_nonzero@590 — liveFrequencyRows_nonzero](../records/0193.md#pr26-analytic-jointsourceliverows-livefrequencyrows-nonzero-590-1bc5fb1c1d)
 - [pr26:Analytic.JointSourceLiveRows::nonzeroRows@544 — nonzeroRows](../records/0193.md#pr26-analytic-jointsourceliverows-nonzerorows-544-f92e7392cf)
 - [pr26:Analytic.JointSourceLiveRows::nonzeroRows_label_image@558 — nonzeroRows_label_image](../records/0193.md#pr26-analytic-jointsourceliverows-nonzerorows-label-image-558-ec3b6fb541)
-- [pr26:Analytic.JointSourceLiveRows::sum_nonzeroRows@548 — sum_nonzeroRows](../records/0193.md#pr26-analytic-jointsourceliverows-sum-nonzerorows-548-61d76a630f)
-- [pr26:Analytic.JointSourceLowerSupport — Analytic.JointSourceLowerSupport](../records/0193.md#pr26-analytic-jointsourcelowersupport-a20a0c0ffe)

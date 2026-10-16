@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1067 matching records.
+Page 1/5; 1068 matching records.
 
 [Next](method-mellin-093bcdf279-02.md)
 
@@ -163,6 +163,7 @@ Page 1/5; 1067 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.PrincipalMellinResidues — OAI.NumberTheory.DirichletL.PrincipalMellinResidues](../records/0124.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-principalmellinresi-2f61dbd00f)
 - [QRH-CONT-EXT014-GROK — Grok external rough-source equivalence audit](../records/0130.md#qrh-cont-ext014-grok-f934ab4bd3)
 - [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)
+- [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
@@ -178,8 +179,8 @@ Page 1/5; 1067 matching records.
 - [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0137.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0137.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0137.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
-- [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0137.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
-- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0137.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
+- [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
+- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0138.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
 - [local-section:0409bef3c7a87643553801ce — D48: accept signed block transport and fixed-source pole preservation](../records/0138.md#local-section-0409bef3c7a87643553801ce-fa41babf77)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
 - [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
@@ -227,7 +228,7 @@ Page 1/5; 1067 matching records.
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0139.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0139.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
 - [local-section:13ef8507f522dfa9043aafaf — 3.3 Complete physical-shell restoration](../records/0139.md#local-section-13ef8507f522dfa9043aafaf-c711a9aaea)
-- [local-section:145de2caaa57e97fe637df4f — HC7. Weak sufficient estimate, all-height return and prospective ceilings](../records/0139.md#local-section-145de2caaa57e97fe637df4f-fe05f63d23)
+- [local-section:145de2caaa57e97fe637df4f — HC7. Weak sufficient estimate, all-height return and prospective ceilings](../records/0140.md#local-section-145de2caaa57e97fe637df4f-fe05f63d23)
 - [local-section:148809b5e80ff66019a73887 — 2. Exact Euler multiplier, inverse, and all-height return](../records/0140.md#local-section-148809b5e80ff66019a73887-8a2d806f39)
 - [local-section:149c84564a03cd06d3ee04f2 — \[research revision\]: merged integration and new arithmetic reductions](../records/0140.md#local-section-149c84564a03cd06d3ee04f2-64a140e3f0)
 - [local-section:1511c22742fbf0b393529c47 — \[research revision\] independent review: growing-order balanced completion and its exact arithmetic target](../records/0140.md#local-section-1511c22742fbf0b393529c47-fdef8d364f)
@@ -255,4 +256,3 @@ Page 1/5; 1067 matching records.
 - [local-section:1e3fe69fe380ddbd89af8fa2 — \[research revision\]: the quartic boundary object is partly defined](../records/0141.md#local-section-1e3fe69fe380ddbd89af8fa2-638ff29542)
 - [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0141.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)
 - [local-section:1f0410205e242a45f0391c9d — 7. Additional bounded consequences](../records/0141.md#local-section-1f0410205e242a45f0391c9d-f624bb8f7a)
-- [local-section:201fc0277da5ab3da3be2d73 — The same window energy supports a higher-order return](../records/0141.md#local-section-201fc0277da5ab3da3be2d73-7c5b1ef31a)

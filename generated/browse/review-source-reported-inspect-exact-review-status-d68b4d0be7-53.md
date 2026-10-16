@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/71; 17513 matching records.
+Page 53/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
@@ -30,6 +30,8 @@ Page 53/71; 17513 matching records.
 - [QRH-CONT-M016-CENTERED-RENEWAL — Exact centered Selberg renewal and two-moment norm divergence](../records/0131.md#qrh-cont-m016-centered-renewal-bb4db03fd5)
 - [QRH-CONT-M016-FACTORIZATION — All-order factorization and its coefficientwise majorant pole](../records/0131.md#qrh-cont-m016-factorization-cffcd9b9d3)
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
+- [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
+- [QRH-CONT-M017-MOBIUS-TAIL — Complete long-Mobius-factor reduction with a negligible smooth-lattice remainder](../records/0131.md#qrh-cont-m017-mobius-tail-d4fbc01e2c)
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0170.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0170.md#local-a02-e20ad4bdfd)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0170.md#local-a03-9e9a3d45e7)
@@ -187,8 +189,8 @@ Page 53/71; 17513 matching records.
 - [pr26:Analytic.ActualFirstErrorIdentity::value@174 — value](../records/0174.md#pr26-analytic-actualfirsterroridentity-value-174-80e335641b)
 - [pr26:Analytic.ActualFirstErrorIdentity::value_nonneg@182 — value_nonneg](../records/0174.md#pr26-analytic-actualfirsterroridentity-value-nonneg-182-d226bbacf2)
 - [pr26:Analytic.ActualFirstErrorSource — Analytic.ActualFirstErrorSource](../records/0174.md#pr26-analytic-actualfirsterrorsource-f7af7f8a0c)
-- [pr26:Analytic.ActualFirstErrorSource::SourceAdmissible@619 — SourceAdmissible](../records/0174.md#pr26-analytic-actualfirsterrorsource-sourceadmissible-619-61bc439f75)
-- [pr26:Analytic.ActualFirstErrorSource::actual_first_extracted_error_source_sum@640 — actual_first_extracted_error_source_sum](../records/0174.md#pr26-analytic-actualfirsterrorsource-actual-first-extracted-error-bbabbaac9c)
+- [pr26:Analytic.ActualFirstErrorSource::SourceAdmissible@619 — SourceAdmissible](../records/0175.md#pr26-analytic-actualfirsterrorsource-sourceadmissible-619-61bc439f75)
+- [pr26:Analytic.ActualFirstErrorSource::actual_first_extracted_error_source_sum@640 — actual_first_extracted_error_source_sum](../records/0175.md#pr26-analytic-actualfirsterrorsource-actual-first-extracted-error-bbabbaac9c)
 - [pr26:Analytic.ActualFirstExtractedErrors — Analytic.ActualFirstExtractedErrors](../records/0175.md#pr26-analytic-actualfirstextractederrors-da69dc8577)
 - [pr26:Analytic.ActualFirstExtractedErrors::Admissible@883 — Admissible](../records/0175.md#pr26-analytic-actualfirstextractederrors-admissible-883-2998f094c2)
 - [pr26:Analytic.ActualFirstExtractedErrors::ExtractedErrorRun@863 — ExtractedErrorRun](../records/0175.md#pr26-analytic-actualfirstextractederrors-extractederrorrun-863-cb072a75d5)
@@ -256,5 +258,3 @@ Page 53/71; 17513 matching records.
 - [pr26:Analytic.BufferedPartition::zeroMaximum_le_seven_eighths@554 — zeroMaximum_le_seven_eighths](../records/0175.md#pr26-analytic-bufferedpartition-zeromaximum-le-seven-eighths-554-5bba3537b2)
 - [pr26:Analytic.BufferedPlain — Analytic.BufferedPlain](../records/0175.md#pr26-analytic-bufferedplain-e59be52d50)
 - [pr26:Analytic.BufferedPlain::natural_plain_buffered_bound@56 — natural_plain_buffered_bound](../records/0175.md#pr26-analytic-bufferedplain-natural-plain-buffered-bound-56-1f4c5f9009)
-- [pr26:Analytic.BufferedPlain::natural_plain_family_nonprincipal@42 — natural_plain_family_nonprincipal](../records/0175.md#pr26-analytic-bufferedplain-natural-plain-family-nonprincipal-42-d0b29fc27c)
-- [pr26:Analytic.BufferedProduct — Analytic.BufferedProduct](../records/0175.md#pr26-analytic-bufferedproduct-2569adf22a)

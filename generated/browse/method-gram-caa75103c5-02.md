@@ -2,16 +2,17 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 2/5; 1034 matching records.
+Page 2/5; 1035 matching records.
 
 [Previous](method-gram-caa75103c5-01.md)
 
 [Next](method-gram-caa75103c5-03.md)
 
+- [local-section:1ad8f2b0b1a9b894c059b797 — 1. Exact sources and input contract](../records/0140.md#local-section-1ad8f2b0b1a9b894c059b797-e45e9eb796)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0140.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
 - [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0140.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
 - [local-section:1bdfe53cd71518fe8898060d — \[research revision\]: adaptive conductor exclusion and an arbitrary-graph transport adapter for native H](../records/0140.md#local-section-1bdfe53cd71518fe8898060d-af87a211fc)
-- [local-section:1bf9191234ba9671e6b37a3a — 6. What is actually paid; the unit and low-gcd complement](../records/0140.md#local-section-1bf9191234ba9671e6b37a3a-b8e98411db)
+- [local-section:1bf9191234ba9671e6b37a3a — 6. What is actually paid; the unit and low-gcd complement](../records/0141.md#local-section-1bf9191234ba9671e6b37a3a-b8e98411db)
 - [local-section:1cb76ddeb165bbea4bbff611 — 5. Prior SU(2) use and useful next action](../records/0141.md#local-section-1cb76ddeb165bbea4bbff611-f7b8c1433a)
 - [local-section:1cc87511c7eaebcd41b622d1 — 22. Uniform growing-depth restoration and exact simultaneous norms](../records/0141.md#local-section-1cc87511c7eaebcd41b622d1-190035321f)
 - [local-section:1cfd335cb0fa6708c15b4db1 — Signed readouts, paid prime cutoffs and actual positive Gram prices](../records/0141.md#local-section-1cfd335cb0fa6708c15b4db1-e0609bdb72)
@@ -40,7 +41,7 @@ Page 2/5; 1034 matching records.
 - [local-section:23b98763ff7d93f6a876cae0 — Quaternion norm applied to the complete Jordan source](../records/0141.md#local-section-23b98763ff7d93f6a876cae0-b5d89f2b62)
 - [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0141.md#local-section-23eff95a515b438b71738534-fbea372025)
 - [local-section:243bb4380f1c3f9fec04539d — F17.T — Corrected Gemini trace-function descendant](../records/0141.md#local-section-243bb4380f1c3f9fec04539d-09835dc4e8)
-- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0141.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
+- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0142.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
 - [local-section:24de66a554de14d7595e796e — 9. Evidence, calibration and acceptance boundary](../records/0142.md#local-section-24de66a554de14d7595e796e-b8829896f2)
 - [local-section:252d6d45d879f556871b51cc — F01. Multiscale Möbius decomposition and signed block control](../records/0142.md#local-section-252d6d45d879f556871b51cc-6b1c8a5789)
 - [local-section:2579b57d8c0bec7575a50506 — 11. Evidence and handoff](../records/0142.md#local-section-2579b57d8c0bec7575a50506-cf9142ac17)
@@ -218,7 +219,7 @@ Page 2/5; 1034 matching records.
 - [local-section:62163623fd0274e1f12dd873 — D22 / S22: accept exact source; retain the gap failure](../records/0149.md#local-section-62163623fd0274e1f12dd873-dc78e65123)
 - [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0149.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
 - [local-section:622587107f14659bdbd8f03d — 2. Development04: full energy bridge and exact fixed-modulus target](../records/0149.md#local-section-622587107f14659bdbd8f03d-7b0e870c4f)
-- [local-section:625f3405844068172da269b1 — Frozen selection intent](../records/0149.md#local-section-625f3405844068172da269b1-06b9eb29d2)
+- [local-section:625f3405844068172da269b1 — Frozen selection intent](../records/0150.md#local-section-625f3405844068172da269b1-06b9eb29d2)
 - [local-section:63da732cb898822ca8049aac — \[research revision\] independent review: literal f3 Gaussian rough-depth renewal](../records/0150.md#local-section-63da732cb898822ca8049aac-c84d48b233)
 - [local-section:63e881f0fd59cf94750dc927 — W43: exact reciprocal amplification limits and finite Gaussian source compression](../records/0150.md#local-section-63e881f0fd59cf94750dc927-924683eac6)
 - [local-section:6419eb901ad00fc4ca5b64a6 — \[research revision\]: actual density-range extension and a complete .125139 candidate](../records/0150.md#local-section-6419eb901ad00fc4ca5b64a6-c350a1f6ee)
@@ -238,7 +239,7 @@ Page 2/5; 1034 matching records.
 - [local-section:687096acc98d6a5a8e4d4097 — 3.5 Complete shell Gram and damping](../records/0150.md#local-section-687096acc98d6a5a8e4d4097-ea8f83aae5)
 - [local-section:68c7c5d7e152382c27e30b9c — 9. Strongest surviving objection and next action](../records/0150.md#local-section-68c7c5d7e152382c27e30b9c-05faf3f046)
 - [local-section:69bda3b4d99195a8bc8e3e00 — 4. Why this changes the live source contract](../records/0150.md#local-section-69bda3b4d99195a8bc8e3e00-cf929e67b4)
-- [local-section:69cc7a223e5c7bea364eb7f5 — 3. A concrete simultaneous two-filter detector](../records/0150.md#local-section-69cc7a223e5c7bea364eb7f5-6cbda46d9b)
+- [local-section:69cc7a223e5c7bea364eb7f5 — 3. A concrete simultaneous two-filter detector](../records/0151.md#local-section-69cc7a223e5c7bea364eb7f5-6cbda46d9b)
 - [local-section:6a137f7229683397996809ae — G104. Actual finite character traces and their exact limitation](../records/0151.md#local-section-6a137f7229683397996809ae-a64d3942a1)
 - [local-section:6a4af2ba62429a9968ac7888 — 71. Genuine cofactor signals and their complete price](../records/0151.md#local-section-6a4af2ba62429a9968ac7888-4c226f7c62)
 - [local-section:6a506bf2cbe206aef907099e — \[research revision\]: curved detector and a complete Gauss bank](../records/0151.md#local-section-6a506bf2cbe206aef907099e-e18fdc2d69)
@@ -257,4 +258,3 @@ Page 2/5; 1034 matching records.
 - [local-section:6eeb63758a27bd29cbaa6b58 — 40. Exact prediction criterion with paid character-source tails](../records/0151.md#local-section-6eeb63758a27bd29cbaa6b58-ea3c063631)
 - [local-section:6f2fb2fb616e153dc73ac8f9 — 18. Moving negative norms and actual-source transport](../records/0151.md#local-section-6f2fb2fb616e153dc73ac8f9-57d56b3ba0)
 - [local-section:6f59920d1afe94c8385dac2f — 5. All-card final dispositions](../records/0151.md#local-section-6f59920d1afe94c8385dac2f-abc91afe0c)
-- [local-section:6f6ef0726e04bcdbd16ed966 — 8. The remaining estimate and a sufficient actual mixed moment](../records/0151.md#local-section-6f6ef0726e04bcdbd16ed966-0c63b411dc)

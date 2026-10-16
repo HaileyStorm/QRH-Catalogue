@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 25 matching records.
+Page 1/1; 27 matching records.
 
 - [QRH-CONT-EXT014-GROK — Grok external rough-source equivalence audit](../records/0130.md#qrh-cont-ext014-grok-f934ab4bd3)
 - [QRH-CONT-EXT014-INVERSE-LOG — Inverse-log finite differences: paid tail, retained reciprocal cross](../records/0130.md#qrh-cont-ext014-inverse-log-cf5e01039f)
@@ -29,3 +29,5 @@ Page 1/1; 25 matching records.
 - [QRH-CONT-M016-CENTERED-RENEWAL — Exact centered Selberg renewal and two-moment norm divergence](../records/0131.md#qrh-cont-m016-centered-renewal-bb4db03fd5)
 - [QRH-CONT-M016-FACTORIZATION — All-order factorization and its coefficientwise majorant pole](../records/0131.md#qrh-cont-m016-factorization-cffcd9b9d3)
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
+- [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
+- [QRH-CONT-M017-MOBIUS-TAIL — Complete long-Mobius-factor reduction with a negligible smooth-lattice remainder](../records/0131.md#qrh-cont-m017-mobius-tail-d4fbc01e2c)

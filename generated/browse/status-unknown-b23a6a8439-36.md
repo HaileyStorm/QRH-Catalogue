@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 36/43; 10567 matching records.
+Page 36/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-35.md)
 
 [Next](status-unknown-b23a6a8439-37.md)
 
+- [local-section:b775ef32464908daf0f9b4c6 — 4. Independent full-lattice projection calculation](../records/0161.md#local-section-b775ef32464908daf0f9b4c6-3c581b9cfb)
 - [local-section:b77d1aa053c0a244818a5b4c — A.2 Fixed-depth exponent and what it actually rules out](../records/0161.md#local-section-b77d1aa053c0a244818a5b4c-46103de659)
 - [local-section:b7a390ad35c9d25259f5a05e — 7. All-card disposition and validation](../records/0161.md#local-section-b7a390ad35c9d25259f5a05e-b971bb2f95)
 - [local-section:b7c26181e42905a84f99f82f — 5. Independent root and label calculation; literal core caps](../records/0161.md#local-section-b7c26181e42905a84f99f82f-86306477bf)
@@ -92,7 +93,7 @@ Page 36/43; 10567 matching records.
 - [local-section:be7d5042002b5d1cb8fa91ff — 4. Protected audit W58-22: exact native mixed boundary, missing inter-scale transport](../records/0161.md#local-section-be7d5042002b5d1cb8fa91ff-b4c65c3040)
 - [local-section:be8f440847dfb256ffff5b89 — 6. Protected parked audit30: causal Schur elimination and escaping mass](../records/0161.md#local-section-be8f440847dfb256ffff5b89-056f968de8)
 - [local-section:be9f059b270ebe22c9c0855c — Recovery receipt and retained failure history](../records/0161.md#local-section-be9f059b270ebe22c9c0855c-f33b74ce1d)
-- [local-section:bea4f24af36495166b986f8f — 2. Gaussian spectral input and every-interval observation](../records/0161.md#local-section-bea4f24af36495166b986f8f-b8751979aa)
+- [local-section:bea4f24af36495166b986f8f — 2. Gaussian spectral input and every-interval observation](../records/0162.md#local-section-bea4f24af36495166b986f8f-b8751979aa)
 - [local-section:bee4a1d697b36b1050b87627 — 8. Source attribution, evidence and final boundary](../records/0162.md#local-section-bee4a1d697b36b1050b87627-9463293bac)
 - [local-section:bef5f3f59e05bbef4f20d40c — The complete-zero form and the precise unpaid covariance](../records/0162.md#local-section-bef5f3f59e05bbef4f20d40c-41c3dbad26)
 - [local-section:bf27be8a95c9bbd480408b8d — 2. A1–13: independently reconstructing the infinite spectral core](../records/0162.md#local-section-bf27be8a95c9bbd480408b8d-214301d8aa)
@@ -178,7 +179,7 @@ Page 36/43; 10567 matching records.
 - [local-section:c5dc2f5ca8e653cd5026f66c — G96. The complete shrinking-arc return and finite signed core](../records/0162.md#local-section-c5dc2f5ca8e653cd5026f66c-78d8886f8d)
 - [local-section:c609bf347241428ca95e7141 — 57. Four cross-copy gcd sectors in the actual mixed source](../records/0162.md#local-section-c609bf347241428ca95e7141-faf15acb2f)
 - [local-section:c6362fdc6feabff5107ee363 — 3. D2: all prime blocks, all complements](../records/0162.md#local-section-c6362fdc6feabff5107ee363-06e738c8ed)
-- [local-section:c66006252e8a23d9df3a5518 — 2. Exact independent-error norm: exponent1](../records/0162.md#local-section-c66006252e8a23d9df3a5518-ca008ce951)
+- [local-section:c66006252e8a23d9df3a5518 — 2. Exact independent-error norm: exponent1](../records/0163.md#local-section-c66006252e8a23d9df3a5518-ca008ce951)
 - [local-section:c6883bea517977af28e46858 — 5. Failed selected tests28/21, at their precise scopes](../records/0163.md#local-section-c6883bea517977af28e46858-9881ea7a0d)
 - [local-section:c6a63f432ef09d32b861cc33 — \[research revision\] independent review of headroom A](../records/0163.md#local-section-c6a63f432ef09d32b861cc33-a0ba9f74c8)
 - [local-section:c6d557d1d3543b82aa873fd3 — 4. Cross-dyad norm transport and a quantitative field reconstruction](../records/0163.md#local-section-c6d557d1d3543b82aa873fd3-0c96daf950)
@@ -257,4 +258,3 @@ Page 36/43; 10567 matching records.
 - [local-section:ccad7258a80000cc468a2a7e — Other first tests and actual native-H limit](../records/0163.md#local-section-ccad7258a80000cc468a2a7e-d77de3e722)
 - [local-section:ccae01d2b939db4bdc087268 — 2.1 LP_a and the disk chain](../records/0163.md#local-section-ccae01d2b939db4bdc087268-c5ad1c0cd4)
 - [local-section:ccb890d891820eab6bf816db — G203. A signed inner source does not rescue the outer positive budget](../records/0163.md#local-section-ccb890d891820eab6bf816db-6f95cf5e07)
-- [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0163.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)

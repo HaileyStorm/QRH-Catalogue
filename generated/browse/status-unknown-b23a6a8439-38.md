@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 38/43; 10567 matching records.
+Page 38/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-37.md)
 
 [Next](status-unknown-b23a6a8439-39.md)
 
+- [local-section:e406dba5a2430da38807f740 — G2 — uncapped free invention](../records/0166.md#local-section-e406dba5a2430da38807f740-40aaced61f)
 - [local-section:e4179c07fb55d3112c683757 — A uniform coarse price, including moving weights](../records/0166.md#local-section-e4179c07fb55d3112c683757-641454ec82)
 - [local-section:e4362ee4f2278044bbe86af4 — Decision and present checkpoint](../records/0166.md#local-section-e4362ee4f2278044bbe86af4-152aa44d6b)
 - [local-section:e443ed0a58ef16aecc5424f7 — 10. Profiles, two heights, tails and quantifier order](../records/0166.md#local-section-e443ed0a58ef16aecc5424f7-17f46d05fe)
@@ -28,8 +29,8 @@ Page 38/43; 10567 matching records.
 - [local-section:e56a4d175c55fdd0a3fd5d58 — 4A. Paying interactions between all short rows together](../records/0166.md#local-section-e56a4d175c55fdd0a3fd5d58-51eb8ce39e)
 - [local-section:e5832fe7a872304b724b2d4d — B2. Every revealed syndrome has a uniformly paid product law](../records/0166.md#local-section-e5832fe7a872304b724b2d4d-fceec517bc)
 - [local-section:e58bcee37019abea99567bfe — 7. Quartic localization, all amplified tails, and arithmetic return](../records/0166.md#local-section-e58bcee37019abea99567bfe-0f2eeca04b)
-- [local-section:e58be2dfed48734f9d3b7949 — 7. The closed plane, including equality](../records/0166.md#local-section-e58be2dfed48734f9d3b7949-753c5934f8)
-- [local-section:e59625e8ed32be566528d168 — Evidence, usefulness and next action](../records/0166.md#local-section-e59625e8ed32be566528d168-d0f727614f)
+- [local-section:e58be2dfed48734f9d3b7949 — 7. The closed plane, including equality](../records/0167.md#local-section-e58be2dfed48734f9d3b7949-753c5934f8)
+- [local-section:e59625e8ed32be566528d168 — Evidence, usefulness and next action](../records/0167.md#local-section-e59625e8ed32be566528d168-d0f727614f)
 - [local-section:e5a562d921330f56d6f3bfc8 — 3. Final discovery dispositions and outside primary check](../records/0167.md#local-section-e5a562d921330f56d6f3bfc8-878bf5663d)
 - [local-section:e5e6c7e0a360e8b0a36d5a2d — 3. Original plain cap, source scope and fixed-family quantifiers](../records/0167.md#local-section-e5e6c7e0a360e8b0a36d5a2d-3a720ccda5)
 - [local-section:e5eb219e44f60d40553e1601 — 1. Immutable inputs and sampling](../records/0167.md#local-section-e5eb219e44f60d40553e1601-2c9c3b4cfd)
@@ -114,7 +115,7 @@ Page 38/43; 10567 matching records.
 - [local-section:eca772d6dd013c99b053d0d5 — 8. Independent evidence and remaining obligation](../records/0167.md#local-section-eca772d6dd013c99b053d0d5-71fa10cd26)
 - [local-section:ecb8a69ae74d2865d93079f1 — 9. Complete Euler shifts and actual capacities](../records/0167.md#local-section-ecb8a69ae74d2865d93079f1-42487e9336)
 - [local-section:ecc4dbe79198d302005bb122 — 1. Literal primitive cell and its exact contraction](../records/0167.md#local-section-ecc4dbe79198d302005bb122-63d3eca38b)
-- [local-section:ecdf1fe81d6d2fca6ec2e4ca — G191. Complete periodic cofactor estimate for fixed b,k](../records/0167.md#local-section-ecdf1fe81d6d2fca6ec2e4ca-6c4a5d1f47)
+- [local-section:ecdf1fe81d6d2fca6ec2e4ca — G191. Complete periodic cofactor estimate for fixed b,k](../records/0168.md#local-section-ecdf1fe81d6d2fca6ec2e4ca-6c4a5d1f47)
 - [local-section:eceeb52f60d62b7ef7cdf062 — 6. Actual diagonal and absolute price](../records/0168.md#local-section-eceeb52f60d62b7ef7cdf062-b318310c90)
 - [local-section:ed08dc9720080e4c34d196e8 — Protected independent audit30: which commutator survives evaluation?](../records/0168.md#local-section-ed08dc9720080e4c34d196e8-ed79f518b1)
 - [local-section:ed1153caf6dfad097299c81c — Density expansion and the full critical-window profile](../records/0168.md#local-section-ed1153caf6dfad097299c81c-8fb2e78863)
@@ -201,7 +202,7 @@ Page 38/43; 10567 matching records.
 - [local-section:f4c128e6b260fc5237d22456 — 8. Ancestry, limits, and next mathematical action](../records/0168.md#local-section-f4c128e6b260fc5237d22456-bfbcb820a6)
 - [local-section:f4d2e08202fbad5ff66bbf64 — 5. Earlier failures remain correct in their actual scopes](../records/0168.md#local-section-f4d2e08202fbad5ff66bbf64-d585524095)
 - [local-section:f4da81a624985e32cfa1c618 — \[research revision\]: retaining the original plain cap gives c4=.125135](../records/0168.md#local-section-f4da81a624985e32cfa1c618-1d32323501)
-- [local-section:f4f0c16c6a6627299b11e79d — R8. Blind uniform S15: arbitrary Witten weights retain the full twisted bulk](../records/0168.md#local-section-f4f0c16c6a6627299b11e79d-b983978f1b)
+- [local-section:f4f0c16c6a6627299b11e79d — R8. Blind uniform S15: arbitrary Witten weights retain the full twisted bulk](../records/0169.md#local-section-f4f0c16c6a6627299b11e79d-b983978f1b)
 - [local-section:f545a7e296fcb46f5dba504a — 5. Realizability, sharp endpoints, and the signed-profile calculation](../records/0169.md#local-section-f545a7e296fcb46f5dba504a-d4efc60804)
 - [local-section:f55f96a1cb9b84710e79e825 — 4. A two-profile packet cancels one Mellin value, not its full component](../records/0169.md#local-section-f55f96a1cb9b84710e79e825-f2f5689af5)
 - [local-section:f568e27540a1e9a420d6859c — G101. Linear and nonlinear paired transfers](../records/0169.md#local-section-f568e27540a1e9a420d6859c-0b66ad9552)
@@ -257,4 +258,3 @@ Page 38/43; 10567 matching records.
 - [local-section:fa369caa651b5c025d8d8d94 — 4. A single fixed sparse mask with an explicit error](../records/0169.md#local-section-fa369caa651b5c025d8d8d94-a084deb81c)
 - [local-section:fa3802de5523e73832df9372 — 4.1 Signed I/II return through the interval tree](../records/0169.md#local-section-fa3802de5523e73832df9372-4ecce7dda5)
 - [local-section:fa62fc4a35195368b7d07b8e — 1. Frozen evidence and inherited scope](../records/0169.md#local-section-fa62fc4a35195368b7d07b8e-954f13fc24)
-- [local-section:fa8131d2c6f297e3e8321f40 — 6. Verification, limits and handoff](../records/0169.md#local-section-fa8131d2c6f297e3e8321f40-5292b396e3)

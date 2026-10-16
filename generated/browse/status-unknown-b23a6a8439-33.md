@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 33/43; 10567 matching records.
+Page 33/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-32.md)
 
 [Next](status-unknown-b23a6a8439-34.md)
 
+- [local-section:7477decd6ccd3886218a1dea — Blind sequence and sampling](../records/0152.md#local-section-7477decd6ccd3886218a1dea-a928e6ee83)
 - [local-section:74810bb3ec676614c00f82af — Group 1: free invention, no cap](../records/0152.md#local-section-74810bb3ec676614c00f82af-736e5b68b8)
 - [local-section:74aa6dcc0c6a42d62731ae9f — Evidence, timing and selection integrity](../records/0152.md#local-section-74aa6dcc0c6a42d62731ae9f-5fe9af430d)
 - [local-section:74e65bdb57cce4be40ba6fc8 — 1. One fixed smooth test detects every zero in the right half-plane](../records/0152.md#local-section-74e65bdb57cce4be40ba6fc8-63158566a6)
@@ -66,7 +67,7 @@ Page 33/43; 10567 matching records.
 - [local-section:7934ee7c3a9b1cb2e406234c — 2. Literal source and fixed quantifiers](../records/0152.md#local-section-7934ee7c3a9b1cb2e406234c-0fce6e24b1)
 - [local-section:793ed791bbaf3bc29d109a11 — 5. Local squarefree averaging: correct restricted theorem, unpaid extension](../records/0152.md#local-section-793ed791bbaf3bc29d109a11-1de817f9b7)
 - [local-section:795d2452f80ee887cfda771f — R2. Exact block optimum and the actual-source isolation lemma](../records/0152.md#local-section-795d2452f80ee887cfda771f-bd772a61fb)
-- [local-section:7995a72c52e1866847d401df — T09a. One fixed Möbius profile](../records/0152.md#local-section-7995a72c52e1866847d401df-35f6b5c2e4)
+- [local-section:7995a72c52e1866847d401df — T09a. One fixed Möbius profile](../records/0153.md#local-section-7995a72c52e1866847d401df-35f6b5c2e4)
 - [local-section:7996f2454b4a8a2811d4c1e2 — All ten exact first tests](../records/0153.md#local-section-7996f2454b4a8a2811d4c1e2-553b4a634c)
 - [local-section:79a32f3349f78154fe57c510 — 9. Author comparison and final status](../records/0153.md#local-section-79a32f3349f78154fe57c510-27b460a68b)
 - [local-section:79b2c04c6c1a0edc5f131e2d — W40-30 — CRT orthogonal-array detector; p=.008](../records/0153.md#local-section-79b2c04c6c1a0edc5f131e2d-d5d0c2f028)
@@ -144,8 +145,8 @@ Page 33/43; 10567 matching records.
 - [local-section:809227fddb7bb2146424cb5a — 7. Supporting identities, failed shortcut, and novelty](../records/0153.md#local-section-809227fddb7bb2146424cb5a-a8793076f1)
 - [local-section:809ee29973d91732404968c7 — 4. An actual high-frequency complement, with its endpoint retained](../records/0153.md#local-section-809ee29973d91732404968c7-09e6ad6dc3)
 - [local-section:80af4425850bd1179f2629d2 — 5. Protected audit S42: what a scale counterterm actually removes](../records/0153.md#local-section-80af4425850bd1179f2629d2-fce17fe9dd)
-- [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0153.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
-- [local-section:80c1ee5507876876ca0db038 — 3. The other author tests: precise certificate limits](../records/0153.md#local-section-80c1ee5507876876ca0db038-16be9c3b34)
+- [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0154.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
+- [local-section:80c1ee5507876876ca0db038 — 3. The other author tests: precise certificate limits](../records/0154.md#local-section-80c1ee5507876876ca0db038-16be9c3b34)
 - [local-section:80f12332a3f04a9428525762 — 3. Exact long-cut completion, including endpoints](../records/0154.md#local-section-80f12332a3f04a9428525762-c2d66adc8a)
 - [local-section:80fa490cbff8cdc67c1e4be0 — 3.2 Pole, Hilbert-Schmidt and oscillation tests](../records/0154.md#local-section-80fa490cbff8cdc67c1e4be0-0123f5cedc)
 - [local-section:81043dce3bb11070b43ef75d — 4. Forced rows and the all-multiplicity second inequality](../records/0154.md#local-section-81043dce3bb11070b43ef75d-4bd2a31498)
@@ -226,8 +227,8 @@ Page 33/43; 10567 matching records.
 - [local-section:88779e40b84fa7d7a0b8eae9 — 2. The full allocation mask and the new sector theorem](../records/0154.md#local-section-88779e40b84fa7d7a0b8eae9-fc5b6cf843)
 - [local-section:88bf552e64b7863f130dcc10 — R39-D. Quantifiers in W39-A and protected audit E03](../records/0154.md#local-section-88bf552e64b7863f130dcc10-6567734072)
 - [local-section:88d12418650b7c6214778cfa — 6. Verification, limits and handoff](../records/0154.md#local-section-88d12418650b7c6214778cfa-31c3d4ea0b)
-- [local-section:88d6299c9b14cc9d33077143 — 6. Complete endpoint geometry, selection and Euler shifts](../records/0154.md#local-section-88d6299c9b14cc9d33077143-453dfe85d6)
-- [local-section:88e8e209fd73636e762bbb7c — 9. Complete two-height and finite complex Gram return](../records/0154.md#local-section-88e8e209fd73636e762bbb7c-dc52b9260a)
+- [local-section:88d6299c9b14cc9d33077143 — 6. Complete endpoint geometry, selection and Euler shifts](../records/0155.md#local-section-88d6299c9b14cc9d33077143-453dfe85d6)
+- [local-section:88e8e209fd73636e762bbb7c — 9. Complete two-height and finite complex Gram return](../records/0155.md#local-section-88e8e209fd73636e762bbb7c-dc52b9260a)
 - [local-section:8910785060714c43903cc2a9 — HCR12. Baseline-class obstruction, including the first moment](../records/0155.md#local-section-8910785060714c43903cc2a9-dbfac61adc)
 - [local-section:891c3d87c756a9a4feef1aed — 1. Exact source and original obstruction](../records/0155.md#local-section-891c3d87c756a9a4feef1aed-4038970e71)
 - [local-section:8950645bef21603b6d0ca7c9 — \[research revision\]: the same energy supports longer windows](../records/0155.md#local-section-8950645bef21603b6d0ca7c9-9a3f87cc85)
@@ -257,4 +258,3 @@ Page 33/43; 10567 matching records.
 - [local-section:8b185f42603869e0ff0c856e — Provenance and acceptance](../records/0155.md#local-section-8b185f42603869e0ff0c856e-47b9825576)
 - [local-section:8b275ff85e118f3ca87901e2 — 3. An actual arithmetic far-tail theorem and a genuine energy floor](../records/0155.md#local-section-8b275ff85e118f3ca87901e2-da57438856)
 - [local-section:8b38595c0f71aaf14bb13635 — 3. Canonical mathematical claim crosswalk](../records/0155.md#local-section-8b38595c0f71aaf14bb13635-4a3b971d28)
-- [local-section:8b3920a270fb682abb9bcadf — Source anchors and review targets](../records/0155.md#local-section-8b3920a270fb682abb9bcadf-b3a9dd86af)

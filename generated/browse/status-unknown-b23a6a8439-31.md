@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 31/43; 10567 matching records.
+Page 31/43; 10568 matching records.
 
 [Previous](status-unknown-b23a6a8439-30.md)
 
 [Next](status-unknown-b23a6a8439-32.md)
 
+- [local-section:49938bddd79d65143fd119f0 — 2. Frozen sources and evidence](../records/0146.md#local-section-49938bddd79d65143fd119f0-bf9b4edc91)
 - [local-section:499a95ad73bdbf300bbbde24 — 6. Evidence and final acceptance boundary](../records/0146.md#local-section-499a95ad73bdbf300bbbde24-27d11de4fd)
 - [local-section:49ba4c1ff5cc57e681a5628c — 1. The complete ordered sectors and resulting cutoffs](../records/0146.md#local-section-49ba4c1ff5cc57e681a5628c-ba627d53da)
 - [local-section:49bfda9067024f718b9f41dd — \[research revision\] attempt delta: coupled amplifiers and literal threshold laws](../records/0146.md#local-section-49bfda9067024f718b9f41dd-e82d1ba3b5)
@@ -125,7 +126,7 @@ Page 31/43; 10567 matching records.
 - [local-section:52da7d5943985b34535a01cf — Joint affine local moment and complete c5 endpoint](../records/0147.md#local-section-52da7d5943985b34535a01cf-ee7a86f492)
 - [local-section:52e3858b6cf0ea7e5189bb2c — 6. Actual coarse estimate: what still fails](../records/0147.md#local-section-52e3858b6cf0ea7e5189bb2c-fd002c747f)
 - [local-section:52e9f2480615222ec7d36a9d — 5. Development C: complete moving-prime-square mask and equivalence](../records/0147.md#local-section-52e9f2480615222ec7d36a9d-496d66e225)
-- [local-section:52f314830d9018babe778511 — 8. The exact next object to construct](../records/0147.md#local-section-52f314830d9018babe778511-b7093e8c27)
+- [local-section:52f314830d9018babe778511 — 8. The exact next object to construct](../records/0148.md#local-section-52f314830d9018babe778511-b7093e8c27)
 - [local-section:532941d7834c0d6520bc59f8 — Independent concrete-progress consultation review](../records/0148.md#local-section-532941d7834c0d6520bc59f8-3481adda79)
 - [local-section:5330b15f336d0f478c00b87f — 1. Sources, imported family and scope](../records/0148.md#local-section-5330b15f336d0f478c00b87f-dbbc8f990d)
 - [local-section:5339757d50337e22297a07f2 — R39-E. The Hecke counting argument supplies the needed package](../records/0148.md#local-section-5339757d50337e22297a07f2-9982042855)
@@ -216,8 +217,8 @@ Page 31/43; 10567 matching records.
 - [local-section:5ae458469ad44675a761f9d4 — 7. Uniform parked audit18: continuation of a state does not continue zero exclusion](../records/0148.md#local-section-5ae458469ad44675a761f9d4-546bd83dce)
 - [local-section:5aea68852bba3e0968911c8a — 6. Full detector rectangle, complements and reciprocal return](../records/0148.md#local-section-5aea68852bba3e0968911c8a-871d3fa416)
 - [local-section:5aedf1778e753d8e9c0a76a3 — 2. Protected result: persistence has a complete and expensive arithmetic return](../records/0148.md#local-section-5aedf1778e753d8e9c0a76a3-a6bd41e473)
-- [local-section:5b2f534270324ddd4d2fa082 — 9. Remaining analytic fields and fixed-family conclusion](../records/0148.md#local-section-5b2f534270324ddd4d2fa082-01a5ffd213)
-- [local-section:5b2f67de49c13ff3dad3b020 — What can and cannot supply that estimate](../records/0148.md#local-section-5b2f67de49c13ff3dad3b020-26bc56fabd)
+- [local-section:5b2f534270324ddd4d2fa082 — 9. Remaining analytic fields and fixed-family conclusion](../records/0149.md#local-section-5b2f534270324ddd4d2fa082-01a5ffd213)
+- [local-section:5b2f67de49c13ff3dad3b020 — What can and cannot supply that estimate](../records/0149.md#local-section-5b2f67de49c13ff3dad3b020-26bc56fabd)
 - [local-section:5b35fb38b47f83f7df0a76ac — 2. Frozen evidence and independent method](../records/0149.md#local-section-5b35fb38b47f83f7df0a76ac-ab53ac71be)
 - [local-section:5b431e98582cb052bdfc4ba9 — Actual source admissibility](../records/0149.md#local-section-5b431e98582cb052bdfc4ba9-354865c1ec)
 - [local-section:5b4f841e9d9eddbde076675f — 30. Complete fixed-character energy and lawful state merging](../records/0149.md#local-section-5b4f841e9d9eddbde076675f-d9b2338896)
@@ -257,4 +258,3 @@ Page 31/43; 10567 matching records.
 - [local-section:5ea5eedfb536c9b397130147 — 2.1 Proof before profile integration](../records/0149.md#local-section-5ea5eedfb536c9b397130147-3fbe0fcd13)
 - [local-section:5ea6de4333e1e187f5cfd95f — 3.3 The finite upper certificate](../records/0149.md#local-section-5ea6de4333e1e187f5cfd95f-9ea17c8208)
 - [local-section:5ebda7913a8a7460438a10c7 — 6. Handoff and retention](../records/0149.md#local-section-5ebda7913a8a7460438a10c7-3a4277e959)
-- [local-section:5ec00f99243b5e38f28e26e3 — Outcome and compact checkpoint](../records/0149.md#local-section-5ec00f99243b5e38f28e26e3-3b02402aa0)

@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 661 matching records.
+Page 1/3; 662 matching records.
 
 [Next](status-conditional-6929adae85-02.md)
 
@@ -109,6 +109,7 @@ Page 1/3; 661 matching records.
 - [QRH-CONT-M015-ORDINARY-RETURN — Fixed rough-source one-sided ordinary return with multiplicities](../records/0131.md#qrh-cont-m015-ordinary-return-5b7a6aa3c6)
 - [QRH-CONT-M016-CENTERED-RENEWAL — Exact centered Selberg renewal and two-moment norm divergence](../records/0131.md#qrh-cont-m016-centered-renewal-bb4db03fd5)
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
+- [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0137.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0137.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
@@ -156,7 +157,7 @@ Page 1/3; 661 matching records.
 - [local-section:1b20144f9569a63a8471358a — \[research revision\] direct joint-window lane: current worklog](../records/0140.md#local-section-1b20144f9569a63a8471358a-a2df10011d)
 - [local-section:1b40398ea284bd7c961c19f7 — G142. Actual logarithmic improvement and the remaining complete core](../records/0140.md#local-section-1b40398ea284bd7c961c19f7-4f1dc27037)
 - [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0140.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
-- [local-section:1c0afe168ddc858a6450b8da — W60: prime-factor turnover is the missing cost in local coding](../records/0140.md#local-section-1c0afe168ddc858a6450b8da-f92f7b59e9)
+- [local-section:1c0afe168ddc858a6450b8da — W60: prime-factor turnover is the missing cost in local coding](../records/0141.md#local-section-1c0afe168ddc858a6450b8da-f92f7b59e9)
 - [local-section:1cb91defb5a68e6d50e6289c — Verdict and exact acceptance limits](../records/0141.md#local-section-1cb91defb5a68e6d50e6289c-550a8c2075)
 - [local-section:1ceae10f077710f5c0513654 — 8. Value, unresolved work, and final mathematical status](../records/0141.md#local-section-1ceae10f077710f5c0513654-fd7d4b7a1e)
 - [local-section:1cfd335cb0fa6708c15b4db1 — Signed readouts, paid prime cutoffs and actual positive Gram prices](../records/0141.md#local-section-1cfd335cb0fa6708c15b4db1-e0609bdb72)
@@ -178,7 +179,7 @@ Page 1/3; 661 matching records.
 - [local-section:23b98763ff7d93f6a876cae0 — Quaternion norm applied to the complete Jordan source](../records/0141.md#local-section-23b98763ff7d93f6a876cae0-b5d89f2b62)
 - [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0141.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)
 - [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0141.md#local-section-23eff95a515b438b71738534-fbea372025)
-- [local-section:2493779e0f290f7287d1588f — Conditional zero-exclusion return and exact remaining target](../records/0141.md#local-section-2493779e0f290f7287d1588f-2fad5a2d75)
+- [local-section:2493779e0f290f7287d1588f — Conditional zero-exclusion return and exact remaining target](../records/0142.md#local-section-2493779e0f290f7287d1588f-2fad5a2d75)
 - [local-section:24bfc80a21c7f1c9e4994e0a — \[research revision\]: complete cross-class reduction](../records/0142.md#local-section-24bfc80a21c7f1c9e4994e0a-853c1be043)
 - [local-section:25faf3069fe4f218c9409233 — Outside-band arithmetic: a two-prime source and its complete complement](../records/0142.md#local-section-25faf3069fe4f218c9409233-1860b447e9)
 - [local-section:276470ad8aef97d7244ee5c7 — 8. Scope, broader conditional reach and remaining obstruction](../records/0142.md#local-section-276470ad8aef97d7244ee5c7-2f455f70bb)
@@ -202,7 +203,7 @@ Page 1/3; 661 matching records.
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33cc3f99ce651f795de0422c — \[research revision\]: actual integer coalescence and signed friable profiles](../records/0143.md#local-section-33cc3f99ce651f795de0422c-870c282b41)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0143.md#local-section-34160f89ce00b43718b31084-77745847c5)
-- [local-section:34a64812d1c3d348dd872cb4 — \[research revision\]: nonlinear source, complete tail and arithmetic core](../records/0143.md#local-section-34a64812d1c3d348dd872cb4-07a51cc96b)
+- [local-section:34a64812d1c3d348dd872cb4 — \[research revision\]: nonlinear source, complete tail and arithmetic core](../records/0144.md#local-section-34a64812d1c3d348dd872cb4-07a51cc96b)
 - [local-section:350dbe8ea62dce112d2c69e0 — 1. Verdict and evidence boundary](../records/0144.md#local-section-350dbe8ea62dce112d2c69e0-707971591e)
 - [local-section:35693aab9eccde89be64c404 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0144.md#local-section-35693aab9eccde89be64c404-94d484667a)
 - [local-section:36a46294e4b9b2a8a9aa2cf0 — 4.3 Outer reconstruction and all cross terms](../records/0144.md#local-section-36a46294e4b9b2a8a9aa2cf0-41ae674c4d)
@@ -240,7 +241,7 @@ Page 1/3; 661 matching records.
 - [local-section:4a212d79357474b7a0dc7742 — Restricted provenance locator](../records/0146.md#local-section-4a212d79357474b7a0dc7742-a9568f9277)
 - [local-section:4acb7a9325485c34ebbf75e7 — 1. Scope and evidence](../records/0146.md#local-section-4acb7a9325485c34ebbf75e7-f3f5a12438)
 - [local-section:4ba58ee5e29555d364ac150a — 1. Verdict and contribution](../records/0146.md#local-section-4ba58ee5e29555d364ac150a-5d19c459ed)
-- [local-section:4bf962488fe9dd9dd09a3dc0 — 2. Integrated logarithmic Hankel criterion: accept the full conditional bridge](../records/0146.md#local-section-4bf962488fe9dd9dd09a3dc0-29841a7654)
+- [local-section:4bf962488fe9dd9dd09a3dc0 — 2. Integrated logarithmic Hankel criterion: accept the full conditional bridge](../records/0147.md#local-section-4bf962488fe9dd9dd09a3dc0-29841a7654)
 - [local-section:4c0a2492819062159325630d — Decision and exact scope](../records/0147.md#local-section-4c0a2492819062159325630d-297d781a3e)
 - [local-section:4c7fd84fdce061cf703c8642 — 5. Weakest complete core targets at the useful endpoints](../records/0147.md#local-section-4c7fd84fdce061cf703c8642-e5677c05e4)
 - [local-section:4d9e6162df2ab3c09ae700c2 — \[research revision\]: direct attack on the complete Gaussian central moment](../records/0147.md#local-section-4d9e6162df2ab3c09ae700c2-6661d6ac0d)
@@ -255,4 +256,3 @@ Page 1/3; 661 matching records.
 - [local-section:52024a45216b27bf0fb0d0ba — 1. Verdict and scope](../records/0147.md#local-section-52024a45216b27bf0fb0d0ba-0f7c65b1ce)
 - [local-section:5376801de43e3d1cf89bae6c — Reduced index and the conditional anisotropic calculation](../records/0148.md#local-section-5376801de43e3d1cf89bae6c-1bca06b222)
 - [local-section:547126ca3966c79a2c516bb4 — Ancestry, verification and the next mathematical obligation](../records/0148.md#local-section-547126ca3966c79a2c516bb4-1baa4d166f)
-- [local-section:55263af08ad1304281066e30 — \[research revision\] joint core: current worklog](../records/0148.md#local-section-55263af08ad1304281066e30-8ccc1874f7)

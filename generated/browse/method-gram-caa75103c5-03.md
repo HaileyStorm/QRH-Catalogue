@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 3/5; 1034 matching records.
+Page 3/5; 1035 matching records.
 
 [Previous](method-gram-caa75103c5-02.md)
 
 [Next](method-gram-caa75103c5-04.md)
 
+- [local-section:6f6ef0726e04bcdbd16ed966 — 8. The remaining estimate and a sufficient actual mixed moment](../records/0151.md#local-section-6f6ef0726e04bcdbd16ed966-0c63b411dc)
 - [local-section:6fa267ad872bfbdc72484874 — Independent review of the user-attributed GPT6-Pro endpoint packet](../records/0151.md#local-section-6fa267ad872bfbdc72484874-5ac577e009)
 - [local-section:6fff378adca19063ea8dd1c1 — \[research revision\]: an actual large-common-divisor estimate for the separated inverse source](../records/0151.md#local-section-6fff378adca19063ea8dd1c1-698cd21083)
 - [local-section:70a513d8d02583c37e0363cd — F09. Adaptive exceptional-mode vector probes](../records/0151.md#local-section-70a513d8d02583c37e0363cd-5d99cbb330)
@@ -35,7 +36,7 @@ Page 3/5; 1034 matching records.
 - [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0152.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
 - [local-section:79162b33416cd45dbf7b5a7e — Complete card disposition and semantic ancestry](../records/0152.md#local-section-79162b33416cd45dbf7b5a7e-0668bac7fa)
 - [local-section:7933f48519d7978bba79fa54 — Evidence and next decisive tests](../records/0152.md#local-section-7933f48519d7978bba79fa54-002a549620)
-- [local-section:7961e0f44691e43313e7f077 — \[research revision\]: cofactor signal, covariance and quaternion source](../records/0152.md#local-section-7961e0f44691e43313e7f077-a6945d585a)
+- [local-section:7961e0f44691e43313e7f077 — \[research revision\]: cofactor signal, covariance and quaternion source](../records/0153.md#local-section-7961e0f44691e43313e7f077-a6945d585a)
 - [local-section:7996f2454b4a8a2811d4c1e2 — All ten exact first tests](../records/0153.md#local-section-7996f2454b4a8a2811d4c1e2-553b4a634c)
 - [local-section:79a32f3349f78154fe57c510 — 9. Author comparison and final status](../records/0153.md#local-section-79a32f3349f78154fe57c510-27b460a68b)
 - [local-section:79e849d7a09228505787d1b0 — G. Current alternative library and original stable IDs](../records/0153.md#local-section-79e849d7a09228505787d1b0-e1c8108098)
@@ -60,7 +61,7 @@ Page 3/5; 1034 matching records.
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0153.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:806009d1beaaca2304e8ad37 — F08. Weighted fractional parts and modular residues](../records/0153.md#local-section-806009d1beaaca2304e8ad37-6803980858)
-- [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0153.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
+- [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0154.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
 - [local-section:814a580dfea6b3e1138b4216 — Sol03: exact detector composition and its review corrections](../records/0154.md#local-section-814a580dfea6b3e1138b4216-f381d88d85)
 - [local-section:8161e40dea0d802001e8fe50 — 4. Adaptive selectors, eligibility and the exact obstruction](../records/0154.md#local-section-8161e40dea0d802001e8fe50-200a89d980)
 - [local-section:81884ab57ca1812f1498031a — \[research revision\] independent review: two complementary witnesses on one far annulus](../records/0154.md#local-section-81884ab57ca1812f1498031a-f483e7cda3)
@@ -82,7 +83,7 @@ Page 3/5; 1034 matching records.
 - [local-section:875a4a7bd63cb8d290524095 — R7. Protected20: an exact Schur reduction must retain the completion](../records/0154.md#local-section-875a4a7bd63cb8d290524095-7f736a81aa)
 - [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0154.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
 - [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0154.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
-- [local-section:88e8e209fd73636e762bbb7c — 9. Complete two-height and finite complex Gram return](../records/0154.md#local-section-88e8e209fd73636e762bbb7c-dc52b9260a)
+- [local-section:88e8e209fd73636e762bbb7c — 9. Complete two-height and finite complex Gram return](../records/0155.md#local-section-88e8e209fd73636e762bbb7c-dc52b9260a)
 - [local-section:8950645bef21603b6d0ca7c9 — \[research revision\]: the same energy supports longer windows](../records/0155.md#local-section-8950645bef21603b6d0ca7c9-9a3f87cc85)
 - [local-section:8958eaf50466fff634cc11ec — \[research revision\] signed-core review: complete cofactor payment and a rectangular core](../records/0155.md#local-section-8958eaf50466fff634cc11ec-e399898544)
 - [local-section:89a07fae25bf69e8bf1cf64b — An exact formulation of the remaining prime mean](../records/0155.md#local-section-89a07fae25bf69e8bf1cf64b-a75d16e1bc)
@@ -257,4 +258,3 @@ Page 3/5; 1034 matching records.
 - [local-section:bf6719fc59f1714291831b02 — All60 retained dispositions](../records/0162.md#local-section-bf6719fc59f1714291831b02-8baa44c5c7)
 - [local-section:c008304c62a39ef30e0fa284 — Compact worklog](../records/0162.md#local-section-c008304c62a39ef30e0fa284-79de6ba06f)
 - [local-section:c00fd633b0ef939543773f9b — 7. Actual diagonal and a sharp obstruction to termwise absolute pricing](../records/0162.md#local-section-c00fd633b0ef939543773f9b-202e59f37f)
-- [local-section:c012b75330e02a785413a215 — Independent \[research revision\] review: finite coupled amplifiers and complete endpoint](../records/0162.md#local-section-c012b75330e02a785413a215-f41a8b374b)

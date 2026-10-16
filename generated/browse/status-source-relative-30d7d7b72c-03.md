@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 842 matching records.
+Page 3/4; 843 matching records.
 
 [Previous](status-source-relative-30d7d7b72c-02.md)
 
 [Next](status-source-relative-30d7d7b72c-04.md)
 
+- [local-section:d226436515a8523434642734 — 2. S04: a quantitative actual-source obstruction to short-range positive metrics](../records/0164.md#local-section-d226436515a8523434642734-d75d3715c6)
 - [local-section:d2857bef7c7e22b5100234aa — Actual signed Hankel source: paid Type I and frequency complements](../records/0164.md#local-section-d2857bef7c7e22b5100234aa-a7133f1f1f)
 - [local-section:d39eb1035d42b6c1d4a063dd — 9. External claims, novelty and evidence limits](../records/0164.md#local-section-d39eb1035d42b6c1d4a063dd-795c269494)
 - [local-section:d40c13cf5e0e758f99cc1549 — W66 independent review: affordable inversion, paid critical cutoff, open arithmetic](../records/0164.md#local-section-d40c13cf5e0e758f99cc1549-511479cc40)
@@ -16,7 +17,7 @@ Page 3/4; 842 matching records.
 - [local-section:d50557497e9fec31cd47de8c — W53 independent review: pressure, prime blocks and the two frozen audits](../records/0164.md#local-section-d50557497e9fec31cd47de8c-17a97977ad)
 - [local-section:d521054623e00d90249d1e34 — \[research revision\]: failed implications, corrected scopes, and surviving exits](../records/0164.md#local-section-d521054623e00d90249d1e34-6613809ee5)
 - [local-section:d5518966e83546fda3b44267 — 68. The complete nonunique collision companion](../records/0164.md#local-section-d5518966e83546fda3b44267-9706fc5dd7)
-- [local-section:d5ae86b0df092dfa9c633647 — \[research revision\]: power-core payment for the complete nonunique R4 companion](../records/0164.md#local-section-d5ae86b0df092dfa9c633647-37957c5c28)
+- [local-section:d5ae86b0df092dfa9c633647 — \[research revision\]: power-core payment for the complete nonunique R4 companion](../records/0165.md#local-section-d5ae86b0df092dfa9c633647-37957c5c28)
 - [local-section:d718d8e9278c6af032e6565d — \[research revision\]: curved additive source and complete signed Gauss bank](../records/0165.md#local-section-d718d8e9278c6af032e6565d-32efe90ed4)
 - [local-section:d747048b9c3101a3984eb155 — \[research revision\] headroom: current worklog and discovery](../records/0165.md#local-section-d747048b9c3101a3984eb155-7f077ffd2c)
 - [local-section:d7bce599375a19d68ffbe816 — QRH research map and attempt index](../records/0165.md#local-section-d7bce599375a19d68ffbe816-f66829f86a)
@@ -46,7 +47,7 @@ Page 3/4; 842 matching records.
 - [local-section:eb96fd92a28b29a43a284835 — 6. Complete CORE1 and CORE contracts](../records/0167.md#local-section-eb96fd92a28b29a43a284835-1db81618ab)
 - [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0167.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
 - [local-section:ecc76dd70338e5b9aef9de9c — \[research revision\]: exact prediction criterion with paid source formation](../records/0167.md#local-section-ecc76dd70338e5b9aef9de9c-c555d30b06)
-- [local-section:ecd4bdc997b5ef77f2881d4a — 4. A polynomial dual truncation, including its error](../records/0167.md#local-section-ecd4bdc997b5ef77f2881d4a-1a169ef838)
+- [local-section:ecd4bdc997b5ef77f2881d4a — 4. A polynomial dual truncation, including its error](../records/0168.md#local-section-ecd4bdc997b5ef77f2881d4a-1a169ef838)
 - [local-section:ed14f34cc4a7e3765c095a93 — 6. Recovery price defeats that generic upper envelope](../records/0168.md#local-section-ed14f34cc4a7e3765c095a93-b7591848ca)
 - [local-section:ed405924166dcab04fda583d — G190. A paid diagonal and the actual remaining correlation](../records/0168.md#local-section-ed405924166dcab04fda583d-712ba5e181)
 - [local-section:ede2bc5ee1e326791af1a84a — 1. Decision and what this pass earns](../records/0168.md#local-section-ede2bc5ee1e326791af1a84a-b3695f5810)
@@ -58,7 +59,7 @@ Page 3/4; 842 matching records.
 - [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0168.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
 - [local-section:f4d276fee597c0e3b9c4816c — \[research revision\]: weighted boundary spectrum and complete source transfers](../records/0168.md#local-section-f4d276fee597c0e3b9c4816c-522ce1782e)
-- [local-section:f52bd39bd06ba37e76aee32d — G214. Counted sectors and the full physical obstruction](../records/0168.md#local-section-f52bd39bd06ba37e76aee32d-ef6df84730)
+- [local-section:f52bd39bd06ba37e76aee32d — G214. Counted sectors and the full physical obstruction](../records/0169.md#local-section-f52bd39bd06ba37e76aee32d-ef6df84730)
 - [local-section:f5360e1646b9d274b3f333af — \[research revision\]: a conductor saving and the complete shared-zero detector](../records/0169.md#local-section-f5360e1646b9d274b3f333af-03e529bee5)
 - [local-section:f5ad2e47ad8526ebc8116dae — Complete stationary cofactor payment and constant inverse cuts](../records/0169.md#local-section-f5ad2e47ad8526ebc8116dae-ecebaca4de)
 - [local-section:f5fabe11f9050cc940f10487 — \[research revision\]: moving finite detectors with a paid fixed-detector return](../records/0169.md#local-section-f5fabe11f9050cc940f10487-9e3a65d795)
@@ -134,7 +135,7 @@ Page 3/4; 842 matching records.
 - [local:F08.V — F08.V — Affine Green form, high sine modes paid, low weighted Σ\|S_j\|²/j² open; include j1 and all integer shells](../records/0170.md#local-f08-v-e548edb1a8)
 - [local:F09.A — F09.A — Full A-dependent physical/numerator Gram under nonzero principal constraint](../records/0170.md#local-f09-a-a23c6af251)
 - [local:F09.P — F09.P — Penalized nuisance energy or joint physical/numerator Rayleigh quotient; may avoid exact annihilation](../records/0170.md#local-f09-p-ec47d656d0)
-- [local:F09.X — F09.X — A-independent componentwise nulling kills physical principal aliases; frozen-A toy can cancel whole signal](../records/0170.md#local-f09-x-66dc535c1f)
+- [local:F09.X — F09.X — A-independent componentwise nulling kills physical principal aliases; frozen-A toy can cancel whole signal](../records/0171.md#local-f09-x-66dc535c1f)
 - [local:F10.A — F10.A — Main-term plus power-saving error for true coprime covariance, all projections/diagonals](../records/0171.md#local-f10-a-ed47fa155a)
 - [local:F10.G — F10.G — A successful asymptotic beyondK=D needs a new transfer with new polar accounting; alternative two-sided/strip detector is legitimate if it has complete coverage](../records/0171.md#local-f10-g-5db7ed08be)
 - [local:F11.B — F11.B — Two genuinely distinct embedded patterns or actual theta-paired probe; estimate mixed physical and numerator terms before separate norms](../records/0171.md#local-f11-b-a152658270)
@@ -197,7 +198,7 @@ Page 3/4; 842 matching records.
 - [local:G120 — G120. Complete phase blocks and thermal readout prices](../records/0171.md#local-g120-fbe02bb45f)
 - [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0171.md#local-g122-fe374f44f7)
 - [local:G124 — G124. Current margins and precise remaining signed input](../records/0171.md#local-g124-05c454b9ec)
-- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0171.md#local-g125-91d6b6ad62)
+- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0172.md#local-g125-91d6b6ad62)
 - [local:G133 — G133. Two restricted returns with rational interval certificates](../records/0172.md#local-g133-8752df7331)
 - [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0172.md#local-g137-8fee24c3bf)
 - [local:G140 — \[research revision\]: a nonlinear detector with a completely paid far tail (G140)](../records/0172.md#local-g140-88c35bf505)
@@ -257,4 +258,3 @@ Page 3/4; 842 matching records.
 - [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0173.md#local-g309-cb6cfa996e)
 - [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0173.md#local-g310-39134eeca1)
 - [local:N27.C — N27.C — Only corridor G≤C K^γ for fixed C, γ=(1−u)/(2+v), is necessary with full strip/profile family](../records/0174.md#local-n27-c-d83884e231)
-- [local:N27.D — N27.D — Partition by the first admissible intermediate divisor, keeping signed selector weights and exceptional empty fibres](../records/0174.md#local-n27-d-24f25e5823)

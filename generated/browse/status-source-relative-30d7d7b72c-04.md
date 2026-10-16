@@ -2,10 +2,11 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 842 matching records.
+Page 4/4; 843 matching records.
 
 [Previous](status-source-relative-30d7d7b72c-03.md)
 
+- [local:N27.D — N27.D — Partition by the first admissible intermediate divisor, keeping signed selector weights and exceptional empty fibres](../records/0174.md#local-n27-d-24f25e5823)
 - [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0174.md#local-n27-f-a63b19d62a)
 - [local:N27.N1 — N27.N1 — Keep completed h-by-divisor selector before Cauchy; derive sufficient signed energy and addbacks, then seek a saving](../records/0174.md#local-n27-n1-e5983023c9)
 - [local:N27.P — N27.P — Complete a forced-prime-first dyad with full common core and actual row support; retain its principal term](../records/0174.md#local-n27-p-fedd36bba9)
@@ -54,8 +55,8 @@ Page 4/4; 842 matching records.
 - [review:T08 — \[research revision\]-review:T08](../records/0217.md#review-t08-da626c3108)
 - [review:T09 — \[research revision\]-review:T09](../records/0217.md#review-t09-9b55f2ffc3)
 - [review:T10 — \[research revision\]-review:T10](../records/0217.md#review-t10-2738c6d533)
-- [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0217.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
-- [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0217.md#reviewed-claim-a01-embedded-extension-9eec840d93)
+- [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0218.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
+- [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0218.md#reviewed-claim-a01-embedded-extension-9eec840d93)
 - [reviewed-claim:A02-anisotropic-AFE-budget — \[research revision\]-claim:A02-anisotropic-AFE-budget](../records/0218.md#reviewed-claim-a02-anisotropic-afe-budget-a8cad57bbf)
 - [reviewed-claim:A02-rectangular-frontier — \[research revision\]-claim:A02-rectangular-frontier](../records/0218.md#reviewed-claim-a02-rectangular-frontier-e29f8341ff)
 - [reviewed-claim:A02-reduced-index — \[research revision\]-claim:A02-reduced-index](../records/0218.md#reviewed-claim-a02-reduced-index-de8dae2b57)

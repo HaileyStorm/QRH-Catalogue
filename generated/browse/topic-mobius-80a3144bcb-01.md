@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 952 matching records.
+Page 1/4; 953 matching records.
 
 [Next](topic-mobius-80a3144bcb-02.md)
 
@@ -30,6 +30,7 @@ Page 1/4; 952 matching records.
 - [P30-37 — Finite Q(zeta6) algebra fixture](../records/0130.md#p30-37-009593f59e)
 - [QRH-CONT-M011-SCHUR — Source-generated Schur determinant and the complete resolved Mobius norm](../records/0131.md#qrh-cont-m011-schur-825a774f5f)
 - [QRH-CONT-M012-CONDUCTOR-ADAPTER — Universal ordinary seed adapter with logarithmic covariance conductor cost](../records/0131.md#qrh-cont-m012-conductor-adapter-2e0ea3bdfa)
+- [QRH-CONT-M017-MOBIUS-TAIL — Complete long-Mobius-factor reduction with a negligible smooth-lattice remainder](../records/0131.md#qrh-cont-m017-mobius-tail-d4fbc01e2c)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
@@ -43,7 +44,7 @@ Page 1/4; 952 matching records.
 - [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0137.md#local-section-0284376a987e153d891eefa5-13814419e2)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0137.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0137.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
-- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0137.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
+- [local-section:03513429e2c9bce1ce1fe2b2 — 9. Lean exact evidence and final qualifications](../records/0138.md#local-section-03513429e2c9bce1ce1fe2b2-c4350787da)
 - [local-section:0400fb8cae6f2f20f06e267c — G156. Complete diagonal and two off-diagonal sectors](../records/0138.md#local-section-0400fb8cae6f2f20f06e267c-3484d3ff52)
 - [local-section:04975fecad87553c4b856ca8 — 4. A proved arithmetic estimate: polynomial Mobius cancellation plus (6)](../records/0138.md#local-section-04975fecad87553c4b856ca8-f9141511bc)
 - [local-section:051e901193a4143a5bea30d3 — F19. Higher integrability and stable future tails](../records/0138.md#local-section-051e901193a4143a5bea30d3-c7d2f214e6)
@@ -67,7 +68,7 @@ Page 1/4; 952 matching records.
 - [local-section:0bcfe307abf6ab6c35746e1e — G183. Literal smaller signed core and complete return](../records/0138.md#local-section-0bcfe307abf6ab6c35746e1e-fa0440c686)
 - [local-section:0c1c5886e72dd71d409efeaf — 4. The untruncated completion error](../records/0138.md#local-section-0c1c5886e72dd71d409efeaf-8a6c04cd8d)
 - [local-section:0c403f6e0469d25490673b25 — Next estimates](../records/0138.md#local-section-0c403f6e0469d25490673b25-3cf812fc48)
-- [local-section:0c72d9bdc3055ec72acea72e — A4. A real attempt at a coarse approximate state, and what fails](../records/0138.md#local-section-0c72d9bdc3055ec72acea72e-67839b33c1)
+- [local-section:0c72d9bdc3055ec72acea72e — A4. A real attempt at a coarse approximate state, and what fails](../records/0139.md#local-section-0c72d9bdc3055ec72acea72e-67839b33c1)
 - [local-section:0c955dd3c8039c58ad1094ba — 4. What the first row Poisson actually does](../records/0139.md#local-section-0c955dd3c8039c58ad1094ba-3174d2d6d4)
 - [local-section:0d4b301c6d26d09d551c71c7 — D. Rare-lane test: nonnegative smoothing and fixed layer deletion retain shrinking zeros](../records/0139.md#local-section-0d4b301c6d26d09d551c71c7-50928d5053)
 - [local-section:0e168f25f81aadf08e384760 — 6. Uniform parked audit25: rescue the checksum and price its return](../records/0139.md#local-section-0e168f25f81aadf08e384760-82cb5d9671)
@@ -140,7 +141,7 @@ Page 1/4; 952 matching records.
 - [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0141.md#local-section-23eff95a515b438b71738534-fbea372025)
 - [local-section:23fdce57e9a1b43257b2c448 — \[research revision\]: growing-order arithmetic sectors and a centered source refinement](../records/0141.md#local-section-23fdce57e9a1b43257b2c448-17d84d0974)
 - [local-section:247c1461ab74a028b9490c99 — Exact source and replacement](../records/0141.md#local-section-247c1461ab74a028b9490c99-9caa189775)
-- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0141.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
+- [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0142.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
 - [local-section:24bfc80a21c7f1c9e4994e0a — \[research revision\]: complete cross-class reduction](../records/0142.md#local-section-24bfc80a21c7f1c9e4994e0a-853c1be043)
 - [local-section:252d6d45d879f556871b51cc — F01. Multiscale Möbius decomposition and signed block control](../records/0142.md#local-section-252d6d45d879f556871b51cc-6b1c8a5789)
 - [local-section:25667ee3bb5f12d635983d4e — 2. Independent inverse and complete residual reconstruction](../records/0142.md#local-section-25667ee3bb5f12d635983d4e-776e0bac53)
@@ -235,7 +236,7 @@ Page 1/4; 952 matching records.
 - [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0145.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
 - [local-section:4591c2300d4623afdae97444 — Uniform S09: exact source-specific linear dual and its hidden scalar](../records/0145.md#local-section-4591c2300d4623afdae97444-78a9dc6f67)
 - [local-section:45c4ef9373d6c0aabb4b0e67 — \[research revision\] overlays and \[research revision\]–\[research revision\]: paid sectors and precise residuals](../records/0145.md#local-section-45c4ef9373d6c0aabb4b0e67-0fc80d1388)
-- [local-section:45cd43f9ed862ddbee4f6b24 — 1. Transfers between fixed smoothers](../records/0145.md#local-section-45cd43f9ed862ddbee4f6b24-0cf56fdbfb)
+- [local-section:45cd43f9ed862ddbee4f6b24 — 1. Transfers between fixed smoothers](../records/0146.md#local-section-45cd43f9ed862ddbee4f6b24-0cf56fdbfb)
 - [local-section:45f72c4a061e771fd01acbc6 — Actual arithmetic dilation: a global theorem and the unpaid local estimate](../records/0146.md#local-section-45f72c4a061e771fd01acbc6-a5637ec90d)
 - [local-section:4603488242b05c57c03ea126 — 5. The whole paired diagonal](../records/0146.md#local-section-4603488242b05c57c03ea126-39af984461)
 - [local-section:461d0e68ab339beb41a56f07 — Independent W48 review: the same complete energy has a higher-order return](../records/0146.md#local-section-461d0e68ab339beb41a56f07-a23786188e)
@@ -255,4 +256,3 @@ Page 1/4; 952 matching records.
 - [local-section:4958912978a30104d911cb7c — 4. At the unit dual core the exact Euler operator can be rank one](../records/0146.md#local-section-4958912978a30104d911cb7c-87596e14c0)
 - [local-section:499ccb60b4d0fd4570bf943f — B. Pole subtraction after actual integer-quotient merging](../records/0146.md#local-section-499ccb60b4d0fd4570bf943f-73a6218464)
 - [local-section:49bfda9067024f718b9f41dd — \[research revision\] attempt delta: coupled amplifiers and literal threshold laws](../records/0146.md#local-section-49bfda9067024f718b9f41dd-e82d1ba3b5)
-- [local-section:49c544f3b1e2877b683abccc — Quantitative gates](../records/0146.md#local-section-49c544f3b1e2877b683abccc-f0f208939a)

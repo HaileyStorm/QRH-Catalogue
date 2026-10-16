@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 64/71; 17513 matching records.
+Page 64/71; 17515 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-63.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-65.md)
 
+- [pr26:Cycle25.Energy.ReferenceState — Cycle25.Energy.ReferenceState](../records/0200.md#pr26-cycle25-energy-referencestate-87170cd2fb)
+- [pr26:Cycle25.Energy.ReferenceState::balanced_reference_geometry@139 — balanced_reference_geometry](../records/0200.md#pr26-cycle25-energy-referencestate-balanced-reference-geometry-13-cab4a815e4)
 - [pr26:Cycle25.Energy.ReferenceState::balanced_reflection_margins@160 — balanced_reflection_margins](../records/0200.md#pr26-cycle25-energy-referencestate-balanced-reflection-margins-16-8303f2531f)
 - [pr26:Cycle25.Energy.ReflectionRetainedLength — Cycle25.Energy.ReflectionRetainedLength](../records/0200.md#pr26-cycle25-energy-reflectionretainedlength-d0eb704bfd)
 - [pr26:Cycle25.Energy.ReflectionRetainedLength::eventually_actual_retained_length@422 — eventually_actual_retained_length](../records/0200.md#pr26-cycle25-energy-reflectionretainedlength-eventually-actual-re-1384df8d05)
@@ -37,8 +39,8 @@ Page 64/71; 17513 matching records.
 - [pr26:Cycle25.Numerator.BoxGeometry::coefficient_box_index_range@635 — coefficient_box_index_range](../records/0200.md#pr26-cycle25-numerator-boxgeometry-coefficient-box-index-range-63-49bb941c83)
 - [pr26:Cycle25.Numerator.BoxGeometry::combined_scale_of_dilation_box@535 — combined_scale_of_dilation_box](../records/0200.md#pr26-cycle25-numerator-boxgeometry-combined-scale-of-dilation-box-8691a2d217)
 - [pr26:Cycle25.Numerator.BoxGeometry::eventually_physical_cutoff_le_base@644 — eventually_physical_cutoff_le_base](../records/0200.md#pr26-cycle25-numerator-boxgeometry-eventually-physical-cutoff-le--15d952669d)
-- [pr26:Cycle25.Numerator.BoxGeometry::physical_coefficient_box_geometry@666 — physical_coefficient_box_geometry](../records/0200.md#pr26-cycle25-numerator-boxgeometry-physical-coefficient-box-geome-764b1c60a1)
-- [pr26:Cycle25.Numerator.BoxGeometry::physical_reflected_capacity_or_empty@568 — physical_reflected_capacity_or_empty](../records/0200.md#pr26-cycle25-numerator-boxgeometry-physical-reflected-capacity-or-97fd17b1e4)
+- [pr26:Cycle25.Numerator.BoxGeometry::physical_coefficient_box_geometry@666 — physical_coefficient_box_geometry](../records/0201.md#pr26-cycle25-numerator-boxgeometry-physical-coefficient-box-geome-764b1c60a1)
+- [pr26:Cycle25.Numerator.BoxGeometry::physical_reflected_capacity_or_empty@568 — physical_reflected_capacity_or_empty](../records/0201.md#pr26-cycle25-numerator-boxgeometry-physical-reflected-capacity-or-97fd17b1e4)
 - [pr26:Cycle25.Numerator.BoxGeometry::physical_reflected_capacity_or_empty_subtype@676 — physical_reflected_capacity_or_empty_subtype](../records/0201.md#pr26-cycle25-numerator-boxgeometry-physical-reflected-capacity-or-1d5e758c15)
 - [pr26:Cycle25.Numerator.BoxGeometry::physical_y_range@511 — physical_y_range](../records/0201.md#pr26-cycle25-numerator-boxgeometry-physical-y-range-511-67472c729a)
 - [pr26:Cycle25.Numerator.BoxGeometry::physical_y_strong_lower@600 — physical_y_strong_lower](../records/0201.md#pr26-cycle25-numerator-boxgeometry-physical-y-strong-lower-600-5a589fbc8e)
@@ -137,8 +139,8 @@ Page 64/71; 17513 matching records.
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::coefficient_line_norm@654 — coefficient_line_norm](../records/0201.md#pr26-cycle25-numerator-imported-mellinreconstruction-coefficient--45150ef373)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::coefficient_series_integrable@661 — coefficient_series_integrable](../records/0201.md#pr26-cycle25-numerator-imported-mellinreconstruction-coefficient--5854c0f542)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::mellin_L_cauchy@581 — mellin_L_cauchy](../records/0201.md#pr26-cycle25-numerator-imported-mellinreconstruction-mellin-l-cau-387c4d02a6)
-- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand@563 — plainIntegrand](../records/0201.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-1db9afb223)
-- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_cauchy@611 — plainIntegrand_cauchy](../records/0201.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-79175d6b4b)
+- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand@563 — plainIntegrand](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-1db9afb223)
+- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_cauchy@611 — plainIntegrand_cauchy](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-79175d6b4b)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_differentiableAt@570 — plainIntegrand_differentiableAt](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-30cc0c8e9d)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_eq@566 — plainIntegrand_eq](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-8240617f38)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_vertical_integrable@627 — plainIntegrand_vertical_integrable](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-896fb52822)
@@ -237,8 +239,8 @@ Page 64/71; 17513 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::errorCoefficientVector@497 — errorCoefficientVector](../records/0202.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-errorcoeffi-2aa507850d)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::errorTupleCoefficient@501 — errorTupleCoefficient](../records/0202.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-errortuplec-01e40b9292)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::errorTupleScale@505 — errorTupleScale](../records/0202.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-errortuples-fd3bf4e82e)
-- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::error_product_coefficient_mass@525 — error_product_coefficient_mass](../records/0202.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-error-produ-6aad158e10)
-- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::error_product_expansion@508 — error_product_expansion](../records/0202.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-error-produ-e76b36ddd9)
+- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::error_product_coefficient_mass@525 — error_product_coefficient_mass](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-error-produ-6aad158e10)
+- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::error_product_expansion@508 — error_product_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-error-produ-e76b36ddd9)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteCoefficient@453 — finiteCoefficient](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitecoeff-caaf29959a)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteScale@456 — finiteScale](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitescale-2340483ded)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteScale_one_le@459 — finiteScale_one_le](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitescale-a2062944d0)
@@ -256,5 +258,3 @@ Page 64/71; 17513 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorLabelPacket::labelPacketCoefficient@379 — labelPacketCoefficient](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlabelpacket-labelpacketc-d9b00582e5)
 - [pr26:Cycle25.Numerator.Imported.NumeratorLabelPacket::labelPacketIndex_countable@374 — labelPacketIndex_countable](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlabelpacket-labelpacketi-ece2f3d770)
 - [pr26:Cycle25.Numerator.Imported.NumeratorLabelPacket::labelPacketScale@386 — labelPacketScale](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlabelpacket-labelpackets-a30c2320ad)
-- [pr26:Cycle25.Numerator.Imported.NumeratorLabelPacket::labelPacketScale_one_le@389 — labelPacketScale_one_le](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlabelpacket-labelpackets-6690b2a03f)
-- [pr26:Cycle25.Numerator.Imported.NumeratorLabelPacket::labelPrimes@353 — labelPrimes](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlabelpacket-labelprimes--ebbbc645e5)

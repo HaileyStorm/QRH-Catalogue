@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 3/5; 1067 matching records.
+Page 3/5; 1068 matching records.
 
 [Previous](method-mellin-093bcdf279-02.md)
 
 [Next](method-mellin-093bcdf279-04.md)
 
+- [local-section:6bf2279b72a2d1f6b07d2a5a — Inputs and exact scope](../records/0151.md#local-section-6bf2279b72a2d1f6b07d2a5a-c647112ff0)
 - [local-section:6ca665129dae2dac98a83974 — Independent review: compensated squarefree chains](../records/0151.md#local-section-6ca665129dae2dac98a83974-99e5ab0b85)
 - [local-section:6ccec040517b04131d3b457d — 3.2 Exact pole and full-height Gaussian asymptotic](../records/0151.md#local-section-6ccec040517b04131d3b457d-39a03dde43)
 - [local-section:6ce9795b754c7bed2fb11f84 — 5. Rational frequency decomposition, including its ramified branch](../records/0151.md#local-section-6ce9795b754c7bed2fb11f84-d3c6db125e)
@@ -27,7 +28,7 @@ Page 3/5; 1067 matching records.
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0151.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
 - [local-section:722b86a12cad2c6e70d40826 — D26.2 Complete field approximation and cross terms](../records/0151.md#local-section-722b86a12cad2c6e70d40826-6ddfa3748c)
-- [local-section:7254417df981e9a486e26218 — 5. Development C / W49-06: exact prime-square deletion with a complete return](../records/0151.md#local-section-7254417df981e9a486e26218-c70d1ba5da)
+- [local-section:7254417df981e9a486e26218 — 5. Development C / W49-06: exact prime-square deletion with a complete return](../records/0152.md#local-section-7254417df981e9a486e26218-c70d1ba5da)
 - [local-section:7254892984d735372a595b83 — \[research revision\]: the quartic identity cell, phase boundary, and missing relative map](../records/0152.md#local-section-7254892984d735372a595b83-20e3b8542a)
 - [local-section:7469730f324e4bfb743fa6f2 — 1. Frozen source and acceptance boundaries](../records/0152.md#local-section-7469730f324e4bfb743fa6f2-7476aea0bb)
 - [local-section:74b1ee25dff1a94a538d3bf6 — \[research revision\] headroom: complete large-common-factor source estimate](../records/0152.md#local-section-74b1ee25dff1a94a538d3bf6-e3fbe6de38)
@@ -45,7 +46,7 @@ Page 3/5; 1067 matching records.
 - [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0152.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
-- [local-section:7995a72c52e1866847d401df — T09a. One fixed Möbius profile](../records/0152.md#local-section-7995a72c52e1866847d401df-35f6b5c2e4)
+- [local-section:7995a72c52e1866847d401df — T09a. One fixed Möbius profile](../records/0153.md#local-section-7995a72c52e1866847d401df-35f6b5c2e4)
 - [local-section:79e849d7a09228505787d1b0 — G. Current alternative library and original stable IDs](../records/0153.md#local-section-79e849d7a09228505787d1b0-e1c8108098)
 - [local-section:7a33b00f1132dfa48cbe39dd — Novelty and strongest objection](../records/0153.md#local-section-7a33b00f1132dfa48cbe39dd-750a6f740d)
 - [local-section:7a88316e4cce6b2a7e0707fe — \[research revision\] continuation brief](../records/0153.md#local-section-7a88316e4cce6b2a7e0707fe-632299919e)
@@ -89,7 +90,7 @@ Page 3/5; 1067 matching records.
 - [local-section:8697508ef16b0a6d5cf27006 — 7. Exact scalar, diagonal and two-height interface](../records/0154.md#local-section-8697508ef16b0a6d5cf27006-ba4f405fae)
 - [local-section:86a0da4110ca95230f44560f — 1. The replacement source and complete Mellin return](../records/0154.md#local-section-86a0da4110ca95230f44560f-472c0d6f22)
 - [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0154.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
-- [local-section:88e8e209fd73636e762bbb7c — 9. Complete two-height and finite complex Gram return](../records/0154.md#local-section-88e8e209fd73636e762bbb7c-dc52b9260a)
+- [local-section:88e8e209fd73636e762bbb7c — 9. Complete two-height and finite complex Gram return](../records/0155.md#local-section-88e8e209fd73636e762bbb7c-dc52b9260a)
 - [local-section:8958eaf50466fff634cc11ec — \[research revision\] signed-core review: complete cofactor payment and a rectangular core](../records/0155.md#local-section-8958eaf50466fff634cc11ec-e399898544)
 - [local-section:89db449e3addb08b7c144bce — \[research revision\]: multiplicative calibration and the complete window-energy return](../records/0155.md#local-section-89db449e3addb08b7c144bce-8b47520cf8)
 - [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
@@ -168,7 +169,7 @@ Page 3/5; 1067 matching records.
 - [local-section:9ea3f39f3fe57382d853c77b — 6. The actual common-zero identity before witness selection](../records/0157.md#local-section-9ea3f39f3fe57382d853c77b-fac8a9ae8a)
 - [local-section:9eb45c19b5afa5af61670699 — \[research revision\]: a complete parity-adapted Jordan source](../records/0157.md#local-section-9eb45c19b5afa5af61670699-d4adc9e64a)
 - [local-section:9f00fb05f20efe3e8ec21552 — No lost zeros in the numerator](../records/0157.md#local-section-9f00fb05f20efe3e8ec21552-5690b4c81e)
-- [local-section:9f2fc284426404499754ed2a — 2. Duplicate screen, selected repair and source status](../records/0157.md#local-section-9f2fc284426404499754ed2a-995e5b68a7)
+- [local-section:9f2fc284426404499754ed2a — 2. Duplicate screen, selected repair and source status](../records/0158.md#local-section-9f2fc284426404499754ed2a-995e5b68a7)
 - [local-section:9f7ffe08a33a563378c74ef1 — \[research revision\]: all-source forced-row bounds for the actual mixed linear probe](../records/0158.md#local-section-9f7ffe08a33a563378c74ef1-ef1feb150d)
 - [local-section:9fb822de8128e9f17ac81f67 — 3. L1–10: the complete signed logarithmic criterion](../records/0158.md#local-section-9fb822de8128e9f17ac81f67-45d26f53fd)
 - [local-section:a02cd11fefde04f0dba9719d — 1. Selection decision](../records/0158.md#local-section-a02cd11fefde04f0dba9719d-1b9cce8fe6)
@@ -222,7 +223,7 @@ Page 3/5; 1067 matching records.
 - [local-section:ae2cc2f36ccfdfe97581f8ec — 2. The fixed Gaussian and the interpolation step](../records/0159.md#local-section-ae2cc2f36ccfdfe97581f8ec-d524b8b687)
 - [local-section:ae79a6f8808374567f7ae865 — 36. Paid localization of the full renewal defect](../records/0159.md#local-section-ae79a6f8808374567f7ae865-1d8def2008)
 - [local-section:aeaef0132915daa8b71a3221 — Fixed-cutoff restoration before applying UM](../records/0159.md#local-section-aeaef0132915daa8b71a3221-ec4da9bc51)
-- [local-section:af6ef0ccf97e6685a10d75b8 — 8. Fixed components and completion of the original row integral](../records/0159.md#local-section-af6ef0ccf97e6685a10d75b8-4a89cc24d2)
+- [local-section:af6ef0ccf97e6685a10d75b8 — 8. Fixed components and completion of the original row integral](../records/0160.md#local-section-af6ef0ccf97e6685a10d75b8-4a89cc24d2)
 - [local-section:b071a2135856d8c8ea28df81 — \[research revision\]: independent review of the literal f3 late flow](../records/0160.md#local-section-b071a2135856d8c8ea28df81-420b5afb7c)
 - [local-section:b0f3f80efb10c8149755c5f9 — Independent review of the \[research revision\] nonlinear ordinary-character source](../records/0160.md#local-section-b0f3f80efb10c8149755c5f9-0f141ca37e)
 - [local-section:b14ae2dc91c2f8ef92e10d51 — All-card disposition and next action](../records/0160.md#local-section-b14ae2dc91c2f8ef92e10d51-87621ba1fc)
@@ -243,7 +244,7 @@ Page 3/5; 1067 matching records.
 - [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0160.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
 - [local-section:b6e2058f75387a60a04969ed — 3.2 Both original heights, without a diagonal-height shortcut](../records/0160.md#local-section-b6e2058f75387a60a04969ed-86eea20109)
 - [local-section:b713e60fc5d8acfd10731c61 — A08. An arithmetic source operator and the exact approximation cost](../records/0160.md#local-section-b713e60fc5d8acfd10731c61-a28eee4997)
-- [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0160.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
+- [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0161.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
 - [local-section:b823b82231463a0eb54013cd — 2. A local coefficient factor supplies the pole-killing zero](../records/0161.md#local-section-b823b82231463a0eb54013cd-545d5ffe53)
 - [local-section:b8265b9753db5545c49489b5 — 50. Derivative-free Hankel source and exact signed low-frequency target](../records/0161.md#local-section-b8265b9753db5545c49489b5-be70b9fd3f)
 - [local-section:b8db3c45b2542a98a465ff04 — Frozen initial seeds: post52-sol-high-01-\[research revision\]](../records/0161.md#local-section-b8db3c45b2542a98a465ff04-0a42a537f1)
@@ -257,4 +258,3 @@ Page 3/5; 1067 matching records.
 - [local-section:bc2a2b4cafbfc2e09ec531f3 — 5. The remaining finite arithmetic input and its complete return](../records/0161.md#local-section-bc2a2b4cafbfc2e09ec531f3-3944069000)
 - [local-section:bc302d63e5e638fbee2af5fd — Group 5: literal p \< .001, renormalization/dual high-ceiling stimulus](../records/0161.md#local-section-bc302d63e5e638fbee2af5fd-bbac3e1038)
 - [local-section:bc347c1a7b02cf5ccc5a6782 — 3. Author Section A: the fixed-arity source and its proper-sector test](../records/0161.md#local-section-bc347c1a7b02cf5ccc5a6782-46e13095d9)
-- [local-section:bc53bb72be11b5666bd85d3a — W48 — higher-order return from the same complete window energy](../records/0161.md#local-section-bc53bb72be11b5666bd85d3a-19fa5b81f5)
