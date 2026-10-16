@@ -4,7 +4,7 @@
 
 - [arithmetic-premise-open (5)](status-arithmetic-premise-open-ce45524d75-01.md)
 - [changed-source-open (2)](status-changed-source-open-ed2be5d00f-01.md)
-- [conditional (638)](status-conditional-6929adae85-01.md)
+- [conditional (661)](status-conditional-6929adae85-01.md)
 - [conditional-return (5)](status-conditional-return-52c51c8e3e-01.md)
 - [direct-written-reduction (8)](status-direct-written-reduction-63578db8e2-01.md)
 - [dormant (24)](status-dormant-c74c9a30f4-01.md)
@@ -24,7 +24,7 @@
 - [source-contract-reviewed (20)](status-source-contract-reviewed-cb94f73b82-01.md)
 - [source-pinned (121)](status-source-pinned-573a583fc5-01.md)
 - [source-reduction (3)](status-source-reduction-829631e8ca-01.md)
-- [source-relative (805)](status-source-relative-30d7d7b72c-01.md)
+- [source-relative (842)](status-source-relative-30d7d7b72c-01.md)
 - [source-reuse (2)](status-source-reuse-42a1b1596c-01.md)
 - [superseded (3)](status-superseded-444bd9c51d-01.md)
 - [unknown (10567)](status-unknown-b23a6a8439-01.md)

@@ -125656,6 +125656,101 @@
         "sha256": "91483c05e739a2751fcff4766ea48a1c8ae52c16eb3e9a7f62b5d5dd4c964a3e",
         "qualification": "Module import, not theorem-level dependency."
       }
+    },
+    {
+      "source": "QRH-CONT-M014-UNITARY-CANCELLATION",
+      "target": "QRH-CONT-M014-ANGULAR-LATTICE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "explicit-written-source-dependency",
+        "locator": "M014 sections5-6",
+        "qualification": "Dependency at the stated hypotheses; no endpoint inference."
+      }
+    },
+    {
+      "source": "QRH-CONT-M015-THREE-CORRECTION",
+      "target": "QRH-CONT-M015-THREE-LATTICE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "explicit-written-source-dependency",
+        "locator": "M015 chapter02 section2 applies chapter01",
+        "qualification": "Dependency at the stated hypotheses; no endpoint inference."
+      }
+    },
+    {
+      "source": "QRH-CONT-M015-THREE-CORRECTION",
+      "target": "QRH-CONT-M014-UNITARY-CANCELLATION",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "explicit-written-source-dependency",
+        "locator": "M015 chapter02 equations7-8,15",
+        "qualification": "Dependency at the stated hypotheses; no endpoint inference."
+      }
+    },
+    {
+      "source": "QRH-CONT-M015-FOUR-PRIME-WITNESS",
+      "target": "QRH-CONT-M015-THREE-CORRECTION",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "explicit-written-source-dependency",
+        "locator": "M015 chapter02 section6",
+        "qualification": "Dependency at the stated hypotheses; no endpoint inference."
+      }
+    },
+    {
+      "source": "QRH-CONT-M015-ORDINARY-RETURN",
+      "target": "QRH-CONT-M015-THREE-CORRECTION",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "explicit-written-source-dependency",
+        "locator": "M015 chapter03 section1, conditional comparison only",
+        "qualification": "Dependency at the stated hypotheses; no endpoint inference."
+      }
+    },
+    {
+      "source": "QRH-CONT-M012-CONDUCTOR-ADAPTER",
+      "target": "QRH-CONT-M003-UNIFORM-TWIST",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-scope-comparison",
+        "locator": "The buffered universal ordinary seed adapter is reused with sharper covariance consequences; no automatic equivalence asserted."
+      }
+    },
+    {
+      "source": "QRH-CONT-M008-CORE-BAND",
+      "target": "QRH-CONT-M007-SQUARE-MEAN",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "written-scope-comparison",
+        "locator": "Growing small-core estimate retains the separate square-sector theorem."
+      }
+    },
+    {
+      "source": "QRH-CONT-M015-FOUR-PRIME-WITNESS",
+      "target": "QRH-CONT-M014-UNITARY-CANCELLATION",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "written-scope-comparison",
+        "locator": "Complete old U coefficient is required in the four-prime test."
+      }
+    },
+    {
+      "source": "QRH-CONT-M016-FACTORIZATION",
+      "target": "QRH-CONT-M015-FOUR-PRIME-WITNESS",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-scope-comparison",
+        "locator": "Different grouping tests the same four-prime output; no source equivalence beyond the explicitly unchanged Q."
+      }
+    },
+    {
+      "source": "QRH-CONT-M016-PRIME-COVARIANCE",
+      "target": "QRH-CONT-M016-CENTERED-RENEWAL",
+      "kind": "related",
+      "evidence": {
+        "basis": "written-scope-comparison",
+        "locator": "Both retain the actual q=1 prime error and centering; neither provides the target estimate."
+      }
     }
   ],
   "schema_version": 1

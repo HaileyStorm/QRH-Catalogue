@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 52/70; 17476 matching records.
+Page 52/71; 17513 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-51.md)
 
@@ -243,18 +243,18 @@ Page 52/70; 17476 matching records.
 - [P7-C33 — principal_w_reserve](../records/0130.md#p7-c33-3de17b5598)
 - [P7-C34 — principal_z_reserve](../records/0130.md#p7-c34-72ec533d32)
 - [PUBLIC-C61-submission-fb6d4fd1 — Cycle61 c=125139/1000000 public submission source](../records/0130.md#public-c61-submission-fb6d4fd1-54db6de17c)
-- [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0169.md#local-a01-7fef3b9c0b)
-- [local:A02 — A02. Additional exact index and budget results](../records/0169.md#local-a02-e20ad4bdfd)
-- [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0169.md#local-a03-9e9a3d45e7)
-- [local:A04 — A04. Exact calibration of a family of adaptive probes](../records/0169.md#local-a04-e3c8a7886d)
-- [local:A05 — A05. Triple-convolution cube inversion and the \\(5/6\\) absolute barrier](../records/0169.md#local-a05-e754ef0214)
-- [local:A06 — A06. Fixed-degree polynomial detrending still detects zeros](../records/0169.md#local-a06-034437ca7f)
-- [local:A07 — A07. Source shell weights, cube damping, and diagonal calibration](../records/0170.md#local-a07-d1fb84cb6a)
-- [local:A08 — A08. An arithmetic source operator and the exact approximation cost](../records/0170.md#local-a08-388c07b4db)
-- [local:A09 — A09. Optimal shell correction and a genuine higher-moment escape](../records/0170.md#local-a09-1c14ce2ebc)
-- [local:A10 — A10. Two exact countermodels for positivity-based geometric shortcuts](../records/0170.md#local-a10-1f634c71ef)
-- [local:A11 — A11. One corrected coefficient criterion, with two arithmetic presentations](../records/0170.md#local-a11-b3d9344d4b)
-- [local:A12 — A12. A prime Fredholm determinant and the regularization trap](../records/0170.md#local-a12-1a2afd17b5)
-- [local:A13 — A13. Jacobi identities and the quadratic/triple construction](../records/0170.md#local-a13-099cfb8767)
-- [local:A14 — A14. Grok's conditional geometry certificate and its scope corrections](../records/0170.md#local-a14-fcce0ba816)
-- [local:A15 — A15. Gcd localization need not preserve positivity](../records/0170.md#local-a15-ab063662dd)
+- [QRH-CONT-EXT014-GROK — Grok external rough-source equivalence audit](../records/0130.md#qrh-cont-ext014-grok-f934ab4bd3)
+- [QRH-CONT-EXT014-INVERSE-LOG — Inverse-log finite differences: paid tail, retained reciprocal cross](../records/0130.md#qrh-cont-ext014-inverse-log-cf5e01039f)
+- [QRH-CONT-EXT014-MARKED-PRIME — Complete marked-prime coefficient and compensating signed sectors](../records/0130.md#qrh-cont-ext014-marked-prime-b3788ce698)
+- [QRH-CONT-EXT014-TWO-RAY — Balanced two-ray cancellation and corrections to unbalanced inference](../records/0130.md#qrh-cont-ext014-two-ray-c83e086a16)
+- [QRH-CONT-M001-SQUARE-CONTENT — Complete signed payment of maximal inverse square content](../records/0130.md#qrh-cont-m001-square-content-e74058120a)
+- [QRH-CONT-M002-CENTERED-CONTENT — Paid CM principal mean and stronger centered square-content charge](../records/0130.md#qrh-cont-m002-centered-content-03aba8cc9a)
+- [QRH-CONT-M002-DEPTH-EXTRACTION — Complete inverse-depth derivative extraction with bounded angular norm](../records/0130.md#qrh-cont-m002-depth-extraction-c04ef32cc1)
+- [QRH-CONT-M003-UNIFORM-TWIST — Universal ordinary conductor and Fourier-norm twist adapter](../records/0130.md#qrh-cont-m003-uniform-twist-3803c347fe)
+- [QRH-CONT-M004-EULER-SECTOR — Uniform Euler phase sector and direct ordinary cross return](../records/0130.md#qrh-cont-m004-euler-sector-7c7f0c7f30)
+- [QRH-CONT-M004-GRAM — Exact divisor Gram kernel and complete cross reconstruction](../records/0130.md#qrh-cont-m004-gram-eb5a9a694f)
+- [QRH-CONT-M005-CENTERED-GRAM — Sharp centered Gram blocks and paid incomplete-mean tail](../records/0130.md#qrh-cont-m005-centered-gram-aaff344f3b)
+- [QRH-CONT-M005-SPARSE-COMPLETION — Sparse all-power completion of the actual small-g Gram source](../records/0130.md#qrh-cont-m005-sparse-completion-efbced5f33)
+- [QRH-CONT-M006-PRIME-FILTER — Complete ordinary prime filter with half-scale comparison error](../records/0130.md#qrh-cont-m006-prime-filter-2e455060ed)
+- [QRH-CONT-M006-QUADRATIC-TAIL — Quadratic large-sieve bound for the complete twisted prime tail](../records/0130.md#qrh-cont-m006-quadratic-tail-7e507878d2)
+- [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)

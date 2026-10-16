@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2888 matching records.
+Page 6/12; 2894 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -227,6 +227,12 @@ Page 6/12; 2888 matching records.
 - [P30-32 — Redesigned finite compensating operator](../records/0130.md#p30-32-b55842888e)
 - [P30-34 — Norm-lift family and uniform boundary obligations](../records/0130.md#p30-34-f2008f8379)
 - [P7-13 — Conditional full probe to ordinary-character return](../records/0130.md#p7-13-74c2916a60)
+- [QRH-CONT-M002-DEPTH-EXTRACTION — Complete inverse-depth derivative extraction with bounded angular norm](../records/0130.md#qrh-cont-m002-depth-extraction-c04ef32cc1)
+- [QRH-CONT-M004-EULER-SECTOR — Uniform Euler phase sector and direct ordinary cross return](../records/0130.md#qrh-cont-m004-euler-sector-7c7f0c7f30)
+- [QRH-CONT-M004-GRAM — Exact divisor Gram kernel and complete cross reconstruction](../records/0130.md#qrh-cont-m004-gram-eb5a9a694f)
+- [QRH-CONT-M006-PRIME-FILTER — Complete ordinary prime filter with half-scale comparison error](../records/0130.md#qrh-cont-m006-prime-filter-2e455060ed)
+- [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)
+- [QRH-CONT-M007-SQUARE-MEAN — Actual quadratic square mean and normalized two-geometry cancellation](../records/0131.md#qrh-cont-m007-square-mean-e7cc1a1e2f)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
 - [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0137.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
@@ -238,13 +244,13 @@ Page 6/12; 2888 matching records.
 - [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0137.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0137.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0137.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
-- [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0137.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
-- [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0137.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
-- [local-section:04b6d33531f5f8fd0fcefef4 — A04. Exact calibration of a family of adaptive probes](../records/0137.md#local-section-04b6d33531f5f8fd0fcefef4-7abbd128bc)
-- [local-section:051e901193a4143a5bea30d3 — F19. Higher integrability and stable future tails](../records/0137.md#local-section-051e901193a4143a5bea30d3-c7d2f214e6)
-- [local-section:05228820399190f6a125d3ea — 3. Simplifications that are valid, and shortcuts that are not](../records/0137.md#local-section-05228820399190f6a125d3ea-4d5b8cfe3f)
-- [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0137.md#local-section-05a898c044306d64e55cadee-b3fa865755)
-- [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0137.md#local-section-06178eec24a4b4514c023259-786003578f)
+- [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
+- [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
+- [local-section:04b6d33531f5f8fd0fcefef4 — A04. Exact calibration of a family of adaptive probes](../records/0138.md#local-section-04b6d33531f5f8fd0fcefef4-7abbd128bc)
+- [local-section:051e901193a4143a5bea30d3 — F19. Higher integrability and stable future tails](../records/0138.md#local-section-051e901193a4143a5bea30d3-c7d2f214e6)
+- [local-section:05228820399190f6a125d3ea — 3. Simplifications that are valid, and shortcuts that are not](../records/0138.md#local-section-05228820399190f6a125d3ea-4d5b8cfe3f)
+- [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0138.md#local-section-05a898c044306d64e55cadee-b3fa865755)
+- [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0138.md#local-section-06178eec24a4b4514c023259-786003578f)
 - [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0138.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
 - [local-section:0702bc739eb372136a17d2cb — 1. Result and limits](../records/0138.md#local-section-0702bc739eb372136a17d2cb-4acd2bc919)
 - [local-section:07b88c0f93747803aa8cbeb8 — 3. The exact polynomial, its far part and changing the truncation](../records/0138.md#local-section-07b88c0f93747803aa8cbeb8-297d0bc09d)
@@ -252,9 +258,3 @@ Page 6/12; 2888 matching records.
 - [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
 - [local-section:08dd61ac28abc668bf15ef0a — 9. The asserted prime-square Jacobi identity is false](../records/0138.md#local-section-08dd61ac28abc668bf15ef0a-c2b6d9a483)
 - [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
-- [local-section:09559d68d0bd26ce573399f1 — 3. First powers: common profile, height buffer and one new slot](../records/0138.md#local-section-09559d68d0bd26ce573399f1-cf4d738421)
-- [local-section:0961e96fc326f63266874473 — Accepted written extension: finite coupled amplifiers, c2 = 0.125128](../records/0138.md#local-section-0961e96fc326f63266874473-589e50b503)
-- [local-section:09774c6e79465f03471d008e — 7. All sixty original cards retained](../records/0138.md#local-section-09774c6e79465f03471d008e-82c0acfc62)
-- [local-section:0991c82dc8d1b52a63041c6d — 1. Decision, statement, and evidence class](../records/0138.md#local-section-0991c82dc8d1b52a63041c6d-43292b5ae8)
-- [local-section:099ea90e765b38d0a0bc0243 — 3. The actual witness contract](../records/0138.md#local-section-099ea90e765b38d0a0bc0243-33e4477fc2)
-- [local-section:0a1fc8e1096bfc5a7b952bb5 — 8. Exact whole-rectangle proof and feedback](../records/0138.md#local-section-0a1fc8e1096bfc5a7b952bb5-2b90ced3f8)

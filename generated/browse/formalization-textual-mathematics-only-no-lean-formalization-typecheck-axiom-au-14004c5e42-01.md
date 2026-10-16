@@ -1,0 +1,31 @@
+# formalization: Textual mathematics only. No Lean formalization, typecheck, axiom audit or kernel verification.
+
+[Facet directory](formalization.md) · [All facets](../DIRECTORY.md)
+
+Page 1/1; 25 matching records.
+
+- [QRH-CONT-EXT014-GROK — Grok external rough-source equivalence audit](../records/0130.md#qrh-cont-ext014-grok-f934ab4bd3)
+- [QRH-CONT-EXT014-INVERSE-LOG — Inverse-log finite differences: paid tail, retained reciprocal cross](../records/0130.md#qrh-cont-ext014-inverse-log-cf5e01039f)
+- [QRH-CONT-EXT014-MARKED-PRIME — Complete marked-prime coefficient and compensating signed sectors](../records/0130.md#qrh-cont-ext014-marked-prime-b3788ce698)
+- [QRH-CONT-EXT014-TWO-RAY — Balanced two-ray cancellation and corrections to unbalanced inference](../records/0130.md#qrh-cont-ext014-two-ray-c83e086a16)
+- [QRH-CONT-M001-SQUARE-CONTENT — Complete signed payment of maximal inverse square content](../records/0130.md#qrh-cont-m001-square-content-e74058120a)
+- [QRH-CONT-M002-CENTERED-CONTENT — Paid CM principal mean and stronger centered square-content charge](../records/0130.md#qrh-cont-m002-centered-content-03aba8cc9a)
+- [QRH-CONT-M002-DEPTH-EXTRACTION — Complete inverse-depth derivative extraction with bounded angular norm](../records/0130.md#qrh-cont-m002-depth-extraction-c04ef32cc1)
+- [QRH-CONT-M003-UNIFORM-TWIST — Universal ordinary conductor and Fourier-norm twist adapter](../records/0130.md#qrh-cont-m003-uniform-twist-3803c347fe)
+- [QRH-CONT-M004-EULER-SECTOR — Uniform Euler phase sector and direct ordinary cross return](../records/0130.md#qrh-cont-m004-euler-sector-7c7f0c7f30)
+- [QRH-CONT-M004-GRAM — Exact divisor Gram kernel and complete cross reconstruction](../records/0130.md#qrh-cont-m004-gram-eb5a9a694f)
+- [QRH-CONT-M005-CENTERED-GRAM — Sharp centered Gram blocks and paid incomplete-mean tail](../records/0130.md#qrh-cont-m005-centered-gram-aaff344f3b)
+- [QRH-CONT-M005-SPARSE-COMPLETION — Sparse all-power completion of the actual small-g Gram source](../records/0130.md#qrh-cont-m005-sparse-completion-efbced5f33)
+- [QRH-CONT-M006-PRIME-FILTER — Complete ordinary prime filter with half-scale comparison error](../records/0130.md#qrh-cont-m006-prime-filter-2e455060ed)
+- [QRH-CONT-M006-QUADRATIC-TAIL — Quadratic large-sieve bound for the complete twisted prime tail](../records/0130.md#qrh-cont-m006-quadratic-tail-7e507878d2)
+- [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)
+- [QRH-CONT-M007-SQUARE-MEAN — Actual quadratic square mean and normalized two-geometry cancellation](../records/0131.md#qrh-cont-m007-square-mean-e7cc1a1e2f)
+- [QRH-CONT-M014-ANGULAR-LATTICE — Mean-zero angular lattice bound with every gcd parent](../records/0131.md#qrh-cont-m014-angular-lattice-626639b3cf)
+- [QRH-CONT-M014-UNITARY-CANCELLATION — Complete balanced prime-pair cancellation and retained higher outputs](../records/0131.md#qrh-cont-m014-unitary-cancellation-87e8b889bf)
+- [QRH-CONT-M015-FOUR-PRIME-WITNESS — Four-prime multiplicity witness for the three-block correction](../records/0131.md#qrh-cont-m015-four-prime-witness-53399d75a8)
+- [QRH-CONT-M015-ORDINARY-RETURN — Fixed rough-source one-sided ordinary return with multiplicities](../records/0131.md#qrh-cont-m015-ordinary-return-5b7a6aa3c6)
+- [QRH-CONT-M015-THREE-CORRECTION — Paid three-block correction with complete output allocation](../records/0131.md#qrh-cont-m015-three-correction-079d2813c1)
+- [QRH-CONT-M015-THREE-LATTICE — Uniform three-variable pairwise-coprime zero-density lattice theorem](../records/0131.md#qrh-cont-m015-three-lattice-2133bd2896)
+- [QRH-CONT-M016-CENTERED-RENEWAL — Exact centered Selberg renewal and two-moment norm divergence](../records/0131.md#qrh-cont-m016-centered-renewal-bb4db03fd5)
+- [QRH-CONT-M016-FACTORIZATION — All-order factorization and its coefficientwise majorant pole](../records/0131.md#qrh-cont-m016-factorization-cffcd9b9d3)
+- [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)

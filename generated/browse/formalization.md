@@ -15,6 +15,8 @@
 - [No new Lean/typecheck/axiom/kernel evidence. Inherited source checks remain separate. (6)](formalization-no-new-lean-typecheck-axiom-kernel-evidence-inherited-source-chec-0cdaa5dca2-01.md)
 - [Pinned Lean source inspected textually. Historical author-supplied full checks apply to predecessor R6 only; R7 full replay/independent verification remain pending in its pinned status. No new reviewer Lean/kernel run. (1)](formalization-pinned-lean-source-inspected-textually-historical-author-supplied-95c01051c7-01.md)
 - [Textual evidence; no new Lean/kernel run. (6)](formalization-textual-evidence-no-new-lean-kernel-run-bd21c90a73-01.md)
+- [Textual mathematics only. No Lean formalization, typecheck, axiom audit or kernel verification. (25)](formalization-textual-mathematics-only-no-lean-formalization-typecheck-axiom-au-14004c5e42-01.md)
+- [Textual mathematics only. No new Lean formalization, typecheck, axiom audit, kernel verification or end-to-end formalizer-use claim. (12)](formalization-textual-mathematics-only-no-new-lean-formalization-typecheck-axio-054ab9ae60-01.md)
 - [Textual source review only in this lane; no reviewer build, elaboration, axiom audit or kernel run. Current R7 complete verification remains pending in its pinned status. (1)](formalization-textual-source-review-only-in-this-lane-no-reviewer-build-elabora-3783c50bf9-01.md)
 - [local unchanged-source compilation (1)](formalization-local-unchanged-source-compilation-450bca7d66-01.md)
 - [local unchanged-source compilation and public theorem axiom audit (10)](formalization-local-unchanged-source-compilation-and-public-theorem-axiom-audit-a2dbfaec20-01.md)
