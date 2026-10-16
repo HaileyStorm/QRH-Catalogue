@@ -78,7 +78,7 @@ Page 9/11; 2702 matching records.
 - [local-section:b64009c11dacd91179633052 — 5. W56-28: conditional same-zero density gain](../records/0160.md#local-section-b64009c11dacd91179633052-098a6c0843)
 - [local-section:b67570a8edd3269965a2c244 — F14/F17/F15 — Expensive mechanisms for the mean, with scope retained](../records/0160.md#local-section-b67570a8edd3269965a2c244-dbccf32bf8)
 - [local-section:b67aed6e5308c540fd7faa33 — \[research revision\] independent review: complete Liouville square sources](../records/0160.md#local-section-b67aed6e5308c540fd7faa33-325abdf28d)
-- [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0160.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
+- [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0161.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
 - [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0161.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
 - [local-section:b6d7db0bb64f3f56325f2df3 — \[research revision\]: a literal signed primitive low-dual payment](../records/0161.md#local-section-b6d7db0bb64f3f56325f2df3-b9910ae8df)
 - [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0161.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)

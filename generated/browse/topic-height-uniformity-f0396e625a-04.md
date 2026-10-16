@@ -38,7 +38,7 @@ Page 4/4; 812 matching records.
 - [local:G189 — G189. Full constant-cut source transfer](../records/0172.md#local-g189-20df34a586)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0172.md#local-g212-6e2dec84ed)
-- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
+- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G223 — G223. Critical small-prime payment with its exact margin debit](../records/0173.md#local-g223-f33ce0dc37)
 - [local:G224 — G224. Exact chirp and paired-character audits, with reconstruction paid](../records/0173.md#local-g224-98c6aaf7a2)

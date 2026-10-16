@@ -65,7 +65,7 @@ Page 3/3; 662 matching records.
 - [local:G183 — G183. Literal smaller signed core and complete return](../records/0172.md#local-g183-e42c5b2351)
 - [local:G190 — G190. A paid diagonal and the actual remaining correlation](../records/0172.md#local-g190-49c88437a5)
 - [local:G200 — G200. Complete weighted removal and the fourth paid class](../records/0172.md#local-g200-b27f24a369)
-- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
+- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G219 — G219. Actual principal channels and the cheapest generic price](../records/0173.md#local-g219-b390f41fe3)
 - [local:G221 — G221. The user's quaternion identity on the actual Jordan source](../records/0173.md#local-g221-56d05db393)
 - [local:G223 — G223. Critical small-prime payment with its exact margin debit](../records/0173.md#local-g223-f33ce0dc37)

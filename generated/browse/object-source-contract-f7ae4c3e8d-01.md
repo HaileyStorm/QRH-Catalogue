@@ -244,7 +244,7 @@ Page 1/4; 785 matching records.
 - [local-section:4a0f7f9d584e0daa4f9ed197 — W40 initial seed freeze](../records/0146.md#local-section-4a0f7f9d584e0daa4f9ed197-e2f1b95898)
 - [local-section:4a212d79357474b7a0dc7742 — Restricted provenance locator](../records/0146.md#local-section-4a212d79357474b7a0dc7742-a9568f9277)
 - [local-section:4a4c4acb8e83e6fcfc62d89b — Complete local-moment gain](../records/0146.md#local-section-4a4c4acb8e83e6fcfc62d89b-3f1b04a64d)
-- [local-section:4b49c3af65b872558ceeb624 — 6. Every card remains in the record](../records/0146.md#local-section-4b49c3af65b872558ceeb624-f8201febef)
+- [local-section:4b49c3af65b872558ceeb624 — 6. Every card remains in the record](../records/0147.md#local-section-4b49c3af65b872558ceeb624-f8201febef)
 - [local-section:4ba58ee5e29555d364ac150a — 1. Verdict and contribution](../records/0147.md#local-section-4ba58ee5e29555d364ac150a-5d19c459ed)
 - [local-section:4c0a2492819062159325630d — Decision and exact scope](../records/0147.md#local-section-4c0a2492819062159325630d-297d781a3e)
 - [local-section:4d347c90ee88de8d2290ff5d — 3. Independent useful survivor: prime-dependent retention and optimal positive price](../records/0147.md#local-section-4d347c90ee88de8d2290ff5d-7dfff39182)

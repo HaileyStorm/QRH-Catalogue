@@ -159,7 +159,7 @@ Page 4/6; 1437 matching records.
 - [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0158.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
 - [local-section:a5f0a6009bd4c52b7ec366eb — C. Strong objection: the actual output is not power-small](../records/0158.md#local-section-a5f0a6009bd4c52b7ec366eb-86e06d971a)
 - [local-section:a64787345f954944b2ee6f89 — 3. Two dilation filters, sharp frame constants and causal reconstruction](../records/0158.md#local-section-a64787345f954944b2ee6f89-fd83c55460)
-- [local-section:a6664dc20b130f0fc18120ae — W40-24 — Integer cycle-flow cancellation; p=.008](../records/0158.md#local-section-a6664dc20b130f0fc18120ae-8da697d664)
+- [local-section:a6664dc20b130f0fc18120ae — W40-24 — Integer cycle-flow cancellation; p=.008](../records/0159.md#local-section-a6664dc20b130f0fc18120ae-8da697d664)
 - [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0159.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
 - [local-section:a72ffebe1ad66dc9afb8cea7 — W57 author report](../records/0159.md#local-section-a72ffebe1ad66dc9afb8cea7-af8c1ef99b)
 - [local-section:a7702a9808de9df6474be248 — Development23: source coefficients, exact dual and the surviving signed target](../records/0159.md#local-section-a7702a9808de9df6474be248-d9fc340be6)

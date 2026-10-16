@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 29/43; 10577 matching records.
+Page 29/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-28.md)
 
 [Next](status-unknown-b23a6a8439-30.md)
 
+- [local-section:186bf2d468c49c5b33dbd21a — 1. Candidate result and numerical budget](../records/0140.md#local-section-186bf2d468c49c5b33dbd21a-6cad0f4e65)
 - [local-section:187e966a40cebe7bca7de078 — Accepted written extension: larger amplifier, c1 = 0.12512](../records/0140.md#local-section-187e966a40cebe7bca7de078-7dd2c94c78)
 - [local-section:188f727ef48f3746e5e233bf — Ordinary-character zero return and concrete high ceilings](../records/0140.md#local-section-188f727ef48f3746e5e233bf-3f96b53ef7)
 - [local-section:18ba1e07446be20adbc3aa22 — Native matrix and other audited realizations](../records/0140.md#local-section-18ba1e07446be20adbc3aa22-1cb8f92c99)
@@ -38,7 +39,7 @@ Page 29/43; 10577 matching records.
 - [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0140.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
 - [local-section:1b6c4e3f6d610c3ba530c554 — G145. Full-word and sorted-creation commutators have different returns](../records/0140.md#local-section-1b6c4e3f6d610c3ba530c554-26810da9c4)
 - [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0140.md#local-section-1b7972de99305d82899b971b-ad968fff11)
-- [local-section:1b92424757fb59493f7e611d — 1. Frozen intake and the limits of sampling evidence](../records/0140.md#local-section-1b92424757fb59493f7e611d-8e9d28fbdc)
+- [local-section:1b92424757fb59493f7e611d — 1. Frozen intake and the limits of sampling evidence](../records/0141.md#local-section-1b92424757fb59493f7e611d-8e9d28fbdc)
 - [local-section:1b98b1cb15e75d39f297d71b — 5. Required edits and limits of acceptance](../records/0141.md#local-section-1b98b1cb15e75d39f297d71b-967ece9cb3)
 - [local-section:1bb500b1cbdde64a0ec21b1d — G197. Two paid classes with complete shared-prime cost](../records/0141.md#local-section-1bb500b1cbdde64a0ec21b1d-8384c5ec01)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
@@ -115,7 +116,7 @@ Page 29/43; 10577 matching records.
 - [local-section:22db3afc9817834e3cd9b37c — 11. Principal, finite, large and off-height fields; common-saving return](../records/0141.md#local-section-22db3afc9817834e3cd9b37c-147d5ee39c)
 - [local-section:22e57b05e00b018de9105d86 — 1. Initial discovery comparison](../records/0141.md#local-section-22e57b05e00b018de9105d86-3bfccec347)
 - [local-section:22ef21f7baaabd4d57807a80 — D02 and the seven other selected first tests](../records/0141.md#local-section-22ef21f7baaabd4d57807a80-2ab1871476)
-- [local-section:2398625eb5bc1a2804ed48b8 — F07.C / F13.T — Changed Jacobi phase and a quadratic-row triple source](../records/0141.md#local-section-2398625eb5bc1a2804ed48b8-08ee6b40da)
+- [local-section:2398625eb5bc1a2804ed48b8 — F07.C / F13.T — Changed Jacobi phase and a quadratic-row triple source](../records/0142.md#local-section-2398625eb5bc1a2804ed48b8-08ee6b40da)
 - [local-section:23b51ff137eab91d6b9d8ea1 — 7. W60-30: full cyclic compression has zero Feshbach self-energy](../records/0142.md#local-section-23b51ff137eab91d6b9d8ea1-8ed53e92ba)
 - [local-section:23dee2845ddcfb42313c0ac2 — 8. Attempted escape: a zero-sum compensator bank really deflates cells](../records/0142.md#local-section-23dee2845ddcfb42313c0ac2-e5efa90171)
 - [local-section:23f0832e85a22a3299e92636 — 6. Joint high count and exact label costs](../records/0142.md#local-section-23f0832e85a22a3299e92636-72df8d3baa)
@@ -197,7 +198,7 @@ Page 29/43; 10577 matching records.
 - [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0142.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
 - [local-section:2ba728cbbfca1403cf83aaec — 13. Verification and handoff boundary](../records/0142.md#local-section-2ba728cbbfca1403cf83aaec-5bb6ca585b)
 - [local-section:2baead16b4c841c3087018ba — M3. Fixed affine correlations, including conjugation](../records/0142.md#local-section-2baead16b4c841c3087018ba-f65182b6ca)
-- [local-section:2bc6a8deea4d593294ecf0c5 — 5. Return through the actual four diagonals and both height variables](../records/0142.md#local-section-2bc6a8deea4d593294ecf0c5-f05c139b18)
+- [local-section:2bc6a8deea4d593294ecf0c5 — 5. Return through the actual four diagonals and both height variables](../records/0143.md#local-section-2bc6a8deea4d593294ecf0c5-f05c139b18)
 - [local-section:2bde2805b0dfd635b320e976 — 5. Low bins and the canonical actual-width correction](../records/0143.md#local-section-2bde2805b0dfd635b320e976-e76ee254f3)
 - [local-section:2bde29c1d560cac4b20530c5 — R7. Fourier compression and the sharp endpoint](../records/0143.md#local-section-2bde29c1d560cac4b20530c5-00a61f46f4)
 - [local-section:2be7498d67997f0bdf407037 — R42.3. Both inverse coefficient costs, including the 2/3 edge](../records/0143.md#local-section-2be7498d67997f0bdf407037-0b3aeddf2a)
@@ -257,4 +258,3 @@ Page 29/43; 10577 matching records.
 - [local-section:31199af51f1d3cd61de267b7 — W40-02 — Orthogonalize the two heights jointly; p=.12](../records/0143.md#local-section-31199af51f1d3cd61de267b7-6cfb8d8568)
 - [local-section:3142470e9af2d17fb2c69d72 — Reviewed observation, source-filter and positivity components](../records/0143.md#local-section-3142470e9af2d17fb2c69d72-fc8ac8ba98)
 - [local-section:31429f52c33ea991fb883a40 — G158. Actual Type I removal on plain L2, including every character](../records/0143.md#local-section-31429f52c33ea991fb883a40-82b1e1acc9)
-- [local-section:3144790cd4be8cc331c1b966 — G107. Exact divisor elimination and the real-cutoff repair](../records/0143.md#local-section-3144790cd4be8cc331c1b966-9ed0936949)

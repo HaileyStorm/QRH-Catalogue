@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 30/43; 10577 matching records.
+Page 30/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-29.md)
 
 [Next](status-unknown-b23a6a8439-31.md)
 
+- [local-section:3144790cd4be8cc331c1b966 — G107. Exact divisor elimination and the real-cutoff repair](../records/0143.md#local-section-3144790cd4be8cc331c1b966-9ed0936949)
 - [local-section:314823aaf87aa2179dbdf1bd — 5. W48.2: strengthened scope of the accepted countermodel](../records/0143.md#local-section-314823aaf87aa2179dbdf1bd-6dffffc9d0)
 - [local-section:31765eb078bb31d122702e54 — W37: all30 cards, six first tests and two independent audits](../records/0143.md#local-section-31765eb078bb31d122702e54-f5b7133a71)
 - [local-section:318df335f67cc148048b0d9d — R6. Cutoff removal and a noncircular second extraction](../records/0143.md#local-section-318df335f67cc148048b0d9d-e062ff6da8)
@@ -35,7 +36,7 @@ Page 30/43; 10577 matching records.
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0143.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
 - [local-section:33c15e3aefd046f4c9cbf377 — 8. Handoff boundary](../records/0143.md#local-section-33c15e3aefd046f4c9cbf377-8afebcd6f2)
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0143.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
-- [local-section:33e253fb432a0ae81c91799f — 3.2 Squarefree local correction and the full convolution](../records/0143.md#local-section-33e253fb432a0ae81c91799f-a5e3ac91a5)
+- [local-section:33e253fb432a0ae81c91799f — 3.2 Squarefree local correction and the full convolution](../records/0144.md#local-section-33e253fb432a0ae81c91799f-a5e3ac91a5)
 - [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
 - [local-section:3422f6753f9cea4f9fcbf457 — 2.3 Serious arithmetic test, failed coarse bound, and constructive error budget](../records/0144.md#local-section-3422f6753f9cea4f9fcbf457-cebd83596b)
@@ -121,7 +122,7 @@ Page 30/43; 10577 matching records.
 - [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0144.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
 - [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0144.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
 - [local-section:3c4fbfc71bb4dd9193e4f0bc — 2. An actual signed global asymptotic](../records/0144.md#local-section-3c4fbfc71bb4dd9193e4f0bc-8b73f69b29)
-- [local-section:3c5a0aa24c5403797f36c878 — Required precision: limiting exponent versus exact-line inverse](../records/0144.md#local-section-3c5a0aa24c5403797f36c878-385c35d442)
+- [local-section:3c5a0aa24c5403797f36c878 — Required precision: limiting exponent versus exact-line inverse](../records/0145.md#local-section-3c5a0aa24c5403797f36c878-385c35d442)
 - [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0145.md#local-section-3c630827feaaf3da167e9311-b71969935d)
 - [local-section:3c71bc5d6ed579e6732e7842 — D1a. Explicit isolated-root lemma](../records/0145.md#local-section-3c71bc5d6ed579e6732e7842-8d129e1bf6)
 - [local-section:3c7bddd6d41be992888ec504 — 5. Strongest objections and decisive limitations](../records/0145.md#local-section-3c7bddd6d41be992888ec504-be4434e89d)
@@ -207,7 +208,7 @@ Page 30/43; 10577 matching records.
 - [local-section:4447d76efe4fddfedaef4feb — W40-16 — Hankel realization before moment formation; p=.075](../records/0145.md#local-section-4447d76efe4fddfedaef4feb-6de2562d72)
 - [local-section:4457e9b00e9ff73ed973ef0c — 3. W43-15: exact Newton feedback and the missing detector](../records/0145.md#local-section-4457e9b00e9ff73ed973ef0c-2b8f6b38bd)
 - [local-section:44635861556b54569d7ba84d — 10. Verification and handoff boundary](../records/0145.md#local-section-44635861556b54569d7ba84d-f11bac91cb)
-- [local-section:446f581b2f06b60449fddb3b — 5. Full product moment: two added slots and every diagonal](../records/0145.md#local-section-446f581b2f06b60449fddb3b-8bac7e0561)
+- [local-section:446f581b2f06b60449fddb3b — 5. Full product moment: two added slots and every diagonal](../records/0146.md#local-section-446f581b2f06b60449fddb3b-8bac7e0561)
 - [local-section:448fb53530a84690188cd886 — R1. Evidence, independent selection and chronology](../records/0146.md#local-section-448fb53530a84690188cd886-a71460265a)
 - [local-section:4500f8e87eb94ecc3a0e2e50 — 3.3 Error budget and surviving arithmetic target](../records/0146.md#local-section-4500f8e87eb94ecc3a0e2e50-1c10f57ad7)
 - [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0146.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
@@ -257,4 +258,3 @@ Page 30/43; 10577 matching records.
 - [local-section:485d62cbaceeee39e1d8d770 — Sol04 \[research revision\] bounded research handoff](../records/0146.md#local-section-485d62cbaceeee39e1d8d770-23e5ae2f5d)
 - [local-section:4860e807d52007b6ce92798b — 2. Exact intake, sources and limits](../records/0146.md#local-section-4860e807d52007b6ce92798b-6233c16aec)
 - [local-section:486b6e574555605eafa340fb — Development14: exact cover, weighted defect and reconstruction](../records/0146.md#local-section-486b6e574555605eafa340fb-9279bda5db)
-- [local-section:48873052cc12973abca5550a — 4. New component \[research revision\]-C1: paid transfer among the three fixed detectors](../records/0146.md#local-section-48873052cc12973abca5550a-0fb392db2e)

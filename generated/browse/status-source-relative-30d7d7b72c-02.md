@@ -119,7 +119,7 @@ Page 2/4; 843 matching records.
 - [local-section:7722659e69686a552dff17c9 — \[research revision\]: complete renewal localization and signed flux contracts](../records/0152.md#local-section-7722659e69686a552dff17c9-5952cc18af)
 - [local-section:77e74338f691bea777f75e75 — 5. Weakest complete target and full conditional return](../records/0152.md#local-section-77e74338f691bea777f75e75-5470f28be0)
 - [local-section:782adcb7885c6f0ab2c0371e — 1. Authority, chronology and evidence limits](../records/0152.md#local-section-782adcb7885c6f0ab2c0371e-823beeccc9)
-- [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0152.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
+- [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0153.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
 - [local-section:7961e0f44691e43313e7f077 — \[research revision\]: cofactor signal, covariance and quaternion source](../records/0153.md#local-section-7961e0f44691e43313e7f077-a6945d585a)
 - [local-section:7b15720b12dc257d215e2117 — 5. Fixed components, remaining gate, and review scope](../records/0153.md#local-section-7b15720b12dc257d215e2117-ba24206133)
 - [local-section:7b6877909463c9e2f211d3d4 — W57 independent critic review](../records/0153.md#local-section-7b6877909463c9e2f211d3d4-7e77166565)

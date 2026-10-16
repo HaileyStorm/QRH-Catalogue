@@ -218,7 +218,7 @@ Page 1/4; 933 matching records.
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0138.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
 - [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0138.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
-- [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0138.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
+- [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0139.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
 - [local-section:0cc6ca6723986cc3fdb3690a — A checked hybrid of smoothing, filter banks and numerator phases](../records/0139.md#local-section-0cc6ca6723986cc3fdb3690a-3510407d9a)
 - [local-section:0d63031e38d91b9fa5050f0b — \[research revision\]: coupling the original slot width to a finite amplifier atlas](../records/0139.md#local-section-0d63031e38d91b9fa5050f0b-bd75e5ce3d)

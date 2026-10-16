@@ -224,7 +224,7 @@ Page 8/11; 2702 matching records.
 - [local-section:961aa44ffc162e9bd2374c8b — 1. Candidate and evidence boundary](../records/0156.md#local-section-961aa44ffc162e9bd2374c8b-a67d556161)
 - [local-section:9672bf8d794bf486e8fff7f4 — Independent review: the cofactor-labelled source and its complete price](../records/0156.md#local-section-9672bf8d794bf486e8fff7f4-ed269a718c)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0156.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
-- [local-section:973513bf90fab49d339ffccf — 7. What remains open, evidence and provenance](../records/0156.md#local-section-973513bf90fab49d339ffccf-a7d0d49c47)
+- [local-section:973513bf90fab49d339ffccf — 7. What remains open, evidence and provenance](../records/0157.md#local-section-973513bf90fab49d339ffccf-a7d0d49c47)
 - [local-section:978e7b6c097536505cbc8e3f — Independent review of conductor-restricted density and the completed joint detector](../records/0157.md#local-section-978e7b6c097536505cbc8e3f-730181668f)
 - [local-section:97e0e31b129b6bce89d3d12b — A. Exterior completion: valid local progress, exact global gap](../records/0157.md#local-section-97e0e31b129b6bce89d3d12b-e5378af542)
 - [local-section:9831a6c9e598a448e349de8e — 3. Pay every sixth-power repetition with the actual Möbius coefficients](../records/0157.md#local-section-9831a6c9e598a448e349de8e-9dcede1dd9)

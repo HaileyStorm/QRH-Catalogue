@@ -190,7 +190,7 @@ Page 1/4; 843 matching records.
 - [local-section:01b1b466a00885bebb7922e2 — 5.1 The entire coarse estimate fails by a specific power](../records/0137.md#local-section-01b1b466a00885bebb7922e2-60b33f7786)
 - [local-section:01d4f25f9b6a2d9df8b7027e — 2.3 A paid transport repair with a complete Mellin return](../records/0137.md#local-section-01d4f25f9b6a2d9df8b7027e-3730649dd2)
 - [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0137.md#local-section-021601cba1a0a08525590f22-7adbe75144)
-- [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0137.md#local-section-0284376a987e153d891eefa5-13814419e2)
+- [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0138.md#local-section-0284376a987e153d891eefa5-13814419e2)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:035701346f99d3890ec7be86 — \[research revision\]: signed deletion, critical flux and common-readout Gram](../records/0138.md#local-section-035701346f99d3890ec7be86-e321acbb45)
 - [local-section:0371ee688dc8d2d9ca7be717 — 5. Reconstruction of the author's same-index cuts](../records/0138.md#local-section-0371ee688dc8d2d9ca7be717-c2834dc43c)

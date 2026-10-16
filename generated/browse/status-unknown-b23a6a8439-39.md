@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10577 matching records.
+Page 39/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
 [Next](status-unknown-b23a6a8439-40.md)
 
+- [local-section:f8f1c127ce5124fbe21dbc3a — 7. Exact all-branch linear-probe transfer](../records/0169.md#local-section-f8f1c127ce5124fbe21dbc3a-a3be4c5aca)
 - [local-section:f9297f4a4d8a4b2f88846290 — 4.2 Whole nonlinear kernel and the low/high split](../records/0169.md#local-section-f9297f4a4d8a4b2f88846290-2ca26ef3ff)
 - [local-section:f92d7a275257b0519ac9cd1c — 3a(ii). A cheaper coherent source approximation, and a principal tail theorem](../records/0169.md#local-section-f92d7a275257b0519ac9cd1c-0c45f47544)
 - [local-section:f9987a86684aba9188ab0be8 — 15. Compact positivity and one-step improvement do not prove arithmetic approximation](../records/0169.md#local-section-f9987a86684aba9188ab0be8-c86bfa0772)
@@ -35,7 +36,7 @@ Page 39/43; 10577 matching records.
 - [local-section:fc0234a9a00a786dcde76465 — The actual close-point Gram and its normalization](../records/0169.md#local-section-fc0234a9a00a786dcde76465-f900fe1880)
 - [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0169.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0169.md#local-section-fc2c99a526ece62caf359d66-9738608419)
-- [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0169.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
+- [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0170.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0170.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
 - [local-section:fc9409d58222d0fd6c96c0e0 — 4. Protected audit S25: decimation with all induced interactions](../records/0170.md#local-section-fc9409d58222d0fd6c96c0e0-df28e4e747)
@@ -113,7 +114,7 @@ Page 39/43; 10577 matching records.
 - [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0171.md#local-g110-07e53448ee)
 - [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0171.md#local-g112-576f044b32)
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0171.md#local-g113-6c10bbc310)
-- [local:G115 — 3. G115: complete cutoffs agree at the actual zero](../records/0171.md#local-g115-d13affe636)
+- [local:G115 — 3. G115: complete cutoffs agree at the actual zero](../records/0172.md#local-g115-d13affe636)
 - [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)
 - [local:G117 — 2. G117: two precisely scoped certificate obstructions](../records/0172.md#local-g117-ec123049a5)
 - [local:G118 — 3. G118: finite-prefix and all-layer audits](../records/0172.md#local-g118-50557224bc)
@@ -208,7 +209,7 @@ Page 39/43; 10577 matching records.
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0173.md#local-g3-c51dd6c4a6)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0173.md#local-g5-edf12c141c)
-- [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0173.md#local-g6-e89f333778)
+- [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0174.md#local-g6-e89f333778)
 - [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)
 - [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0174.md#local-g68-8d260df78f)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0174.md#local-g69-9bdd438ff0)
@@ -257,4 +258,3 @@ Page 39/43; 10577 matching records.
 - [pr26:Analytic.ActualBufferedUniform — Analytic.ActualBufferedUniform](../records/0174.md#pr26-analytic-actualbuffereduniform-a8f703eccf)
 - [pr26:Analytic.ActualErrorPower — Analytic.ActualErrorPower](../records/0174.md#pr26-analytic-actualerrorpower-e6fb213bdc)
 - [pr26:Analytic.ActualErrorPowerFull — Analytic.ActualErrorPowerFull](../records/0174.md#pr26-analytic-actualerrorpowerfull-2c07b981ca)
-- [pr26:Analytic.ActualErrorSourceGates — Analytic.ActualErrorSourceGates](../records/0174.md#pr26-analytic-actualerrorsourcegates-7423b0bff1)

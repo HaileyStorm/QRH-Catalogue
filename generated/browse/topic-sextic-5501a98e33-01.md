@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 492 matching records.
+Page 1/2; 493 matching records.
 
 [Next](topic-sextic-5501a98e33-02.md)
 
@@ -59,6 +59,7 @@ Page 1/2; 492 matching records.
 - [P30-29 — Improving sixth-power padding slope](../records/0130.md#p30-29-4d53077bb1)
 - [P30-34 — Norm-lift family and uniform boundary obligations](../records/0130.md#p30-34-f2008f8379)
 - [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
+- [QRH-CONT-R034-PRIME-OVERLAP-MOMENT — Exact selected/full prime overlap and a short-product moment with repeated primes](../records/0131.md#qrh-cont-r034-prime-overlap-moment-7c0306af14)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0137.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0137.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
 - [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0137.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
@@ -66,7 +67,7 @@ Page 1/2; 492 matching records.
 - [local-section:01cc0ec03099b6574d678481 — 4. Canonical coefficients, witnesses and the conditioned theorem](../records/0137.md#local-section-01cc0ec03099b6574d678481-4169c61b0c)
 - [local-section:01d79cb7aff6695e0c575cb6 — 2. Why the larger amplifier is actually admissible](../records/0137.md#local-section-01d79cb7aff6695e0c575cb6-4d4f42fa5e)
 - [local-section:023d430ae4462de4b08a80f5 — 2. The coupled \\(d,a\\) arithmetic and the sixth-power-free moment](../records/0137.md#local-section-023d430ae4462de4b08a80f5-aa1f78fac7)
-- [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0137.md#local-section-0284376a987e153d891eefa5-13814419e2)
+- [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0138.md#local-section-0284376a987e153d891eefa5-13814419e2)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:0400fb8cae6f2f20f06e267c — G156. Complete diagonal and two off-diagonal sectors](../records/0138.md#local-section-0400fb8cae6f2f20f06e267c-3484d3ff52)
 - [local-section:0482d0fa320f89ebb02394b3 — \[research revision\] independent review: exceptional valuation reserve](../records/0138.md#local-section-0482d0fa320f89ebb02394b3-083e80a410)
@@ -218,7 +219,7 @@ Page 1/2; 492 matching records.
 - [local-section:67511c4bb9413966521c4b93 — 1. Bind the actual family before applying the theorem](../records/0150.md#local-section-67511c4bb9413966521c4b93-d5f885b5b3)
 - [local-section:67dad4909d665ae6cc8a655a — 2. A continuation cone and its precise limitation](../records/0150.md#local-section-67dad4909d665ae6cc8a655a-6a0f2e53bb)
 - [local-section:68cc62362c6d4457c10ecc56 — 1. Exact inputs and scope](../records/0150.md#local-section-68cc62362c6d4457c10ecc56-60c0974acc)
-- [local-section:68d0ab844329bc22388b44cd — 5. Relative characters, complete coefficient mass and masked rows](../records/0150.md#local-section-68d0ab844329bc22388b44cd-657223dfca)
+- [local-section:68d0ab844329bc22388b44cd — 5. Relative characters, complete coefficient mass and masked rows](../records/0151.md#local-section-68d0ab844329bc22388b44cd-657223dfca)
 - [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0151.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
 - [local-section:6a5a04f88aa598aed17ee256 — 7. Numerical growing ranges and the exact remaining obligation](../records/0151.md#local-section-6a5a04f88aa598aed17ee256-ea8070803d)
 - [local-section:6bd764132597c9e532645f24 — 3. Common profile and admissible frequency selectors](../records/0151.md#local-section-6bd764132597c9e532645f24-f9698d04ae)
@@ -242,7 +243,7 @@ Page 1/2; 492 matching records.
 - [local-section:76de71dc31b8c4a9e7b270b8 — \[research revision\]: complete labelled repetition-layer sieve](../records/0152.md#local-section-76de71dc31b8c4a9e7b270b8-f6016fc4f8)
 - [local-section:772762922325a550ed1e067c — \[research revision\]: paid detector overlap and consultation library](../records/0152.md#local-section-772762922325a550ed1e067c-b62b2e1a0a)
 - [local-section:7758f641dc44b310f7091d5c — 2. Quantitative contracts and immediate priorities](../records/0152.md#local-section-7758f641dc44b310f7091d5c-049f400266)
-- [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0152.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
+- [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0153.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
 - [local-section:79e849d7a09228505787d1b0 — G. Current alternative library and original stable IDs](../records/0153.md#local-section-79e849d7a09228505787d1b0-e1c8108098)
 - [local-section:7a88316e4cce6b2a7e0707fe — \[research revision\] continuation brief](../records/0153.md#local-section-7a88316e4cce6b2a7e0707fe-632299919e)
 - [local-section:7aeb97a96c0caadc8683f3ef — R7. Exact counted reduction and all complements](../records/0153.md#local-section-7aeb97a96c0caadc8683f3ef-ebe06cff21)
@@ -255,4 +256,3 @@ Page 1/2; 492 matching records.
 - [local-section:7e20b3e5e6fbf78f646eb9a5 — F04. Sextic reflection, physical covariance, probe and numerator](../records/0153.md#local-section-7e20b3e5e6fbf78f646eb9a5-f250f8de2e)
 - [local-section:7eea77463838b863b1985ed9 — Surviving mechanism and direct-return boundary](../records/0153.md#local-section-7eea77463838b863b1985ed9-e67f9928f1)
 - [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0153.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)
-- [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)

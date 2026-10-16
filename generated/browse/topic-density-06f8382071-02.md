@@ -210,7 +210,7 @@ Page 2/7; 1591 matching records.
 - [local-section:118962e5d5a0ffed9a944bcf — F18. Short intervals, exceptional rows and amplitude-sensitive bounds](../records/0139.md#local-section-118962e5d5a0ffed9a944bcf-e53bd8bbab)
 - [local-section:11939212cfe4e8506a24c95d — G102. Three complete physical returns](../records/0139.md#local-section-11939212cfe4e8506a24c95d-3aaaf91be1)
 - [local-section:11aed782bac35ff6dd5212da — W40 — signed boundary budgets, the cost of positivity, and long projector cycles](../records/0139.md#local-section-11aed782bac35ff6dd5212da-7c09a722f8)
-- [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0139.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
+- [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0140.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)

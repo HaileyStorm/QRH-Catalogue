@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 33/43; 10577 matching records.
+Page 33/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-32.md)
 
 [Next](status-unknown-b23a6a8439-34.md)
 
+- [local-section:73c7b2271b0da0f3d52e9cdd — 5. The other three first tests, with exact scope](../records/0152.md#local-section-73c7b2271b0da0f3d52e9cdd-c950611f83)
 - [local-section:73dbbdfd697186be8a456262 — R10. All thirty final dispositions and portfolio comparison](../records/0152.md#local-section-73dbbdfd697186be8a456262-c123025ace)
 - [local-section:73dec1ac53b5eb9be1d2d710 — 9. Exact remaining estimate and limitations](../records/0152.md#local-section-73dec1ac53b5eb9be1d2d710-0ab5d5d06f)
 - [local-section:73e5729a73d2819ab143671f — 1. Gcd-one and large-shift obstruction](../records/0152.md#local-section-73e5729a73d2819ab143671f-4722f97278)
@@ -146,7 +147,7 @@ Page 33/43; 10577 matching records.
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0153.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
-- [local-section:7fbfafbaccc58a2dc64c8d35 — G143. Divisor-erasure recovery with literal coprimality and two prices](../records/0153.md#local-section-7fbfafbaccc58a2dc64c8d35-2bda48b58e)
+- [local-section:7fbfafbaccc58a2dc64c8d35 — G143. Divisor-erasure recovery with literal coprimality and two prices](../records/0154.md#local-section-7fbfafbaccc58a2dc64c8d35-2bda48b58e)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
 - [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0154.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
@@ -227,7 +228,7 @@ Page 33/43; 10577 matching records.
 - [local-section:87971ae77a1cfda3c8258cbd — 5. Additional complete endpoint improvement](../records/0154.md#local-section-87971ae77a1cfda3c8258cbd-55b0988d84)
 - [local-section:879858b64770c1e697414eaf — 5. Original Schwartz weight, all tails and fixed-datum uniformity](../records/0154.md#local-section-879858b64770c1e697414eaf-48dc2ff484)
 - [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0154.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
-- [local-section:87a9affb06a07980f7a55421 — B1. Finite-prime f3 parity is much smaller than the full unknown parity](../records/0154.md#local-section-87a9affb06a07980f7a55421-5784ae6369)
+- [local-section:87a9affb06a07980f7a55421 — B1. Finite-prime f3 parity is much smaller than the full unknown parity](../records/0155.md#local-section-87a9affb06a07980f7a55421-5784ae6369)
 - [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0155.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
 - [local-section:87f2d1112ecba41ba147a17e — 2. Primary prime input and order of quantifiers](../records/0155.md#local-section-87f2d1112ecba41ba147a17e-ed8c0e6086)
 - [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0155.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
@@ -257,4 +258,3 @@ Page 33/43; 10577 matching records.
 - [local-section:8a7f11db1862a117ee96f1aa — 4. The original inverse moment and the exact surviving source](../records/0155.md#local-section-8a7f11db1862a117ee96f1aa-26e4058738)
 - [local-section:8a86dfdbb9ff47121d7b3150 — W40-12 — Multiplicative matrix martingale with signed increments; p=.06](../records/0155.md#local-section-8a86dfdbb9ff47121d7b3150-716bebf933)
 - [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
-- [local-section:8a927db3735ee3decd667c43 — W40-26 — Sieve syndrome with exact erasure completion; p=.009](../records/0155.md#local-section-8a927db3735ee3decd667c43-50dc6fb6f7)

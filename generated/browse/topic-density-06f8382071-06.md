@@ -64,7 +64,7 @@ Page 6/7; 1591 matching records.
 - [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0172.md#local-g202-0d8b3cdd46)
 - [local:G205 — G205: small cube cores with paid sixth-power punctures](../records/0172.md#local-g205-927f8dbb85)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
-- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
+- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G236 — G236. Finite-table admission of the complete retained error at the K6 cone](../records/0173.md#local-g236-c50cb8b3f4)
 - [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0173.md#local-g244-a12ada8918)

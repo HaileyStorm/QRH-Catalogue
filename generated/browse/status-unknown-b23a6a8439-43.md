@@ -2,10 +2,11 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 43/43; 10577 matching records.
+Page 43/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-42.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycollected-645bf41129)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh-eb02a37f8d)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-cb4afd2ddd)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-f519a72c51)

@@ -2,12 +2,13 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 63/71; 17524 matching records.
+Page 63/71; 17525 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-64.md)
 
+- [pr26:Cycle25.Assembly.Parameters::b_pos@206 — b_pos](../records/0198.md#pr26-cycle25-assembly-parameters-b-pos-206-58c408ef19)
 - [pr26:Cycle25.Assembly.Parameters::ell@177 — ell](../records/0198.md#pr26-cycle25-assembly-parameters-ell-177-975e85feb0)
 - [pr26:Cycle25.Assembly.Parameters::ell_interval@185 — ell_interval](../records/0198.md#pr26-cycle25-assembly-parameters-ell-interval-185-8b44a4c345)
 - [pr26:Cycle25.Assembly.Parameters::ell_lt_one_fifth@204 — ell_lt_one_fifth](../records/0198.md#pr26-cycle25-assembly-parameters-ell-lt-one-fifth-204-1739a084a3)
@@ -88,7 +89,7 @@ Page 63/71; 17524 matching records.
 - [pr26:Cycle25.Energy.KappaGeometry — Cycle25.Energy.KappaGeometry](../records/0198.md#pr26-cycle25-energy-kappageometry-da8f842627)
 - [pr26:Cycle25.Energy.KappaGeometry::compact_mesh_le@97 — compact_mesh_le](../records/0198.md#pr26-cycle25-energy-kappageometry-compact-mesh-le-97-a9494376fd)
 - [pr26:Cycle25.Energy.KappaGeometry::comparison_denominator_pos@89 — comparison_denominator_pos](../records/0198.md#pr26-cycle25-energy-kappageometry-comparison-denominator-pos-89-2d39418959)
-- [pr26:Cycle25.Energy.KappaGeometry::comparison_margin@92 — comparison_margin](../records/0198.md#pr26-cycle25-energy-kappageometry-comparison-margin-92-b56def0a6e)
+- [pr26:Cycle25.Energy.KappaGeometry::comparison_margin@92 — comparison_margin](../records/0199.md#pr26-cycle25-energy-kappageometry-comparison-margin-92-b56def0a6e)
 - [pr26:Cycle25.Energy.LiveClippingDefect — Cycle25.Energy.LiveClippingDefect](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-fe46d08413)
 - [pr26:Cycle25.Energy.LiveClippingDefect::endpoint_threshold@113 — endpoint_threshold](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-endpoint-threshold-113-3a1509bd2c)
 - [pr26:Cycle25.Energy.LiveClippingDefect::energy_support_witness@167 — energy_support_witness](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-energy-support-witness-167-a4a8715f5b)
@@ -188,7 +189,7 @@ Page 63/71; 17524 matching records.
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_le_72@577 — weighted_sourceFixedIdeal_le_72](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-df50386092)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_le_modulus@576 — weighted_sourceFixedIdeal_le_modulus](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-711966ce49)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_ne_top@564 — weighted_sourceFixedIdeal_ne_top](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-7cc6f07b66)
-- [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_ne_zero@560 — weighted_sourceFixedIdeal_ne_zero](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-393dc0b2eb)
+- [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_ne_zero@560 — weighted_sourceFixedIdeal_ne_zero](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-393dc0b2eb)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_exceptional_norm@586 — weighted_source_exceptional_norm](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-exceptio-52b20de1a8)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_fixed_gates@604 — weighted_source_fixed_gates](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-fixed-ga-06a605c9ca)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_keep_iff@600 — weighted_source_keep_iff](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-keep-iff-4bdc952848)
@@ -257,4 +258,3 @@ Page 63/71; 17524 matching records.
 - [pr26:Cycle25.Energy.ReferenceLowDeletedGeometry — Cycle25.Energy.ReferenceLowDeletedGeometry](../records/0200.md#pr26-cycle25-energy-referencelowdeletedgeometry-fdbc9dba3b)
 - [pr26:Cycle25.Energy.ReferenceLowDeletedGeometry::actual_deleted_gates@439 — actual_deleted_gates](../records/0200.md#pr26-cycle25-energy-referencelowdeletedgeometry-actual-deleted-ga-fff286cc59)
 - [pr26:Cycle25.Energy.ReferenceLowWindow — Cycle25.Energy.ReferenceLowWindow](../records/0200.md#pr26-cycle25-energy-referencelowwindow-38a5659bb3)
-- [pr26:Cycle25.Energy.ReferenceLowWindow::deleted_reference_window@396 — deleted_reference_window](../records/0200.md#pr26-cycle25-energy-referencelowwindow-deleted-reference-window-3-2513b370bc)

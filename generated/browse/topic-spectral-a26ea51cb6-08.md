@@ -142,7 +142,7 @@ Page 8/13; 3035 matching records.
 - [local-section:59ecf56b5139705d57b151a3 — 6. All30 dispositions and exact ancestry](../records/0148.md#local-section-59ecf56b5139705d57b151a3-aa4a959e61)
 - [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0148.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
 - [local-section:5a662def14ed9a5a5f2ddbe0 — Exhaustive detail and scope](../records/0148.md#local-section-5a662def14ed9a5a5f2ddbe0-3e627d83b3)
-- [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0148.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
+- [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0149.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
 - [local-section:5aac125acab88f998a2cc8cf — Evidence, chronology and sampling](../records/0149.md#local-section-5aac125acab88f998a2cc8cf-d9f0e2c3d6)
 - [local-section:5ae458469ad44675a761f9d4 — 7. Uniform parked audit18: continuation of a state does not continue zero exclusion](../records/0149.md#local-section-5ae458469ad44675a761f9d4-546bd83dce)
 - [local-section:5aea68852bba3e0968911c8a — 6. Full detector rectangle, complements and reciprocal return](../records/0149.md#local-section-5aea68852bba3e0968911c8a-871d3fa416)

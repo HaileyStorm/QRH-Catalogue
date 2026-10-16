@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 492 matching records.
+Page 2/2; 493 matching records.
 
 [Previous](topic-sextic-5501a98e33-01.md)
 
+- [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:81043dce3bb11070b43ef75d — 4. Forced rows and the all-multiplicity second inequality](../records/0154.md#local-section-81043dce3bb11070b43ef75d-4bd2a31498)
 - [local-section:81884ab57ca1812f1498031a — \[research revision\] independent review: two complementary witnesses on one far annulus](../records/0154.md#local-section-81884ab57ca1812f1498031a-f483e7cda3)
@@ -191,7 +192,7 @@ Page 2/2; 492 matching records.
 - [local-section:f9408f431fd6b0324deca0e4 — \[research revision\]: all four cross-gcd sectors paid in the original mixed source](../records/0169.md#local-section-f9408f431fd6b0324deca0e4-e2646470c9)
 - [local-section:f9d9026ef10be9566ac27635 — \[research revision\]: one fixed balanced test and limits of the existing sextic budget](../records/0169.md#local-section-f9d9026ef10be9566ac27635-4ce442e709)
 - [local-section:fa62fc4a35195368b7d07b8e — 1. Frozen evidence and inherited scope](../records/0169.md#local-section-fa62fc4a35195368b7d07b8e-954f13fc24)
-- [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0169.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
+- [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0170.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
 - [local-section:fcbfa837cee2fa7f04834c31 — 3. Literal valuations, both signs and the unbounded certificate](../records/0170.md#local-section-fcbfa837cee2fa7f04834c31-246395c66a)
 - [local-section:fe5b12a0c478cf430fc6f2b4 — 2. Exact source family and the positive norm](../records/0170.md#local-section-fe5b12a0c478cf430fc6f2b4-0500959a92)
 - [local-section:fee0b6b46d59b6fca7b7118a — 7. Exact norm, coefficients and the full sixth-power diagonal](../records/0170.md#local-section-fee0b6b46d59b6fca7b7118a-ecbfc6b720)
@@ -217,7 +218,7 @@ Page 2/2; 492 matching records.
 - [local:G210 — G210. Unequal energies and all collision-label sums](../records/0172.md#local-g210-2b166add49)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0172.md#local-g212-6e2dec84ed)
 - [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0172.md#local-g213-46d38d3f6e)
-- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
+- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G219 — G219. Actual principal channels and the cheapest generic price](../records/0173.md#local-g219-b390f41fe3)
 - [local:G221 — G221. The user's quaternion identity on the actual Jordan source](../records/0173.md#local-g221-56d05db393)

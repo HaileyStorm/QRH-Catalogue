@@ -76,7 +76,7 @@ Page 4/4; 933 matching records.
 - [local-section:f36856d31f7769c616707c11 — \[research revision\]: complete Gaussian compression and source-feedback obstructions](../records/0168.md#local-section-f36856d31f7769c616707c11-1b4a6267d5)
 - [local-section:f3f6112b3549379c0b822adf — G95. An exact source with a positive signed global leading term](../records/0168.md#local-section-f3f6112b3549379c0b822adf-e72e558c7a)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
-- [local-section:f42a841878e5f1146653e007 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0168.md#local-section-f42a841878e5f1146653e007-9245de9c38)
+- [local-section:f42a841878e5f1146653e007 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0169.md#local-section-f42a841878e5f1146653e007-9245de9c38)
 - [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)

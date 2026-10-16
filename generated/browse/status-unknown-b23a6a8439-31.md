@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 31/43; 10577 matching records.
+Page 31/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-30.md)
 
 [Next](status-unknown-b23a6a8439-32.md)
 
+- [local-section:48873052cc12973abca5550a — 4. New component \[research revision\]-C1: paid transfer among the three fixed detectors](../records/0146.md#local-section-48873052cc12973abca5550a-0fb392db2e)
 - [local-section:48cc93968c120f3f49e873a3 — Evidence boundary and next mechanism](../records/0146.md#local-section-48cc93968c120f3f49e873a3-977a472667)
 - [local-section:48d81bbb109abceb01dfd3a3 — 7. Fixed-depth deflation and its qualifications](../records/0146.md#local-section-48d81bbb109abceb01dfd3a3-ccd4dabfde)
 - [local-section:48e296f683913ff4ab75ae1b — 3. Full shrinking-arc observation and all-height return](../records/0146.md#local-section-48e296f683913ff4ab75ae1b-ca2f6c6055)
@@ -41,7 +42,7 @@ Page 31/43; 10577 matching records.
 - [local-section:4ad1eb38722b14121e267136 — 3.2 An exact prime-graph storage identity, including the harmonic part](../records/0146.md#local-section-4ad1eb38722b14121e267136-363daca0df)
 - [local-section:4adfcd9927c7a778aede1351 — Source and inherited payment](../records/0146.md#local-section-4adfcd9927c7a778aede1351-f62a89760a)
 - [local-section:4b1d2cb21f739d79f8e32eb8 — 4. An explicit cofactor and its nontriviality](../records/0146.md#local-section-4b1d2cb21f739d79f8e32eb8-3d86a84efd)
-- [local-section:4b49c3af65b872558ceeb624 — 6. Every card remains in the record](../records/0146.md#local-section-4b49c3af65b872558ceeb624-f8201febef)
+- [local-section:4b49c3af65b872558ceeb624 — 6. Every card remains in the record](../records/0147.md#local-section-4b49c3af65b872558ceeb624-f8201febef)
 - [local-section:4b6183d240ee3d2454ac79e1 — 1. Exact replacement source: squarefree divisor incidence](../records/0147.md#local-section-4b6183d240ee3d2454ac79e1-8b8ec849d9)
 - [local-section:4b62d4f321984b6a9731e281 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0147.md#local-section-4b62d4f321984b6a9731e281-dcaaf4eaa7)
 - [local-section:4b6547fa2e01d05ba4979d39 — 5. The fixed-order future return and its necessary distinction](../records/0147.md#local-section-4b6547fa2e01d05ba4979d39-70bcffd0a5)
@@ -125,7 +126,7 @@ Page 31/43; 10577 matching records.
 - [local-section:51dd62ac4027d1fb1b6b7f4e — 8. The complete sixth-power diagonal is already paid](../records/0147.md#local-section-51dd62ac4027d1fb1b6b7f4e-923b06618b)
 - [local-section:51f13662bfc2859152fc19f1 — 3.2 The stable inverse runs to larger scales](../records/0147.md#local-section-51f13662bfc2859152fc19f1-ed183a2ed9)
 - [local-section:51f6e2b5b0a0cf8350f37877 — 3. W56-26: integral persistence and its complete source return](../records/0147.md#local-section-51f6e2b5b0a0cf8350f37877-a9a712c208)
-- [local-section:521a65bd06cff0d387a67f71 — 3. Complete physical return](../records/0147.md#local-section-521a65bd06cff0d387a67f71-156c7be0e1)
+- [local-section:521a65bd06cff0d387a67f71 — 3. Complete physical return](../records/0148.md#local-section-521a65bd06cff0d387a67f71-156c7be0e1)
 - [local-section:522606e71e4fa744c99b0900 — 3. The marked free-row inverse amplifier](../records/0148.md#local-section-522606e71e4fa744c99b0900-cf2ccad6a8)
 - [local-section:5275eb7ab736eefaf93d2e42 — 2. Coefficient-specific short-divisor H](../records/0148.md#local-section-5275eb7ab736eefaf93d2e42-720a470635)
 - [local-section:52ba0be33d9408521c0a7c86 — Evidence and next use](../records/0148.md#local-section-52ba0be33d9408521c0a7c86-856bb5afdb)
@@ -218,7 +219,7 @@ Page 31/43; 10577 matching records.
 - [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0148.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
 - [local-section:5a5cd36f1291572257b6d6f8 — Finite optimization and interpolation do not pay that residual](../records/0148.md#local-section-5a5cd36f1291572257b6d6f8-c673b2deaa)
 - [local-section:5a662def14ed9a5a5f2ddbe0 — Exhaustive detail and scope](../records/0148.md#local-section-5a662def14ed9a5a5f2ddbe0-3e627d83b3)
-- [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0148.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
+- [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0149.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
 - [local-section:5a7afd60e03b6ca2fce08076 — W40-04 — Unit-orbit trace annihilation; p=.18](../records/0149.md#local-section-5a7afd60e03b6ca2fce08076-19d7a178e9)
 - [local-section:5a9fce7a02bf3638606db425 — 8. Fixed-inducing coherence and why the rest remains difficult](../records/0149.md#local-section-5a9fce7a02bf3638606db425-1c0d65271c)
 - [local-section:5aaab1f0a95a9cf527020a6b — G207: full product, collisions and weighted removal](../records/0149.md#local-section-5aaab1f0a95a9cf527020a6b-4f1f682741)
@@ -257,4 +258,3 @@ Page 31/43; 10577 matching records.
 - [local-section:5da5725d044d3885cf6d8090 — 1. Source convergence does not imply continuity of the continued period](../records/0149.md#local-section-5da5725d044d3885cf6d8090-5d7ebfdf74)
 - [local-section:5da736c5f459fdea2b79a8f8 — Frozen evidence and independence](../records/0149.md#local-section-5da736c5f459fdea2b79a8f8-827b485fbc)
 - [local-section:5daa626dd9819fd8b1aae3ff — 5. Phase signal, interval width and zero return](../records/0149.md#local-section-5daa626dd9819fd8b1aae3ff-1b02ca9b73)
-- [local-section:5defa0d3940b3c566aeae3cc — Why G71 rules out the coarse-data shortcut](../records/0149.md#local-section-5defa0d3940b3c566aeae3cc-76f3ab2ff5)

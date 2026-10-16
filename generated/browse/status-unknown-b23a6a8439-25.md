@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 25/43; 10577 matching records.
+Page 25/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-24.md)
 
@@ -123,6 +123,7 @@ Page 25/43; 10577 matching records.
 - [QRH-CONT-R027-MOVING-GAUSS-PHASE — Actual reflected Gauss phase, collision lift and moving frequency in the PR8 pairing](../records/0131.md#qrh-cont-r027-moving-gauss-phase-d9334b8478)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
 - [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
+- [QRH-CONT-R034-PRIME-OVERLAP-MOMENT — Exact selected/full prime overlap and a short-product moment with repeated primes](../records/0131.md#qrh-cont-r034-prime-overlap-moment-7c0306af14)
 - [exact-source:0017cd4ac1c1b486d44db640 — Exact source span: dd4aed8124f9 lines 175–175](../records/0131.md#exact-source-0017cd4ac1c1b486d44db640-d9ad901cae)
 - [exact-source:0034e41db97d6416963dcf7f — Exact source span: 3582859b4716 lines 713–747](../records/0131.md#exact-source-0034e41db97d6416963dcf7f-29360534d8)
 - [exact-source:00e55c4bc0250e01c45ac11c — Exact source span: c750f6364171 lines 174–230](../records/0131.md#exact-source-00e55c4bc0250e01c45ac11c-788ef64e02)
@@ -189,7 +190,7 @@ Page 25/43; 10577 matching records.
 - [exact-source:1c5c9820a88a3f614888c9ce — Exact source span: 2b4c67c3e817 lines 1103–1105](../records/0131.md#exact-source-1c5c9820a88a3f614888c9ce-040f100320)
 - [exact-source:1c71f54ff0bf57379c1560ba — Exact source span: dd4aed8124f9 lines 145–145](../records/0131.md#exact-source-1c71f54ff0bf57379c1560ba-e250bb7806)
 - [exact-source:1db8b39829141e7c479815ee — Exact source span: c79eb708286d lines 150–226](../records/0131.md#exact-source-1db8b39829141e7c479815ee-68f03e8a16)
-- [exact-source:1ea04959346483b75fc1db69 — Exact source span: 54f9692de185 lines 261–385](../records/0131.md#exact-source-1ea04959346483b75fc1db69-b0a7a591f4)
+- [exact-source:1ea04959346483b75fc1db69 — Exact source span: 54f9692de185 lines 261–385](../records/0132.md#exact-source-1ea04959346483b75fc1db69-b0a7a591f4)
 - [exact-source:1ed0f6c34810239bc942d704 — Exact source span: dd4aed8124f9 lines 460–460](../records/0132.md#exact-source-1ed0f6c34810239bc942d704-a6ddd29cda)
 - [exact-source:1fc6a206b77d1c58415f116a — Exact source span: dd4aed8124f9 lines 1231–1231](../records/0132.md#exact-source-1fc6a206b77d1c58415f116a-b00bbe2ea1)
 - [exact-source:1ff4a859d199fcb928bab875 — Exact source span: 5c4a5571174c lines 103–109](../records/0132.md#exact-source-1ff4a859d199fcb928bab875-ca765723cc)
@@ -257,4 +258,3 @@ Page 25/43; 10577 matching records.
 - [exact-source:38f628aac826d4dae813cfd2 — Exact source span: e35dbe7b205d lines 1818–1906](../records/0132.md#exact-source-38f628aac826d4dae813cfd2-7ce7d9b942)
 - [exact-source:394b37a33f815db8ca3ba506 — Exact source span: e35dbe7b205d lines 1579–1581](../records/0132.md#exact-source-394b37a33f815db8ca3ba506-c9035c4749)
 - [exact-source:3b0e873e190a1918aef8a9ac — Exact source span: dd4aed8124f9 lines 1126–1126](../records/0132.md#exact-source-3b0e873e190a1918aef8a9ac-a1e0bc3543)
-- [exact-source:3b0e8e2012bb5ede1b3a8429 — Exact source span: 1a30da069dfd lines 12–217](../records/0132.md#exact-source-3b0e8e2012bb5ede1b3a8429-4fe8375f3e)

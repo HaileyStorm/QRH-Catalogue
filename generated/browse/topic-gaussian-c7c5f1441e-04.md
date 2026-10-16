@@ -61,7 +61,7 @@ Page 4/6; 1280 matching records.
 - [local-section:9e61a7c5ca71cac9ba393287 — 4. Uniform negative lines and all completion errors](../records/0157.md#local-section-9e61a7c5ca71cac9ba393287-dcf81e8b2b)
 - [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0157.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
 - [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0157.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
-- [local-section:9e8b6e2d5ff4eb91922a49b4 — 1. The local-set theorem](../records/0157.md#local-section-9e8b6e2d5ff4eb91922a49b4-44e5160df5)
+- [local-section:9e8b6e2d5ff4eb91922a49b4 — 1. The local-set theorem](../records/0158.md#local-section-9e8b6e2d5ff4eb91922a49b4-44e5160df5)
 - [local-section:9eb45c19b5afa5af61670699 — \[research revision\]: a complete parity-adapted Jordan source](../records/0158.md#local-section-9eb45c19b5afa5af61670699-d4adc9e64a)
 - [local-section:9eeaae04a77866e237e74ab4 — W38: accepted developments and independent additions](../records/0158.md#local-section-9eeaae04a77866e237e74ab4-dd3b38b3ed)
 - [local-section:9f23ecef4ce615b5200a150e — 2. Agreement with the independently derived transfer](../records/0158.md#local-section-9f23ecef4ce615b5200a150e-ac1322a046)

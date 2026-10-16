@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21783 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21784 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -104,7 +104,7 @@
 - [G112 — G112. Coalescence does not lower the independent-defect power cost](records/0171.md#local-g112-576f044b32)
 - [G113 — G113. Actual signed profiles buy logarithms, with exact limits](records/0171.md#local-g113-6c10bbc310)
 - [G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](records/0171.md#local-g114-fec7178ffd)
-- [G115 — 3. G115: complete cutoffs agree at the actual zero](records/0171.md#local-g115-d13affe636)
+- [G115 — 3. G115: complete cutoffs agree at the actual zero](records/0172.md#local-g115-d13affe636)
 - [G116 — 1. G116: a complete paid complement for integer renewal](records/0172.md#local-g116-82b0aa6b3e)
 - [G117 — 2. G117: two precisely scoped certificate obstructions](records/0172.md#local-g117-ec123049a5)
 - [G118 — 3. G118: finite-prefix and all-layer audits](records/0172.md#local-g118-50557224bc)
@@ -204,7 +204,7 @@
 - [G211 — G211. Paid cores in the nonunique companion and the retained hard sum](records/0172.md#local-g211-d9305c406e)
 - [G212 — G212. Fixed-family binding and complete row/column lifts](records/0172.md#local-g212-6e2dec84ed)
 - [G213 — G213. Average the true cubic label before counting repetitions](records/0172.md#local-g213-46d38d3f6e)
-- [G214 — G214. Counted sectors and the full physical obstruction](records/0172.md#local-g214-3db1fe9e64)
+- [G214 — G214. Counted sectors and the full physical obstruction](records/0173.md#local-g214-3db1fe9e64)
 - [G215 — G215. Exact source, complete localization and all-height return](records/0173.md#local-g215-a9fc13c4f5)
 - [G216 — G216. Exact recovery, actual absolute cost and complete diagonal](records/0173.md#local-g216-ffe0a34c47)
 - [G217 — G217. Actual-source obstructions and their exact scopes](records/0173.md#local-g217-1ea6acd977)
@@ -224,7 +224,7 @@
 - [G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](records/0173.md#local-g3-c51dd6c4a6)
 - [G4 — G4 — p\<.10, analytic continuation/control representation replacement](records/0173.md#local-g4-fb1605101b)
 - [G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](records/0173.md#local-g5-edf12c141c)
-- [G6 — G6 — p\<.01, sieve/information construction from obstruction](records/0173.md#local-g6-e89f333778)
+- [G6 — G6 — p\<.01, sieve/information construction from obstruction](records/0174.md#local-g6-e89f333778)
 - [G67 — G67. Signed logarithmic bounds return the complete exponent](records/0174.md#local-g67-a2b717289d)
 - [G68 — G68. Exact degree energy and the retained arithmetic response](records/0174.md#local-g68-8d260df78f)
 - [G69 — G69. The global Euler norm fails; its mass escapes the physical scale](records/0174.md#local-g69-9bdd438ff0)

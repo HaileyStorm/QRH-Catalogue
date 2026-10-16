@@ -92,7 +92,7 @@ Page 1/2; 393 matching records.
 - [local-section:105d9c611051bc39e62c6132 — 1. Source scope and independent evidence](../records/0139.md#local-section-105d9c611051bc39e62c6132-b9ca5f4303)
 - [local-section:11939212cfe4e8506a24c95d — G102. Three complete physical returns](../records/0139.md#local-section-11939212cfe4e8506a24c95d-3aaaf91be1)
 - [local-section:120afe3f057270e2275d23a0 — \[research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0139.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
-- [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0139.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
+- [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0140.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
 - [local-section:145bccf19c137b7b5994d21e — 1. Exact results and scope](../records/0140.md#local-section-145bccf19c137b7b5994d21e-a9448df08e)
 - [local-section:149c84564a03cd06d3ee04f2 — \[research revision\]: merged integration and new arithmetic reductions](../records/0140.md#local-section-149c84564a03cd06d3ee04f2-64a140e3f0)
 - [local-section:1526c36d896dbdbe70417860 — 2. Sources, exact bindings and independent method](../records/0140.md#local-section-1526c36d896dbdbe70417860-d5d9e35c1c)

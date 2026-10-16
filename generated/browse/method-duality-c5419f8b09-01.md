@@ -225,7 +225,7 @@ Page 1/6; 1437 matching records.
 - [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:01d79cb7aff6695e0c575cb6 — 2. Why the larger amplifier is actually admissible](../records/0137.md#local-section-01d79cb7aff6695e0c575cb6-4d4f42fa5e)
 - [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0137.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
-- [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0137.md#local-section-0284376a987e153d891eefa5-13814419e2)
+- [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0138.md#local-section-0284376a987e153d891eefa5-13814419e2)
 - [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0138.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
 - [local-section:02b41380eaa7f3da4806f180 — 7. Evidence, limits and next mathematical action](../records/0138.md#local-section-02b41380eaa7f3da4806f180-b77494ddb6)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)

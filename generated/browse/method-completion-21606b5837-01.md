@@ -221,7 +221,7 @@ Page 1/3; 601 matching records.
 - [local-section:572811beacd136b8e447ed7e — F. Alternative zero detectors, positive covers and finite-data failures](../records/0148.md#local-section-572811beacd136b8e447ed7e-7e438d1a6c)
 - [local-section:590fb4eb4f00b758afe3738c — Sol03 independent Astra validation](../records/0148.md#local-section-590fb4eb4f00b758afe3738c-15e8217095)
 - [local-section:597764c0d2ac1c60e12bf504 — Available mathematical inputs](../records/0148.md#local-section-597764c0d2ac1c60e12bf504-0f738d17b1)
-- [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0148.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
+- [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0149.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
 - [local-section:5c24764ac8c14f54a56d15dd — 2. Exact finite prediction and every-height return](../records/0149.md#local-section-5c24764ac8c14f54a56d15dd-88b738ba7a)
 - [local-section:5e41a53a0ce89eefae710ade — Independent review: retained first-support reserve and partial marked-plain density](../records/0149.md#local-section-5e41a53a0ce89eefae710ade-0bf2a3e9e8)
 - [local-section:5efb120595e13df052683ef6 — \[research revision\] independent review: affine local window and complete c5 endpoint](../records/0149.md#local-section-5efb120595e13df052683ef6-585d761133)

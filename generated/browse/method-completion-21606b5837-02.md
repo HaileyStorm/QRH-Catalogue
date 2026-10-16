@@ -72,7 +72,7 @@ Page 2/3; 601 matching records.
 - [local-section:95afbdfa00ffec8d5b588cb9 — Independent Astra validation of post52 Sol batch02](../records/0156.md#local-section-95afbdfa00ffec8d5b588cb9-6d640f51ee)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0156.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
 - [local-section:970e32e13595436ccbf2bbf0 — Initial discovery, before duplicate pruning](../records/0156.md#local-section-970e32e13595436ccbf2bbf0-3ff1c320df)
-- [local-section:973513bf90fab49d339ffccf — 7. What remains open, evidence and provenance](../records/0156.md#local-section-973513bf90fab49d339ffccf-a7d0d49c47)
+- [local-section:973513bf90fab49d339ffccf — 7. What remains open, evidence and provenance](../records/0157.md#local-section-973513bf90fab49d339ffccf-a7d0d49c47)
 - [local-section:97e0e31b129b6bce89d3d12b — A. Exterior completion: valid local progress, exact global gap](../records/0157.md#local-section-97e0e31b129b6bce89d3d12b-e5378af542)
 - [local-section:98bddaa71503065dfe03bf1e — Decision](../records/0157.md#local-section-98bddaa71503065dfe03bf1e-bec6225755)
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)

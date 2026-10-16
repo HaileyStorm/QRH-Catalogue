@@ -165,7 +165,7 @@ Page 1/3; 699 matching records.
 - [local-section:3b38e2d5547e4d4f5b45a765 — A. Higher arity: a paid bridge already exists, and the positive hard cell remains](../records/0144.md#local-section-3b38e2d5547e4d4f5b45a765-84f065f4e8)
 - [local-section:3b52d14c5c53372827ad1cbf — 4. Completed cube-free mean and finite incidence](../records/0144.md#local-section-3b52d14c5c53372827ad1cbf-a5445b4d56)
 - [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0144.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
-- [local-section:3c5a0aa24c5403797f36c878 — Required precision: limiting exponent versus exact-line inverse](../records/0144.md#local-section-3c5a0aa24c5403797f36c878-385c35d442)
+- [local-section:3c5a0aa24c5403797f36c878 — Required precision: limiting exponent versus exact-line inverse](../records/0145.md#local-section-3c5a0aa24c5403797f36c878-385c35d442)
 - [local-section:3c7bddd6d41be992888ec504 — 5. Strongest objections and decisive limitations](../records/0145.md#local-section-3c7bddd6d41be992888ec504-be4434e89d)
 - [local-section:3cfdf4d1d647ce561c250fd8 — 4. C1–8: full biased-Walsh reconstruction and its price](../records/0145.md#local-section-3cfdf4d1d647ce561c250fd8-8beecf9d47)
 - [local-section:3d52997242716c23224c1f70 — 2. Exact decomposition and local Euler factors](../records/0145.md#local-section-3d52997242716c23224c1f70-3675c39c6d)

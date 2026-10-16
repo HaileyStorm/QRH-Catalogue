@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 35/43; 10577 matching records.
+Page 35/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-34.md)
 
 [Next](status-unknown-b23a6a8439-36.md)
 
+- [local-section:a102b147a0c02997e7165cbe — 2. Exact sources and what they permit](../records/0158.md#local-section-a102b147a0c02997e7165cbe-d9dcc3de11)
 - [local-section:a11ea84a5792a2834b3367e0 — 3. Exact pair support and the actual folded diagonal](../records/0158.md#local-section-a11ea84a5792a2834b3367e0-8e1294843f)
 - [local-section:a1443f36799de83a732d9f41 — 3. B: full source transport and its actual cost](../records/0158.md#local-section-a1443f36799de83a732d9f41-d007a31e86)
 - [local-section:a144bd08f4cb3688f0b19e74 — The physical improvement](../records/0158.md#local-section-a144bd08f4cb3688f0b19e74-280f0ecd6d)
@@ -73,7 +74,7 @@ Page 35/43; 10577 matching records.
 - [local-section:a5f0a6009bd4c52b7ec366eb — C. Strong objection: the actual output is not power-small](../records/0158.md#local-section-a5f0a6009bd4c52b7ec366eb-86e06d971a)
 - [local-section:a61f8bbd7434472d68da6191 — UR7. Fixed delta=2: norm 20 and the complete inverse readout](../records/0158.md#local-section-a61f8bbd7434472d68da6191-5453eba6a6)
 - [local-section:a64787345f954944b2ee6f89 — 3. Two dilation filters, sharp frame constants and causal reconstruction](../records/0158.md#local-section-a64787345f954944b2ee6f89-fd83c55460)
-- [local-section:a6664dc20b130f0fc18120ae — W40-24 — Integer cycle-flow cancellation; p=.008](../records/0158.md#local-section-a6664dc20b130f0fc18120ae-8da697d664)
+- [local-section:a6664dc20b130f0fc18120ae — W40-24 — Integer cycle-flow cancellation; p=.008](../records/0159.md#local-section-a6664dc20b130f0fc18120ae-8da697d664)
 - [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0159.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
 - [local-section:a69f4443c647dcc7a24d3bdd — 4. Finite product cap and the entire odd-frequency tail](../records/0159.md#local-section-a69f4443c647dcc7a24d3bdd-07b3b0d0c0)
 - [local-section:a6b186245542142cbdcb8d94 — 1. The imported estimate has the claimed normalization and usable uniformity](../records/0159.md#local-section-a6b186245542142cbdcb8d94-4892932e05)
@@ -165,7 +166,7 @@ Page 35/43; 10577 matching records.
 - [local-section:ae070b23fbd1060340f8c7f9 — 3.3 Explicit constants: no free growing-color import](../records/0159.md#local-section-ae070b23fbd1060340f8c7f9-01d0421437)
 - [local-section:ae0a1ee22c954b72a787627d — 4. Ten author tests and two independent audits](../records/0159.md#local-section-ae0a1ee22c954b72a787627d-f01df5e65a)
 - [local-section:ae24a894a18af9497a6f3f03 — 1. Immutable evidence and independence](../records/0159.md#local-section-ae24a894a18af9497a6f3f03-4af53b905f)
-- [local-section:ae2582e0c12178d3cb9d9c69 — 3. Protected S29: a stable prime state still needs a signed observation theorem](../records/0159.md#local-section-ae2582e0c12178d3cb9d9c69-94ce0442f3)
+- [local-section:ae2582e0c12178d3cb9d9c69 — 3. Protected S29: a stable prime state still needs a signed observation theorem](../records/0160.md#local-section-ae2582e0c12178d3cb9d9c69-94ce0442f3)
 - [local-section:ae2c65cc6ad827cabebbbbf9 — Pointwise actual-source consequence](../records/0160.md#local-section-ae2c65cc6ad827cabebbbbf9-b993f2f6ed)
 - [local-section:ae2cc2f36ccfdfe97581f8ec — 2. The fixed Gaussian and the interpolation step](../records/0160.md#local-section-ae2cc2f36ccfdfe97581f8ec-d524b8b687)
 - [local-section:ae82ba1104a88be3733a3611 — 7. Actual signs and the terminal Gaussian complement](../records/0160.md#local-section-ae82ba1104a88be3733a3611-6db79f45ec)
@@ -255,6 +256,5 @@ Page 35/43; 10577 matching records.
 - [local-section:b68730de5c6aa2b6fb7e21d3 — 2. Local allocation coefficients and complete coalescence](../records/0160.md#local-section-b68730de5c6aa2b6fb7e21d3-4d16e03068)
 - [local-section:b6a78353b84b367161989161 — 4. Exact reduction of every source power](../records/0160.md#local-section-b6a78353b84b367161989161-8ad22943c2)
 - [local-section:b6a7f1f11c36d67becfb44e6 — 5. Complete changed endpoint geometry and shifts](../records/0160.md#local-section-b6a7f1f11c36d67becfb44e6-39a56e5fa1)
-- [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0160.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
+- [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0161.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
 - [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0161.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
-- [local-section:b6d21e68ad3923aa3873f2b8 — G179. Full divisor-projection energy through the within-column cut](../records/0161.md#local-section-b6d21e68ad3923aa3873f2b8-d048808b79)

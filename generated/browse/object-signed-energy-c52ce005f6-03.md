@@ -26,7 +26,7 @@ Page 3/3; 699 matching records.
 - [local-section:cc55a55277b297cfab4de4ea — 8. Retained alternatives and next action](../records/0163.md#local-section-cc55a55277b297cfab4de4ea-1171d7ba80)
 - [local-section:cc955c34ab85b58f7761dffa — 17. Complete source projections, smooth collars and blocks](../records/0163.md#local-section-cc955c34ab85b58f7761dffa-f7c09b6757)
 - [local-section:ccad7258a80000cc468a2a7e — Other first tests and actual native-H limit](../records/0163.md#local-section-ccad7258a80000cc468a2a7e-d77de3e722)
-- [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0163.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
+- [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0164.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
 - [local-section:cd56a490d63e093b8b90f001 — G222. Exact prime-deletion inversion and the full signed readout](../records/0164.md#local-section-cd56a490d63e093b8b90f001-1912d1cc5d)
 - [local-section:ce165b900a0e3e63b4b39f13 — Verdict and current checkpoint](../records/0164.md#local-section-ce165b900a0e3e63b4b39f13-8ffa88937d)
 - [local-section:ce79ff125cae419586b8e902 — Independent recovery review of the partial \[research revision\] signed-core packet](../records/0164.md#local-section-ce79ff125cae419586b8e902-e77e328799)

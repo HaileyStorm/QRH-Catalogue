@@ -44,7 +44,7 @@ Page 2/2; 395 matching records.
 - [local-section:cb964ee0eaf58beef9fb32b9 — Completed small-divisor source](../records/0163.md#local-section-cb964ee0eaf58beef9fb32b9-6b94be2afb)
 - [local-section:cc05d9b2a55d5de5acbbc59f — \[research revision\] attempt delta](../records/0163.md#local-section-cc05d9b2a55d5de5acbbc59f-859ad67aca)
 - [local-section:cc55a55277b297cfab4de4ea — 8. Retained alternatives and next action](../records/0163.md#local-section-cc55a55277b297cfab4de4ea-1171d7ba80)
-- [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0163.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
+- [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0164.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
 - [local-section:cd56a490d63e093b8b90f001 — G222. Exact prime-deletion inversion and the full signed readout](../records/0164.md#local-section-cd56a490d63e093b8b90f001-1912d1cc5d)
 - [local-section:cdd63f21b9d79baab18dbbf3 — 8. Functional novelty, objections and next mathematical action](../records/0164.md#local-section-cdd63f21b9d79baab18dbbf3-7ce315c74e)
 - [local-section:cdf701cc70bb5e677932f6ab — B. Literal arithmetic coefficients and readout](../records/0164.md#local-section-cdf701cc70bb5e677932f6ab-c43aab4b52)

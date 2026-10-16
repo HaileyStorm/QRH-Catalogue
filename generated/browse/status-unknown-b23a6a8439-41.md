@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 41/43; 10577 matching records.
+Page 41/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-40.md)
 
 [Next](status-unknown-b23a6a8439-42.md)
 
+- [pr26:Analytic.JointHighSource — Analytic.JointHighSource](../records/0186.md#pr26-analytic-jointhighsource-32ee5fcf6c)
 - [pr26:Analytic.JointHighSourceCaps — Analytic.JointHighSourceCaps](../records/0186.md#pr26-analytic-jointhighsourcecaps-75e60a4876)
 - [pr26:Analytic.JointHighSourceDyadic — Analytic.JointHighSourceDyadic](../records/0186.md#pr26-analytic-jointhighsourcedyadic-ffbb8d5e6e)
 - [pr26:Analytic.JointHighSourceGeometry — Analytic.JointHighSourceGeometry](../records/0186.md#pr26-analytic-jointhighsourcegeometry-04ffb1205b)
@@ -26,7 +27,7 @@ Page 41/43; 10577 matching records.
 - [pr26:Analytic.JointKernelBinPartition — Analytic.JointKernelBinPartition](../records/0186.md#pr26-analytic-jointkernelbinpartition-a5237a60e3)
 - [pr26:Analytic.JointLiteralJoinGates — Analytic.JointLiteralJoinGates](../records/0186.md#pr26-analytic-jointliteraljoingates-74ab67ee14)
 - [pr26:Analytic.JointLiveCommonSource — Analytic.JointLiveCommonSource](../records/0186.md#pr26-analytic-jointlivecommonsource-76418e0854)
-- [pr26:Analytic.JointLocalErrorCores — Analytic.JointLocalErrorCores](../records/0186.md#pr26-analytic-jointlocalerrorcores-80ca868fc9)
+- [pr26:Analytic.JointLocalErrorCores — Analytic.JointLocalErrorCores](../records/0187.md#pr26-analytic-jointlocalerrorcores-80ca868fc9)
 - [pr26:Analytic.JointLocalErrorParameters — Analytic.JointLocalErrorParameters](../records/0187.md#pr26-analytic-jointlocalerrorparameters-7abf36fa9f)
 - [pr26:Analytic.JointLocalErrorTarget — Analytic.JointLocalErrorTarget](../records/0187.md#pr26-analytic-jointlocalerrortarget-cf42bed307)
 - [pr26:Analytic.JointLowAbsorption — Analytic.JointLowAbsorption](../records/0187.md#pr26-analytic-jointlowabsorption-98d6d10c7a)
@@ -209,7 +210,7 @@ Page 41/43; 10577 matching records.
 - [pr26:Cycle25.Assembly.Count.SourceAmplitudeClasses — Cycle25.Assembly.Count.SourceAmplitudeClasses](../records/0197.md#pr26-cycle25-assembly-count-sourceamplitudeclasses-1a59a94e57)
 - [pr26:Cycle25.Assembly.Count.SourceBatch — Cycle25.Assembly.Count.SourceBatch](../records/0197.md#pr26-cycle25-assembly-count-sourcebatch-01d3857bcb)
 - [pr26:Cycle25.Assembly.Count.SourceMomentInput — Cycle25.Assembly.Count.SourceMomentInput](../records/0197.md#pr26-cycle25-assembly-count-sourcemomentinput-692ff8273b)
-- [pr26:Cycle25.Assembly.Count.SourceParametersCount — Cycle25.Assembly.Count.SourceParametersCount](../records/0197.md#pr26-cycle25-assembly-count-sourceparameterscount-8c764b8981)
+- [pr26:Cycle25.Assembly.Count.SourceParametersCount — Cycle25.Assembly.Count.SourceParametersCount](../records/0198.md#pr26-cycle25-assembly-count-sourceparameterscount-8c764b8981)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceCount — Cycle25.Assembly.Count.WeightedSourceCount](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcecount-f6872a4e3b)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceMaskedCount — Cycle25.Assembly.Count.WeightedSourceMaskedCount](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcemaskedcount-b9d18d086f)
 - [pr26:Cycle25.Assembly.HighData — Cycle25.Assembly.HighData](../records/0198.md#pr26-cycle25-assembly-highdata-f299ca3303)
@@ -257,4 +258,3 @@ Page 41/43; 10577 matching records.
 - [pr26:Cycle25.Energy.PositiveHighPhysical — Cycle25.Energy.PositiveHighPhysical](../records/0200.md#pr26-cycle25-energy-positivehighphysical-049305d1f5)
 - [pr26:Cycle25.Energy.PositiveHighSource — Cycle25.Energy.PositiveHighSource](../records/0200.md#pr26-cycle25-energy-positivehighsource-acf8bd3d1b)
 - [pr26:Cycle25.Energy.PositiveHighSourceBound — Cycle25.Energy.PositiveHighSourceBound](../records/0200.md#pr26-cycle25-energy-positivehighsourcebound-8fd3e874bc)
-- [pr26:Cycle25.Energy.PositiveHighSourceBounded — Cycle25.Energy.PositiveHighSourceBounded](../records/0200.md#pr26-cycle25-energy-positivehighsourcebounded-3f23156c86)

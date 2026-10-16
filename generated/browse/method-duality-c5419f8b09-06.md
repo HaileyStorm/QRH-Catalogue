@@ -127,7 +127,7 @@ Page 6/6; 1437 matching records.
 - [local:G207 — G207: full product, collisions and weighted removal](../records/0172.md#local-g207-3c636df55b)
 - [local:G209 — G209. All thirteen collision types and the exact mixed-order source](../records/0172.md#local-g209-c243fafc07)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
-- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
+- [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0173.md#local-g222-849aadba5c)
 - [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0173.md#local-g226-c84df8fcc4)

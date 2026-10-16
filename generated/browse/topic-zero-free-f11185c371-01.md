@@ -100,7 +100,7 @@ Page 1/4; 797 matching records.
 - [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0138.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
 - [local-section:0b585e298b1fd90b2e9f33d1 — 10. Lean independent checks, limits and handoff](../records/0138.md#local-section-0b585e298b1fd90b2e9f33d1-260fe7b5f0)
 - [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0138.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
-- [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0138.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
+- [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0139.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
 - [local-section:0bda18a5ee01c2170ea62bfe — 5. Full conditional ordinary-character return](../records/0139.md#local-section-0bda18a5ee01c2170ea62bfe-ce57b0d8d0)
 - [local-section:0cb2c7f814aee1f30c829b0c — 32. Countable detector banks and the endpoint correction](../records/0139.md#local-section-0cb2c7f814aee1f30c829b0c-c623618ec1)
 - [local-section:0cc6ca6723986cc3fdb3690a — A checked hybrid of smoothing, filter banks and numerator phases](../records/0139.md#local-section-0cc6ca6723986cc3fdb3690a-3510407d9a)

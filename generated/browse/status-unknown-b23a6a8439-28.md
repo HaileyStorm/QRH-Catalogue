@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 28/43; 10577 matching records.
+Page 28/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-27.md)
 
 [Next](status-unknown-b23a6a8439-29.md)
 
+- [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
 - [local-section:00ccdc41acaea43f46752aca — Next mathematical action](../records/0137.md#local-section-00ccdc41acaea43f46752aca-645132cdeb)
@@ -115,7 +116,7 @@ Page 28/43; 10577 matching records.
 - [local-section:0b44e1a37e726abe4e130c58 — Optional explicit completion of the nonmultiplicativity description](../records/0138.md#local-section-0b44e1a37e726abe4e130c58-71d9ef42c4)
 - [local-section:0b5346c9470894090f22afb7 — 5. Other three selected tests and strongest scope restrictions](../records/0138.md#local-section-0b5346c9470894090f22afb7-e3e70ddc53)
 - [local-section:0b585e298b1fd90b2e9f33d1 — 10. Lean independent checks, limits and handoff](../records/0138.md#local-section-0b585e298b1fd90b2e9f33d1-260fe7b5f0)
-- [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0138.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
+- [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0139.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
 - [local-section:0ba7a610f4a5e37f56553ca7 — 4. D3 / S16: how much a small-prime syndrome can certify](../records/0139.md#local-section-0ba7a610f4a5e37f56553ca7-3bacf74297)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
 - [local-section:0bf7b7171180ae74fc17850f — 9. All thirty dispositions and strongest remaining obligations](../records/0139.md#local-section-0bf7b7171180ae74fc17850f-15c0238dfc)
@@ -203,7 +204,7 @@ Page 28/43; 10577 matching records.
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0139.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0139.md#local-section-131afc849327a89df717f91e-446c8d89e1)
 - [local-section:132cdd716b6b97d5dc79a06d — \[research revision\]-S6. A finite signed Gaussian quadrature certificate](../records/0139.md#local-section-132cdd716b6b97d5dc79a06d-e437a2b039)
-- [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0139.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
+- [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0140.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
 - [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0140.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:135f2d4b7dec2a2cf76f3e00 — Source and discovery record](../records/0140.md#local-section-135f2d4b7dec2a2cf76f3e00-52fec6bd6a)
@@ -257,4 +258,3 @@ Page 28/43; 10577 matching records.
 - [local-section:184cb2e24221e4cd79359f95 — 8. Current calibration and operational closeout](../records/0140.md#local-section-184cb2e24221e4cd79359f95-07e016f67f)
 - [local-section:18606b4fcbf460d2e5b0880d — 6. One complete affine atlas and physical return](../records/0140.md#local-section-18606b4fcbf460d2e5b0880d-ca9c245290)
 - [local-section:186366e824dbed933a3c5329 — 6. Reviewer consequence: a nearby band and the actual decaying tail](../records/0140.md#local-section-186366e824dbed933a3c5329-f72aa4fb78)
-- [local-section:186bf2d468c49c5b33dbd21a — 1. Candidate result and numerical budget](../records/0140.md#local-section-186bf2d468c49c5b33dbd21a-6cad0f4e65)

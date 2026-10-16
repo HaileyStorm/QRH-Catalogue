@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 32/43; 10577 matching records.
+Page 32/43; 10578 matching records.
 
 [Previous](status-unknown-b23a6a8439-31.md)
 
 [Next](status-unknown-b23a6a8439-33.md)
 
+- [local-section:5defa0d3940b3c566aeae3cc — Why G71 rules out the coarse-data shortcut](../records/0149.md#local-section-5defa0d3940b3c566aeae3cc-76f3ab2ff5)
 - [local-section:5e02126b671d5f45597e320d — M4. Finite masks and what the obstruction actually excludes](../records/0149.md#local-section-5e02126b671d5f45597e320d-210f556afc)
 - [local-section:5e13f38c3489d64c1255815f — 8. Finite caps and the exact signed scalar](../records/0149.md#local-section-5e13f38c3489d64c1255815f-ae4ecc96d9)
 - [local-section:5e1eb44eb4193a14e0afa43c — R10. Checks, limitations and next mathematical action](../records/0149.md#local-section-5e1eb44eb4193a14e0afa43c-4d6d2a6783)
@@ -58,7 +59,7 @@ Page 32/43; 10577 matching records.
 - [local-section:61fb54d5310c24ebc512a814 — Sol04 independent first-stage review](../records/0149.md#local-section-61fb54d5310c24ebc512a814-b3e72c6f41)
 - [local-section:62071bdd0d79df6dc7a80b43 — Decisive change and independent reconstruction](../records/0149.md#local-section-62071bdd0d79df6dc7a80b43-a840d53975)
 - [local-section:62079fc7c4218449bf747b62 — 2. A: exact numerator-free and distinguished-prime returns](../records/0149.md#local-section-62079fc7c4218449bf747b62-8cfd892f03)
-- [local-section:6207cc261d20f706b4caed2d — 7. Protected audit27: what a full H-to-sieve witness must actually pay](../records/0149.md#local-section-6207cc261d20f706b4caed2d-2680366feb)
+- [local-section:6207cc261d20f706b4caed2d — 7. Protected audit27: what a full H-to-sieve witness must actually pay](../records/0150.md#local-section-6207cc261d20f706b4caed2d-2680366feb)
 - [local-section:620c78e99c0e2195526cefe3 — D26.3 Quantitative returns and first useful next estimate](../records/0150.md#local-section-620c78e99c0e2195526cefe3-54b2e16ae0)
 - [local-section:62163623fd0274e1f12dd873 — D22 / S22: accept exact source; retain the gap failure](../records/0150.md#local-section-62163623fd0274e1f12dd873-dc78e65123)
 - [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0150.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
@@ -147,7 +148,7 @@ Page 32/43; 10577 matching records.
 - [local-section:68c32fd50fedcd421a52d8f0 — R5. Comparable matching cut: correct and separately limited](../records/0150.md#local-section-68c32fd50fedcd421a52d8f0-e2e0117271)
 - [local-section:68c7c5d7e152382c27e30b9c — 9. Strongest surviving objection and next action](../records/0150.md#local-section-68c7c5d7e152382c27e30b9c-05faf3f046)
 - [local-section:68cc62362c6d4457c10ecc56 — 1. Exact inputs and scope](../records/0150.md#local-section-68cc62362c6d4457c10ecc56-60c0974acc)
-- [local-section:68d0ab844329bc22388b44cd — 5. Relative characters, complete coefficient mass and masked rows](../records/0150.md#local-section-68d0ab844329bc22388b44cd-657223dfca)
+- [local-section:68d0ab844329bc22388b44cd — 5. Relative characters, complete coefficient mass and masked rows](../records/0151.md#local-section-68d0ab844329bc22388b44cd-657223dfca)
 - [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0151.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
 - [local-section:6918a6864f36198c3ae56f37 — 9. Evidence limits and handoff](../records/0151.md#local-section-6918a6864f36198c3ae56f37-f38b9d98d4)
 - [local-section:694edfe2997df2bfece5b510 — 5.2 W40-29 — fixed phase-list occupancy cannot save a power](../records/0151.md#local-section-694edfe2997df2bfece5b510-6387fa9fb4)
@@ -231,7 +232,7 @@ Page 32/43; 10577 matching records.
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:713ad32dc77ac1bc31feddf7 — 1. Sources, ancestry and scope](../records/0151.md#local-section-713ad32dc77ac1bc31feddf7-4cec1e1ddb)
 - [local-section:7140712c37cf9061ee092fb9 — The actual prime pool and slot gap](../records/0151.md#local-section-7140712c37cf9061ee092fb9-b65bb37ec0)
-- [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0151.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
+- [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0152.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
 - [local-section:71e1479c7205684486186e56 — 1. Frozen generation and selection](../records/0152.md#local-section-71e1479c7205684486186e56-c4169a3d2d)
 - [local-section:71ff5b29f25a38b18ae2e5cf — 4. First transform, comparison and low-bin descendants](../records/0152.md#local-section-71ff5b29f25a38b18ae2e5cf-1b43ba98ee)
 - [local-section:722b86a12cad2c6e70d40826 — D26.2 Complete field approximation and cross terms](../records/0152.md#local-section-722b86a12cad2c6e70d40826-6ddfa3748c)
@@ -257,4 +258,3 @@ Page 32/43; 10577 matching records.
 - [local-section:73620163f9786d83b03d4976 — UR8. Independent evidence, disposition and remaining work](../records/0152.md#local-section-73620163f9786d83b03d4976-41aafbe0da)
 - [local-section:7362cc1f75d6ea76424d0756 — F08.A / F19.A — Actual modular-residue capture](../records/0152.md#local-section-7362cc1f75d6ea76424d0756-e54f9f8237)
 - [local-section:738ad32b69086848558e98d8 — 4.2 Source-sensitive obstruction at shrinking height](../records/0152.md#local-section-738ad32b69086848558e98d8-157a39be61)
-- [local-section:73c7b2271b0da0f3d52e9cdd — 5. The other three first tests, with exact scope](../records/0152.md#local-section-73c7b2271b0da0f3d52e9cdd-c950611f83)

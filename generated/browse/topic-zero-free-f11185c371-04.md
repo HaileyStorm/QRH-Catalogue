@@ -47,7 +47,7 @@ Page 4/4; 797 matching records.
 - [public-artifact:41c9154080f1033d5592a0e8 — single-prime-29-33-20261010/manuscript/zeta_zero_free_4_33_self_contained.tex](../records/0217.md#public-artifact-41c9154080f1033d5592a0e8-005aa2db1b)
 - [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0217.md#public-paper-liu-paper-1-e60f4435bd)
 - [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0217.md#public-paper-liu-paper-2-7a347a3bbf)
-- [review:T01 — \[research revision\]-review:T01](../records/0217.md#review-t01-d60a8ef6a7)
+- [review:T01 — \[research revision\]-review:T01](../records/0218.md#review-t01-d60a8ef6a7)
 - [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0218.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
 - [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0218.md#reviewed-claim-t10-continuum-69e758bd43)

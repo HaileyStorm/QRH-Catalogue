@@ -52,7 +52,7 @@
     "manuscript_remark": 1,
     "manuscript_section": 476,
     "manuscript_theorem": 3,
-    "mathematical-component": 63,
+    "mathematical-component": 64,
     "mathematical-identity-and-conditional-return": 1,
     "mathematical-identity-and-obstruction": 1,
     "mathematical-numerical-consumer-repair": 1,
@@ -38636,8 +38636,8 @@
     ],
     "version": 1
   },
-  "records": 21783,
-  "records_sha256": "5c076f866c7d24c4a5660a6fb09e44b10f1bfb8b6cbfe4d1594fc26187b121d9",
+  "records": 21784,
+  "records_sha256": "ba4e8852f7361bb790bd872529c6944f75c097ed309d4bb80182249725b4afc4",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }

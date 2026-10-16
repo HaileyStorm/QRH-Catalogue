@@ -13,7 +13,7 @@ Page 1/1; 18 matching records.
 - [local-section:fd9993a3640f63a00fe4f98a — 7. A fixed coefficient counterexample strengthens the diagnosis](../records/0170.md#local-section-fd9993a3640f63a00fe4f98a-a8149863ac)
 - [local:F02.X — F02.X — Compensating prime coefficients principalize the character; even individual P^(5/6) followed by absolute summation loses](../records/0170.md#local-f02-x-af12645de9)
 - [local:F04.X — F04.X — AB16 alone gives no global saving; valuation-six terms are order one](../records/0170.md#local-f04-x-32a8c72417)
-- [local:F07.X — F07.X — Gemini χ_n(p²)=χ_n(−1)e_n(−4p)J_n(8p): RHS is S(1,4p²;n); n5,p2 gives(3−√5)/2≠1](../records/0170.md#local-f07-x-a61e34b751)
+- [local:F07.X — F07.X — Gemini χ_n(p²)=χ_n(−1)e_n(−4p)J_n(8p): RHS is S(1,4p²;n); n5,p2 gives(3−√5)/2≠1](../records/0171.md#local-f07-x-a61e34b751)
 - [local:F13.X — F13.X — Cubic row character on squares remains cubic, generally nonprincipal; termwise quadratic-to-radial reconstruction costs conductor](../records/0171.md#local-f13-x-5454e44e14)
 - [local:F18.X — F18.X — Arithmetic row labels are not zeta ordinates; good-row density does not imply all-height exclusion](../records/0171.md#local-f18-x-33f94e9261)
 - [local:F24.X — F24.X — Modular scattering denominatorΛ(2s) sees zeta zeroρ at parameterρ/2, outside asserted L² chamber](../records/0171.md#local-f24-x-1c41b68634)
