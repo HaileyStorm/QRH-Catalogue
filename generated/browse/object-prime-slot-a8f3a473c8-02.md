@@ -142,7 +142,7 @@ Page 2/2; 455 matching records.
 - [local-section:eff0b8cc16f9b4d0b56cf18e — 8. Evidence, attribution and closure boundary](../records/0168.md#local-section-eff0b8cc16f9b4d0b56cf18e-fb7d16552f)
 - [local-section:f03af310fca905991591b7f1 — W64 independent review](../records/0168.md#local-section-f03af310fca905991591b7f1-010b3f12e4)
 - [local-section:f20c26fd9ca68408d9c04d62 — 3. Exact projection by the two inverse indices' gcd](../records/0168.md#local-section-f20c26fd9ca68408d9c04d62-dee032f64e)
-- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
 - [local-section:f4d276fee597c0e3b9c4816c — \[research revision\]: weighted boundary spectrum and complete source transfers](../records/0169.md#local-section-f4d276fee597c0e3b9c4816c-522ce1782e)
 - [local-section:f5360e1646b9d274b3f333af — \[research revision\]: a conductor saving and the complete shared-zero detector](../records/0169.md#local-section-f5360e1646b9d274b3f333af-03e529bee5)

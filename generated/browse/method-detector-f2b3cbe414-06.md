@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2895 matching records.
+Page 6/12; 2896 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -234,6 +234,7 @@ Page 6/12; 2895 matching records.
 - [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0130.md#qrh-cont-m007-moving-transform-91d6faea60)
 - [QRH-CONT-M007-SQUARE-MEAN — Actual quadratic square mean and normalized two-geometry cancellation](../records/0131.md#qrh-cont-m007-square-mean-e7cc1a1e2f)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
+- [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
 - [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0137.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
@@ -257,4 +258,3 @@ Page 6/12; 2895 matching records.
 - [local-section:07b88c0f93747803aa8cbeb8 — 3. The exact polynomial, its far part and changing the truncation](../records/0138.md#local-section-07b88c0f93747803aa8cbeb8-297d0bc09d)
 - [local-section:07c50be59f02ac80fa4faaa0 — 4. Reconstructing the enlarged density theorem](../records/0138.md#local-section-07c50be59f02ac80fa4faaa0-b84270e5b8)
 - [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
-- [local-section:08dd61ac28abc668bf15ef0a — 9. The asserted prime-square Jacobi identity is false](../records/0138.md#local-section-08dd61ac28abc668bf15ef0a-c2b6d9a483)

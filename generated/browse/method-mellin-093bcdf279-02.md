@@ -77,7 +77,7 @@ Page 2/5; 1071 matching records.
 - [local-section:332b0ac5856c137e26badad2 — D. Secondary survivors and quantitative reopen conditions](../records/0143.md#local-section-332b0ac5856c137e26badad2-20129faa49)
 - [local-section:336a42f421fd9d8c854c53da — \[research revision\]: the actual rough correlation requires joint cancellation](../records/0143.md#local-section-336a42f421fd9d8c854c53da-3558f30c6c)
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
-- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0143.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
+- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0144.md#local-section-34160f89ce00b43718b31084-77745847c5)
 - [local-section:34a64812d1c3d348dd872cb4 — \[research revision\]: nonlinear source, complete tail and arithmetic core](../records/0144.md#local-section-34a64812d1c3d348dd872cb4-07a51cc96b)

@@ -6,7 +6,7 @@ Page 2/2; 492 matching records.
 
 [Previous](topic-sextic-5501a98e33-01.md)
 
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
+- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:81043dce3bb11070b43ef75d — 4. Forced rows and the all-multiplicity second inequality](../records/0154.md#local-section-81043dce3bb11070b43ef75d-4bd2a31498)
 - [local-section:81884ab57ca1812f1498031a — \[research revision\] independent review: two complementary witnesses on one far annulus](../records/0154.md#local-section-81884ab57ca1812f1498031a-f483e7cda3)
 - [local-section:81ae3334f333ad2e3805e502 — G99. A separate canonical partial marked-plain theorem](../records/0154.md#local-section-81ae3334f333ad2e3805e502-bc87aae6e1)
@@ -69,7 +69,7 @@ Page 2/2; 492 matching records.
 - [local-section:a3e17cd461bc417711e338ad — \[research revision\]: actual slot-weighted density improves c](../records/0158.md#local-section-a3e17cd461bc417711e338ad-71c8402e1a)
 - [local-section:a40f4f8233b131f1cced0c41 — \[research revision\] attempt index: accepted advances and exact remaining estimates](../records/0158.md#local-section-a40f4f8233b131f1cced0c41-053f5e3ea0)
 - [local-section:a4b46bd5cb2217eee17f0bb7 — \[research revision\]: quadratic classes in the cubic square-row moment](../records/0158.md#local-section-a4b46bd5cb2217eee17f0bb7-4ac084684f)
-- [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0158.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
+- [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0159.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
 - [local-section:a720791e0500c953170ee0ea — G146. The complete prefix is paid over the original slot interval](../records/0159.md#local-section-a720791e0500c953170ee0ea-72e47cd5a8)
 - [local-section:a7d39f62bded3e3b2b21b314 — W45: signed geometric means and an exact prime-state codec](../records/0159.md#local-section-a7d39f62bded3e3b2b21b314-c5e545525c)
 - [local-section:a88114968680ae0e6ff07bde — E. Full return, explicit unpaid estimate, and c threshold](../records/0159.md#local-section-a88114968680ae0e6ff07bde-8ae10570f2)
@@ -147,7 +147,7 @@ Page 2/2; 492 matching records.
 - [local-section:d92b43110b6819e513cee769 — A far-source reduction to two separated inverse witnesses](../records/0165.md#local-section-d92b43110b6819e513cee769-a3834c375d)
 - [local-section:d9cac4c9cda71c08d374f0ae — \[research revision\] audit, provenance, and reconciliation record](../records/0165.md#local-section-d9cac4c9cda71c08d374f0ae-5b276b16eb)
 - [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0165.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
-- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0165.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
+- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0166.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
 - [local-section:db96c2d488b2f6fd52d4f34e — \[research revision\]: forced divisors in the full physical covariance](../records/0166.md#local-section-db96c2d488b2f6fd52d4f34e-fd8a27545d)
 - [local-section:dd50fbabc302107e72683124 — Independent sieve-headroom review and repetition-layer improvement](../records/0166.md#local-section-dd50fbabc302107e72683124-90f250393d)
 - [local-section:dd6a0218d3cabb178d340851 — W45 independent review: logarithmic return, complete codec and causal scope](../records/0166.md#local-section-dd6a0218d3cabb178d340851-cd8307b18e)

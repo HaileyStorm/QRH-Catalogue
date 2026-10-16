@@ -99,7 +99,7 @@ Page 5/5; 1111 matching records.
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0173.md#local-g5-edf12c141c)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0173.md#local-g6-e89f333778)
-- [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0173.md#local-g67-a2b717289d)
+- [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)
 - [local:G71 — \[research revision\] attempt delta (G71)](../records/0174.md#local-g71-4c962f7ad6)
 - [local:G73 — \[research revision\] attempt delta (G73)](../records/0174.md#local-g73-076e11ffdb)
 - [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0174.md#local-g74-c3716b767a)

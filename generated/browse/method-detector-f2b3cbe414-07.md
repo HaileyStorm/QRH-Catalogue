@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 7/12; 2895 matching records.
+Page 7/12; 2896 matching records.
 
 [Previous](method-detector-f2b3cbe414-06.md)
 
 [Next](method-detector-f2b3cbe414-08.md)
 
+- [local-section:08dd61ac28abc668bf15ef0a — 9. The asserted prime-square Jacobi identity is false](../records/0138.md#local-section-08dd61ac28abc668bf15ef0a-c2b6d9a483)
 - [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
 - [local-section:09559d68d0bd26ce573399f1 — 3. First powers: common profile, height buffer and one new slot](../records/0138.md#local-section-09559d68d0bd26ce573399f1-cf4d738421)
 - [local-section:0961e96fc326f63266874473 — Accepted written extension: finite coupled amplifiers, c2 = 0.125128](../records/0138.md#local-section-0961e96fc326f63266874473-589e50b503)
@@ -257,4 +258,3 @@ Page 7/12; 2895 matching records.
 - [local-section:56738ae6201f243ddc607fb4 — 3. Every inverse-length regime and the sharper free-row statement](../records/0148.md#local-section-56738ae6201f243ddc607fb4-29937d90fb)
 - [local-section:56d1a5a3d050cc63774765bc — 7. Complete endpoint geometry and all shortening cases](../records/0148.md#local-section-56d1a5a3d050cc63774765bc-4c058bcae4)
 - [local-section:572811beacd136b8e447ed7e — F. Alternative zero detectors, positive covers and finite-data failures](../records/0148.md#local-section-572811beacd136b8e447ed7e-7e438d1a6c)
-- [local-section:575c194f03cd99bbdaba58da — 11. Independent diagnostics and uniformity limits](../records/0148.md#local-section-575c194f03cd99bbdaba58da-032d12104d)

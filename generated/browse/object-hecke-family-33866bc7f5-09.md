@@ -2,12 +2,13 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 9/11; 2701 matching records.
+Page 9/11; 2702 matching records.
 
 [Previous](object-hecke-family-33866bc7f5-08.md)
 
 [Next](object-hecke-family-33866bc7f5-10.md)
 
+- [local-section:a2685673295740c034b8ba75 — 9. Ancestry, exact check and admission recommendation](../records/0158.md#local-section-a2685673295740c034b8ba75-c5e46ea604)
 - [local-section:a2c55b901b91f11e1b948200 — Independent W49 review: distinguish real-state error prices from signed integer fibres](../records/0158.md#local-section-a2c55b901b91f11e1b948200-2098b7a326)
 - [local-section:a2ca80f67dd83b4ff1f1c798 — 10. Exact novelty and usefulness within the retained record](../records/0158.md#local-section-a2ca80f67dd83b4ff1f1c798-78dd7a3b06)
 - [local-section:a2cdb4748bedc3e33a70571b — 4. Exact finite certificate and the analytic conclusion](../records/0158.md#local-section-a2cdb4748bedc3e33a70571b-f9524e46bc)
@@ -27,7 +28,7 @@ Page 9/11; 2701 matching records.
 - [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0158.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
 - [local-section:a61f8bbd7434472d68da6191 — UR7. Fixed delta=2: norm 20 and the complete inverse readout](../records/0158.md#local-section-a61f8bbd7434472d68da6191-5453eba6a6)
 - [local-section:a64787345f954944b2ee6f89 — 3. Two dilation filters, sharp frame constants and causal reconstruction](../records/0158.md#local-section-a64787345f954944b2ee6f89-fd83c55460)
-- [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0158.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
+- [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0159.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
 - [local-section:a6daee9967481dea57db3f77 — Mathematical proof handoff for external formalization](../records/0159.md#local-section-a6daee9967481dea57db3f77-34a3ffee79)
 - [local-section:a720791e0500c953170ee0ea — G146. The complete prefix is paid over the original slot interval](../records/0159.md#local-section-a720791e0500c953170ee0ea-72e47cd5a8)
 - [local-section:a7921108e22a047b3821b5fa — 1. Frozen input and independent selection chronology](../records/0159.md#local-section-a7921108e22a047b3821b5fa-9779ac6362)
@@ -78,7 +79,7 @@ Page 9/11; 2701 matching records.
 - [local-section:b67570a8edd3269965a2c244 — F14/F17/F15 — Expensive mechanisms for the mean, with scope retained](../records/0160.md#local-section-b67570a8edd3269965a2c244-dbccf32bf8)
 - [local-section:b67aed6e5308c540fd7faa33 — \[research revision\] independent review: complete Liouville square sources](../records/0160.md#local-section-b67aed6e5308c540fd7faa33-325abdf28d)
 - [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0160.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
-- [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0160.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
+- [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0161.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
 - [local-section:b6d7db0bb64f3f56325f2df3 — \[research revision\]: a literal signed primitive low-dual payment](../records/0161.md#local-section-b6d7db0bb64f3f56325f2df3-b9910ae8df)
 - [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0161.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
 - [local-section:b77d1aa053c0a244818a5b4c — A.2 Fixed-depth exponent and what it actually rules out](../records/0161.md#local-section-b77d1aa053c0a244818a5b4c-46103de659)
@@ -197,7 +198,7 @@ Page 9/11; 2701 matching records.
 - [local-section:da309b33e95e4cf9258184a3 — Source bindings and novelty boundary](../records/0165.md#local-section-da309b33e95e4cf9258184a3-330328588e)
 - [local-section:da87209b732847b71462c717 — 3. The actual zeta failure and an independent stronger obstruction](../records/0165.md#local-section-da87209b732847b71462c717-76b63e5273)
 - [local-section:dad5cf32f05cc61f8fb3e81b — \[research revision\] attempt delta](../records/0165.md#local-section-dad5cf32f05cc61f8fb3e81b-61e7e59567)
-- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0165.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
+- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0166.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
 - [local-section:db2290e49df482bbac0d3747 — 3.2 Genuine selection and zero supply](../records/0166.md#local-section-db2290e49df482bbac0d3747-582622e9cf)
 - [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
 - [local-section:db70c41257fb1225dc05882e — 5. Complete first-gain return and a deliberately coarse test](../records/0166.md#local-section-db70c41257fb1225dc05882e-fb85653461)
@@ -257,4 +258,3 @@ Page 9/11; 2701 matching records.
 - [local-section:ee70bacd7dc482fcba6b097d — PS3. Cubic twists occupy square-indexed sextic rows](../records/0168.md#local-section-ee70bacd7dc482fcba6b097d-7f85e7b7db)
 - [local-section:ee76eaf557662c0aa55b8bb7 — Accepted literal f3 threshold laws](../records/0168.md#local-section-ee76eaf557662c0aa55b8bb7-ab112b38d0)
 - [local-section:eefb964a20e26033b98300c5 — Strongest surviving obstruction and the next attack](../records/0168.md#local-section-eefb964a20e26033b98300c5-e4dfcf0c1c)
-- [local-section:ef0401cee60c2a1f7af98fbd — 6. Protected S28: source-exact signed coupling audit](../records/0168.md#local-section-ef0401cee60c2a1f7af98fbd-fea821520f)

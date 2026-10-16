@@ -238,7 +238,7 @@ Page 2/7; 1591 matching records.
 - [local-section:1af809d1e0a5b160e003339e — 6. The already accepted family bound improves the source MP](../records/0140.md#local-section-1af809d1e0a5b160e003339e-0d1668cee9)
 - [local-section:1b20144f9569a63a8471358a — \[research revision\] direct joint-window lane: current worklog](../records/0140.md#local-section-1b20144f9569a63a8471358a-a2df10011d)
 - [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0140.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
-- [local-section:1b98b1cb15e75d39f297d71b — 5. Required edits and limits of acceptance](../records/0140.md#local-section-1b98b1cb15e75d39f297d71b-967ece9cb3)
+- [local-section:1b98b1cb15e75d39f297d71b — 5. Required edits and limits of acceptance](../records/0141.md#local-section-1b98b1cb15e75d39f297d71b-967ece9cb3)
 - [local-section:1bc56cf7fdf0e5185ef17a64 — Forced valuation count and centered return](../records/0141.md#local-section-1bc56cf7fdf0e5185ef17a64-bd11a107df)
 - [local-section:1bd331aed29fd53493b503f4 — 10. Geometric and operator fronts, retained with quantitative gates](../records/0141.md#local-section-1bd331aed29fd53493b503f4-00335f5ee6)
 - [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0141.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)

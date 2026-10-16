@@ -83,7 +83,7 @@ Page 2/5; 1035 matching records.
 - [local-section:32028697ed60c1ce6c62dc16 — \[research revision\]: changed-window endpoint and ongoing arithmetic work](../records/0143.md#local-section-32028697ed60c1ce6c62dc16-b19dcabc6c)
 - [local-section:32913ec7134a0e926287eb4c — Corrections that must survive integration](../records/0143.md#local-section-32913ec7134a0e926287eb4c-96749fca6c)
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0143.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
-- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0143.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
+- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0144.md#local-section-34160f89ce00b43718b31084-77745847c5)
 - [local-section:348dbeee76b64ffd3e837136 — 4. Sol's two added audits](../records/0144.md#local-section-348dbeee76b64ffd3e837136-c9e7debfce)

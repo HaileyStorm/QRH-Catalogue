@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21782 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21783 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -69,7 +69,7 @@
 - [F05 — F05. Möbius-aware polar projection and spectral sieve](records/0170.md#local-f05-b00059fa1b)
 - [F06 — F06. Bilinear currents and actual spectral testing](records/0170.md#local-f06-91b9eb5611)
 - [F07 — F07. Quadratic principal-square Jacobi detector](records/0170.md#local-f07-fa0d056a24)
-- [F08 — F08. Weighted fractional parts and modular residues](records/0170.md#local-f08-1cd15be4b1)
+- [F08 — F08. Weighted fractional parts and modular residues](records/0171.md#local-f08-1cd15be4b1)
 - [F09 — F09. Adaptive exceptional-mode vector probes](records/0171.md#local-f09-82b521a74d)
 - [F10 — F10. Full signed asymptotic and changed transfer](records/0171.md#local-f10-78df4c18b8)
 - [F11 — F11. Paired compensators and cross-Gram interference](records/0171.md#local-f11-1fe192e6da)
@@ -105,7 +105,7 @@
 - [G113 — G113. Actual signed profiles buy logarithms, with exact limits](records/0171.md#local-g113-6c10bbc310)
 - [G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](records/0171.md#local-g114-fec7178ffd)
 - [G115 — 3. G115: complete cutoffs agree at the actual zero](records/0171.md#local-g115-d13affe636)
-- [G116 — 1. G116: a complete paid complement for integer renewal](records/0171.md#local-g116-82b0aa6b3e)
+- [G116 — 1. G116: a complete paid complement for integer renewal](records/0172.md#local-g116-82b0aa6b3e)
 - [G117 — 2. G117: two precisely scoped certificate obstructions](records/0172.md#local-g117-ec123049a5)
 - [G118 — 3. G118: finite-prefix and all-layer audits](records/0172.md#local-g118-50557224bc)
 - [G119 — G119. Anchored one-sided pressure has an exact zero-exclusion return](records/0172.md#local-g119-9dbed5d96f)
@@ -205,7 +205,7 @@
 - [G212 — G212. Fixed-family binding and complete row/column lifts](records/0172.md#local-g212-6e2dec84ed)
 - [G213 — G213. Average the true cubic label before counting repetitions](records/0172.md#local-g213-46d38d3f6e)
 - [G214 — G214. Counted sectors and the full physical obstruction](records/0172.md#local-g214-3db1fe9e64)
-- [G215 — G215. Exact source, complete localization and all-height return](records/0172.md#local-g215-a9fc13c4f5)
+- [G215 — G215. Exact source, complete localization and all-height return](records/0173.md#local-g215-a9fc13c4f5)
 - [G216 — G216. Exact recovery, actual absolute cost and complete diagonal](records/0173.md#local-g216-ffe0a34c47)
 - [G217 — G217. Actual-source obstructions and their exact scopes](records/0173.md#local-g217-1ea6acd977)
 - [G218 — G218. A genuine cofactor average with a fixed zero detector](records/0173.md#local-g218-72ef21b6b0)
@@ -225,7 +225,7 @@
 - [G4 — G4 — p\<.10, analytic continuation/control representation replacement](records/0173.md#local-g4-fb1605101b)
 - [G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](records/0173.md#local-g5-edf12c141c)
 - [G6 — G6 — p\<.01, sieve/information construction from obstruction](records/0173.md#local-g6-e89f333778)
-- [G67 — G67. Signed logarithmic bounds return the complete exponent](records/0173.md#local-g67-a2b717289d)
+- [G67 — G67. Signed logarithmic bounds return the complete exponent](records/0174.md#local-g67-a2b717289d)
 - [G68 — G68. Exact degree energy and the retained arithmetic response](records/0174.md#local-g68-8d260df78f)
 - [G69 — G69. The global Euler norm fails; its mass escapes the physical scale](records/0174.md#local-g69-9bdd438ff0)
 - [G70 — G70. An actual fixed-prime cocycle with a paid future inverse](records/0174.md#local-g70-8c73ad993d)

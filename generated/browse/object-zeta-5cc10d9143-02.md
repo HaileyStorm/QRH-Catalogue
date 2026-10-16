@@ -2,12 +2,13 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 932 matching records.
+Page 2/4; 933 matching records.
 
 [Previous](object-zeta-5cc10d9143-01.md)
 
 [Next](object-zeta-5cc10d9143-03.md)
 
+- [local-section:178484c629618edb557fe002 — 3. Full physical covariance after the new core and gcd results](../records/0140.md#local-section-178484c629618edb557fe002-d94bc8936f)
 - [local-section:179af8163e554a71f19120ee — \[research revision\]: local small-value sets recover a complete Gaussian exponent](../records/0140.md#local-section-179af8163e554a71f19120ee-8a75494f8a)
 - [local-section:180fab2ad1ef502f1674b79b — 3. B1–6: actual occupations and the complete unexposed covariance](../records/0140.md#local-section-180fab2ad1ef502f1674b79b-1cd62e0104)
 - [local-section:187e966a40cebe7bca7de078 — Accepted written extension: larger amplifier, c1 = 0.12512](../records/0140.md#local-section-187e966a40cebe7bca7de078-7dd2c94c78)
@@ -72,7 +73,7 @@ Page 2/4; 932 matching records.
 - [local-section:33340933b39e6c659b90a349 — 1. Exact row Dirichlet series](../records/0143.md#local-section-33340933b39e6c659b90a349-58de5b0e7d)
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0143.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
-- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0143.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
+- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
 - [local-section:34d4a83392dfa8c07623c41b — 6. The precise new arithmetic estimate and the limit of the architecture](../records/0144.md#local-section-34d4a83392dfa8c07623c41b-438924bda2)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
@@ -257,4 +258,3 @@ Page 2/4; 932 matching records.
 - [local-section:75bc156a77e85c0b93aa4bfd — W67: signed boundary reconstruction and its actual price](../records/0152.md#local-section-75bc156a77e85c0b93aa4bfd-f647f5f210)
 - [local-section:7681d5c8b88a8eacc362c417 — Current result and exact missing arithmetic](../records/0152.md#local-section-7681d5c8b88a8eacc362c417-e64f63e0fe)
 - [local-section:772762922325a550ed1e067c — \[research revision\]: paid detector overlap and consultation library](../records/0152.md#local-section-772762922325a550ed1e067c-b62b2e1a0a)
-- [local-section:77427aabb19fea12bc2cb3fb — 3. The disappearing main returns in the complementary tail](../records/0152.md#local-section-77427aabb19fea12bc2cb3fb-6475fa9734)

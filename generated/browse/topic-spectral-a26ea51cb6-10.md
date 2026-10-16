@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 10/13; 3034 matching records.
+Page 10/13; 3035 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-09.md)
 
 [Next](topic-spectral-a26ea51cb6-11.md)
 
+- [local-section:b12dfec639d7d94047c94e47 — Independent review: completed cross-class reduction](../records/0160.md#local-section-b12dfec639d7d94047c94e47-8b7fd4419e)
 - [local-section:b14ae2dc91c2f8ef92e10d51 — All-card disposition and next action](../records/0160.md#local-section-b14ae2dc91c2f8ef92e10d51-87621ba1fc)
 - [local-section:b15b0cf501d1025426f9363d — 5. Uniform audit S19: the largest-prime state is indispensable](../records/0160.md#local-section-b15b0cf501d1025426f9363d-839af5728c)
 - [local-section:b166116897d1b2a1dc831d6c — Actual R4 nonunique companion: complete collision labels and paid power-core sectors](../records/0160.md#local-section-b166116897d1b2a1dc831d6c-7211d10818)
@@ -27,7 +28,7 @@ Page 10/13; 3034 matching records.
 - [local-section:b67570a8edd3269965a2c244 — F14/F17/F15 — Expensive mechanisms for the mean, with scope retained](../records/0160.md#local-section-b67570a8edd3269965a2c244-dbccf32bf8)
 - [local-section:b67aed6e5308c540fd7faa33 — \[research revision\] independent review: complete Liouville square sources](../records/0160.md#local-section-b67aed6e5308c540fd7faa33-325abdf28d)
 - [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0160.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
-- [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0160.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
+- [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0161.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
 - [local-section:b6d7db0bb64f3f56325f2df3 — \[research revision\]: a literal signed primitive low-dual payment](../records/0161.md#local-section-b6d7db0bb64f3f56325f2df3-b9910ae8df)
 - [local-section:b713e60fc5d8acfd10731c61 — A08. An arithmetic source operator and the exact approximation cost](../records/0161.md#local-section-b713e60fc5d8acfd10731c61-a28eee4997)
 - [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0161.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
@@ -199,7 +200,7 @@ Page 10/13; 3034 matching records.
 - [local-section:da87209b732847b71462c717 — 3. The actual zeta failure and an independent stronger obstruction](../records/0165.md#local-section-da87209b732847b71462c717-76b63e5273)
 - [local-section:dad5cf32f05cc61f8fb3e81b — \[research revision\] attempt delta](../records/0165.md#local-section-dad5cf32f05cc61f8fb3e81b-61e7e59567)
 - [local-section:db19ac43e174dd879d502c1f — A3. Full price of the proposed replacement](../records/0165.md#local-section-db19ac43e174dd879d502c1f-53723fc6cf)
-- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0165.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
+- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0166.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
 - [local-section:db2290e49df482bbac0d3747 — 3.2 Genuine selection and zero supply](../records/0166.md#local-section-db2290e49df482bbac0d3747-582622e9cf)
 - [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
 - [local-section:db70c41257fb1225dc05882e — 5. Complete first-gain return and a deliberately coarse test](../records/0166.md#local-section-db70c41257fb1225dc05882e-fb85653461)
@@ -257,4 +258,3 @@ Page 10/13; 3034 matching records.
 - [local-section:ea2a8a2d914e0a3b35fee403 — 1. Frozen process and exact source contact](../records/0167.md#local-section-ea2a8a2d914e0a3b35fee403-b02ef888d6)
 - [local-section:ea889cd945a4e5e459d93cec — \[research revision\]: the actual Möbius core moment](../records/0167.md#local-section-ea889cd945a4e5e459d93cec-f5d2435ec4)
 - [local-section:eaac231b398f980e74c7e5a3 — W39 / \[research revision\] independent mathematical review](../records/0167.md#local-section-eaac231b398f980e74c7e5a3-32de86ab05)
-- [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)

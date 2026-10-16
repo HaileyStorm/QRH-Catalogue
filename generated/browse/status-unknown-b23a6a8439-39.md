@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10576 matching records.
+Page 39/43; 10577 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
 [Next](status-unknown-b23a6a8439-40.md)
 
+- [local-section:f9297f4a4d8a4b2f88846290 — 4.2 Whole nonlinear kernel and the low/high split](../records/0169.md#local-section-f9297f4a4d8a4b2f88846290-2ca26ef3ff)
 - [local-section:f92d7a275257b0519ac9cd1c — 3a(ii). A cheaper coherent source approximation, and a principal tail theorem](../records/0169.md#local-section-f92d7a275257b0519ac9cd1c-0c45f47544)
 - [local-section:f9987a86684aba9188ab0be8 — 15. Compact positivity and one-step improvement do not prove arithmetic approximation](../records/0169.md#local-section-f9987a86684aba9188ab0be8-c86bfa0772)
 - [local-section:f9a8a525c6b44c2666995d04 — 2. The exact merged coefficient and what permission it needs](../records/0169.md#local-section-f9a8a525c6b44c2666995d04-81cab37f03)
@@ -35,7 +36,7 @@ Page 39/43; 10576 matching records.
 - [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0169.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0169.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0169.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
-- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
+- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0170.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
 - [local-section:fc9409d58222d0fd6c96c0e0 — 4. Protected audit S25: decimation with all induced interactions](../records/0170.md#local-section-fc9409d58222d0fd6c96c0e0-df28e4e747)
 - [local-section:fca58caed0cd22169211d8b1 — 1. Frozen intake, sampling and source attribution](../records/0170.md#local-section-fca58caed0cd22169211d8b1-a3db7c5e91)
@@ -79,7 +80,7 @@ Page 39/43; 10576 matching records.
 - [local:F05 — F05. Möbius-aware polar projection and spectral sieve](../records/0170.md#local-f05-b00059fa1b)
 - [local:F06 — F06. Bilinear currents and actual spectral testing](../records/0170.md#local-f06-91b9eb5611)
 - [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
-- [local:F08 — F08. Weighted fractional parts and modular residues](../records/0170.md#local-f08-1cd15be4b1)
+- [local:F08 — F08. Weighted fractional parts and modular residues](../records/0171.md#local-f08-1cd15be4b1)
 - [local:F09 — F09. Adaptive exceptional-mode vector probes](../records/0171.md#local-f09-82b521a74d)
 - [local:F10 — F10. Full signed asymptotic and changed transfer](../records/0171.md#local-f10-78df4c18b8)
 - [local:F11 — F11. Paired compensators and cross-Gram interference](../records/0171.md#local-f11-1fe192e6da)
@@ -113,7 +114,7 @@ Page 39/43; 10576 matching records.
 - [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0171.md#local-g112-576f044b32)
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0171.md#local-g113-6c10bbc310)
 - [local:G115 — 3. G115: complete cutoffs agree at the actual zero](../records/0171.md#local-g115-d13affe636)
-- [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0171.md#local-g116-82b0aa6b3e)
+- [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)
 - [local:G117 — 2. G117: two precisely scoped certificate obstructions](../records/0172.md#local-g117-ec123049a5)
 - [local:G118 — 3. G118: finite-prefix and all-layer audits](../records/0172.md#local-g118-50557224bc)
 - [local:G121 — G121. Exact threshold rank and the complete signed rectangle return](../records/0172.md#local-g121-1e67089380)
@@ -186,7 +187,7 @@ Page 39/43; 10576 matching records.
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0172.md#local-g212-6e2dec84ed)
 - [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0172.md#local-g213-46d38d3f6e)
-- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
+- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G216 — G216. Exact recovery, actual absolute cost and complete diagonal](../records/0173.md#local-g216-ffe0a34c47)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
@@ -208,7 +209,7 @@ Page 39/43; 10576 matching records.
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0173.md#local-g5-edf12c141c)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0173.md#local-g6-e89f333778)
-- [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0173.md#local-g67-a2b717289d)
+- [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)
 - [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0174.md#local-g68-8d260df78f)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0174.md#local-g69-9bdd438ff0)
 - [local:G70 — G70. An actual fixed-prime cocycle with a paid future inverse](../records/0174.md#local-g70-8c73ad993d)
@@ -257,4 +258,3 @@ Page 39/43; 10576 matching records.
 - [pr26:Analytic.ActualErrorPower — Analytic.ActualErrorPower](../records/0174.md#pr26-analytic-actualerrorpower-e6fb213bdc)
 - [pr26:Analytic.ActualErrorPowerFull — Analytic.ActualErrorPowerFull](../records/0174.md#pr26-analytic-actualerrorpowerfull-2c07b981ca)
 - [pr26:Analytic.ActualErrorSourceGates — Analytic.ActualErrorSourceGates](../records/0174.md#pr26-analytic-actualerrorsourcegates-7423b0bff1)
-- [pr26:Analytic.ActualExtractedErrorAverage — Analytic.ActualExtractedErrorAverage](../records/0174.md#pr26-analytic-actualextractederroraverage-c57988d08f)

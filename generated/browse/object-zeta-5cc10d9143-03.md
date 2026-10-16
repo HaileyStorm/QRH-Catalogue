@@ -2,12 +2,13 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 932 matching records.
+Page 3/4; 933 matching records.
 
 [Previous](object-zeta-5cc10d9143-02.md)
 
 [Next](object-zeta-5cc10d9143-04.md)
 
+- [local-section:77427aabb19fea12bc2cb3fb — 3. The disappearing main returns in the complementary tail](../records/0152.md#local-section-77427aabb19fea12bc2cb3fb-6475fa9734)
 - [local-section:7828492d7fdc047743d043b6 — 3. Independent proof and quantifier audit of M](../records/0152.md#local-section-7828492d7fdc047743d043b6-f9c0651d64)
 - [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
@@ -197,7 +198,7 @@ Page 3/4; 932 matching records.
 - [local-section:bd37fe163094f460c8f6a0f2 — \[research revision\] independent review of the merged GPT6-Pro consultation](../records/0161.md#local-section-bd37fe163094f460c8f6a0f2-bb4dc2ff92)
 - [local-section:bd505f9d635a513c9e985fa1 — \[research revision\] independent source-range review](../records/0161.md#local-section-bd505f9d635a513c9e985fa1-d637974ead)
 - [local-section:bda8f95667ce4b444282a98d — 6. Independent uniform audit F06: a raw principal half-plane obstruction](../records/0161.md#local-section-bda8f95667ce4b444282a98d-35bd896d5f)
-- [local-section:be0081459040704122b05132 — R2. Source reconstruction, multiplicities and absolute control](../records/0161.md#local-section-be0081459040704122b05132-5c61895864)
+- [local-section:be0081459040704122b05132 — R2. Source reconstruction, multiplicities and absolute control](../records/0162.md#local-section-be0081459040704122b05132-5c61895864)
 - [local-section:be5e9f3319788bbd7b198227 — Current checkpoint](../records/0162.md#local-section-be5e9f3319788bbd7b198227-acd7774aef)
 - [local-section:be7d5042002b5d1cb8fa91ff — 4. Protected audit W58-22: exact native mixed boundary, missing inter-scale transport](../records/0162.md#local-section-be7d5042002b5d1cb8fa91ff-b4c65c3040)
 - [local-section:befedada8ec19707ce5cde44 — \[research revision\]: a licensed density improvement gives c11=.1251459636](../records/0162.md#local-section-befedada8ec19707ce5cde44-286ceaee7c)
@@ -212,7 +213,7 @@ Page 3/4; 932 matching records.
 - [local-section:c3d5f53b8e6e7ffe85b586f3 — DQ1--DQ2. Exact cube classes and their natural zeros](../records/0162.md#local-section-c3d5f53b8e6e7ffe85b586f3-90fa129fb3)
 - [local-section:c48480cb88a922c3f1fb7808 — 2. Exact two-color endpoint](../records/0162.md#local-section-c48480cb88a922c3f1fb7808-c308117d0b)
 - [local-section:c53092bfe86b28b080e31a83 — 4. Other actual first tests and their limits](../records/0162.md#local-section-c53092bfe86b28b080e31a83-bb2282f07d)
-- [local-section:c582165b33e7bfa0986e54a7 — 9. A separate quantitative anchor: delta=2 really has an inverse](../records/0162.md#local-section-c582165b33e7bfa0986e54a7-4bb610826e)
+- [local-section:c582165b33e7bfa0986e54a7 — 9. A separate quantitative anchor: delta=2 really has an inverse](../records/0163.md#local-section-c582165b33e7bfa0986e54a7-4bb610826e)
 - [local-section:c657d653e0228f338d0e0f3d — W61 independent review: actual-source certificate costs and complete readouts](../records/0163.md#local-section-c657d653e0228f338d0e0f3d-ac6494c22d)
 - [local-section:c6a63f432ef09d32b861cc33 — \[research revision\] independent review of headroom A](../records/0163.md#local-section-c6a63f432ef09d32b861cc33-a0ba9f74c8)
 - [local-section:c6e7628e508089f231989770 — HCR5. The second root is quantitatively paid; T=10 is legitimate](../records/0163.md#local-section-c6e7628e508089f231989770-e2aa9a3c95)
@@ -257,4 +258,3 @@ Page 3/4; 932 matching records.
 - [local-section:d746435483b887e6f20e4dfd — 4. Developments11/15: retain the native phase matrix](../records/0165.md#local-section-d746435483b887e6f20e4dfd-918e44d4af)
 - [local-section:d75a8579e8a92bcac400f26c — 2. Complete inventory and source keys](../records/0165.md#local-section-d75a8579e8a92bcac400f26c-b575335f6b)
 - [local-section:d775217c15829d1b078b5d78 — \[research revision\] auxiliary mathematical results](../records/0165.md#local-section-d775217c15829d1b078b5d78-2fda2efbfc)
-- [local-section:d7a0a8a096aeba8c1bcce262 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0165.md#local-section-d7a0a8a096aeba8c1bcce262-f55d63595d)

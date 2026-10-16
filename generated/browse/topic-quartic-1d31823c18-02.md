@@ -105,7 +105,7 @@ Page 2/2; 393 matching records.
 - [local-section:f03af310fca905991591b7f1 — W64 independent review](../records/0168.md#local-section-f03af310fca905991591b7f1-010b3f12e4)
 - [local-section:f1c1f6c47809ecb98c3cc623 — G155. Actual large-common-divisor saving](../records/0168.md#local-section-f1c1f6c47809ecb98c3cc623-a0e083ae17)
 - [local-section:f39185bd24412dcafa1acbe0 — 4. Both source coefficients fix the identity-cell readout](../records/0168.md#local-section-f39185bd24412dcafa1acbe0-aabfa94cb4)
-- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f4d276fee597c0e3b9c4816c — \[research revision\]: weighted boundary spectrum and complete source transfers](../records/0169.md#local-section-f4d276fee597c0e3b9c4816c-522ce1782e)
 - [local-section:f4da81a624985e32cfa1c618 — \[research revision\]: retaining the original plain cap gives c4=.125135](../records/0169.md#local-section-f4da81a624985e32cfa1c618-1d32323501)
 - [local-section:f5360e1646b9d274b3f333af — \[research revision\]: a conductor saving and the complete shared-zero detector](../records/0169.md#local-section-f5360e1646b9d274b3f333af-03e529bee5)

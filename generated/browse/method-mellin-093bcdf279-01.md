@@ -179,7 +179,7 @@ Page 1/5; 1071 matching records.
 - [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0137.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0137.md#local-section-021601cba1a0a08525590f22-7adbe75144)
 - [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0137.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
-- [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0137.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
+- [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0138.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
 - [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)

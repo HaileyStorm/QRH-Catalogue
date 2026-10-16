@@ -2,12 +2,13 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 62/71; 17523 matching records.
+Page 62/71; 17524 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-61.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-63.md)
 
+- [pr26:Cycle25.Arithmetic.Geometry::supply_geometry@400 — supply_geometry](../records/0195.md#pr26-cycle25-arithmetic-geometry-supply-geometry-400-202b50b2d6)
 - [pr26:Cycle25.Arithmetic.Geometry::uniform_derivative_minorant@441 — uniform_derivative_minorant](../records/0195.md#pr26-cycle25-arithmetic-geometry-uniform-derivative-minorant-441-1047d19efd)
 - [pr26:Cycle25.Arithmetic.Geometry::v0@209 — v0](../records/0195.md#pr26-cycle25-arithmetic-geometry-v0-209-6ce8b80d2f)
 - [pr26:Cycle25.Arithmetic.Geometry::v0_interval@250 — v0_interval](../records/0195.md#pr26-cycle25-arithmetic-geometry-v0-interval-250-b90fc8a160)
@@ -38,7 +39,7 @@ Page 62/71; 17523 matching records.
 - [pr26:Cycle25.Arithmetic.Perturbation::fullBoundary_binding@782 — fullBoundary_binding](../records/0195.md#pr26-cycle25-arithmetic-perturbation-fullboundary-binding-782-c6dffda708)
 - [pr26:Cycle25.Arithmetic.Perturbation::fullBoundary_eq_iff@788 — fullBoundary_eq_iff](../records/0195.md#pr26-cycle25-arithmetic-perturbation-fullboundary-eq-iff-788-d445a40e88)
 - [pr26:Cycle25.Arithmetic.Perturbation::fullBoundary_gap@862 — fullBoundary_gap](../records/0195.md#pr26-cycle25-arithmetic-perturbation-fullboundary-gap-862-ed82987337)
-- [pr26:Cycle25.Arithmetic.Perturbation::fullBoundary_kappa0@777 — fullBoundary_kappa0](../records/0195.md#pr26-cycle25-arithmetic-perturbation-fullboundary-kappa0-777-415116412e)
+- [pr26:Cycle25.Arithmetic.Perturbation::fullBoundary_kappa0@777 — fullBoundary_kappa0](../records/0196.md#pr26-cycle25-arithmetic-perturbation-fullboundary-kappa0-777-415116412e)
 - [pr26:Cycle25.Arithmetic.Perturbation::fullBoundary_uniform@918 — fullBoundary_uniform](../records/0196.md#pr26-cycle25-arithmetic-perturbation-fullboundary-uniform-918-eb21643572)
 - [pr26:Cycle25.Arithmetic.Perturbation::rowDen@721 — rowDen](../records/0196.md#pr26-cycle25-arithmetic-perturbation-rowden-721-95dd2449ec)
 - [pr26:Cycle25.Arithmetic.Perturbation::rowDen_pos@744 — rowDen_pos](../records/0196.md#pr26-cycle25-arithmetic-perturbation-rowden-pos-744-309fbfad2e)
@@ -138,7 +139,7 @@ Page 62/71; 17523 matching records.
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_disjoint@712 — weighted_sourceMoment_live_disjoint](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-920ddda181)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_quotient_norm@738 — weighted_sourceMoment_live_quotient_norm](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-c5c4acfcc7)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_physical_scale@654 — weighted_sourceMoment_physical_scale](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-43495b188c)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_primeProfile_norm@692 — weighted_sourceMoment_primeProfile_norm](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-b3882f1fca)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_primeProfile_norm@692 — weighted_sourceMoment_primeProfile_norm](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-b3882f1fca)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_separation_eventually@658 — weighted_sourceMoment_separation_eventually](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-80f15ad7bd)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainCapacity — Cycle25.Assembly.Count.MomentDetectorPlainCapacity](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplaincapacity-259a3742e8)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainCapacity::weighted_physical_annular_all@339 — weighted_physical_annular_all](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplaincapacity-weighted--9b1242a9b0)
@@ -238,7 +239,7 @@ Page 62/71; 17523 matching records.
 - [pr26:Cycle25.Assembly.Count.SourceMomentInput — Cycle25.Assembly.Count.SourceMomentInput](../records/0197.md#pr26-cycle25-assembly-count-sourcemomentinput-692ff8273b)
 - [pr26:Cycle25.Assembly.Count.SourceMomentInput::SourceMomentsAt@298 — SourceMomentsAt](../records/0197.md#pr26-cycle25-assembly-count-sourcemomentinput-sourcemomentsat-298-03e870bb5b)
 - [pr26:Cycle25.Assembly.Count.SourceParametersCount — Cycle25.Assembly.Count.SourceParametersCount](../records/0197.md#pr26-cycle25-assembly-count-sourceparameterscount-8c764b8981)
-- [pr26:Cycle25.Assembly.Count.SourceParametersCount::balanced_source_count_from_raw_moments@465 — balanced_source_count_from_raw_moments](../records/0197.md#pr26-cycle25-assembly-count-sourceparameterscount-balanced-source-0ddef04851)
+- [pr26:Cycle25.Assembly.Count.SourceParametersCount::balanced_source_count_from_raw_moments@465 — balanced_source_count_from_raw_moments](../records/0198.md#pr26-cycle25-assembly-count-sourceparameterscount-balanced-source-0ddef04851)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceCount — Cycle25.Assembly.Count.WeightedSourceCount](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcecount-f6872a4e3b)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceCount::weighted_source_amplitude_count@1109 — weighted_source_amplitude_count](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcecount-weighted-source-a-cf4aae4c12)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceMaskedCount — Cycle25.Assembly.Count.WeightedSourceMaskedCount](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcemaskedcount-b9d18d086f)
@@ -257,4 +258,3 @@ Page 62/71; 17523 matching records.
 - [pr26:Cycle25.Assembly.Parameters — Cycle25.Assembly.Parameters](../records/0198.md#pr26-cycle25-assembly-parameters-db6db611f5)
 - [pr26:Cycle25.Assembly.Parameters::b@181 — b](../records/0198.md#pr26-cycle25-assembly-parameters-b-181-b6af671ca7)
 - [pr26:Cycle25.Assembly.Parameters::b_pos@206 — b_pos](../records/0198.md#pr26-cycle25-assembly-parameters-b-pos-206-58c408ef19)
-- [pr26:Cycle25.Assembly.Parameters::ell@177 — ell](../records/0198.md#pr26-cycle25-assembly-parameters-ell-177-975e85feb0)

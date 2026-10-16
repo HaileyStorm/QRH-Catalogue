@@ -2,14 +2,15 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 8/13; 3034 matching records.
+Page 8/13; 3035 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-07.md)
 
 [Next](topic-spectral-a26ea51cb6-09.md)
 
+- [local-section:3bdcf002a3f4f687964d9a46 — 4. Paying the prefix on the whole original slot range](../records/0144.md#local-section-3bdcf002a3f4f687964d9a46-5e928517d8)
 - [local-section:3c00a9634dcb608cf125849f — T01. Quantitative fixed-factor division — PROVED](../records/0144.md#local-section-3c00a9634dcb608cf125849f-cf71ea93ae)
-- [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0144.md#local-section-3c630827feaaf3da167e9311-b71969935d)
+- [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0145.md#local-section-3c630827feaaf3da167e9311-b71969935d)
 - [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0145.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
 - [local-section:3cf882726fbcd59fe31d85e5 — G163. Exact native Schur and four-cycle bills](../records/0145.md#local-section-3cf882726fbcd59fe31d85e5-5afad4f8cc)
 - [local-section:3cfb55bc6b80c52e40b58b66 — 4. Literal arithmetic returns and their exact limits](../records/0145.md#local-section-3cfb55bc6b80c52e40b58b66-c26433518e)
@@ -77,7 +78,7 @@ Page 8/13; 3034 matching records.
 - [local-section:4a93d710d80b06bf987a72df — Evidence and source boundary](../records/0146.md#local-section-4a93d710d80b06bf987a72df-1f3593c04c)
 - [local-section:4ac4b3d457188a61be8f97cf — 6. Exact gain and a proved obstruction to a tempting iteration](../records/0146.md#local-section-4ac4b3d457188a61be8f97cf-8903901336)
 - [local-section:4ad1b8344d676dbbec363b95 — D02. Rank-one determinant detector: an exact attempted bridge that fails to weaken the input](../records/0146.md#local-section-4ad1b8344d676dbbec363b95-a28d1aeb63)
-- [local-section:4b6183d240ee3d2454ac79e1 — 1. Exact replacement source: squarefree divisor incidence](../records/0146.md#local-section-4b6183d240ee3d2454ac79e1-8b8ec849d9)
+- [local-section:4b6183d240ee3d2454ac79e1 — 1. Exact replacement source: squarefree divisor incidence](../records/0147.md#local-section-4b6183d240ee3d2454ac79e1-8b8ec849d9)
 - [local-section:4b62d4f321984b6a9731e281 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0147.md#local-section-4b62d4f321984b6a9731e281-dcaaf4eaa7)
 - [local-section:4ba58ee5e29555d364ac150a — 1. Verdict and contribution](../records/0147.md#local-section-4ba58ee5e29555d364ac150a-5d19c459ed)
 - [local-section:4be025221ce9aa2c49d8c5a9 — 4. Consequential corrections and unresolved assertions](../records/0147.md#local-section-4be025221ce9aa2c49d8c5a9-57ab4bff2a)
@@ -110,7 +111,7 @@ Page 8/13; 3034 matching records.
 - [local-section:51dd62ac4027d1fb1b6b7f4e — 8. The complete sixth-power diagonal is already paid](../records/0147.md#local-section-51dd62ac4027d1fb1b6b7f4e-923b06618b)
 - [local-section:51f967b595908f11f942259a — 1. Inputs and result](../records/0147.md#local-section-51f967b595908f11f942259a-d50946a13f)
 - [local-section:52024a45216b27bf0fb0d0ba — 1. Verdict and scope](../records/0147.md#local-section-52024a45216b27bf0fb0d0ba-0f7c65b1ce)
-- [local-section:522606e71e4fa744c99b0900 — 3. The marked free-row inverse amplifier](../records/0147.md#local-section-522606e71e4fa744c99b0900-cf2ccad6a8)
+- [local-section:522606e71e4fa744c99b0900 — 3. The marked free-row inverse amplifier](../records/0148.md#local-section-522606e71e4fa744c99b0900-cf2ccad6a8)
 - [local-section:52d71f6490b9486c95758256 — 2. Protected high-reach development W41-17](../records/0148.md#local-section-52d71f6490b9486c95758256-80a3404194)
 - [local-section:52da7d5943985b34535a01cf — Joint affine local moment and complete c5 endpoint](../records/0148.md#local-section-52da7d5943985b34535a01cf-ee7a86f492)
 - [local-section:52e9f2480615222ec7d36a9d — 5. Development C: complete moving-prime-square mask and equivalence](../records/0148.md#local-section-52e9f2480615222ec7d36a9d-496d66e225)
@@ -257,4 +258,3 @@ Page 8/13; 3034 matching records.
 - [local-section:75c5294af108f521564a4100 — R10. Independent evidence and completion](../records/0152.md#local-section-75c5294af108f521564a4100-7de4ffa95b)
 - [local-section:75cdb4c0cf6015d8b0503980 — Retention, admission and next decisive work](../records/0152.md#local-section-75cdb4c0cf6015d8b0503980-0124aead57)
 - [local-section:75cf006d14d5410ff3f90c22 — 2. D1 / S01: fully paid reduction to a hard-prime off-diagonal form](../records/0152.md#local-section-75cf006d14d5410ff3f90c22-d8d1e152fc)
-- [local-section:7602726ea104cef6128599b7 — 1. Immutable intake, sampling and audit chronology](../records/0152.md#local-section-7602726ea104cef6128599b7-37add7d844)

@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 9/13; 3034 matching records.
+Page 9/13; 3035 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-08.md)
 
 [Next](topic-spectral-a26ea51cb6-10.md)
 
+- [local-section:7602726ea104cef6128599b7 — 1. Immutable intake, sampling and audit chronology](../records/0152.md#local-section-7602726ea104cef6128599b7-37add7d844)
 - [local-section:763c4474a4c3a30824ac9437 — Exact band consequences and limitations](../records/0152.md#local-section-763c4474a4c3a30824ac9437-626d25a10e)
 - [local-section:765745de5d7c6cb59a3f0c87 — F12. Correlated moving-prime amplification](../records/0152.md#local-section-765745de5d7c6cb59a3f0c87-df0360815b)
 - [local-section:771131d488c99d5ad19641e5 — 3.1 A uniform complete norm excludes all right-hand zeros](../records/0152.md#local-section-771131d488c99d5ad19641e5-b71eaa8b98)
@@ -53,7 +54,7 @@ Page 9/13; 3034 matching records.
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0153.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
+- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
 - [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0154.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
 - [local-section:806009d1beaaca2304e8ad37 — F08. Weighted fractional parts and modular residues](../records/0154.md#local-section-806009d1beaaca2304e8ad37-6803980858)
@@ -211,7 +212,7 @@ Page 9/13; 3034 matching records.
 - [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0158.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
 - [local-section:a61f8bbd7434472d68da6191 — UR7. Fixed delta=2: norm 20 and the complete inverse readout](../records/0158.md#local-section-a61f8bbd7434472d68da6191-5453eba6a6)
 - [local-section:a64787345f954944b2ee6f89 — 3. Two dilation filters, sharp frame constants and causal reconstruction](../records/0158.md#local-section-a64787345f954944b2ee6f89-fd83c55460)
-- [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0158.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
+- [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0159.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
 - [local-section:a6daee9967481dea57db3f77 — Mathematical proof handoff for external formalization](../records/0159.md#local-section-a6daee9967481dea57db3f77-34a3ffee79)
 - [local-section:a720791e0500c953170ee0ea — G146. The complete prefix is paid over the original slot interval](../records/0159.md#local-section-a720791e0500c953170ee0ea-72e47cd5a8)
 - [local-section:a72ffebe1ad66dc9afb8cea7 — W57 author report](../records/0159.md#local-section-a72ffebe1ad66dc9afb8cea7-af8c1ef99b)
@@ -257,4 +258,3 @@ Page 9/13; 3034 matching records.
 - [local-section:b0d712690d6167179f74b084 — 1. Verdict, worklog and exact scope](../records/0160.md#local-section-b0d712690d6167179f74b084-a8c14cb4a4)
 - [local-section:b0f3f80efb10c8149755c5f9 — Independent review of the \[research revision\] nonlinear ordinary-character source](../records/0160.md#local-section-b0f3f80efb10c8149755c5f9-0f141ca37e)
 - [local-section:b1299548bb1bea4cfc7fc112 — 4. An indefinite covariance cannot be used as a positive calibration Gram](../records/0160.md#local-section-b1299548bb1bea4cfc7fc112-c9e2f0578c)
-- [local-section:b12dfec639d7d94047c94e47 — Independent review: completed cross-class reduction](../records/0160.md#local-section-b12dfec639d7d94047c94e47-8b7fd4419e)

@@ -2,10 +2,11 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17523 matching records.
+Page 71/71; 17524 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [reviewed-claim:T08-finite-incidence-transfer — \[research revision\]-claim:T08-finite-incidence-transfer](../records/0218.md#reviewed-claim-t08-finite-incidence-transfer-1d3757e237)
 - [reviewed-claim:T08-fixed-buffer — \[research revision\]-claim:T08-fixed-buffer](../records/0218.md#reviewed-claim-t08-fixed-buffer-adde43a7ae)
 - [reviewed-claim:T08-rational-targets — \[research revision\]-claim:T08-rational-targets](../records/0218.md#reviewed-claim-t08-rational-targets-ce0ce086b2)
 - [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)

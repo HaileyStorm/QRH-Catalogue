@@ -66,7 +66,7 @@ Page 7/7; 1591 matching records.
 - [pr26:Physical.Bins::half_mass_dilation_bin@488 — half_mass_dilation_bin](../records/0215.md#pr26-physical-bins-half-mass-dilation-bin-488-07e62e4d76)
 - [pr26:Physical.Capacity — Physical.Capacity](../records/0215.md#pr26-physical-capacity-a722478daf)
 - [pr26:Physical.Capacity::baseCapacity@437 — baseCapacity](../records/0215.md#pr26-physical-capacity-basecapacity-437-75699b3eac)
-- [pr26:Physical.Capacity::baseCapacity_bounds@445 — baseCapacity_bounds](../records/0215.md#pr26-physical-capacity-basecapacity-bounds-445-88fb32e500)
+- [pr26:Physical.Capacity::baseCapacity_bounds@445 — baseCapacity_bounds](../records/0216.md#pr26-physical-capacity-basecapacity-bounds-445-88fb32e500)
 - [pr26:Physical.Capacity::localCapacity@438 — localCapacity](../records/0216.md#pr26-physical-capacity-localcapacity-438-0fb26a2db8)
 - [pr26:Physical.Capacity::local_capacity_window@451 — local_capacity_window](../records/0216.md#pr26-physical-capacity-local-capacity-window-451-b17d526bbd)
 - [pr26:Physical.Capacity::local_or_old_pair@534 — local_or_old_pair](../records/0216.md#pr26-physical-capacity-local-or-old-pair-534-4f689f6651)

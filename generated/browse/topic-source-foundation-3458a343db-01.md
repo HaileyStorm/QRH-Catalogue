@@ -197,7 +197,7 @@ Page 1/3; 720 matching records.
 - [local-section:4438318619112d5cb3e85ffa — 8. Evidence limits and final state](../records/0145.md#local-section-4438318619112d5cb3e85ffa-748db4272b)
 - [local-section:4446688c789b1ec03718e361 — \[research revision\]: compensated nonlinear source and paid cutoff coupling](../records/0145.md#local-section-4446688c789b1ec03718e361-705a64ad72)
 - [local-section:4457e9b00e9ff73ed973ef0c — 3. W43-15: exact Newton feedback and the missing detector](../records/0145.md#local-section-4457e9b00e9ff73ed973ef0c-2b8f6b38bd)
-- [local-section:448fb53530a84690188cd886 — R1. Evidence, independent selection and chronology](../records/0145.md#local-section-448fb53530a84690188cd886-a71460265a)
+- [local-section:448fb53530a84690188cd886 — R1. Evidence, independent selection and chronology](../records/0146.md#local-section-448fb53530a84690188cd886-a71460265a)
 - [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0146.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
 - [local-section:461d0e68ab339beb41a56f07 — Independent W48 review: the same complete energy has a higher-order return](../records/0146.md#local-section-461d0e68ab339beb41a56f07-a23786188e)
 - [local-section:461f1c61965b1612eab27437 — W66: cutoff prime deletion and the critical prime-flux boundary](../records/0146.md#local-section-461f1c61965b1612eab27437-0398e91dab)

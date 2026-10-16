@@ -2,15 +2,16 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 12/12; 2895 matching records.
+Page 12/12; 2896 matching records.
 
 [Previous](method-detector-f2b3cbe414-11.md)
 
+- [pr26:Global.Transport.PrincipalRemainderBounds::active_prime_sum_bound@553 — active_prime_sum_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-active-prime-sum-b-1faa078892)
 - [pr26:Global.Transport.PrincipalRemainderBounds::full_scale_bound@817 — full_scale_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-full-scale-bound-8-e506fef687)
 - [pr26:Global.Transport.PrincipalRemainderBounds::full_vertical_scale_bound@934 — full_vertical_scale_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-full-vertical-scal-d0bd1f91d5)
 - [pr26:Global.Transport.PrincipalRemainderBounds::ordered_remainders_scale_bound@1005 — ordered_remainders_scale_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-ordered-remainders-b11f0eb0e3)
 - [pr26:Global.Transport.PrincipalRemainderBounds::residue_scale_bound@872 — residue_scale_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-residue-scale-boun-4ac185413a)
-- [pr26:Global.Transport.PrincipalRemainderBounds::residue_vertical_scale_bound@969 — residue_vertical_scale_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-residue-vertical-s-ea1f6241b5)
+- [pr26:Global.Transport.PrincipalRemainderBounds::residue_vertical_scale_bound@969 — residue_vertical_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-residue-vertical-s-ea1f6241b5)
 - [pr26:Global.Transport.PrincipalRemainderBounds::source_remainders_power_bound@1082 — source_remainders_power_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-source-remainders--e680678941)
 - [pr26:Global.Transport.PrincipalRemainderBounds::source_remainders_strict_saving@1121 — source_remainders_strict_saving](../records/0212.md#pr26-global-transport-principalremainderbounds-source-remainders--10b9fdb9f0)
 - [pr26:Global.Transport.PrincipalRemainderBounds::window_sharp_bound@608 — window_sharp_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-window-sharp-bound-4c4d29bb8e)
@@ -73,7 +74,7 @@ Page 12/12; 2895 matching records.
 - [pr26:Global.Transport.PrincipalRemainderPhysical::principalPoolKernel_as_tuples@44 — principalPoolKernel_as_tuples](../records/0212.md#pr26-global-transport-principalremainderphysical-principalpoolker-e089a03f89)
 - [pr26:Global.Transport.PrincipalRemainderPhysical::principal_physical_pool_initial@57 — principal_physical_pool_initial](../records/0212.md#pr26-global-transport-principalremainderphysical-principal-physic-5c547ced53)
 - [pr26:Global.Transport.PrincipalRemainderPhysical::principal_physical_pool_ordered@88 — principal_physical_pool_ordered](../records/0212.md#pr26-global-transport-principalremainderphysical-principal-physic-923c4283c5)
-- [pr26:Global.Transport.PrincipalRemainderPhysical::slotMultiplier_as_tuples@32 — slotMultiplier_as_tuples](../records/0212.md#pr26-global-transport-principalremainderphysical-slotmultiplier-a-efd4ab1237)
+- [pr26:Global.Transport.PrincipalRemainderPhysical::slotMultiplier_as_tuples@32 — slotMultiplier_as_tuples](../records/0213.md#pr26-global-transport-principalremainderphysical-slotmultiplier-a-efd4ab1237)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_multipliable@515 — remainder_globalClosedCorrection_multipliable](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-globalcl-f9e479173a)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_idealClosedCorrection_bound@494 — remainder_idealClosedCorrection_bound](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-idealclo-1fff3ffa7e)
 - [pr26:Global.Transport.PrincipalRemainderResidueActual::actual_window_residue@544 — actual_window_residue](../records/0213.md#pr26-global-transport-principalremainderresidueactual-actual-wind-4d7b33488d)
@@ -100,7 +101,7 @@ Page 12/12; 2895 matching records.
 - [pr26:LocalMoment.PlainUnmarkedAdapter::unmarked_retained_plain@392 — unmarked_retained_plain](../records/0214.md#pr26-localmoment-plainunmarkedadapter-unmarked-retained-plain-392-e268941807)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
-- [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
+- [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
 - [pr26:LocalMoment.UniformDensity::raw_density_from_eventual_free@437 — raw_density_from_eventual_free](../records/0215.md#pr26-localmoment-uniformdensity-raw-density-from-eventual-free-43-16a304a698)
 - [pr26:LocalMoment.UniformDensity::raw_density_uniform_exponent@389 — raw_density_uniform_exponent](../records/0215.md#pr26-localmoment-uniformdensity-raw-density-uniform-exponent-389-c018a04a0a)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-6feda61b95)

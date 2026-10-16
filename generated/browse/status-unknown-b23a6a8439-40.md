@@ -2,18 +2,19 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 40/43; 10576 matching records.
+Page 40/43; 10577 matching records.
 
 [Previous](status-unknown-b23a6a8439-39.md)
 
 [Next](status-unknown-b23a6a8439-41.md)
 
+- [pr26:Analytic.ActualExtractedErrorAverage — Analytic.ActualExtractedErrorAverage](../records/0174.md#pr26-analytic-actualextractederroraverage-c57988d08f)
 - [pr26:Analytic.ActualExtractedErrorAverageFull — Analytic.ActualExtractedErrorAverageFull](../records/0174.md#pr26-analytic-actualextractederroraveragefull-9ac07451c2)
 - [pr26:Analytic.ActualExtractedErrorCaps — Analytic.ActualExtractedErrorCaps](../records/0174.md#pr26-analytic-actualextractederrorcaps-da148f0c4e)
 - [pr26:Analytic.ActualExtractedErrorCapsFull — Analytic.ActualExtractedErrorCapsFull](../records/0174.md#pr26-analytic-actualextractederrorcapsfull-28dba18253)
 - [pr26:Analytic.ActualExtractedErrors — Analytic.ActualExtractedErrors](../records/0174.md#pr26-analytic-actualextractederrors-bf5fd18c0e)
 - [pr26:Analytic.ActualExtractedLocalErrors — Analytic.ActualExtractedLocalErrors](../records/0174.md#pr26-analytic-actualextractedlocalerrors-48848d2714)
-- [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0174.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
+- [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
 - [pr26:Analytic.ActualFirstErrorIdentity — Analytic.ActualFirstErrorIdentity](../records/0175.md#pr26-analytic-actualfirsterroridentity-9a72eb2003)
 - [pr26:Analytic.ActualFirstErrorSource — Analytic.ActualFirstErrorSource](../records/0175.md#pr26-analytic-actualfirsterrorsource-f7af7f8a0c)
 - [pr26:Analytic.ActualFirstExtractedErrors — Analytic.ActualFirstExtractedErrors](../records/0175.md#pr26-analytic-actualfirstextractederrors-da69dc8577)
@@ -72,7 +73,7 @@ Page 40/43; 10576 matching records.
 - [pr26:Analytic.JointCoherentExceptionalLiteralTarget — Analytic.JointCoherentExceptionalLiteralTarget](../records/0177.md#pr26-analytic-jointcoherentexceptionalliteraltarget-b212ece322)
 - [pr26:Analytic.JointCoherentExceptionalLocalGates — Analytic.JointCoherentExceptionalLocalGates](../records/0177.md#pr26-analytic-jointcoherentexceptionallocalgates-8d99de1be6)
 - [pr26:Analytic.JointCoherentExceptionalLocalTarget — Analytic.JointCoherentExceptionalLocalTarget](../records/0177.md#pr26-analytic-jointcoherentexceptionallocaltarget-4b6497e8b3)
-- [pr26:Analytic.JointCoherentExceptionalMass — Analytic.JointCoherentExceptionalMass](../records/0177.md#pr26-analytic-jointcoherentexceptionalmass-3c6e0c4d0c)
+- [pr26:Analytic.JointCoherentExceptionalMass — Analytic.JointCoherentExceptionalMass](../records/0178.md#pr26-analytic-jointcoherentexceptionalmass-3c6e0c4d0c)
 - [pr26:Analytic.JointCoherentExceptionalNormalization — Analytic.JointCoherentExceptionalNormalization](../records/0178.md#pr26-analytic-jointcoherentexceptionalnormalization-4a558f92f2)
 - [pr26:Analytic.JointCoherentExceptionalNormalized — Analytic.JointCoherentExceptionalNormalized](../records/0178.md#pr26-analytic-jointcoherentexceptionalnormalized-19c7546264)
 - [pr26:Analytic.JointCoherentExceptionalPhysical — Analytic.JointCoherentExceptionalPhysical](../records/0178.md#pr26-analytic-jointcoherentexceptionalphysical-ecdfd3dde0)
@@ -257,4 +258,3 @@ Page 40/43; 10576 matching records.
 - [pr26:Analytic.JointHighScalarSector — Analytic.JointHighScalarSector](../records/0186.md#pr26-analytic-jointhighscalarsector-f157f4aa40)
 - [pr26:Analytic.JointHighSecondRows — Analytic.JointHighSecondRows](../records/0186.md#pr26-analytic-jointhighsecondrows-a0145793da)
 - [pr26:Analytic.JointHighSource — Analytic.JointHighSource](../records/0186.md#pr26-analytic-jointhighsource-32ee5fcf6c)
-- [pr26:Analytic.JointHighSourceCaps — Analytic.JointHighSourceCaps](../records/0186.md#pr26-analytic-jointhighsourcecaps-75e60a4876)

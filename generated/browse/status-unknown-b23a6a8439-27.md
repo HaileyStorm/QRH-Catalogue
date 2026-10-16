@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 27/43; 10576 matching records.
+Page 27/43; 10577 matching records.
 
 [Previous](status-unknown-b23a6a8439-26.md)
 
 [Next](status-unknown-b23a6a8439-28.md)
 
+- [exact-source:9b7ec82937ee2a15c2ca85ec — Exact source span: dd4aed8124f9 lines 363–363](../records/0135.md#exact-source-9b7ec82937ee2a15c2ca85ec-50bc54f3c3)
 - [exact-source:9bfec136ca58cc458834212a — Exact source span: 453f13690716 lines 47–75](../records/0135.md#exact-source-9bfec136ca58cc458834212a-fbd5678adb)
 - [exact-source:9d2b1b45a342fe794f70986e — Exact source span: dd4aed8124f9 lines 1379–1379](../records/0135.md#exact-source-9d2b1b45a342fe794f70986e-bdb7e0d127)
 - [exact-source:9d2b93fc88c45de5429fb7c7 — Exact source span: 2c82ab60c20d lines 167–227](../records/0135.md#exact-source-9d2b93fc88c45de5429fb7c7-e4fbce6f8c)
@@ -89,7 +90,7 @@ Page 27/43; 10576 matching records.
 - [exact-source:bc9c714e6b2d5af21f7cbdfb — Exact source span: 11ed4ae5fc39 lines 85–135](../records/0135.md#exact-source-bc9c714e6b2d5af21f7cbdfb-d727f660d4)
 - [exact-source:bd276015b9d465c3ee00c3bb — Exact source span: 2b4c67c3e817 lines 1177–1353](../records/0135.md#exact-source-bd276015b9d465c3ee00c3bb-f1ae75e41e)
 - [exact-source:bd3ce95b7a4322595e36424e — Exact source span: db599b9621c5 lines 124–183](../records/0135.md#exact-source-bd3ce95b7a4322595e36424e-1333c40357)
-- [exact-source:bd57ec54807e2436c9046a9b — Exact source span: dd4aed8124f9 lines 198–198](../records/0135.md#exact-source-bd57ec54807e2436c9046a9b-ef4e855183)
+- [exact-source:bd57ec54807e2436c9046a9b — Exact source span: dd4aed8124f9 lines 198–198](../records/0136.md#exact-source-bd57ec54807e2436c9046a9b-ef4e855183)
 - [exact-source:bdaa741aa643f7a2b169ada1 — Exact source span: e35dbe7b205d lines 2008–2023](../records/0136.md#exact-source-bdaa741aa643f7a2b169ada1-f4a4818a6d)
 - [exact-source:bdd3721462995a622a46de10 — Exact source span: 5200ecdd70b5 lines 21–145](../records/0136.md#exact-source-bdd3721462995a622a46de10-a1c51eb495)
 - [exact-source:bebef18be1eca69e0c4d8207 — Exact source span: 331e759a06a2 lines 82–160](../records/0136.md#exact-source-bebef18be1eca69e0c4d8207-799055a5dc)
@@ -189,7 +190,7 @@ Page 27/43; 10576 matching records.
 - [exact-source:e62a0b828359fe9ff4d59d45 — Exact source span: dd4aed8124f9 lines 287–287](../records/0136.md#exact-source-e62a0b828359fe9ff4d59d45-9888537401)
 - [exact-source:e644679b6d67333b220ade63 — Exact source span: 892884d5a277 lines 1–312](../records/0136.md#exact-source-e644679b6d67333b220ade63-2c71663829)
 - [exact-source:e6e31835a8bc91fae9d3fece — Exact source span: dd4aed8124f9 lines 1368–1368](../records/0136.md#exact-source-e6e31835a8bc91fae9d3fece-ad9bc68ccb)
-- [exact-source:e7f2b8c11e19e7234b98ffa0 — Exact source span: d5d5071f6ca5 lines 81–117](../records/0136.md#exact-source-e7f2b8c11e19e7234b98ffa0-706df9876f)
+- [exact-source:e7f2b8c11e19e7234b98ffa0 — Exact source span: d5d5071f6ca5 lines 81–117](../records/0137.md#exact-source-e7f2b8c11e19e7234b98ffa0-706df9876f)
 - [exact-source:e85e8ef9fd2f591408fcc32c — Exact source span: 453f13690716 lines 138–152](../records/0137.md#exact-source-e85e8ef9fd2f591408fcc32c-ac43da566d)
 - [exact-source:e8d080fcae994d0a2fe51b37 — Exact source span: dd4aed8124f9 lines 118–118](../records/0137.md#exact-source-e8d080fcae994d0a2fe51b37-94434013ae)
 - [exact-source:e9275e5009415db2d22d7481 — Exact source span: c873e7e0097d lines 55–101](../records/0137.md#exact-source-e9275e5009415db2d22d7481-df91f69d42)
@@ -257,4 +258,3 @@ Page 27/43; 10576 matching records.
 - [local-section:007153fdd87633827fa7b867 — F26.O — Fredholm models with every compensator retained](../records/0137.md#local-section-007153fdd87633827fa7b867-cb95194bc5)
 - [local-section:0072821175a1d346217ebefd — 4. Exact restorations and the author's two estimates](../records/0137.md#local-section-0072821175a1d346217ebefd-ced112c8d2)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
-- [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)

@@ -2,12 +2,13 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 8/11; 2701 matching records.
+Page 8/11; 2702 matching records.
 
 [Previous](object-hecke-family-33866bc7f5-07.md)
 
 [Next](object-hecke-family-33866bc7f5-09.md)
 
+- [local-section:5097ae0432b68667b4aba391 — 6. The complete convolution at an actual zero](../records/0147.md#local-section-5097ae0432b68667b4aba391-874627eafd)
 - [local-section:50a36ca7d9c03e95c8defbd3 — Evidence, chronology and sampling](../records/0147.md#local-section-50a36ca7d9c03e95c8defbd3-3efeeaf411)
 - [local-section:50bdde788364275f04e57f22 — W42 independent review: exact principal-signal transfer and paid Euler tails](../records/0147.md#local-section-50bdde788364275f04e57f22-f702a9c6f9)
 - [local-section:50dea812f5f154568933f08d — 1. Frozen process and six first tests](../records/0147.md#local-section-50dea812f5f154568933f08d-5cf522921b)
@@ -156,7 +157,7 @@ Page 8/11; 2701 matching records.
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0153.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
+- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80af4425850bd1179f2629d2 — 5. Protected audit S42: what a scale counterterm actually removes](../records/0154.md#local-section-80af4425850bd1179f2629d2-fce17fe9dd)
 - [local-section:81884ab57ca1812f1498031a — \[research revision\] independent review: two complementary witnesses on one far annulus](../records/0154.md#local-section-81884ab57ca1812f1498031a-f483e7cda3)
 - [local-section:81f632aa7b390f6376fc6a5a — 2. D04: exact reconstruction, complete quantifiers and zero return](../records/0154.md#local-section-81f632aa7b390f6376fc6a5a-2362f1d176)
@@ -257,4 +258,3 @@ Page 8/11; 2701 matching records.
 - [local-section:a1fb00706aedb9eca5671e8b — D04. Moving rough f3 detector with a paid cofactor head](../records/0158.md#local-section-a1fb00706aedb9eca5671e8b-8634ebad70)
 - [local-section:a2191f77ab0bf057c9755f1f — Author sampling and its exact evidence limit](../records/0158.md#local-section-a2191f77ab0bf057c9755f1f-53ba0dc5ff)
 - [local-section:a253d0f37861c957c1454b93 — 2.2 Global derivative estimate, including both finite cutoffs and infinity](../records/0158.md#local-section-a253d0f37861c957c1454b93-6d79a5cc6f)
-- [local-section:a2685673295740c034b8ba75 — 9. Ancestry, exact check and admission recommendation](../records/0158.md#local-section-a2685673295740c034b8ba75-c5e46ea604)

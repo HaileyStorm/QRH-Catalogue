@@ -158,7 +158,7 @@ Page 3/4; 955 matching records.
 - [local-section:c465f905e277f8e835729502 — 49. Restricted separated mixed moment and remaining signed source](../records/0162.md#local-section-c465f905e277f8e835729502-5c7cbb8c09)
 - [local-section:c5297bd18dc7a2e31c5ef7b4 — Principal characters: an actual whole-cutoff collapse](../records/0162.md#local-section-c5297bd18dc7a2e31c5ef7b4-fe5334c4fd)
 - [local-section:c53092bfe86b28b080e31a83 — 4. Other actual first tests and their limits](../records/0162.md#local-section-c53092bfe86b28b080e31a83-bb2282f07d)
-- [local-section:c582165b33e7bfa0986e54a7 — 9. A separate quantitative anchor: delta=2 really has an inverse](../records/0162.md#local-section-c582165b33e7bfa0986e54a7-4bb610826e)
+- [local-section:c582165b33e7bfa0986e54a7 — 9. A separate quantitative anchor: delta=2 really has an inverse](../records/0163.md#local-section-c582165b33e7bfa0986e54a7-4bb610826e)
 - [local-section:c58336f5f0daf0157988ce26 — Group 6: high ceiling / invented connection / reverse implication and converse](../records/0163.md#local-section-c58336f5f0daf0157988ce26-75945f72da)
 - [local-section:c5dc2f5ca8e653cd5026f66c — G96. The complete shrinking-arc return and finite signed core](../records/0163.md#local-section-c5dc2f5ca8e653cd5026f66c-78d8886f8d)
 - [local-section:c6362fdc6feabff5107ee363 — 3. D2: all prime blocks, all complements](../records/0163.md#local-section-c6362fdc6feabff5107ee363-06e738c8ed)

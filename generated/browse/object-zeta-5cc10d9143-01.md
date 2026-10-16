@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 932 matching records.
+Page 1/4; 933 matching records.
 
 [Next](object-zeta-5cc10d9143-02.md)
 
@@ -180,6 +180,7 @@ Page 1/4; 932 matching records.
 - [QRH-CONT-M011-SCHUR — Source-generated Schur determinant and the complete resolved Mobius norm](../records/0131.md#qrh-cont-m011-schur-825a774f5f)
 - [QRH-CONT-M012-STRESS-MODEL — Positive Euler stress model preserving the seed but violating a generic5/6 bootstrap](../records/0131.md#qrh-cont-m012-stress-model-60696ca655)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
+- [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:007153fdd87633827fa7b867 — F26.O — Fredholm models with every compensator retained](../records/0137.md#local-section-007153fdd87633827fa7b867-cb95194bc5)
@@ -240,7 +241,7 @@ Page 1/4; 932 matching records.
 - [local-section:120afe3f057270e2275d23a0 — \[research revision\]: chaining, simultaneous detection, and recombination in one proof](../records/0139.md#local-section-120afe3f057270e2275d23a0-ec5102373e)
 - [local-section:12a4c8e1c23e4f229ec80a86 — 6. Other selected first tests: actual scope and ancestry](../records/0139.md#local-section-12a4c8e1c23e4f229ec80a86-293c38ab36)
 - [local-section:12ced22ee2eb3d26b944b729 — 10. Evidence, dependency boundary and handoff](../records/0139.md#local-section-12ced22ee2eb3d26b944b729-d9a7da1c3a)
-- [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0139.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
+- [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0140.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:135f2d4b7dec2a2cf76f3e00 — Source and discovery record](../records/0140.md#local-section-135f2d4b7dec2a2cf76f3e00-52fec6bd6a)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
@@ -255,4 +256,3 @@ Page 1/4; 932 matching records.
 - [local-section:15d857d61fa09ff09c7704a0 — F21 — Repaired Hardy discs and a changed known-zero test](../records/0140.md#local-section-15d857d61fa09ff09c7704a0-087330d31f)
 - [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0140.md#local-section-160b4939857b2accee77efb9-442b8b8857)
 - [local-section:1616bfd1f16a7318c41f53c1 — PR15 local physical moment review — pinned head ca182b70](../records/0140.md#local-section-1616bfd1f16a7318c41f53c1-81c57132dd)
-- [local-section:178484c629618edb557fe002 — 3. Full physical covariance after the new core and gcd results](../records/0140.md#local-section-178484c629618edb557fe002-d94bc8936f)

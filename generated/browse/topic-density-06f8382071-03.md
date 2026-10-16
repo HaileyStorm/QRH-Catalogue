@@ -45,7 +45,7 @@ Page 3/7; 1591 matching records.
 - [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0142.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
 - [local-section:2b752699b4e913270a8de0cd — Complete endpoint, not just local capacity](../records/0142.md#local-section-2b752699b4e913270a8de0cd-62941cb45d)
 - [local-section:2baead16b4c841c3087018ba — M3. Fixed affine correlations, including conjugation](../records/0142.md#local-section-2baead16b4c841c3087018ba-f65182b6ca)
-- [local-section:2bde2805b0dfd635b320e976 — 5. Low bins and the canonical actual-width correction](../records/0142.md#local-section-2bde2805b0dfd635b320e976-e76ee254f3)
+- [local-section:2bde2805b0dfd635b320e976 — 5. Low bins and the canonical actual-width correction](../records/0143.md#local-section-2bde2805b0dfd635b320e976-e76ee254f3)
 - [local-section:2bf30875ec7fffc686cbf324 — 5. The three other author tests retain only their stated scope](../records/0143.md#local-section-2bf30875ec7fffc686cbf324-d7311befb2)
 - [local-section:2c2f84619cc5b0d86b72f6f3 — 7. Every part of the changed physical return](../records/0143.md#local-section-2c2f84619cc5b0d86b72f6f3-35caccaeb1)
 - [local-section:2c3f5884cafa44f8c3d4ea20 — \[research revision\]: a sharper exceptional branch from the literal transforms](../records/0143.md#local-section-2c3f5884cafa44f8c3d4ea20-b8fba8fe87)

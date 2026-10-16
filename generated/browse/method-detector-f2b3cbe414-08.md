@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 8/12; 2895 matching records.
+Page 8/12; 2896 matching records.
 
 [Previous](method-detector-f2b3cbe414-07.md)
 
 [Next](method-detector-f2b3cbe414-09.md)
 
+- [local-section:575c194f03cd99bbdaba58da — 11. Independent diagnostics and uniformity limits](../records/0148.md#local-section-575c194f03cd99bbdaba58da-032d12104d)
 - [local-section:575c1b72e2d8f469c968a573 — 3. D04: complete independent reconstruction](../records/0148.md#local-section-575c1b72e2d8f469c968a573-e90bbd8f45)
 - [local-section:5850d6fd7a0bfbc58c19f19b — Group3: p\<.03, signed scale boundary state](../records/0148.md#local-section-5850d6fd7a0bfbc58c19f19b-247d95a5bd)
 - [local-section:5893998fef27a07b6dd11dd0 — 9. Checks, limits and handoff](../records/0148.md#local-section-5893998fef27a07b6dd11dd0-2d2e6021c8)
@@ -105,7 +106,7 @@ Page 8/12; 2895 matching records.
 - [local-section:70c8913cf85abfe83170d166 — 13. Profile annihilation can remove the signal, and moving twists can move a paid root](../records/0151.md#local-section-70c8913cf85abfe83170d166-76ace56ba3)
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0151.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0151.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
-- [local-section:71bb65ff638afa27287e55e1 — 5. Genuine embedding in the \[research revision\] joint bank](../records/0151.md#local-section-71bb65ff638afa27287e55e1-64703711bf)
+- [local-section:71bb65ff638afa27287e55e1 — 5. Genuine embedding in the \[research revision\] joint bank](../records/0152.md#local-section-71bb65ff638afa27287e55e1-64703711bf)
 - [local-section:7214b5cc77611a289b9a8eef — 9. Full costs, transfer boundary and possible direct return](../records/0152.md#local-section-7214b5cc77611a289b9a8eef-184af844c5)
 - [local-section:722b86a12cad2c6e70d40826 — D26.2 Complete field approximation and cross terms](../records/0152.md#local-section-722b86a12cad2c6e70d40826-6ddfa3748c)
 - [local-section:7246c0c4564380f057b84e5f — 9. All thirty original dispositions and novelty limits](../records/0152.md#local-section-7246c0c4564380f057b84e5f-b36ee1cd42)
@@ -161,7 +162,7 @@ Page 8/12; 2895 matching records.
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0153.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
+- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80af4425850bd1179f2629d2 — 5. Protected audit S42: what a scale counterterm actually removes](../records/0154.md#local-section-80af4425850bd1179f2629d2-fce17fe9dd)
 - [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0154.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
 - [local-section:814a580dfea6b3e1138b4216 — Sol03: exact detector composition and its review corrections](../records/0154.md#local-section-814a580dfea6b3e1138b4216-f381d88d85)
@@ -257,4 +258,3 @@ Page 8/12; 2895 matching records.
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)
 - [local-section:9b1de17dfa1bf3453bc4390c — 7. Physical endpoint, sharp shortening cutoffs and free shifts](../records/0157.md#local-section-9b1de17dfa1bf3453bc4390c-a0010c07be)
 - [local-section:9b2b8c4ea8f0b57b66d19aa3 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction](../records/0157.md#local-section-9b2b8c4ea8f0b57b66d19aa3-26dc29beda)
-- [local-section:9b6ca73bc5a2f7fd0f67ac99 — \[research revision\]: complete operator returns and an actual detector repair](../records/0157.md#local-section-9b6ca73bc5a2f7fd0f67ac99-70a9dc44c5)

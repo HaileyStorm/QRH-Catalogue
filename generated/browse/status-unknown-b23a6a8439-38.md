@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 38/43; 10576 matching records.
+Page 38/43; 10577 matching records.
 
 [Previous](status-unknown-b23a6a8439-37.md)
 
 [Next](status-unknown-b23a6a8439-39.md)
 
+- [local-section:e27e905244801e9eccf26185 — Frozen selection and first tests](../records/0166.md#local-section-e27e905244801e9eccf26185-3c634160e8)
 - [local-section:e2aa5bf0a6c0564018974bcc — A10. Two exact countermodels for positivity-based geometric shortcuts](../records/0166.md#local-section-e2aa5bf0a6c0564018974bcc-18aa86baf6)
 - [local-section:e35b46423fbdb1e65ca3c229 — G175. Two exact source returns with their inverse costs](../records/0166.md#local-section-e35b46423fbdb1e65ca3c229-885c1f55e9)
 - [local-section:e38c1ee759bcbf5b62e875e3 — 3.3 Repeated differences pay the complete residual](../records/0166.md#local-section-e38c1ee759bcbf5b62e875e3-657b52a5be)
@@ -115,7 +116,7 @@ Page 38/43; 10576 matching records.
 - [local-section:ec175b33866a625b1de61808 — Evidence, ancestry and the next arithmetic estimate](../records/0167.md#local-section-ec175b33866a625b1de61808-5e61e2bda2)
 - [local-section:ec22afe4ca91bc1cfef0e63d — Complete energy and the remaining arithmetic problem](../records/0167.md#local-section-ec22afe4ca91bc1cfef0e63d-f76a3dfc0c)
 - [local-section:ec2410b15f4a72a683a74c8b — 2. Exact source and statement of the refined return](../records/0167.md#local-section-ec2410b15f4a72a683a74c8b-1c11466eec)
-- [local-section:ec4466dd871211a4e2646988 — 6. All thirty dispositions](../records/0167.md#local-section-ec4466dd871211a4e2646988-348e61701c)
+- [local-section:ec4466dd871211a4e2646988 — 6. All thirty dispositions](../records/0168.md#local-section-ec4466dd871211a4e2646988-348e61701c)
 - [local-section:ec4493e3740d38d6caeaf333 — 4.3 Explicit growth is accounted for but gives no growing-J theorem](../records/0168.md#local-section-ec4493e3740d38d6caeaf333-5416ff5664)
 - [local-section:ec486c71f4fba2e1928b1eb6 — 4. W40-15: the exact positivity price for literal f3](../records/0168.md#local-section-ec486c71f4fba2e1928b1eb6-a8991c9a46)
 - [local-section:ec52b2d270afd73aaa4141b9 — 4. Preservation and acceptance limits](../records/0168.md#local-section-ec52b2d270afd73aaa4141b9-dad1ed830a)
@@ -257,4 +258,3 @@ Page 38/43; 10576 matching records.
 - [local-section:f8733caf9ff610bdfa9a0b2a — The complete c7 endpoint](../records/0169.md#local-section-f8733caf9ff610bdfa9a0b2a-8c34d6fc25)
 - [local-section:f87e81647d6f92ec1e119e04 — Frozen generation and sampling](../records/0169.md#local-section-f87e81647d6f92ec1e119e04-450e30340b)
 - [local-section:f8f1c127ce5124fbe21dbc3a — 7. Exact all-branch linear-probe transfer](../records/0169.md#local-section-f8f1c127ce5124fbe21dbc3a-a3be4c5aca)
-- [local-section:f9297f4a4d8a4b2f88846290 — 4.2 Whole nonlinear kernel and the low/high split](../records/0169.md#local-section-f9297f4a4d8a4b2f88846290-2ca26ef3ff)

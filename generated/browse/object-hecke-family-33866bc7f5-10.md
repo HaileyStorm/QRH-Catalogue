@@ -2,12 +2,13 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 10/11; 2701 matching records.
+Page 10/11; 2702 matching records.
 
 [Previous](object-hecke-family-33866bc7f5-09.md)
 
 [Next](object-hecke-family-33866bc7f5-11.md)
 
+- [local-section:ef0401cee60c2a1f7af98fbd — 6. Protected S28: source-exact signed coupling audit](../records/0168.md#local-section-ef0401cee60c2a1f7af98fbd-fea821520f)
 - [local-section:efa66a211c4ea40618248fb9 — 1. Evidence and independent work](../records/0168.md#local-section-efa66a211c4ea40618248fb9-c7086d20f1)
 - [local-section:f03af310fca905991591b7f1 — W64 independent review](../records/0168.md#local-section-f03af310fca905991591b7f1-010b3f12e4)
 - [local-section:f051e72f2714f070c06f911f — R42.6. D26's complete omitted-prime product](../records/0168.md#local-section-f051e72f2714f070c06f911f-cf3f53a4e4)
@@ -18,7 +19,7 @@ Page 10/11; 2701 matching records.
 - [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0168.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f428d90d2f1a5606c82a666c — 2. Exact source evidence and its limits](../records/0168.md#local-section-f428d90d2f1a5606c82a666c-413662fc42)
-- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f46c222da6f0d60a6a1fa098 — Accepted mathematics](../records/0169.md#local-section-f46c222da6f0d60a6a1fa098-a29562026f)
 - [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
 - [local-section:f4da81a624985e32cfa1c618 — \[research revision\]: retaining the original plain cap gives c4=.125135](../records/0169.md#local-section-f4da81a624985e32cfa1c618-1d32323501)
@@ -42,7 +43,7 @@ Page 10/11; 2701 matching records.
 - [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0169.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0169.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0169.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
-- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
+- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fca58caed0cd22169211d8b1 — 1. Frozen intake, sampling and source attribution](../records/0170.md#local-section-fca58caed0cd22169211d8b1-a3db7c5e91)
 - [local-section:fcb06517352dcd637563e2f2 — Exact numerical transfers and an off-central version](../records/0170.md#local-section-fcb06517352dcd637563e2f2-cf2f56d4ad)
 - [local-section:fcc7fb8c4d40ce365a454f8c — 10. Evidence and operational limits](../records/0170.md#local-section-fcc7fb8c4d40ce365a454f8c-51982c90e2)
@@ -65,7 +66,7 @@ Page 10/11; 2701 matching records.
 - [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0171.md#local-g110-07e53448ee)
 - [local:G111 — G111. Accepted c10 licenses a smaller density capacity](../records/0171.md#local-g111-70b84ecbc6)
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0171.md#local-g114-fec7178ffd)
-- [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0171.md#local-g116-82b0aa6b3e)
+- [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)
 - [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0172.md#local-g122-fe374f44f7)
 - [local:G123 — G123. Complete relative mass and full-hole Poisson](../records/0172.md#local-g123-25009c8d8f)
 - [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0172.md#local-g125-91d6b6ad62)
@@ -81,7 +82,7 @@ Page 10/11; 2701 matching records.
 - [local:G181 — G181. A smaller signed residual, with the physical return still open](../records/0172.md#local-g181-217607fadc)
 - [local:G189 — G189. Full constant-cut source transfer](../records/0172.md#local-g189-20df34a586)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
-- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
+- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G221 — G221. The user's quaternion identity on the actual Jordan source](../records/0173.md#local-g221-56d05db393)
 - [local:G227 — G227. An actual twisted inverse and its cofactor-resolved observation](../records/0173.md#local-g227-4fd8db96d9)
@@ -257,4 +258,3 @@ Page 10/11; 2701 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::weightedErrorTuple_packet@447 — weightedErrorTuple_packet](../records/0202.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-weighted-a40d31f979)
 - [pr26:Cycle25.Numerator.Imported.NumeratorIntegral::actual_error_numerator_bound@292 — actual_error_numerator_bound](../records/0203.md#pr26-cycle25-numerator-imported-numeratorintegral-actual-error-nu-3346ea1d2f)
 - [pr26:Cycle25.Numerator.Imported.NumeratorLabelReconstruction::errorLabelNumerator_reconstruction@1235 — errorLabelNumerator_reconstruction](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlabelreconstruction-erro-6099e01385)
-- [pr26:Cycle25.Numerator.Imported.NumeratorMassDamping::actual_conductor_packet_cap@463 — actual_conductor_packet_cap](../records/0203.md#pr26-cycle25-numerator-imported-numeratormassdamping-actual-condu-b84b764110)

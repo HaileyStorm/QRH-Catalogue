@@ -2,10 +2,11 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 932 matching records.
+Page 4/4; 933 matching records.
 
 [Previous](object-zeta-5cc10d9143-03.md)
 
+- [local-section:d7a0a8a096aeba8c1bcce262 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0165.md#local-section-d7a0a8a096aeba8c1bcce262-f55d63595d)
 - [local-section:d7bce599375a19d68ffbe816 — QRH research map and attempt index](../records/0165.md#local-section-d7bce599375a19d68ffbe816-f66829f86a)
 - [local-section:d86d5218fbd163c6eaeaa22c — Post52 Sol High02: literal smooth-bin return and physical block innovations](../records/0165.md#local-section-d86d5218fbd163c6eaeaa22c-a70fb3e518)
 - [local-section:d9055d7cc725d514f0ef2ac5 — \[research revision\]: growing quadratic classes in the actual cubic moment](../records/0165.md#local-section-d9055d7cc725d514f0ef2ac5-6d623c73ac)
@@ -76,7 +77,7 @@ Page 4/4; 932 matching records.
 - [local-section:f3f6112b3549379c0b822adf — G95. An exact source with a positive signed global leading term](../records/0168.md#local-section-f3f6112b3549379c0b822adf-e72e558c7a)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f42a841878e5f1146653e007 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0168.md#local-section-f42a841878e5f1146653e007-9245de9c38)
-- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
 - [local-section:f4da81a624985e32cfa1c618 — \[research revision\]: retaining the original plain cap gives c4=.125135](../records/0169.md#local-section-f4da81a624985e32cfa1c618-1d32323501)
@@ -95,7 +96,7 @@ Page 4/4; 932 matching records.
 - [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0169.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
 - [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
 - [local-section:fb65af9e764b858d998f91e4 — Explicit endpoint constants for the common fixed filter](../records/0169.md#local-section-fb65af9e764b858d998f91e4-279bc3d539)
-- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
+- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0170.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
 - [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0170.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
 - [local-section:fcf26516ad547088eb751edd — Positive cofactor-hole absolute Gram: independent corollary check](../records/0170.md#local-section-fcf26516ad547088eb751edd-a5a177cdb6)
@@ -108,7 +109,7 @@ Page 4/4; 932 matching records.
 - [local:A12 — A12. A prime Fredholm determinant and the regularization trap](../records/0170.md#local-a12-1a2afd17b5)
 - [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
 - [local:F07.C — F07.C — Inverse-cubic Jacobi rational phase t v/(1+v), zero value−1, CRT ideal Möbius](../records/0170.md#local-f07-c-52ad24329e)
-- [local:F08 — F08. Weighted fractional parts and modular residues](../records/0170.md#local-f08-1cd15be4b1)
+- [local:F08 — F08. Weighted fractional parts and modular residues](../records/0171.md#local-f08-1cd15be4b1)
 - [local:F08.N1 — F08.N1 — Residue-wavelet blocks must be explicit arithmetic combinations, e.g](../records/0171.md#local-f08-n1-d9ecbe86d5)
 - [local:F18 — F18. Short intervals, exceptional rows and amplitude-sensitive bounds](../records/0171.md#local-f18-12da3cf010)
 - [local:F18.X — F18.X — Arithmetic row labels are not zeta ordinates; good-row density does not imply all-height exclusion](../records/0171.md#local-f18-x-33f94e9261)
@@ -136,7 +137,7 @@ Page 4/4; 932 matching records.
 - [local:G195 — G195. Every fixed low-chain sector under one common filter](../records/0172.md#local-g195-9c2a4ca679)
 - [local:G201 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0172.md#local-g201-653f9140ed)
 - [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0172.md#local-g202-0d8b3cdd46)
-- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
+- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G216 — G216. Exact recovery, actual absolute cost and complete diagonal](../records/0173.md#local-g216-ffe0a34c47)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G221 — G221. The user's quaternion identity on the actual Jordan source](../records/0173.md#local-g221-56d05db393)

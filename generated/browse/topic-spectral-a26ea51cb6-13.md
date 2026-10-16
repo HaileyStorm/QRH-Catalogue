@@ -2,11 +2,12 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3034 matching records.
+Page 13/13; 3035 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
-- [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
+- [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
+- [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::common_probe_of_raw_moments@593 — common_probe_of_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-common-pr-7a34dce64f)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::hecke_of_raw_moments@627 — hecke_of_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-hecke-of--a9a80d8064)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::common_probe_of_chosen_moments@73 — common_probe_of_chosen_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-51c0cd10ff)

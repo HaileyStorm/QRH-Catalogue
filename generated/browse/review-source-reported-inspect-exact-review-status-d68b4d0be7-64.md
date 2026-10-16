@@ -2,12 +2,13 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 64/71; 17523 matching records.
+Page 64/71; 17524 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-63.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-65.md)
 
+- [pr26:Cycle25.Energy.ReferenceLowWindow::reflection_window_length@381 — reflection_window_length](../records/0200.md#pr26-cycle25-energy-referencelowwindow-reflection-window-length-3-e9e66aadc1)
 - [pr26:Cycle25.Energy.ReferenceRobustBounded — Cycle25.Energy.ReferenceRobustBounded](../records/0200.md#pr26-cycle25-energy-referencerobustbounded-5a8acd939c)
 - [pr26:Cycle25.Energy.ReferenceRobustBounded::original_reference_power_robust@669 — original_reference_power_robust](../records/0200.md#pr26-cycle25-energy-referencerobustbounded-original-reference-pow-6a06fa96da)
 - [pr26:Cycle25.Energy.ReferenceRobustDeletedEnergy — Cycle25.Energy.ReferenceRobustDeletedEnergy](../records/0200.md#pr26-cycle25-energy-referencerobustdeletedenergy-c0ef887f56)
@@ -38,7 +39,7 @@ Page 64/71; 17523 matching records.
 - [pr26:Cycle25.Numerator.AmplitudeHolder::weighted_dilation_bin@251 — weighted_dilation_bin](../records/0200.md#pr26-cycle25-numerator-amplitudeholder-weighted-dilation-bin-251-884ca3e1f1)
 - [pr26:Cycle25.Numerator.AmplitudeLoss — Cycle25.Numerator.AmplitudeLoss](../records/0200.md#pr26-cycle25-numerator-amplitudeloss-4281a62e6a)
 - [pr26:Cycle25.Numerator.AmplitudeLoss::restore_upper_bin_loss@292 — restore_upper_bin_loss](../records/0200.md#pr26-cycle25-numerator-amplitudeloss-restore-upper-bin-loss-292-fd49f8851e)
-- [pr26:Cycle25.Numerator.AmplitudeLoss::upper_bin_normalized@285 — upper_bin_normalized](../records/0200.md#pr26-cycle25-numerator-amplitudeloss-upper-bin-normalized-285-207aec66a0)
+- [pr26:Cycle25.Numerator.AmplitudeLoss::upper_bin_normalized@285 — upper_bin_normalized](../records/0201.md#pr26-cycle25-numerator-amplitudeloss-upper-bin-normalized-285-207aec66a0)
 - [pr26:Cycle25.Numerator.BoxGeometry — Cycle25.Numerator.BoxGeometry](../records/0201.md#pr26-cycle25-numerator-boxgeometry-b39d6fcf08)
 - [pr26:Cycle25.Numerator.BoxGeometry::annular_capacity_saving_loss@594 — annular_capacity_saving_loss](../records/0201.md#pr26-cycle25-numerator-boxgeometry-annular-capacity-saving-loss-5-2ee1beda9a)
 - [pr26:Cycle25.Numerator.BoxGeometry::capacity_shift_exact@559 — capacity_shift_exact](../records/0201.md#pr26-cycle25-numerator-boxgeometry-capacity-shift-exact-559-35090ae563)
@@ -138,7 +139,7 @@ Page 64/71; 17523 matching records.
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::sourceSZWeight@341 — sourceSZWeight](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-sourceszweigh-8424c0af60)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::weightedRow_w_integral@361 — weightedRow_w_integral](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-weightedrow-w-6e23bd422e)
 - [pr26:Cycle25.Numerator.Imported.FullWTransport — Cycle25.Numerator.Imported.FullWTransport](../records/0201.md#pr26-cycle25-numerator-imported-fullwtransport-ad41696d8f)
-- [pr26:Cycle25.Numerator.Imported.FullWTransport::centralFullWIntegral_cube_error@306 — centralFullWIntegral_cube_error](../records/0201.md#pr26-cycle25-numerator-imported-fullwtransport-centralfullwintegr-d60fe8a280)
+- [pr26:Cycle25.Numerator.Imported.FullWTransport::centralFullWIntegral_cube_error@306 — centralFullWIntegral_cube_error](../records/0202.md#pr26-cycle25-numerator-imported-fullwtransport-centralfullwintegr-d60fe8a280)
 - [pr26:Cycle25.Numerator.Imported.FullWTransport::uniform_original_row_fullW_error@363 — uniform_original_row_fullW_error](../records/0202.md#pr26-cycle25-numerator-imported-fullwtransport-uniform-original-r-21001922bb)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction — Cycle25.Numerator.Imported.MellinReconstruction](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-16a57bb1e3)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::coefficient_central_mellin@727 — coefficient_central_mellin](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-coefficient--22301299fa)
@@ -238,7 +239,7 @@ Page 64/71; 17523 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_expansion_hasProd@628 — euler_expansion_hasProd](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-exp-0c04a8b534)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_expansion_mass_le_exp@641 — euler_expansion_mass_le_exp](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-exp-1623f95880)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_expansion_summable_norm@609 — euler_expansion_summable_norm](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-exp-72783ab353)
-- [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_fiber_mass@601 — euler_fiber_mass](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-fib-7df17ec66d)
+- [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_fiber_mass@601 — euler_fiber_mass](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-fib-7df17ec66d)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_fiber_sum@620 — euler_fiber_sum](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-fib-1844898f41)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::localMass@598 — localMass](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-localmass-e3c2f9ce0b)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::localMellinTerm@680 — localMellinTerm](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-localmell-fb6dbe8a06)
@@ -257,4 +258,3 @@ Page 64/71; 17523 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finite_packet_term@463 — finite_packet_term](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finite-pack-77100cfda1)
 - [pr26:Cycle25.Numerator.Imported.NumeratorIntegral — Cycle25.Numerator.Imported.NumeratorIntegral](../records/0203.md#pr26-cycle25-numerator-imported-numeratorintegral-a620a5903d)
 - [pr26:Cycle25.Numerator.Imported.NumeratorIntegral::actual_error_numerator_bound@292 — actual_error_numerator_bound](../records/0203.md#pr26-cycle25-numerator-imported-numeratorintegral-actual-error-nu-3346ea1d2f)
-- [pr26:Cycle25.Numerator.Imported.NumeratorIntegral::errorNumeratorIntegral@282 — errorNumeratorIntegral](../records/0203.md#pr26-cycle25-numerator-imported-numeratorintegral-errornumeratori-0414a6224a)

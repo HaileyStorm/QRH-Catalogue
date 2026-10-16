@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/71; 17523 matching records.
+Page 53/71; 17524 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
@@ -40,6 +40,7 @@ Page 53/71; 17523 matching records.
 - [QRH-CONT-R026-COLLISION-PAIRING — Exact signed collision factors in the complete PR8 physical pairing](../records/0131.md#qrh-cont-r026-collision-pairing-6333f96ce4)
 - [QRH-CONT-R027-MOVING-GAUSS-PHASE — Actual reflected Gauss phase, collision lift and moving frequency in the PR8 pairing](../records/0131.md#qrh-cont-r027-moving-gauss-phase-d9334b8478)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
+- [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0170.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0170.md#local-a02-e20ad4bdfd)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0170.md#local-a03-9e9a3d45e7)
@@ -188,7 +189,7 @@ Page 53/71; 17523 matching records.
 - [pr26:Analytic.ActualExtractedErrors::actual_firstExtractedErrors_power@517 — actual_firstExtractedErrors_power](../records/0174.md#pr26-analytic-actualextractederrors-actual-firstextractederrors-p-1fe3082db6)
 - [pr26:Analytic.ActualExtractedLocalErrors — Analytic.ActualExtractedLocalErrors](../records/0174.md#pr26-analytic-actualextractedlocalerrors-48848d2714)
 - [pr26:Analytic.ActualExtractedLocalErrors::actual_firstExtractedErrors_local_bound@238 — actual_firstExtractedErrors_local_bound](../records/0174.md#pr26-analytic-actualextractedlocalerrors-actual-firstextractederr-20534f92e4)
-- [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0174.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
+- [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
 - [pr26:Analytic.ActualExtractedLocalErrorsFull::actual_firstExtractedErrors_local_bound_full@78 — actual_firstExtractedErrors_local_bound_full](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-actual-firstextracte-5222f312d2)
 - [pr26:Analytic.ActualFirstErrorIdentity — Analytic.ActualFirstErrorIdentity](../records/0175.md#pr26-analytic-actualfirsterroridentity-9a72eb2003)
 - [pr26:Analytic.ActualFirstErrorIdentity::allocatedExtractedErrors_nonneg@156 — allocatedExtractedErrors_nonneg](../records/0175.md#pr26-analytic-actualfirsterroridentity-allocatedextractederrors-n-2c535f4ae8)
@@ -257,4 +258,3 @@ Page 53/71; 17523 matching records.
 - [pr26:Analytic.BufferedDilation::bufferedDilatedProfile@269 — bufferedDilatedProfile](../records/0175.md#pr26-analytic-buffereddilation-buffereddilatedprofile-269-0ee16ae810)
 - [pr26:Analytic.BufferedDilation::dilated_mellin_pair_uniform@246 — dilated_mellin_pair_uniform](../records/0175.md#pr26-analytic-buffereddilation-dilated-mellin-pair-uniform-246-9b6cf772af)
 - [pr26:Analytic.BufferedDilation::dilated_mellin_uniform@205 — dilated_mellin_uniform](../records/0175.md#pr26-analytic-buffereddilation-dilated-mellin-uniform-205-d6796b8224)
-- [pr26:Analytic.BufferedPartition — Analytic.BufferedPartition](../records/0175.md#pr26-analytic-bufferedpartition-ef70a4fe55)

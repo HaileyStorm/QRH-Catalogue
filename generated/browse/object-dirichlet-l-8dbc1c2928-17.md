@@ -13,7 +13,7 @@ Page 17/17; 4109 matching records.
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
 - [local:G2 — G2 — uncapped free invention](../records/0172.md#local-g2-2c857fea19)
 - [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0172.md#local-g202-0d8b3cdd46)
-- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
+- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G222 — G222. Exact prime-deletion inversion and the full signed readout](../records/0173.md#local-g222-849aadba5c)

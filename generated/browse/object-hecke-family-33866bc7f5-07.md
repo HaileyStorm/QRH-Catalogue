@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 7/11; 2701 matching records.
+Page 7/11; 2702 matching records.
 
 [Previous](object-hecke-family-33866bc7f5-06.md)
 
@@ -12,6 +12,7 @@ Page 7/11; 2701 matching records.
 - [M21-SINGLE — All-Dirichlet,zeta with s!=1,and finite-order Eisenstein Hecke targets at29/33](../records/0129.md#m21-single-d599740bae)
 - [P7-16 — Independent literal family targets](../records/0130.md#p7-16-d1010e3787)
 - [QRH-CONT-M003-UNIFORM-TWIST — Universal ordinary conductor and Fourier-norm twist adapter](../records/0130.md#qrh-cont-m003-uniform-twist-3803c347fe)
+- [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
@@ -72,7 +73,7 @@ Page 7/11; 2701 matching records.
 - [local-section:11ff8745b8e2ba6408c35624 — Evidence, ancestry and next estimate](../records/0139.md#local-section-11ff8745b8e2ba6408c35624-c9a85349cd)
 - [local-section:122dce4f1e6a96fc899b46c7 — 6. Source evidence, checks and limits](../records/0139.md#local-section-122dce4f1e6a96fc899b46c7-2b25754875)
 - [local-section:1288833183e1f12324e09756 — A1. Source, fixed localization and exact Fourier formula](../records/0139.md#local-section-1288833183e1f12324e09756-9c9f0e8d80)
-- [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0139.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
+- [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0140.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
@@ -175,7 +176,7 @@ Page 7/11; 2701 matching records.
 - [local-section:339264c75be943e51bc30eb7 — Other tested cards, sampling and verification](../records/0143.md#local-section-339264c75be943e51bc30eb7-548bbf8fa4)
 - [local-section:339b895cd83c2efa407b9cf1 — 6. Paid transfer through the actual joint source](../records/0143.md#local-section-339b895cd83c2efa407b9cf1-f9f03f9514)
 - [local-section:33e253fb432a0ae81c91799f — 3.2 Squarefree local correction and the full convolution](../records/0143.md#local-section-33e253fb432a0ae81c91799f-a5e3ac91a5)
-- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0143.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
+- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0144.md#local-section-34160f89ce00b43718b31084-77745847c5)
 - [local-section:34496e74659ec2e6d1dedbd9 — R10. Decision and integration qualifications](../records/0144.md#local-section-34496e74659ec2e6d1dedbd9-d34e8e2bd3)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
@@ -198,7 +199,7 @@ Page 7/11; 2701 matching records.
 - [local-section:3abf528f324b9f992b81cc88 — 10. Exact scalar return, every row range, and feedback](../records/0144.md#local-section-3abf528f324b9f992b81cc88-ff1844eb92)
 - [local-section:3ad71db0f6526520b5a1b17b — G85. Full-scale moment return without the baseline](../records/0144.md#local-section-3ad71db0f6526520b5a1b17b-82f718a205)
 - [local-section:3c00a9634dcb608cf125849f — T01. Quantitative fixed-factor division — PROVED](../records/0144.md#local-section-3c00a9634dcb608cf125849f-cf71ea93ae)
-- [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0144.md#local-section-3c630827feaaf3da167e9311-b71969935d)
+- [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0145.md#local-section-3c630827feaaf3da167e9311-b71969935d)
 - [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0145.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
 - [local-section:3cfb55bc6b80c52e40b58b66 — 4. Literal arithmetic returns and their exact limits](../records/0145.md#local-section-3cfb55bc6b80c52e40b58b66-c26433518e)
 - [local-section:3d2c314962e1d213c7c7736e — Evidence and next research step](../records/0145.md#local-section-3d2c314962e1d213c7c7736e-bb171aedff)
@@ -242,7 +243,7 @@ Page 7/11; 2701 matching records.
 - [local-section:4a212d79357474b7a0dc7742 — Restricted provenance locator](../records/0146.md#local-section-4a212d79357474b7a0dc7742-a9568f9277)
 - [local-section:4a4c4acb8e83e6fcfc62d89b — Complete local-moment gain](../records/0146.md#local-section-4a4c4acb8e83e6fcfc62d89b-3f1b04a64d)
 - [local-section:4a93d710d80b06bf987a72df — Evidence and source boundary](../records/0146.md#local-section-4a93d710d80b06bf987a72df-1f3593c04c)
-- [local-section:4b6183d240ee3d2454ac79e1 — 1. Exact replacement source: squarefree divisor incidence](../records/0146.md#local-section-4b6183d240ee3d2454ac79e1-8b8ec849d9)
+- [local-section:4b6183d240ee3d2454ac79e1 — 1. Exact replacement source: squarefree divisor incidence](../records/0147.md#local-section-4b6183d240ee3d2454ac79e1-8b8ec849d9)
 - [local-section:4ba58ee5e29555d364ac150a — 1. Verdict and contribution](../records/0147.md#local-section-4ba58ee5e29555d364ac150a-5d19c459ed)
 - [local-section:4be025221ce9aa2c49d8c5a9 — 4. Consequential corrections and unresolved assertions](../records/0147.md#local-section-4be025221ce9aa2c49d8c5a9-57ab4bff2a)
 - [local-section:4c0a2492819062159325630d — Decision and exact scope](../records/0147.md#local-section-4c0a2492819062159325630d-297d781a3e)
@@ -257,4 +258,3 @@ Page 7/11; 2701 matching records.
 - [local-section:4f91d09dbf132da91336e3be — 8. Subtracting the mean and the complete return remain paid obligations](../records/0147.md#local-section-4f91d09dbf132da91336e3be-d6736746d1)
 - [local-section:4fdbb3196b714086c7248d3f — F07.Q — All-row Jacobi reconstruction](../records/0147.md#local-section-4fdbb3196b714086c7248d3f-a5824a4a14)
 - [local-section:50454f724e325fab779f65a8 — \[research revision\]: shaped local moment, closed boundary, and c5=.125136](../records/0147.md#local-section-50454f724e325fab779f65a8-ffff310805)
-- [local-section:5097ae0432b68667b4aba391 — 6. The complete convolution at an actual zero](../records/0147.md#local-section-5097ae0432b68667b4aba391-874627eafd)

@@ -12,7 +12,7 @@ Page 4/4; 777 matching records.
 - [local:G305 — G305. Global positive-quadratic endpoint certificates with explicit denominator and domain gates](../records/0173.md#local-g305-cfe213f8d4)
 - [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0173.md#local-g309-cb6cfa996e)
 - [local:G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0173.md#local-g5-edf12c141c)
-- [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0173.md#local-g67-a2b717289d)
+- [local:G67 — G67. Signed logarithmic bounds return the complete exponent](../records/0174.md#local-g67-a2b717289d)
 - [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0174.md#local-g69-9bdd438ff0)
 - [local:G73 — \[research revision\] attempt delta (G73)](../records/0174.md#local-g73-076e11ffdb)
 - [local:G74 — G74. A spectral gap can leave the entire arithmetic sign harmonic](../records/0174.md#local-g74-c3716b767a)

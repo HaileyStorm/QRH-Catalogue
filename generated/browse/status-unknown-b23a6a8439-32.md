@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 32/43; 10576 matching records.
+Page 32/43; 10577 matching records.
 
 [Previous](status-unknown-b23a6a8439-31.md)
 
 [Next](status-unknown-b23a6a8439-33.md)
 
+- [local-section:5e02126b671d5f45597e320d — M4. Finite masks and what the obstruction actually excludes](../records/0149.md#local-section-5e02126b671d5f45597e320d-210f556afc)
 - [local-section:5e13f38c3489d64c1255815f — 8. Finite caps and the exact signed scalar](../records/0149.md#local-section-5e13f38c3489d64c1255815f-ae4ecc96d9)
 - [local-section:5e1eb44eb4193a14e0afa43c — R10. Checks, limitations and next mathematical action](../records/0149.md#local-section-5e1eb44eb4193a14e0afa43c-4d6d2a6783)
 - [local-section:5e2f8446cfb6b2e985300da7 — 5. Pre-outcome audits and novelty](../records/0149.md#local-section-5e2f8446cfb6b2e985300da7-866c83910c)
@@ -58,7 +59,7 @@ Page 32/43; 10576 matching records.
 - [local-section:62071bdd0d79df6dc7a80b43 — Decisive change and independent reconstruction](../records/0149.md#local-section-62071bdd0d79df6dc7a80b43-a840d53975)
 - [local-section:62079fc7c4218449bf747b62 — 2. A: exact numerator-free and distinguished-prime returns](../records/0149.md#local-section-62079fc7c4218449bf747b62-8cfd892f03)
 - [local-section:6207cc261d20f706b4caed2d — 7. Protected audit27: what a full H-to-sieve witness must actually pay](../records/0149.md#local-section-6207cc261d20f706b4caed2d-2680366feb)
-- [local-section:620c78e99c0e2195526cefe3 — D26.3 Quantitative returns and first useful next estimate](../records/0149.md#local-section-620c78e99c0e2195526cefe3-54b2e16ae0)
+- [local-section:620c78e99c0e2195526cefe3 — D26.3 Quantitative returns and first useful next estimate](../records/0150.md#local-section-620c78e99c0e2195526cefe3-54b2e16ae0)
 - [local-section:62163623fd0274e1f12dd873 — D22 / S22: accept exact source; retain the gap failure](../records/0150.md#local-section-62163623fd0274e1f12dd873-dc78e65123)
 - [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0150.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
 - [local-section:62246689cf603bd1586d2471 — Proposed growing-order source theorem: statement and exact algebra](../records/0150.md#local-section-62246689cf603bd1586d2471-39ee2f4f3b)
@@ -147,7 +148,7 @@ Page 32/43; 10576 matching records.
 - [local-section:68c7c5d7e152382c27e30b9c — 9. Strongest surviving objection and next action](../records/0150.md#local-section-68c7c5d7e152382c27e30b9c-05faf3f046)
 - [local-section:68cc62362c6d4457c10ecc56 — 1. Exact inputs and scope](../records/0150.md#local-section-68cc62362c6d4457c10ecc56-60c0974acc)
 - [local-section:68d0ab844329bc22388b44cd — 5. Relative characters, complete coefficient mass and masked rows](../records/0150.md#local-section-68d0ab844329bc22388b44cd-657223dfca)
-- [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0150.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
+- [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0151.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
 - [local-section:6918a6864f36198c3ae56f37 — 9. Evidence limits and handoff](../records/0151.md#local-section-6918a6864f36198c3ae56f37-f38b9d98d4)
 - [local-section:694edfe2997df2bfece5b510 — 5.2 W40-29 — fixed phase-list occupancy cannot save a power](../records/0151.md#local-section-694edfe2997df2bfece5b510-6387fa9fb4)
 - [local-section:697cc578b0bc908e410c4117 — Uniform squarefree mass, with a logarithmic refinement](../records/0151.md#local-section-697cc578b0bc908e410c4117-3c594735d4)
@@ -257,4 +258,3 @@ Page 32/43; 10576 matching records.
 - [local-section:7362cc1f75d6ea76424d0756 — F08.A / F19.A — Actual modular-residue capture](../records/0152.md#local-section-7362cc1f75d6ea76424d0756-e54f9f8237)
 - [local-section:738ad32b69086848558e98d8 — 4.2 Source-sensitive obstruction at shrinking height](../records/0152.md#local-section-738ad32b69086848558e98d8-157a39be61)
 - [local-section:73c7b2271b0da0f3d52e9cdd — 5. The other three first tests, with exact scope](../records/0152.md#local-section-73c7b2271b0da0f3d52e9cdd-c950611f83)
-- [local-section:73dbbdfd697186be8a456262 — R10. All thirty final dispositions and portfolio comparison](../records/0152.md#local-section-73dbbdfd697186be8a456262-c123025ace)

@@ -14,7 +14,7 @@ Page 4/4; 797 matching records.
 - [local:G172 — G172. Deflation changes the obstructing cell and preserves its cost](../records/0172.md#local-g172-3d45f2fa11)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0172.md#local-g173-0a9bfc34dc)
 - [local:G2 — G2 — uncapped free invention](../records/0172.md#local-g2-2c857fea19)
-- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
+- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0173.md#local-g231-6f4902eba6)

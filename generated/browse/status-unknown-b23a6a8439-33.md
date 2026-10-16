@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 33/43; 10576 matching records.
+Page 33/43; 10577 matching records.
 
 [Previous](status-unknown-b23a6a8439-32.md)
 
 [Next](status-unknown-b23a6a8439-34.md)
 
+- [local-section:73dbbdfd697186be8a456262 — R10. All thirty final dispositions and portfolio comparison](../records/0152.md#local-section-73dbbdfd697186be8a456262-c123025ace)
 - [local-section:73dec1ac53b5eb9be1d2d710 — 9. Exact remaining estimate and limitations](../records/0152.md#local-section-73dec1ac53b5eb9be1d2d710-0ab5d5d06f)
 - [local-section:73e5729a73d2819ab143671f — 1. Gcd-one and large-shift obstruction](../records/0152.md#local-section-73e5729a73d2819ab143671f-4722f97278)
 - [local-section:73edef45e4b4f3403c483bf9 — 7. Quantitative cost of retaining the phase direction](../records/0152.md#local-section-73edef45e4b4f3403c483bf9-9e9e16e14d)
@@ -66,7 +67,7 @@ Page 33/43; 10576 matching records.
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:7864c7683a4d3067e2f4c126 — 5.1 W40-11 — the proposed full operator bound fails for the actual critical split](../records/0152.md#local-section-7864c7683a4d3067e2f4c126-4a7273d875)
 - [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0152.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
-- [local-section:78a74daef16a3c7d605c2cd1 — G204: small square cores with unrestricted cubic rows](../records/0152.md#local-section-78a74daef16a3c7d605c2cd1-2cb00d3281)
+- [local-section:78a74daef16a3c7d605c2cd1 — G204: small square cores with unrestricted cubic rows](../records/0153.md#local-section-78a74daef16a3c7d605c2cd1-2cb00d3281)
 - [local-section:78aa00256f69d8616e32ad4f — 7. Evidence, limits and frozen handoff](../records/0153.md#local-section-78aa00256f69d8616e32ad4f-687682e951)
 - [local-section:78b466827061d6a87e484cd6 — 5. The old arithmetic exponent is preserved: GC21--GC22](../records/0153.md#local-section-78b466827061d6a87e484cd6-a9d01e904c)
 - [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0153.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
@@ -146,7 +147,7 @@ Page 33/43; 10576 matching records.
 - [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0153.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
 - [local-section:7fbfafbaccc58a2dc64c8d35 — G143. Divisor-erasure recovery with literal coprimality and two prices](../records/0153.md#local-section-7fbfafbaccc58a2dc64c8d35-2bda48b58e)
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
+- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
 - [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0154.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
 - [local-section:8079b95454b30258c6ba342f — 2.4 Full real-shell energy, moving amplitude and all cross terms](../records/0154.md#local-section-8079b95454b30258c6ba342f-05a55b0b7f)
@@ -257,4 +258,3 @@ Page 33/43; 10576 matching records.
 - [local-section:8a86dfdbb9ff47121d7b3150 — W40-12 — Multiplicative matrix martingale with signed increments; p=.06](../records/0155.md#local-section-8a86dfdbb9ff47121d7b3150-716bebf933)
 - [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
 - [local-section:8a927db3735ee3decd667c43 — W40-26 — Sieve syndrome with exact erasure completion; p=.009](../records/0155.md#local-section-8a927db3735ee3decd667c43-50dc6fb6f7)
-- [local-section:8a98d228ede588df90ff5044 — 4. Full endpoint return](../records/0155.md#local-section-8a98d228ede588df90ff5044-f605183a23)

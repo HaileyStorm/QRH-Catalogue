@@ -6,7 +6,7 @@ Page 3/3; 662 matching records.
 
 [Previous](status-conditional-6929adae85-02.md)
 
-- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
 - [local-section:f4d276fee597c0e3b9c4816c — \[research revision\]: weighted boundary spectrum and complete source transfers](../records/0169.md#local-section-f4d276fee597c0e3b9c4816c-522ce1782e)
 - [local-section:f52bd39bd06ba37e76aee32d — G214. Counted sectors and the full physical obstruction](../records/0169.md#local-section-f52bd39bd06ba37e76aee32d-ef6df84730)
@@ -153,7 +153,7 @@ Page 3/3; 662 matching records.
 - [review:A06 — \[research revision\]-review:A06](../records/0217.md#review-a06-70a2aae45c)
 - [review:A09 — \[research revision\]-review:A09](../records/0217.md#review-a09-2b5b8434a0)
 - [review:A14 — \[research revision\]-review:A14](../records/0217.md#review-a14-9001c6dd5f)
-- [review:T02 — \[research revision\]-review:T02](../records/0217.md#review-t02-74c6b63ea9)
+- [review:T02 — \[research revision\]-review:T02](../records/0218.md#review-t02-74c6b63ea9)
 - [review:T08 — \[research revision\]-review:T08](../records/0218.md#review-t08-da626c3108)
 - [review:T09 — \[research revision\]-review:T09](../records/0218.md#review-t09-9b55f2ffc3)
 - [review:T10 — \[research revision\]-review:T10](../records/0218.md#review-t10-2738c6d533)

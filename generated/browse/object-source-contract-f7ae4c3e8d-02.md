@@ -83,7 +83,7 @@ Page 2/4; 785 matching records.
 - [local-section:67fddbf8073f77f9de3fc5cc — Source credit, evidence limits and disposition](../records/0150.md#local-section-67fddbf8073f77f9de3fc5cc-054bce6efe)
 - [local-section:68257eb3f12440ba4dbf5291 — \[research revision\] headroom: source replacement discovery and bounded development](../records/0150.md#local-section-68257eb3f12440ba4dbf5291-13c6ae6677)
 - [local-section:68839056246491ee4c620e2f — 3. Fixed amplifier family and simultaneous applicability](../records/0150.md#local-section-68839056246491ee4c620e2f-47f0a9a5ef)
-- [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0150.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
+- [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0151.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
 - [local-section:696895c8cd52dd5374faee5a — \[research revision\]: licensed density gain and conditioned amplitude](../records/0151.md#local-section-696895c8cd52dd5374faee5a-3817a768ec)
 - [local-section:69bda3b4d99195a8bc8e3e00 — 4. Why this changes the live source contract](../records/0151.md#local-section-69bda3b4d99195a8bc8e3e00-cf929e67b4)
 - [local-section:6a5b0cf0f606df0e310565eb — 2. S28: an exact deletion channel whose inverse is affordable at a true size cutoff](../records/0151.md#local-section-6a5b0cf0f606df0e310565eb-80ffd5d2d8)

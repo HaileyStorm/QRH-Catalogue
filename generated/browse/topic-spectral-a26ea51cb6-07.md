@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 7/13; 3034 matching records.
+Page 7/13; 3035 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-06.md)
 
@@ -19,6 +19,7 @@ Page 7/13; 3034 matching records.
 - [QRH-CONT-M003-UNIFORM-TWIST — Universal ordinary conductor and Fourier-norm twist adapter](../records/0130.md#qrh-cont-m003-uniform-twist-3803c347fe)
 - [QRH-CONT-M009-LOG-ROWS — Arithmetic logarithmic rows with critical weak norms and a retained zero measure](../records/0131.md#qrh-cont-m009-log-rows-d3023d4bb5)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
+- [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
@@ -91,7 +92,7 @@ Page 7/13; 3034 matching records.
 - [local-section:122dce4f1e6a96fc899b46c7 — 6. Source evidence, checks and limits](../records/0139.md#local-section-122dce4f1e6a96fc899b46c7-2b25754875)
 - [local-section:1288833183e1f12324e09756 — A1. Source, fixed localization and exact Fourier formula](../records/0139.md#local-section-1288833183e1f12324e09756-9c9f0e8d80)
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0139.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
-- [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0139.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
+- [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0140.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
 - [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
@@ -160,7 +161,7 @@ Page 7/13; 3034 matching records.
 - [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0141.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:2389b0cc8c70b6c831e8b3aa — 2. D1/S01: complete conditional prime-flux return](../records/0141.md#local-section-2389b0cc8c70b6c831e8b3aa-d4ef221e11)
-- [local-section:23b51ff137eab91d6b9d8ea1 — 7. W60-30: full cyclic compression has zero Feshbach self-energy](../records/0141.md#local-section-23b51ff137eab91d6b9d8ea1-8ed53e92ba)
+- [local-section:23b51ff137eab91d6b9d8ea1 — 7. W60-30: full cyclic compression has zero Feshbach self-energy](../records/0142.md#local-section-23b51ff137eab91d6b9d8ea1-8ed53e92ba)
 - [local-section:23b98763ff7d93f6a876cae0 — Quaternion norm applied to the complete Jordan source](../records/0142.md#local-section-23b98763ff7d93f6a876cae0-b5d89f2b62)
 - [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0142.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)
 - [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0142.md#local-section-23eff95a515b438b71738534-fbea372025)
@@ -227,7 +228,7 @@ Page 7/13; 3034 matching records.
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0143.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33e253fb432a0ae81c91799f — 3.2 Squarefree local correction and the full convolution](../records/0143.md#local-section-33e253fb432a0ae81c91799f-a5e3ac91a5)
-- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0143.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
+- [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0144.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
 - [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0144.md#local-section-34160f89ce00b43718b31084-77745847c5)
 - [local-section:34496e74659ec2e6d1dedbd9 — R10. Decision and integration qualifications](../records/0144.md#local-section-34496e74659ec2e6d1dedbd9-d34e8e2bd3)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
@@ -257,4 +258,3 @@ Page 7/13; 3034 matching records.
 - [local-section:3aa09a4581d8057897fe9985 — 5. Other first tests, including the wildcard](../records/0144.md#local-section-3aa09a4581d8057897fe9985-8ada02ecd5)
 - [local-section:3abf528f324b9f992b81cc88 — 10. Exact scalar return, every row range, and feedback](../records/0144.md#local-section-3abf528f324b9f992b81cc88-ff1844eb92)
 - [local-section:3ad71db0f6526520b5a1b17b — G85. Full-scale moment return without the baseline](../records/0144.md#local-section-3ad71db0f6526520b5a1b17b-82f718a205)
-- [local-section:3bdcf002a3f4f687964d9a46 — 4. Paying the prefix on the whole original slot range](../records/0144.md#local-section-3bdcf002a3f4f687964d9a46-5e928517d8)

@@ -2,12 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 41/43; 10576 matching records.
+Page 41/43; 10577 matching records.
 
 [Previous](status-unknown-b23a6a8439-40.md)
 
 [Next](status-unknown-b23a6a8439-42.md)
 
+- [pr26:Analytic.JointHighSourceCaps — Analytic.JointHighSourceCaps](../records/0186.md#pr26-analytic-jointhighsourcecaps-75e60a4876)
 - [pr26:Analytic.JointHighSourceDyadic — Analytic.JointHighSourceDyadic](../records/0186.md#pr26-analytic-jointhighsourcedyadic-ffbb8d5e6e)
 - [pr26:Analytic.JointHighSourceGeometry — Analytic.JointHighSourceGeometry](../records/0186.md#pr26-analytic-jointhighsourcegeometry-04ffb1205b)
 - [pr26:Analytic.JointHighSourceMatches — Analytic.JointHighSourceMatches](../records/0186.md#pr26-analytic-jointhighsourcematches-d40e306549)
@@ -225,7 +226,7 @@ Page 41/43; 10576 matching records.
 - [pr26:Cycle25.Energy.Endpoint — Cycle25.Energy.Endpoint](../records/0198.md#pr26-cycle25-energy-endpoint-5159bde8bc)
 - [pr26:Cycle25.Energy.FirstSourceParameters — Cycle25.Energy.FirstSourceParameters](../records/0198.md#pr26-cycle25-energy-firstsourceparameters-ad9d846282)
 - [pr26:Cycle25.Energy.KappaGeometry — Cycle25.Energy.KappaGeometry](../records/0198.md#pr26-cycle25-energy-kappageometry-da8f842627)
-- [pr26:Cycle25.Energy.LiveClippingDefect — Cycle25.Energy.LiveClippingDefect](../records/0198.md#pr26-cycle25-energy-liveclippingdefect-fe46d08413)
+- [pr26:Cycle25.Energy.LiveClippingDefect — Cycle25.Energy.LiveClippingDefect](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-fe46d08413)
 - [pr26:Cycle25.Energy.NaturalHighStage — Cycle25.Energy.NaturalHighStage](../records/0199.md#pr26-cycle25-energy-naturalhighstage-8882091f9e)
 - [pr26:Cycle25.Energy.NaturalLowPhysical — Cycle25.Energy.NaturalLowPhysical](../records/0199.md#pr26-cycle25-energy-naturallowphysical-71a0feeccb)
 - [pr26:Cycle25.Energy.NaturalLowStage — Cycle25.Energy.NaturalLowStage](../records/0199.md#pr26-cycle25-energy-naturallowstage-dd921536f9)
@@ -257,4 +258,3 @@ Page 41/43; 10576 matching records.
 - [pr26:Cycle25.Energy.PositiveHighSource — Cycle25.Energy.PositiveHighSource](../records/0200.md#pr26-cycle25-energy-positivehighsource-acf8bd3d1b)
 - [pr26:Cycle25.Energy.PositiveHighSourceBound — Cycle25.Energy.PositiveHighSourceBound](../records/0200.md#pr26-cycle25-energy-positivehighsourcebound-8fd3e874bc)
 - [pr26:Cycle25.Energy.PositiveHighSourceBounded — Cycle25.Energy.PositiveHighSourceBounded](../records/0200.md#pr26-cycle25-energy-positivehighsourcebounded-3f23156c86)
-- [pr26:Cycle25.Energy.ReferenceDeletionCapacity — Cycle25.Energy.ReferenceDeletionCapacity](../records/0200.md#pr26-cycle25-energy-referencedeletioncapacity-77bf3678c6)

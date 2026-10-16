@@ -190,7 +190,7 @@ Page 2/5; 1021 matching records.
 - [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0153.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
-- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
+- [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
 - [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
 - [local-section:80bcfffe1e0f302ae70aa060 — Group 2: free invention](../records/0154.md#local-section-80bcfffe1e0f302ae70aa060-112441aca5)
 - [local-section:80c1ee5507876876ca0db038 — 3. The other author tests: precise certificate limits](../records/0154.md#local-section-80c1ee5507876876ca0db038-16be9c3b34)

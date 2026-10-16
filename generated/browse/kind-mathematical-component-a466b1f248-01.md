@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 62 matching records.
+Page 1/1; 63 matching records.
 
 - [MATH-PR48-57ca0662-collision-partitions — Collision partitions for overlapping finite slot pools](../records/0129.md#math-pr48-57ca0662-collision-partitions-6b4f96fbc7)
 - [MATH-PR48-57ca0662-finite-polarization — Finite polarization from common product profiles](../records/0129.md#math-pr48-57ca0662-finite-polarization-4afcdc06a5)
@@ -66,3 +66,4 @@ Page 1/1; 62 matching records.
 - [QRH-CONT-R026-COLLISION-PAIRING — Exact signed collision factors in the complete PR8 physical pairing](../records/0131.md#qrh-cont-r026-collision-pairing-6333f96ce4)
 - [QRH-CONT-R027-MOVING-GAUSS-PHASE — Actual reflected Gauss phase, collision lift and moving frequency in the PR8 pairing](../records/0131.md#qrh-cont-r027-moving-gauss-phase-d9334b8478)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
+- [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)

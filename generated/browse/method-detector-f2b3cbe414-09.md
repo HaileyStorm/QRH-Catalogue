@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 9/12; 2895 matching records.
+Page 9/12; 2896 matching records.
 
 [Previous](method-detector-f2b3cbe414-08.md)
 
 [Next](method-detector-f2b3cbe414-10.md)
 
+- [local-section:9b6ca73bc5a2f7fd0f67ac99 — \[research revision\]: complete operator returns and an actual detector repair](../records/0157.md#local-section-9b6ca73bc5a2f7fd0f67ac99-70a9dc44c5)
 - [local-section:9c3632cf2e0780769fea898c — 11. Remaining fields, target order, and zero exclusion](../records/0157.md#local-section-9c3632cf2e0780769fea898c-edc5fbc3f8)
 - [local-section:9c5d7b1d69523e0bf5061d8c — 9. Controller endpoint amendment, 12 October 2026 UTC](../records/0157.md#local-section-9c5d7b1d69523e0bf5061d8c-0da2cdf206)
 - [local-section:9c6e6cda6d0379372345e576 — \[research revision\]: affine endpoint, observation inputs and detector overlap](../records/0157.md#local-section-9c6e6cda6d0379372345e576-8bb024f62a)
@@ -16,7 +17,7 @@ Page 9/12; 2895 matching records.
 - [local-section:9ddf7a81c6e56d13c63f3cee — Actual common-prime valuations and a stronger support bound](../records/0157.md#local-section-9ddf7a81c6e56d13c63f3cee-53376ee9eb)
 - [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0157.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
 - [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0157.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
-- [local-section:9ea3f39f3fe57382d853c77b — 6. The actual common-zero identity before witness selection](../records/0157.md#local-section-9ea3f39f3fe57382d853c77b-fac8a9ae8a)
+- [local-section:9ea3f39f3fe57382d853c77b — 6. The actual common-zero identity before witness selection](../records/0158.md#local-section-9ea3f39f3fe57382d853c77b-fac8a9ae8a)
 - [local-section:9f00fb05f20efe3e8ec21552 — No lost zeros in the numerator](../records/0158.md#local-section-9f00fb05f20efe3e8ec21552-5690b4c81e)
 - [local-section:9f7ffe08a33a563378c74ef1 — \[research revision\]: all-source forced-row bounds for the actual mixed linear probe](../records/0158.md#local-section-9f7ffe08a33a563378c74ef1-ef1feb150d)
 - [local-section:9fb822de8128e9f17ac81f67 — 3. L1–10: the complete signed logarithmic criterion](../records/0158.md#local-section-9fb822de8128e9f17ac81f67-45d26f53fd)
@@ -67,7 +68,7 @@ Page 9/12; 2895 matching records.
 - [local-section:add3aac0f4f2793e022f98da — D02 and the seven other first tests](../records/0159.md#local-section-add3aac0f4f2793e022f98da-a3f6783667)
 - [local-section:ae01d614d6310519c34af7f9 — Primary-source screen, ancestry, and next useful action](../records/0159.md#local-section-ae01d614d6310519c34af7f9-1dda46cb49)
 - [local-section:ae0a1ee22c954b72a787627d — 4. Ten author tests and two independent audits](../records/0159.md#local-section-ae0a1ee22c954b72a787627d-f01df5e65a)
-- [local-section:ae2c65cc6ad827cabebbbbf9 — Pointwise actual-source consequence](../records/0159.md#local-section-ae2c65cc6ad827cabebbbbf9-b993f2f6ed)
+- [local-section:ae2c65cc6ad827cabebbbbf9 — Pointwise actual-source consequence](../records/0160.md#local-section-ae2c65cc6ad827cabebbbbf9-b993f2f6ed)
 - [local-section:af2fc179c058d68cd15e7210 — 5. Endpoint interface that cannot be shortened away](../records/0160.md#local-section-af2fc179c058d68cd15e7210-a22038577b)
 - [local-section:af919ef34d68e7f5e325fa24 — \[research revision\]: parameter and square-row interfaces](../records/0160.md#local-section-af919ef34d68e7f5e325fa24-eac048a11e)
 - [local-section:b001623ad24aac74b5438084 — 3. The weighted free-row detector](../records/0160.md#local-section-b001623ad24aac74b5438084-b4a68281bf)
@@ -211,7 +212,7 @@ Page 9/12; 2895 matching records.
 - [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0165.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
 - [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0165.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
 - [local-section:db1897b4dfa1a01a6b398abf — W40-08 — Inverse-L dispersion sum rule; p=.07](../records/0165.md#local-section-db1897b4dfa1a01a6b398abf-d96cf0f568)
-- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0165.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
+- [local-section:db206f4d746c7a26eefb367c — 7. Conditional all-height return](../records/0166.md#local-section-db206f4d746c7a26eefb367c-341f109b60)
 - [local-section:db2290e49df482bbac0d3747 — 3.2 Genuine selection and zero supply](../records/0166.md#local-section-db2290e49df482bbac0d3747-582622e9cf)
 - [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
 - [local-section:db4906677fd072c4bc33e9d8 — 8. Independent high-ceiling continuation with every cost specified](../records/0166.md#local-section-db4906677fd072c4bc33e9d8-3b8dc2ea86)
@@ -257,4 +258,3 @@ Page 9/12; 2895 matching records.
 - [local-section:ea5ed15f7313d698dd4699a4 — \[research revision\]: W55 finite detector transfer and complete signed targets](../records/0167.md#local-section-ea5ed15f7313d698dd4699a4-36f3bcc80a)
 - [local-section:eaac231b398f980e74c7e5a3 — W39 / \[research revision\] independent mathematical review](../records/0167.md#local-section-eaac231b398f980e74c7e5a3-32de86ab05)
 - [local-section:eabd34860666102d33214d34 — Complete scalar numerator bound](../records/0167.md#local-section-eabd34860666102d33214d34-f79e117ba0)
-- [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)

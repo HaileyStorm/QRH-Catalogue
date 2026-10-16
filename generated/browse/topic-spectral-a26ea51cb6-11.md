@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 11/13; 3034 matching records.
+Page 11/13; 3035 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-10.md)
 
 [Next](topic-spectral-a26ea51cb6-12.md)
 
+- [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
 - [local-section:eb83f1d6260efd41613fc500 — Complete endpoint return with the changed complements](../records/0167.md#local-section-eb83f1d6260efd41613fc500-fb2ece6b81)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:eb97058e0aca7d9ef45c6962 — 2.1 A neutral-prime realization works, but its harmonic price is linear](../records/0167.md#local-section-eb97058e0aca7d9ef45c6962-c368298644)
@@ -41,7 +42,7 @@ Page 11/13; 3034 matching records.
 - [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0168.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f428d90d2f1a5606c82a666c — 2. Exact source evidence and its limits](../records/0168.md#local-section-f428d90d2f1a5606c82a666c-413662fc42)
-- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f46c222da6f0d60a6a1fa098 — Accepted mathematics](../records/0169.md#local-section-f46c222da6f0d60a6a1fa098-a29562026f)
 - [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
@@ -81,7 +82,7 @@ Page 11/13; 3034 matching records.
 - [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0169.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0169.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0169.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
-- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
+- [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
 - [local-section:fca58caed0cd22169211d8b1 — 1. Frozen intake, sampling and source attribution](../records/0170.md#local-section-fca58caed0cd22169211d8b1-a3db7c5e91)
 - [local-section:fcae089e917ec2779d5773c8 — 7. Evidence, provenance and final state](../records/0170.md#local-section-fcae089e917ec2779d5773c8-572ac9c5e9)
 - [local-section:fcb06517352dcd637563e2f2 — Exact numerical transfers and an off-central version](../records/0170.md#local-section-fcb06517352dcd637563e2f2-cf2f56d4ad)
@@ -105,7 +106,7 @@ Page 11/13; 3034 matching records.
 - [local:F05 — F05. Möbius-aware polar projection and spectral sieve](../records/0170.md#local-f05-b00059fa1b)
 - [local:F05.C — F05.C — Model overlap equals Σμ(c)conjν(c)W_c; baseline overlap alone still leaves cubic exponent≈2.04195](../records/0170.md#local-f05-c-5d30cdcab0)
 - [local:F06 — F06. Bilinear currents and actual spectral testing](../records/0170.md#local-f06-91b9eb5611)
-- [local:F08 — F08. Weighted fractional parts and modular residues](../records/0170.md#local-f08-1cd15be4b1)
+- [local:F08 — F08. Weighted fractional parts and modular residues](../records/0171.md#local-f08-1cd15be4b1)
 - [local:F08.R — F08.R — Arithmetic compact K_w=Σw_nf_n⊗f_n; source resolvent→d∞²](../records/0171.md#local-f08-r-981a2aef9c)
 - [local:F12 — F12. Correlated moving-prime amplification](../records/0171.md#local-f12-b67c4de618)
 - [local:F12.J — F12.J — Exact joint reconstruction of original row and genuinely ramified prime twists, averaged together](../records/0171.md#local-f12-j-802d6524da)
@@ -119,7 +120,7 @@ Page 11/13; 3034 matching records.
 - [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0171.md#local-g108-f378462f08)
 - [local:G111 — G111. Accepted c10 licenses a smaller density capacity](../records/0171.md#local-g111-70b84ecbc6)
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0171.md#local-g114-fec7178ffd)
-- [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0171.md#local-g116-82b0aa6b3e)
+- [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0172.md#local-g116-82b0aa6b3e)
 - [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0172.md#local-g122-fe374f44f7)
 - [local:G124 — G124. Current margins and precise remaining signed input](../records/0172.md#local-g124-05c454b9ec)
 - [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0172.md#local-g125-91d6b6ad62)
@@ -150,7 +151,7 @@ Page 11/13; 3034 matching records.
 - [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
 - [local:G194 — G194. The literal matrix and its complete positive price](../records/0172.md#local-g194-dabcb1723f)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0172.md#local-g212-6e2dec84ed)
-- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
+- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G221 — G221. The user's quaternion identity on the actual Jordan source](../records/0173.md#local-g221-56d05db393)
@@ -257,4 +258,3 @@ Page 11/13; 3034 matching records.
 - [pr26:Analytic.JointLowClipped::actual_clipped_allocated_low_contribution@743 — actual_clipped_allocated_low_contribution](../records/0187.md#pr26-analytic-jointlowclipped-actual-clipped-allocated-low-contri-a2f361a6c8)
 - [pr26:Analytic.JointLowClipped::actual_clipped_allocated_low_moment@643 — actual_clipped_allocated_low_moment](../records/0187.md#pr26-analytic-jointlowclipped-actual-clipped-allocated-low-moment-e40b9d3154)
 - [pr26:Analytic.JointLowCommon::actual_common_low_from_parent@584 — actual_common_low_from_parent](../records/0187.md#pr26-analytic-jointlowcommon-actual-common-low-from-parent-584-45b06ef2ec)
-- [pr26:Analytic.JointLowCommonBinSource::actual_second_low_source_of_common_bin@952 — actual_second_low_source_of_common_bin](../records/0187.md#pr26-analytic-jointlowcommonbinsource-actual-second-low-source-of-a8467800eb)

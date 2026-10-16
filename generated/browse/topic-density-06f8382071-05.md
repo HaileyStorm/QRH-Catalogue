@@ -227,7 +227,7 @@ Page 5/7; 1591 matching records.
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0168.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
 - [local-section:f428d90d2f1a5606c82a666c — 2. Exact source evidence and its limits](../records/0168.md#local-section-f428d90d2f1a5606c82a666c-413662fc42)
-- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
+- [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0169.md#local-section-f42d9041e90c854add86b125-9255bd903c)
 - [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
 - [local-section:f4da81a624985e32cfa1c618 — \[research revision\]: retaining the original plain cap gives c4=.125135](../records/0169.md#local-section-f4da81a624985e32cfa1c618-1d32323501)
