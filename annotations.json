@@ -294,6 +294,1271 @@
           "qualification": "Written source-contract deduction; no new typecheck, axiom audit, kernel execution, weighted arithmetic bound or endpoint."
         }
       }
+    },
+    "QRH-CONT-M001-SQUARE-CONTENT": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "section2, Theorem2.1, equations(2.1)-(2.11); section3, Theorem3.1",
+            "path": "restricted-source:e949e1e234225b66d1570596053a25a72f7dc932b7acc45c100fe821eab193d0",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "e949e1e234225b66d1570596053a25a72f7dc932b7acc45c100fe821eab193d0"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M002-CENTERED-CONTENT": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-2, equations(A1)-(A2),(B1)-(B5), Theorem2.1; section2.1 target ledger",
+            "path": "restricted-source:15c2789ac7268fce20d5001180dbfcf234d6cf65f412949ad19468f3b557422e",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "15c2789ac7268fce20d5001180dbfcf234d6cf65f412949ad19468f3b557422e"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "section5, Theorem5.1, centered CM estimate",
+            "path": "restricted-source:e949e1e234225b66d1570596053a25a72f7dc932b7acc45c100fe821eab193d0",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "e949e1e234225b66d1570596053a25a72f7dc932b7acc45c100fe821eab193d0"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M003-UNIFORM-TWIST": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "section1 and final Uniform-adapter review receipt and final cost conventions",
+            "path": "restricted-source:26734ee686ae83fe38218974fa6ad358af4ba1191e39839d38d8c1eb9c53099a",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "26734ee686ae83fe38218974fa6ad358af4ba1191e39839d38d8c1eb9c53099a"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M005-CENTERED-GRAM": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "section1, equations(1)-(8); section2, Theorem2.1, equations(9)-(18)",
+            "path": "restricted-source:e8865d310bc6e0e3456f68bf8b89f7351f73e4f89a93a2ab4097dc34c81e0019",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "e8865d310bc6e0e3456f68bf8b89f7351f73e4f89a93a2ab4097dc34c81e0019"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "section7, Theorem7.1, equations(22)-(31)",
+            "path": "restricted-source:27423e8c9a0fc59e2895d9a75a345a01412cace9322400888ee591a775b35119",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "27423e8c9a0fc59e2895d9a75a345a01412cace9322400888ee591a775b35119"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M006-PRIME-FILTER": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "section2, Theorems2.1-2.2, equations(2.1)-(2.15); section3 Liouville N=1 variant",
+            "path": "restricted-source:17f164546a4c7d09e8843165ff6c4504c87c9f03c571f8f98d02215068178595",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "17f164546a4c7d09e8843165ff6c4504c87c9f03c571f8f98d02215068178595"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M007-SQUARE-MEAN": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-6.1, equations(1.1)-(6.2), Theorems3.1,6.1,6.2",
+            "path": "restricted-source:cc6ececc506bef4a27a4c9b1c89134e823bca80215f8b4f5571ebfc05bf89391",
+            "qualification": "Exact source is retained privately and matches its immutable milestone ZIP member. The hash establishes identity, not proof validity; this entry exports no proof body.",
+            "role": "written-source",
+            "sha256": "cc6ececc506bef4a27a4c9b1c89134e823bca80215f8b4f5571ebfc05bf89391"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M008-CORE-BAND": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections0-2, Theorem1, equations(1)-(4),(6)-(11)",
+            "path": "restricted-source:405180a074ce10f72fc1be70c79709d25dfa36187b9136270f79f4e88917377b",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "written-source",
+            "sha256": "405180a074ce10f72fc1be70c79709d25dfa36187b9136270f79f4e88917377b"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "Mathematical status; Review and checker limitations",
+            "path": "restricted-source:7982baed6a632bcd2b10a55768bd464f0ee9bd100c80bac2d2a6170aef26da29",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "source-reported-review-scope",
+            "sha256": "7982baed6a632bcd2b10a55768bd464f0ee9bd100c80bac2d2a6170aef26da29"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M012-CONDUCTOR-ADAPTER": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-3, equations(2)-(10)",
+            "path": "restricted-source:b8ed62119022ed05913a9861449aef347f0aa8b1ae634b62d229e332c0e9607f",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "written-source",
+            "sha256": "b8ed62119022ed05913a9861449aef347f0aa8b1ae634b62d229e332c0e9607f"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "Review, finite evidence and external sources",
+            "path": "restricted-source:d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "source-reported-review-scope",
+            "sha256": "d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M012-QUADRATIC-REFLECTION": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-5, equations(1)-(10)",
+            "path": "restricted-source:804f4de130bb02a66444917178c5ccdb49d8637e1bd6ca6460c7b836bab11bfd",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "written-source",
+            "sha256": "804f4de130bb02a66444917178c5ccdb49d8637e1bd6ca6460c7b836bab11bfd"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "Review, finite evidence and external sources",
+            "path": "restricted-source:d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "source-reported-review-scope",
+            "sha256": "d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M010-PRIMITIVE-STRIP": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-4, equations(1)-(17)",
+            "path": "restricted-source:d2425d268ca02f8c63a8672e6c501165e04197b5d764cde29d90703b62408bfc",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "written-source",
+            "sha256": "d2425d268ca02f8c63a8672e6c501165e04197b5d764cde29d90703b62408bfc"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "Actual dependencies and evidence; Adversarial checks and boundaries of claims",
+            "path": "restricted-source:26f13c1d4199b8f71d28578b8368321b298fbde43cd46cd032f949bc313ce550",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "source-reported-review-scope",
+            "sha256": "26f13c1d4199b8f71d28578b8368321b298fbde43cd46cd032f949bc313ce550"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M012-VAUGHAN": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-5, equations(1)-(22)",
+            "path": "restricted-source:1b9f1510bb12d124bf913df68e50bde66f9dda32ea6bad6ea7ef482036936875",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "written-source",
+            "sha256": "1b9f1510bb12d124bf913df68e50bde66f9dda32ea6bad6ea7ef482036936875"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "Review, finite evidence and external sources",
+            "path": "restricted-source:d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "source-reported-review-scope",
+            "sha256": "d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M012-STRESS-MODEL": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-4, equations(1)-(6)",
+            "path": "restricted-source:1bf036a94318e7abdf69dfe047176cab1716d9ebcd1e0438ae9083122852d850",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "written-source",
+            "sha256": "1bf036a94318e7abdf69dfe047176cab1716d9ebcd1e0438ae9083122852d850"
+          },
+          {
+            "access": "restricted-source",
+            "locator": "Review, finite evidence and external sources",
+            "path": "restricted-source:d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b",
+            "qualification": "Hash identifies the exact retained source; no public proof body or independent proof certification is supplied by this pointer.",
+            "role": "source-reported-review-scope",
+            "sha256": "d20730c1fe1369d54d8912fcb2cfcb5c384265a742c886534b07a0988126139b"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-M015-ORDINARY-RETURN": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "sections1-3",
+            "path": "restricted-source:c78f2d2d166b452b34e180a0dd4dafc1a932b84e42a37f0dd9d1fa7e624b1f13",
+            "qualification": "Exact source retained in the research packet; no public proof body is supplied by this entry. Hash establishes identity, not proof validity.",
+            "role": "written-source",
+            "sha256": "c78f2d2d166b452b34e180a0dd4dafc1a932b84e42a37f0dd9d1fa7e624b1f13"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "QRH-CONT-EXT014-GROK": {
+      "foundation_provenance": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          }
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "restricted-source",
+            "locator": "section2",
+            "path": "restricted-source:a99bc5b627ce33af120f18246638dc161ff16458b8be52d73a37c88349fded58",
+            "role": "corrective-audit",
+            "sha256": "a99bc5b627ce33af120f18246638dc161ff16458b8be52d73a37c88349fded58"
+          },
+          {
+            "access": "restricted-source",
+            "path": "restricted-source:7581f764a5b9a00ac143275104e2823cfdb9a88e4bea887987a386e8b673342f",
+            "qualification": "Original user-supplied ZIP identity; exact member provenance retained privately. Not public proof evidence.",
+            "role": "original-external-archive",
+            "sha256": "7581f764a5b9a00ac143275104e2823cfdb9a88e4bea887987a386e8b673342f"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "supplied-zero-free-input-proof",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The imported ordinary zero-free input now has a supplied commit-pinned proof and official admission at the stated boundary. Historical stipulated-input wording and every original hypothesis, quantifier, additional prerequisite, and conditional/review/formalization status remain unchanged. This provenance update supplies no stronger continuation estimate or endpoint."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
+    },
+    "MATH-PR60-74643447-character-local-assembly": {
+      "upstream_admission": {
+        "value": {
+          "observed_at": "2026-10-16T09:59:38.803242+00:00",
+          "qualification": "The enclosing PR60 result was admitted at the final head. This record retains its historical source occurrence and review/formalization status; its referenced source files have the same hashes in the admitted snapshot. Enclosing admission is not an independent certification of this component or a final paper-use assertion.",
+          "admission": {
+            "source_repository": "GTimG/QuasiRiemannTracker",
+            "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+            "theta_exact": "21871/25000",
+            "target": "QRH.canonical_bound",
+            "verified_at": "2026-10-15T09:17:19.521444+00:00",
+            "merged_at": "2026-10-15T10:56:12Z",
+            "receipt_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "reported_status": "PASS",
+            "reported_kernels": [
+              "Lean default",
+              "nanoda",
+              "con-ron"
+            ],
+            "reported_allowed_axioms": [
+              "Classical.choice",
+              "Quot.sound",
+              "propext"
+            ],
+            "local_kernel_replay": false
+          },
+          "retained_source_revision": "74643447f52a2df4d05cbb23f50b9e6f2959beaa",
+          "matching_source_files": [
+            {
+              "path": "submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/MeshChoice.lean",
+              "sha256": "0ee1d543c0966ee9697e8f52e8b61cc0e445e10e290c948668b826aab335d70f"
+            },
+            {
+              "path": "submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/Final/SourceProbe.lean",
+              "sha256": "58e3d5e58bdd49ce7ddefd139dfb81cf283e42163adbf992b8d1252a429f7359"
+            },
+            {
+              "path": "submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Numerator/Finite/Bridge.lean",
+              "sha256": "4f2e8f3266933d1fc2a72b70b02717fb7c45ec8006f5fddf1d7a77c45249eb60"
+            }
+          ]
+        },
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      },
+      "pointers": {
+        "value": [
+          {
+            "access": "public-primary-source",
+            "path": "submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/MeshChoice.lean",
+            "sha256": "0ee1d543c0966ee9697e8f52e8b61cc0e445e10e290c948668b826aab335d70f",
+            "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/MeshChoice.lean"
+          },
+          {
+            "access": "public-primary-source",
+            "path": "submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/Final/SourceProbe.lean",
+            "sha256": "58e3d5e58bdd49ce7ddefd139dfb81cf283e42163adbf992b8d1252a429f7359",
+            "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Assembly/Final/SourceProbe.lean"
+          },
+          {
+            "access": "public-primary-source",
+            "path": "submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Numerator/Finite/Bridge.lean",
+            "sha256": "4f2e8f3266933d1fc2a72b70b02717fb7c45ec8006f5fddf1d7a77c45249eb60",
+            "url": "https://github.com/Gaozhongpai/QuasiRiemannTracker/blob/74643447f52a2df4d05cbb23f50b9e6f2959beaa/submissions/gao-affine-asymmetric-20261015/src/Candidate/Cycle63/Numerator/Finite/Bridge.lean"
+          },
+          {
+            "access": "public-primary-source",
+            "role": "enclosing-final-head-proof-entry",
+            "source_label": "PR60 final-head proof entry; original component scope retained",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/3874f3e75de18ff5806dcb9519fc260e034ef0e9/submissions/gao-affine-asymmetric-20261015/src/Candidate/Main.lean",
+            "sha256": "59c39f411054824d09a4b2d98b352ade238d67b7e82477cae46f2cd9d4817678",
+            "qualification": "The enclosing PR60 result was admitted at the final head. This record retains its historical source occurrence and review/formalization status; its referenced source files have the same hashes in the admitted snapshot. Enclosing admission is not an independent certification of this component or a final paper-use assertion."
+          },
+          {
+            "access": "public-primary-source",
+            "role": "official-enclosing-admission-receipt",
+            "source_label": "Official PR60 final-head admission receipt (15 October 2026)",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+            "sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+            "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+            "qualification": "The enclosing PR60 result was admitted at the final head. This record retains its historical source occurrence and review/formalization status; its referenced source files have the same hashes in the admitted snapshot. Enclosing admission is not an independent certification of this component or a final paper-use assertion."
+          }
+        ],
+        "evidence": {
+          "basis": "pinned-official-admission-and-static-source-identity",
+          "public_url": "https://github.com/GTimG/QuasiRiemannTracker/blob/b05ac2345e0e980126d4cc7873fba1b99bb121b5/records/60/3874f3e75de18ff5806dcb9519fc260e034ef0e9/gao-affine-asymmetric-20261015/38698872054-1.json",
+          "source_revision": "3874f3e75de18ff5806dcb9519fc260e034ef0e9",
+          "receipt_sha256": "221d878378e277eb6026c06a9a6c9973ccb6e4af52dd290ed0dbc368d77f1d27",
+          "report_sha256": "920bc104252caed2c1f073c890fb737485b9a83437a8a3ea60309f42ac94c94e",
+          "source_files_matched": 3826,
+          "qualification": "Receipt inspection and byte identity; no local kernel replay or new endpoint acceptance."
+        }
+      }
     }
   },
   "relations": [

@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import argparse
 import collections
+import copy
 import hashlib
 import json
 import os
@@ -504,7 +505,8 @@ class Builder:
                     if raw.get('illustrative_only'):
                         raise ValueError('Illustrative fixtures are not catalogue components: ' + rid)
                     r = self.record(rid, raw['title'], raw['kind'], raw.get('origin', 'curated'), raw, {'path': 'components.jsonl' if getattr(self, 'public', False) else 'research/catalogue/components.jsonl', 'line': n, 'sha256': component_sha256})
-                    r.update(raw)
+                    # Derived fields and overlays must not mutate the raw snapshot.
+                    r.update(copy.deepcopy(raw))
         path = self.config / 'annotations.json'
         data = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'records': {}, 'relations': []}
         for rid, fields in data.get('records', {}).items():
