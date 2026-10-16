@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 29/43; 10582 matching records.
+Page 29/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-28.md)
 
 [Next](status-unknown-b23a6a8439-30.md)
 
+- [local-section:17e100c0b57bae70933061ee — 3. Trying a signed repair that annihilates the leading mean](../records/0140.md#local-section-17e100c0b57bae70933061ee-5c2e9295cf)
+- [local-section:17ef2cf7535ec5a24bcab63d — Complete return of this replacement detector](../records/0140.md#local-section-17ef2cf7535ec5a24bcab63d-ecfdf01cd5)
 - [local-section:180fab2ad1ef502f1674b79b — 3. B1–6: actual occupations and the complete unexposed covariance](../records/0140.md#local-section-180fab2ad1ef502f1674b79b-1cd62e0104)
 - [local-section:184cb2e24221e4cd79359f95 — 8. Current calibration and operational closeout](../records/0140.md#local-section-184cb2e24221e4cd79359f95-07e016f67f)
 - [local-section:18606b4fcbf460d2e5b0880d — 6. One complete affine atlas and physical return](../records/0140.md#local-section-18606b4fcbf460d2e5b0880d-ca9c245290)
@@ -38,7 +40,7 @@ Page 29/43; 10582 matching records.
 - [local-section:1b14d3c28ca884310738e0e7 — 2. A shift lemma that pays a genuine Type I operator](../records/0140.md#local-section-1b14d3c28ca884310738e0e7-f793d89b7c)
 - [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0140.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
 - [local-section:1b2c37044f6c187533d54aeb — Fixed-ray squarefree selector estimate](../records/0140.md#local-section-1b2c37044f6c187533d54aeb-6fc8bee1b3)
-- [local-section:1b345e9cc2d2f2c155544379 — 2. Development checkpoint and inherited credit](../records/0140.md#local-section-1b345e9cc2d2f2c155544379-a99a9d803e)
+- [local-section:1b345e9cc2d2f2c155544379 — 2. Development checkpoint and inherited credit](../records/0141.md#local-section-1b345e9cc2d2f2c155544379-a99a9d803e)
 - [local-section:1b54b04d2ee299d4ca14c34a — 2.5 Infinite completion and arbitrary D](../records/0141.md#local-section-1b54b04d2ee299d4ca14c34a-d8c6091c28)
 - [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0141.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
 - [local-section:1b6c4e3f6d610c3ba530c554 — G145. Full-word and sorted-creation commutators have different returns](../records/0141.md#local-section-1b6c4e3f6d610c3ba530c554-26810da9c4)
@@ -117,8 +119,8 @@ Page 29/43; 10582 matching records.
 - [local-section:2274bb6362b79e3788a8a945 — Singleton proof and all-depth count](../records/0141.md#local-section-2274bb6362b79e3788a8a945-03e6815def)
 - [local-section:2284e552f24482c791e19d7c — 6. Ancestry, evidence and handoff](../records/0141.md#local-section-2284e552f24482c791e19d7c-99c5544715)
 - [local-section:22cfc0e4f2ac20ce91238266 — 1. Two separate verdicts](../records/0141.md#local-section-22cfc0e4f2ac20ce91238266-c82c1684ff)
-- [local-section:22db3afc9817834e3cd9b37c — 11. Principal, finite, large and off-height fields; common-saving return](../records/0141.md#local-section-22db3afc9817834e3cd9b37c-147d5ee39c)
-- [local-section:22e57b05e00b018de9105d86 — 1. Initial discovery comparison](../records/0141.md#local-section-22e57b05e00b018de9105d86-3bfccec347)
+- [local-section:22db3afc9817834e3cd9b37c — 11. Principal, finite, large and off-height fields; common-saving return](../records/0142.md#local-section-22db3afc9817834e3cd9b37c-147d5ee39c)
+- [local-section:22e57b05e00b018de9105d86 — 1. Initial discovery comparison](../records/0142.md#local-section-22e57b05e00b018de9105d86-3bfccec347)
 - [local-section:22ef21f7baaabd4d57807a80 — D02 and the seven other selected first tests](../records/0142.md#local-section-22ef21f7baaabd4d57807a80-2ab1871476)
 - [local-section:2398625eb5bc1a2804ed48b8 — F07.C / F13.T — Changed Jacobi phase and a quadratic-row triple source](../records/0142.md#local-section-2398625eb5bc1a2804ed48b8-08ee6b40da)
 - [local-section:23b51ff137eab91d6b9d8ea1 — 7. W60-30: full cyclic compression has zero Feshbach self-energy](../records/0142.md#local-section-23b51ff137eab91d6b9d8ea1-8ed53e92ba)
@@ -196,8 +198,8 @@ Page 29/43; 10582 matching records.
 - [local-section:2afcc272935beab8f97b66e4 — 7. Amplifier errors, zeros, exceptions and recovery](../records/0142.md#local-section-2afcc272935beab8f97b66e4-f043fcc071)
 - [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0142.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
 - [local-section:2b298dbf97a786f8a65621c5 — Frozen generation and selection](../records/0142.md#local-section-2b298dbf97a786f8a65621c5-0b5c9e8976)
-- [local-section:2b64e79ea0f673fde8e9ac10 — R5. Marginal payment and the residual box](../records/0142.md#local-section-2b64e79ea0f673fde8e9ac10-cee316f9fc)
-- [local-section:2b752699b4e913270a8de0cd — Complete endpoint, not just local capacity](../records/0142.md#local-section-2b752699b4e913270a8de0cd-62941cb45d)
+- [local-section:2b64e79ea0f673fde8e9ac10 — R5. Marginal payment and the residual box](../records/0143.md#local-section-2b64e79ea0f673fde8e9ac10-cee316f9fc)
+- [local-section:2b752699b4e913270a8de0cd — Complete endpoint, not just local capacity](../records/0143.md#local-section-2b752699b4e913270a8de0cd-62941cb45d)
 - [local-section:2b94a1bc9e8bafe2f1071160 — C. Centered Mayer feedback: exact return and a new next-return formula](../records/0143.md#local-section-2b94a1bc9e8bafe2f1071160-fd2aede397)
 - [local-section:2b9a0262bf05b77b7c24f29d — 6. What may be useful next](../records/0143.md#local-section-2b9a0262bf05b77b7c24f29d-f12603177b)
 - [local-section:2ba728cbbfca1403cf83aaec — 13. Verification and handoff boundary](../records/0143.md#local-section-2ba728cbbfca1403cf83aaec-5bb6ca585b)
@@ -256,5 +258,3 @@ Page 29/43; 10582 matching records.
 - [local-section:3092aaa56513a7a6b401717a — 3. Fixed-ratio prime intervals from the inherited input](../records/0143.md#local-section-3092aaa56513a7a6b401717a-9ed6b103da)
 - [local-section:30c0f68a93cb95febbfd751c — Own protected audit S31: an actual finite certificate and its infinite obligation](../records/0143.md#local-section-30c0f68a93cb95febbfd751c-3fa343a1e1)
 - [local-section:30c73f969bad63daef8b9c94 — 2.3 Every alias remainder is paid](../records/0143.md#local-section-30c73f969bad63daef8b9c94-0104ee5657)
-- [local-section:30c8872c16b4a05cef1ebe6d — 1. The actual source family, signs, zeros and fixed ideal](../records/0143.md#local-section-30c8872c16b4a05cef1ebe6d-af70e902fe)
-- [local-section:30efb378ff8c77689797c150 — 2. Complete Poisson cancellation before truncating the third factor](../records/0143.md#local-section-30efb378ff8c77689797c150-35b817e6a8)

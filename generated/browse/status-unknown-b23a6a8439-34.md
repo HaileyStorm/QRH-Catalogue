@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 34/43; 10582 matching records.
+Page 34/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-33.md)
 
 [Next](status-unknown-b23a6a8439-35.md)
 
+- [local-section:8a30e545d1aa25a497db332d — 6. High bins: all signs, holes, valuations and labels paid](../records/0155.md#local-section-8a30e545d1aa25a497db332d-5474371a2e)
+- [local-section:8a387234f19eedc0866a094b — 4. Common profile before labels; actual HB and slot payment](../records/0155.md#local-section-8a387234f19eedc0866a094b-b19aa169c1)
 - [local-section:8a5f3d0ff1e8c96278fb9356 — 1. Literal source and statement](../records/0155.md#local-section-8a5f3d0ff1e8c96278fb9356-3a3cc387c5)
 - [local-section:8a7f11db1862a117ee96f1aa — 4. The original inverse moment and the exact surviving source](../records/0155.md#local-section-8a7f11db1862a117ee96f1aa-26e4058738)
 - [local-section:8a86dfdbb9ff47121d7b3150 — W40-12 — Multiplicative matrix martingale with signed increments; p=.06](../records/0155.md#local-section-8a86dfdbb9ff47121d7b3150-716bebf933)
@@ -63,8 +65,8 @@ Page 34/43; 10582 matching records.
 - [local-section:8e8acc16d12c5e6d4b7751ab — F17. Coefficient-sensitive trace formulas and transformed kernels](../records/0155.md#local-section-8e8acc16d12c5e6d4b7751ab-8bc7b55a1d)
 - [local-section:8e98752e48333454b964b97d — 6. New local affine moment, with every other branch paid](../records/0155.md#local-section-8e98752e48333454b964b97d-602b26ce96)
 - [local-section:8e9bd60bf35c386182fa1a99 — 4. Actual transforms and main low/high branches](../records/0155.md#local-section-8e9bd60bf35c386182fa1a99-d0592004ab)
-- [local-section:8ecec6dad8f98c85f736717f — 1. Choice, history, and what is actually new here](../records/0155.md#local-section-8ecec6dad8f98c85f736717f-335a46ac8b)
-- [local-section:8ed30fe0e2d70e51be752e31 — G91: combine support and actual slot savings before optimizing](../records/0155.md#local-section-8ed30fe0e2d70e51be752e31-fa53469a1e)
+- [local-section:8ecec6dad8f98c85f736717f — 1. Choice, history, and what is actually new here](../records/0156.md#local-section-8ecec6dad8f98c85f736717f-335a46ac8b)
+- [local-section:8ed30fe0e2d70e51be752e31 — G91: combine support and actual slot savings before optimizing](../records/0156.md#local-section-8ed30fe0e2d70e51be752e31-fa53469a1e)
 - [local-section:8ef1e72d73b050b1e4b76e0a — Local masks and exact coherent incidence](../records/0156.md#local-section-8ef1e72d73b050b1e4b76e0a-a112607eb5)
 - [local-section:8f52447d9fa8d39713a64d0a — 6. Optimum within the elementary interpolation family](../records/0156.md#local-section-8f52447d9fa8d39713a64d0a-19ead708fa)
 - [local-section:8f57263a392b022a9ccb7b14 — Append-only controller calibration update](../records/0156.md#local-section-8f57263a392b022a9ccb7b14-7d7621fe9a)
@@ -150,8 +152,8 @@ Page 34/43; 10582 matching records.
 - [local-section:9689afc7fccaa1828a573fa2 — D33.2 Quantitative Gaussian cancellation for a growing model](../records/0156.md#local-section-9689afc7fccaa1828a573fa2-00caa81cb0)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0156.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
 - [local-section:96a8667709ad44ba31f1ff2a — 45. Divisor recovery must keep its cross-row cancellation](../records/0156.md#local-section-96a8667709ad44ba31f1ff2a-1ea251b61f)
-- [local-section:96c5a321ba26ee30991eb683 — 1. Recovery on the squarefree unit set](../records/0156.md#local-section-96c5a321ba26ee30991eb683-c9ed1ec7a9)
-- [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0156.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
+- [local-section:96c5a321ba26ee30991eb683 — 1. Recovery on the squarefree unit set](../records/0157.md#local-section-96c5a321ba26ee30991eb683-c9ed1ec7a9)
+- [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0157.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
 - [local-section:96cdd570e8ecf5456a0ab7ee — 3. Weighted coherent coefficient mass](../records/0157.md#local-section-96cdd570e8ecf5456a0ab7ee-ed28a2b733)
 - [local-section:96d81c97c2bd8f3ac8141eb7 — 2. Exact full signed gcd sector, before any positivity step](../records/0157.md#local-section-96d81c97c2bd8f3ac8141eb7-9f2b0335ba)
 - [local-section:96f295b9e7bfc83b92511c4b — \[research revision\]: complete rough correlations and local-set observation](../records/0157.md#local-section-96f295b9e7bfc83b92511c4b-a4150be9ea)
@@ -235,8 +237,8 @@ Page 34/43; 10582 matching records.
 - [local-section:9e0699e5119c4f161b5338bc — 2. Exact completion and rapidly paid complementary fields](../records/0157.md#local-section-9e0699e5119c4f161b5338bc-eef9d9d2cf)
 - [local-section:9e1507680af714a0269cf566 — 4. Original source interfaces and quantifier order](../records/0157.md#local-section-9e1507680af714a0269cf566-8f9444a9c1)
 - [local-section:9e4e085d771d6d6df7d7dbdc — B1. Proof with all offsets, tails, and mixed terms](../records/0157.md#local-section-9e4e085d771d6d6df7d7dbdc-b06a133942)
-- [local-section:9e61a7c5ca71cac9ba393287 — 4. Uniform negative lines and all completion errors](../records/0157.md#local-section-9e61a7c5ca71cac9ba393287-dcf81e8b2b)
-- [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0157.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
+- [local-section:9e61a7c5ca71cac9ba393287 — 4. Uniform negative lines and all completion errors](../records/0158.md#local-section-9e61a7c5ca71cac9ba393287-dcf81e8b2b)
+- [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0158.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
 - [local-section:9e68f5fa52900feae403267a — 3. Uniform row completion with the actual forced scale](../records/0158.md#local-section-9e68f5fa52900feae403267a-093ae58591)
 - [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0158.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
 - [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0158.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
@@ -256,5 +258,3 @@ Page 34/43; 10582 matching records.
 - [local-section:9fb812413ceae9ccbd5659ca — D04.4 Explicit near and high-ceiling budgets](../records/0158.md#local-section-9fb812413ceae9ccbd5659ca-1f8f3a0ee0)
 - [local-section:9fb822de8128e9f17ac81f67 — 3. L1–10: the complete signed logarithmic criterion](../records/0158.md#local-section-9fb822de8128e9f17ac81f67-45d26f53fd)
 - [local-section:9fd292741ff1888369a11a85 — 4. C, D and E: useful failures in their exact scopes](../records/0158.md#local-section-9fd292741ff1888369a11a85-1ae4ce5113)
-- [local-section:a02cd11fefde04f0dba9719d — 1. Selection decision](../records/0158.md#local-section-a02cd11fefde04f0dba9719d-1b9cce8fe6)
-- [local-section:a05b158e973dee5b2abe3fd5 — 4. The other sextic mechanisms: restriction, probe correlation, numerator and calibration](../records/0158.md#local-section-a05b158e973dee5b2abe3fd5-656bbc23f4)

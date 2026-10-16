@@ -2,11 +2,12 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 699 matching records.
+Page 1/3; 700 matching records.
 
 [Next](object-signed-energy-c52ce005f6-02.md)
 
 - [HIST-fe1c1047d23c438ca6b6 — 1. The result and the argument](../records/0088.md#hist-fe1c1047d23c438ca6b6-fed375fdf8)
+- [QRH-CONT-R048-COUPLED-SHORT-DETECTOR — Complete coupled short-window detector before dyadic selection](../records/0131.md#qrh-cont-r048-coupled-short-detector-08dfda4a82)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00ea71460e30bc5f16dcecab — C: actual rough-prime zero law](../records/0137.md#local-section-00ea71460e30bc5f16dcecab-9b7e16ecaa)
 - [local-section:00faa049bebb2f9a1ffc62c7 — A3. Complete return and the actual scale budget](../records/0137.md#local-section-00faa049bebb2f9a1ffc62c7-26593bc731)
@@ -30,7 +31,7 @@ Page 1/3; 699 matching records.
 - [local-section:0a11b104b84939bb28ff2e91 — 6. Signed Taylor completion; proof of the negative main term](../records/0138.md#local-section-0a11b104b84939bb28ff2e91-b39ab85ad1)
 - [local-section:0a5bf423da96944c493515a4 — G200. Complete weighted removal and the fourth paid class](../records/0138.md#local-section-0a5bf423da96944c493515a4-8fd65c83dd)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
-- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0138.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
+- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0139.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
 - [local-section:0ba7a610f4a5e37f56553ca7 — 4. D3 / S16: how much a small-prime syndrome can certify](../records/0139.md#local-section-0ba7a610f4a5e37f56553ca7-3bacf74297)
 - [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0139.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
@@ -55,7 +56,7 @@ Page 1/3; 699 matching records.
 - [local-section:11ea9f519cf0644fbfe38ab1 — Scope and quantifiers](../records/0139.md#local-section-11ea9f519cf0644fbfe38ab1-3364eb880f)
 - [local-section:122dce4f1e6a96fc899b46c7 — 6. Source evidence, checks and limits](../records/0139.md#local-section-122dce4f1e6a96fc899b46c7-2b25754875)
 - [local-section:125e743e7a9a984a4e0ad65e — Direct mathematical changes](../records/0139.md#local-section-125e743e7a9a984a4e0ad65e-3344fc2d67)
-- [local-section:12ced22ee2eb3d26b944b729 — 10. Evidence, dependency boundary and handoff](../records/0139.md#local-section-12ced22ee2eb3d26b944b729-d9a7da1c3a)
+- [local-section:12ced22ee2eb3d26b944b729 — 10. Evidence, dependency boundary and handoff](../records/0140.md#local-section-12ced22ee2eb3d26b944b729-d9a7da1c3a)
 - [local-section:12cf6f9f687cde69aa00de2a — 1. Stop, useful result and limits](../records/0140.md#local-section-12cf6f9f687cde69aa00de2a-b4d394a5da)
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0140.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
@@ -255,4 +256,3 @@ Page 1/3; 699 matching records.
 - [local-section:5f92f7c32a8f886fa29b0010 — 2. The full signed one-grid span has a positive error floor](../records/0149.md#local-section-5f92f7c32a8f886fa29b0010-f5af4dac46)
 - [local-section:5fdb02f2811aca8968e24c35 — \[research revision\] controller reconstruction — fixed Gaussian replacement](../records/0149.md#local-section-5fdb02f2811aca8968e24c35-a0e047e509)
 - [local-section:602681e0750b3eddb49a81e1 — 8. Evidence, novelty, strongest objections and next action](../records/0149.md#local-section-602681e0750b3eddb49a81e1-83010fce6a)
-- [local-section:60c5b9cf6d8978b985a101ec — 16. The principal signal, Gaussian and full prime tails](../records/0149.md#local-section-60c5b9cf6d8978b985a101ec-57dcf1a715)

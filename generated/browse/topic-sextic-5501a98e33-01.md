@@ -181,7 +181,7 @@ Page 1/2; 494 matching records.
 - [local-section:50bdde788364275f04e57f22 — W42 independent review: exact principal-signal transfer and paid Euler tails](../records/0147.md#local-section-50bdde788364275f04e57f22-f702a9c6f9)
 - [local-section:51aef98d509add2da84c8534 — 1. Sources, exact family and scope](../records/0147.md#local-section-51aef98d509add2da84c8534-a58fec56eb)
 - [local-section:51bdf1b91709c0c318ab89c0 — 1. Outcome and ancestry](../records/0147.md#local-section-51bdf1b91709c0c318ab89c0-cd1a24e3ee)
-- [local-section:51dd62ac4027d1fb1b6b7f4e — 8. The complete sixth-power diagonal is already paid](../records/0147.md#local-section-51dd62ac4027d1fb1b6b7f4e-923b06618b)
+- [local-section:51dd62ac4027d1fb1b6b7f4e — 8. The complete sixth-power diagonal is already paid](../records/0148.md#local-section-51dd62ac4027d1fb1b6b7f4e-923b06618b)
 - [local-section:51f967b595908f11f942259a — 1. Inputs and result](../records/0148.md#local-section-51f967b595908f11f942259a-d50946a13f)
 - [local-section:522606e71e4fa744c99b0900 — 3. The marked free-row inverse amplifier](../records/0148.md#local-section-522606e71e4fa744c99b0900-cf2ccad6a8)
 - [local-section:5330b15f336d0f478c00b87f — 1. Sources, imported family and scope](../records/0148.md#local-section-5330b15f336d0f478c00b87f-dbbc8f990d)

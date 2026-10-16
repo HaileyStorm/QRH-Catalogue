@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 956 matching records.
+Page 2/4; 957 matching records.
 
 [Previous](topic-mobius-80a3144bcb-01.md)
 
 [Next](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:48e7975a57315f781fc86611 — \[research revision\]: the actual merged renewal norm and signed profile corrections](../records/0146.md#local-section-48e7975a57315f781fc86611-0d9cc844ff)
 - [local-section:4958912978a30104d911cb7c — 4. At the unit dual core the exact Euler operator can be rank one](../records/0146.md#local-section-4958912978a30104d911cb7c-87596e14c0)
 - [local-section:499ccb60b4d0fd4570bf943f — B. Pole subtraction after actual integer-quotient merging](../records/0146.md#local-section-499ccb60b4d0fd4570bf943f-73a6218464)
 - [local-section:49bfda9067024f718b9f41dd — \[research revision\] attempt delta: coupled amplifiers and literal threshold laws](../records/0146.md#local-section-49bfda9067024f718b9f41dd-e82d1ba3b5)
@@ -133,7 +134,7 @@ Page 2/4; 956 matching records.
 - [local-section:772762922325a550ed1e067c — \[research revision\]: paid detector overlap and consultation library](../records/0152.md#local-section-772762922325a550ed1e067c-b62b2e1a0a)
 - [local-section:7758f641dc44b310f7091d5c — 2. Quantitative contracts and immediate priorities](../records/0152.md#local-section-7758f641dc44b310f7091d5c-049f400266)
 - [local-section:7828492d7fdc047743d043b6 — 3. Independent proof and quantifier audit of M](../records/0152.md#local-section-7828492d7fdc047743d043b6-f9c0651d64)
-- [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
+- [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0153.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0153.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:7873abfe06b37bf0d5e482d0 — 35. Restricted conductor gain and completed shared-zero tests](../records/0153.md#local-section-7873abfe06b37bf0d5e482d0-57b17a41fb)
 - [local-section:78b466827061d6a87e484cd6 — 5. The old arithmetic exponent is preserved: GC21--GC22](../records/0153.md#local-section-78b466827061d6a87e484cd6-a9d01e904c)
@@ -167,7 +168,7 @@ Page 2/4; 956 matching records.
 - [local-section:7f4ad26435ecd130f60b66bd — \[research revision\] headroom: adaptive completion on the actual phase surface](../records/0153.md#local-section-7f4ad26435ecd130f60b66bd-92c090308d)
 - [local-section:7f553c4ec43923be68819a50 — 7. Sum the forced opposite incidences and preserve the tails](../records/0153.md#local-section-7f553c4ec43923be68819a50-28f9483fda)
 - [local-section:7f59f22977d2207084dce9ba — 1. Fixed source and the paid transfer back to C6](../records/0153.md#local-section-7f59f22977d2207084dce9ba-9e31ba7cd8)
-- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
+- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0154.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0154.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0154.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
@@ -248,7 +249,7 @@ Page 2/4; 956 matching records.
 - [local-section:9672bf8d794bf486e8fff7f4 — Independent review: the cofactor-labelled source and its complete price](../records/0156.md#local-section-9672bf8d794bf486e8fff7f4-ed269a718c)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0156.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
 - [local-section:969bb28db7d73140a3a6fa0e — 42. Finite growing Riesz fields with a complete fixed-source return](../records/0156.md#local-section-969bb28db7d73140a3a6fa0e-1390092971)
-- [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0156.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
+- [local-section:96c83a98c229c6c7db6916ad — 7. Protected independent audit W49-29](../records/0157.md#local-section-96c83a98c229c6c7db6916ad-0c3b5dfd06)
 - [local-section:970e32e13595436ccbf2bbf0 — Initial discovery, before duplicate pruning](../records/0157.md#local-section-970e32e13595436ccbf2bbf0-3ff1c320df)
 - [local-section:973513bf90fab49d339ffccf — 7. What remains open, evidence and provenance](../records/0157.md#local-section-973513bf90fab49d339ffccf-a7d0d49c47)
 - [local-section:975de8818c7a16f37884083b — Evidence, ancestry and next estimates](../records/0157.md#local-section-975de8818c7a16f37884083b-b366145999)
@@ -257,4 +258,3 @@ Page 2/4; 956 matching records.
 - [local-section:98cc5604fa5a484e926c0d4b — 3. Exact inverse deletion and its Hilbert-space norm](../records/0157.md#local-section-98cc5604fa5a484e926c0d4b-92abafced7)
 - [local-section:9925692b0d82c1e2e364a6fd — Group 5: Mobius compensation / sieve and information or coding / exact invariant](../records/0157.md#local-section-9925692b0d82c1e2e364a6fd-83c664bb30)
 - [local-section:9a1d8046bb14138b4fb35ad9 — 3. Two parked proposals now have precise mathematical contracts](../records/0157.md#local-section-9a1d8046bb14138b4fb35ad9-295961069f)
-- [local-section:9aa4caca4ab461fb84c8c582 — 1. Frozen inputs and attribution](../records/0157.md#local-section-9aa4caca4ab461fb84c8c582-ba58e145c2)

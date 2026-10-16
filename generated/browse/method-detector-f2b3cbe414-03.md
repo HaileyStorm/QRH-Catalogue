@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 3/12; 2896 matching records.
+Page 3/12; 2897 matching records.
 
 [Previous](method-detector-f2b3cbe414-02.md)
 

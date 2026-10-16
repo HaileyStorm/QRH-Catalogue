@@ -70,7 +70,7 @@
 - [covering-prime bank (1)](method-covering-prime-bank-eaf7fd6913-01.md)
 - [critical cutoff (1)](method-critical-cutoff-452a5bb0a8-01.md)
 - [cutoff commutator (1)](method-cutoff-commutator-c2e9d63d03-01.md)
-- [detector (2896)](method-detector-f2b3cbe414-01.md)
+- [detector (2897)](method-detector-f2b3cbe414-01.md)
 - [difference of convolution powers (1)](method-difference-of-convolution-powers-c4aa440437-01.md)
 - [differentiated zero potential (1)](method-differentiated-zero-potential-d58e675db6-01.md)
 - [dirichlet-convolution (2)](method-dirichlet-convolution-8298c79859-01.md)

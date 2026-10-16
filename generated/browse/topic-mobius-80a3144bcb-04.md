@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 956 matching records.
+Page 4/4; 957 matching records.
 
 [Previous](topic-mobius-80a3144bcb-03.md)
 
+- [local-section:ddc728001ba17d762f664136 — 4. Development23: the exact large-prime response diameter](../records/0166.md#local-section-ddc728001ba17d762f664136-00a0ca0c76)
 - [local-section:de495e5747b9dddee52d0af1 — 2. Square-root threshold: independent proof of CT1, CT2 and CT8](../records/0166.md#local-section-de495e5747b9dddee52d0af1-36c30a0be6)
 - [local-section:de64286651bd57fca937a2bf — Independent review: the compensated nonlinear source](../records/0166.md#local-section-de64286651bd57fca937a2bf-7fd9c18886)
 - [local-section:de9bcbfddb471e1a05cb9e50 — Independent W50 review: energy return, finite character traces and exact continuation states](../records/0166.md#local-section-de9bcbfddb471e1a05cb9e50-554e2617d5)
@@ -48,7 +49,7 @@ Page 4/4; 956 matching records.
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:eba218e9145ecd7c55b4b800 — G106. Isolated root of the complete cutoff polynomial](../records/0167.md#local-section-eba218e9145ecd7c55b4b800-95a0534d1e)
 - [local-section:ebb2fa2fc22971226f915227 — 3. The genuine sextic bank and its recovery factor](../records/0167.md#local-section-ebb2fa2fc22971226f915227-bf443ed2a8)
-- [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0167.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
+- [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0168.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
 - [local-section:ec486c71f4fba2e1928b1eb6 — 4. W40-15: the exact positivity price for literal f3](../records/0168.md#local-section-ec486c71f4fba2e1928b1eb6-a8991c9a46)
 - [local-section:ec9a19283d3bfcfba83008a7 — B3. Strongest objection: actual cumulative inputs have bounded increments](../records/0168.md#local-section-ec9a19283d3bfcfba83008a7-d89c9a63cb)
 - [local-section:ecc4dbe79198d302005bb122 — 1. Literal primitive cell and its exact contraction](../records/0168.md#local-section-ecc4dbe79198d302005bb122-63d3eca38b)
@@ -195,7 +196,7 @@ Page 4/4; 956 matching records.
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0173.md#local-g295-06047ab12a)
 - [local:G298 — G298. Fixed-depth periodic inverse and complete multivariate Abel payment](../records/0173.md#local-g298-3312f01d4a)
 - [local:G303 — G303. Unit-invariant additive and sign expansions of ideal masks with explicit level costs](../records/0173.md#local-g303-fdf949bbae)
-- [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0173.md#local-g307-de7641143f)
+- [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0174.md#local-g307-de7641143f)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0174.md#local-g6-e89f333778)
 - [local:G85 — G85. Full-scale moment return without the baseline](../records/0174.md#local-g85-475c2b0586)
 - [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0174.md#local-g88-d7d3c34f95)

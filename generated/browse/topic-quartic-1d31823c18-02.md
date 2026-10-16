@@ -122,7 +122,7 @@ Page 2/2; 393 matching records.
 - [local-section:fec53a2be92af9d7631f28d7 — D48: the block sum mode remains the hard source](../records/0170.md#local-section-fec53a2be92af9d7631f28d7-7df3cffa06)
 - [local-section:ffe2222dd71d9916d4fa013f — 1. What is new and what is reused](../records/0170.md#local-section-ffe2222dd71d9916d4fa013f-57321dd24b)
 - [local:G102 — G102. Three complete physical returns](../records/0171.md#local-g102-60fe1940ee)
-- [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0171.md#local-g110-07e53448ee)
+- [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0172.md#local-g110-07e53448ee)
 - [local:G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](../records/0172.md#local-g114-fec7178ffd)
 - [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0172.md#local-g122-fe374f44f7)
 - [local:G124 — G124. Current margins and precise remaining signed input](../records/0172.md#local-g124-05c454b9ec)

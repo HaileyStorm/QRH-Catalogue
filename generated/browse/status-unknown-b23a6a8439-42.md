@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 42/43; 10582 matching records.
+Page 42/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-41.md)
 
 [Next](status-unknown-b23a6a8439-43.md)
 
+- [pr26:Cycle25.Energy.PositiveHighAssemblyBounded — Cycle25.Energy.PositiveHighAssemblyBounded](../records/0200.md#pr26-cycle25-energy-positivehighassemblybounded-faec32f1ef)
+- [pr26:Cycle25.Energy.PositiveHighBound — Cycle25.Energy.PositiveHighBound](../records/0200.md#pr26-cycle25-energy-positivehighbound-016801161e)
 - [pr26:Cycle25.Energy.PositiveHighParameters — Cycle25.Energy.PositiveHighParameters](../records/0200.md#pr26-cycle25-energy-positivehighparameters-149b8df1f7)
 - [pr26:Cycle25.Energy.PositiveHighPhysical — Cycle25.Energy.PositiveHighPhysical](../records/0200.md#pr26-cycle25-energy-positivehighphysical-049305d1f5)
 - [pr26:Cycle25.Energy.PositiveHighSource — Cycle25.Energy.PositiveHighSource](../records/0200.md#pr26-cycle25-energy-positivehighsource-acf8bd3d1b)
@@ -29,7 +31,7 @@ Page 42/43; 10582 matching records.
 - [pr26:Cycle25.Energy.ReflectionRetainedLength — Cycle25.Energy.ReflectionRetainedLength](../records/0200.md#pr26-cycle25-energy-reflectionretainedlength-d0eb704bfd)
 - [pr26:Cycle25.Numerator.ActiveFourth — Cycle25.Numerator.ActiveFourth](../records/0200.md#pr26-cycle25-numerator-activefourth-8c401189ac)
 - [pr26:Cycle25.Numerator.ActualBin — Cycle25.Numerator.ActualBin](../records/0200.md#pr26-cycle25-numerator-actualbin-9d7e2559b9)
-- [pr26:Cycle25.Numerator.AmplitudeHolder — Cycle25.Numerator.AmplitudeHolder](../records/0200.md#pr26-cycle25-numerator-amplitudeholder-51ec49e247)
+- [pr26:Cycle25.Numerator.AmplitudeHolder — Cycle25.Numerator.AmplitudeHolder](../records/0201.md#pr26-cycle25-numerator-amplitudeholder-51ec49e247)
 - [pr26:Cycle25.Numerator.AmplitudeLoss — Cycle25.Numerator.AmplitudeLoss](../records/0201.md#pr26-cycle25-numerator-amplitudeloss-4281a62e6a)
 - [pr26:Cycle25.Numerator.BoxGeometry — Cycle25.Numerator.BoxGeometry](../records/0201.md#pr26-cycle25-numerator-boxgeometry-b39d6fcf08)
 - [pr26:Cycle25.Numerator.BoxReconstruction — Cycle25.Numerator.BoxReconstruction](../records/0201.md#pr26-cycle25-numerator-boxreconstruction-3c3cbcb2de)
@@ -95,7 +97,7 @@ Page 42/43; 10582 matching records.
 - [pr26:Endpoint.Arithmetic — Endpoint.Arithmetic](../records/0206.md#pr26-endpoint-arithmetic-d6024ca0e1)
 - [pr26:Endpoint.GlobalRange — Endpoint.GlobalRange](../records/0206.md#pr26-endpoint-globalrange-f319857a70)
 - [pr26:Endpoint.Perturbation — Endpoint.Perturbation](../records/0206.md#pr26-endpoint-perturbation-e334edab1f)
-- [pr26:Endpoint.SourceFormula — Endpoint.SourceFormula](../records/0206.md#pr26-endpoint-sourceformula-a9e8cc7a47)
+- [pr26:Endpoint.SourceFormula — Endpoint.SourceFormula](../records/0207.md#pr26-endpoint-sourceformula-a9e8cc7a47)
 - [pr26:Global.Detector.Mesh — Global.Detector.Mesh](../records/0207.md#pr26-global-detector-mesh-119719d5bb)
 - [pr26:Global.Detector.WeightedSourceCount — Global.Detector.WeightedSourceCount](../records/0207.md#pr26-global-detector-weightedsourcecount-9ce3634c94)
 - [pr26:Global.Detector.WeightedSourceMaskedCount — Global.Detector.WeightedSourceMaskedCount](../records/0207.md#pr26-global-detector-weightedsourcemaskedcount-392be62e62)
@@ -154,7 +156,7 @@ Page 42/43; 10582 matching records.
 - [pr26:Global.Low.Reflection.LowRetained — Global.Low.Reflection.LowRetained](../records/0208.md#pr26-global-low-reflection-lowretained-df0c31c706)
 - [pr26:Global.Low.Reflection.LowRetainedBudget — Global.Low.Reflection.LowRetainedBudget](../records/0208.md#pr26-global-low-reflection-lowretainedbudget-f69017d6d1)
 - [pr26:Global.Low.Reflection.LowSector — Global.Low.Reflection.LowSector](../records/0208.md#pr26-global-low-reflection-lowsector-eba8872faa)
-- [pr26:Global.Low.RegionalCorrection — Global.Low.RegionalCorrection](../records/0208.md#pr26-global-low-regionalcorrection-244777aec4)
+- [pr26:Global.Low.RegionalCorrection — Global.Low.RegionalCorrection](../records/0209.md#pr26-global-low-regionalcorrection-244777aec4)
 - [pr26:Global.Low.SourceProbe — Global.Low.SourceProbe](../records/0209.md#pr26-global-low-sourceprobe-fd62bd7e3f)
 - [pr26:Global.Numerator.ActiveFourth — Global.Numerator.ActiveFourth](../records/0209.md#pr26-global-numerator-activefourth-faaed9a2db)
 - [pr26:Global.Numerator.ActualSource — Global.Numerator.ActualSource](../records/0209.md#pr26-global-numerator-actualsource-d0784442e5)
@@ -177,7 +179,7 @@ Page 42/43; 10582 matching records.
 - [pr26:Global.Numerator.SourceCollect — Global.Numerator.SourceCollect](../records/0209.md#pr26-global-numerator-sourcecollect-62992262ac)
 - [pr26:Global.Numerator.SourceMask — Global.Numerator.SourceMask](../records/0209.md#pr26-global-numerator-sourcemask-fde33fbbea)
 - [pr26:Global.Numerator.SourceParameters — Global.Numerator.SourceParameters](../records/0209.md#pr26-global-numerator-sourceparameters-d8e4663df9)
-- [pr26:Global.Numerator.SourcePrimeBins — Global.Numerator.SourcePrimeBins](../records/0209.md#pr26-global-numerator-sourceprimebins-c70d7b4ea4)
+- [pr26:Global.Numerator.SourcePrimeBins — Global.Numerator.SourcePrimeBins](../records/0210.md#pr26-global-numerator-sourceprimebins-c70d7b4ea4)
 - [pr26:Global.Numerator.SourceSelection — Global.Numerator.SourceSelection](../records/0210.md#pr26-global-numerator-sourceselection-c1d32b9f6e)
 - [pr26:Global.Parameters — Global.Parameters](../records/0210.md#pr26-global-parameters-b4c6d0fdb1)
 - [pr26:Global.SlotLengths — Global.SlotLengths](../records/0210.md#pr26-global-slotlengths-f9be7b04a1)
@@ -224,7 +226,7 @@ Page 42/43; 10582 matching records.
 - [pr26:Global.Transport.PrincipalRemainderContours — Global.Transport.PrincipalRemainderContours](../records/0212.md#pr26-global-transport-principalremaindercontours-7f8d6194eb)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct — Global.Transport.PrincipalRemainderFiniteProduct](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-fff648c062)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProductX — Global.Transport.PrincipalRemainderFiniteProductX](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-73f043486e)
-- [pr26:Global.Transport.PrincipalRemainderNormalized — Global.Transport.PrincipalRemainderNormalized](../records/0212.md#pr26-global-transport-principalremaindernormalized-b2258cbde7)
+- [pr26:Global.Transport.PrincipalRemainderNormalized — Global.Transport.PrincipalRemainderNormalized](../records/0213.md#pr26-global-transport-principalremaindernormalized-b2258cbde7)
 - [pr26:Global.Transport.PrincipalRemainderPhysical — Global.Transport.PrincipalRemainderPhysical](../records/0213.md#pr26-global-transport-principalremainderphysical-bc04001cbd)
 - [pr26:Global.Transport.PrincipalRemainderPhysicalBounds — Global.Transport.PrincipalRemainderPhysicalBounds](../records/0213.md#pr26-global-transport-principalremainderphysicalbounds-1834be5a78)
 - [pr26:Global.Transport.PrincipalRemainderRayThresholds — Global.Transport.PrincipalRemainderRayThresholds](../records/0213.md#pr26-global-transport-principalremainderraythresholds-66e72eb069)
@@ -234,7 +236,7 @@ Page 42/43; 10582 matching records.
 - [pr26:Global.Transport.PrincipalSignal — Global.Transport.PrincipalSignal](../records/0213.md#pr26-global-transport-principalsignal-455777142f)
 - [pr26:Global.Transport.PrincipalSlots — Global.Transport.PrincipalSlots](../records/0213.md#pr26-global-transport-principalslots-fec1b0ac32)
 - [pr26:Global.Transport.SignalShift — Global.Transport.SignalShift](../records/0213.md#pr26-global-transport-signalshift-23fce85c29)
-- [pr26:Global.Transport.SmallTail — Global.Transport.SmallTail](../records/0213.md#pr26-global-transport-smalltail-1919130b94)
+- [pr26:Global.Transport.SmallTail — Global.Transport.SmallTail](../records/0214.md#pr26-global-transport-smalltail-1919130b94)
 - [pr26:Global.Transport.SourceAmplitudeClasses — Global.Transport.SourceAmplitudeClasses](../records/0214.md#pr26-global-transport-sourceamplitudeclasses-9fb3e5fb9c)
 - [pr26:Global.Transport.TailScales — Global.Transport.TailScales](../records/0214.md#pr26-global-transport-tailscales-92c528c07f)
 - [pr26:Global.Weighted.CellGeometry — Global.Weighted.CellGeometry](../records/0214.md#pr26-global-weighted-cellgeometry-f510f267cc)
@@ -256,5 +258,3 @@ Page 42/43; 10582 matching records.
 - [pr26:LocalMoment.SixthRowMask — LocalMoment.SixthRowMask](../records/0214.md#pr26-localmoment-sixthrowmask-8e7538badc)
 - [pr26:LocalMoment.UniformDensity — LocalMoment.UniformDensity](../records/0215.md#pr26-localmoment-uniformdensity-025aabe80f)
 - [pr26:LocalMoment.UnmarkedBatch — LocalMoment.UnmarkedBatch](../records/0215.md#pr26-localmoment-unmarkedbatch-de06e24cad)
-- [pr26:LocalMoment.UnmarkedDensity — LocalMoment.UnmarkedDensity](../records/0215.md#pr26-localmoment-unmarkeddensity-847ac55e6e)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-6feda61b95)

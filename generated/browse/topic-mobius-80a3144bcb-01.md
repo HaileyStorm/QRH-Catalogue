@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 956 matching records.
+Page 1/4; 957 matching records.
 
 [Next](topic-mobius-80a3144bcb-02.md)
 
@@ -34,6 +34,7 @@ Page 1/4; 956 matching records.
 - [QRH-CONT-R018-FIXED-LATTICE-KERNEL — Complete fixed lattice-kernel representation retaining the ordinary outer sum](../records/0131.md#qrh-cont-r018-fixed-lattice-kernel-eb86d046f3)
 - [QRH-CONT-R019-SMALL-PRIME-NORM-PRICE — Exact small-prime pairing and the cost of separately norming its two kernels](../records/0131.md#qrh-cont-r019-small-prime-norm-price-27e946249f)
 - [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
+- [QRH-CONT-R048-COUPLED-SHORT-DETECTOR — Complete coupled short-window detector before dyadic selection](../records/0131.md#qrh-cont-r048-coupled-short-detector-08dfda4a82)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0137.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
@@ -42,7 +43,7 @@ Page 1/4; 956 matching records.
 - [local-section:01bfba49ac56606caa99ee2b — Late independent review: signed integer renewal and the friable mean](../records/0137.md#local-section-01bfba49ac56606caa99ee2b-366fc79b7c)
 - [local-section:01d4f25f9b6a2d9df8b7027e — 2.3 A paid transport repair with a complete Mellin return](../records/0137.md#local-section-01d4f25f9b6a2d9df8b7027e-3730649dd2)
 - [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0137.md#local-section-021601cba1a0a08525590f22-7adbe75144)
-- [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0137.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
+- [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0138.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
 - [local-section:02737fbc96f66ee44e2ff229 — 6. The other three author first tests](../records/0138.md#local-section-02737fbc96f66ee44e2ff229-50911febd1)
 - [local-section:0284376a987e153d891eefa5 — 4. A pointwise removal of small sixth-free column cores](../records/0138.md#local-section-0284376a987e153d891eefa5-13814419e2)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
@@ -65,7 +66,7 @@ Page 1/4; 956 matching records.
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0138.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0ac2352d09db77e07fa6f299 — B. Protected rare18: a kernel-adapted transport certificate](../records/0138.md#local-section-0ac2352d09db77e07fa6f299-61e6e1978c)
 - [local-section:0af27ac9e2991ae91270a866 — 3. Frozen-dyad Möbius energy](../records/0138.md#local-section-0af27ac9e2991ae91270a866-03f81729bf)
-- [local-section:0b1eb3feadaf3c4af2030dc5 — Two ordinary PNT substitutions with sharp endpoints](../records/0138.md#local-section-0b1eb3feadaf3c4af2030dc5-4788840090)
+- [local-section:0b1eb3feadaf3c4af2030dc5 — Two ordinary PNT substitutions with sharp endpoints](../records/0139.md#local-section-0b1eb3feadaf3c4af2030dc5-4788840090)
 - [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0139.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
 - [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0139.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
 - [local-section:0bcfe307abf6ab6c35746e1e — G183. Literal smaller signed core and complete return](../records/0139.md#local-section-0bcfe307abf6ab6c35746e1e-fa0440c686)
@@ -112,7 +113,7 @@ Page 1/4; 956 matching records.
 - [local-section:1974e8f2846df66697104629 — 27. Actual arithmetic dilations and their complete reconstruction cost](../records/0140.md#local-section-1974e8f2846df66697104629-723777c4e6)
 - [local-section:1a543dff034dcf5976f6ef0b — 2. Independent reconstruction of the author's deletion and parity claims](../records/0140.md#local-section-1a543dff034dcf5976f6ef0b-76d102bdcd)
 - [local-section:1b0f9cab9c344a3df8cbbbe5 — A shorter-factor corollary and the actual limits of the estimates](../records/0140.md#local-section-1b0f9cab9c344a3df8cbbbe5-35063c1d68)
-- [local-section:1b40398ea284bd7c961c19f7 — G142. Actual logarithmic improvement and the remaining complete core](../records/0140.md#local-section-1b40398ea284bd7c961c19f7-4f1dc27037)
+- [local-section:1b40398ea284bd7c961c19f7 — G142. Actual logarithmic improvement and the remaining complete core](../records/0141.md#local-section-1b40398ea284bd7c961c19f7-4f1dc27037)
 - [local-section:1b63255f6ecfdd30d8f74e43 — 4. The complete short-arc observation and zero-exclusion return](../records/0141.md#local-section-1b63255f6ecfdd30d8f74e43-37bc5fd9f5)
 - [local-section:1b7972de99305d82899b971b — 4. The other first tests and source attribution](../records/0141.md#local-section-1b7972de99305d82899b971b-ad968fff11)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
@@ -255,4 +256,3 @@ Page 1/4; 956 matching records.
 - [local-section:484e95f59a6122d8cf370807 — F04.H — Short-divisor H](../records/0146.md#local-section-484e95f59a6122d8cf370807-9c90084881)
 - [local-section:485d62cbaceeee39e1d8d770 — Sol04 \[research revision\] bounded research handoff](../records/0146.md#local-section-485d62cbaceeee39e1d8d770-23e5ae2f5d)
 - [local-section:48d81bbb109abceb01dfd3a3 — 7. Fixed-depth deflation and its qualifications](../records/0146.md#local-section-48d81bbb109abceb01dfd3a3-ccd4dabfde)
-- [local-section:48e7975a57315f781fc86611 — \[research revision\]: the actual merged renewal norm and signed profile corrections](../records/0146.md#local-section-48e7975a57315f781fc86611-0d9cc844ff)

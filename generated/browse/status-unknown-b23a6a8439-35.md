@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 35/43; 10582 matching records.
+Page 35/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-34.md)
 
 [Next](status-unknown-b23a6a8439-36.md)
 
+- [local-section:a02cd11fefde04f0dba9719d — 1. Selection decision](../records/0158.md#local-section-a02cd11fefde04f0dba9719d-1b9cce8fe6)
+- [local-section:a05b158e973dee5b2abe3fd5 — 4. The other sextic mechanisms: restriction, probe correlation, numerator and calibration](../records/0158.md#local-section-a05b158e973dee5b2abe3fd5-656bbc23f4)
 - [local-section:a0c8279f3678414eb860828d — 3.3 A finite retained source with both complementary errors paid](../records/0158.md#local-section-a0c8279f3678414eb860828d-8ca73e074e)
 - [local-section:a0dae9e6c699ad575aeb7cbf — 1. Scope, blind chronology and evidence](../records/0158.md#local-section-a0dae9e6c699ad575aeb7cbf-bb5e7e5d96)
 - [local-section:a0dec8bd0e96306640e0d5f3 — G210. Unequal energies and all collision-label sums](../records/0158.md#local-section-a0dec8bd0e96306640e0d5f3-8515b929a4)
@@ -73,8 +75,8 @@ Page 35/43; 10582 matching records.
 - [local-section:a56e8ff44323f1178e41db0f — \[research revision\]-W1: a moving negative norm with its complete return](../records/0158.md#local-section-a56e8ff44323f1178e41db0f-9d145a594d)
 - [local-section:a59651368d16bba669a579fa — 9. Exact remaining signed target and quantitative implication](../records/0158.md#local-section-a59651368d16bba669a579fa-c97cc57b61)
 - [local-section:a59d03375b5846ee0e900e7d — 1. Authority, scope, and outcome](../records/0158.md#local-section-a59d03375b5846ee0e900e7d-55944c56aa)
-- [local-section:a5c142e0cbdf7c55452e7ddc — UR1. Frozen source and dependencies](../records/0158.md#local-section-a5c142e0cbdf7c55452e7ddc-e86c49bac0)
-- [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0158.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
+- [local-section:a5c142e0cbdf7c55452e7ddc — UR1. Frozen source and dependencies](../records/0159.md#local-section-a5c142e0cbdf7c55452e7ddc-e86c49bac0)
+- [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0159.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
 - [local-section:a5f0a6009bd4c52b7ec366eb — C. Strong objection: the actual output is not power-small](../records/0159.md#local-section-a5f0a6009bd4c52b7ec366eb-86e06d971a)
 - [local-section:a61f8bbd7434472d68da6191 — UR7. Fixed delta=2: norm 20 and the complete inverse readout](../records/0159.md#local-section-a61f8bbd7434472d68da6191-5453eba6a6)
 - [local-section:a64787345f954944b2ee6f89 — 3. Two dilation filters, sharp frame constants and causal reconstruction](../records/0159.md#local-section-a64787345f954944b2ee6f89-fd83c55460)
@@ -164,8 +166,8 @@ Page 35/43; 10582 matching records.
 - [local-section:adc19c52c71e187aebeaf9f1 — 6. Quantitative core caps and complete residual](../records/0159.md#local-section-adc19c52c71e187aebeaf9f1-cd4ea0d910)
 - [local-section:adc9ec3f96a79f64c654b8dc — Preserved interfaces and scoped audits](../records/0159.md#local-section-adc9ec3f96a79f64c654b8dc-6d42fc3138)
 - [local-section:add3aac0f4f2793e022f98da — D02 and the seven other first tests](../records/0159.md#local-section-add3aac0f4f2793e022f98da-a3f6783667)
-- [local-section:add6ae3874f8d2a2d2b7dc71 — 7.1 The complete compensator is longer than the new useful range](../records/0159.md#local-section-add6ae3874f8d2a2d2b7dc71-e80ea50c25)
-- [local-section:adef0965f984251677e8ba44 — 4.2 Local and shortened-scale branches](../records/0159.md#local-section-adef0965f984251677e8ba44-89fbcd6de9)
+- [local-section:add6ae3874f8d2a2d2b7dc71 — 7.1 The complete compensator is longer than the new useful range](../records/0160.md#local-section-add6ae3874f8d2a2d2b7dc71-e80ea50c25)
+- [local-section:adef0965f984251677e8ba44 — 4.2 Local and shortened-scale branches](../records/0160.md#local-section-adef0965f984251677e8ba44-89fbcd6de9)
 - [local-section:ae01d614d6310519c34af7f9 — Primary-source screen, ancestry, and next useful action](../records/0160.md#local-section-ae01d614d6310519c34af7f9-1dda46cb49)
 - [local-section:ae070b23fbd1060340f8c7f9 — 3.3 Explicit constants: no free growing-color import](../records/0160.md#local-section-ae070b23fbd1060340f8c7f9-01d0421437)
 - [local-section:ae0a1ee22c954b72a787627d — 4. Ten author tests and two independent audits](../records/0160.md#local-section-ae0a1ee22c954b72a787627d-f01df5e65a)
@@ -255,6 +257,4 @@ Page 35/43; 10582 matching records.
 - [local-section:b631a3e50972baa4a1629e52 — 6. Protected audit20: actual matching and its paid critical source](../records/0160.md#local-section-b631a3e50972baa4a1629e52-b4fc5f8753)
 - [local-section:b6402d1771c024852474c4d5 — 1. Source, selection and evidence chronology](../records/0160.md#local-section-b6402d1771c024852474c4d5-4749dcb57a)
 - [local-section:b658fe05ff54d6a88d8d0e7f — R4. Dilation repair: exact source and periodicity](../records/0160.md#local-section-b658fe05ff54d6a88d8d0e7f-f9aeca3b38)
-- [local-section:b65bf4efbaf0a34ed2209e91 — 14. Chaining and simultaneous use in the same proof](../records/0160.md#local-section-b65bf4efbaf0a34ed2209e91-08f7f0ba08)
-- [local-section:b67570a8edd3269965a2c244 — F14/F17/F15 — Expensive mechanisms for the mean, with scope retained](../records/0160.md#local-section-b67570a8edd3269965a2c244-dbccf32bf8)
-- [local-section:b68730de5c6aa2b6fb7e21d3 — 2. Local allocation coefficients and complete coalescence](../records/0161.md#local-section-b68730de5c6aa2b6fb7e21d3-4d16e03068)
+- [local-section:b65bf4efbaf0a34ed2209e91 — 14. Chaining and simultaneous use in the same proof](../records/0161.md#local-section-b65bf4efbaf0a34ed2209e91-08f7f0ba08)

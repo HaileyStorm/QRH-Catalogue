@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 56/71; 17529 matching records.
+Page 56/71; 17531 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-55.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-57.md)
 
+- [pr26:Analytic.JointFirstAnnularActualSector::eventually_actual_first_annular_sector_from_local_targets@193 — eventually_actual_first_annular_sector_from_local_targets](../records/0180.md#pr26-analytic-jointfirstannularactualsector-eventually-actual-fir-6aba803855)
+- [pr26:Analytic.JointFirstAnnularFixed — Analytic.JointFirstAnnularFixed](../records/0180.md#pr26-analytic-jointfirstannularfixed-427c899bc0)
 - [pr26:Analytic.JointFirstAnnularFixed::actual_literal_first_annular_targets_fixed@41 — actual_literal_first_annular_targets_fixed](../records/0180.md#pr26-analytic-jointfirstannularfixed-actual-literal-first-annular-eda81b78c2)
 - [pr26:Analytic.JointFirstAnnularHighJoin — Analytic.JointFirstAnnularHighJoin](../records/0180.md#pr26-analytic-jointfirstannularhighjoin-de6ff131aa)
 - [pr26:Analytic.JointFirstAnnularHighJoin::actual_literal_first_annular_targets_of_high@870 — actual_literal_first_annular_targets_of_high](../records/0180.md#pr26-analytic-jointfirstannularhighjoin-actual-literal-first-annu-a64d5a07f1)
@@ -37,8 +39,8 @@ Page 56/71; 17529 matching records.
 - [pr26:Analytic.JointFirstBinJointSum::binRows@367 — binRows](../records/0180.md#pr26-analytic-jointfirstbinjointsum-binrows-367-6fefd05ff5)
 - [pr26:Analytic.JointFirstBinJointSum::binRows_nonzero@381 — binRows_nonzero](../records/0180.md#pr26-analytic-jointfirstbinjointsum-binrows-nonzero-381-beeaaa5f8b)
 - [pr26:Analytic.JointFirstBinJointSum::mainHeight@362 — mainHeight](../records/0180.md#pr26-analytic-jointfirstbinjointsum-mainheight-362-cf69fecb0e)
-- [pr26:Analytic.JointFirstBinJointSum::mainRadius@358 — mainRadius](../records/0180.md#pr26-analytic-jointfirstbinjointsum-mainradius-358-815bd7d0e5)
-- [pr26:Analytic.JointFirstBinJointSum::mainScale@355 — mainScale](../records/0180.md#pr26-analytic-jointfirstbinjointsum-mainscale-355-3b847c1709)
+- [pr26:Analytic.JointFirstBinJointSum::mainRadius@358 — mainRadius](../records/0181.md#pr26-analytic-jointfirstbinjointsum-mainradius-358-815bd7d0e5)
+- [pr26:Analytic.JointFirstBinJointSum::mainScale@355 — mainScale](../records/0181.md#pr26-analytic-jointfirstbinjointsum-mainscale-355-3b847c1709)
 - [pr26:Analytic.JointFirstBinLive — Analytic.JointFirstBinLive](../records/0181.md#pr26-analytic-jointfirstbinlive-0fd2675554)
 - [pr26:Analytic.JointFirstBinLive::actual_first_live_bin_joint_majorant@437 — actual_first_live_bin_joint_majorant](../records/0181.md#pr26-analytic-jointfirstbinlive-actual-first-live-bin-joint-major-1e13e3c461)
 - [pr26:Analytic.JointFirstBinLive::actual_first_live_bin_packet_majorant@419 — actual_first_live_bin_packet_majorant](../records/0181.md#pr26-analytic-jointfirstbinlive-actual-first-live-bin-packet-majo-35f2a1cf1e)
@@ -137,8 +139,8 @@ Page 56/71; 17529 matching records.
 - [pr26:Analytic.JointFirstKernel — Analytic.JointFirstKernel](../records/0181.md#pr26-analytic-jointfirstkernel-237e0748ac)
 - [pr26:Analytic.JointFirstKernel::LeftIndex@1211 — LeftIndex](../records/0181.md#pr26-analytic-jointfirstkernel-leftindex-1211-1a0e7c1785)
 - [pr26:Analytic.JointFirstKernel::RightIndex@1212 — RightIndex](../records/0181.md#pr26-analytic-jointfirstkernel-rightindex-1212-55e5109296)
-- [pr26:Analytic.JointFirstKernel::SourceIndex@1389 — SourceIndex](../records/0181.md#pr26-analytic-jointfirstkernel-sourceindex-1389-7153fee3ba)
-- [pr26:Analytic.JointFirstKernel::activeRow@1217 — activeRow](../records/0181.md#pr26-analytic-jointfirstkernel-activerow-1217-5d3ae6879c)
+- [pr26:Analytic.JointFirstKernel::SourceIndex@1389 — SourceIndex](../records/0182.md#pr26-analytic-jointfirstkernel-sourceindex-1389-7153fee3ba)
+- [pr26:Analytic.JointFirstKernel::activeRow@1217 — activeRow](../records/0182.md#pr26-analytic-jointfirstkernel-activerow-1217-5d3ae6879c)
 - [pr26:Analytic.JointFirstKernel::block_eq_kernel_children@1306 — block_eq_kernel_children](../records/0182.md#pr26-analytic-jointfirstkernel-block-eq-kernel-children-1306-4d592d1be9)
 - [pr26:Analytic.JointFirstKernel::childLabel@1302 — childLabel](../records/0182.md#pr26-analytic-jointfirstkernel-childlabel-1302-7bcc0b7fe7)
 - [pr26:Analytic.JointFirstKernel::firstSourceLabels@1442 — firstSourceLabels](../records/0182.md#pr26-analytic-jointfirstkernel-firstsourcelabels-1442-c1619c6a32)
@@ -237,8 +239,8 @@ Page 56/71; 17529 matching records.
 - [pr26:Analytic.JointFirstNaturalJoinGates::lower_profile_exact@152 — lower_profile_exact](../records/0182.md#pr26-analytic-jointfirstnaturaljoingates-lower-profile-exact-152-e607c1c42e)
 - [pr26:Analytic.JointFirstNaturalJoinGates::lower_profile_positive@159 — lower_profile_positive](../records/0182.md#pr26-analytic-jointfirstnaturaljoingates-lower-profile-positive-1-5e78729c22)
 - [pr26:Analytic.JointFirstNaturalJoinGates::plain_join_gates@138 — plain_join_gates](../records/0182.md#pr26-analytic-jointfirstnaturaljoingates-plain-join-gates-138-7493044931)
-- [pr26:Analytic.JointFirstNaturalMoment — Analytic.JointFirstNaturalMoment](../records/0182.md#pr26-analytic-jointfirstnaturalmoment-c7c149db1d)
-- [pr26:Analytic.JointFirstNaturalMoment::actual_local_natural_moment@144 — actual_local_natural_moment](../records/0182.md#pr26-analytic-jointfirstnaturalmoment-actual-local-natural-moment-f5e075d766)
+- [pr26:Analytic.JointFirstNaturalMoment — Analytic.JointFirstNaturalMoment](../records/0183.md#pr26-analytic-jointfirstnaturalmoment-c7c149db1d)
+- [pr26:Analytic.JointFirstNaturalMoment::actual_local_natural_moment@144 — actual_local_natural_moment](../records/0183.md#pr26-analytic-jointfirstnaturalmoment-actual-local-natural-moment-f5e075d766)
 - [pr26:Analytic.JointFirstNaturalMomentExplicitMesh — Analytic.JointFirstNaturalMomentExplicitMesh](../records/0183.md#pr26-analytic-jointfirstnaturalmomentexplicitmesh-f36828b437)
 - [pr26:Analytic.JointFirstNaturalMomentExplicitMesh::actual_local_natural_moment_explicit_mesh@278 — actual_local_natural_moment_explicit_mesh](../records/0183.md#pr26-analytic-jointfirstnaturalmomentexplicitmesh-actual-local-na-a2c1e0871e)
 - [pr26:Analytic.JointFirstNaturalSource — Analytic.JointFirstNaturalSource](../records/0183.md#pr26-analytic-jointfirstnaturalsource-57aec6cb0b)
@@ -256,5 +258,3 @@ Page 56/71; 17529 matching records.
 - [pr26:Analytic.JointFirstOriginalExplicitMesh — Analytic.JointFirstOriginalExplicitMesh](../records/0183.md#pr26-analytic-jointfirstoriginalexplicitmesh-aecb73a7da)
 - [pr26:Analytic.JointFirstOriginalExplicitMesh::actual_local_first_original_target_explicit_mesh@304 — actual_local_first_original_target_explicit_mesh](../records/0183.md#pr26-analytic-jointfirstoriginalexplicitmesh-actual-local-first-o-bda84d3c28)
 - [pr26:Analytic.JointFirstOriginalRemainder — Analytic.JointFirstOriginalRemainder](../records/0183.md#pr26-analytic-jointfirstoriginalremainder-d213b7e5fa)
-- [pr26:Analytic.JointFirstOriginalRemainder::first_original_source_remainder@484 — first_original_source_remainder](../records/0183.md#pr26-analytic-jointfirstoriginalremainder-first-original-source-r-c4aaa47c7d)
-- [pr26:Analytic.JointFirstOriginalRemainder::original_column_coprime_mask@448 — original_column_coprime_mask](../records/0183.md#pr26-analytic-jointfirstoriginalremainder-original-column-coprime-9dc59250fe)

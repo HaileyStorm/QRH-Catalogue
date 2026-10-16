@@ -186,7 +186,7 @@ Page 2/7; 1591 matching records.
 - [local-section:0a11b104b84939bb28ff2e91 — 6. Signed Taylor completion; proof of the negative main term](../records/0138.md#local-section-0a11b104b84939bb28ff2e91-b39ab85ad1)
 - [local-section:0a1fc8e1096bfc5a7b952bb5 — 8. Exact whole-rectangle proof and feedback](../records/0138.md#local-section-0a1fc8e1096bfc5a7b952bb5-2b90ced3f8)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
-- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0138.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
+- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0139.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
 - [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0139.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
 - [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0139.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
 - [local-section:0c16cf3e1ee0b89946566b4b — 5. Checks, source scope and dispositions of all30 cards](../records/0139.md#local-section-0c16cf3e1ee0b89946566b4b-5a30366b9d)

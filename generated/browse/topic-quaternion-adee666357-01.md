@@ -34,7 +34,7 @@ Page 1/1; 54 matching records.
 - [local-section:75490238b5bf1124f10252e8 — 6. Diagonal, return, ancestry and exact limits](../records/0152.md#local-section-75490238b5bf1124f10252e8-782a28b214)
 - [local-section:7961e0f44691e43313e7f077 — \[research revision\]: cofactor signal, covariance and quaternion source](../records/0153.md#local-section-7961e0f44691e43313e7f077-a6945d585a)
 - [local-section:7a921282359d9eaf47ae415d — Prior work and the remaining question](../records/0153.md#local-section-7a921282359d9eaf47ae415d-4d11ce13b1)
-- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
+- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0154.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:8c0f4d1c887067f1b07f28da — Compact worklog and discovery decisions](../records/0155.md#local-section-8c0f4d1c887067f1b07f28da-bdace1a3dc)
 - [local-section:93c3d14c181c2d774adadb30 — 72. Quaternion companion for the complete Jordan detector](../records/0156.md#local-section-93c3d14c181c2d774adadb30-9e16a64b5a)
 - [local-section:95afbdfa00ffec8d5b588cb9 — Independent Astra validation of post52 Sol batch02](../records/0156.md#local-section-95afbdfa00ffec8d5b588cb9-6d640f51ee)

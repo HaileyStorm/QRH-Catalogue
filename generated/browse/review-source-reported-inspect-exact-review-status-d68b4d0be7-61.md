@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 61/71; 17529 matching records.
+Page 61/71; 17531 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-60.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
+- [pr26:Analytic.JointSourceFinite::mem_finiteRows@1007 — mem_finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-mem-finiterows-1007-4f7c0a84c8)
+- [pr26:Analytic.JointSourceFinite::sum_extendData@1059 — sum_extendData](../records/0193.md#pr26-analytic-jointsourcefinite-sum-extenddata-1059-91af4aeed9)
 - [pr26:Analytic.JointSourceFinite::sum_finiteRows@1020 — sum_finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-sum-finiterows-1020-06e8319530)
 - [pr26:Analytic.JointSourceFinite::sum_labels_finiteRows@1034 — sum_labels_finiteRows](../records/0193.md#pr26-analytic-jointsourcefinite-sum-labels-finiterows-1034-72f7b1d223)
 - [pr26:Analytic.JointSourceInducing — Analytic.JointSourceInducing](../records/0193.md#pr26-analytic-jointsourceinducing-1612984c2a)
@@ -87,8 +89,8 @@ Page 61/71; 17529 matching records.
 - [pr26:Analytic.JointSupport::actual_first_mask_disjoint_canceled@781 — actual_first_mask_disjoint_canceled](../records/0193.md#pr26-analytic-jointsupport-actual-first-mask-disjoint-canceled-78-5819ce67d1)
 - [pr26:Analytic.JointSupport::commonRadical_dvd_frequency@645 — commonRadical_dvd_frequency](../records/0193.md#pr26-analytic-jointsupport-commonradical-dvd-frequency-645-ac31cb958c)
 - [pr26:Analytic.JointSupport::jointLeftCanceledIndices@755 — jointLeftCanceledIndices](../records/0193.md#pr26-analytic-jointsupport-jointleftcanceledindices-755-a39de27aea)
-- [pr26:Analytic.JointSupport::jointLeftRow@671 — jointLeftRow](../records/0193.md#pr26-analytic-jointsupport-jointleftrow-671-6682a4b248)
-- [pr26:Analytic.JointSupport::jointLeftRow_injective@678 — jointLeftRow_injective](../records/0193.md#pr26-analytic-jointsupport-jointleftrow-injective-678-6de5e337d7)
+- [pr26:Analytic.JointSupport::jointLeftRow@671 — jointLeftRow](../records/0194.md#pr26-analytic-jointsupport-jointleftrow-671-6682a4b248)
+- [pr26:Analytic.JointSupport::jointLeftRow_injective@678 — jointLeftRow_injective](../records/0194.md#pr26-analytic-jointsupport-jointleftrow-injective-678-6de5e337d7)
 - [pr26:Analytic.JointSupport::jointMissingIndices@752 — jointMissingIndices](../records/0194.md#pr26-analytic-jointsupport-jointmissingindices-752-3fb44e6394)
 - [pr26:Analytic.JointSupport::jointMissingRadical@611 — jointMissingRadical](../records/0194.md#pr26-analytic-jointsupport-jointmissingradical-611-dfcbebea84)
 - [pr26:Analytic.JointSupport::jointMissingRadical_ne_zero@614 — jointMissingRadical_ne_zero](../records/0194.md#pr26-analytic-jointsupport-jointmissingradical-ne-zero-614-61eefa41bf)
@@ -187,8 +189,8 @@ Page 61/71; 17529 matching records.
 - [pr26:Cycle25.Arithmetic.Certificate::certA11@30 — certA11](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa11-30-0661b2cf6b)
 - [pr26:Cycle25.Arithmetic.Certificate::certA11Poly@39 — certA11Poly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa11poly-39-252407abe6)
 - [pr26:Cycle25.Arithmetic.Certificate::certA11_poly@73 — certA11_poly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa11-poly-73-db3180eaf0)
-- [pr26:Cycle25.Arithmetic.Certificate::certA12@32 — certA12](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa12-32-bf4ab1e1f0)
-- [pr26:Cycle25.Arithmetic.Certificate::certA12Poly@40 — certA12Poly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa12poly-40-31c1467e36)
+- [pr26:Cycle25.Arithmetic.Certificate::certA12@32 — certA12](../records/0195.md#pr26-cycle25-arithmetic-certificate-certa12-32-bf4ab1e1f0)
+- [pr26:Cycle25.Arithmetic.Certificate::certA12Poly@40 — certA12Poly](../records/0195.md#pr26-cycle25-arithmetic-certificate-certa12poly-40-31c1467e36)
 - [pr26:Cycle25.Arithmetic.Certificate::certA12_poly@81 — certA12_poly](../records/0195.md#pr26-cycle25-arithmetic-certificate-certa12-poly-81-678953f59f)
 - [pr26:Cycle25.Arithmetic.Certificate::certA20@33 — certA20](../records/0195.md#pr26-cycle25-arithmetic-certificate-certa20-33-ca9a8cf857)
 - [pr26:Cycle25.Arithmetic.Certificate::certA20Poly@41 — certA20Poly](../records/0195.md#pr26-cycle25-arithmetic-certificate-certa20poly-41-37b0744e82)
@@ -256,5 +258,3 @@ Page 61/71; 17529 matching records.
 - [pr26:Cycle25.Arithmetic.Geometry::kappa0_short_interval@338 — kappa0_short_interval](../records/0195.md#pr26-cycle25-arithmetic-geometry-kappa0-short-interval-338-b9a44ed19b)
 - [pr26:Cycle25.Arithmetic.Geometry::other_endpoint_margin@411 — other_endpoint_margin](../records/0195.md#pr26-cycle25-arithmetic-geometry-other-endpoint-margin-411-af456592ef)
 - [pr26:Cycle25.Arithmetic.Geometry::physical_geometry@382 — physical_geometry](../records/0195.md#pr26-cycle25-arithmetic-geometry-physical-geometry-382-6886d299c2)
-- [pr26:Cycle25.Arithmetic.Geometry::positive_A1_minorant@430 — positive_A1_minorant](../records/0195.md#pr26-cycle25-arithmetic-geometry-positive-a1-minorant-430-38af94d52a)
-- [pr26:Cycle25.Arithmetic.Geometry::positive_part_branch@409 — positive_part_branch](../records/0195.md#pr26-cycle25-arithmetic-geometry-positive-part-branch-409-f55bc24888)

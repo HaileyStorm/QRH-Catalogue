@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 58/71; 17529 matching records.
+Page 58/71; 17531 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-57.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-59.md)
 
+- [pr26:Analytic.JointHighPacketBins::packet_cell_canonical_bin@208 — packet_cell_canonical_bin](../records/0185.md#pr26-analytic-jointhighpacketbins-packet-cell-canonical-bin-208-7b89254942)
+- [pr26:Analytic.JointHighPacketBins::subset_rayRows_bin@194 — subset_rayRows_bin](../records/0185.md#pr26-analytic-jointhighpacketbins-subset-rayrows-bin-194-3b161618e0)
 - [pr26:Analytic.JointHighPacketCanonicalGates — Analytic.JointHighPacketCanonicalGates](../records/0185.md#pr26-analytic-jointhighpacketcanonicalgates-f6ef0040d0)
 - [pr26:Analytic.JointHighPacketCanonicalGates::canonical_source_mask_caps@177 — canonical_source_mask_caps](../records/0185.md#pr26-analytic-jointhighpacketcanonicalgates-canonical-source-mask-dcfba332a4)
 - [pr26:Analytic.JointHighPacketCanonicalGates::live_packet_outer_mem@206 — live_packet_outer_mem](../records/0185.md#pr26-analytic-jointhighpacketcanonicalgates-live-packet-outer-mem-5ab65338d4)
@@ -37,8 +39,8 @@ Page 58/71; 17529 matching records.
 - [pr26:Analytic.JointHighPopulation::actual_joint_population_density@723 — actual_joint_population_density](../records/0185.md#pr26-analytic-jointhighpopulation-actual-joint-population-density-be0b924782)
 - [pr26:Analytic.JointHighPopulation::actual_joint_population_polynomial@781 — actual_joint_population_polynomial](../records/0185.md#pr26-analytic-jointhighpopulation-actual-joint-population-polynom-5e088a851c)
 - [pr26:Analytic.JointHighPopulation::joint_polynomial_loss_bound@680 — joint_polynomial_loss_bound](../records/0185.md#pr26-analytic-jointhighpopulation-joint-polynomial-loss-bound-680-8456055cee)
-- [pr26:Analytic.JointHighProduct — Analytic.JointHighProduct](../records/0185.md#pr26-analytic-jointhighproduct-498db9be7e)
-- [pr26:Analytic.JointHighProduct::actual_joint_high_product@88 — actual_joint_high_product](../records/0185.md#pr26-analytic-jointhighproduct-actual-joint-high-product-88-282eed5936)
+- [pr26:Analytic.JointHighProduct — Analytic.JointHighProduct](../records/0186.md#pr26-analytic-jointhighproduct-498db9be7e)
+- [pr26:Analytic.JointHighProduct::actual_joint_high_product@88 — actual_joint_high_product](../records/0186.md#pr26-analytic-jointhighproduct-actual-joint-high-product-88-282eed5936)
 - [pr26:Analytic.JointHighProduct::norm_pair_of_squared_bounds@40 — norm_pair_of_squared_bounds](../records/0186.md#pr26-analytic-jointhighproduct-norm-pair-of-squared-bounds-40-8e1bcc87c1)
 - [pr26:Analytic.JointHighProduct::squared_bound_change_base@56 — squared_bound_change_base](../records/0186.md#pr26-analytic-jointhighproduct-squared-bound-change-base-56-516e40477e)
 - [pr26:Analytic.JointHighReferenceGates — Analytic.JointHighReferenceGates](../records/0186.md#pr26-analytic-jointhighreferencegates-a63ffaaa33)
@@ -137,8 +139,8 @@ Page 58/71; 17529 matching records.
 - [pr26:Analytic.JointLiteralJoinGates::FirstJointLabel.sideMainRadius_literal@270 — FirstJointLabel.sideMainRadius_literal](../records/0186.md#pr26-analytic-jointliteraljoingates-firstjointlabel-sidemainradiu-5ded8f5b5f)
 - [pr26:Analytic.JointLiteralJoinGates::FirstJointLabel.side_nominal_source_factor@284 — FirstJointLabel.side_nominal_source_factor](../records/0186.md#pr26-analytic-jointliteraljoingates-firstjointlabel-side-nominal--902b931aa6)
 - [pr26:Analytic.JointLiteralJoinGates::actual_amplifier_prime_card@264 — actual_amplifier_prime_card](../records/0186.md#pr26-analytic-jointliteraljoingates-actual-amplifier-prime-card-2-eec81351d1)
-- [pr26:Analytic.JointLiteralJoinGates::actual_first_annular_amplifier_scale@301 — actual_first_annular_amplifier_scale](../records/0186.md#pr26-analytic-jointliteraljoingates-actual-first-annular-amplifie-7ddb40fb49)
-- [pr26:Analytic.JointLiteralJoinGates::eventually_first_literal_shifted_heights@253 — eventually_first_literal_shifted_heights](../records/0186.md#pr26-analytic-jointliteraljoingates-eventually-first-literal-shif-28049f01dc)
+- [pr26:Analytic.JointLiteralJoinGates::actual_first_annular_amplifier_scale@301 — actual_first_annular_amplifier_scale](../records/0187.md#pr26-analytic-jointliteraljoingates-actual-first-annular-amplifie-7ddb40fb49)
+- [pr26:Analytic.JointLiteralJoinGates::eventually_first_literal_shifted_heights@253 — eventually_first_literal_shifted_heights](../records/0187.md#pr26-analytic-jointliteraljoingates-eventually-first-literal-shif-28049f01dc)
 - [pr26:Analytic.JointLiteralJoinGates::literal_join_small_choices@246 — literal_join_small_choices](../records/0187.md#pr26-analytic-jointliteraljoingates-literal-join-small-choices-24-9549041f08)
 - [pr26:Analytic.JointLiveCommonSource — Analytic.JointLiveCommonSource](../records/0187.md#pr26-analytic-jointlivecommonsource-76418e0854)
 - [pr26:Analytic.JointLiveCommonSource::actual_live_common_source_pointwise@664 — actual_live_common_source_pointwise](../records/0187.md#pr26-analytic-jointlivecommonsource-actual-live-common-source-poi-8fb2a2d6d9)
@@ -237,8 +239,8 @@ Page 58/71; 17529 matching records.
 - [pr26:Analytic.JointLowLiteralTarget::actual_literal_first_low_target@144 — actual_literal_first_low_target](../records/0187.md#pr26-analytic-jointlowliteraltarget-actual-literal-first-low-targ-c085c0a072)
 - [pr26:Analytic.JointLowLocalGates — Analytic.JointLowLocalGates](../records/0187.md#pr26-analytic-jointlowlocalgates-47b1aa3e49)
 - [pr26:Analytic.JointLowLocalGates::eventually_fixed_logb_le@168 — eventually_fixed_logb_le](../records/0187.md#pr26-analytic-jointlowlocalgates-eventually-fixed-logb-le-168-96128df1bc)
-- [pr26:Analytic.JointLowLocalGates::eventually_low_fixed_profile_gates@176 — eventually_low_fixed_profile_gates](../records/0187.md#pr26-analytic-jointlowlocalgates-eventually-low-fixed-profile-gat-22394c35e9)
-- [pr26:Analytic.JointLowLocalGates::firstLowRadius_fixed_cap@219 — firstLowRadius_fixed_cap](../records/0187.md#pr26-analytic-jointlowlocalgates-firstlowradius-fixed-cap-219-8fa6eec850)
+- [pr26:Analytic.JointLowLocalGates::eventually_low_fixed_profile_gates@176 — eventually_low_fixed_profile_gates](../records/0188.md#pr26-analytic-jointlowlocalgates-eventually-low-fixed-profile-gat-22394c35e9)
+- [pr26:Analytic.JointLowLocalGates::firstLowRadius_fixed_cap@219 — firstLowRadius_fixed_cap](../records/0188.md#pr26-analytic-jointlowlocalgates-firstlowradius-fixed-cap-219-8fa6eec850)
 - [pr26:Analytic.JointLowLocalGates::local_capacity_of_volume@208 — local_capacity_of_volume](../records/0188.md#pr26-analytic-jointlowlocalgates-local-capacity-of-volume-208-c86a4dfb21)
 - [pr26:Analytic.JointLowLocalGates::lowLocalBinCap@262 — lowLocalBinCap](../records/0188.md#pr26-analytic-jointlowlocalgates-lowlocalbincap-262-6d63ace680)
 - [pr26:Analytic.JointLowLocalGates::lowLocalMesh@258 — lowLocalMesh](../records/0188.md#pr26-analytic-jointlowlocalgates-lowlocalmesh-258-6898f80bf9)
@@ -256,5 +258,3 @@ Page 58/71; 17529 matching records.
 - [pr26:Analytic.JointLowMixedHarmonic — Analytic.JointLowMixedHarmonic](../records/0188.md#pr26-analytic-jointlowmixedharmonic-e7ba03c2fc)
 - [pr26:Analytic.JointLowMixedHarmonic::actual_common_second_mixed_harmonic_mass@686 — actual_common_second_mixed_harmonic_mass](../records/0188.md#pr26-analytic-jointlowmixedharmonic-actual-common-second-mixed-ha-5e999489c4)
 - [pr26:Analytic.JointLowMixedHarmonic::actual_second_ray_mixed_factor@658 — actual_second_ray_mixed_factor](../records/0188.md#pr26-analytic-jointlowmixedharmonic-actual-second-ray-mixed-facto-ebfb824724)
-- [pr26:Analytic.JointLowMixedHarmonic::moebius_mixed_harmonic_pointwise@638 — moebius_mixed_harmonic_pointwise](../records/0188.md#pr26-analytic-jointlowmixedharmonic-moebius-mixed-harmonic-pointw-c08f6e3452)
-- [pr26:Analytic.JointLowMoment — Analytic.JointLowMoment](../records/0188.md#pr26-analytic-jointlowmoment-f68b814ee8)

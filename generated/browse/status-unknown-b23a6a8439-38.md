@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 38/43; 10582 matching records.
+Page 38/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-37.md)
 
 [Next](status-unknown-b23a6a8439-39.md)
 
+- [local-section:e13da6b50f2e2440e5222439 — 3. Fully masked Gaussian Walsh transform](../records/0166.md#local-section-e13da6b50f2e2440e5222439-0f700040d9)
+- [local-section:e160c539dca8358a6287482d — Independent review: arithmetic dilates and the localization deficit](../records/0166.md#local-section-e160c539dca8358a6287482d-3242286bd7)
 - [local-section:e1846c4a3f108f24ba446973 — 7. Evidence, limitations and precise next action](../records/0166.md#local-section-e1846c4a3f108f24ba446973-637d703b0e)
 - [local-section:e201a8824b1c3a79af90569c — 3. Exact proposed column and prime witness](../records/0166.md#local-section-e201a8824b1c3a79af90569c-4eb24944d9)
 - [local-section:e20f0317329f9449d1271406 — F01.M — The fixed rational Möbius energy](../records/0166.md#local-section-e20f0317329f9449d1271406-dbd82575af)
@@ -29,8 +31,8 @@ Page 38/43; 10582 matching records.
 - [local-section:e44b51e2a921f01c5109cfa0 — 2.2 Two PNT substitutions with all boundary terms](../records/0166.md#local-section-e44b51e2a921f01c5109cfa0-64a1750e85)
 - [local-section:e45e461dc86840961f37c7a8 — 6. Quantitative obstruction and exact arithmetic](../records/0166.md#local-section-e45e461dc86840961f37c7a8-88e77c990e)
 - [local-section:e491a5932fb42a2cd08f328d — 70. Parity Jordan source with paid principal far tail](../records/0166.md#local-section-e491a5932fb42a2cd08f328d-610e8c4e74)
-- [local-section:e49bded395961d8a9a062ada — 5. Sharp local inequalities](../records/0166.md#local-section-e49bded395961d8a9a062ada-da4677d325)
-- [local-section:e4b14f457c814be698f9d742 — 3. Prime input, product size, and all-order Euler bounds](../records/0166.md#local-section-e4b14f457c814be698f9d742-38a25c7572)
+- [local-section:e49bded395961d8a9a062ada — 5. Sharp local inequalities](../records/0167.md#local-section-e49bded395961d8a9a062ada-da4677d325)
+- [local-section:e4b14f457c814be698f9d742 — 3. Prime input, product size, and all-order Euler bounds](../records/0167.md#local-section-e4b14f457c814be698f9d742-38a25c7572)
 - [local-section:e4b4698c138fd35d33d8f707 — 8. Failures, credit and final disposition](../records/0167.md#local-section-e4b4698c138fd35d33d8f707-179f46c8a2)
 - [local-section:e4c9d05243bc50cf831b3135 — 4. Exact resummation of the remaining chains](../records/0167.md#local-section-e4c9d05243bc50cf831b3135-c56d03bcef)
 - [local-section:e4dac9e7b26d42dd0c7f60b7 — 9. Evidence, ancestry and next action](../records/0167.md#local-section-e4dac9e7b26d42dd0c7f60b7-5feb778251)
@@ -114,8 +116,8 @@ Page 38/43; 10582 matching records.
 - [local-section:eb99833da1986e77925f5a0b — D26.4 Sixth-power extraction and the stronger paid target](../records/0167.md#local-section-eb99833da1986e77925f5a0b-aa4f2afc2b)
 - [local-section:eba218e9145ecd7c55b4b800 — G106. Isolated root of the complete cutoff polynomial](../records/0167.md#local-section-eba218e9145ecd7c55b4b800-95a0534d1e)
 - [local-section:eba9f2fd8eec2ebd076f9772 — 12. Portfolio allocation, promotion and stop rules](../records/0167.md#local-section-eba9f2fd8eec2ebd076f9772-b9bbab7591)
-- [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0167.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
-- [local-section:ebc7eefe68a5f7ec87ba34f2 — Full product, collisions and both gates](../records/0167.md#local-section-ebc7eefe68a5f7ec87ba34f2-e21ec0a63a)
+- [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0168.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
+- [local-section:ebc7eefe68a5f7ec87ba34f2 — Full product, collisions and both gates](../records/0168.md#local-section-ebc7eefe68a5f7ec87ba34f2-e21ec0a63a)
 - [local-section:ebcf3bff1cff58735b813bc7 — R6. Scope of the remaining author tests](../records/0168.md#local-section-ebcf3bff1cff58735b813bc7-b2f16615d1)
 - [local-section:ebe3d4c963956197a2e71718 — 5. Handoff and research calibration](../records/0168.md#local-section-ebe3d4c963956197a2e71718-7e24250b50)
 - [local-section:ec175b33866a625b1de61808 — Evidence, ancestry and the next arithmetic estimate](../records/0168.md#local-section-ec175b33866a625b1de61808-5e61e2bda2)
@@ -203,8 +205,8 @@ Page 38/43; 10582 matching records.
 - [local-section:f39185bd24412dcafa1acbe0 — 4. Both source coefficients fix the identity-cell readout](../records/0168.md#local-section-f39185bd24412dcafa1acbe0-aabfa94cb4)
 - [local-section:f3998308b86c908b6c1f1cf1 — 4. W43-06: source projection, complete Gram and calibration](../records/0168.md#local-section-f3998308b86c908b6c1f1cf1-e2332f4967)
 - [local-section:f3af2f7c1623c3b45a0afdd4 — A. Exact inverse and exact norm](../records/0168.md#local-section-f3af2f7c1623c3b45a0afdd4-c9a2259dcf)
-- [local-section:f3bed8b2ecbc4b5e7411423c — 8. Evidence and next action](../records/0168.md#local-section-f3bed8b2ecbc4b5e7411423c-b6881a238e)
-- [local-section:f3f6112b3549379c0b822adf — G95. An exact source with a positive signed global leading term](../records/0168.md#local-section-f3f6112b3549379c0b822adf-e72e558c7a)
+- [local-section:f3bed8b2ecbc4b5e7411423c — 8. Evidence and next action](../records/0169.md#local-section-f3bed8b2ecbc4b5e7411423c-b6881a238e)
+- [local-section:f3f6112b3549379c0b822adf — G95. An exact source with a positive signed global leading term](../records/0169.md#local-section-f3f6112b3549379c0b822adf-e72e558c7a)
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0169.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f40b7499b94fc9e47b6cf47a — 4.3 Paying the small-prime complement](../records/0169.md#local-section-f40b7499b94fc9e47b6cf47a-c89e375b8d)
 - [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0169.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
@@ -256,5 +258,3 @@ Page 38/43; 10582 matching records.
 - [local-section:f80957297e0902f198610eb4 — 4. Removing the new masks without an illegal moment input](../records/0169.md#local-section-f80957297e0902f198610eb4-82aa39e51a)
 - [local-section:f80fbdedd5a4a0d6eb38cba5 — F07. Quadratic principal-square Jacobi detector](../records/0169.md#local-section-f80fbdedd5a4a0d6eb38cba5-9e2502923b)
 - [local-section:f8284ccc4626bd4109f4d728 — 3. The extra saving from the actual prime slots](../records/0169.md#local-section-f8284ccc4626bd4109f4d728-a37202b566)
-- [local-section:f83e0e895e94ce63aeca44be — \[research revision\]: signed logarithms and exact causal readout](../records/0169.md#local-section-f83e0e895e94ce63aeca44be-41f97d423b)
-- [local-section:f8492a78d04a7130fbfbdc73 — HCR11. Exact easy bound and its failed inequality](../records/0169.md#local-section-f8492a78d04a7130fbfbdc73-9eee9848cb)

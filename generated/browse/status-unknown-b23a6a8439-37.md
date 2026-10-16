@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 37/43; 10582 matching records.
+Page 37/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-36.md)
 
 [Next](status-unknown-b23a6a8439-38.md)
 
+- [local-section:cb8f0e45fd258b67e97eed01 — Source and review anchors](../records/0163.md#local-section-cb8f0e45fd258b67e97eed01-4c5c5d0b4c)
+- [local-section:cb955c1736ce85084d3693ba — F25. Triple-rotation theta products](../records/0163.md#local-section-cb955c1736ce85084d3693ba-a37249c90a)
 - [local-section:cb964ee0eaf58beef9fb32b9 — Completed small-divisor source](../records/0163.md#local-section-cb964ee0eaf58beef9fb32b9-6b94be2afb)
 - [local-section:cb96694accf5d838ba288987 — 1. Frozen source, sampling and independent audit preparation](../records/0163.md#local-section-cb96694accf5d838ba288987-69f62f23b1)
 - [local-section:cb9795e46c62958d0ea97454 — 6. Transfer to the actual C--C Poisson sector](../records/0163.md#local-section-cb9795e46c62958d0ea97454-3332d22bdd)
@@ -19,8 +21,8 @@ Page 37/43; 10582 matching records.
 - [local-section:cc59e06a327ae05ea501fb37 — 6. What the new lower edge changes in the strict ledger](../records/0163.md#local-section-cc59e06a327ae05ea501fb37-bdca769fe8)
 - [local-section:cc955c34ab85b58f7761dffa — 17. Complete source projections, smooth collars and blocks](../records/0163.md#local-section-cc955c34ab85b58f7761dffa-f7c09b6757)
 - [local-section:cca6592276bd51d8a19bf4e4 — G202. Centered quotient norm and one fixed cumulative source](../records/0163.md#local-section-cca6592276bd51d8a19bf4e4-39b1ee0d39)
-- [local-section:ccad7258a80000cc468a2a7e — Other first tests and actual native-H limit](../records/0163.md#local-section-ccad7258a80000cc468a2a7e-d77de3e722)
-- [local-section:ccae01d2b939db4bdc087268 — 2.1 LP_a and the disk chain](../records/0163.md#local-section-ccae01d2b939db4bdc087268-c5ad1c0cd4)
+- [local-section:ccad7258a80000cc468a2a7e — Other first tests and actual native-H limit](../records/0164.md#local-section-ccad7258a80000cc468a2a7e-d77de3e722)
+- [local-section:ccae01d2b939db4bdc087268 — 2.1 LP_a and the disk chain](../records/0164.md#local-section-ccae01d2b939db4bdc087268-c5ad1c0cd4)
 - [local-section:ccb890d891820eab6bf816db — G203. A signed inner source does not rescue the outer positive budget](../records/0164.md#local-section-ccb890d891820eab6bf816db-6f95cf5e07)
 - [local-section:ccbe3d02c50ca0d03fd66c41 — D04.3 Complete zero-exclusion return for each fixed ordinary character](../records/0164.md#local-section-ccbe3d02c50ca0d03fd66c41-9b4db5cd28)
 - [local-section:ccdc64b9dcc1fbdd7eb2afba — Verification and next estimate](../records/0164.md#local-section-ccdc64b9dcc1fbdd7eb2afba-90d24bc51d)
@@ -106,7 +108,7 @@ Page 37/43; 10582 matching records.
 - [local-section:d3d76ac6ac529f33ee5996d1 — G122. Radical support and all low/high crosses](../records/0164.md#local-section-d3d76ac6ac529f33ee5996d1-767d80374d)
 - [local-section:d3e53c61aed1a16b7f48fa13 — 2. Source interfaces and the strongest applicability objection](../records/0164.md#local-section-d3e53c61aed1a16b7f48fa13-d2041b2a39)
 - [local-section:d3f4d0c05dbec25618e7c17b — 5. R1–8 and wildcard02: exact failure scope](../records/0164.md#local-section-d3f4d0c05dbec25618e7c17b-e7ff4d62fd)
-- [local-section:d42549c8b024c99e44db5b64 — 8. Result, limits, and next live action](../records/0164.md#local-section-d42549c8b024c99e44db5b64-1451e5b595)
+- [local-section:d42549c8b024c99e44db5b64 — 8. Result, limits, and next live action](../records/0165.md#local-section-d42549c8b024c99e44db5b64-1451e5b595)
 - [local-section:d4c40e516dedc1f5e1c2988c — 2.5 Positivity and the complete band to a terminal threshold](../records/0165.md#local-section-d4c40e516dedc1f5e1c2988c-6315f42b41)
 - [local-section:d4cb7e5d9264bd77562af174 — G108. Complete prime-block interactions and descendant errors](../records/0165.md#local-section-d4cb7e5d9264bd77562af174-d489992f7a)
 - [local-section:d4d0e7e4851da57ac4066542 — 10. Source attribution and acceptance boundaries](../records/0165.md#local-section-d4d0e7e4851da57ac4066542-0da05438f3)
@@ -192,8 +194,8 @@ Page 37/43; 10582 matching records.
 - [local-section:da8e7a40429f22b24e5d2281 — 1. Frozen scope and allocation](../records/0165.md#local-section-da8e7a40429f22b24e5d2281-f4d477d407)
 - [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0165.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)
 - [local-section:daa27e200f523f13c2d83862 — 5. Full versus truncated allocation contraction](../records/0165.md#local-section-daa27e200f523f13c2d83862-823b3b44f4)
-- [local-section:dad5cf32f05cc61f8fb3e81b — \[research revision\] attempt delta](../records/0165.md#local-section-dad5cf32f05cc61f8fb3e81b-61e7e59567)
-- [local-section:dae2097ca5c421142c1802ba — 4. The finite signed core and paid complements](../records/0165.md#local-section-dae2097ca5c421142c1802ba-0412a17547)
+- [local-section:dad5cf32f05cc61f8fb3e81b — \[research revision\] attempt delta](../records/0166.md#local-section-dad5cf32f05cc61f8fb3e81b-61e7e59567)
+- [local-section:dae2097ca5c421142c1802ba — 4. The finite signed core and paid complements](../records/0166.md#local-section-dae2097ca5c421142c1802ba-0412a17547)
 - [local-section:dae4796c1db3dbcfd086963a — Disposition and current checkpoint](../records/0166.md#local-section-dae4796c1db3dbcfd086963a-0f20f622ef)
 - [local-section:daebebc88b71828abd5abc2f — 6. Evidence and next mathematical work](../records/0166.md#local-section-daebebc88b71828abd5abc2f-0132bbee3c)
 - [local-section:daf014ed3d79cdc374dbb973 — New merge corollary: common-completed finite incidence is equivalent](../records/0166.md#local-section-daf014ed3d79cdc374dbb973-30cb82bce9)
@@ -256,5 +258,3 @@ Page 37/43; 10582 matching records.
 - [local-section:e11608499aa69dee03d8ff5f — A05. Triple-convolution cube inversion and the \\(5/6\\) absolute barrier](../records/0166.md#local-section-e11608499aa69dee03d8ff5f-28e48465ae)
 - [local-section:e117dfcb67111744182a8317 — 3. D33: periodic cancellation is real; the full correction is unpaid](../records/0166.md#local-section-e117dfcb67111744182a8317-c9dce3a2a0)
 - [local-section:e11febb0b985c3567302eb26 — 2. A uniform sixth-power-free estimate down to bounded core scale](../records/0166.md#local-section-e11febb0b985c3567302eb26-42b8b0e505)
-- [local-section:e13da6b50f2e2440e5222439 — 3. Fully masked Gaussian Walsh transform](../records/0166.md#local-section-e13da6b50f2e2440e5222439-0f700040d9)
-- [local-section:e160c539dca8358a6287482d — Independent review: arithmetic dilates and the localization deficit](../records/0166.md#local-section-e160c539dca8358a6287482d-3242286bd7)

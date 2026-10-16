@@ -98,7 +98,7 @@ Page 1/1; 135 matching records.
 - [local-section:b2e60a9a238769df60cab716 — 5. Complete Liouville core and paid short-square sources](../records/0160.md#local-section-b2e60a9a238769df60cab716-b9c64f8664)
 - [local-section:b67aed6e5308c540fd7faa33 — \[research revision\] independent review: complete Liouville square sources](../records/0161.md#local-section-b67aed6e5308c540fd7faa33-325abdf28d)
 - [local-section:bcf82f89752ecf21c06bdeba — 6. The signed cubic route after physical cube-row restriction](../records/0161.md#local-section-bcf82f89752ecf21c06bdeba-8d0c8d6b26)
-- [local-section:bd986abf1d40776357356e8f — Independent R4 review: original-color cubic sieve after primitive Poisson](../records/0161.md#local-section-bd986abf1d40776357356e8f-44976a7b40)
+- [local-section:bd986abf1d40776357356e8f — Independent R4 review: original-color cubic sieve after primitive Poisson](../records/0162.md#local-section-bd986abf1d40776357356e8f-44976a7b40)
 - [local-section:bef5f3f59e05bbef4f20d40c — The complete-zero form and the precise unpaid covariance](../records/0162.md#local-section-bef5f3f59e05bbef4f20d40c-41c3dbad26)
 - [local-section:c148c56d819c9140b8eed722 — \[research revision\] H: adaptive conductor obstruction and sparse-graph transport](../records/0162.md#local-section-c148c56d819c9140b8eed722-6389e273ee)
 - [local-section:c9a3ca4d72551603f161484b — Complete return to the endpoint](../records/0163.md#local-section-c9a3ca4d72551603f161484b-c8c3e3ce3a)

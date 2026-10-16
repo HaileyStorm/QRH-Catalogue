@@ -2,18 +2,19 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 10/12; 2896 matching records.
+Page 10/12; 2897 matching records.
 
 [Previous](method-detector-f2b3cbe414-09.md)
 
 [Next](method-detector-f2b3cbe414-11.md)
 
+- [local-section:eabd34860666102d33214d34 — Complete scalar numerator bound](../records/0167.md#local-section-eabd34860666102d33214d34-f79e117ba0)
 - [local-section:eb64983cb3103587dcfe14c1 — \[research revision\]: all 29 families and 109 stable children](../records/0167.md#local-section-eb64983cb3103587dcfe14c1-81ee752eb2)
 - [local-section:eb80e8881c30292d6ca15975 — 7. Exact residual form and the power budget](../records/0167.md#local-section-eb80e8881c30292d6ca15975-155268a584)
 - [local-section:eb83f1d6260efd41613fc500 — Complete endpoint return with the changed complements](../records/0167.md#local-section-eb83f1d6260efd41613fc500-fb2ece6b81)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:eba9f2fd8eec2ebd076f9772 — 12. Portfolio allocation, promotion and stop rules](../records/0167.md#local-section-eba9f2fd8eec2ebd076f9772-b9bbab7591)
-- [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0167.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
+- [local-section:ebb82e086ead1e60bb016e6e — 8. Other selected tests and all30 dispositions](../records/0168.md#local-section-ebb82e086ead1e60bb016e6e-b2f897af7a)
 - [local-section:ebcf3bff1cff58735b813bc7 — R6. Scope of the remaining author tests](../records/0168.md#local-section-ebcf3bff1cff58735b813bc7-b2f16615d1)
 - [local-section:ed14f34cc4a7e3765c095a93 — 6. Recovery price defeats that generic upper envelope](../records/0168.md#local-section-ed14f34cc4a7e3765c095a93-b7591848ca)
 - [local-section:ed67e318ba94c1031ab1ad2a — 47. A complete Hankel return and corrected two-variable detector](../records/0168.md#local-section-ed67e318ba94c1031ab1ad2a-24d88fe431)
@@ -61,7 +62,7 @@ Page 10/12; 2896 matching records.
 - [local-section:fb3aa09c6b13770dda7e67a5 — F07. Quadratic principal-square Jacobi detector](../records/0169.md#local-section-fb3aa09c6b13770dda7e67a5-4f88720cd9)
 - [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0169.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
 - [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
-- [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0169.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
+- [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0170.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0170.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0170.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0170.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
@@ -201,7 +202,7 @@ Page 10/12; 2896 matching records.
 - [pr26:Cycle25.Assembly.Count.MomentDetectorInverseFields::weighted_source_batch_inverse_fields@752 — weighted_source_batch_inverse_fields](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorinversefields-weighted--6bc6030b37)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorInverseMarkedField — Cycle25.Assembly.Count.MomentDetectorInverseMarkedField](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorinversemarkedfield-c84a884bb5)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry — Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-6a4fcba08e)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_fiber_prime_geometry_eventually@789 — weighted_sourceMoment_fiber_prime_geometry_eventually](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-dda647e36d)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_fiber_prime_geometry_eventually@789 — weighted_sourceMoment_fiber_prime_geometry_eventually](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-dda647e36d)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_denominator@725 — weighted_sourceMoment_live_denominator](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-fdc8e670dc)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_disjoint@712 — weighted_sourceMoment_live_disjoint](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-920ddda181)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_quotient_norm@738 — weighted_sourceMoment_live_quotient_norm](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-c5c4acfcc7)
@@ -249,7 +250,7 @@ Page 10/12; 2896 matching records.
 - [pr26:Cycle25.Assembly.Count.OriginalMomentInput::old_sourceMomentBound@424 — old_sourceMomentBound](../records/0197.md#pr26-cycle25-assembly-count-originalmomentinput-old-sourcemomentb-2912fcf6a0)
 - [pr26:Cycle25.Assembly.Count.PlainInput::terminal_plain_input@542 — terminal_plain_input](../records/0197.md#pr26-cycle25-assembly-count-plaininput-terminal-plain-input-542-a2c0ea18b9)
 - [pr26:Cycle25.Assembly.Count.PlainInput::terminal_zero_input@565 — terminal_zero_input](../records/0197.md#pr26-cycle25-assembly-count-plaininput-terminal-zero-input-565-c3c38625d5)
-- [pr26:Cycle25.Assembly.Count.SourceAmplitudeClasses::actual_source_amplitude_batches@94 — actual_source_amplitude_batches](../records/0197.md#pr26-cycle25-assembly-count-sourceamplitudeclasses-actual-source--403caa6db1)
+- [pr26:Cycle25.Assembly.Count.SourceAmplitudeClasses::actual_source_amplitude_batches@94 — actual_source_amplitude_batches](../records/0198.md#pr26-cycle25-assembly-count-sourceamplitudeclasses-actual-source--403caa6db1)
 - [pr26:Cycle25.Assembly.Count.SourceBatch::actual_source_batch@700 — actual_source_batch](../records/0198.md#pr26-cycle25-assembly-count-sourcebatch-actual-source-batch-700-2da6557d34)
 - [pr26:Cycle25.Assembly.Count.SourceParametersCount::balanced_source_count_from_raw_moments@465 — balanced_source_count_from_raw_moments](../records/0198.md#pr26-cycle25-assembly-count-sourceparameterscount-balanced-source-0ddef04851)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceCount::weighted_source_amplitude_count@1109 — weighted_source_amplitude_count](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcecount-weighted-source-a-cf4aae4c12)
@@ -257,4 +258,3 @@ Page 10/12; 2896 matching records.
 - [pr26:Cycle25.Energy.Physical.CertifiedFourier::certified_reflected_fourier_moment@165 — certified_reflected_fourier_moment](../records/0199.md#pr26-cycle25-energy-physical-certifiedfourier-certified-reflected-af95958590)
 - [pr26:Cycle25.Energy.Physical.CertifiedFourier::eventually_fixed_source_keep@147 — eventually_fixed_source_keep](../records/0199.md#pr26-cycle25-energy-physical-certifiedfourier-eventually-fixed-so-e7cb19f562)
 - [pr26:Cycle25.Energy.Physical.CertifiedRetained::certified_actual_retained_fourth@855 — certified_actual_retained_fourth](../records/0199.md#pr26-cycle25-energy-physical-certifiedretained-certified-actual-r-7f018a0a5f)
-- [pr26:Cycle25.Energy.Physical.CertifiedZero::certified_reflected_zero_fourier_moment@243 — certified_reflected_zero_fourier_moment](../records/0199.md#pr26-cycle25-energy-physical-certifiedzero-certified-reflected-ze-a6a42a7ce9)

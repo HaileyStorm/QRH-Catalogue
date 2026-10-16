@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 7/12; 2896 matching records.
+Page 7/12; 2897 matching records.
 
 [Previous](method-detector-f2b3cbe414-06.md)
 
 [Next](method-detector-f2b3cbe414-08.md)
 
+- [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
 - [local-section:08dd61ac28abc668bf15ef0a — 9. The asserted prime-square Jacobi identity is false](../records/0138.md#local-section-08dd61ac28abc668bf15ef0a-c2b6d9a483)
 - [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
 - [local-section:09559d68d0bd26ce573399f1 — 3. First powers: common profile, height buffer and one new slot](../records/0138.md#local-section-09559d68d0bd26ce573399f1-cf4d738421)
@@ -19,7 +20,7 @@ Page 7/12; 2896 matching records.
 - [local-section:0a46bf48dac64a1b0155c361 — 6. Preserved failed draws28 and21](../records/0138.md#local-section-0a46bf48dac64a1b0155c361-4d58e0e67b)
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0138.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
-- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0138.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
+- [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0139.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
 - [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0139.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
 - [local-section:0c16cf3e1ee0b89946566b4b — 5. Checks, source scope and dispositions of all30 cards](../records/0139.md#local-section-0c16cf3e1ee0b89946566b4b-5a30366b9d)
@@ -97,8 +98,8 @@ Page 7/12; 2896 matching records.
 - [local-section:20b0bf4acb9e90acbb2a214c — 3. Simultaneous detectors can cover numerator zeros](../records/0141.md#local-section-20b0bf4acb9e90acbb2a214c-1c24dcf572)
 - [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0141.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
 - [local-section:225669f8b1c71da81acaa1df — 2. A/S03: a fully paid moving-order Riesz return](../records/0141.md#local-section-225669f8b1c71da81acaa1df-4973280aea)
-- [local-section:22db3afc9817834e3cd9b37c — 11. Principal, finite, large and off-height fields; common-saving return](../records/0141.md#local-section-22db3afc9817834e3cd9b37c-147d5ee39c)
-- [local-section:22e57b05e00b018de9105d86 — 1. Initial discovery comparison](../records/0141.md#local-section-22e57b05e00b018de9105d86-3bfccec347)
+- [local-section:22db3afc9817834e3cd9b37c — 11. Principal, finite, large and off-height fields; common-saving return](../records/0142.md#local-section-22db3afc9817834e3cd9b37c-147d5ee39c)
+- [local-section:22e57b05e00b018de9105d86 — 1. Initial discovery comparison](../records/0142.md#local-section-22e57b05e00b018de9105d86-3bfccec347)
 - [local-section:22ef21f7baaabd4d57807a80 — D02 and the seven other selected first tests](../records/0142.md#local-section-22ef21f7baaabd4d57807a80-2ab1871476)
 - [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
@@ -147,7 +148,7 @@ Page 7/12; 2896 matching records.
 - [local-section:320fe4d1f1632694232728c7 — 6. Weakest complete first-gain target, return, and actual failed test](../records/0143.md#local-section-320fe4d1f1632694232728c7-02d491cc36)
 - [local-section:32913ec7134a0e926287eb4c — Corrections that must survive integration](../records/0143.md#local-section-32913ec7134a0e926287eb4c-96749fca6c)
 - [local-section:339264c75be943e51bc30eb7 — Other tested cards, sampling and verification](../records/0143.md#local-section-339264c75be943e51bc30eb7-548bbf8fa4)
-- [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0143.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
+- [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0144.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0144.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0144.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
 - [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
@@ -172,7 +173,7 @@ Page 7/12; 2896 matching records.
 - [local-section:39af77f1e15a654f20e4cca1 — 7. Complete thirty-card disposition](../records/0144.md#local-section-39af77f1e15a654f20e4cca1-1e2f5257f0)
 - [local-section:3a6a3cc9e61d9df8566af8a1 — D04: accept the complete collar price; retain the arithmetic problem](../records/0144.md#local-section-3a6a3cc9e61d9df8566af8a1-6d43f98a64)
 - [local-section:3ba6895544205a30188556fc — 1. New mathematics and exact remaining targets](../records/0144.md#local-section-3ba6895544205a30188556fc-f2bded3d09)
-- [local-section:3bdcf002a3f4f687964d9a46 — 4. Paying the prefix on the whole original slot range](../records/0144.md#local-section-3bdcf002a3f4f687964d9a46-5e928517d8)
+- [local-section:3bdcf002a3f4f687964d9a46 — 4. Paying the prefix on the whole original slot range](../records/0145.md#local-section-3bdcf002a3f4f687964d9a46-5e928517d8)
 - [local-section:3c142f9ccb2257b730e19c24 — 6. The other selected mechanisms and all30 dispositions](../records/0145.md#local-section-3c142f9ccb2257b730e19c24-de3a727cde)
 - [local-section:3c1c91fc411f035bc262c124 — 13. Provenance and semantic crosswalk](../records/0145.md#local-section-3c1c91fc411f035bc262c124-06372f39c2)
 - [local-section:3cd4d22832c13d5553cb41e3 — 8. Full explicit return for the proposed c11](../records/0145.md#local-section-3cd4d22832c13d5553cb41e3-ddb6973b91)
@@ -248,7 +249,7 @@ Page 7/12; 2896 matching records.
 - [local-section:50bdde788364275f04e57f22 — W42 independent review: exact principal-signal transfer and paid Euler tails](../records/0147.md#local-section-50bdde788364275f04e57f22-f702a9c6f9)
 - [local-section:511254e52a63c422dad81bd5 — W46: exact prime-two repair, a harmonic sign survivor, and the full phase bill](../records/0147.md#local-section-511254e52a63c422dad81bd5-4eecb0f19e)
 - [local-section:512bbc8403ba12bebbebd820 — W56 author report — \[research revision\]](../records/0147.md#local-section-512bbc8403ba12bebbebd820-b04e125ca2)
-- [local-section:51dd24fc9f9d4a4192467002 — 46. The unpaid far rows have separated simultaneous witnesses](../records/0147.md#local-section-51dd24fc9f9d4a4192467002-36b6caf484)
+- [local-section:51dd24fc9f9d4a4192467002 — 46. The unpaid far rows have separated simultaneous witnesses](../records/0148.md#local-section-51dd24fc9f9d4a4192467002-36b6caf484)
 - [local-section:52024a45216b27bf0fb0d0ba — 1. Verdict and scope](../records/0148.md#local-section-52024a45216b27bf0fb0d0ba-0f7c65b1ce)
 - [local-section:52da7d5943985b34535a01cf — Joint affine local moment and complete c5 endpoint](../records/0148.md#local-section-52da7d5943985b34535a01cf-ee7a86f492)
 - [local-section:52f0b3d18dbbf258b4c671b6 — G181. A smaller signed residual, with the physical return still open](../records/0148.md#local-section-52f0b3d18dbbf258b4c671b6-5c54f00e76)
@@ -257,4 +258,3 @@ Page 7/12; 2896 matching records.
 - [local-section:55f0a4dc25214e8b4252dc10 — R2. Exact source, rows and parameter ledger](../records/0148.md#local-section-55f0a4dc25214e8b4252dc10-0488bdd51b)
 - [local-section:56738ae6201f243ddc607fb4 — 3. Every inverse-length regime and the sharper free-row statement](../records/0148.md#local-section-56738ae6201f243ddc607fb4-29937d90fb)
 - [local-section:56d1a5a3d050cc63774765bc — 7. Complete endpoint geometry and all shortening cases](../records/0148.md#local-section-56d1a5a3d050cc63774765bc-4c058bcae4)
-- [local-section:572811beacd136b8e447ed7e — F. Alternative zero detectors, positive covers and finite-data failures](../records/0148.md#local-section-572811beacd136b8e447ed7e-7e438d1a6c)

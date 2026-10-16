@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 8/12; 2896 matching records.
+Page 8/12; 2897 matching records.
 
 [Previous](method-detector-f2b3cbe414-07.md)
 
 [Next](method-detector-f2b3cbe414-09.md)
 
+- [local-section:572811beacd136b8e447ed7e — F. Alternative zero detectors, positive covers and finite-data failures](../records/0148.md#local-section-572811beacd136b8e447ed7e-7e438d1a6c)
 - [local-section:575c194f03cd99bbdaba58da — 11. Independent diagnostics and uniformity limits](../records/0148.md#local-section-575c194f03cd99bbdaba58da-032d12104d)
 - [local-section:575c1b72e2d8f469c968a573 — 3. D04: complete independent reconstruction](../records/0148.md#local-section-575c1b72e2d8f469c968a573-e90bbd8f45)
 - [local-section:5850d6fd7a0bfbc58c19f19b — Group3: p\<.03, signed scale boundary state](../records/0148.md#local-section-5850d6fd7a0bfbc58c19f19b-247d95a5bd)
@@ -49,7 +50,7 @@ Page 8/12; 2896 matching records.
 - [local-section:608b6997ef1012412b8123b0 — 6.1 Complete rough feedback defeats this absolute small-gain proposal](../records/0149.md#local-section-608b6997ef1012412b8123b0-94972e7118)
 - [local-section:60c8c59a46da91da8e171807 — G111. Accepted c10 licenses a smaller density capacity](../records/0149.md#local-section-60c8c59a46da91da8e171807-e29c8eb586)
 - [local-section:61ee22b4c5aa95342e503462 — 8. All30 retained dispositions and remaining actions](../records/0149.md#local-section-61ee22b4c5aa95342e503462-2a46685d45)
-- [local-section:61f50c63208ead66c89a23ee — All 30 frozen seeds: final disposition](../records/0149.md#local-section-61f50c63208ead66c89a23ee-b7056151f7)
+- [local-section:61f50c63208ead66c89a23ee — All 30 frozen seeds: final disposition](../records/0150.md#local-section-61f50c63208ead66c89a23ee-b7056151f7)
 - [local-section:61faa04014d526c968d73ecc — \[research revision\] discovery-first source pass — quantitative short windows and a calibrated multiplicative obstruction](../records/0150.md#local-section-61faa04014d526c968d73ecc-c78c487750)
 - [local-section:61fb54d5310c24ebc512a814 — Sol04 independent first-stage review](../records/0150.md#local-section-61fb54d5310c24ebc512a814-b3e72c6f41)
 - [local-section:62071bdd0d79df6dc7a80b43 — Decisive change and independent reconstruction](../records/0150.md#local-section-62071bdd0d79df6dc7a80b43-a840d53975)
@@ -103,7 +104,7 @@ Page 8/12; 2896 matching records.
 - [local-section:70376851109010644d97af33 — 5. Low/high branches, missing labels and all-height scope](../records/0151.md#local-section-70376851109010644d97af33-41ed5c4166)
 - [local-section:70815b74dc189bc4e4a38d39 — G105. Exact continuation classes, reconstructed amplitudes and contours](../records/0151.md#local-section-70815b74dc189bc4e4a38d39-8c5af61196)
 - [local-section:70a513d8d02583c37e0363cd — F09. Adaptive exceptional-mode vector probes](../records/0151.md#local-section-70a513d8d02583c37e0363cd-5d99cbb330)
-- [local-section:70c8913cf85abfe83170d166 — 13. Profile annihilation can remove the signal, and moving twists can move a paid root](../records/0151.md#local-section-70c8913cf85abfe83170d166-76ace56ba3)
+- [local-section:70c8913cf85abfe83170d166 — 13. Profile annihilation can remove the signal, and moving twists can move a paid root](../records/0152.md#local-section-70c8913cf85abfe83170d166-76ace56ba3)
 - [local-section:7126758558c81c5469a39021 — Ninth-cycle review: the ordinary row series and long-column costs](../records/0152.md#local-section-7126758558c81c5469a39021-04d1da4174)
 - [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0152.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
 - [local-section:71bb65ff638afa27287e55e1 — 5. Genuine embedding in the \[research revision\] joint bank](../records/0152.md#local-section-71bb65ff638afa27287e55e1-64703711bf)
@@ -158,8 +159,8 @@ Page 8/12; 2896 matching records.
 - [local-section:7f2ad4025de689780cd43bef — 2. A: independent proof audit and exact limits](../records/0153.md#local-section-7f2ad4025de689780cd43bef-4b7560623e)
 - [local-section:7f4ad26435ecd130f60b66bd — \[research revision\] headroom: adaptive completion on the actual phase surface](../records/0153.md#local-section-7f4ad26435ecd130f60b66bd-92c090308d)
 - [local-section:7f54c68548454261907b4b6e — Independent review: fixed-phase cofactor theorem and degree12 source](../records/0153.md#local-section-7f54c68548454261907b4b6e-2baebb203d)
-- [local-section:7f5c6156a62f03b4f8dc704e — 7. Complete rectangles, lower rows and feedback](../records/0153.md#local-section-7f5c6156a62f03b4f8dc704e-2400199619)
-- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
+- [local-section:7f5c6156a62f03b4f8dc704e — 7. Complete rectangles, lower rows and feedback](../records/0154.md#local-section-7f5c6156a62f03b4f8dc704e-2400199619)
+- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0154.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0154.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0154.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
@@ -207,7 +208,7 @@ Page 8/12; 2896 matching records.
 - [local-section:8e180eb36cfbc92f30d9a200 — 8. Exact whole-rectangle proof and feedback](../records/0155.md#local-section-8e180eb36cfbc92f30d9a200-563f38df8f)
 - [local-section:8e7278332525d89a6f63489e — 1. Sources, ancestry and the binding configuration](../records/0155.md#local-section-8e7278332525d89a6f63489e-b0f44a7eba)
 - [local-section:8e98752e48333454b964b97d — 6. New local affine moment, with every other branch paid](../records/0155.md#local-section-8e98752e48333454b964b97d-602b26ce96)
-- [local-section:8ecec6dad8f98c85f736717f — 1. Choice, history, and what is actually new here](../records/0155.md#local-section-8ecec6dad8f98c85f736717f-335a46ac8b)
+- [local-section:8ecec6dad8f98c85f736717f — 1. Choice, history, and what is actually new here](../records/0156.md#local-section-8ecec6dad8f98c85f736717f-335a46ac8b)
 - [local-section:8ee90dc63b5849ec3c0ebf7e — Partial \[research revision\] source development: the complementary cofactor after row Poisson](../records/0156.md#local-section-8ee90dc63b5849ec3c0ebf7e-154fef02fe)
 - [local-section:8f090ee197d8b4a5f323b153 — \[research revision\]: a nonlinear detector with a completely paid far tail](../records/0156.md#local-section-8f090ee197d8b4a5f323b153-13c4eb32e2)
 - [local-section:8f4438f5286ab48878b34720 — Decision](../records/0156.md#local-section-8f4438f5286ab48878b34720-79f2f70383)
@@ -257,4 +258,3 @@ Page 8/12; 2896 matching records.
 - [local-section:9ad8cd882ead4b8398b0ebdd — G166. Prime removal with exact correction and all-shell return](../records/0157.md#local-section-9ad8cd882ead4b8398b0ebdd-2ee1fb44fa)
 - [local-section:9b0bb4a96fa8a747cd456862 — Independent W52 review: merged renewal localization and complete audit returns](../records/0157.md#local-section-9b0bb4a96fa8a747cd456862-7a22f21322)
 - [local-section:9b1de17dfa1bf3453bc4390c — 7. Physical endpoint, sharp shortening cutoffs and free shifts](../records/0157.md#local-section-9b1de17dfa1bf3453bc4390c-a0010c07be)
-- [local-section:9b2b8c4ea8f0b57b66d19aa3 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction](../records/0157.md#local-section-9b2b8c4ea8f0b57b66d19aa3-26dc29beda)

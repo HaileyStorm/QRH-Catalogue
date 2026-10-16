@@ -2,12 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 39/43; 10582 matching records.
+Page 39/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-38.md)
 
 [Next](status-unknown-b23a6a8439-40.md)
 
+- [local-section:f83e0e895e94ce63aeca44be — \[research revision\]: signed logarithms and exact causal readout](../records/0169.md#local-section-f83e0e895e94ce63aeca44be-41f97d423b)
+- [local-section:f8492a78d04a7130fbfbdc73 — HCR11. Exact easy bound and its failed inequality](../records/0169.md#local-section-f8492a78d04a7130fbfbdc73-9eee9848cb)
 - [local-section:f86d2ff7532ec9d38faa2c6a — 2. Native JN translation theorem and required correction](../records/0169.md#local-section-f86d2ff7532ec9d38faa2c6a-aea2236cfa)
 - [local-section:f870cb353a6130b547daa8e5 — 4. The arithmetic pointwise bound survives the full prefix audit](../records/0169.md#local-section-f870cb353a6130b547daa8e5-64560e8124)
 - [local-section:f8733caf9ff610bdfa9a0b2a — The complete c7 endpoint](../records/0169.md#local-section-f8733caf9ff610bdfa9a0b2a-8c34d6fc25)
@@ -35,8 +37,8 @@ Page 39/43; 10582 matching records.
 - [local-section:fb465bc484d320972e92520e — A.4 Remaining sufficient input and credit](../records/0169.md#local-section-fb465bc484d320972e92520e-791717a3ed)
 - [local-section:fb5d01f6046d81fce23a5af9 — W50: exact energy return and the cost of a prime-phase trace](../records/0169.md#local-section-fb5d01f6046d81fce23a5af9-a1c63c46fc)
 - [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
-- [local-section:fb65af9e764b858d998f91e4 — Explicit endpoint constants for the common fixed filter](../records/0169.md#local-section-fb65af9e764b858d998f91e4-279bc3d539)
-- [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0169.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
+- [local-section:fb65af9e764b858d998f91e4 — Explicit endpoint constants for the common fixed filter](../records/0170.md#local-section-fb65af9e764b858d998f91e4-279bc3d539)
+- [local-section:fb9df2e0588e5cebd846a542 — 6. Every card's final disposition](../records/0170.md#local-section-fb9df2e0588e5cebd846a542-b71337a841)
 - [local-section:fc0234a9a00a786dcde76465 — The actual close-point Gram and its normalization](../records/0170.md#local-section-fc0234a9a00a786dcde76465-f900fe1880)
 - [local-section:fc2a5cf2a3f2bb2df1f34341 — 62. Complete fixed-depth chain payment](../records/0170.md#local-section-fc2a5cf2a3f2bb2df1f34341-ef70910118)
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0170.md#local-section-fc2c99a526ece62caf359d66-9738608419)
@@ -114,8 +116,8 @@ Page 39/43; 10582 matching records.
 - [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0171.md#local-g106-3b75d799b8)
 - [local:G107 — G107. Exact divisor elimination and the real-cutoff repair](../records/0171.md#local-g107-5d5cd18dce)
 - [local:G108 — G108. Complete prime-block interactions and descendant errors](../records/0171.md#local-g108-f378462f08)
-- [local:G109 — G109. Fixed countable banks, exact buffering and the complete source](../records/0171.md#local-g109-fab6e1e2f7)
-- [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0171.md#local-g110-07e53448ee)
+- [local:G109 — G109. Fixed countable banks, exact buffering and the complete source](../records/0172.md#local-g109-fab6e1e2f7)
+- [local:G110 — G110. The canonical amplitude-conditioned theorem](../records/0172.md#local-g110-07e53448ee)
 - [local:G112 — G112. Coalescence does not lower the independent-defect power cost](../records/0172.md#local-g112-576f044b32)
 - [local:G113 — G113. Actual signed profiles buy logarithms, with exact limits](../records/0172.md#local-g113-6c10bbc310)
 - [local:G115 — 3. G115: complete cutoffs agree at the actual zero](../records/0172.md#local-g115-d13affe636)
@@ -186,8 +188,8 @@ Page 39/43; 10582 matching records.
 - [local:G205 — G205: small cube cores with paid sixth-power punctures](../records/0172.md#local-g205-927f8dbb85)
 - [local:G206 — G206: enlarged caps tied to the original a-dyad](../records/0172.md#local-g206-3ab0f52f50)
 - [local:G207 — G207: full product, collisions and weighted removal](../records/0172.md#local-g207-3c636df55b)
-- [local:G208 — G208: exact pair mass and a fifth actual row class](../records/0172.md#local-g208-e7dcec8556)
-- [local:G209 — G209. All thirteen collision types and the exact mixed-order source](../records/0172.md#local-g209-c243fafc07)
+- [local:G208 — G208: exact pair mass and a fifth actual row class](../records/0173.md#local-g208-e7dcec8556)
+- [local:G209 — G209. All thirteen collision types and the exact mixed-order source](../records/0173.md#local-g209-c243fafc07)
 - [local:G210 — G210. Unequal energies and all collision-label sums](../records/0173.md#local-g210-2b166add49)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0173.md#local-g212-6e2dec84ed)
@@ -256,5 +258,3 @@ Page 39/43; 10582 matching records.
 - [pr26:Analytic.ActualAllocatedErrorUniform — Analytic.ActualAllocatedErrorUniform](../records/0174.md#pr26-analytic-actualallocatederroruniform-61f18a366e)
 - [pr26:Analytic.ActualAllocatedErrorUniformFull — Analytic.ActualAllocatedErrorUniformFull](../records/0174.md#pr26-analytic-actualallocatederroruniformfull-deb92dd92a)
 - [pr26:Analytic.ActualAllocatedErrors — Analytic.ActualAllocatedErrors](../records/0174.md#pr26-analytic-actualallocatederrors-73f489e593)
-- [pr26:Analytic.ActualAllocatedErrorsFull — Analytic.ActualAllocatedErrorsFull](../records/0174.md#pr26-analytic-actualallocatederrorsfull-630e7860fe)
-- [pr26:Analytic.ActualBinnedUniform — Analytic.ActualBinnedUniform](../records/0174.md#pr26-analytic-actualbinneduniform-680a7ce9af)

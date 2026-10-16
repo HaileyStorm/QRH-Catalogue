@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 25/43; 10582 matching records.
+Page 25/43; 10584 matching records.
 
 [Previous](status-unknown-b23a6a8439-24.md)
 
@@ -128,6 +128,8 @@ Page 25/43; 10582 matching records.
 - [QRH-CONT-R039-CONDITIONED-PRIME-TILTS — Conditioned short-prime moment tilts with zero-bin and width costs](../records/0131.md#qrh-cont-r039-conditioned-prime-tilts-86da57966b)
 - [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
 - [QRH-CONT-R043-MATCHED-PRIME-SECTORS — Matched prime sectors on the complete natural source and literal first Poisson transform](../records/0131.md#qrh-cont-r043-matched-prime-sectors-18312dd464)
+- [QRH-CONT-R046-MARKED-RECTANGLE — Marked rectangle comparison and signed second-Poisson return](../records/0131.md#qrh-cont-r046-marked-rectangle-6a2023bde2)
+- [QRH-CONT-R048-COUPLED-SHORT-DETECTOR — Complete coupled short-window detector before dyadic selection](../records/0131.md#qrh-cont-r048-coupled-short-detector-08dfda4a82)
 - [exact-source:0017cd4ac1c1b486d44db640 — Exact source span: dd4aed8124f9 lines 175–175](../records/0131.md#exact-source-0017cd4ac1c1b486d44db640-d9ad901cae)
 - [exact-source:0034e41db97d6416963dcf7f — Exact source span: 3582859b4716 lines 713–747](../records/0131.md#exact-source-0034e41db97d6416963dcf7f-29360534d8)
 - [exact-source:00e55c4bc0250e01c45ac11c — Exact source span: c750f6364171 lines 174–230](../records/0131.md#exact-source-00e55c4bc0250e01c45ac11c-788ef64e02)
@@ -188,8 +190,8 @@ Page 25/43; 10582 matching records.
 - [exact-source:193d58fbc195ae2af203c248 — Exact source span: 453f13690716 lines 234–247](../records/0131.md#exact-source-193d58fbc195ae2af203c248-8ab46248d8)
 - [exact-source:1ab29db0d9cf654f8d8abbb3 — Exact source span: 11ed4ae5fc39 lines 199–221](../records/0131.md#exact-source-1ab29db0d9cf654f8d8abbb3-d1291a4b70)
 - [exact-source:1af0b00400bfc813cb4e85d0 — Exact source span: dd4aed8124f9 lines 407–407](../records/0131.md#exact-source-1af0b00400bfc813cb4e85d0-ef980f4ee3)
-- [exact-source:1b5c39b6dfd522691e823d4b — Exact source span: dd4aed8124f9 lines 895–895](../records/0131.md#exact-source-1b5c39b6dfd522691e823d4b-3d58bedd62)
-- [exact-source:1b9d03c84c82f9558bd2e5e4 — Exact source span: e5205bfc0ee9 lines 166–232](../records/0131.md#exact-source-1b9d03c84c82f9558bd2e5e4-7a2db8b76f)
+- [exact-source:1b5c39b6dfd522691e823d4b — Exact source span: dd4aed8124f9 lines 895–895](../records/0132.md#exact-source-1b5c39b6dfd522691e823d4b-3d58bedd62)
+- [exact-source:1b9d03c84c82f9558bd2e5e4 — Exact source span: e5205bfc0ee9 lines 166–232](../records/0132.md#exact-source-1b9d03c84c82f9558bd2e5e4-7a2db8b76f)
 - [exact-source:1c20dd143cdfa05bccc540d2 — Exact source span: e5205bfc0ee9 lines 121–165](../records/0132.md#exact-source-1c20dd143cdfa05bccc540d2-8302d3d62f)
 - [exact-source:1c5c9820a88a3f614888c9ce — Exact source span: 2b4c67c3e817 lines 1103–1105](../records/0132.md#exact-source-1c5c9820a88a3f614888c9ce-040f100320)
 - [exact-source:1c71f54ff0bf57379c1560ba — Exact source span: dd4aed8124f9 lines 145–145](../records/0132.md#exact-source-1c71f54ff0bf57379c1560ba-e250bb7806)
@@ -256,5 +258,3 @@ Page 25/43; 10582 matching records.
 - [exact-source:37312488fe36cbe2c1bcbcb7 — Exact source span: dd4aed8124f9 lines 255–255](../records/0132.md#exact-source-37312488fe36cbe2c1bcbcb7-5a092ce06c)
 - [exact-source:377357f32e0cbfef9a99124e — Exact source span: e35dbe7b205d lines 9–13](../records/0132.md#exact-source-377357f32e0cbfef9a99124e-c7fe94bc4a)
 - [exact-source:37a37c39efb64199c6210689 — Exact source span: dd4aed8124f9 lines 334–334](../records/0132.md#exact-source-37a37c39efb64199c6210689-f3b7d0c7c5)
-- [exact-source:37c948335205c53625a9be28 — Exact source span: c8b9994d6a55 lines 4171–4171](../records/0132.md#exact-source-37c948335205c53625a9be28-6fbcd28a70)
-- [exact-source:38373d49ef35c1ca30a8a9b6 — Exact source span: 5c4a5571174c lines 151–155](../records/0132.md#exact-source-38373d49ef35c1ca30a8a9b6-ff98ddfad2)

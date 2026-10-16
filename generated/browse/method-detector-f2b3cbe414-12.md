@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 12/12; 2896 matching records.
+Page 12/12; 2897 matching records.
 
 [Previous](method-detector-f2b3cbe414-11.md)
 
+- [pr26:Global.Transport.PhysicalSmallTail::small_original_physical_tail@222 — small_original_physical_tail](../records/0211.md#pr26-global-transport-physicalsmalltail-small-original-physical-t-f437d83ca2)
 - [pr26:Global.Transport.PrincipalRemainderBounds::active_prime_sum_bound@553 — active_prime_sum_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-active-prime-sum-b-1faa078892)
-- [pr26:Global.Transport.PrincipalRemainderBounds::full_scale_bound@817 — full_scale_bound](../records/0211.md#pr26-global-transport-principalremainderbounds-full-scale-bound-8-e506fef687)
+- [pr26:Global.Transport.PrincipalRemainderBounds::full_scale_bound@817 — full_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-full-scale-bound-8-e506fef687)
 - [pr26:Global.Transport.PrincipalRemainderBounds::full_vertical_scale_bound@934 — full_vertical_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-full-vertical-scal-d0bd1f91d5)
 - [pr26:Global.Transport.PrincipalRemainderBounds::ordered_remainders_scale_bound@1005 — ordered_remainders_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-ordered-remainders-b11f0eb0e3)
 - [pr26:Global.Transport.PrincipalRemainderBounds::residue_scale_bound@872 — residue_scale_bound](../records/0212.md#pr26-global-transport-principalremainderbounds-residue-scale-boun-4ac185413a)
@@ -91,7 +92,7 @@ Page 12/12; 2896 matching records.
 - [pr26:Global.Transport.PrincipalRemainderTransport::source_initial_placement@468 — source_initial_placement](../records/0213.md#pr26-global-transport-principalremaindertransport-source-initial--7891d96632)
 - [pr26:Global.Transport.PrincipalSignal::normalized_source_double_residue@1166 — normalized_source_double_residue](../records/0213.md#pr26-global-transport-principalsignal-normalized-source-double-re-bb3e793922)
 - [pr26:Global.Transport.PrincipalSignal::sourceResidueIntegral_normalized@1192 — sourceResidueIntegral_normalized](../records/0213.md#pr26-global-transport-principalsignal-sourceresidueintegral-norma-72e810f91a)
-- [pr26:Global.Transport.SmallTail::small_physical_dyads_sum@692 — small_physical_dyads_sum](../records/0213.md#pr26-global-transport-smalltail-small-physical-dyads-sum-692-3401a8bad7)
+- [pr26:Global.Transport.SmallTail::small_physical_dyads_sum@692 — small_physical_dyads_sum](../records/0214.md#pr26-global-transport-smalltail-small-physical-dyads-sum-692-3401a8bad7)
 - [pr26:Global.Transport.SourceAmplitudeClasses::actual_source_amplitude_batches@751 — actual_source_amplitude_batches](../records/0214.md#pr26-global-transport-sourceamplitudeclasses-actual-source-amplit-3a83456190)
 - [pr26:Global.Weighted.SourceFinish::weighted_source_normalized_fullW_of_integrated@96 — weighted_source_normalized_fullW_of_integrated](../records/0214.md#pr26-global-weighted-sourcefinish-weighted-source-normalized-full-413001afe4)
 - [pr26:Global.Weighted.SourceScalar::weighted_source_scalar_on_rows@1226 — weighted_source_scalar_on_rows](../records/0214.md#pr26-global-weighted-sourcescalar-weighted-source-scalar-on-rows--c0c4267e94)
@@ -134,7 +135,7 @@ Page 12/12; 2896 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::detector_certified_bands@777 — detector_certified_bands](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-3f9ace9912)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport::actual_nonfloor_probe_transport@299 — actual_nonfloor_probe_transport](../records/0215.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-actu-e2db3e405e)
-- [pr26:Physical.ActualPacketUniform::actual_label_half_packet_bin_bound_uniform@707 — actual_label_half_packet_bin_bound_uniform](../records/0215.md#pr26-physical-actualpacketuniform-actual-label-half-packet-bin-bo-4cb310bf95)
+- [pr26:Physical.ActualPacketUniform::actual_label_half_packet_bin_bound_uniform@707 — actual_label_half_packet_bin_bound_uniform](../records/0216.md#pr26-physical-actualpacketuniform-actual-label-half-packet-bin-bo-4cb310bf95)
 - [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0216.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0216.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0216.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
@@ -150,5 +151,5 @@ Page 12/12; 2896 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Exceptional::source_retained_plain_eq@811 — source_retained_plain_eq](../records/0216.md#pr26-zetazerofree-analytic-moments-exceptional-source-retained-pl-64b94d810a)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::zeroMaximum_le_one@598 — zeroMaximum_le_one](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-zeromaximum-le-o-67669608b4)
 - [review:A06 — \[research revision\]-review:A06](../records/0217.md#review-a06-70a2aae45c)
-- [review:A14 — \[research revision\]-review:A14](../records/0217.md#review-a14-9001c6dd5f)
+- [review:A14 — \[research revision\]-review:A14](../records/0218.md#review-a14-9001c6dd5f)
 - [reviewed-claim:A14-full-probe-certificate — \[research revision\]-claim:A14-full-probe-certificate](../records/0218.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)

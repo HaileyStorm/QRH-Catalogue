@@ -2,12 +2,13 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/3; 699 matching records.
+Page 2/3; 700 matching records.
 
 [Previous](object-signed-energy-c52ce005f6-01.md)
 
 [Next](object-signed-energy-c52ce005f6-03.md)
 
+- [local-section:60c5b9cf6d8978b985a101ec — 16. The principal signal, Gaussian and full prime tails](../records/0149.md#local-section-60c5b9cf6d8978b985a101ec-57dcf1a715)
 - [local-section:60d12467105226cc9f0e60ee — G157. Repeated-prime support and the exact remaining estimate](../records/0149.md#local-section-60d12467105226cc9f0e60ee-dd7a313a47)
 - [local-section:61ee22b4c5aa95342e503462 — 8. All30 retained dispositions and remaining actions](../records/0149.md#local-section-61ee22b4c5aa95342e503462-2a46685d45)
 - [local-section:61faa04014d526c968d73ecc — \[research revision\] discovery-first source pass — quantitative short windows and a calibrated multiplicative obstruction](../records/0150.md#local-section-61faa04014d526c968d73ecc-c78c487750)
@@ -71,7 +72,7 @@ Page 2/3; 699 matching records.
 - [local-section:7681d5c8b88a8eacc362c417 — Current result and exact missing arithmetic](../records/0152.md#local-section-7681d5c8b88a8eacc362c417-e64f63e0fe)
 - [local-section:76b413ee7c29f89fb1395eb8 — 1. Verdict](../records/0152.md#local-section-76b413ee7c29f89fb1395eb8-3e8cda31af)
 - [local-section:77621536de281bc326a5f709 — R42.9. Protected parked audit24: exterior response and a sourced repair](../records/0152.md#local-section-77621536de281bc326a5f709-49ed615d5b)
-- [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0152.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
+- [local-section:78367826554f0187282e14bf — \[research revision\] independent review: reciprocal Hankel determinant and its exact return](../records/0153.md#local-section-78367826554f0187282e14bf-5dbd9a4a00)
 - [local-section:78a74daef16a3c7d605c2cd1 — G204: small square cores with unrestricted cubic rows](../records/0153.md#local-section-78a74daef16a3c7d605c2cd1-2cb00d3281)
 - [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0153.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
 - [local-section:79162b33416cd45dbf7b5a7e — Complete card disposition and semantic ancestry](../records/0153.md#local-section-79162b33416cd45dbf7b5a7e-0668bac7fa)
@@ -92,7 +93,7 @@ Page 2/3; 699 matching records.
 - [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0153.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)
 - [local-section:7f2ad4025de689780cd43bef — 2. A: independent proof audit and exact limits](../records/0153.md#local-section-7f2ad4025de689780cd43bef-4b7560623e)
 - [local-section:7f54c68548454261907b4b6e — Independent review: fixed-phase cofactor theorem and degree12 source](../records/0153.md#local-section-7f54c68548454261907b4b6e-2baebb203d)
-- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0153.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
+- [local-section:7f5db1855cdcd3862cd9fbe1 — Independent Sol High review of post52 batch02](../records/0154.md#local-section-7f5db1855cdcd3862cd9fbe1-d02aa0d6e4)
 - [local-section:7f8768350715c8448ed5f016 — 1. Verdict and precise scope](../records/0154.md#local-section-7f8768350715c8448ed5f016-c56910189c)
 - [local-section:7fa1be99059fd3179b350f04 — 4. C/S10: protected rare signed renewal development](../records/0154.md#local-section-7fa1be99059fd3179b350f04-42f2716b14)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0154.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
@@ -186,7 +187,7 @@ Page 2/3; 699 matching records.
 - [local-section:a4f469a495209eee1992ebb4 — W54 independent review: exact prediction target, paid source, unpaid arithmetic](../records/0158.md#local-section-a4f469a495209eee1992ebb4-5f75eb0d8d)
 - [local-section:a569610f4222f38e9709416a — 9. Fixed-power late flow and the square-root critical profile](../records/0158.md#local-section-a569610f4222f38e9709416a-e2cf2336a8)
 - [local-section:a59651368d16bba669a579fa — 9. Exact remaining signed target and quantitative implication](../records/0158.md#local-section-a59651368d16bba669a579fa-c97cc57b61)
-- [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0158.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
+- [local-section:a5df951a0a0eed7830e85ac5 — Wild39: local small-value sets, signed variance and tensor boundaries](../records/0159.md#local-section-a5df951a0a0eed7830e85ac5-186df59ce1)
 - [local-section:a5f0a6009bd4c52b7ec366eb — C. Strong objection: the actual output is not power-small](../records/0159.md#local-section-a5f0a6009bd4c52b7ec366eb-86e06d971a)
 - [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0159.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
 - [local-section:a6d99b6c11372dc2112b2b43 — 3. Survivors11/22: an exact signed Walsh codec with a paid tail](../records/0159.md#local-section-a6d99b6c11372dc2112b2b43-7b00634ba8)
@@ -235,7 +236,7 @@ Page 2/3; 699 matching records.
 - [local-section:bd04c6881f45762ac4dce089 — N27 — Finite incidence, including its completed version](../records/0161.md#local-section-bd04c6881f45762ac4dce089-67ea4012f3)
 - [local-section:bd093ffc07bb980b6539c01f — \[research revision\] independent review: fixed-ratio source obstruction and paired detectors](../records/0161.md#local-section-bd093ffc07bb980b6539c01f-622992f78c)
 - [local-section:bd37fe163094f460c8f6a0f2 — \[research revision\] independent review of the merged GPT6-Pro consultation](../records/0161.md#local-section-bd37fe163094f460c8f6a0f2-bb4dc2ff92)
-- [local-section:bd986abf1d40776357356e8f — Independent R4 review: original-color cubic sieve after primitive Poisson](../records/0161.md#local-section-bd986abf1d40776357356e8f-44976a7b40)
+- [local-section:bd986abf1d40776357356e8f — Independent R4 review: original-color cubic sieve after primitive Poisson](../records/0162.md#local-section-bd986abf1d40776357356e8f-44976a7b40)
 - [local-section:be0081459040704122b05132 — R2. Source reconstruction, multiplicities and absolute control](../records/0162.md#local-section-be0081459040704122b05132-5c61895864)
 - [local-section:bea548f2f1a8d6ca89977580 — 7. Evidence, ancestry, and disposition](../records/0162.md#local-section-bea548f2f1a8d6ca89977580-231bf99c25)
 - [local-section:bf451892beb8cb3ad76b136f — \[research revision\] joint-window: independent source review and a smaller joint-cut core](../records/0162.md#local-section-bf451892beb8cb3ad76b136f-1c39867815)
@@ -257,4 +258,3 @@ Page 2/3; 699 matching records.
 - [local-section:c3ae233187d43cadc96fa4a4 — Sol03 independent Sol High review](../records/0162.md#local-section-c3ae233187d43cadc96fa4a4-9a7d63e34e)
 - [local-section:c436363d1f02e484fddccc56 — 5. Raw roots, masks, exceptional cores and the complement](../records/0162.md#local-section-c436363d1f02e484fddccc56-1c7ab87a48)
 - [local-section:c4ab52ba58d3b91e0c3bc25d — D12 / S12: accept the conditional same-exponent return](../records/0162.md#local-section-c4ab52ba58d3b91e0c3bc25d-9f62cb3eb5)
-- [local-section:c51e9e04d8f796d976c208d5 — Evidence, novelty and next mathematical action](../records/0162.md#local-section-c51e9e04d8f796d976c208d5-561d4e4183)

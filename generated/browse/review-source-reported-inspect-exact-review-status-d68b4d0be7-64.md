@@ -2,12 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 64/71; 17529 matching records.
+Page 64/71; 17531 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-63.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-65.md)
 
+- [pr26:Cycle25.Energy.ReferenceLowBranchGeometry::reflected_low@251 — reflected_low](../records/0200.md#pr26-cycle25-energy-referencelowbranchgeometry-reflected-low-251-424ccecf59)
+- [pr26:Cycle25.Energy.ReferenceLowBranchGeometry::reflected_low_admissible@311 — reflected_low_admissible](../records/0200.md#pr26-cycle25-energy-referencelowbranchgeometry-reflected-low-admi-dfc12a1b07)
 - [pr26:Cycle25.Energy.ReferenceLowBranchGeometry::slot_budgets@245 — slot_budgets](../records/0200.md#pr26-cycle25-energy-referencelowbranchgeometry-slot-budgets-245-ec5e42d70d)
 - [pr26:Cycle25.Energy.ReferenceLowDeletedGeometry — Cycle25.Energy.ReferenceLowDeletedGeometry](../records/0200.md#pr26-cycle25-energy-referencelowdeletedgeometry-fdbc9dba3b)
 - [pr26:Cycle25.Energy.ReferenceLowDeletedGeometry::actual_deleted_gates@439 — actual_deleted_gates](../records/0200.md#pr26-cycle25-energy-referencelowdeletedgeometry-actual-deleted-ga-fff286cc59)
@@ -37,8 +39,8 @@ Page 64/71; 17529 matching records.
 - [pr26:Cycle25.Numerator.ActualBin — Cycle25.Numerator.ActualBin](../records/0200.md#pr26-cycle25-numerator-actualbin-9d7e2559b9)
 - [pr26:Cycle25.Numerator.ActualBin::actual_label_packet_bin_bound@210 — actual_label_packet_bin_bound](../records/0200.md#pr26-cycle25-numerator-actualbin-actual-label-packet-bin-bound-21-5522b07d10)
 - [pr26:Cycle25.Numerator.ActualBin::errorLabelNumerator_eq_packet@308 — errorLabelNumerator_eq_packet](../records/0200.md#pr26-cycle25-numerator-actualbin-errorlabelnumerator-eq-packet-30-58a6873c1e)
-- [pr26:Cycle25.Numerator.ActualBin::labelPolynomialPacket@199 — labelPolynomialPacket](../records/0200.md#pr26-cycle25-numerator-actualbin-labelpolynomialpacket-199-4c65b48ad0)
-- [pr26:Cycle25.Numerator.AmplitudeHolder — Cycle25.Numerator.AmplitudeHolder](../records/0200.md#pr26-cycle25-numerator-amplitudeholder-51ec49e247)
+- [pr26:Cycle25.Numerator.ActualBin::labelPolynomialPacket@199 — labelPolynomialPacket](../records/0201.md#pr26-cycle25-numerator-actualbin-labelpolynomialpacket-199-4c65b48ad0)
+- [pr26:Cycle25.Numerator.AmplitudeHolder — Cycle25.Numerator.AmplitudeHolder](../records/0201.md#pr26-cycle25-numerator-amplitudeholder-51ec49e247)
 - [pr26:Cycle25.Numerator.AmplitudeHolder::rpow_fourth@192 — rpow_fourth](../records/0201.md#pr26-cycle25-numerator-amplitudeholder-rpow-fourth-192-78d6a4e843)
 - [pr26:Cycle25.Numerator.AmplitudeHolder::weighted_amplitude_bin@197 — weighted_amplitude_bin](../records/0201.md#pr26-cycle25-numerator-amplitudeholder-weighted-amplitude-bin-197-e315f096a5)
 - [pr26:Cycle25.Numerator.AmplitudeHolder::weighted_dilation_bin@251 — weighted_dilation_bin](../records/0201.md#pr26-cycle25-numerator-amplitudeholder-weighted-dilation-bin-251-884ca3e1f1)
@@ -137,8 +139,8 @@ Page 64/71; 17529 matching records.
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction — Cycle25.Numerator.Imported.FullWReconstruction](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-8f6ea23b4f)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::finiteFullW_reconstruction@409 — finiteFullW_reconstruction](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-finitefullw-r-c8c93b26d0)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::fullW_factored_integral@384 — fullW_factored_integral](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-fullw-factore-abf67588fb)
-- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::fullW_inner_integrable@377 — fullW_inner_integrable](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-fullw-inner-i-b51ab43549)
-- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::integratedDyadValue@401 — integratedDyadValue](../records/0201.md#pr26-cycle25-numerator-imported-fullwreconstruction-integrateddya-f2cebb66df)
+- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::fullW_inner_integrable@377 — fullW_inner_integrable](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-fullw-inner-i-b51ab43549)
+- [pr26:Cycle25.Numerator.Imported.FullWReconstruction::integratedDyadValue@401 — integratedDyadValue](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-integrateddya-f2cebb66df)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::integratedRowValue@353 — integratedRowValue](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-integratedrow-3d6ee24d90)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::rowNumeratorIntegral@345 — rowNumeratorIntegral](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-rownumeratori-32e1d9ea9f)
 - [pr26:Cycle25.Numerator.Imported.FullWReconstruction::sourceSZWeight@341 — sourceSZWeight](../records/0202.md#pr26-cycle25-numerator-imported-fullwreconstruction-sourceszweigh-8424c0af60)
@@ -237,8 +239,8 @@ Page 64/71; 17529 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::eulerScale@674 — eulerScale](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-eulerscal-0b1f33a515)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::eulerScale_one_le@697 — eulerScale_one_le](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-eulerscal-da5cd12517)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::eulerTerm@595 — eulerTerm](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-eulerterm-0f6c2ed278)
-- [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::eulerTerm_mellin@684 — eulerTerm_mellin](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-eulerterm-9b92a5c0d5)
-- [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_coefficient_weight_eq@703 — euler_coefficient_weight_eq](../records/0202.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-coe-87ce318a47)
+- [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::eulerTerm_mellin@684 — eulerTerm_mellin](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-eulerterm-9b92a5c0d5)
+- [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_coefficient_weight_eq@703 — euler_coefficient_weight_eq](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-coe-87ce318a47)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_coefficients_summable_weight@713 — euler_coefficients_summable_weight](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-coe-d26c6a15ac)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_expansion_eq_tprod@636 — euler_expansion_eq_tprod](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-exp-a4dd201a44)
 - [pr26:Cycle25.Numerator.Imported.NumeratorEulerExpansion::euler_expansion_hasProd@628 — euler_expansion_hasProd](../records/0203.md#pr26-cycle25-numerator-imported-numeratoreulerexpansion-euler-exp-0c04a8b534)
@@ -256,5 +258,3 @@ Page 64/71; 17529 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::error_product_coefficient_mass@525 — error_product_coefficient_mass](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-error-produ-6aad158e10)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::error_product_expansion@508 — error_product_expansion](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-error-produ-e76b36ddd9)
 - [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteCoefficient@453 — finiteCoefficient](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitecoeff-caaf29959a)
-- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteScale@456 — finiteScale](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitescale-2340483ded)
-- [pr26:Cycle25.Numerator.Imported.NumeratorFinitePacket::finiteScale_one_le@459 — finiteScale_one_le](../records/0203.md#pr26-cycle25-numerator-imported-numeratorfinitepacket-finitescale-a2062944d0)
