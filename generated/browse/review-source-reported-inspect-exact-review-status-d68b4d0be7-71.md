@@ -2,10 +2,13 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17520 matching records.
+Page 71/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [reviewed-claim:T08-fixed-buffer — \[research revision\]-claim:T08-fixed-buffer](../records/0218.md#reviewed-claim-t08-fixed-buffer-adde43a7ae)
+- [reviewed-claim:T08-rational-targets — \[research revision\]-claim:T08-rational-targets](../records/0218.md#reviewed-claim-t08-rational-targets-ce0ce086b2)
+- [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0218.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
 - [reviewed-claim:T09-frozen-balanced-form — \[research revision\]-claim:T09-frozen-balanced-form](../records/0218.md#reviewed-claim-t09-frozen-balanced-form-4cbdb603b9)
 - [reviewed-claim:T09-full-shift-kernel — \[research revision\]-claim:T09-full-shift-kernel](../records/0218.md#reviewed-claim-t09-full-shift-kernel-98ad734238)

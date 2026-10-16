@@ -2,10 +2,11 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 931 matching records.
+Page 4/4; 932 matching records.
 
 [Previous](object-zeta-5cc10d9143-03.md)
 
+- [local-section:d7bce599375a19d68ffbe816 — QRH research map and attempt index](../records/0165.md#local-section-d7bce599375a19d68ffbe816-f66829f86a)
 - [local-section:d86d5218fbd163c6eaeaa22c — Post52 Sol High02: literal smooth-bin return and physical block innovations](../records/0165.md#local-section-d86d5218fbd163c6eaeaa22c-a70fb3e518)
 - [local-section:d9055d7cc725d514f0ef2ac5 — \[research revision\]: growing quadratic classes in the actual cubic moment](../records/0165.md#local-section-d9055d7cc725d514f0ef2ac5-6d623c73ac)
 - [local-section:d9190ddb030c163ff20b77d1 — 2. Contour rotation and absolute remainder](../records/0165.md#local-section-d9190ddb030c163ff20b77d1-0cc6ed7729)
@@ -17,7 +18,7 @@ Page 4/4; 931 matching records.
 - [local-section:da87209b732847b71462c717 — 3. The actual zeta failure and an independent stronger obstruction](../records/0165.md#local-section-da87209b732847b71462c717-76b63e5273)
 - [local-section:da8ceb9c381b31bb44860e0e — Fixed native H packets: commuting operations still have a mixed bill](../records/0165.md#local-section-da8ceb9c381b31bb44860e0e-aa0b994a60)
 - [local-section:dae2097ca5c421142c1802ba — 4. The finite signed core and paid complements](../records/0165.md#local-section-dae2097ca5c421142c1802ba-0412a17547)
-- [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0165.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
+- [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
 - [local-section:db658d49008adf8499407623 — 5. Complete G34 return, quantitative targets, masks, and both heights](../records/0166.md#local-section-db658d49008adf8499407623-b3e3cb9ffa)
 - [local-section:db8bb80e7644029158625d6a — 8. Quadratic and alternative arithmetic encodings](../records/0166.md#local-section-db8bb80e7644029158625d6a-49aabf638b)
 - [local-section:db99ba545c6ce114485720d4 — 10. Checks, limitations, and handoff boundary](../records/0166.md#local-section-db99ba545c6ce114485720d4-cdb7a82301)
@@ -76,7 +77,7 @@ Page 4/4; 931 matching records.
 - [local-section:f4066d2964ed6d4364c27ce6 — \[research revision\] controller reconstruction](../records/0168.md#local-section-f4066d2964ed6d4364c27ce6-c51823d1b7)
 - [local-section:f42a841878e5f1146653e007 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0168.md#local-section-f42a841878e5f1146653e007-9245de9c38)
 - [local-section:f42d9041e90c854add86b125 — W55: moving Riesz normalization, residue-class matching, and a signed renewal test](../records/0168.md#local-section-f42d9041e90c854add86b125-9255bd903c)
-- [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0168.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
+- [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
 - [local-section:f4c00ae0d4542ca393d821d3 — W58: character-preserving index, paid matching and an integrated Hankel gate](../records/0169.md#local-section-f4c00ae0d4542ca393d821d3-334fd6a2cc)
 - [local-section:f4da81a624985e32cfa1c618 — \[research revision\]: retaining the original plain cap gives c4=.125135](../records/0169.md#local-section-f4da81a624985e32cfa1c618-1d32323501)
 - [local-section:f55f96a1cb9b84710e79e825 — 4. A two-profile packet cancels one Mellin value, not its full component](../records/0169.md#local-section-f55f96a1cb9b84710e79e825-f2f5689af5)
@@ -95,7 +96,7 @@ Page 4/4; 931 matching records.
 - [local-section:fb64e44f337a5c47e8092ce1 — 3. Development15: actual inverse Newton iteration and its complete rough sector](../records/0169.md#local-section-fb64e44f337a5c47e8092ce1-de4b24c512)
 - [local-section:fb65af9e764b858d998f91e4 — Explicit endpoint constants for the common fixed filter](../records/0169.md#local-section-fb65af9e764b858d998f91e4-279bc3d539)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
-- [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0169.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
+- [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0170.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
 - [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0170.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
 - [local-section:fcf26516ad547088eb751edd — Positive cofactor-hole absolute Gram: independent corollary check](../records/0170.md#local-section-fcf26516ad547088eb751edd-a5a177cdb6)
 - [local-section:fe29cc48f18a7ea5c9728c15 — 1. A fixed detector with a complete zero-exclusion return](../records/0170.md#local-section-fe29cc48f18a7ea5c9728c15-30f1e7726c)
@@ -108,7 +109,7 @@ Page 4/4; 931 matching records.
 - [local:F07 — F07. Quadratic principal-square Jacobi detector](../records/0170.md#local-f07-fa0d056a24)
 - [local:F07.C — F07.C — Inverse-cubic Jacobi rational phase t v/(1+v), zero value−1, CRT ideal Möbius](../records/0170.md#local-f07-c-52ad24329e)
 - [local:F08 — F08. Weighted fractional parts and modular residues](../records/0170.md#local-f08-1cd15be4b1)
-- [local:F08.N1 — F08.N1 — Residue-wavelet blocks must be explicit arithmetic combinations, e.g](../records/0170.md#local-f08-n1-d9ecbe86d5)
+- [local:F08.N1 — F08.N1 — Residue-wavelet blocks must be explicit arithmetic combinations, e.g](../records/0171.md#local-f08-n1-d9ecbe86d5)
 - [local:F18 — F18. Short intervals, exceptional rows and amplitude-sensitive bounds](../records/0171.md#local-f18-12da3cf010)
 - [local:F18.X — F18.X — Arithmetic row labels are not zeta ordinates; good-row density does not imply all-height exclusion](../records/0171.md#local-f18-x-33f94e9261)
 - [local:F24 — F24. Left-first and two-sided spectral/Mellin methods](../records/0171.md#local-f24-ce3e45fce5)
@@ -136,8 +137,8 @@ Page 4/4; 931 matching records.
 - [local:G201 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0172.md#local-g201-653f9140ed)
 - [local:G202 — G202. Centered quotient norm and one fixed cumulative source](../records/0172.md#local-g202-0d8b3cdd46)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0172.md#local-g215-a9fc13c4f5)
-- [local:G216 — G216. Exact recovery, actual absolute cost and complete diagonal](../records/0172.md#local-g216-ffe0a34c47)
-- [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0172.md#local-g218-72ef21b6b0)
+- [local:G216 — G216. Exact recovery, actual absolute cost and complete diagonal](../records/0173.md#local-g216-ffe0a34c47)
+- [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G221 — G221. The user's quaternion identity on the actual Jordan source](../records/0173.md#local-g221-56d05db393)
 - [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0173.md#local-g229-8b209e3b2b)
 - [local:G235 — G235. Arbitrary-power short-cofactor localization of the complete nonlinear signed source](../records/0173.md#local-g235-73d71ef355)

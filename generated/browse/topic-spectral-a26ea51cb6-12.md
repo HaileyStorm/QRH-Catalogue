@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 12/13; 3033 matching records.
+Page 12/13; 3034 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-11.md)
 
 [Next](topic-spectral-a26ea51cb6-13.md)
 
+- [pr26:Analytic.JointLowComplete::actual_joint_low_contribution@795 — actual_joint_low_contribution](../records/0187.md#pr26-analytic-jointlowcomplete-actual-joint-low-contribution-795-6bc5b994dd)
 - [pr26:Analytic.JointLowComplete::actual_joint_low_full_moment@714 — actual_joint_low_full_moment](../records/0187.md#pr26-analytic-jointlowcomplete-actual-joint-low-full-moment-714-84e90c48d4)
 - [pr26:Analytic.JointLowFirstBins::actual_first_low_bins_sum@649 — actual_first_low_bins_sum](../records/0187.md#pr26-analytic-jointlowfirstbins-actual-first-low-bins-sum-649-b9d2f6bfdc)
 - [pr26:Analytic.JointLowFirstBlocks::firstLowBinBlock@798 — firstLowBinBlock](../records/0187.md#pr26-analytic-jointlowfirstblocks-firstlowbinblock-798-6c54057f4b)
@@ -32,7 +33,7 @@ Page 12/13; 3033 matching records.
 - [pr26:Analytic.JointOriginalComparisonActual::actual_local_comparison_energy@387 — actual_local_comparison_energy](../records/0189.md#pr26-analytic-jointoriginalcomparisonactual-actual-local-comparis-5907cb25b8)
 - [pr26:Analytic.JointOriginalComparisonExplicitMesh::actual_local_comparison_energy_explicit_mesh@672 — actual_local_comparison_energy_explicit_mesh](../records/0189.md#pr26-analytic-jointoriginalcomparisonexplicitmesh-actual-local-co-b0d7a60ca4)
 - [pr26:Analytic.JointRelativeDictionary::actual_joint_relative_density@275 — actual_joint_relative_density](../records/0189.md#pr26-analytic-jointrelativedictionary-actual-joint-relative-densi-d1fa4156d5)
-- [pr26:Analytic.JointRelativeDictionary::jointRelative_selected_mem_rawZeroBin@355 — jointRelative_selected_mem_rawZeroBin](../records/0189.md#pr26-analytic-jointrelativedictionary-jointrelative-selected-mem--df4cec93dc)
+- [pr26:Analytic.JointRelativeDictionary::jointRelative_selected_mem_rawZeroBin@355 — jointRelative_selected_mem_rawZeroBin](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-selected-mem--df4cec93dc)
 - [pr26:Analytic.JointRetainedTransport::allocatedPositiveRow_natural_transport@989 — allocatedPositiveRow_natural_transport](../records/0190.md#pr26-analytic-jointretainedtransport-allocatedpositiverow-natural-914049578b)
 - [pr26:Cycle25.Assembly.Continuation::beta_le_of_common_probe@959 — beta_le_of_common_probe](../records/0196.md#pr26-cycle25-assembly-continuation-beta-le-of-common-probe-959-f7be941520)
 - [pr26:Cycle25.Assembly.Continuation::dirichlet_of_hecke@990 — dirichlet_of_hecke](../records/0196.md#pr26-cycle25-assembly-continuation-dirichlet-of-hecke-990-77450d9c9f)
@@ -67,7 +68,7 @@ Page 12/13; 3033 matching records.
 - [pr26:Cycle25.Numerator.BoxReconstruction::actual_label_series_norm_summable@1316 — actual_label_series_norm_summable](../records/0201.md#pr26-cycle25-numerator-boxreconstruction-actual-label-series-norm-2b99dc2570)
 - [pr26:Cycle25.Numerator.BoxReconstruction::actual_label_term_zero_of_cutoff@1261 — actual_label_term_zero_of_cutoff](../records/0201.md#pr26-cycle25-numerator-boxreconstruction-actual-label-term-zero-o-e827b571ea)
 - [pr26:Cycle25.Numerator.FiniteCollect::reconstructedDyadValue_class_uniform@77 — reconstructedDyadValue_class_uniform](../records/0201.md#pr26-cycle25-numerator-finitecollect-reconstructeddyadvalue-class-9b2f1f7e37)
-- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::coefficient_central_mellin@727 — coefficient_central_mellin](../records/0201.md#pr26-cycle25-numerator-imported-mellinreconstruction-coefficient--22301299fa)
+- [pr26:Cycle25.Numerator.Imported.MellinReconstruction::coefficient_central_mellin@727 — coefficient_central_mellin](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-coefficient--22301299fa)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::plainIntegrand_eq@566 — plainIntegrand_eq](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-plainintegra-8240617f38)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::polynomial_central_mellin@639 — polynomial_central_mellin](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-polynomial-c-a9dd9bd833)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::polynomial_zero_of_scale_cutoff@814 — polynomial_zero_of_scale_cutoff](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-polynomial-z-57382bcf14)
@@ -213,7 +214,7 @@ Page 12/13; 3033 matching records.
 - [pr26:Global.Transport.PrincipalRemainderFiniteProductX::continued_source_differentiable_strip@508 — continued_source_differentiable_strip](../records/0212.md#pr26-global-transport-principalremainderfiniteproductx-continued--776ab03371)
 - [pr26:Global.Transport.PrincipalRemainderNormalized::actual_ray_principal_comparison@429 — actual_ray_principal_comparison](../records/0212.md#pr26-global-transport-principalremaindernormalized-actual-ray-pri-bf4ca35ec6)
 - [pr26:Global.Transport.PrincipalRemainderPhysical::principal_physical_pool_ordered@88 — principal_physical_pool_ordered](../records/0212.md#pr26-global-transport-principalremainderphysical-principal-physic-923c4283c5)
-- [pr26:Global.Transport.PrincipalRemainderPhysicalBounds::physical_principal_residue_remainder@233 — physical_principal_residue_remainder](../records/0212.md#pr26-global-transport-principalremainderphysicalbounds-physical-p-ee6c87d361)
+- [pr26:Global.Transport.PrincipalRemainderPhysicalBounds::physical_principal_residue_remainder@233 — physical_principal_residue_remainder](../records/0213.md#pr26-global-transport-principalremainderphysicalbounds-physical-p-ee6c87d361)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_analytic_w@545 — remainder_globalClosedCorrection_analytic_w](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-globalcl-38ed7b611c)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_analytic_x@530 — remainder_globalClosedCorrection_analytic_x](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-globalcl-919f63942d)
 - [pr26:Global.Transport.PrincipalRemainderRegion::remainder_globalClosedCorrection_analytic_z@561 — remainder_globalClosedCorrection_analytic_z](../records/0213.md#pr26-global-transport-principalremainderregion-remainder-globalcl-a297508f4c)
@@ -257,4 +258,3 @@ Page 12/13; 3033 matching records.
 - [pr26:LocalMoment.SixthRowMask::amplified_zeroMaximum@810 — amplified_zeroMaximum](../records/0214.md#pr26-localmoment-sixthrowmask-amplified-zeromaximum-810-fdb7a6cba2)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
-- [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)

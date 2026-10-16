@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 35/43; 10573 matching records.
+Page 35/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-34.md)
 
 [Next](status-unknown-b23a6a8439-36.md)
 
+- [local-section:a1443f36799de83a732d9f41 — 3. B: full source transport and its actual cost](../records/0158.md#local-section-a1443f36799de83a732d9f41-d007a31e86)
+- [local-section:a144bd08f4cb3688f0b19e74 — The physical improvement](../records/0158.md#local-section-a144bd08f4cb3688f0b19e74-280f0ecd6d)
+- [local-section:a15a6a1c9e8c71ee5b0c60c3 — 5. All30 final dispositions](../records/0158.md#local-section-a15a6a1c9e8c71ee5b0c60c3-231164f80b)
 - [local-section:a16ce4ff3729abbc766ab03e — R11. Verification and handoff status](../records/0158.md#local-section-a16ce4ff3729abbc766ab03e-63d3959e89)
 - [local-section:a17c62e88131927075bc3ca7 — 4. S02: the critical logarithmic prime cutoff with its margin paid](../records/0158.md#local-section-a17c62e88131927075bc3ca7-fb67840937)
 - [local-section:a17f9e68bab4d4555eeaf88f — G174. Actual cutoff boundaries and the price of a positive observation](../records/0158.md#local-section-a17f9e68bab4d4555eeaf88f-83e6e725ae)
@@ -71,9 +74,9 @@ Page 35/43; 10573 matching records.
 - [local-section:a64787345f954944b2ee6f89 — 3. Two dilation filters, sharp frame constants and causal reconstruction](../records/0158.md#local-section-a64787345f954944b2ee6f89-fd83c55460)
 - [local-section:a6664dc20b130f0fc18120ae — W40-24 — Integer cycle-flow cancellation; p=.008](../records/0158.md#local-section-a6664dc20b130f0fc18120ae-8da697d664)
 - [local-section:a682ee5cd8fc2780c738f584 — Sextic rectangle candidate: exact, but insufficient](../records/0158.md#local-section-a682ee5cd8fc2780c738f584-d5b7cbf475)
-- [local-section:a69f4443c647dcc7a24d3bdd — 4. Finite product cap and the entire odd-frequency tail](../records/0158.md#local-section-a69f4443c647dcc7a24d3bdd-07b3b0d0c0)
-- [local-section:a6b186245542142cbdcb8d94 — 1. The imported estimate has the claimed normalization and usable uniformity](../records/0158.md#local-section-a6b186245542142cbdcb8d94-4892932e05)
-- [local-section:a6d99b6c11372dc2112b2b43 — 3. Survivors11/22: an exact signed Walsh codec with a paid tail](../records/0158.md#local-section-a6d99b6c11372dc2112b2b43-7b00634ba8)
+- [local-section:a69f4443c647dcc7a24d3bdd — 4. Finite product cap and the entire odd-frequency tail](../records/0159.md#local-section-a69f4443c647dcc7a24d3bdd-07b3b0d0c0)
+- [local-section:a6b186245542142cbdcb8d94 — 1. The imported estimate has the claimed normalization and usable uniformity](../records/0159.md#local-section-a6b186245542142cbdcb8d94-4892932e05)
+- [local-section:a6d99b6c11372dc2112b2b43 — 3. Survivors11/22: an exact signed Walsh codec with a paid tail](../records/0159.md#local-section-a6d99b6c11372dc2112b2b43-7b00634ba8)
 - [local-section:a6dabf3409ad9596d463bacd — Current checkpoint](../records/0159.md#local-section-a6dabf3409ad9596d463bacd-a9ba44e7a1)
 - [local-section:a6daee9967481dea57db3f77 — Mathematical proof handoff for external formalization](../records/0159.md#local-section-a6daee9967481dea57db3f77-34a3ffee79)
 - [local-section:a7702a9808de9df6474be248 — Development23: source coefficients, exact dual and the surviving signed target](../records/0159.md#local-section-a7702a9808de9df6474be248-d9fc340be6)
@@ -163,8 +166,8 @@ Page 35/43; 10573 matching records.
 - [local-section:ae24a894a18af9497a6f3f03 — 1. Immutable evidence and independence](../records/0159.md#local-section-ae24a894a18af9497a6f3f03-4af53b905f)
 - [local-section:ae2582e0c12178d3cb9d9c69 — 3. Protected S29: a stable prime state still needs a signed observation theorem](../records/0159.md#local-section-ae2582e0c12178d3cb9d9c69-94ce0442f3)
 - [local-section:ae2c65cc6ad827cabebbbbf9 — Pointwise actual-source consequence](../records/0159.md#local-section-ae2c65cc6ad827cabebbbbf9-b993f2f6ed)
-- [local-section:ae2cc2f36ccfdfe97581f8ec — 2. The fixed Gaussian and the interpolation step](../records/0159.md#local-section-ae2cc2f36ccfdfe97581f8ec-d524b8b687)
-- [local-section:ae82ba1104a88be3733a3611 — 7. Actual signs and the terminal Gaussian complement](../records/0159.md#local-section-ae82ba1104a88be3733a3611-6db79f45ec)
+- [local-section:ae2cc2f36ccfdfe97581f8ec — 2. The fixed Gaussian and the interpolation step](../records/0160.md#local-section-ae2cc2f36ccfdfe97581f8ec-d524b8b687)
+- [local-section:ae82ba1104a88be3733a3611 — 7. Actual signs and the terminal Gaussian complement](../records/0160.md#local-section-ae82ba1104a88be3733a3611-6db79f45ec)
 - [local-section:ae8a748f1beb45d909014053 — 3. Stability on every removed block, with all shared prime powers](../records/0160.md#local-section-ae8a748f1beb45d909014053-089021c5a5)
 - [local-section:ae974e5ce8dfbb336fb19926 — 2. Whole coefficient, prior common profile, and exact roots](../records/0160.md#local-section-ae974e5ce8dfbb336fb19926-82033e10b9)
 - [local-section:aeaef0132915daa8b71a3221 — Fixed-cutoff restoration before applying UM](../records/0160.md#local-section-aeaef0132915daa8b71a3221-ec4da9bc51)
@@ -253,8 +256,5 @@ Page 35/43; 10573 matching records.
 - [local-section:b6a7f1f11c36d67becfb44e6 — 5. Complete changed endpoint geometry and shifts](../records/0160.md#local-section-b6a7f1f11c36d67becfb44e6-39a56e5fa1)
 - [local-section:b6a89b87ae2ecd82d976542f — 10. Independent complete endpoint certificate](../records/0160.md#local-section-b6a89b87ae2ecd82d976542f-e1b901da98)
 - [local-section:b6cb507a569c80b770b4ae7a — 61. Fixed phase degrees and a paid bilinear diagonal](../records/0160.md#local-section-b6cb507a569c80b770b4ae7a-608fc5b54d)
-- [local-section:b6d21e68ad3923aa3873f2b8 — G179. Full divisor-projection energy through the within-column cut](../records/0160.md#local-section-b6d21e68ad3923aa3873f2b8-d048808b79)
-- [local-section:b6e2058f75387a60a04969ed — 3.2 Both original heights, without a diagonal-height shortcut](../records/0160.md#local-section-b6e2058f75387a60a04969ed-86eea20109)
-- [local-section:b6fb0c2c1efe4d752ae64271 — T-F05: the natural divisor-poset normal operator squares conditioning](../records/0161.md#local-section-b6fb0c2c1efe4d752ae64271-0b106332ba)
-- [local-section:b7027a41d4d2ae7f454a1d2b — 1. Literal statement](../records/0161.md#local-section-b7027a41d4d2ae7f454a1d2b-f903492e03)
-- [local-section:b7076afcddd00af62bade064 — G135. Exact rank and renewal targets, with their costs retained](../records/0161.md#local-section-b7076afcddd00af62bade064-f72d3479b4)
+- [local-section:b6d21e68ad3923aa3873f2b8 — G179. Full divisor-projection energy through the within-column cut](../records/0161.md#local-section-b6d21e68ad3923aa3873f2b8-d048808b79)
+- [local-section:b6e2058f75387a60a04969ed — 3.2 Both original heights, without a diagonal-height shortcut](../records/0161.md#local-section-b6e2058f75387a60a04969ed-86eea20109)

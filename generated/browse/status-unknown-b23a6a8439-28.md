@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 28/43; 10573 matching records.
+Page 28/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-27.md)
 
 [Next](status-unknown-b23a6a8439-29.md)
 
+- [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
+- [local-section:00ccdc41acaea43f46752aca — Next mathematical action](../records/0137.md#local-section-00ccdc41acaea43f46752aca-645132cdeb)
+- [local-section:00d21208f3dce768523fcc77 — 7. Failures, ceilings and the next mathematical target](../records/0137.md#local-section-00d21208f3dce768523fcc77-1967aa5676)
 - [local-section:00ea71460e30bc5f16dcecab — C: actual rough-prime zero law](../records/0137.md#local-section-00ea71460e30bc5f16dcecab-9b7e16ecaa)
 - [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0137.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
 - [local-section:00faa049bebb2f9a1ffc62c7 — A3. Complete return and the actual scale budget](../records/0137.md#local-section-00faa049bebb2f9a1ffc62c7-26593bc731)
@@ -30,8 +33,8 @@ Page 28/43; 10573 matching records.
 - [local-section:02533406933dac2e6e5e6148 — 2.3 Exact coincident aliases and their coefficient energy](../records/0137.md#local-section-02533406933dac2e6e5e6148-99fdaf1da3)
 - [local-section:02737fbc96f66ee44e2ff229 — 6. The other three author first tests](../records/0137.md#local-section-02737fbc96f66ee44e2ff229-50911febd1)
 - [local-section:02a89977d06097f6e1621a26 — Quaternion norm and determinant: user-directed intake](../records/0137.md#local-section-02a89977d06097f6e1621a26-bac3f88bb2)
-- [local-section:02b41380eaa7f3da4806f180 — 7. Evidence, limits and next mathematical action](../records/0137.md#local-section-02b41380eaa7f3da4806f180-b77494ddb6)
-- [local-section:02b86d95903ed329836aa151 — 2. Frozen inputs and source evidence](../records/0137.md#local-section-02b86d95903ed329836aa151-a0d53817e4)
+- [local-section:02b41380eaa7f3da4806f180 — 7. Evidence, limits and next mathematical action](../records/0138.md#local-section-02b41380eaa7f3da4806f180-b77494ddb6)
+- [local-section:02b86d95903ed329836aa151 — 2. Frozen inputs and source evidence](../records/0138.md#local-section-02b86d95903ed329836aa151-a0d53817e4)
 - [local-section:02d6d267cd59b028a4042cde — The quantitative obstruction to the selected bridge](../records/0138.md#local-section-02d6d267cd59b028a4042cde-1b5fa915ae)
 - [local-section:02f8669f1658d13dbcf1f468 — \[research revision\]-S5. Two literal native JN contracts](../records/0138.md#local-section-02f8669f1658d13dbcf1f468-f0f56dd251)
 - [local-section:02fdbca0f365e58ad52a1d8a — 8. Evidence and freeze](../records/0138.md#local-section-02fdbca0f365e58ad52a1d8a-1b01d99df1)
@@ -201,8 +204,8 @@ Page 28/43; 10573 matching records.
 - [local-section:132cdd716b6b97d5dc79a06d — \[research revision\]-S6. A finite signed Gaussian quadrature certificate](../records/0139.md#local-section-132cdd716b6b97d5dc79a06d-e437a2b039)
 - [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0139.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
 - [local-section:132fe9a8f05b108f281d30e5 — 5. Strongest objection and scope](../records/0139.md#local-section-132fe9a8f05b108f281d30e5-753a2ed249)
-- [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0139.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
-- [local-section:135f2d4b7dec2a2cf76f3e00 — Source and discovery record](../records/0139.md#local-section-135f2d4b7dec2a2cf76f3e00-52fec6bd6a)
+- [local-section:135d1bbc5a65be3e6769ac77 — Growing-order completion, paid arithmetic sectors and a direct return](../records/0140.md#local-section-135d1bbc5a65be3e6769ac77-42aef1d862)
+- [local-section:135f2d4b7dec2a2cf76f3e00 — Source and discovery record](../records/0140.md#local-section-135f2d4b7dec2a2cf76f3e00-52fec6bd6a)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
 - [local-section:13ce6e80bfc522d9eb2c8f06 — 5. Locally nonprincipal outer refinement](../records/0140.md#local-section-13ce6e80bfc522d9eb2c8f06-49c52101e1)
 - [local-section:13ef8507f522dfa9043aafaf — 3.3 Complete physical-shell restoration](../records/0140.md#local-section-13ef8507f522dfa9043aafaf-c711a9aaea)
@@ -255,6 +258,3 @@ Page 28/43; 10573 matching records.
 - [local-section:186366e824dbed933a3c5329 — 6. Reviewer consequence: a nearby band and the actual decaying tail](../records/0140.md#local-section-186366e824dbed933a3c5329-f72aa4fb78)
 - [local-section:186bf2d468c49c5b33dbd21a — 1. Candidate result and numerical budget](../records/0140.md#local-section-186bf2d468c49c5b33dbd21a-6cad0f4e65)
 - [local-section:187e966a40cebe7bca7de078 — Accepted written extension: larger amplifier, c1 = 0.12512](../records/0140.md#local-section-187e966a40cebe7bca7de078-7dd2c94c78)
-- [local-section:188f727ef48f3746e5e233bf — Ordinary-character zero return and concrete high ceilings](../records/0140.md#local-section-188f727ef48f3746e5e233bf-3f96b53ef7)
-- [local-section:18ba1e07446be20adbc3aa22 — Native matrix and other audited realizations](../records/0140.md#local-section-18ba1e07446be20adbc3aa22-1cb8f92c99)
-- [local-section:18c530c70a03c8ae07f61199 — 2. Independent development: cofactor-resolved residual transfer](../records/0140.md#local-section-18c530c70a03c8ae07f61199-447e2fce51)

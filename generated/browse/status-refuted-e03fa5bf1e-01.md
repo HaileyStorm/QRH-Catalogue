@@ -7,7 +7,7 @@ Page 1/1; 18 matching records.
 - [P30-36 — Revision: diagonal warning is not falsification](../records/0130.md#p30-36-a222f8482b)
 - [local-section:08400cbe708774a682f894ef — 2.1 Exact disk theorem and strongest cheap counterexample](../records/0138.md#local-section-08400cbe708774a682f894ef-8f192ac74c)
 - [local-section:182ef0d94fa6a07e53c23d74 — Group6: p\<.001, actual H dual/control counterexamples](../records/0140.md#local-section-182ef0d94fa6a07e53c23d74-a8b828ae0c)
-- [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0144.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
+- [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0145.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
 - [local-section:6c59c8b8bbedc4e73e5a5266 — Group 3: p\<.10; original far-gap H phase/projectors; signed boundary state; counterexample](../records/0151.md#local-section-6c59c8b8bbedc4e73e5a5266-3cbbc181be)
 - [local-section:dc09eb6f1168dc63e1c2d244 — 5. Counterexample B: inverse packets, actual integer realization and scope](../records/0166.md#local-section-dc09eb6f1168dc63e1c2d244-e02c4fdd36)
 - [local-section:fd9993a3640f63a00fe4f98a — 7. A fixed coefficient counterexample strengthens the diagnosis](../records/0170.md#local-section-fd9993a3640f63a00fe4f98a-a8149863ac)

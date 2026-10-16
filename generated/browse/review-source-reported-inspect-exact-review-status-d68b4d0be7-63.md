@@ -2,12 +2,15 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 63/71; 17520 matching records.
+Page 63/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-64.md)
 
+- [pr26:Cycle25.Assembly.Parameters::ell_interval@185 — ell_interval](../records/0198.md#pr26-cycle25-assembly-parameters-ell-interval-185-8b44a4c345)
+- [pr26:Cycle25.Assembly.Parameters::ell_lt_one_fifth@204 — ell_lt_one_fifth](../records/0198.md#pr26-cycle25-assembly-parameters-ell-lt-one-fifth-204-1739a084a3)
+- [pr26:Cycle25.Assembly.Parameters::ell_pos@203 — ell_pos](../records/0198.md#pr26-cycle25-assembly-parameters-ell-pos-203-88b5815c8a)
 - [pr26:Cycle25.Assembly.Parameters::extended_h_lt_one@234 — extended_h_lt_one](../records/0198.md#pr26-cycle25-assembly-parameters-extended-h-lt-one-234-1f53bf2c1e)
 - [pr26:Cycle25.Assembly.Parameters::extended_numerator_short@230 — extended_numerator_short](../records/0198.md#pr26-cycle25-assembly-parameters-extended-numerator-short-230-23019b79d7)
 - [pr26:Cycle25.Assembly.Parameters::extended_row_count_supply@221 — extended_row_count_supply](../records/0198.md#pr26-cycle25-assembly-parameters-extended-row-count-supply-221-295b48396f)
@@ -86,9 +89,9 @@ Page 63/71; 17520 matching records.
 - [pr26:Cycle25.Energy.KappaGeometry::comparison_denominator_pos@89 — comparison_denominator_pos](../records/0198.md#pr26-cycle25-energy-kappageometry-comparison-denominator-pos-89-2d39418959)
 - [pr26:Cycle25.Energy.KappaGeometry::comparison_margin@92 — comparison_margin](../records/0198.md#pr26-cycle25-energy-kappageometry-comparison-margin-92-b56def0a6e)
 - [pr26:Cycle25.Energy.LiveClippingDefect — Cycle25.Energy.LiveClippingDefect](../records/0198.md#pr26-cycle25-energy-liveclippingdefect-fe46d08413)
-- [pr26:Cycle25.Energy.LiveClippingDefect::endpoint_threshold@113 — endpoint_threshold](../records/0198.md#pr26-cycle25-energy-liveclippingdefect-endpoint-threshold-113-3a1509bd2c)
-- [pr26:Cycle25.Energy.LiveClippingDefect::energy_support_witness@167 — energy_support_witness](../records/0198.md#pr26-cycle25-energy-liveclippingdefect-energy-support-witness-167-a4a8715f5b)
-- [pr26:Cycle25.Energy.LiveClippingDefect::energy_zero_or_defect@186 — energy_zero_or_defect](../records/0198.md#pr26-cycle25-energy-liveclippingdefect-energy-zero-or-defect-186-c9681003f4)
+- [pr26:Cycle25.Energy.LiveClippingDefect::endpoint_threshold@113 — endpoint_threshold](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-endpoint-threshold-113-3a1509bd2c)
+- [pr26:Cycle25.Energy.LiveClippingDefect::energy_support_witness@167 — energy_support_witness](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-energy-support-witness-167-a4a8715f5b)
+- [pr26:Cycle25.Energy.LiveClippingDefect::energy_zero_or_defect@186 — energy_zero_or_defect](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-energy-zero-or-defect-186-c9681003f4)
 - [pr26:Cycle25.Energy.LiveClippingDefect::length_le_raw_add_endpoint@92 — length_le_raw_add_endpoint](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-length-le-raw-add-endpoint-b949a82d3f)
 - [pr26:Cycle25.Energy.LiveClippingDefect::live_profiles_reference_window@374 — live_profiles_reference_window](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-live-profiles-reference-wi-2efa7f69b1)
 - [pr26:Cycle25.Energy.LiveClippingDefect::positiveSlotRow_profiles_scales@83 — positiveSlotRow_profiles_scales](../records/0199.md#pr26-cycle25-energy-liveclippingdefect-positiveslotrow-profiles-s-f26e7275a9)
@@ -186,9 +189,9 @@ Page 63/71; 17520 matching records.
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_ne_top@564 — weighted_sourceFixedIdeal_ne_top](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-7cc6f07b66)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_ne_zero@560 — weighted_sourceFixedIdeal_ne_zero](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-393dc0b2eb)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_exceptional_norm@586 — weighted_source_exceptional_norm](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-exceptio-52b20de1a8)
-- [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_fixed_gates@604 — weighted_source_fixed_gates](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-fixed-ga-06a605c9ca)
-- [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_keep_iff@600 — weighted_source_keep_iff](../records/0199.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-keep-iff-4bdc952848)
-- [pr26:Cycle25.Energy.Physical.Terminal — Cycle25.Energy.Physical.Terminal](../records/0199.md#pr26-cycle25-energy-physical-terminal-9e142ede8e)
+- [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_fixed_gates@604 — weighted_source_fixed_gates](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-fixed-ga-06a605c9ca)
+- [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_keep_iff@600 — weighted_source_keep_iff](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-keep-iff-4bdc952848)
+- [pr26:Cycle25.Energy.Physical.Terminal — Cycle25.Energy.Physical.Terminal](../records/0200.md#pr26-cycle25-energy-physical-terminal-9e142ede8e)
 - [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_positive_energy@198 — weighted_terminal_positive_energy](../records/0200.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-positive--4792cce125)
 - [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_zero_energy@224 — weighted_terminal_zero_energy](../records/0200.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-zero-ener-4c240e3cd4)
 - [pr26:Cycle25.Energy.PositiveBalancedAdmission — Cycle25.Energy.PositiveBalancedAdmission](../records/0200.md#pr26-cycle25-energy-positivebalancedadmission-a1d40ae4d4)
@@ -255,6 +258,3 @@ Page 63/71; 17520 matching records.
 - [pr26:Cycle25.Energy.ReferenceLowWindow — Cycle25.Energy.ReferenceLowWindow](../records/0200.md#pr26-cycle25-energy-referencelowwindow-38a5659bb3)
 - [pr26:Cycle25.Energy.ReferenceLowWindow::deleted_reference_window@396 — deleted_reference_window](../records/0200.md#pr26-cycle25-energy-referencelowwindow-deleted-reference-window-3-2513b370bc)
 - [pr26:Cycle25.Energy.ReferenceLowWindow::reflection_window_length@381 — reflection_window_length](../records/0200.md#pr26-cycle25-energy-referencelowwindow-reflection-window-length-3-e9e66aadc1)
-- [pr26:Cycle25.Energy.ReferenceRobustBounded — Cycle25.Energy.ReferenceRobustBounded](../records/0200.md#pr26-cycle25-energy-referencerobustbounded-5a8acd939c)
-- [pr26:Cycle25.Energy.ReferenceRobustBounded::original_reference_power_robust@669 — original_reference_power_robust](../records/0200.md#pr26-cycle25-energy-referencerobustbounded-original-reference-pow-6a06fa96da)
-- [pr26:Cycle25.Energy.ReferenceRobustDeletedEnergy — Cycle25.Energy.ReferenceRobustDeletedEnergy](../records/0200.md#pr26-cycle25-energy-referencerobustdeletedenergy-c0ef887f56)

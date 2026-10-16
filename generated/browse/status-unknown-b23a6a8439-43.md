@@ -2,10 +2,13 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 43/43; 10573 matching records.
+Page 43/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-42.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-cb4afd2ddd)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-f519a72c51)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b9b6013520)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblynormalized-757070aecf)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount — OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-7148d87ff2)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)

@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 7/12; 2894 matching records.
+Page 7/12; 2895 matching records.
 
 [Previous](method-detector-f2b3cbe414-06.md)
 
 [Next](method-detector-f2b3cbe414-08.md)
 
+- [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
 - [local-section:09559d68d0bd26ce573399f1 — 3. First powers: common profile, height buffer and one new slot](../records/0138.md#local-section-09559d68d0bd26ce573399f1-cf4d738421)
 - [local-section:0961e96fc326f63266874473 — Accepted written extension: finite coupled amplifiers, c2 = 0.125128](../records/0138.md#local-section-0961e96fc326f63266874473-589e50b503)
 - [local-section:09774c6e79465f03471d008e — 7. All sixty original cards retained](../records/0138.md#local-section-09774c6e79465f03471d008e-82c0acfc62)
@@ -18,7 +19,7 @@ Page 7/12; 2894 matching records.
 - [local-section:0a479e8007aceaec7c2703cb — 3. Development15: a growing inverse with uniform Gaussian restoration](../records/0138.md#local-section-0a479e8007aceaec7c2703cb-5b8e69c17a)
 - [local-section:0add69cf0f77d8b05104e0f6 — Independent review of the stronger support gain and tilted endpoint](../records/0138.md#local-section-0add69cf0f77d8b05104e0f6-73f66d11e8)
 - [local-section:0b36d2cf610bd8d983ecd9ec — \[research revision\] joint-core independent review](../records/0138.md#local-section-0b36d2cf610bd8d983ecd9ec-e69c46ab87)
-- [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0138.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
+- [local-section:0bab331039a7570ab0869054 — \[research revision\]: paid parts of the separated mixed moment](../records/0139.md#local-section-0bab331039a7570ab0869054-ecea1c341d)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
 - [local-section:0c16cf3e1ee0b89946566b4b — 5. Checks, source scope and dispositions of all30 cards](../records/0139.md#local-section-0c16cf3e1ee0b89946566b4b-5a30366b9d)
 - [local-section:0c63d13ac9a95e9904d846de — 2. Evidence and independent computation](../records/0139.md#local-section-0c63d13ac9a95e9904d846de-a7b793f6ef)
@@ -46,7 +47,7 @@ Page 7/12; 2894 matching records.
 - [local-section:1302dd0d8d0bbb2d0ef3e9b4 — Frozen design, screen and first tests](../records/0139.md#local-section-1302dd0d8d0bbb2d0ef3e9b4-84d79c3fd8)
 - [local-section:131afc849327a89df717f91e — 3.2 Full integer projection and exact dilation realization](../records/0139.md#local-section-131afc849327a89df717f91e-446c8d89e1)
 - [local-section:132e2dbc33d365e9cd1f2758 — 1. Result and actual input change](../records/0139.md#local-section-132e2dbc33d365e9cd1f2758-f2265600dc)
-- [local-section:136992535e0923895bbf7b26 — 6. Coarse attempts on the actual hard remainder](../records/0139.md#local-section-136992535e0923895bbf7b26-cf5523b89c)
+- [local-section:136992535e0923895bbf7b26 — 6. Coarse attempts on the actual hard remainder](../records/0140.md#local-section-136992535e0923895bbf7b26-cf5523b89c)
 - [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
 - [local-section:13915591a8deca773519d7b9 — \[research revision\]: merged and augmented research portfolio](../records/0140.md#local-section-13915591a8deca773519d7b9-1fbbea5c62)
 - [local-section:13ef8507f522dfa9043aafaf — 3.3 Complete physical-shell restoration](../records/0140.md#local-section-13ef8507f522dfa9043aafaf-c711a9aaea)
@@ -72,7 +73,7 @@ Page 7/12; 2894 matching records.
 - [local-section:1a7a4007951797e6484cf856 — 8. Every card's independent disposition](../records/0140.md#local-section-1a7a4007951797e6484cf856-94a687a7ef)
 - [local-section:1ad8f2b0b1a9b894c059b797 — 1. Exact sources and input contract](../records/0140.md#local-section-1ad8f2b0b1a9b894c059b797-e45e9eb796)
 - [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0140.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
-- [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0140.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
+- [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
 - [local-section:1bc8ee86d4af759b5e6e0d66 — 4. Literal degree12 source and all complements](../records/0141.md#local-section-1bc8ee86d4af759b5e6e0d66-b001ab16fe)
 - [local-section:1bd331aed29fd53493b503f4 — 10. Geometric and operator fronts, retained with quantitative gates](../records/0141.md#local-section-1bd331aed29fd53493b503f4-00335f5ee6)
 - [local-section:1be57b6616be8d3b7921572e — W40-20 — Herglotz measure repair from negative mass; p=.006](../records/0141.md#local-section-1be57b6616be8d3b7921572e-75d47d02af)
@@ -101,7 +102,7 @@ Page 7/12; 2894 matching records.
 - [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0141.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0141.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:2398625eb5bc1a2804ed48b8 — F07.C / F13.T — Changed Jacobi phase and a quadratic-row triple source](../records/0141.md#local-section-2398625eb5bc1a2804ed48b8-08ee6b40da)
-- [local-section:23dee2845ddcfb42313c0ac2 — 8. Attempted escape: a zero-sum compensator bank really deflates cells](../records/0141.md#local-section-23dee2845ddcfb42313c0ac2-e5efa90171)
+- [local-section:23dee2845ddcfb42313c0ac2 — 8. Attempted escape: a zero-sum compensator bank really deflates cells](../records/0142.md#local-section-23dee2845ddcfb42313c0ac2-e5efa90171)
 - [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0142.md#local-section-23eff95a515b438b71738534-fbea372025)
 - [local-section:248cabdbc5ff88a9ea0e897f — B. Fixed-prime detector, completed harmonic forms and current master](../records/0142.md#local-section-248cabdbc5ff88a9ea0e897f-06946e92b8)
 - [local-section:24de66a554de14d7595e796e — 9. Evidence, calibration and acceptance boundary](../records/0142.md#local-section-24de66a554de14d7595e796e-b8829896f2)
@@ -148,8 +149,8 @@ Page 7/12; 2894 matching records.
 - [local-section:33af9c7788056c6b5240e866 — 7. All30 dispositions](../records/0143.md#local-section-33af9c7788056c6b5240e866-1ff1d5b35d)
 - [local-section:33c48374e2a8b63e0cdab731 — W64: exact native translation defects and the centered renewal bill](../records/0143.md#local-section-33c48374e2a8b63e0cdab731-96bae0b71d)
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0143.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
-- [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0143.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
-- [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0143.md#local-section-34160f89ce00b43718b31084-77745847c5)
+- [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
+- [local-section:34160f89ce00b43718b31084 — \[research revision\]: full fixed-phase cofactor estimate and a paid degree12 diagonal](../records/0144.md#local-section-34160f89ce00b43718b31084-77745847c5)
 - [local-section:34d4a83392dfa8c07623c41b — 6. The precise new arithmetic estimate and the limit of the architecture](../records/0144.md#local-section-34d4a83392dfa8c07623c41b-438924bda2)
 - [local-section:34f720111a679c0bb4f1ab7c — Independent review: slot-weighted density and the .12514 endpoint](../records/0144.md#local-section-34f720111a679c0bb4f1ab7c-b2f6026eb4)
 - [local-section:350dbe8ea62dce112d2c69e0 — 1. Verdict and evidence boundary](../records/0144.md#local-section-350dbe8ea62dce112d2c69e0-707971591e)
@@ -223,7 +224,7 @@ Page 7/12; 2894 matching records.
 - [local-section:4a4c4acb8e83e6fcfc62d89b — Complete local-moment gain](../records/0146.md#local-section-4a4c4acb8e83e6fcfc62d89b-3f1b04a64d)
 - [local-section:4ad1b8344d676dbbec363b95 — D02. Rank-one determinant detector: an exact attempted bridge that fails to weaken the input](../records/0146.md#local-section-4ad1b8344d676dbbec363b95-a28d1aeb63)
 - [local-section:4b49c3af65b872558ceeb624 — 6. Every card remains in the record](../records/0146.md#local-section-4b49c3af65b872558ceeb624-f8201febef)
-- [local-section:4b7360158a1935d5934c68ac — 8. Complete joint prefix/complement and Gram return](../records/0146.md#local-section-4b7360158a1935d5934c68ac-028e47c843)
+- [local-section:4b7360158a1935d5934c68ac — 8. Complete joint prefix/complement and Gram return](../records/0147.md#local-section-4b7360158a1935d5934c68ac-028e47c843)
 - [local-section:4b955290aa1633209e5431eb — D33.3 Exact transform and the omitted complement](../records/0147.md#local-section-4b955290aa1633209e5431eb-1be337994a)
 - [local-section:4be025221ce9aa2c49d8c5a9 — 4. Consequential corrections and unresolved assertions](../records/0147.md#local-section-4be025221ce9aa2c49d8c5a9-57ab4bff2a)
 - [local-section:4c3b3c5719a1ffbc4764e5ed — \[research revision\]: density extension, c6 and exact detector transfers](../records/0147.md#local-section-4c3b3c5719a1ffbc4764e5ed-69e6deb941)
@@ -257,4 +258,3 @@ Page 7/12; 2894 matching records.
 - [local-section:56d1a5a3d050cc63774765bc — 7. Complete endpoint geometry and all shortening cases](../records/0148.md#local-section-56d1a5a3d050cc63774765bc-4c058bcae4)
 - [local-section:572811beacd136b8e447ed7e — F. Alternative zero detectors, positive covers and finite-data failures](../records/0148.md#local-section-572811beacd136b8e447ed7e-7e438d1a6c)
 - [local-section:575c194f03cd99bbdaba58da — 11. Independent diagnostics and uniformity limits](../records/0148.md#local-section-575c194f03cd99bbdaba58da-032d12104d)
-- [local-section:575c1b72e2d8f469c968a573 — 3. D04: complete independent reconstruction](../records/0148.md#local-section-575c1b72e2d8f469c968a573-e90bbd8f45)

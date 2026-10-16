@@ -2,12 +2,15 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 61/71; 17520 matching records.
+Page 61/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-60.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
+- [pr26:Analytic.JointSourceInducing::fixedInducing_of_row_identity@195 — fixedInducing_of_row_identity](../records/0193.md#pr26-analytic-jointsourceinducing-fixedinducing-of-row-identity-1-81e11d79a5)
+- [pr26:Analytic.JointSourceInducing::inducing_iff@294 — inducing_iff](../records/0193.md#pr26-analytic-jointsourceinducing-inducing-iff-294-7e677c17f7)
+- [pr26:Analytic.JointSourceLiveRows — Analytic.JointSourceLiveRows](../records/0193.md#pr26-analytic-jointsourceliverows-c8a8ad5460)
 - [pr26:Analytic.JointSourceLiveRows::finiteRows_nonzero@573 — finiteRows_nonzero](../records/0193.md#pr26-analytic-jointsourceliverows-finiterows-nonzero-573-3c23a66cc1)
 - [pr26:Analytic.JointSourceLiveRows::liveFrequencyRows@585 — liveFrequencyRows](../records/0193.md#pr26-analytic-jointsourceliverows-livefrequencyrows-585-8911cfffc2)
 - [pr26:Analytic.JointSourceLiveRows::liveFrequencyRows_nonzero@590 — liveFrequencyRows_nonzero](../records/0193.md#pr26-analytic-jointsourceliverows-livefrequencyrows-nonzero-590-1bc5fb1c1d)
@@ -86,9 +89,9 @@ Page 61/71; 17520 matching records.
 - [pr26:Analytic.JointSupport::jointMissingRadical_squarefree@617 — jointMissingRadical_squarefree](../records/0193.md#pr26-analytic-jointsupport-jointmissingradical-squarefree-617-e6b0cdf256)
 - [pr26:Analytic.JointSupport::jointMissingRadical_support@620 — jointMissingRadical_support](../records/0193.md#pr26-analytic-jointsupport-jointmissingradical-support-620-ab7657e17a)
 - [pr26:Analytic.JointSupport::joint_active_prime_dvd@734 — joint_active_prime_dvd](../records/0193.md#pr26-analytic-jointsupport-joint-active-prime-dvd-734-2c7b8d0011)
-- [pr26:Analytic.JointSupport::joint_first_projector_dvd@660 — joint_first_projector_dvd](../records/0193.md#pr26-analytic-jointsupport-joint-first-projector-dvd-660-2e4ba56715)
-- [pr26:Analytic.JointSupport::joint_first_support@629 — joint_first_support](../records/0193.md#pr26-analytic-jointsupport-joint-first-support-629-86d9f7ab21)
-- [pr26:Analytic.JointSupport::joint_mask_prime_dvd@721 — joint_mask_prime_dvd](../records/0193.md#pr26-analytic-jointsupport-joint-mask-prime-dvd-721-f205316cae)
+- [pr26:Analytic.JointSupport::joint_first_projector_dvd@660 — joint_first_projector_dvd](../records/0194.md#pr26-analytic-jointsupport-joint-first-projector-dvd-660-2e4ba56715)
+- [pr26:Analytic.JointSupport::joint_first_support@629 — joint_first_support](../records/0194.md#pr26-analytic-jointsupport-joint-first-support-629-86d9f7ab21)
+- [pr26:Analytic.JointSupport::joint_mask_prime_dvd@721 — joint_mask_prime_dvd](../records/0194.md#pr26-analytic-jointsupport-joint-mask-prime-dvd-721-f205316cae)
 - [pr26:Analytic.JointSupport::joint_missing_indices_subset@760 — joint_missing_indices_subset](../records/0194.md#pr26-analytic-jointsupport-joint-missing-indices-subset-760-ec2c1e49dc)
 - [pr26:Analytic.JointSupport::joint_primeSupport_mono@598 — joint_primeSupport_mono](../records/0194.md#pr26-analytic-jointsupport-joint-primesupport-mono-598-783bc28a68)
 - [pr26:Analytic.JointSupport::joint_prime_mem_support@606 — joint_prime_mem_support](../records/0194.md#pr26-analytic-jointsupport-joint-prime-mem-support-606-b928832e62)
@@ -186,9 +189,9 @@ Page 61/71; 17520 matching records.
 - [pr26:Cycle25.Arithmetic.Certificate::certA20_poly@89 — certA20_poly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa20-poly-89-224aa3b4dc)
 - [pr26:Cycle25.Arithmetic.Certificate::certA21@34 — certA21](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa21-34-9cade37b35)
 - [pr26:Cycle25.Arithmetic.Certificate::certA21Poly@42 — certA21Poly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa21poly-42-1df6cbed48)
-- [pr26:Cycle25.Arithmetic.Certificate::certA21_poly@97 — certA21_poly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certa21-poly-97-09b8c63c3a)
-- [pr26:Cycle25.Arithmetic.Certificate::certK@28 — certK](../records/0194.md#pr26-cycle25-arithmetic-certificate-certk-28-f63cb778ec)
-- [pr26:Cycle25.Arithmetic.Certificate::certKPoly@37 — certKPoly](../records/0194.md#pr26-cycle25-arithmetic-certificate-certkpoly-37-67aa86c656)
+- [pr26:Cycle25.Arithmetic.Certificate::certA21_poly@97 — certA21_poly](../records/0195.md#pr26-cycle25-arithmetic-certificate-certa21-poly-97-09b8c63c3a)
+- [pr26:Cycle25.Arithmetic.Certificate::certK@28 — certK](../records/0195.md#pr26-cycle25-arithmetic-certificate-certk-28-f63cb778ec)
+- [pr26:Cycle25.Arithmetic.Certificate::certKPoly@37 — certKPoly](../records/0195.md#pr26-cycle25-arithmetic-certificate-certkpoly-37-67aa86c656)
 - [pr26:Cycle25.Arithmetic.Certificate::certK_poly@57 — certK_poly](../records/0195.md#pr26-cycle25-arithmetic-certificate-certk-poly-57-c592c3c3ae)
 - [pr26:Cycle25.Arithmetic.Certificate::certT@25 — certT](../records/0195.md#pr26-cycle25-arithmetic-certificate-certt-25-19a83363e0)
 - [pr26:Cycle25.Arithmetic.Certificate::certTPoly@36 — certTPoly](../records/0195.md#pr26-cycle25-arithmetic-certificate-certtpoly-36-0080ee3bdb)
@@ -255,6 +258,3 @@ Page 61/71; 17520 matching records.
 - [pr26:Cycle25.Arithmetic.Geometry::rprime0_interval@303 — rprime0_interval](../records/0195.md#pr26-cycle25-arithmetic-geometry-rprime0-interval-303-04af723fb5)
 - [pr26:Cycle25.Arithmetic.Geometry::small_row_margin@424 — small_row_margin](../records/0195.md#pr26-cycle25-arithmetic-geometry-small-row-margin-424-7cf1f3b914)
 - [pr26:Cycle25.Arithmetic.Geometry::supply_geometry@400 — supply_geometry](../records/0195.md#pr26-cycle25-arithmetic-geometry-supply-geometry-400-202b50b2d6)
-- [pr26:Cycle25.Arithmetic.Geometry::uniform_derivative_minorant@441 — uniform_derivative_minorant](../records/0195.md#pr26-cycle25-arithmetic-geometry-uniform-derivative-minorant-441-1047d19efd)
-- [pr26:Cycle25.Arithmetic.Geometry::v0@209 — v0](../records/0195.md#pr26-cycle25-arithmetic-geometry-v0-209-6ce8b80d2f)
-- [pr26:Cycle25.Arithmetic.Geometry::v0_interval@250 — v0_interval](../records/0195.md#pr26-cycle25-arithmetic-geometry-v0-interval-250-b90fc8a160)

@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21779 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21782 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -106,9 +106,9 @@
 - [G114 — \[research revision\]: a conductor saving and the complete shared-zero detector (G114)](records/0171.md#local-g114-fec7178ffd)
 - [G115 — 3. G115: complete cutoffs agree at the actual zero](records/0171.md#local-g115-d13affe636)
 - [G116 — 1. G116: a complete paid complement for integer renewal](records/0171.md#local-g116-82b0aa6b3e)
-- [G117 — 2. G117: two precisely scoped certificate obstructions](records/0171.md#local-g117-ec123049a5)
-- [G118 — 3. G118: finite-prefix and all-layer audits](records/0171.md#local-g118-50557224bc)
-- [G119 — G119. Anchored one-sided pressure has an exact zero-exclusion return](records/0171.md#local-g119-9dbed5d96f)
+- [G117 — 2. G117: two precisely scoped certificate obstructions](records/0172.md#local-g117-ec123049a5)
+- [G118 — 3. G118: finite-prefix and all-layer audits](records/0172.md#local-g118-50557224bc)
+- [G119 — G119. Anchored one-sided pressure has an exact zero-exclusion return](records/0172.md#local-g119-9dbed5d96f)
 - [G120 — G120. Complete phase blocks and thermal readout prices](records/0172.md#local-g120-fbe02bb45f)
 - [G121 — G121. Exact threshold rank and the complete signed rectangle return](records/0172.md#local-g121-1e67089380)
 - [G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](records/0172.md#local-g122-fe374f44f7)
@@ -206,9 +206,9 @@
 - [G213 — G213. Average the true cubic label before counting repetitions](records/0172.md#local-g213-46d38d3f6e)
 - [G214 — G214. Counted sectors and the full physical obstruction](records/0172.md#local-g214-3db1fe9e64)
 - [G215 — G215. Exact source, complete localization and all-height return](records/0172.md#local-g215-a9fc13c4f5)
-- [G216 — G216. Exact recovery, actual absolute cost and complete diagonal](records/0172.md#local-g216-ffe0a34c47)
-- [G217 — G217. Actual-source obstructions and their exact scopes](records/0172.md#local-g217-1ea6acd977)
-- [G218 — G218. A genuine cofactor average with a fixed zero detector](records/0172.md#local-g218-72ef21b6b0)
+- [G216 — G216. Exact recovery, actual absolute cost and complete diagonal](records/0173.md#local-g216-ffe0a34c47)
+- [G217 — G217. Actual-source obstructions and their exact scopes](records/0173.md#local-g217-1ea6acd977)
+- [G218 — G218. A genuine cofactor average with a fixed zero detector](records/0173.md#local-g218-72ef21b6b0)
 - [G219 — G219. Actual principal channels and the cheapest generic price](records/0173.md#local-g219-b390f41fe3)
 - [G220 — G220. Complete finite covariance and the limiting-bank alternative](records/0173.md#local-g220-ffb41daae7)
 - [G221 — G221. The user's quaternion identity on the actual Jordan source](records/0173.md#local-g221-56d05db393)
@@ -226,9 +226,9 @@
 - [G5 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](records/0173.md#local-g5-edf12c141c)
 - [G6 — G6 — p\<.01, sieve/information construction from obstruction](records/0173.md#local-g6-e89f333778)
 - [G67 — G67. Signed logarithmic bounds return the complete exponent](records/0173.md#local-g67-a2b717289d)
-- [G68 — G68. Exact degree energy and the retained arithmetic response](records/0173.md#local-g68-8d260df78f)
-- [G69 — G69. The global Euler norm fails; its mass escapes the physical scale](records/0173.md#local-g69-9bdd438ff0)
-- [G70 — G70. An actual fixed-prime cocycle with a paid future inverse](records/0173.md#local-g70-8c73ad993d)
+- [G68 — G68. Exact degree energy and the retained arithmetic response](records/0174.md#local-g68-8d260df78f)
+- [G69 — G69. The global Euler norm fails; its mass escapes the physical scale](records/0174.md#local-g69-9bdd438ff0)
+- [G70 — G70. An actual fixed-prime cocycle with a paid future inverse](records/0174.md#local-g70-8c73ad993d)
 - [G71 — \[research revision\] attempt delta (G71)](records/0174.md#local-g71-4c962f7ad6)
 - [G72 — G72. A complete quantitative short-window return](records/0174.md#local-g72-501fc8c07b)
 - [G73 — \[research revision\] attempt delta (G73)](records/0174.md#local-g73-076e11ffdb)

@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 31/43; 10573 matching records.
+Page 31/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-30.md)
 
 [Next](status-unknown-b23a6a8439-32.md)
 
+- [local-section:48d81bbb109abceb01dfd3a3 — 7. Fixed-depth deflation and its qualifications](../records/0146.md#local-section-48d81bbb109abceb01dfd3a3-ccd4dabfde)
+- [local-section:48e296f683913ff4ab75ae1b — 3. Full shrinking-arc observation and all-height return](../records/0146.md#local-section-48e296f683913ff4ab75ae1b-ca2f6c6055)
+- [local-section:48f988fc086a7ded5811a9dc — 1. Decision and evidence bindings](../records/0146.md#local-section-48f988fc086a7ded5811a9dc-5e7df31c22)
 - [local-section:4932b5478bcd6853c21e41b3 — 2. Minimal dependency graph and the contracts it must retain](../records/0146.md#local-section-4932b5478bcd6853c21e41b3-a94dce102a)
 - [local-section:493a7634da0ac43864d9f775 — 3.2 Turnover lemma: a short move must replace a large factor](../records/0146.md#local-section-493a7634da0ac43864d9f775-3118db6146)
 - [local-section:49550f1d5bf9393d988d08c0 — 3. Independent proof of W48.1](../records/0146.md#local-section-49550f1d5bf9393d988d08c0-09fc4c1b56)
@@ -39,9 +42,9 @@ Page 31/43; 10573 matching records.
 - [local-section:4b1d2cb21f739d79f8e32eb8 — 4. An explicit cofactor and its nontriviality](../records/0146.md#local-section-4b1d2cb21f739d79f8e32eb8-3d86a84efd)
 - [local-section:4b49c3af65b872558ceeb624 — 6. Every card remains in the record](../records/0146.md#local-section-4b49c3af65b872558ceeb624-f8201febef)
 - [local-section:4b6183d240ee3d2454ac79e1 — 1. Exact replacement source: squarefree divisor incidence](../records/0146.md#local-section-4b6183d240ee3d2454ac79e1-8b8ec849d9)
-- [local-section:4b62d4f321984b6a9731e281 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0146.md#local-section-4b62d4f321984b6a9731e281-dcaaf4eaa7)
-- [local-section:4b6547fa2e01d05ba4979d39 — 5. The fixed-order future return and its necessary distinction](../records/0146.md#local-section-4b6547fa2e01d05ba4979d39-70bcffd0a5)
-- [local-section:4b7360158a1935d5934c68ac — 8. Complete joint prefix/complement and Gram return](../records/0146.md#local-section-4b7360158a1935d5934c68ac-028e47c843)
+- [local-section:4b62d4f321984b6a9731e281 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0147.md#local-section-4b62d4f321984b6a9731e281-dcaaf4eaa7)
+- [local-section:4b6547fa2e01d05ba4979d39 — 5. The fixed-order future return and its necessary distinction](../records/0147.md#local-section-4b6547fa2e01d05ba4979d39-70bcffd0a5)
+- [local-section:4b7360158a1935d5934c68ac — 8. Complete joint prefix/complement and Gram return](../records/0147.md#local-section-4b7360158a1935d5934c68ac-028e47c843)
 - [local-section:4b7d4e63a890f93b3c9822c1 — 4. A full-coefficient prime block in the retained far form](../records/0147.md#local-section-4b7d4e63a890f93b3c9822c1-45bd369d00)
 - [local-section:4b8887561f4e0fd1980ee878 — F21. Hardy residual discs and overlapping strips](../records/0147.md#local-section-4b8887561f4e0fd1980ee878-eeffa3706c)
 - [local-section:4b955290aa1633209e5431eb — D33.3 Exact transform and the omitted complement](../records/0147.md#local-section-4b955290aa1633209e5431eb-1be337994a)
@@ -123,9 +126,9 @@ Page 31/43; 10573 matching records.
 - [local-section:51f6e2b5b0a0cf8350f37877 — 3. W56-26: integral persistence and its complete source return](../records/0147.md#local-section-51f6e2b5b0a0cf8350f37877-a9a712c208)
 - [local-section:521a65bd06cff0d387a67f71 — 3. Complete physical return](../records/0147.md#local-section-521a65bd06cff0d387a67f71-156c7be0e1)
 - [local-section:522606e71e4fa744c99b0900 — 3. The marked free-row inverse amplifier](../records/0147.md#local-section-522606e71e4fa744c99b0900-cf2ccad6a8)
-- [local-section:5275eb7ab736eefaf93d2e42 — 2. Coefficient-specific short-divisor H](../records/0147.md#local-section-5275eb7ab736eefaf93d2e42-720a470635)
-- [local-section:52ba0be33d9408521c0a7c86 — Evidence and next use](../records/0147.md#local-section-52ba0be33d9408521c0a7c86-856bb5afdb)
-- [local-section:52c8cd77552cd6ee08ccda53 — All fixed finite preconditioners on the full sup space (02)](../records/0147.md#local-section-52c8cd77552cd6ee08ccda53-ace3a15377)
+- [local-section:5275eb7ab736eefaf93d2e42 — 2. Coefficient-specific short-divisor H](../records/0148.md#local-section-5275eb7ab736eefaf93d2e42-720a470635)
+- [local-section:52ba0be33d9408521c0a7c86 — Evidence and next use](../records/0148.md#local-section-52ba0be33d9408521c0a7c86-856bb5afdb)
+- [local-section:52c8cd77552cd6ee08ccda53 — All fixed finite preconditioners on the full sup space (02)](../records/0148.md#local-section-52c8cd77552cd6ee08ccda53-ace3a15377)
 - [local-section:52d349e6ef6534d2a5076d3e — Main term and all-order constants](../records/0148.md#local-section-52d349e6ef6534d2a5076d3e-3bfe7f94da)
 - [local-section:52d71f6490b9486c95758256 — 2. Protected high-reach development W41-17](../records/0148.md#local-section-52d71f6490b9486c95758256-80a3404194)
 - [local-section:52da7d5943985b34535a01cf — Joint affine local moment and complete c5 endpoint](../records/0148.md#local-section-52da7d5943985b34535a01cf-ee7a86f492)
@@ -216,9 +219,9 @@ Page 31/43; 10573 matching records.
 - [local-section:5a662def14ed9a5a5f2ddbe0 — Exhaustive detail and scope](../records/0148.md#local-section-5a662def14ed9a5a5f2ddbe0-3e627d83b3)
 - [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0148.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
 - [local-section:5a7afd60e03b6ca2fce08076 — W40-04 — Unit-orbit trace annihilation; p=.18](../records/0148.md#local-section-5a7afd60e03b6ca2fce08076-19d7a178e9)
-- [local-section:5a9fce7a02bf3638606db425 — 8. Fixed-inducing coherence and why the rest remains difficult](../records/0148.md#local-section-5a9fce7a02bf3638606db425-1c0d65271c)
-- [local-section:5aaab1f0a95a9cf527020a6b — G207: full product, collisions and weighted removal](../records/0148.md#local-section-5aaab1f0a95a9cf527020a6b-4f1f682741)
-- [local-section:5aac125acab88f998a2cc8cf — Evidence, chronology and sampling](../records/0148.md#local-section-5aac125acab88f998a2cc8cf-d9f0e2c3d6)
+- [local-section:5a9fce7a02bf3638606db425 — 8. Fixed-inducing coherence and why the rest remains difficult](../records/0149.md#local-section-5a9fce7a02bf3638606db425-1c0d65271c)
+- [local-section:5aaab1f0a95a9cf527020a6b — G207: full product, collisions and weighted removal](../records/0149.md#local-section-5aaab1f0a95a9cf527020a6b-4f1f682741)
+- [local-section:5aac125acab88f998a2cc8cf — Evidence, chronology and sampling](../records/0149.md#local-section-5aac125acab88f998a2cc8cf-d9f0e2c3d6)
 - [local-section:5ae458469ad44675a761f9d4 — 7. Uniform parked audit18: continuation of a state does not continue zero exclusion](../records/0149.md#local-section-5ae458469ad44675a761f9d4-546bd83dce)
 - [local-section:5aea68852bba3e0968911c8a — 6. Full detector rectangle, complements and reciprocal return](../records/0149.md#local-section-5aea68852bba3e0968911c8a-871d3fa416)
 - [local-section:5aedf1778e753d8e9c0a76a3 — 2. Protected result: persistence has a complete and expensive arithmetic return](../records/0149.md#local-section-5aedf1778e753d8e9c0a76a3-a6bd41e473)
@@ -255,6 +258,3 @@ Page 31/43; 10573 matching records.
 - [local-section:5daa626dd9819fd8b1aae3ff — 5. Phase signal, interval width and zero return](../records/0149.md#local-section-5daa626dd9819fd8b1aae3ff-1b02ca9b73)
 - [local-section:5defa0d3940b3c566aeae3cc — Why G71 rules out the coarse-data shortcut](../records/0149.md#local-section-5defa0d3940b3c566aeae3cc-76f3ab2ff5)
 - [local-section:5e02126b671d5f45597e320d — M4. Finite masks and what the obstruction actually excludes](../records/0149.md#local-section-5e02126b671d5f45597e320d-210f556afc)
-- [local-section:5e13f38c3489d64c1255815f — 8. Finite caps and the exact signed scalar](../records/0149.md#local-section-5e13f38c3489d64c1255815f-ae4ecc96d9)
-- [local-section:5e1eb44eb4193a14e0afa43c — R10. Checks, limitations and next mathematical action](../records/0149.md#local-section-5e1eb44eb4193a14e0afa43c-4d6d2a6783)
-- [local-section:5e2f8446cfb6b2e985300da7 — 5. Pre-outcome audits and novelty](../records/0149.md#local-section-5e2f8446cfb6b2e985300da7-866c83910c)

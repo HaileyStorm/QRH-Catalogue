@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 37/43; 10573 matching records.
+Page 37/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-36.md)
 
 [Next](status-unknown-b23a6a8439-38.md)
 
+- [local-section:cc217ce7d298b0c81a8d121a — 9. Every original free Euler shift and the empty-slot end](../records/0163.md#local-section-cc217ce7d298b0c81a8d121a-bbd5d02f72)
+- [local-section:cc4934e0ff25e4bc37690d3e — All60 dispositions (untested means untested, not disproved)](../records/0163.md#local-section-cc4934e0ff25e4bc37690d3e-ef72642e23)
+- [local-section:cc59e06a327ae05ea501fb37 — 6. What the new lower edge changes in the strict ledger](../records/0163.md#local-section-cc59e06a327ae05ea501fb37-bdca769fe8)
 - [local-section:cc955c34ab85b58f7761dffa — 17. Complete source projections, smooth collars and blocks](../records/0163.md#local-section-cc955c34ab85b58f7761dffa-f7c09b6757)
 - [local-section:cca6592276bd51d8a19bf4e4 — G202. Centered quotient norm and one fixed cumulative source](../records/0163.md#local-section-cca6592276bd51d8a19bf4e4-39b1ee0d39)
 - [local-section:ccad7258a80000cc468a2a7e — Other first tests and actual native-H limit](../records/0163.md#local-section-ccad7258a80000cc468a2a7e-d77de3e722)
@@ -18,8 +21,8 @@ Page 37/43; 10573 matching records.
 - [local-section:cce6349d90284b9d579c007f — 2. Forward smoothing survives forming the phase family](../records/0163.md#local-section-cce6349d90284b9d579c007f-444ab690ef)
 - [local-section:cd08062400bbd51197b9c1f5 — 5. Uniform audit09: exact parity-layer flux and its unreduced absolute price](../records/0163.md#local-section-cd08062400bbd51197b9c1f5-4f7b49f403)
 - [local-section:cd1fc251fefd95d918136912 — 5. Paid coherent and same-core sectors do not pay the remaining covariance](../records/0163.md#local-section-cd1fc251fefd95d918136912-fcb7843141)
-- [local-section:cd4125dddd28cdc8142134ba — G148. The unresolved joint estimate and the exact dependence obstruction](../records/0163.md#local-section-cd4125dddd28cdc8142134ba-a28b374b5d)
-- [local-section:cd56a490d63e093b8b90f001 — G222. Exact prime-deletion inversion and the full signed readout](../records/0163.md#local-section-cd56a490d63e093b8b90f001-1912d1cc5d)
+- [local-section:cd4125dddd28cdc8142134ba — G148. The unresolved joint estimate and the exact dependence obstruction](../records/0164.md#local-section-cd4125dddd28cdc8142134ba-a28b374b5d)
+- [local-section:cd56a490d63e093b8b90f001 — G222. Exact prime-deletion inversion and the full signed readout](../records/0164.md#local-section-cd56a490d63e093b8b90f001-1912d1cc5d)
 - [local-section:cd61c4ab29e47989adfeb116 — 1. Frozen inputs and the exact scope reviewed](../records/0164.md#local-section-cd61c4ab29e47989adfeb116-f4d5992bbc)
 - [local-section:cd77cc67d438988639ce9035 — 7. Reviewer extension: remove the principal far tail exactly](../records/0164.md#local-section-cd77cc67d438988639ce9035-17789f6fcc)
 - [local-section:cd85fdf685293915f7890c83 — G128. Source, prediction and an exact zero census](../records/0164.md#local-section-cd85fdf685293915f7890c83-52a4c71995)
@@ -102,7 +105,7 @@ Page 37/43; 10573 matching records.
 - [local-section:d4cb7e5d9264bd77562af174 — G108. Complete prime-block interactions and descendant errors](../records/0164.md#local-section-d4cb7e5d9264bd77562af174-d489992f7a)
 - [local-section:d4d0e7e4851da57ac4066542 — 10. Source attribution and acceptance boundaries](../records/0164.md#local-section-d4d0e7e4851da57ac4066542-0da05438f3)
 - [local-section:d4da15d75518b11a2d54a83c — \[research revision\]: full large-common-factor payment](../records/0164.md#local-section-d4da15d75518b11a2d54a83c-ba1df53739)
-- [local-section:d4ff0bd37d1fa9b40236fb9e — 10. Evidence and handoff](../records/0164.md#local-section-d4ff0bd37d1fa9b40236fb9e-f7967b6dbb)
+- [local-section:d4ff0bd37d1fa9b40236fb9e — 10. Evidence and handoff](../records/0165.md#local-section-d4ff0bd37d1fa9b40236fb9e-f7967b6dbb)
 - [local-section:d52141a608f7d70bdabf666d — Third smaller post-\[research revision\] Sol High batch: signed boundary inverses](../records/0165.md#local-section-d52141a608f7d70bdabf666d-d6b580688e)
 - [local-section:d5559f530d999bf390b81073 — 3. Two compatible envelopes and fixed finite choices](../records/0165.md#local-section-d5559f530d999bf390b81073-2c18e1e5e2)
 - [local-section:d55ae5a2551854a0e60ee14c — Disposition and current checkpoint](../records/0165.md#local-section-d55ae5a2551854a0e60ee14c-5d1e26a868)
@@ -190,9 +193,9 @@ Page 37/43; 10573 matching records.
 - [local-section:daf014ed3d79cdc374dbb973 — New merge corollary: common-completed finite incidence is equivalent](../records/0165.md#local-section-daf014ed3d79cdc374dbb973-30cb82bce9)
 - [local-section:db1897b4dfa1a01a6b398abf — W40-08 — Inverse-L dispersion sum rule; p=.07](../records/0165.md#local-section-db1897b4dfa1a01a6b398abf-d96cf0f568)
 - [local-section:db19ac43e174dd879d502c1f — A3. Full price of the proposed replacement](../records/0165.md#local-section-db19ac43e174dd879d502c1f-53723fc6cf)
-- [local-section:db2290e49df482bbac0d3747 — 3.2 Genuine selection and zero supply](../records/0165.md#local-section-db2290e49df482bbac0d3747-582622e9cf)
-- [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0165.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
-- [local-section:db4906677fd072c4bc33e9d8 — 8. Independent high-ceiling continuation with every cost specified](../records/0165.md#local-section-db4906677fd072c4bc33e9d8-3b8dc2ea86)
+- [local-section:db2290e49df482bbac0d3747 — 3.2 Genuine selection and zero supply](../records/0166.md#local-section-db2290e49df482bbac0d3747-582622e9cf)
+- [local-section:db43a250371ca15cccdab9ce — \[research revision\] attempt delta: larger amplifier and exact signed residuals](../records/0166.md#local-section-db43a250371ca15cccdab9ce-fb7778a634)
+- [local-section:db4906677fd072c4bc33e9d8 — 8. Independent high-ceiling continuation with every cost specified](../records/0166.md#local-section-db4906677fd072c4bc33e9d8-3b8dc2ea86)
 - [local-section:db658d49008adf8499407623 — 5. Complete G34 return, quantitative targets, masks, and both heights](../records/0166.md#local-section-db658d49008adf8499407623-b3e3cb9ffa)
 - [local-section:db8bb80e7644029158625d6a — 8. Quadratic and alternative arithmetic encodings](../records/0166.md#local-section-db8bb80e7644029158625d6a-49aabf638b)
 - [local-section:db99ba545c6ce114485720d4 — 10. Checks, limitations, and handoff boundary](../records/0166.md#local-section-db99ba545c6ce114485720d4-cdb7a82301)
@@ -255,6 +258,3 @@ Page 37/43; 10573 matching records.
 - [local-section:e2149d471125be2ba956524b — 6. Other actual author tests](../records/0166.md#local-section-e2149d471125be2ba956524b-9373594299)
 - [local-section:e2678c68310cb6b41915565b — A2. The single-step exponent, with the Taylor remainder paid first](../records/0166.md#local-section-e2678c68310cb6b41915565b-467963afcf)
 - [local-section:e27e905244801e9eccf26185 — Frozen selection and first tests](../records/0166.md#local-section-e27e905244801e9eccf26185-3c634160e8)
-- [local-section:e2aa5bf0a6c0564018974bcc — A10. Two exact countermodels for positivity-based geometric shortcuts](../records/0166.md#local-section-e2aa5bf0a6c0564018974bcc-18aa86baf6)
-- [local-section:e35b46423fbdb1e65ca3c229 — G175. Two exact source returns with their inverse costs](../records/0166.md#local-section-e35b46423fbdb1e65ca3c229-885c1f55e9)
-- [local-section:e38c1ee759bcbf5b62e875e3 — 3.3 Repeated differences pay the complete residual](../records/0166.md#local-section-e38c1ee759bcbf5b62e875e3-657b52a5be)

@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 32/43; 10573 matching records.
+Page 32/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-31.md)
 
 [Next](status-unknown-b23a6a8439-33.md)
 
+- [local-section:5e13f38c3489d64c1255815f — 8. Finite caps and the exact signed scalar](../records/0149.md#local-section-5e13f38c3489d64c1255815f-ae4ecc96d9)
+- [local-section:5e1eb44eb4193a14e0afa43c — R10. Checks, limitations and next mathematical action](../records/0149.md#local-section-5e1eb44eb4193a14e0afa43c-4d6d2a6783)
+- [local-section:5e2f8446cfb6b2e985300da7 — 5. Pre-outcome audits and novelty](../records/0149.md#local-section-5e2f8446cfb6b2e985300da7-866c83910c)
 - [local-section:5e41a53a0ce89eefae710ade — Independent review: retained first-support reserve and partial marked-plain density](../records/0149.md#local-section-5e41a53a0ce89eefae710ade-0bf2a3e9e8)
 - [local-section:5ea362263c21d46d9c92f474 — 1. Current state and provenance](../records/0149.md#local-section-5ea362263c21d46d9c92f474-62fdba8a20)
 - [local-section:5ea5eedfb536c9b397130147 — 2.1 Proof before profile integration](../records/0149.md#local-section-5ea5eedfb536c9b397130147-3fbe0fcd13)
@@ -56,9 +59,9 @@ Page 32/43; 10573 matching records.
 - [local-section:62079fc7c4218449bf747b62 — 2. A: exact numerator-free and distinguished-prime returns](../records/0149.md#local-section-62079fc7c4218449bf747b62-8cfd892f03)
 - [local-section:6207cc261d20f706b4caed2d — 7. Protected audit27: what a full H-to-sieve witness must actually pay](../records/0149.md#local-section-6207cc261d20f706b4caed2d-2680366feb)
 - [local-section:620c78e99c0e2195526cefe3 — D26.3 Quantitative returns and first useful next estimate](../records/0149.md#local-section-620c78e99c0e2195526cefe3-54b2e16ae0)
-- [local-section:62163623fd0274e1f12dd873 — D22 / S22: accept exact source; retain the gap failure](../records/0149.md#local-section-62163623fd0274e1f12dd873-dc78e65123)
-- [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0149.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
-- [local-section:62246689cf603bd1586d2471 — Proposed growing-order source theorem: statement and exact algebra](../records/0149.md#local-section-62246689cf603bd1586d2471-39ee2f4f3b)
+- [local-section:62163623fd0274e1f12dd873 — D22 / S22: accept exact source; retain the gap failure](../records/0150.md#local-section-62163623fd0274e1f12dd873-dc78e65123)
+- [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0150.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
+- [local-section:62246689cf603bd1586d2471 — Proposed growing-order source theorem: statement and exact algebra](../records/0150.md#local-section-62246689cf603bd1586d2471-39ee2f4f3b)
 - [local-section:622587107f14659bdbd8f03d — 2. Development04: full energy bridge and exact fixed-modulus target](../records/0150.md#local-section-622587107f14659bdbd8f03d-7b0e870c4f)
 - [local-section:62278ab30fb6612be849924f — 1. Scope, chronology and immutable inputs](../records/0150.md#local-section-62278ab30fb6612be849924f-ef8db73c97)
 - [local-section:6231061ae9f0edf53399977b — 4. A complete signed target and its return](../records/0150.md#local-section-6231061ae9f0edf53399977b-8db7eb4c87)
@@ -145,8 +148,8 @@ Page 32/43; 10573 matching records.
 - [local-section:68cc62362c6d4457c10ecc56 — 1. Exact inputs and scope](../records/0150.md#local-section-68cc62362c6d4457c10ecc56-60c0974acc)
 - [local-section:68d0ab844329bc22388b44cd — 5. Relative characters, complete coefficient mass and masked rows](../records/0150.md#local-section-68d0ab844329bc22388b44cd-657223dfca)
 - [local-section:68fd0e0dd90afbb83db005d9 — 5. New complete bound: choose the estimate before counting repetitions](../records/0150.md#local-section-68fd0e0dd90afbb83db005d9-6ee034fe75)
-- [local-section:6918a6864f36198c3ae56f37 — 9. Evidence limits and handoff](../records/0150.md#local-section-6918a6864f36198c3ae56f37-f38b9d98d4)
-- [local-section:694edfe2997df2bfece5b510 — 5.2 W40-29 — fixed phase-list occupancy cannot save a power](../records/0150.md#local-section-694edfe2997df2bfece5b510-6387fa9fb4)
+- [local-section:6918a6864f36198c3ae56f37 — 9. Evidence limits and handoff](../records/0151.md#local-section-6918a6864f36198c3ae56f37-f38b9d98d4)
+- [local-section:694edfe2997df2bfece5b510 — 5.2 W40-29 — fixed phase-list occupancy cannot save a power](../records/0151.md#local-section-694edfe2997df2bfece5b510-6387fa9fb4)
 - [local-section:697cc578b0bc908e410c4117 — Uniform squarefree mass, with a logarithmic refinement](../records/0151.md#local-section-697cc578b0bc908e410c4117-3c594735d4)
 - [local-section:698cf8d759602c8992eddeff — 7. The enlarged local moment and unchanged descendant calls](../records/0151.md#local-section-698cf8d759602c8992eddeff-9386109750)
 - [local-section:69942a8b3f45721ee7909ae3 — E. Complete disposition of the thirty original seeds](../records/0151.md#local-section-69942a8b3f45721ee7909ae3-9ef2dbabda)
@@ -228,8 +231,8 @@ Page 32/43; 10573 matching records.
 - [local-section:713ad32dc77ac1bc31feddf7 — 1. Sources, ancestry and scope](../records/0151.md#local-section-713ad32dc77ac1bc31feddf7-4cec1e1ddb)
 - [local-section:7140712c37cf9061ee092fb9 — The actual prime pool and slot gap](../records/0151.md#local-section-7140712c37cf9061ee092fb9-b65bb37ec0)
 - [local-section:7142ca85e886c9ffbc621c83 — 6. All thirty dispositions retained](../records/0151.md#local-section-7142ca85e886c9ffbc621c83-7d79022cdf)
-- [local-section:71e1479c7205684486186e56 — 1. Frozen generation and selection](../records/0151.md#local-section-71e1479c7205684486186e56-c4169a3d2d)
-- [local-section:71ff5b29f25a38b18ae2e5cf — 4. First transform, comparison and low-bin descendants](../records/0151.md#local-section-71ff5b29f25a38b18ae2e5cf-1b43ba98ee)
+- [local-section:71e1479c7205684486186e56 — 1. Frozen generation and selection](../records/0152.md#local-section-71e1479c7205684486186e56-c4169a3d2d)
+- [local-section:71ff5b29f25a38b18ae2e5cf — 4. First transform, comparison and low-bin descendants](../records/0152.md#local-section-71ff5b29f25a38b18ae2e5cf-1b43ba98ee)
 - [local-section:722b86a12cad2c6e70d40826 — D26.2 Complete field approximation and cross terms](../records/0152.md#local-section-722b86a12cad2c6e70d40826-6ddfa3748c)
 - [local-section:723120f2e82b726676c97a46 — Exact coefficient and valuation audit](../records/0152.md#local-section-723120f2e82b726676c97a46-a098512192)
 - [local-section:7236d7e8a8b3f9bcb6f9f5e4 — 5. W60-28 and W60-26: what the native H packet actually permits](../records/0152.md#local-section-7236d7e8a8b3f9bcb6f9f5e4-0f013da64e)
@@ -255,6 +258,3 @@ Page 32/43; 10573 matching records.
 - [local-section:738ad32b69086848558e98d8 — 4.2 Source-sensitive obstruction at shrinking height](../records/0152.md#local-section-738ad32b69086848558e98d8-157a39be61)
 - [local-section:73c7b2271b0da0f3d52e9cdd — 5. The other three first tests, with exact scope](../records/0152.md#local-section-73c7b2271b0da0f3d52e9cdd-c950611f83)
 - [local-section:73dbbdfd697186be8a456262 — R10. All thirty final dispositions and portfolio comparison](../records/0152.md#local-section-73dbbdfd697186be8a456262-c123025ace)
-- [local-section:73dec1ac53b5eb9be1d2d710 — 9. Exact remaining estimate and limitations](../records/0152.md#local-section-73dec1ac53b5eb9be1d2d710-0ab5d5d06f)
-- [local-section:73e5729a73d2819ab143671f — 1. Gcd-one and large-shift obstruction](../records/0152.md#local-section-73e5729a73d2819ab143671f-4722f97278)
-- [local-section:73edef45e4b4f3403c483bf9 — 7. Quantitative cost of retaining the phase direction](../records/0152.md#local-section-73edef45e4b4f3403c483bf9-9e9e16e14d)

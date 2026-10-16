@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 30/43; 10573 matching records.
+Page 30/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-29.md)
 
 [Next](status-unknown-b23a6a8439-31.md)
 
+- [local-section:31765eb078bb31d122702e54 — W37: all30 cards, six first tests and two independent audits](../records/0143.md#local-section-31765eb078bb31d122702e54-f5b7133a71)
+- [local-section:318df335f67cc148048b0d9d — R6. Cutoff removal and a noncircular second extraction](../records/0143.md#local-section-318df335f67cc148048b0d9d-e062ff6da8)
+- [local-section:31b5ccdde639c6a79a294d7f — Consequential mathematical verdicts](../records/0143.md#local-section-31b5ccdde639c6a79a294d7f-95f5b55ba1)
 - [local-section:31cab815cff8fefa6a7ab98e — Current checkpoint](../records/0143.md#local-section-31cab815cff8fefa6a7ab98e-bc122a77ac)
 - [local-section:31d8ee9c672193d64910ab2c — 2. Exact common-divisor extraction](../records/0143.md#local-section-31d8ee9c672193d64910ab2c-700cd73556)
 - [local-section:31e262fde5e371c86c842bf6 — Candidate dimension-free lemma](../records/0143.md#local-section-31e262fde5e371c86c842bf6-878306cb45)
@@ -33,8 +36,8 @@ Page 30/43; 10573 matching records.
 - [local-section:33dec8179903b9907d6549ee — 2.2 The reverse implication is valid and fixes the strength claim](../records/0143.md#local-section-33dec8179903b9907d6549ee-56b291f6f2)
 - [local-section:33e253fb432a0ae81c91799f — 3.2 Squarefree local correction and the full convolution](../records/0143.md#local-section-33e253fb432a0ae81c91799f-a5e3ac91a5)
 - [local-section:33f3d1b97312699b4f622881 — \[research revision\]: controller disposition of the H and determinant lanes](../records/0143.md#local-section-33f3d1b97312699b4f622881-bcda17be71)
-- [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0143.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
-- [local-section:3422f6753f9cea4f9fcbf457 — 2.3 Serious arithmetic test, failed coarse bound, and constructive error budget](../records/0143.md#local-section-3422f6753f9cea4f9fcbf457-cebd83596b)
+- [local-section:34094eabbee8d68cdd556f05 — Ten first tests, including useful failures](../records/0144.md#local-section-34094eabbee8d68cdd556f05-2f04076284)
+- [local-section:3422f6753f9cea4f9fcbf457 — 2.3 Serious arithmetic test, failed coarse bound, and constructive error budget](../records/0144.md#local-section-3422f6753f9cea4f9fcbf457-cebd83596b)
 - [local-section:343e9c6cf35aa17fddf3f608 — 2. Uniform divisor masks in one and two Möbius sums](../records/0144.md#local-section-343e9c6cf35aa17fddf3f608-c38c353f92)
 - [local-section:34496e74659ec2e6d1dedbd9 — R10. Decision and integration qualifications](../records/0144.md#local-section-34496e74659ec2e6d1dedbd9-d34e8e2bd3)
 - [local-section:3465091f930bd54442600908 — 2. The exact squarefree two-color coefficient](../records/0144.md#local-section-3465091f930bd54442600908-ef0895652e)
@@ -119,8 +122,8 @@ Page 30/43; 10573 matching records.
 - [local-section:3c4fbfc71bb4dd9193e4f0bc — 2. An actual signed global asymptotic](../records/0144.md#local-section-3c4fbfc71bb4dd9193e4f0bc-8b73f69b29)
 - [local-section:3c5a0aa24c5403797f36c878 — Required precision: limiting exponent versus exact-line inverse](../records/0144.md#local-section-3c5a0aa24c5403797f36c878-385c35d442)
 - [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0144.md#local-section-3c630827feaaf3da167e9311-b71969935d)
-- [local-section:3c71bc5d6ed579e6732e7842 — D1a. Explicit isolated-root lemma](../records/0144.md#local-section-3c71bc5d6ed579e6732e7842-8d129e1bf6)
-- [local-section:3c7bddd6d41be992888ec504 — 5. Strongest objections and decisive limitations](../records/0144.md#local-section-3c7bddd6d41be992888ec504-be4434e89d)
+- [local-section:3c71bc5d6ed579e6732e7842 — D1a. Explicit isolated-root lemma](../records/0145.md#local-section-3c71bc5d6ed579e6732e7842-8d129e1bf6)
+- [local-section:3c7bddd6d41be992888ec504 — 5. Strongest objections and decisive limitations](../records/0145.md#local-section-3c7bddd6d41be992888ec504-be4434e89d)
 - [local-section:3cdc1a2ecfaa60420268db83 — 7. Paid small-gcd sectors and full margins](../records/0145.md#local-section-3cdc1a2ecfaa60420268db83-e3a414ee25)
 - [local-section:3cdf0a8a6a95c32aa2d4bbb3 — R5. Wildcard S23: actual compact certificate, with the all-scale premise visible](../records/0145.md#local-section-3cdf0a8a6a95c32aa2d4bbb3-8682f59b3b)
 - [local-section:3cf882726fbcd59fe31d85e5 — G163. Exact native Schur and four-cycle bills](../records/0145.md#local-section-3cf882726fbcd59fe31d85e5-5afad4f8cc)
@@ -205,8 +208,8 @@ Page 30/43; 10573 matching records.
 - [local-section:44635861556b54569d7ba84d — 10. Verification and handoff boundary](../records/0145.md#local-section-44635861556b54569d7ba84d-f11bac91cb)
 - [local-section:446f581b2f06b60449fddb3b — 5. Full product moment: two added slots and every diagonal](../records/0145.md#local-section-446f581b2f06b60449fddb3b-8bac7e0561)
 - [local-section:448fb53530a84690188cd886 — R1. Evidence, independent selection and chronology](../records/0145.md#local-section-448fb53530a84690188cd886-a71460265a)
-- [local-section:4500f8e87eb94ecc3a0e2e50 — 3.3 Error budget and surviving arithmetic target](../records/0145.md#local-section-4500f8e87eb94ecc3a0e2e50-1c10f57ad7)
-- [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0145.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
+- [local-section:4500f8e87eb94ecc3a0e2e50 — 3.3 Error budget and surviving arithmetic target](../records/0146.md#local-section-4500f8e87eb94ecc3a0e2e50-1c10f57ad7)
+- [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0146.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
 - [local-section:45503ed983041ecf3a0ef20e — 6. Independent transport and Jacobi derivations](../records/0146.md#local-section-45503ed983041ecf3a0ef20e-e0e38845e5)
 - [local-section:4591c2300d4623afdae97444 — Uniform S09: exact source-specific linear dual and its hidden scalar](../records/0146.md#local-section-4591c2300d4623afdae97444-78a9dc6f67)
 - [local-section:45be2c9607efc7b04c92aa2e — 3. The entire positive chain mass really has exponent one](../records/0146.md#local-section-45be2c9607efc7b04c92aa2e-a8a22a0f65)
@@ -255,6 +258,3 @@ Page 30/43; 10573 matching records.
 - [local-section:486b6e574555605eafa340fb — Development14: exact cover, weighted defect and reconstruction](../records/0146.md#local-section-486b6e574555605eafa340fb-9279bda5db)
 - [local-section:48873052cc12973abca5550a — 4. New component \[research revision\]-C1: paid transfer among the three fixed detectors](../records/0146.md#local-section-48873052cc12973abca5550a-0fb392db2e)
 - [local-section:48cc93968c120f3f49e873a3 — Evidence boundary and next mechanism](../records/0146.md#local-section-48cc93968c120f3f49e873a3-977a472667)
-- [local-section:48d81bbb109abceb01dfd3a3 — 7. Fixed-depth deflation and its qualifications](../records/0146.md#local-section-48d81bbb109abceb01dfd3a3-ccd4dabfde)
-- [local-section:48e296f683913ff4ab75ae1b — 3. Full shrinking-arc observation and all-height return](../records/0146.md#local-section-48e296f683913ff4ab75ae1b-ca2f6c6055)
-- [local-section:48f988fc086a7ded5811a9dc — 1. Decision and evidence bindings](../records/0146.md#local-section-48f988fc086a7ded5811a9dc-5e7df31c22)

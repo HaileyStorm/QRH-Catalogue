@@ -2,12 +2,15 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 69/71; 17520 matching records.
+Page 69/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:Global.Transport.PrincipalRemainderResidueActual::normalized_actual_window_residue@552 — normalized_actual_window_residue](../records/0213.md#pr26-global-transport-principalremainderresidueactual-normalized--ef210721a6)
+- [pr26:Global.Transport.PrincipalRemainderTransport — Global.Transport.PrincipalRemainderTransport](../records/0213.md#pr26-global-transport-principalremaindertransport-aede098cce)
+- [pr26:Global.Transport.PrincipalRemainderTransport::continued_principal_differentiable_z@314 — continued_principal_differentiable_z](../records/0213.md#pr26-global-transport-principalremaindertransport-continued-princ-4316fc3935)
 - [pr26:Global.Transport.PrincipalRemainderTransport::continued_source_differentiable_z@292 — continued_source_differentiable_z](../records/0213.md#pr26-global-transport-principalremaindertransport-continued-sourc-f4fb47e585)
 - [pr26:Global.Transport.PrincipalRemainderTransport::continued_triple_eq_raw@450 — continued_triple_eq_raw](../records/0213.md#pr26-global-transport-principalremaindertransport-continued-tripl-8cc4698c25)
 - [pr26:Global.Transport.PrincipalRemainderTransport::continued_triple_x_shift@394 — continued_triple_x_shift](../records/0213.md#pr26-global-transport-principalremaindertransport-continued-tripl-1e5fa593e0)
@@ -86,9 +89,9 @@ Page 69/71; 17520 matching records.
 - [pr26:Global.Transport.TailScales::large_source_scale@338 — large_source_scale](../records/0213.md#pr26-global-transport-tailscales-large-source-scale-338-5ba7febf31)
 - [pr26:Global.Transport.TailScales::physical_scale_power@318 — physical_scale_power](../records/0213.md#pr26-global-transport-tailscales-physical-scale-power-318-4d6f3a797b)
 - [pr26:Global.Transport.TailScales::selected_scale_power@313 — selected_scale_power](../records/0213.md#pr26-global-transport-tailscales-selected-scale-power-313-6077ca918f)
-- [pr26:Global.Transport.TailScales::small_source_scale@328 — small_source_scale](../records/0213.md#pr26-global-transport-tailscales-small-source-scale-328-49b8fc2b9a)
-- [pr26:Global.Weighted.CellGeometry — Global.Weighted.CellGeometry](../records/0213.md#pr26-global-weighted-cellgeometry-f510f267cc)
-- [pr26:Global.Weighted.CellGeometry::WeightedCellRowData@76 — WeightedCellRowData](../records/0213.md#pr26-global-weighted-cellgeometry-weightedcellrowdata-76-18d762f2b7)
+- [pr26:Global.Transport.TailScales::small_source_scale@328 — small_source_scale](../records/0214.md#pr26-global-transport-tailscales-small-source-scale-328-49b8fc2b9a)
+- [pr26:Global.Weighted.CellGeometry — Global.Weighted.CellGeometry](../records/0214.md#pr26-global-weighted-cellgeometry-f510f267cc)
+- [pr26:Global.Weighted.CellGeometry::WeightedCellRowData@76 — WeightedCellRowData](../records/0214.md#pr26-global-weighted-cellgeometry-weightedcellrowdata-76-18d762f2b7)
 - [pr26:Global.Weighted.CellGeometry::eventually_uniform_source_conductor@44 — eventually_uniform_source_conductor](../records/0214.md#pr26-global-weighted-cellgeometry-eventually-uniform-source-condu-9c271544a4)
 - [pr26:Global.Weighted.CellGeometry::weightedCellRows@69 — weightedCellRows](../records/0214.md#pr26-global-weighted-cellgeometry-weightedcellrows-69-49512b6dc6)
 - [pr26:Global.Weighted.CellGeometry::weighted_source_cell_geometry@105 — weighted_source_cell_geometry](../records/0214.md#pr26-global-weighted-cellgeometry-weighted-source-cell-geometry-1-857d84ca0f)
@@ -186,9 +189,9 @@ Page 69/71; 17520 matching records.
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0214.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
-- [pr26:LocalMoment.UniformDensity — LocalMoment.UniformDensity](../records/0214.md#pr26-localmoment-uniformdensity-025aabe80f)
-- [pr26:LocalMoment.UniformDensity::raw_density_from_eventual_free@437 — raw_density_from_eventual_free](../records/0214.md#pr26-localmoment-uniformdensity-raw-density-from-eventual-free-43-16a304a698)
-- [pr26:LocalMoment.UniformDensity::raw_density_uniform_exponent@389 — raw_density_uniform_exponent](../records/0214.md#pr26-localmoment-uniformdensity-raw-density-uniform-exponent-389-c018a04a0a)
+- [pr26:LocalMoment.UniformDensity — LocalMoment.UniformDensity](../records/0215.md#pr26-localmoment-uniformdensity-025aabe80f)
+- [pr26:LocalMoment.UniformDensity::raw_density_from_eventual_free@437 — raw_density_from_eventual_free](../records/0215.md#pr26-localmoment-uniformdensity-raw-density-from-eventual-free-43-16a304a698)
+- [pr26:LocalMoment.UniformDensity::raw_density_uniform_exponent@389 — raw_density_uniform_exponent](../records/0215.md#pr26-localmoment-uniformdensity-raw-density-uniform-exponent-389-c018a04a0a)
 - [pr26:LocalMoment.UniformDensity::uniform_free_density_of_eventually@378 — uniform_free_density_of_eventually](../records/0215.md#pr26-localmoment-uniformdensity-uniform-free-density-of-eventuall-3f8d3bd9f1)
 - [pr26:LocalMoment.UniformDensity::uniform_free_density_varying_of_eventually@352 — uniform_free_density_varying_of_eventually](../records/0215.md#pr26-localmoment-uniformdensity-uniform-free-density-varying-of-e-d885b42c40)
 - [pr26:LocalMoment.UnmarkedBatch — LocalMoment.UnmarkedBatch](../records/0215.md#pr26-localmoment-unmarkedbatch-de06e24cad)
@@ -255,6 +258,3 @@ Page 69/71; 17520 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::RawMomentInput@630 — RawMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-0aec01540c)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::SourceMomentBound.mono_constant@621 — SourceMomentBound.mono_constant](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-5488bc43af)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::SourceMomentBound@609 — SourceMomentBound](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b1297b3701)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::polynomial_height_absorption@638 — polynomial_height_absorption](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b056378442)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::raw_input_chosen_height@652 — raw_input_chosen_height](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-d5722251b7)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblynormalized-757070aecf)

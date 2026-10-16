@@ -72,4 +72,4 @@
 - [weighted-geometry-budget (2)](object-weighted-geometry-budget-8bec8bf40d-01.md)
 - [whole natural zero family (1)](object-whole-natural-zero-family-1f473ed307-01.md)
 - [within-cell-moments (1)](object-within-cell-moments-29d599e1c6-01.md)
-- [zeta (931)](object-zeta-5cc10d9143-01.md)
+- [zeta (932)](object-zeta-5cc10d9143-01.md)

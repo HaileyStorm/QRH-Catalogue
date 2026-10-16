@@ -2,12 +2,15 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 70/71; 17520 matching records.
+Page 70/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-69.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-71.md)
 
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::polynomial_height_absorption@638 — polynomial_height_absorption](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b056378442)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::raw_input_chosen_height@652 — raw_input_chosen_height](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-d5722251b7)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblynormalized-757070aecf)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized::actual_normalized_nonfloor_cube@124 — actual_normalized_nonfloor_cube](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblynormalized-0dbdca3782)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount — OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-7148d87ff2)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount::adaptive_source_count_from_raw_moments@772 — adaptive_source_count_from_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-505b52f87a)
@@ -36,9 +39,9 @@ Page 70/71; 17520 matching records.
 - [pr26:Physical.Capacity::BareWindow@443 — BareWindow](../records/0215.md#pr26-physical-capacity-barewindow-443-1770c466f1)
 - [pr26:Physical.Capacity::baseCapacity@437 — baseCapacity](../records/0215.md#pr26-physical-capacity-basecapacity-437-75699b3eac)
 - [pr26:Physical.Capacity::baseCapacity_bounds@445 — baseCapacity_bounds](../records/0215.md#pr26-physical-capacity-basecapacity-bounds-445-88fb32e500)
-- [pr26:Physical.Capacity::localCapacity@438 — localCapacity](../records/0215.md#pr26-physical-capacity-localcapacity-438-0fb26a2db8)
-- [pr26:Physical.Capacity::local_capacity_window@451 — local_capacity_window](../records/0215.md#pr26-physical-capacity-local-capacity-window-451-b17d526bbd)
-- [pr26:Physical.Capacity::local_or_old_pair@534 — local_or_old_pair](../records/0215.md#pr26-physical-capacity-local-or-old-pair-534-4f689f6651)
+- [pr26:Physical.Capacity::localCapacity@438 — localCapacity](../records/0216.md#pr26-physical-capacity-localcapacity-438-0fb26a2db8)
+- [pr26:Physical.Capacity::local_capacity_window@451 — local_capacity_window](../records/0216.md#pr26-physical-capacity-local-capacity-window-451-b17d526bbd)
+- [pr26:Physical.Capacity::local_or_old_pair@534 — local_or_old_pair](../records/0216.md#pr26-physical-capacity-local-or-old-pair-534-4f689f6651)
 - [pr26:Physical.Capacity::oldCapacity@439 — oldCapacity](../records/0216.md#pr26-physical-capacity-oldcapacity-439-f0eae0715f)
 - [pr26:Physical.Capacity::old_capacity_feasible_or_zero@556 — old_capacity_feasible_or_zero](../records/0216.md#pr26-physical-capacity-old-capacity-feasible-or-zero-556-7a89cd1f3b)
 - [pr26:Physical.Capacity::old_capacity_of_downward@527 — old_capacity_of_downward](../records/0216.md#pr26-physical-capacity-old-capacity-of-downward-527-0ad4c64cf4)
@@ -136,9 +139,9 @@ Page 70/71; 17520 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::active_span_swap@2654 — active_span_swap](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-active-span-swap-dda682d5f6)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_admitted_subsets_high_column@9364 — actual_admitted_subsets_high_column](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-admitted--119c805aea)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_admitted_subsets_low_column@8936 — actual_admitted_subsets_low_column](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-admitted--35efc8878b)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_allocated_paid_bands@2315 — actual_allocated_paid_bands](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-allocated-d4f70845c7)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_canonical_child_bands@2738 — actual_canonical_child_bands](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-canonical-d1be822f82)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_canonical_paid_source@3063 — actual_canonical_paid_source](../records/0216.md#pr26-zetazerofree-analytic-moments-unconditional-actual-canonical-d31096f724)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_allocated_paid_bands@2315 — actual_allocated_paid_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-allocated-d4f70845c7)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_canonical_child_bands@2738 — actual_canonical_child_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-canonical-d1be822f82)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_canonical_paid_source@3063 — actual_canonical_paid_source](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-canonical-d31096f724)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_capped_low@12620 — actual_capped_low](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-capped-lo-56e7ec9a57)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_clipped_homogeneous_bands@2540 — actual_clipped_homogeneous_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-clipped-h-d1bcb7e96c)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_clipped_paid_bands@2425 — actual_clipped_paid_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-clipped-p-73d1737056)
@@ -226,9 +229,9 @@ Page 70/71; 17520 matching records.
 - [review:A18 — \[research revision\]-review:A18](../records/0217.md#review-a18-a1368f48cf)
 - [review:T01 — \[research revision\]-review:T01](../records/0217.md#review-t01-d60a8ef6a7)
 - [review:T02 — \[research revision\]-review:T02](../records/0217.md#review-t02-74c6b63ea9)
-- [review:T03 — \[research revision\]-review:T03](../records/0217.md#review-t03-67333eb8a1)
-- [review:T04 — \[research revision\]-review:T04](../records/0217.md#review-t04-53250e35ec)
-- [review:T05 — \[research revision\]-review:T05](../records/0217.md#review-t05-af4682a534)
+- [review:T03 — \[research revision\]-review:T03](../records/0218.md#review-t03-67333eb8a1)
+- [review:T04 — \[research revision\]-review:T04](../records/0218.md#review-t04-53250e35ec)
+- [review:T05 — \[research revision\]-review:T05](../records/0218.md#review-t05-af4682a534)
 - [review:T06 — \[research revision\]-review:T06](../records/0218.md#review-t06-2f9f1fb3c7)
 - [review:T07 — \[research revision\]-review:T07](../records/0218.md#review-t07-d3b26c667a)
 - [review:T08 — \[research revision\]-review:T08](../records/0218.md#review-t08-da626c3108)
@@ -255,6 +258,3 @@ Page 70/71; 17520 matching records.
 - [reviewed-claim:T08-corridor-closure — \[research revision\]-claim:T08-corridor-closure](../records/0218.md#reviewed-claim-t08-corridor-closure-533dfc5eb4)
 - [reviewed-claim:T08-exact-incidence — \[research revision\]-claim:T08-exact-incidence](../records/0218.md#reviewed-claim-t08-exact-incidence-afec707c2b)
 - [reviewed-claim:T08-finite-incidence-transfer — \[research revision\]-claim:T08-finite-incidence-transfer](../records/0218.md#reviewed-claim-t08-finite-incidence-transfer-1d3757e237)
-- [reviewed-claim:T08-fixed-buffer — \[research revision\]-claim:T08-fixed-buffer](../records/0218.md#reviewed-claim-t08-fixed-buffer-adde43a7ae)
-- [reviewed-claim:T08-rational-targets — \[research revision\]-claim:T08-rational-targets](../records/0218.md#reviewed-claim-t08-rational-targets-ce0ce086b2)
-- [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)

@@ -2,12 +2,15 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 58/71; 17520 matching records.
+Page 58/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-57.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-59.md)
 
+- [pr26:Analytic.JointHighPacketData::HighPacketSourceData@601 — HighPacketSourceData](../records/0185.md#pr26-analytic-jointhighpacketdata-highpacketsourcedata-601-63d76f832a)
+- [pr26:Analytic.JointHighPacketDataBound — Analytic.JointHighPacketDataBound](../records/0185.md#pr26-analytic-jointhighpacketdatabound-caf1c1dada)
+- [pr26:Analytic.JointHighPacketDataBound::actual_high_packet_data_bound@60 — actual_high_packet_data_bound](../records/0185.md#pr26-analytic-jointhighpacketdatabound-actual-high-packet-data-bo-cab2d60586)
 - [pr26:Analytic.JointHighPacketGeometry — Analytic.JointHighPacketGeometry](../records/0185.md#pr26-analytic-jointhighpacketgeometry-df62d19761)
 - [pr26:Analytic.JointHighPacketGeometry::actual_joint_high_packet_geometry@323 — actual_joint_high_packet_geometry](../records/0185.md#pr26-analytic-jointhighpacketgeometry-actual-joint-high-packet-ge-f43aea14b7)
 - [pr26:Analytic.JointHighPacketRecoveryGates — Analytic.JointHighPacketRecoveryGates](../records/0185.md#pr26-analytic-jointhighpacketrecoverygates-add9e1c665)
@@ -36,9 +39,9 @@ Page 58/71; 17520 matching records.
 - [pr26:Analytic.JointHighReferenceGates::high_cancellation_reference@677 — high_cancellation_reference](../records/0185.md#pr26-analytic-jointhighreferencegates-high-cancellation-reference-38d0de4b95)
 - [pr26:Analytic.JointHighReferenceGates::high_radical_reference@654 — high_radical_reference](../records/0185.md#pr26-analytic-jointhighreferencegates-high-radical-reference-654-ade1893374)
 - [pr26:Analytic.JointHighReferenceGates::high_reference_caps@691 — high_reference_caps](../records/0185.md#pr26-analytic-jointhighreferencegates-high-reference-caps-691-7d55b05d3e)
-- [pr26:Analytic.JointHighReferencePacketGates — Analytic.JointHighReferencePacketGates](../records/0185.md#pr26-analytic-jointhighreferencepacketgates-e2e64e0df7)
-- [pr26:Analytic.JointHighReferencePacketGates::HighReferencePacketGates@553 — HighReferencePacketGates](../records/0185.md#pr26-analytic-jointhighreferencepacketgates-highreferencepacketga-60ee1df0c7)
-- [pr26:Analytic.JointHighReferencePacketGates::actual_high_reference_packet_gates@591 — actual_high_reference_packet_gates](../records/0185.md#pr26-analytic-jointhighreferencepacketgates-actual-high-reference-4257f91924)
+- [pr26:Analytic.JointHighReferencePacketGates — Analytic.JointHighReferencePacketGates](../records/0186.md#pr26-analytic-jointhighreferencepacketgates-e2e64e0df7)
+- [pr26:Analytic.JointHighReferencePacketGates::HighReferencePacketGates@553 — HighReferencePacketGates](../records/0186.md#pr26-analytic-jointhighreferencepacketgates-highreferencepacketga-60ee1df0c7)
+- [pr26:Analytic.JointHighReferencePacketGates::actual_high_reference_packet_gates@591 — actual_high_reference_packet_gates](../records/0186.md#pr26-analytic-jointhighreferencepacketgates-actual-high-reference-4257f91924)
 - [pr26:Analytic.JointHighReferencePacketGates::highPacketGeometryLoss@546 — highPacketGeometryLoss](../records/0186.md#pr26-analytic-jointhighreferencepacketgates-highpacketgeometrylos-714c894217)
 - [pr26:Analytic.JointHighReferencePacketGates::highPacketLengthLoss@547 — highPacketLengthLoss](../records/0186.md#pr26-analytic-jointhighreferencepacketgates-highpacketlengthloss--e68b3e4aa1)
 - [pr26:Analytic.JointHighReferencePacketGates::highPacketMissingWidth@551 — highPacketMissingWidth](../records/0186.md#pr26-analytic-jointhighreferencepacketgates-highpacketmissingwidt-9c172ede77)
@@ -136,9 +139,9 @@ Page 58/71; 17520 matching records.
 - [pr26:Analytic.JointLiveCommonSource::original_source_weighted_common_bound@638 — original_source_weighted_common_bound](../records/0186.md#pr26-analytic-jointlivecommonsource-original-source-weighted-comm-c3ad793140)
 - [pr26:Analytic.JointLocalErrorCores — Analytic.JointLocalErrorCores](../records/0186.md#pr26-analytic-jointlocalerrorcores-80ca868fc9)
 - [pr26:Analytic.JointLocalErrorCores::actual_refined_local_error_average@433 — actual_refined_local_error_average](../records/0186.md#pr26-analytic-jointlocalerrorcores-actual-refined-local-error-ave-d69419a81d)
-- [pr26:Analytic.JointLocalErrorCores::actual_refined_local_error_cores@363 — actual_refined_local_error_cores](../records/0186.md#pr26-analytic-jointlocalerrorcores-actual-refined-local-error-cor-965924b43e)
-- [pr26:Analytic.JointLocalErrorCores::joint_error_four_average@493 — joint_error_four_average](../records/0186.md#pr26-analytic-jointlocalerrorcores-joint-error-four-average-493-e5106d0d94)
-- [pr26:Analytic.JointLocalErrorCores::localErrorExponents@357 — localErrorExponents](../records/0186.md#pr26-analytic-jointlocalerrorcores-localerrorexponents-357-05e9557cea)
+- [pr26:Analytic.JointLocalErrorCores::actual_refined_local_error_cores@363 — actual_refined_local_error_cores](../records/0187.md#pr26-analytic-jointlocalerrorcores-actual-refined-local-error-cor-965924b43e)
+- [pr26:Analytic.JointLocalErrorCores::joint_error_four_average@493 — joint_error_four_average](../records/0187.md#pr26-analytic-jointlocalerrorcores-joint-error-four-average-493-e5106d0d94)
+- [pr26:Analytic.JointLocalErrorCores::localErrorExponents@357 — localErrorExponents](../records/0187.md#pr26-analytic-jointlocalerrorcores-localerrorexponents-357-05e9557cea)
 - [pr26:Analytic.JointLocalErrorCores::local_error_source_reserve@518 — local_error_source_reserve](../records/0187.md#pr26-analytic-jointlocalerrorcores-local-error-source-reserve-518-713ee99727)
 - [pr26:Analytic.JointLocalErrorParameters — Analytic.JointLocalErrorParameters](../records/0187.md#pr26-analytic-jointlocalerrorparameters-7abf36fa9f)
 - [pr26:Analytic.JointLocalErrorParameters::errorLocalEps@24 — errorLocalEps](../records/0187.md#pr26-analytic-jointlocalerrorparameters-errorlocaleps-24-00d1f93d3c)
@@ -236,9 +239,9 @@ Page 58/71; 17520 matching records.
 - [pr26:Analytic.JointLowLocalGates::lowLocalSlotLoss@260 — lowLocalSlotLoss](../records/0187.md#pr26-analytic-jointlowlocalgates-lowlocalslotloss-260-fe3ad85a8f)
 - [pr26:Analytic.JointLowLocalGates::lowLocalTiny@256 — lowLocalTiny](../records/0187.md#pr26-analytic-jointlowlocalgates-lowlocaltiny-256-d586494a31)
 - [pr26:Analytic.JointLowLocalGates::low_local_live_budgets@286 — low_local_live_budgets](../records/0187.md#pr26-analytic-jointlowlocalgates-low-local-live-budgets-286-c7b166e4c3)
-- [pr26:Analytic.JointLowLocalGates::low_local_parameter_choices@264 — low_local_parameter_choices](../records/0187.md#pr26-analytic-jointlowlocalgates-low-local-parameter-choices-264-283c94cbac)
-- [pr26:Analytic.JointLowLocalGates::original_volume_log@304 — original_volume_log](../records/0187.md#pr26-analytic-jointlowlocalgates-original-volume-log-304-e0bca48fa9)
-- [pr26:Analytic.JointLowLocalGates::plain_scale_le_base@320 — plain_scale_le_base](../records/0187.md#pr26-analytic-jointlowlocalgates-plain-scale-le-base-320-30c66188fe)
+- [pr26:Analytic.JointLowLocalGates::low_local_parameter_choices@264 — low_local_parameter_choices](../records/0188.md#pr26-analytic-jointlowlocalgates-low-local-parameter-choices-264-283c94cbac)
+- [pr26:Analytic.JointLowLocalGates::original_volume_log@304 — original_volume_log](../records/0188.md#pr26-analytic-jointlowlocalgates-original-volume-log-304-e0bca48fa9)
+- [pr26:Analytic.JointLowLocalGates::plain_scale_le_base@320 — plain_scale_le_base](../records/0188.md#pr26-analytic-jointlowlocalgates-plain-scale-le-base-320-30c66188fe)
 - [pr26:Analytic.JointLowLocalGates::plain_scale_le_base_of_log_le_one@314 — plain_scale_le_base_of_log_le_one](../records/0188.md#pr26-analytic-jointlowlocalgates-plain-scale-le-base-of-log-le-on-f6c84f83bd)
 - [pr26:Analytic.JointLowLocalGates::sourceRadius_eq_profile_volume@147 — sourceRadius_eq_profile_volume](../records/0188.md#pr26-analytic-jointlowlocalgates-sourceradius-eq-profile-volume-1-e7cc779b17)
 - [pr26:Analytic.JointLowLocalGates::sourceRadius_le_fixed_volume@152 — sourceRadius_le_fixed_volume](../records/0188.md#pr26-analytic-jointlowlocalgates-sourceradius-le-fixed-volume-152-95f0abde97)
@@ -255,6 +258,3 @@ Page 58/71; 17520 matching records.
 - [pr26:Analytic.JointLowMoment::low_mesh_independent_of_slot_count@740 — low_mesh_independent_of_slot_count](../records/0188.md#pr26-analytic-jointlowmoment-low-mesh-independent-of-slot-count-7-b9a494dcef)
 - [pr26:Analytic.JointLowMoment::low_nominal_width@728 — low_nominal_width](../records/0188.md#pr26-analytic-jointlowmoment-low-nominal-width-728-56ef1ae6a1)
 - [pr26:Analytic.JointLowMoment::naturalState_relative_nonprincipal@551 — naturalState_relative_nonprincipal](../records/0188.md#pr26-analytic-jointlowmoment-naturalstate-relative-nonprincipal-5-bdfdc31f18)
-- [pr26:Analytic.JointLowMoment::normalizedSlot_relative_pool@577 — normalizedSlot_relative_pool](../records/0188.md#pr26-analytic-jointlowmoment-normalizedslot-relative-pool-577-ca5656c819)
-- [pr26:Analytic.JointLowNormalization — Analytic.JointLowNormalization](../records/0188.md#pr26-analytic-jointlownormalization-0a943f74c9)
-- [pr26:Analytic.JointLowNormalization::low_pair_source_normalization@394 — low_pair_source_normalization](../records/0188.md#pr26-analytic-jointlownormalization-low-pair-source-normalization-c6590b3f79)

@@ -2,14 +2,15 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 8/13; 3033 matching records.
+Page 8/13; 3034 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-07.md)
 
 [Next](topic-spectral-a26ea51cb6-09.md)
 
+- [local-section:3c00a9634dcb608cf125849f — T01. Quantitative fixed-factor division — PROVED](../records/0144.md#local-section-3c00a9634dcb608cf125849f-cf71ea93ae)
 - [local-section:3c630827feaaf3da167e9311 — 8. Targets, novelty and disposition](../records/0144.md#local-section-3c630827feaaf3da167e9311-b71969935d)
-- [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0144.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
+- [local-section:3cbed71b635d6094e77a2236 — 5. A quantitative failed-inequality counterexample](../records/0145.md#local-section-3cbed71b635d6094e77a2236-87003fee20)
 - [local-section:3cf882726fbcd59fe31d85e5 — G163. Exact native Schur and four-cycle bills](../records/0145.md#local-section-3cf882726fbcd59fe31d85e5-5afad4f8cc)
 - [local-section:3cfb55bc6b80c52e40b58b66 — 4. Literal arithmetic returns and their exact limits](../records/0145.md#local-section-3cfb55bc6b80c52e40b58b66-c26433518e)
 - [local-section:3d2c314962e1d213c7c7736e — Evidence and next research step](../records/0145.md#local-section-3d2c314962e1d213c7c7736e-bb171aedff)
@@ -41,7 +42,7 @@ Page 8/13; 3033 matching records.
 - [local-section:42fc62b7fd06db53a6bce165 — 2. The exact weighted moment](../records/0145.md#local-section-42fc62b7fd06db53a6bce165-f69231599b)
 - [local-section:430ec781ad559c902932fee4 — B. Uniform S17: the full feedback denominator and the missing native map](../records/0145.md#local-section-430ec781ad559c902932fee4-c3dbfcc0b4)
 - [local-section:4438318619112d5cb3e85ffa — 8. Evidence limits and final state](../records/0145.md#local-section-4438318619112d5cb3e85ffa-748db4272b)
-- [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0145.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
+- [local-section:450399e7494ed69b7b949ceb — 8. Remaining selected tests and independent uniform audit C05](../records/0146.md#local-section-450399e7494ed69b7b949ceb-1a1ed52106)
 - [local-section:456adf7ad36cf418cc10b67f — R10. What is genuinely new, and what remains open](../records/0146.md#local-section-456adf7ad36cf418cc10b67f-e6aa5c5ae9)
 - [local-section:45be2c9607efc7b04c92aa2e — 3. The entire positive chain mass really has exponent one](../records/0146.md#local-section-45be2c9607efc7b04c92aa2e-a8a22a0f65)
 - [local-section:45c4ef9373d6c0aabb4b0e67 — \[research revision\] overlays and \[research revision\]–\[research revision\]: paid sectors and precise residuals](../records/0146.md#local-section-45c4ef9373d6c0aabb4b0e67-0fc80d1388)
@@ -77,7 +78,7 @@ Page 8/13; 3033 matching records.
 - [local-section:4ac4b3d457188a61be8f97cf — 6. Exact gain and a proved obstruction to a tempting iteration](../records/0146.md#local-section-4ac4b3d457188a61be8f97cf-8903901336)
 - [local-section:4ad1b8344d676dbbec363b95 — D02. Rank-one determinant detector: an exact attempted bridge that fails to weaken the input](../records/0146.md#local-section-4ad1b8344d676dbbec363b95-a28d1aeb63)
 - [local-section:4b6183d240ee3d2454ac79e1 — 1. Exact replacement source: squarefree divisor incidence](../records/0146.md#local-section-4b6183d240ee3d2454ac79e1-8b8ec849d9)
-- [local-section:4b62d4f321984b6a9731e281 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0146.md#local-section-4b62d4f321984b6a9731e281-dcaaf4eaa7)
+- [local-section:4b62d4f321984b6a9731e281 — G5 — p\<.01, far-gap H phase/projectors, geometry/discrete optimization](../records/0147.md#local-section-4b62d4f321984b6a9731e281-dcaaf4eaa7)
 - [local-section:4ba58ee5e29555d364ac150a — 1. Verdict and contribution](../records/0147.md#local-section-4ba58ee5e29555d364ac150a-5d19c459ed)
 - [local-section:4be025221ce9aa2c49d8c5a9 — 4. Consequential corrections and unresolved assertions](../records/0147.md#local-section-4be025221ce9aa2c49d8c5a9-57ab4bff2a)
 - [local-section:4c0a2492819062159325630d — Decision and exact scope](../records/0147.md#local-section-4c0a2492819062159325630d-297d781a3e)
@@ -141,7 +142,7 @@ Page 8/13; 3033 matching records.
 - [local-section:5a0c3416d17997a93e72e90e — \[research revision\]: complete character energy and lawful source states](../records/0148.md#local-section-5a0c3416d17997a93e72e90e-3d550eaa7d)
 - [local-section:5a662def14ed9a5a5f2ddbe0 — Exhaustive detail and scope](../records/0148.md#local-section-5a662def14ed9a5a5f2ddbe0-3e627d83b3)
 - [local-section:5a701b4a3ce04c1543e50543 — 7. Independent scale detectors and a new dilation construction](../records/0148.md#local-section-5a701b4a3ce04c1543e50543-d862c292f3)
-- [local-section:5aac125acab88f998a2cc8cf — Evidence, chronology and sampling](../records/0148.md#local-section-5aac125acab88f998a2cc8cf-d9f0e2c3d6)
+- [local-section:5aac125acab88f998a2cc8cf — Evidence, chronology and sampling](../records/0149.md#local-section-5aac125acab88f998a2cc8cf-d9f0e2c3d6)
 - [local-section:5ae458469ad44675a761f9d4 — 7. Uniform parked audit18: continuation of a state does not continue zero exclusion](../records/0149.md#local-section-5ae458469ad44675a761f9d4-546bd83dce)
 - [local-section:5aea68852bba3e0968911c8a — 6. Full detector rectangle, complements and reciprocal return](../records/0149.md#local-section-5aea68852bba3e0968911c8a-871d3fa416)
 - [local-section:5b2f534270324ddd4d2fa082 — 9. Remaining analytic fields and fixed-family conclusion](../records/0149.md#local-section-5b2f534270324ddd4d2fa082-01a5ffd213)
@@ -180,8 +181,8 @@ Page 8/13; 3033 matching records.
 - [local-section:61faa04014d526c968d73ecc — \[research revision\] discovery-first source pass — quantitative short windows and a calibrated multiplicative obstruction](../records/0149.md#local-section-61faa04014d526c968d73ecc-c78c487750)
 - [local-section:61fb54d5310c24ebc512a814 — Sol04 independent first-stage review](../records/0149.md#local-section-61fb54d5310c24ebc512a814-b3e72c6f41)
 - [local-section:62071bdd0d79df6dc7a80b43 — Decisive change and independent reconstruction](../records/0149.md#local-section-62071bdd0d79df6dc7a80b43-a840d53975)
-- [local-section:62163623fd0274e1f12dd873 — D22 / S22: accept exact source; retain the gap failure](../records/0149.md#local-section-62163623fd0274e1f12dd873-dc78e65123)
-- [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0149.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
+- [local-section:62163623fd0274e1f12dd873 — D22 / S22: accept exact source; retain the gap failure](../records/0150.md#local-section-62163623fd0274e1f12dd873-dc78e65123)
+- [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0150.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
 - [local-section:62278ab30fb6612be849924f — 1. Scope, chronology and immutable inputs](../records/0150.md#local-section-62278ab30fb6612be849924f-ef8db73c97)
 - [local-section:624f28c3cba6cf5738606e68 — 3. Protected rare27: integrated logarithmic Hankel operator](../records/0150.md#local-section-624f28c3cba6cf5738606e68-34328ba5a5)
 - [local-section:6290b5dd1062ecb4ee92434c — 4. Development16: the exact cubical source retains harmonic parity](../records/0150.md#local-section-6290b5dd1062ecb4ee92434c-6ae7999350)
@@ -257,4 +258,3 @@ Page 8/13; 3033 matching records.
 - [local-section:75cdb4c0cf6015d8b0503980 — Retention, admission and next decisive work](../records/0152.md#local-section-75cdb4c0cf6015d8b0503980-0124aead57)
 - [local-section:75cf006d14d5410ff3f90c22 — 2. D1 / S01: fully paid reduction to a hard-prime off-diagonal form](../records/0152.md#local-section-75cf006d14d5410ff3f90c22-d8d1e152fc)
 - [local-section:7602726ea104cef6128599b7 — 1. Immutable intake, sampling and audit chronology](../records/0152.md#local-section-7602726ea104cef6128599b7-37add7d844)
-- [local-section:763c4474a4c3a30824ac9437 — Exact band consequences and limitations](../records/0152.md#local-section-763c4474a4c3a30824ac9437-626d25a10e)

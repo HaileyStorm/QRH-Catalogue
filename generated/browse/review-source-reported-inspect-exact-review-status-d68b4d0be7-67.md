@@ -2,12 +2,15 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 67/71; 17520 matching records.
+Page 67/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
+- [pr26:Global.Low.Detector.LowSelectedBound::lowReflectionMask_bad_ideals@711 — lowReflectionMask_bad_ideals](../records/0208.md#pr26-global-low-detector-lowselectedbound-lowreflectionmask-bad-i-ebffe1d412)
+- [pr26:Global.Low.Detector.LowSelectedBound::low_selected_physical_energy@718 — low_selected_physical_energy](../records/0208.md#pr26-global-low-detector-lowselectedbound-low-selected-physical-e-9428709f78)
+- [pr26:Global.Low.Detector.LowSlotScales — Global.Low.Detector.LowSlotScales](../records/0208.md#pr26-global-low-detector-lowslotscales-beb05eedd6)
 - [pr26:Global.Low.Detector.LowSlotScales::elementNorm_finset_prod@449 — elementNorm_finset_prod](../records/0208.md#pr26-global-low-detector-lowslotscales-elementnorm-finset-prod-44-9ffada0b83)
 - [pr26:Global.Low.Detector.LowSlotScales::eventually_original_slot_scales@483 — eventually_original_slot_scales](../records/0208.md#pr26-global-low-detector-lowslotscales-eventually-original-slot-s-e4890b8ac1)
 - [pr26:Global.Low.Detector.LowSlotScales::lowUnselectedProduct_norm_bound@463 — lowUnselectedProduct_norm_bound](../records/0208.md#pr26-global-low-detector-lowslotscales-lowunselectedproduct-norm--afc35dbbcf)
@@ -86,9 +89,9 @@ Page 67/71; 17520 matching records.
 - [pr26:Global.Low.RegionalCorrection::weighted_globalClosedCorrection_multipliable@561 — weighted_globalClosedCorrection_multipliable](../records/0208.md#pr26-global-low-regionalcorrection-weighted-globalclosedcorrectio-0dad5cf4d0)
 - [pr26:Global.Low.RegionalCorrection::weighted_idealClosedCorrection_bound@540 — weighted_idealClosedCorrection_bound](../records/0208.md#pr26-global-low-regionalcorrection-weighted-idealclosedcorrection-97283f9a8b)
 - [pr26:Global.Low.RegionalCorrection::weighted_open_region_denominators@490 — weighted_open_region_denominators](../records/0208.md#pr26-global-low-regionalcorrection-weighted-open-region-denominat-4daca30db1)
-- [pr26:Global.Low.RegionalCorrection::weighted_unramifiedClosed_analytic_w@520 — weighted_unramifiedClosed_analytic_w](../records/0208.md#pr26-global-low-regionalcorrection-weighted-unramifiedclosed-anal-cd3b69aff1)
-- [pr26:Global.Low.RegionalCorrection::weighted_unramifiedClosed_analytic_x@512 — weighted_unramifiedClosed_analytic_x](../records/0208.md#pr26-global-low-regionalcorrection-weighted-unramifiedclosed-anal-ab2be86dc9)
-- [pr26:Global.Low.RegionalCorrection::weighted_unramifiedClosed_analytic_z@529 — weighted_unramifiedClosed_analytic_z](../records/0208.md#pr26-global-low-regionalcorrection-weighted-unramifiedclosed-anal-1008d2ab71)
+- [pr26:Global.Low.RegionalCorrection::weighted_unramifiedClosed_analytic_w@520 — weighted_unramifiedClosed_analytic_w](../records/0209.md#pr26-global-low-regionalcorrection-weighted-unramifiedclosed-anal-cd3b69aff1)
+- [pr26:Global.Low.RegionalCorrection::weighted_unramifiedClosed_analytic_x@512 — weighted_unramifiedClosed_analytic_x](../records/0209.md#pr26-global-low-regionalcorrection-weighted-unramifiedclosed-anal-ab2be86dc9)
+- [pr26:Global.Low.RegionalCorrection::weighted_unramifiedClosed_analytic_z@529 — weighted_unramifiedClosed_analytic_z](../records/0209.md#pr26-global-low-regionalcorrection-weighted-unramifiedclosed-anal-1008d2ab71)
 - [pr26:Global.Low.RegionalCorrection::weighted_unramified_bound@427 — weighted_unramified_bound](../records/0209.md#pr26-global-low-regionalcorrection-weighted-unramified-bound-427-759d2b15eb)
 - [pr26:Global.Low.SourceProbe — Global.Low.SourceProbe](../records/0209.md#pr26-global-low-sourceprobe-fd62bd7e3f)
 - [pr26:Global.Low.SourceProbe::actual_source_analytic@834 — actual_source_analytic](../records/0209.md#pr26-global-low-sourceprobe-actual-source-analytic-834-2fe9cd8a4b)
@@ -186,9 +189,9 @@ Page 67/71; 17520 matching records.
 - [pr26:Global.Numerator.SourceSelection::source_class_main_selection@756 — source_class_main_selection](../records/0209.md#pr26-global-numerator-sourceselection-source-class-main-selection-93ce86324c)
 - [pr26:Global.Numerator.SourceSelection::source_count_physical_eq@740 — source_count_physical_eq](../records/0209.md#pr26-global-numerator-sourceselection-source-count-physical-eq-74-597bb1be33)
 - [pr26:Global.Numerator.SourceSelection::source_selected_product_crude@868 — source_selected_product_crude](../records/0209.md#pr26-global-numerator-sourceselection-source-selected-product-cru-d06cb4e708)
-- [pr26:Global.Numerator.SourceSelection::squared_selected_lower@836 — squared_selected_lower](../records/0209.md#pr26-global-numerator-sourceselection-squared-selected-lower-836-220cd91ad7)
-- [pr26:Global.Parameters — Global.Parameters](../records/0209.md#pr26-global-parameters-b4c6d0fdb1)
-- [pr26:Global.Parameters::b@478 — b](../records/0209.md#pr26-global-parameters-b-478-0fdcb415c1)
+- [pr26:Global.Numerator.SourceSelection::squared_selected_lower@836 — squared_selected_lower](../records/0210.md#pr26-global-numerator-sourceselection-squared-selected-lower-836-220cd91ad7)
+- [pr26:Global.Parameters — Global.Parameters](../records/0210.md#pr26-global-parameters-b4c6d0fdb1)
+- [pr26:Global.Parameters::b@478 — b](../records/0210.md#pr26-global-parameters-b-478-0fdcb415c1)
 - [pr26:Global.Parameters::b_pos@503 — b_pos](../records/0210.md#pr26-global-parameters-b-pos-503-3c18178e81)
 - [pr26:Global.Parameters::compensated_low_geometry@554 — compensated_low_geometry](../records/0210.md#pr26-global-parameters-compensated-low-geometry-554-6dfe82b9ed)
 - [pr26:Global.Parameters::ell@474 — ell](../records/0210.md#pr26-global-parameters-ell-474-237e8635ff)
@@ -255,6 +258,3 @@ Page 67/71; 17520 matching records.
 - [pr26:Global.Transport.CanonicalTails::canonical_small_original_tail@558 — canonical_small_original_tail](../records/0210.md#pr26-global-transport-canonicaltails-canonical-small-original-tai-6ed9922938)
 - [pr26:Global.Transport.CentralClassArithmetic — Global.Transport.CentralClassArithmetic](../records/0210.md#pr26-global-transport-centralclassarithmetic-63d0121f2e)
 - [pr26:Global.Transport.CentralClassArithmetic::actual_class_cube_arithmetic@343 — actual_class_cube_arithmetic](../records/0210.md#pr26-global-transport-centralclassarithmetic-actual-class-cube-ar-672760e227)
-- [pr26:Global.Transport.CentralClassArithmetic::classPoolOutside@339 — classPoolOutside](../records/0210.md#pr26-global-transport-centralclassarithmetic-classpooloutside-339-d74c620aa1)
-- [pr26:Global.Transport.CentralErrorSaving — Global.Transport.CentralErrorSaving](../records/0210.md#pr26-global-transport-centralerrorsaving-f2b54d2592)
-- [pr26:Global.Transport.CentralErrorSaving::central_arithmetic_cost_bound@254 — central_arithmetic_cost_bound](../records/0210.md#pr26-global-transport-centralerrorsaving-central-arithmetic-cost--a84d01e72b)

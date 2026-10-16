@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 9/13; 3033 matching records.
+Page 9/13; 3034 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-08.md)
 
 [Next](topic-spectral-a26ea51cb6-10.md)
 
+- [local-section:763c4474a4c3a30824ac9437 — Exact band consequences and limitations](../records/0152.md#local-section-763c4474a4c3a30824ac9437-626d25a10e)
 - [local-section:765745de5d7c6cb59a3f0c87 — F12. Correlated moving-prime amplification](../records/0152.md#local-section-765745de5d7c6cb59a3f0c87-df0360815b)
 - [local-section:771131d488c99d5ad19641e5 — 3.1 A uniform complete norm excludes all right-hand zeros](../records/0152.md#local-section-771131d488c99d5ad19641e5-b71eaa8b98)
 - [local-section:772762922325a550ed1e067c — \[research revision\]: paid detector overlap and consultation library](../records/0152.md#local-section-772762922325a550ed1e067c-b62b2e1a0a)
@@ -19,7 +20,7 @@ Page 9/13; 3033 matching records.
 - [local-section:7852a5c7a94736af0e539907 — 2. Sources, exact bindings and independent method](../records/0152.md#local-section-7852a5c7a94736af0e539907-f7bea94413)
 - [local-section:7861a69d36ba2bda54d5020d — 5. Unpaid arithmetic, objections and novelty relative to the record](../records/0152.md#local-section-7861a69d36ba2bda54d5020d-c05194b3b7)
 - [local-section:7864c7683a4d3067e2f4c126 — 5.1 W40-11 — the proposed full operator bound fails for the actual critical split](../records/0152.md#local-section-7864c7683a4d3067e2f4c126-4a7273d875)
-- [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0152.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
+- [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0153.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
 - [local-section:7996f2454b4a8a2811d4c1e2 — All ten exact first tests](../records/0153.md#local-section-7996f2454b4a8a2811d4c1e2-553b4a634c)
 - [local-section:79e849d7a09228505787d1b0 — G. Current alternative library and original stable IDs](../records/0153.md#local-section-79e849d7a09228505787d1b0-e1c8108098)
 - [local-section:7a40bf92b0ffb52eeea2387f — F25. Triple-rotation theta products](../records/0153.md#local-section-7a40bf92b0ffb52eeea2387f-54b14e8ef9)
@@ -53,9 +54,9 @@ Page 9/13; 3033 matching records.
 - [local-section:7fa2c01d2911ae5146460472 — W61: actual isolated-source costs, prime-graph control, and a compact certificate ladder](../records/0153.md#local-section-7fa2c01d2911ae5146460472-55fc4f97fd)
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
-- [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0153.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
-- [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0153.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
-- [local-section:806009d1beaaca2304e8ad37 — F08. Weighted fractional parts and modular residues](../records/0153.md#local-section-806009d1beaaca2304e8ad37-6803980858)
+- [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
+- [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0154.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
+- [local-section:806009d1beaaca2304e8ad37 — F08. Weighted fractional parts and modular residues](../records/0154.md#local-section-806009d1beaaca2304e8ad37-6803980858)
 - [local-section:80af4425850bd1179f2629d2 — 5. Protected audit S42: what a scale counterterm actually removes](../records/0154.md#local-section-80af4425850bd1179f2629d2-fce17fe9dd)
 - [local-section:81884ab57ca1812f1498031a — \[research revision\] independent review: two complementary witnesses on one far annulus](../records/0154.md#local-section-81884ab57ca1812f1498031a-f483e7cda3)
 - [local-section:81ae31a947cc3938cdc9762c — R9. Strongest surviving obstruction and next mathematical action](../records/0154.md#local-section-81ae31a947cc3938cdc9762c-106bad50fa)
@@ -84,8 +85,8 @@ Page 9/13; 3033 matching records.
 - [local-section:8750d45ee4660ade659d9664 — 3. The actual physical family and the selected slots](../records/0154.md#local-section-8750d45ee4660ade659d9664-a2ee569221)
 - [local-section:875a4a7bd63cb8d290524095 — R7. Protected20: an exact Schur reduction must retain the completion](../records/0154.md#local-section-875a4a7bd63cb8d290524095-7f736a81aa)
 - [local-section:8765f4b7133e69437e9a9d56 — 4. An exact positive norm and its fully paid diagonal](../records/0154.md#local-section-8765f4b7133e69437e9a9d56-f0245762f2)
-- [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0154.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
-- [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0154.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
+- [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0155.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
+- [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0155.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
 - [local-section:8958eaf50466fff634cc11ec — \[research revision\] signed-core review: complete cofactor payment and a rectangular core](../records/0155.md#local-section-8958eaf50466fff634cc11ec-e399898544)
 - [local-section:8974ba5db4511e1d9849ebd5 — 8. Evidence and next mathematical action](../records/0155.md#local-section-8974ba5db4511e1d9849ebd5-3fc1ad2db5)
 - [local-section:898ad9c13d548fc284a403e0 — G124. Current margins and precise remaining signed input](../records/0155.md#local-section-898ad9c13d548fc284a403e0-7bc572c519)
@@ -172,7 +173,7 @@ Page 9/13; 3033 matching records.
 - [local-section:9e68a37c1e5d72bbdaedadac — \[research revision\]: coefficient-aware Gaussian gcd sectors](../records/0157.md#local-section-9e68a37c1e5d72bbdaedadac-910afc368c)
 - [local-section:9e6cb5c37970f211013c0dc7 — \[research revision\]: an actual old/new detector transfer with paid prime tails](../records/0157.md#local-section-9e6cb5c37970f211013c0dc7-32ef874676)
 - [local-section:9e74c332fb10fa55ef1eb570 — 6.1 Use the existing label average to pay every row repetition](../records/0157.md#local-section-9e74c332fb10fa55ef1eb570-ea30aa43a1)
-- [local-section:9eb45c19b5afa5af61670699 — \[research revision\]: a complete parity-adapted Jordan source](../records/0157.md#local-section-9eb45c19b5afa5af61670699-d4adc9e64a)
+- [local-section:9eb45c19b5afa5af61670699 — \[research revision\]: a complete parity-adapted Jordan source](../records/0158.md#local-section-9eb45c19b5afa5af61670699-d4adc9e64a)
 - [local-section:9f1457cb9962b9df7721d939 — 7. Evidence and next allocation](../records/0158.md#local-section-9f1457cb9962b9df7721d939-fd7cc43490)
 - [local-section:9f23ecef4ce615b5200a150e — 2. Agreement with the independently derived transfer](../records/0158.md#local-section-9f23ecef4ce615b5200a150e-ac1322a046)
 - [local-section:9f7ffe08a33a563378c74ef1 — \[research revision\]: all-source forced-row bounds for the actual mixed linear probe](../records/0158.md#local-section-9f7ffe08a33a563378c74ef1-ef1feb150d)
@@ -257,4 +258,3 @@ Page 9/13; 3033 matching records.
 - [local-section:b0f3f80efb10c8149755c5f9 — Independent review of the \[research revision\] nonlinear ordinary-character source](../records/0160.md#local-section-b0f3f80efb10c8149755c5f9-0f141ca37e)
 - [local-section:b1299548bb1bea4cfc7fc112 — 4. An indefinite covariance cannot be used as a positive calibration Gram](../records/0160.md#local-section-b1299548bb1bea4cfc7fc112-c9e2f0578c)
 - [local-section:b12dfec639d7d94047c94e47 — Independent review: completed cross-class reduction](../records/0160.md#local-section-b12dfec639d7d94047c94e47-8b7fd4419e)
-- [local-section:b14ae2dc91c2f8ef92e10d51 — All-card disposition and next action](../records/0160.md#local-section-b14ae2dc91c2f8ef92e10d51-87621ba1fc)

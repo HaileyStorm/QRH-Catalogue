@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/71; 17520 matching records.
+Page 53/71; 17523 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
@@ -37,6 +37,9 @@ Page 53/71; 17520 matching records.
 - [QRH-CONT-R021-PRINCIPAL-CONTOUR-ADAPTER — PR8 principal signal and ordered remainder contours on every fixed strip right of two thirds](../records/0131.md#qrh-cont-r021-principal-contour-adapter-de964d1191)
 - [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
 - [QRH-CONT-R023-THETA-PROFILE-FILTER — Whole theta-profile filters cancel reflected gamma poles while preserving the reciprocal signal](../records/0131.md#qrh-cont-r023-theta-profile-filter-81078fc068)
+- [QRH-CONT-R026-COLLISION-PAIRING — Exact signed collision factors in the complete PR8 physical pairing](../records/0131.md#qrh-cont-r026-collision-pairing-6333f96ce4)
+- [QRH-CONT-R027-MOVING-GAUSS-PHASE — Actual reflected Gauss phase, collision lift and moving frequency in the PR8 pairing](../records/0131.md#qrh-cont-r027-moving-gauss-phase-d9334b8478)
+- [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0170.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0170.md#local-a02-e20ad4bdfd)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0170.md#local-a03-9e9a3d45e7)
@@ -186,9 +189,9 @@ Page 53/71; 17520 matching records.
 - [pr26:Analytic.ActualExtractedLocalErrors — Analytic.ActualExtractedLocalErrors](../records/0174.md#pr26-analytic-actualextractedlocalerrors-48848d2714)
 - [pr26:Analytic.ActualExtractedLocalErrors::actual_firstExtractedErrors_local_bound@238 — actual_firstExtractedErrors_local_bound](../records/0174.md#pr26-analytic-actualextractedlocalerrors-actual-firstextractederr-20534f92e4)
 - [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0174.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
-- [pr26:Analytic.ActualExtractedLocalErrorsFull::actual_firstExtractedErrors_local_bound_full@78 — actual_firstExtractedErrors_local_bound_full](../records/0174.md#pr26-analytic-actualextractedlocalerrorsfull-actual-firstextracte-5222f312d2)
-- [pr26:Analytic.ActualFirstErrorIdentity — Analytic.ActualFirstErrorIdentity](../records/0174.md#pr26-analytic-actualfirsterroridentity-9a72eb2003)
-- [pr26:Analytic.ActualFirstErrorIdentity::allocatedExtractedErrors_nonneg@156 — allocatedExtractedErrors_nonneg](../records/0174.md#pr26-analytic-actualfirsterroridentity-allocatedextractederrors-n-2c535f4ae8)
+- [pr26:Analytic.ActualExtractedLocalErrorsFull::actual_firstExtractedErrors_local_bound_full@78 — actual_firstExtractedErrors_local_bound_full](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-actual-firstextracte-5222f312d2)
+- [pr26:Analytic.ActualFirstErrorIdentity — Analytic.ActualFirstErrorIdentity](../records/0175.md#pr26-analytic-actualfirsterroridentity-9a72eb2003)
+- [pr26:Analytic.ActualFirstErrorIdentity::allocatedExtractedErrors_nonneg@156 — allocatedExtractedErrors_nonneg](../records/0175.md#pr26-analytic-actualfirsterroridentity-allocatedextractederrors-n-2c535f4ae8)
 - [pr26:Analytic.ActualFirstErrorIdentity::firstExtractedErrors_nonneg@141 — firstExtractedErrors_nonneg](../records/0175.md#pr26-analytic-actualfirsterroridentity-firstextractederrors-nonne-99a9b38fc5)
 - [pr26:Analytic.ActualFirstErrorIdentity::first_extracted_error_pair_eq_source_scalar@189 — first_extracted_error_pair_eq_source_scalar](../records/0175.md#pr26-analytic-actualfirsterroridentity-first-extracted-error-pair-8cbb31a885)
 - [pr26:Analytic.ActualFirstErrorIdentity::value@174 — value](../records/0175.md#pr26-analytic-actualfirsterroridentity-value-174-80e335641b)
@@ -255,6 +258,3 @@ Page 53/71; 17520 matching records.
 - [pr26:Analytic.BufferedDilation::dilated_mellin_pair_uniform@246 — dilated_mellin_pair_uniform](../records/0175.md#pr26-analytic-buffereddilation-dilated-mellin-pair-uniform-246-9b6cf772af)
 - [pr26:Analytic.BufferedDilation::dilated_mellin_uniform@205 — dilated_mellin_uniform](../records/0175.md#pr26-analytic-buffereddilation-dilated-mellin-uniform-205-d6796b8224)
 - [pr26:Analytic.BufferedPartition — Analytic.BufferedPartition](../records/0175.md#pr26-analytic-bufferedpartition-ef70a4fe55)
-- [pr26:Analytic.BufferedPartition::buffered_count_of_bin_counts@566 — buffered_count_of_bin_counts](../records/0175.md#pr26-analytic-bufferedpartition-buffered-count-of-bin-counts-566-7ff955fdc2)
-- [pr26:Analytic.BufferedPartition::card_eq_sum_buffered_fibers@524 — card_eq_sum_buffered_fibers](../records/0175.md#pr26-analytic-bufferedpartition-card-eq-sum-buffered-fibers-524-4726593d7c)
-- [pr26:Analytic.BufferedPartition::exists_bounded_buffered_bins@498 — exists_bounded_buffered_bins](../records/0175.md#pr26-analytic-bufferedpartition-exists-bounded-buffered-bins-498-a88b413d10)

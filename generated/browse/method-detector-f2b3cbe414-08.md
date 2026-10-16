@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 8/12; 2894 matching records.
+Page 8/12; 2895 matching records.
 
 [Previous](method-detector-f2b3cbe414-07.md)
 
 [Next](method-detector-f2b3cbe414-09.md)
 
+- [local-section:575c1b72e2d8f469c968a573 — 3. D04: complete independent reconstruction](../records/0148.md#local-section-575c1b72e2d8f469c968a573-e90bbd8f45)
 - [local-section:5850d6fd7a0bfbc58c19f19b — Group3: p\<.03, signed scale boundary state](../records/0148.md#local-section-5850d6fd7a0bfbc58c19f19b-247d95a5bd)
 - [local-section:5893998fef27a07b6dd11dd0 — 9. Checks, limits and handoff](../records/0148.md#local-section-5893998fef27a07b6dd11dd0-2d2e6021c8)
 - [local-section:58cb1fdf849c85f618b507a2 — \[research revision\]: a changed useful slot window and c3=.125133](../records/0148.md#local-section-58cb1fdf849c85f618b507a2-5a35d069dd)
@@ -51,7 +52,7 @@ Page 8/12; 2894 matching records.
 - [local-section:61faa04014d526c968d73ecc — \[research revision\] discovery-first source pass — quantitative short windows and a calibrated multiplicative obstruction](../records/0149.md#local-section-61faa04014d526c968d73ecc-c78c487750)
 - [local-section:61fb54d5310c24ebc512a814 — Sol04 independent first-stage review](../records/0149.md#local-section-61fb54d5310c24ebc512a814-b3e72c6f41)
 - [local-section:62071bdd0d79df6dc7a80b43 — Decisive change and independent reconstruction](../records/0149.md#local-section-62071bdd0d79df6dc7a80b43-a840d53975)
-- [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0149.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
+- [local-section:622162c4535a513a9aa6b61c — D33. Exact small-prime covariance and a rapidly cancelling detector with the wrong transform](../records/0150.md#local-section-622162c4535a513a9aa6b61c-f6bc427ce3)
 - [local-section:622587107f14659bdbd8f03d — 2. Development04: full energy bridge and exact fixed-modulus target](../records/0150.md#local-section-622587107f14659bdbd8f03d-7b0e870c4f)
 - [local-section:632a79d10c8ecd5887acfca3 — 1. Frozen experiment and source scope](../records/0150.md#local-section-632a79d10c8ecd5887acfca3-02822443b0)
 - [local-section:634871ec7cbafed79d21b3e7 — \[research revision\]-W2. Exact Newton correction has a support/feedback dichotomy](../records/0150.md#local-section-634871ec7cbafed79d21b3e7-536a151c9b)
@@ -183,7 +184,7 @@ Page 8/12; 2894 matching records.
 - [local-section:85e73953c7c561621fbc9b27 — \[research revision\] headroom: a curved additive Laplace source](../records/0154.md#local-section-85e73953c7c561621fbc9b27-722bec25ca)
 - [local-section:864daf8c0b802cd863e672a5 — \[research revision\] discovery-first headroom pass: nonlinear-phase source compression](../records/0154.md#local-section-864daf8c0b802cd863e672a5-0c74d1cfe0)
 - [local-section:8750d45ee4660ade659d9664 — 3. The actual physical family and the selected slots](../records/0154.md#local-section-8750d45ee4660ade659d9664-a2ee569221)
-- [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0154.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
+- [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0155.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
 - [local-section:88d6299c9b14cc9d33077143 — 6. Complete endpoint geometry, selection and Euler shifts](../records/0155.md#local-section-88d6299c9b14cc9d33077143-453dfe85d6)
 - [local-section:8958eaf50466fff634cc11ec — \[research revision\] signed-core review: complete cofactor payment and a rectangular core](../records/0155.md#local-section-8958eaf50466fff634cc11ec-e399898544)
 - [local-section:89a55ef95845c855ae23a267 — \[research revision\]: actual valuations and a paid nonlinear density return](../records/0155.md#local-section-89a55ef95845c855ae23a267-f04b20b509)
@@ -257,4 +258,3 @@ Page 8/12; 2894 matching records.
 - [local-section:9b1de17dfa1bf3453bc4390c — 7. Physical endpoint, sharp shortening cutoffs and free shifts](../records/0157.md#local-section-9b1de17dfa1bf3453bc4390c-a0010c07be)
 - [local-section:9b2b8c4ea8f0b57b66d19aa3 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction](../records/0157.md#local-section-9b2b8c4ea8f0b57b66d19aa3-26dc29beda)
 - [local-section:9b6ca73bc5a2f7fd0f67ac99 — \[research revision\]: complete operator returns and an actual detector repair](../records/0157.md#local-section-9b6ca73bc5a2f7fd0f67ac99-70a9dc44c5)
-- [local-section:9c3632cf2e0780769fea898c — 11. Remaining fields, target order, and zero exclusion](../records/0157.md#local-section-9c3632cf2e0780769fea898c-edc5fbc3f8)

@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 36/43; 10573 matching records.
+Page 36/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-35.md)
 
 [Next](status-unknown-b23a6a8439-37.md)
 
+- [local-section:b6fb0c2c1efe4d752ae64271 — T-F05: the natural divisor-poset normal operator squares conditioning](../records/0161.md#local-section-b6fb0c2c1efe4d752ae64271-0b106332ba)
+- [local-section:b7027a41d4d2ae7f454a1d2b — 1. Literal statement](../records/0161.md#local-section-b7027a41d4d2ae7f454a1d2b-f903492e03)
+- [local-section:b7076afcddd00af62bade064 — G135. Exact rank and renewal targets, with their costs retained](../records/0161.md#local-section-b7076afcddd00af62bade064-f72d3479b4)
 - [local-section:b708b1805e474053f086d728 — 4. Weighted witnesses: every inverse length and every height](../records/0161.md#local-section-b708b1805e474053f086d728-8902fbee88)
 - [local-section:b713e60fc5d8acfd10731c61 — A08. An arithmetic source operator and the exact approximation cost](../records/0161.md#local-section-b713e60fc5d8acfd10731c61-a28eee4997)
 - [local-section:b71521526b724ff4fb2bcbcd — 2. The compensator is one quaternion product channel](../records/0161.md#local-section-b71521526b724ff4fb2bcbcd-7275753349)
@@ -90,9 +93,9 @@ Page 36/43; 10573 matching records.
 - [local-section:bdf0a350f66a854bb6c0f41a — 3. A fixed quadratic class changes the actual row index](../records/0161.md#local-section-bdf0a350f66a854bb6c0f41a-6eedced03a)
 - [local-section:bdfba458741ea0df9616bb17 — 3. Actual arithmetic grouping, zeros and SF7 mass](../records/0161.md#local-section-bdfba458741ea0df9616bb17-2656713493)
 - [local-section:be0081459040704122b05132 — R2. Source reconstruction, multiplicities and absolute control](../records/0161.md#local-section-be0081459040704122b05132-5c61895864)
-- [local-section:be028d91d755e5f2d1801777 — 1. Imported finite form and exact masks](../records/0161.md#local-section-be028d91d755e5f2d1801777-fa998c1412)
-- [local-section:be26fc5bbf98d9182180a225 — 24. Longer windows and exact observation contracts](../records/0161.md#local-section-be26fc5bbf98d9182180a225-a84fcdf76e)
-- [local-section:be554e264f8f7a6e0e71b63c — Full sector and exact residual](../records/0161.md#local-section-be554e264f8f7a6e0e71b63c-f15c86f40f)
+- [local-section:be028d91d755e5f2d1801777 — 1. Imported finite form and exact masks](../records/0162.md#local-section-be028d91d755e5f2d1801777-fa998c1412)
+- [local-section:be26fc5bbf98d9182180a225 — 24. Longer windows and exact observation contracts](../records/0162.md#local-section-be26fc5bbf98d9182180a225-a84fcdf76e)
+- [local-section:be554e264f8f7a6e0e71b63c — Full sector and exact residual](../records/0162.md#local-section-be554e264f8f7a6e0e71b63c-f15c86f40f)
 - [local-section:be5e9f3319788bbd7b198227 — Current checkpoint](../records/0162.md#local-section-be5e9f3319788bbd7b198227-acd7774aef)
 - [local-section:be609a89482469977b7f5eb5 — 1. Outcome and the precise gap](../records/0162.md#local-section-be609a89482469977b7f5eb5-1a980ce891)
 - [local-section:be7d5042002b5d1cb8fa91ff — 4. Protected audit W58-22: exact native mixed boundary, missing inter-scale transport](../records/0162.md#local-section-be7d5042002b5d1cb8fa91ff-b4c65c3040)
@@ -176,9 +179,9 @@ Page 36/43; 10573 matching records.
 - [local-section:c5338ab657c2b10e159e22b2 — Common measurements and next work](../records/0162.md#local-section-c5338ab657c2b10e159e22b2-4661d16aaa)
 - [local-section:c541d68fa1ef058aac37336e — 3. Complete local repricing](../records/0162.md#local-section-c541d68fa1ef058aac37336e-1b87675566)
 - [local-section:c582165b33e7bfa0986e54a7 — 9. A separate quantitative anchor: delta=2 really has an inverse](../records/0162.md#local-section-c582165b33e7bfa0986e54a7-4bb610826e)
-- [local-section:c58336f5f0daf0157988ce26 — Group 6: high ceiling / invented connection / reverse implication and converse](../records/0162.md#local-section-c58336f5f0daf0157988ce26-75945f72da)
-- [local-section:c591bd413ab4f2f2a45399ef — Other selected screens (14,30,22)](../records/0162.md#local-section-c591bd413ab4f2f2a45399ef-8e217810d5)
-- [local-section:c592b55a0753f2d86ca273f1 — The exact cutoff defect is a positive boundary Gram](../records/0162.md#local-section-c592b55a0753f2d86ca273f1-9edb97e42e)
+- [local-section:c58336f5f0daf0157988ce26 — Group 6: high ceiling / invented connection / reverse implication and converse](../records/0163.md#local-section-c58336f5f0daf0157988ce26-75945f72da)
+- [local-section:c591bd413ab4f2f2a45399ef — Other selected screens (14,30,22)](../records/0163.md#local-section-c591bd413ab4f2f2a45399ef-8e217810d5)
+- [local-section:c592b55a0753f2d86ca273f1 — The exact cutoff defect is a positive boundary Gram](../records/0163.md#local-section-c592b55a0753f2d86ca273f1-9edb97e42e)
 - [local-section:c5af3795f40df787ecb9d6f1 — \[research revision\]-S2. Grouping every coefficient into blocks has a paid full-field error](../records/0163.md#local-section-c5af3795f40df787ecb9d6f1-ff4c89c652)
 - [local-section:c5c30bdfcc4987fbf42f963e — H: simultaneous product intervals and the exact far mask](../records/0163.md#local-section-c5c30bdfcc4987fbf42f963e-4a39c6bfd4)
 - [local-section:c5dc2f5ca8e653cd5026f66c — G96. The complete shrinking-arc return and finite signed core](../records/0163.md#local-section-c5dc2f5ca8e653cd5026f66c-78d8886f8d)
@@ -255,6 +258,3 @@ Page 36/43; 10573 matching records.
 - [local-section:cba2774b0a3d171f34f09e54 — 2. Principal characters: all q-smooth powers and moments are required](../records/0163.md#local-section-cba2774b0a3d171f34f09e54-3d8f70ded2)
 - [local-section:cbfd3226fc7e8263ece48f5b — 4. Development06: a source-exact polylogarithmic Gaussian compression](../records/0163.md#local-section-cbfd3226fc7e8263ece48f5b-eab9517860)
 - [local-section:cc05d9b2a55d5de5acbbc59f — \[research revision\] attempt delta](../records/0163.md#local-section-cc05d9b2a55d5de5acbbc59f-859ad67aca)
-- [local-section:cc217ce7d298b0c81a8d121a — 9. Every original free Euler shift and the empty-slot end](../records/0163.md#local-section-cc217ce7d298b0c81a8d121a-bbd5d02f72)
-- [local-section:cc4934e0ff25e4bc37690d3e — All60 dispositions (untested means untested, not disproved)](../records/0163.md#local-section-cc4934e0ff25e4bc37690d3e-ef72642e23)
-- [local-section:cc59e06a327ae05ea501fb37 — 6. What the new lower edge changes in the strict ledger](../records/0163.md#local-section-cc59e06a327ae05ea501fb37-bdca769fe8)

@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 33/43; 10573 matching records.
+Page 33/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-32.md)
 
 [Next](status-unknown-b23a6a8439-34.md)
 
+- [local-section:73dec1ac53b5eb9be1d2d710 — 9. Exact remaining estimate and limitations](../records/0152.md#local-section-73dec1ac53b5eb9be1d2d710-0ab5d5d06f)
+- [local-section:73e5729a73d2819ab143671f — 1. Gcd-one and large-shift obstruction](../records/0152.md#local-section-73e5729a73d2819ab143671f-4722f97278)
+- [local-section:73edef45e4b4f3403c483bf9 — 7. Quantitative cost of retaining the phase direction](../records/0152.md#local-section-73edef45e4b4f3403c483bf9-9e9e16e14d)
 - [local-section:7405d3476bf2f77f37873852 — 2. Literal completion, including characters at ramified primes](../records/0152.md#local-section-7405d3476bf2f77f37873852-6fece81bcd)
 - [local-section:745ec98b3b23f297d73e3a5e — G213. Average the true cubic label before counting repetitions](../records/0152.md#local-section-745ec98b3b23f297d73e3a5e-71618bd467)
 - [local-section:7469730f324e4bfb743fa6f2 — 1. Frozen source and acceptance boundaries](../records/0152.md#local-section-7469730f324e4bfb743fa6f2-7476aea0bb)
@@ -64,9 +67,9 @@ Page 33/43; 10573 matching records.
 - [local-section:7864c7683a4d3067e2f4c126 — 5.1 W40-11 — the proposed full operator bound fails for the actual critical split](../records/0152.md#local-section-7864c7683a4d3067e2f4c126-4a7273d875)
 - [local-section:786abeea5b454b57f1e3704a — DQ3--DQ5. Exact Type-I addback and a coefficient obstruction](../records/0152.md#local-section-786abeea5b454b57f1e3704a-a404c8caf8)
 - [local-section:78a74daef16a3c7d605c2cd1 — G204: small square cores with unrestricted cubic rows](../records/0152.md#local-section-78a74daef16a3c7d605c2cd1-2cb00d3281)
-- [local-section:78aa00256f69d8616e32ad4f — 7. Evidence, limits and frozen handoff](../records/0152.md#local-section-78aa00256f69d8616e32ad4f-687682e951)
-- [local-section:78b466827061d6a87e484cd6 — 5. The old arithmetic exponent is preserved: GC21--GC22](../records/0152.md#local-section-78b466827061d6a87e484cd6-a9d01e904c)
-- [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0152.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
+- [local-section:78aa00256f69d8616e32ad4f — 7. Evidence, limits and frozen handoff](../records/0153.md#local-section-78aa00256f69d8616e32ad4f-687682e951)
+- [local-section:78b466827061d6a87e484cd6 — 5. The old arithmetic exponent is preserved: GC21--GC22](../records/0153.md#local-section-78b466827061d6a87e484cd6-a9d01e904c)
+- [local-section:78e53f73afed0e488dcd4f54 — 5. Protected audit W44-30: full omitted-prime residual and inverse readout](../records/0153.md#local-section-78e53f73afed0e488dcd4f54-2aafbb29d4)
 - [local-section:79162b33416cd45dbf7b5a7e — Complete card disposition and semantic ancestry](../records/0153.md#local-section-79162b33416cd45dbf7b5a7e-0668bac7fa)
 - [local-section:7933f48519d7978bba79fa54 — Evidence and next decisive tests](../records/0153.md#local-section-7933f48519d7978bba79fa54-002a549620)
 - [local-section:7934ee7c3a9b1cb2e406234c — 2. Literal source and fixed quantifiers](../records/0153.md#local-section-7934ee7c3a9b1cb2e406234c-0fce6e24b1)
@@ -144,8 +147,8 @@ Page 33/43; 10573 matching records.
 - [local-section:7fb65bb3516e9eb787ac6663 — Exact upstream source retrieval record](../records/0153.md#local-section-7fb65bb3516e9eb787ac6663-d763b35297)
 - [local-section:7fbfafbaccc58a2dc64c8d35 — G143. Divisor-erasure recovery with literal coprimality and two prices](../records/0153.md#local-section-7fbfafbaccc58a2dc64c8d35-2bda48b58e)
 - [local-section:7fcd540f1d86dda22a6fd941 — Late QRH attempt index: Cycles 33–49](../records/0153.md#local-section-7fcd540f1d86dda22a6fd941-fd84a4a408)
-- [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0153.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
-- [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0153.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
+- [local-section:80131fd3b208d5457e15b328 — F05. Möbius-aware polar projection and spectral sieve](../records/0154.md#local-section-80131fd3b208d5457e15b328-8c35f411f1)
+- [local-section:804d3d2ed6075d9d766d997e — F06. Bilinear currents and actual spectral testing](../records/0154.md#local-section-804d3d2ed6075d9d766d997e-0cae7d0645)
 - [local-section:8079b95454b30258c6ba342f — 2.4 Full real-shell energy, moving amplitude and all cross terms](../records/0154.md#local-section-8079b95454b30258c6ba342f-05a55b0b7f)
 - [local-section:809227fddb7bb2146424cb5a — 7. Supporting identities, failed shortcut, and novelty](../records/0154.md#local-section-809227fddb7bb2146424cb5a-a8793076f1)
 - [local-section:809ee29973d91732404968c7 — 4. An actual high-frequency complement, with its endpoint retained](../records/0154.md#local-section-809ee29973d91732404968c7-09e6ad6dc3)
@@ -224,9 +227,9 @@ Page 33/43; 10573 matching records.
 - [local-section:879858b64770c1e697414eaf — 5. Original Schwartz weight, all tails and fixed-datum uniformity](../records/0154.md#local-section-879858b64770c1e697414eaf-48dc2ff484)
 - [local-section:879c0b6da672acbcab6e7ca0 — 6. Independent diagnostic: the first cell often collapses completely](../records/0154.md#local-section-879c0b6da672acbcab6e7ca0-342fe2759b)
 - [local-section:87a9affb06a07980f7a55421 — B1. Finite-prime f3 parity is much smaller than the full unknown parity](../records/0154.md#local-section-87a9affb06a07980f7a55421-5784ae6369)
-- [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0154.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
-- [local-section:87f2d1112ecba41ba147a17e — 2. Primary prime input and order of quantifiers](../records/0154.md#local-section-87f2d1112ecba41ba147a17e-ed8c0e6086)
-- [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0154.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
+- [local-section:87e6d07b4f29d4c3827413f9 — G192. Complete degree12 source transfer](../records/0155.md#local-section-87e6d07b4f29d4c3827413f9-8a3c146075)
+- [local-section:87f2d1112ecba41ba147a17e — 2. Primary prime input and order of quantifiers](../records/0155.md#local-section-87f2d1112ecba41ba147a17e-ed8c0e6086)
+- [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0155.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
 - [local-section:8832f9fcf70cc1128e42a42e — 7. Evidence and STOP](../records/0155.md#local-section-8832f9fcf70cc1128e42a42e-9161040c9f)
 - [local-section:88631b4e16b41899e3a22927 — 65. Native translation and fixed-source renewal obstructions](../records/0155.md#local-section-88631b4e16b41899e3a22927-326efe8d71)
 - [local-section:88779e40b84fa7d7a0b8eae9 — 2. The full allocation mask and the new sector theorem](../records/0155.md#local-section-88779e40b84fa7d7a0b8eae9-fc5b6cf843)
@@ -255,6 +258,3 @@ Page 33/43; 10573 matching records.
 - [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
 - [local-section:8a927db3735ee3decd667c43 — W40-26 — Sieve syndrome with exact erasure completion; p=.009](../records/0155.md#local-section-8a927db3735ee3decd667c43-50dc6fb6f7)
 - [local-section:8a98d228ede588df90ff5044 — 4. Full endpoint return](../records/0155.md#local-section-8a98d228ede588df90ff5044-f605183a23)
-- [local-section:8ac113c63caa7e0dca5c05fe — A5. The strongest objection produces an exact signed compression](../records/0155.md#local-section-8ac113c63caa7e0dca5c05fe-1d4e8e4646)
-- [local-section:8ae41086038db0a0f4360b64 — 1. The coupled character survives all mixed embeddings](../records/0155.md#local-section-8ae41086038db0a0f4360b64-db60a882b6)
-- [local-section:8af1572a513d473cff6bd09f — W40 independent review: exact budgets and their arithmetic limits](../records/0155.md#local-section-8af1572a513d473cff6bd09f-38891d541c)

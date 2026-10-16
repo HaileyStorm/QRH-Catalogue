@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 10/12; 2894 matching records.
+Page 10/12; 2895 matching records.
 
 [Previous](method-detector-f2b3cbe414-09.md)
 
 [Next](method-detector-f2b3cbe414-11.md)
 
+- [local-section:eb80e8881c30292d6ca15975 — 7. Exact residual form and the power budget](../records/0167.md#local-section-eb80e8881c30292d6ca15975-155268a584)
 - [local-section:eb83f1d6260efd41613fc500 — Complete endpoint return with the changed complements](../records/0167.md#local-section-eb83f1d6260efd41613fc500-fb2ece6b81)
 - [local-section:eb8630428e6c3f740fac3ffb — Current coherent proof: the accepted local moment and a Gaussian route onward](../records/0167.md#local-section-eb8630428e6c3f740fac3ffb-55add72e09)
 - [local-section:eba9f2fd8eec2ebd076f9772 — 12. Portfolio allocation, promotion and stop rules](../records/0167.md#local-section-eba9f2fd8eec2ebd076f9772-b9bbab7591)
@@ -63,7 +64,7 @@ Page 10/12; 2894 matching records.
 - [local-section:fc2c99a526ece62caf359d66 — 5. What is new here, what was reused, and the next live estimate](../records/0169.md#local-section-fc2c99a526ece62caf359d66-9738608419)
 - [local-section:fc3bbbedb137ef425c679840 — 8. Exact definitions, source pins and unused library](../records/0169.md#local-section-fc3bbbedb137ef425c679840-f68b65b712)
 - [local-section:fc6f92d68b762d69d9f906c4 — \[research revision\]: independent coprime-cell transfer review](../records/0169.md#local-section-fc6f92d68b762d69d9f906c4-a94ea6ba80)
-- [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0169.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
+- [local-section:fc8e9fbc08b4d852e3efc33f — 7. Paired q=2,3 conditioning: exact scope, all heights and two heights](../records/0170.md#local-section-fc8e9fbc08b4d852e3efc33f-61b93d6851)
 - [local-section:fcda35be4a3d92747f637c12 — W36: a paid aggregate-overlap sector and scoped failures](../records/0170.md#local-section-fcda35be4a3d92747f637c12-b72ad11113)
 - [local-section:fcdac65d6dfa446eea9812e5 — Final Astra validation: post52 Sol High 01](../records/0170.md#local-section-fcdac65d6dfa446eea9812e5-4a7952bacd)
 - [local-section:fd059aa48ff7fac77fb90fae — Conditional high-gain sharpening and a tilted affine plane](../records/0170.md#local-section-fd059aa48ff7fac77fb90fae-9a42a10c8b)
@@ -124,7 +125,7 @@ Page 10/12; 2894 matching records.
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0172.md#local-g211-d9305c406e)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0172.md#local-g212-6e2dec84ed)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0172.md#local-g214-3db1fe9e64)
-- [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0172.md#local-g218-72ef21b6b0)
+- [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G219 — G219. Actual principal channels and the cheapest generic price](../records/0173.md#local-g219-b390f41fe3)
 - [local:G224 — G224. Exact chirp and paired-character audits, with reconstruction paid](../records/0173.md#local-g224-98c6aaf7a2)
 - [local:G225 — G225. Actual positive cofactor-hole prices, including after integration](../records/0173.md#local-g225-8fc7b83906)
@@ -144,7 +145,7 @@ Page 10/12; 2894 matching records.
 - [local:G303 — G303. Unit-invariant additive and sign expansions of ideal masks with explicit level costs](../records/0173.md#local-g303-fdf949bbae)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0173.md#local-g4-fb1605101b)
 - [local:G6 — G6 — p\<.01, sieve/information construction from obstruction](../records/0173.md#local-g6-e89f333778)
-- [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0173.md#local-g68-8d260df78f)
+- [local:G68 — G68. Exact degree energy and the retained arithmetic response](../records/0174.md#local-g68-8d260df78f)
 - [local:G71 — \[research revision\] attempt delta (G71)](../records/0174.md#local-g71-4c962f7ad6)
 - [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)
 - [local:T06 — T06. The complete same-core sextic square function](../records/0174.md#local-t06-df7fac52f7)
@@ -204,8 +205,8 @@ Page 10/12; 2894 matching records.
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_disjoint@712 — weighted_sourceMoment_live_disjoint](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-920ddda181)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_live_quotient_norm@738 — weighted_sourceMoment_live_quotient_norm](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-c5c4acfcc7)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_primeProfile_norm@692 — weighted_sourceMoment_primeProfile_norm](../records/0196.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-b3882f1fca)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainCapacity — Cycle25.Assembly.Count.MomentDetectorPlainCapacity](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorplaincapacity-259a3742e8)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainCapacity::weighted_physical_annular_all@339 — weighted_physical_annular_all](../records/0196.md#pr26-cycle25-assembly-count-momentdetectorplaincapacity-weighted--9b1242a9b0)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainCapacity — Cycle25.Assembly.Count.MomentDetectorPlainCapacity](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplaincapacity-259a3742e8)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainCapacity::weighted_physical_annular_all@339 — weighted_physical_annular_all](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplaincapacity-weighted--9b1242a9b0)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainExceptional — Cycle25.Assembly.Count.MomentDetectorPlainExceptional](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainexceptional-315872092f)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainExceptional::weighted_retained_positive_energy_le_source@55 — weighted_retained_positive_energy_le_source](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainexceptional-weight-3d5d434439)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainExceptional::weighted_source_batch_plain_retained@131 — weighted_source_batch_plain_retained](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainexceptional-weight-d1e8aa9951)
@@ -250,11 +251,10 @@ Page 10/12; 2894 matching records.
 - [pr26:Cycle25.Assembly.Count.SourceAmplitudeClasses::actual_source_amplitude_batches@94 — actual_source_amplitude_batches](../records/0197.md#pr26-cycle25-assembly-count-sourceamplitudeclasses-actual-source--403caa6db1)
 - [pr26:Cycle25.Assembly.Count.SourceBatch::actual_source_batch@700 — actual_source_batch](../records/0197.md#pr26-cycle25-assembly-count-sourcebatch-actual-source-batch-700-2da6557d34)
 - [pr26:Cycle25.Assembly.Count.SourceParametersCount::balanced_source_count_from_raw_moments@465 — balanced_source_count_from_raw_moments](../records/0197.md#pr26-cycle25-assembly-count-sourceparameterscount-balanced-source-0ddef04851)
-- [pr26:Cycle25.Assembly.Count.WeightedSourceCount::weighted_source_amplitude_count@1109 — weighted_source_amplitude_count](../records/0197.md#pr26-cycle25-assembly-count-weightedsourcecount-weighted-source-a-cf4aae4c12)
+- [pr26:Cycle25.Assembly.Count.WeightedSourceCount::weighted_source_amplitude_count@1109 — weighted_source_amplitude_count](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcecount-weighted-source-a-cf4aae4c12)
 - [pr26:Cycle25.Assembly.Count.WeightedSourceMaskedCount::weighted_source_masked_amplitude_count@129 — weighted_source_masked_amplitude_count](../records/0198.md#pr26-cycle25-assembly-count-weightedsourcemaskedcount-weighted-so-7588008d71)
 - [pr26:Cycle25.Energy.Physical.CertifiedFourier::certified_reflected_fourier_moment@165 — certified_reflected_fourier_moment](../records/0199.md#pr26-cycle25-energy-physical-certifiedfourier-certified-reflected-af95958590)
 - [pr26:Cycle25.Energy.Physical.CertifiedFourier::eventually_fixed_source_keep@147 — eventually_fixed_source_keep](../records/0199.md#pr26-cycle25-energy-physical-certifiedfourier-eventually-fixed-so-e7cb19f562)
 - [pr26:Cycle25.Energy.Physical.CertifiedRetained::certified_actual_retained_fourth@855 — certified_actual_retained_fourth](../records/0199.md#pr26-cycle25-energy-physical-certifiedretained-certified-actual-r-7f018a0a5f)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::certified_reflected_zero_fourier_moment@243 — certified_reflected_zero_fourier_moment](../records/0199.md#pr26-cycle25-energy-physical-certifiedzero-certified-reflected-ze-a6a42a7ce9)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::finite_pair_zeroAt@210 — finite_pair_zeroAt](../records/0199.md#pr26-cycle25-energy-physical-certifiedzero-finite-pair-zeroat-210-dda9c51815)
-- [pr26:Cycle25.Energy.Physical.FourierProfiles::inverse_annular_norm_eq@147 — inverse_annular_norm_eq](../records/0199.md#pr26-cycle25-energy-physical-fourierprofiles-inverse-annular-norm-985c12d7d9)

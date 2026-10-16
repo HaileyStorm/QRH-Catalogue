@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 34/43; 10573 matching records.
+Page 34/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-33.md)
 
 [Next](status-unknown-b23a6a8439-35.md)
 
+- [local-section:8ac113c63caa7e0dca5c05fe — A5. The strongest objection produces an exact signed compression](../records/0155.md#local-section-8ac113c63caa7e0dca5c05fe-1d4e8e4646)
+- [local-section:8ae41086038db0a0f4360b64 — 1. The coupled character survives all mixed embeddings](../records/0155.md#local-section-8ae41086038db0a0f4360b64-db60a882b6)
+- [local-section:8af1572a513d473cff6bd09f — W40 independent review: exact budgets and their arithmetic limits](../records/0155.md#local-section-8af1572a513d473cff6bd09f-38891d541c)
 - [local-section:8b013594e3d4047223b58a53 — Rational Riesz/Gaussian connection](../records/0155.md#local-section-8b013594e3d4047223b58a53-59af53fd67)
 - [local-section:8b0df9dc5571ecff31ed29c4 — 5. Every error, zero and fixed-inducing contribution](../records/0155.md#local-section-8b0df9dc5571ecff31ed29c4-f0b032f485)
 - [local-section:8b185f42603869e0ff0c856e — Provenance and acceptance](../records/0155.md#local-section-8b185f42603869e0ff0c856e-47b9825576)
@@ -59,9 +62,9 @@ Page 34/43; 10573 matching records.
 - [local-section:8ef1e72d73b050b1e4b76e0a — Local masks and exact coherent incidence](../records/0155.md#local-section-8ef1e72d73b050b1e4b76e0a-a112607eb5)
 - [local-section:8f52447d9fa8d39713a64d0a — 6. Optimum within the elementary interpolation family](../records/0155.md#local-section-8f52447d9fa8d39713a64d0a-19ead708fa)
 - [local-section:8f57263a392b022a9ccb7b14 — Append-only controller calibration update](../records/0155.md#local-section-8f57263a392b022a9ccb7b14-7d7621fe9a)
-- [local-section:8f59c27b207de3c8aad46d1b — \[research revision\]: joint original-plain-cap endpoint](../records/0155.md#local-section-8f59c27b207de3c8aad46d1b-74425f3ef6)
-- [local-section:8f5f48b7e92afb5dae4b2aa2 — 3. Gaps and the critical-density exponent ledger](../records/0155.md#local-section-8f5f48b7e92afb5dae4b2aa2-ae33b651e9)
-- [local-section:8faebdb13cfe15942661981e — 6. Uniform audit S22: exact indefinite metric and the positive readout](../records/0155.md#local-section-8faebdb13cfe15942661981e-851de51ffa)
+- [local-section:8f59c27b207de3c8aad46d1b — \[research revision\]: joint original-plain-cap endpoint](../records/0156.md#local-section-8f59c27b207de3c8aad46d1b-74425f3ef6)
+- [local-section:8f5f48b7e92afb5dae4b2aa2 — 3. Gaps and the critical-density exponent ledger](../records/0156.md#local-section-8f5f48b7e92afb5dae4b2aa2-ae33b651e9)
+- [local-section:8faebdb13cfe15942661981e — 6. Uniform audit S22: exact indefinite metric and the positive readout](../records/0156.md#local-section-8faebdb13cfe15942661981e-851de51ffa)
 - [local-section:8fcc9480446f27735b2eec07 — 7. Retention and next decisive work](../records/0156.md#local-section-8fcc9480446f27735b2eec07-42ffb48af1)
 - [local-section:8fdb8a5e99b1f3c7f1eaa134 — \[research revision\]: weighted boundary and complete detector transfers](../records/0156.md#local-section-8fdb8a5e99b1f3c7f1eaa134-a0759ecaca)
 - [local-section:901ca9d44ca93bde071020ea — 3. D2 / S27: the collective dual transform retains the whole mask](../records/0156.md#local-section-901ca9d44ca93bde071020ea-2108e9eecc)
@@ -147,9 +150,9 @@ Page 34/43; 10573 matching records.
 - [local-section:96d81c97c2bd8f3ac8141eb7 — 2. Exact full signed gcd sector, before any positivity step](../records/0156.md#local-section-96d81c97c2bd8f3ac8141eb7-9f2b0335ba)
 - [local-section:96f295b9e7bfc83b92511c4b — \[research revision\]: complete rough correlations and local-set observation](../records/0156.md#local-section-96f295b9e7bfc83b92511c4b-a4150be9ea)
 - [local-section:970e32e13595436ccbf2bbf0 — Initial discovery, before duplicate pruning](../records/0156.md#local-section-970e32e13595436ccbf2bbf0-3ff1c320df)
-- [local-section:975ba30e67e20cede77c3321 — Frozen objective and discovery](../records/0156.md#local-section-975ba30e67e20cede77c3321-32cc772772)
-- [local-section:975de8818c7a16f37884083b — Evidence, ancestry and next estimates](../records/0156.md#local-section-975de8818c7a16f37884083b-b366145999)
-- [local-section:97654c379b82b39fa0d0354a — 6. Size and limitations of the new sector](../records/0156.md#local-section-97654c379b82b39fa0d0354a-01e843b9e1)
+- [local-section:975ba30e67e20cede77c3321 — Frozen objective and discovery](../records/0157.md#local-section-975ba30e67e20cede77c3321-32cc772772)
+- [local-section:975de8818c7a16f37884083b — Evidence, ancestry and next estimates](../records/0157.md#local-section-975de8818c7a16f37884083b-b366145999)
+- [local-section:97654c379b82b39fa0d0354a — 6. Size and limitations of the new sector](../records/0157.md#local-section-97654c379b82b39fa0d0354a-01e843b9e1)
 - [local-section:977a4082633957bb39fa419a — Fixed ordinary characters and the nonvanishing numerator](../records/0157.md#local-section-977a4082633957bb39fa419a-42101d6b64)
 - [local-section:979e4fc787f7e5822fe5668f — Evidence and pin discipline](../records/0157.md#local-section-979e4fc787f7e5822fe5668f-e54a26e21e)
 - [local-section:97a46085e7c58db0082f7f3d — 2. A paid small-radical field, including its unbounded prime powers](../records/0157.md#local-section-97a46085e7c58db0082f7f3d-d592878453)
@@ -234,8 +237,8 @@ Page 34/43; 10573 matching records.
 - [local-section:9e7e481702dd9153d5df32a9 — Review boundary](../records/0157.md#local-section-9e7e481702dd9153d5df32a9-88590b5431)
 - [local-section:9e8b6e2d5ff4eb91922a49b4 — 1. The local-set theorem](../records/0157.md#local-section-9e8b6e2d5ff4eb91922a49b4-44e5160df5)
 - [local-section:9ea3f39f3fe57382d853c77b — 6. The actual common-zero identity before witness selection](../records/0157.md#local-section-9ea3f39f3fe57382d853c77b-fac8a9ae8a)
-- [local-section:9eb900e5ddd472a6b32a5c86 — 3. Double compensation is coefficient-exact](../records/0157.md#local-section-9eb900e5ddd472a6b32a5c86-d67de0fc91)
-- [local-section:9ebc4546b722cde2ab508d71 — Full divisor-bounded tail](../records/0157.md#local-section-9ebc4546b722cde2ab508d71-fb3a4f655e)
+- [local-section:9eb900e5ddd472a6b32a5c86 — 3. Double compensation is coefficient-exact](../records/0158.md#local-section-9eb900e5ddd472a6b32a5c86-d67de0fc91)
+- [local-section:9ebc4546b722cde2ab508d71 — Full divisor-bounded tail](../records/0158.md#local-section-9ebc4546b722cde2ab508d71-fb3a4f655e)
 - [local-section:9ee32fbe66662e4b976002a3 — 4. Natural-zero increments and a fixed-source strengthening](../records/0158.md#local-section-9ee32fbe66662e4b976002a3-a2eb58c1fc)
 - [local-section:9eeaae04a77866e237e74ab4 — W38: accepted developments and independent additions](../records/0158.md#local-section-9eeaae04a77866e237e74ab4-dd3b38b3ed)
 - [local-section:9ef5728dbbdf04444b256125 — 5. Development11/15: phase geometry keeps a complete native Gram bill](../records/0158.md#local-section-9ef5728dbbdf04444b256125-e7b476d628)
@@ -255,6 +258,3 @@ Page 34/43; 10573 matching records.
 - [local-section:a0f6b7f293bc3e9699fe2799 — R8. Uniform27: weighted four-cycles, not an unpriced frustration count](../records/0158.md#local-section-a0f6b7f293bc3e9699fe2799-26d84a7299)
 - [local-section:a102b147a0c02997e7165cbe — 2. Exact sources and what they permit](../records/0158.md#local-section-a102b147a0c02997e7165cbe-d9dcc3de11)
 - [local-section:a11ea84a5792a2834b3367e0 — 3. Exact pair support and the actual folded diagonal](../records/0158.md#local-section-a11ea84a5792a2834b3367e0-8e1294843f)
-- [local-section:a1443f36799de83a732d9f41 — 3. B: full source transport and its actual cost](../records/0158.md#local-section-a1443f36799de83a732d9f41-d007a31e86)
-- [local-section:a144bd08f4cb3688f0b19e74 — The physical improvement](../records/0158.md#local-section-a144bd08f4cb3688f0b19e74-280f0ecd6d)
-- [local-section:a15a6a1c9e8c71ee5b0c60c3 — 5. All30 final dispositions](../records/0158.md#local-section-a15a6a1c9e8c71ee5b0c60c3-231164f80b)

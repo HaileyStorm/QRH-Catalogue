@@ -2,12 +2,15 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 38/43; 10573 matching records.
+Page 38/43; 10576 matching records.
 
 [Previous](status-unknown-b23a6a8439-37.md)
 
 [Next](status-unknown-b23a6a8439-39.md)
 
+- [local-section:e2aa5bf0a6c0564018974bcc — A10. Two exact countermodels for positivity-based geometric shortcuts](../records/0166.md#local-section-e2aa5bf0a6c0564018974bcc-18aa86baf6)
+- [local-section:e35b46423fbdb1e65ca3c229 — G175. Two exact source returns with their inverse costs](../records/0166.md#local-section-e35b46423fbdb1e65ca3c229-885c1f55e9)
+- [local-section:e38c1ee759bcbf5b62e875e3 — 3.3 Repeated differences pay the complete residual](../records/0166.md#local-section-e38c1ee759bcbf5b62e875e3-657b52a5be)
 - [local-section:e396e12cc45c233023368c1d — F09. Adaptive exceptional-mode vector probes](../records/0166.md#local-section-e396e12cc45c233023368c1d-c204ef5e4e)
 - [local-section:e39774305492746e5079b2bf — HCR3. Independent reconstruction of the two-root transform](../records/0166.md#local-section-e39774305492746e5079b2bf-011cff0de9)
 - [local-section:e3a56a158fce80d703c81d50 — 5.3 Uniform gain is a separate question from qualitative return](../records/0166.md#local-section-e3a56a158fce80d703c81d50-9477e04912)
@@ -26,9 +29,9 @@ Page 38/43; 10573 matching records.
 - [local-section:e4c9d05243bc50cf831b3135 — 4. Exact resummation of the remaining chains](../records/0166.md#local-section-e4c9d05243bc50cf831b3135-c56d03bcef)
 - [local-section:e4dac9e7b26d42dd0c7f60b7 — 9. Evidence, ancestry and next action](../records/0166.md#local-section-e4dac9e7b26d42dd0c7f60b7-5feb778251)
 - [local-section:e4f3fa1c040ecb3ab8ccabdd — 2. What the new compact detector changes](../records/0166.md#local-section-e4f3fa1c040ecb3ab8ccabdd-da30963797)
-- [local-section:e527a5dfd674836c49b1336e — 6. Deliberately coarse bounds and two failed repairs](../records/0166.md#local-section-e527a5dfd674836c49b1336e-6261b8dca5)
-- [local-section:e547cecbe5b50181a70407e8 — 2. Exact local forcing, including the embedding exceptions](../records/0166.md#local-section-e547cecbe5b50181a70407e8-e0b654e4e2)
-- [local-section:e54b88f83851878c8b37f5ea — D. Physical sextic covariance](../records/0166.md#local-section-e54b88f83851878c8b37f5ea-4ee8979718)
+- [local-section:e527a5dfd674836c49b1336e — 6. Deliberately coarse bounds and two failed repairs](../records/0167.md#local-section-e527a5dfd674836c49b1336e-6261b8dca5)
+- [local-section:e547cecbe5b50181a70407e8 — 2. Exact local forcing, including the embedding exceptions](../records/0167.md#local-section-e547cecbe5b50181a70407e8-e0b654e4e2)
+- [local-section:e54b88f83851878c8b37f5ea — D. Physical sextic covariance](../records/0167.md#local-section-e54b88f83851878c8b37f5ea-4ee8979718)
 - [local-section:e552f00fcc113cb34d5f6a38 — 1. Provenance and comparison with accepted work](../records/0167.md#local-section-e552f00fcc113cb34d5f6a38-814545c743)
 - [local-section:e55f799db9badaf3e7cb66ae — External theorem checks](../records/0167.md#local-section-e55f799db9badaf3e7cb66ae-978701b83e)
 - [local-section:e56a4d175c55fdd0a3fd5d58 — 4A. Paying interactions between all short rows together](../records/0167.md#local-section-e56a4d175c55fdd0a3fd5d58-51eb8ce39e)
@@ -113,9 +116,9 @@ Page 38/43; 10573 matching records.
 - [local-section:ec22afe4ca91bc1cfef0e63d — Complete energy and the remaining arithmetic problem](../records/0167.md#local-section-ec22afe4ca91bc1cfef0e63d-f76a3dfc0c)
 - [local-section:ec2410b15f4a72a683a74c8b — 2. Exact source and statement of the refined return](../records/0167.md#local-section-ec2410b15f4a72a683a74c8b-1c11466eec)
 - [local-section:ec4466dd871211a4e2646988 — 6. All thirty dispositions](../records/0167.md#local-section-ec4466dd871211a4e2646988-348e61701c)
-- [local-section:ec4493e3740d38d6caeaf333 — 4.3 Explicit growth is accounted for but gives no growing-J theorem](../records/0167.md#local-section-ec4493e3740d38d6caeaf333-5416ff5664)
-- [local-section:ec486c71f4fba2e1928b1eb6 — 4. W40-15: the exact positivity price for literal f3](../records/0167.md#local-section-ec486c71f4fba2e1928b1eb6-a8991c9a46)
-- [local-section:ec52b2d270afd73aaa4141b9 — 4. Preservation and acceptance limits](../records/0167.md#local-section-ec52b2d270afd73aaa4141b9-dad1ed830a)
+- [local-section:ec4493e3740d38d6caeaf333 — 4.3 Explicit growth is accounted for but gives no growing-J theorem](../records/0168.md#local-section-ec4493e3740d38d6caeaf333-5416ff5664)
+- [local-section:ec486c71f4fba2e1928b1eb6 — 4. W40-15: the exact positivity price for literal f3](../records/0168.md#local-section-ec486c71f4fba2e1928b1eb6-a8991c9a46)
+- [local-section:ec52b2d270afd73aaa4141b9 — 4. Preservation and acceptance limits](../records/0168.md#local-section-ec52b2d270afd73aaa4141b9-dad1ed830a)
 - [local-section:ec9a19283d3bfcfba83008a7 — B3. Strongest objection: actual cumulative inputs have bounded increments](../records/0168.md#local-section-ec9a19283d3bfcfba83008a7-d89c9a63cb)
 - [local-section:eca772d6dd013c99b053d0d5 — 8. Independent evidence and remaining obligation](../records/0168.md#local-section-eca772d6dd013c99b053d0d5-71fa10cd26)
 - [local-section:ecb8a69ae74d2865d93079f1 — 9. Complete Euler shifts and actual capacities](../records/0168.md#local-section-ecb8a69ae74d2865d93079f1-42487e9336)
@@ -201,9 +204,9 @@ Page 38/43; 10573 matching records.
 - [local-section:f415cc0b6d8a6ee9c4ed98bf — 2. Three different conductors and the actual linear field](../records/0168.md#local-section-f415cc0b6d8a6ee9c4ed98bf-ee9aa9e4c2)
 - [local-section:f428d90d2f1a5606c82a666c — 2. Exact source evidence and its limits](../records/0168.md#local-section-f428d90d2f1a5606c82a666c-413662fc42)
 - [local-section:f42a841878e5f1146653e007 — G201. Exact native carrier spectrum, with normalized stencil cost](../records/0168.md#local-section-f42a841878e5f1146653e007-9245de9c38)
-- [local-section:f42df9970a96ba20397eed2d — E. Wildcard11: parity-preserving compression has a precise cost](../records/0168.md#local-section-f42df9970a96ba20397eed2d-6c26925a42)
-- [local-section:f46c222da6f0d60a6a1fa098 — Accepted mathematics](../records/0168.md#local-section-f46c222da6f0d60a6a1fa098-a29562026f)
-- [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0168.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
+- [local-section:f42df9970a96ba20397eed2d — E. Wildcard11: parity-preserving compression has a precise cost](../records/0169.md#local-section-f42df9970a96ba20397eed2d-6c26925a42)
+- [local-section:f46c222da6f0d60a6a1fa098 — Accepted mathematics](../records/0169.md#local-section-f46c222da6f0d60a6a1fa098-a29562026f)
+- [local-section:f49a2316fb93ac56c730481d — DQ6--DQ8. A fixed-class polar asymptotic relative to I-HECKE](../records/0169.md#local-section-f49a2316fb93ac56c730481d-e9d0186636)
 - [local-section:f4c128e6b260fc5237d22456 — 8. Ancestry, limits, and next mathematical action](../records/0169.md#local-section-f4c128e6b260fc5237d22456-bfbcb820a6)
 - [local-section:f4d2e08202fbad5ff66bbf64 — 5. Earlier failures remain correct in their actual scopes](../records/0169.md#local-section-f4d2e08202fbad5ff66bbf64-d585524095)
 - [local-section:f4da81a624985e32cfa1c618 — \[research revision\]: retaining the original plain cap gives c4=.125135](../records/0169.md#local-section-f4da81a624985e32cfa1c618-1d32323501)
@@ -255,6 +258,3 @@ Page 38/43; 10573 matching records.
 - [local-section:f87e81647d6f92ec1e119e04 — Frozen generation and sampling](../records/0169.md#local-section-f87e81647d6f92ec1e119e04-450e30340b)
 - [local-section:f8f1c127ce5124fbe21dbc3a — 7. Exact all-branch linear-probe transfer](../records/0169.md#local-section-f8f1c127ce5124fbe21dbc3a-a3be4c5aca)
 - [local-section:f9297f4a4d8a4b2f88846290 — 4.2 Whole nonlinear kernel and the low/high split](../records/0169.md#local-section-f9297f4a4d8a4b2f88846290-2ca26ef3ff)
-- [local-section:f92d7a275257b0519ac9cd1c — 3a(ii). A cheaper coherent source approximation, and a principal tail theorem](../records/0169.md#local-section-f92d7a275257b0519ac9cd1c-0c45f47544)
-- [local-section:f9987a86684aba9188ab0be8 — 15. Compact positivity and one-step improvement do not prove arithmetic approximation](../records/0169.md#local-section-f9987a86684aba9188ab0be8-c86bfa0772)
-- [local-section:f9a8a525c6b44c2666995d04 — 2. The exact merged coefficient and what permission it needs](../records/0169.md#local-section-f9a8a525c6b44c2666995d04-81cab37f03)
