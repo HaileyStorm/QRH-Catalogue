@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 933 matching records.
+Page 1/4; 934 matching records.
 
 [Next](object-zeta-5cc10d9143-02.md)
 
@@ -181,6 +181,7 @@ Page 1/4; 933 matching records.
 - [QRH-CONT-M012-STRESS-MODEL — Positive Euler stress model preserving the seed but violating a generic5/6 bootstrap](../records/0131.md#qrh-cont-m012-stress-model-60696ca655)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
 - [QRH-CONT-R031-PAID-DIAGONAL-RESIDUE — Exact target-factor diagonal residue paid below5/6 with fully priced displaced contours](../records/0131.md#qrh-cont-r031-paid-diagonal-residue-94ac44eadb)
+- [QRH-CONT-R110-FOUR-VARIABLE-EULER-COMMON-FACTOR-SOURCE — General four-variable Euler correction and exact common-factor source cancellation](../records/0131.md#qrh-cont-r110-four-variable-euler-common-factor-source-7b0512ec63)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0138.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00588fb8cc8ce7d96761e2bd — New continuum-dilation variant](../records/0138.md#local-section-00588fb8cc8ce7d96761e2bd-c488454499)
 - [local-section:007153fdd87633827fa7b867 — F26.O — Fredholm models with every compensator retained](../records/0138.md#local-section-007153fdd87633827fa7b867-cb95194bc5)
@@ -200,7 +201,7 @@ Page 1/4; 933 matching records.
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
 - [local-section:0344dfc656fbf443c4a78386 — 1. Kernel and transfer: independent derivation](../records/0138.md#local-section-0344dfc656fbf443c4a78386-ac76ecf7d9)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
-- [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
+- [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0139.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
 - [local-section:058a3ea5e9d85a79b1a0ddac — 2.1 Independent Mellin check](../records/0139.md#local-section-058a3ea5e9d85a79b1a0ddac-fc074d564f)
 - [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0139.md#local-section-06178eec24a4b4514c023259-786003578f)
 - [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0139.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
@@ -221,9 +222,9 @@ Page 1/4; 933 matching records.
 - [local-section:0b99710ba8dc0bcc84a700e4 — 5. Ordinary convexity and the separate I-HECKE improvement](../records/0139.md#local-section-0b99710ba8dc0bcc84a700e4-367f75acbc)
 - [local-section:0bf183397a361100a52101d9 — Post52 Sol High 01: paid heads for a moving rough detector, and an exact finite-sieve trap](../records/0139.md#local-section-0bf183397a361100a52101d9-744796ccee)
 - [local-section:0cc6ca6723986cc3fdb3690a — A checked hybrid of smoothing, filter banks and numerator phases](../records/0139.md#local-section-0cc6ca6723986cc3fdb3690a-3510407d9a)
-- [local-section:0d63031e38d91b9fa5050f0b — \[research revision\]: coupling the original slot width to a finite amplifier atlas](../records/0139.md#local-section-0d63031e38d91b9fa5050f0b-bd75e5ce3d)
-- [local-section:0e168f25f81aadf08e384760 — 6. Uniform parked audit25: rescue the checksum and price its return](../records/0139.md#local-section-0e168f25f81aadf08e384760-82cb5d9671)
-- [local-section:0e37e1a2a40f5005f321445a — Independent W59 review](../records/0139.md#local-section-0e37e1a2a40f5005f321445a-e82327cd40)
+- [local-section:0d63031e38d91b9fa5050f0b — \[research revision\]: coupling the original slot width to a finite amplifier atlas](../records/0140.md#local-section-0d63031e38d91b9fa5050f0b-bd75e5ce3d)
+- [local-section:0e168f25f81aadf08e384760 — 6. Uniform parked audit25: rescue the checksum and price its return](../records/0140.md#local-section-0e168f25f81aadf08e384760-82cb5d9671)
+- [local-section:0e37e1a2a40f5005f321445a — Independent W59 review](../records/0140.md#local-section-0e37e1a2a40f5005f321445a-e82327cd40)
 - [local-section:0e849c9fc4c05885e1546acb — 6. A stable first-shell inverse and its unpaid future tail](../records/0140.md#local-section-0e849c9fc4c05885e1546acb-f89011601a)
 - [local-section:0ebd00cf3b43f6bab13bed2d — \[research revision\] independent headroom branch B — one-grid arithmetic-wavelet obstruction](../records/0140.md#local-section-0ebd00cf3b43f6bab13bed2d-4c80627c45)
 - [local-section:0ed1ac6e0f783e0f45815555 — T09. Scale-\\(L^2\\) direct detectors](../records/0140.md#local-section-0ed1ac6e0f783e0f45815555-24e2b980d8)
@@ -252,7 +253,6 @@ Page 1/4; 933 matching records.
 - [local-section:14b75cfa7172572f1a39e6bf — HC2. Actual complex-shift source, every sign and a uniform coarse bound](../records/0140.md#local-section-14b75cfa7172572f1a39e6bf-960a55723d)
 - [local-section:14e582f549784cb8f60c7f42 — Actual outcome](../records/0140.md#local-section-14e582f549784cb8f60c7f42-06b86feaa7)
 - [local-section:1511c22742fbf0b393529c47 — \[research revision\] independent review: growing-order balanced completion and its exact arithmetic target](../records/0140.md#local-section-1511c22742fbf0b393529c47-fdef8d364f)
-- [local-section:15a8e70103725bb1dfc1d34d — Outside sources and exact checked scope](../records/0140.md#local-section-15a8e70103725bb1dfc1d34d-e87ff8fddf)
+- [local-section:15a8e70103725bb1dfc1d34d — Outside sources and exact checked scope](../records/0141.md#local-section-15a8e70103725bb1dfc1d34d-e87ff8fddf)
 - [local-section:15d857d61fa09ff09c7704a0 — F21 — Repaired Hardy discs and a changed known-zero test](../records/0141.md#local-section-15d857d61fa09ff09c7704a0-087330d31f)
 - [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0141.md#local-section-160b4939857b2accee77efb9-442b8b8857)
-- [local-section:1616bfd1f16a7318c41f53c1 — PR15 local physical moment review — pinned head ca182b70](../records/0141.md#local-section-1616bfd1f16a7318c41f53c1-81c57132dd)

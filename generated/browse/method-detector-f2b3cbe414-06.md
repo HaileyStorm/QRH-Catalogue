@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2906 matching records.
+Page 6/12; 2907 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -243,8 +243,9 @@ Page 6/12; 2906 matching records.
 - [QRH-CONT-R073-EARLY-CENTERED-HANKEL-OPERATOR — Payable early subtraction and complete centered Hankel remainder with reviewed contour qualifications](../records/0131.md#qrh-cont-r073-early-centered-hankel-operator-9f1c2cb37d)
 - [QRH-CONT-R090-SAME-ZERO-SCALE-BANK — A finite detector-scale bank from one fixed Eisenstein zero](../records/0131.md#qrh-cont-r090-same-zero-scale-bank-6f4dd84eb9)
 - [QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER — Joint-probe signed pairing and the complete valuation Poisson return adapter](../records/0131.md#qrh-cont-r093-joint-probe-return-adapter-ab5b8728de)
-- [QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN — Seed-free target-dependent ratio plateaux, matched Mobius tails and complete one-sided ordinary return](../records/0131.md#qrh-cont-u4-matched-plateau-ordinary-return-404881c4a3)
-- [QRH-HECKE-SQUAREFREE-PLAIN-WITNESS — Complete squarefree-plain same-zero witness and its inherited Hecke-family count](../records/0131.md#qrh-hecke-squarefree-plain-witness-9807070054)
+- [QRH-CONT-R110-FOUR-VARIABLE-EULER-COMMON-FACTOR-SOURCE — General four-variable Euler correction and exact common-factor source cancellation](../records/0131.md#qrh-cont-r110-four-variable-euler-common-factor-source-7b0512ec63)
+- [QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN — Seed-free target-dependent ratio plateaux, matched Mobius tails and complete one-sided ordinary return](../records/0132.md#qrh-cont-u4-matched-plateau-ordinary-return-404881c4a3)
+- [QRH-HECKE-SQUAREFREE-PLAIN-WITNESS — Complete squarefree-plain same-zero witness and its inherited Hecke-family count](../records/0132.md#qrh-hecke-squarefree-plain-witness-9807070054)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0138.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
 - [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0138.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
@@ -257,4 +258,3 @@ Page 6/12; 2906 matching records.
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
-- [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)

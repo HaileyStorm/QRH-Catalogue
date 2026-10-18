@@ -128325,6 +128325,316 @@
         "locator": "100.1\u2013100.10 with099.7\u2013099.16",
         "basis": "Uses the literal FULL original inverseL2 exponent, unchanged common profiles and all-bounded-polynomial-range ES4; full product edges and derivatives are paid. The spectral lower bound remains open."
       }
+    },
+    {
+      "source": "QRH-CONT-R101-NONLOCAL-GAMMA-AVERAGE",
+      "target": "QRH-CONT-M004-EULER-SECTOR",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "54ad069b59f2ca99998810508443f4ff197542ae64fdf80ca592edecd609e23f",
+        "locator": "101 Section9",
+        "basis": "An Euler multiplier sector for another literal ordinary source is distinct from incomplete-Gamma localization here."
+      }
+    },
+    {
+      "source": "QRH-CONT-R101-NONLOCAL-GAMMA-AVERAGE",
+      "target": "QRH-CONT-M009-LOG-ROWS",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "54ad069b59f2ca99998810508443f4ff197542ae64fdf80ca592edecd609e23f",
+        "locator": "101 Section9",
+        "basis": "Earlier logarithmic-row measures/weak norms do not prove the actual finite-list window signal."
+      }
+    },
+    {
+      "source": "QRH-CONT-R101-NONLOCAL-GAMMA-AVERAGE",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Hecke.LogDerivative",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "54ad069b59f2ca99998810508443f4ff197542ae64fdf80ca592edecd609e23f",
+        "locator": "101 Section9",
+        "basis": "Indexed module is source-domain provenance only; absolute halfplane/boundary contracts are not a formal Gamma-average/localization proof."
+      }
+    },
+    {
+      "source": "QRH-CONT-R102-FIXED-J-MARKED-COFACTOR-PRUNING",
+      "target": "QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "97e8ffdf21634eb5189f070873996610c0434b183a44842ede9dbd9503396931",
+        "locator": "102.29\u2013102.38",
+        "basis": "Conditional whole-source replacement preserves original unknown auxiliary counts, exact floor test and finite compatible windows."
+      }
+    },
+    {
+      "source": "QRH-CONT-R102-FIXED-J-MARKED-COFACTOR-PRUNING",
+      "target": "QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "97e8ffdf21634eb5189f070873996610c0434b183a44842ede9dbd9503396931",
+        "locator": "102 Section7",
+        "basis": "One-sided changed coefficients use only the general Q>1 bounded cube-free clause, with caps; same-parity exclusions are not inherited."
+      }
+    },
+    {
+      "source": "QRH-CONT-R102-FIXED-J-MARKED-COFACTOR-PRUNING",
+      "target": "local:G90",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "97e8ffdf21634eb5189f070873996610c0434b183a44842ede9dbd9503396931",
+        "locator": "102 Section9",
+        "basis": "Related earlier marked inverse amplification/density contract; this fixed-J source pruning is distinct and no unknown catalogue status is transferred."
+      }
+    },
+    {
+      "source": "QRH-CONT-R103-DISJOINT-SOURCE-FIBER-INJECTIONS",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Inversion.InitialFibers",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "39eb1c5ddbe191db0439e162fc1b2440aebbc391ba59145f70c97483f0abee26",
+        "locator": "103 Sections3\u20134",
+        "basis": "Generic divisor/assignment injectivity is retained; new source-specific disjoint-pool encoding and sharper actual-mask bound are mathematical extensions, not new formal verification."
+      }
+    },
+    {
+      "source": "QRH-CONT-R103-DISJOINT-SOURCE-FIBER-INJECTIONS",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Inversion.SecondFibers",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "39eb1c5ddbe191db0439e162fc1b2440aebbc391ba59145f70c97483f0abee26",
+        "locator": "103 Sections6\u20138",
+        "basis": "Eight-core source reconstruction keeps old/new complement provenance and nonzero masks absent from generic Valid. No generic lemma is silently strengthened."
+      }
+    },
+    {
+      "source": "QRH-CONT-R104-ONE-DIMENSIONAL-INLET-SYMMETRIC-COLORING",
+      "target": "QRH-CONT-R103-DISJOINT-SOURCE-FIBER-INJECTIONS",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "77ae8fbf31e23375127b84ea119373d629ae7d402931493e41c424c584ff31da",
+        "locator": "104 Section6",
+        "basis": "Complementary elementary/source-fiber components;103 is not assumed as an input to104 inlet/coloring proof."
+      }
+    },
+    {
+      "source": "QRH-CONT-R105-UNIFORM-TERMINAL-COMPLETION",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Reflection.CanonicalChoiceEnergyUniformDegree",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "2dac908014e5b622e9ebe6b3baf941c4bd85cac43f151676c9b6a21607f3b1f9",
+        "locator": "105 Sections2\u20133",
+        "basis": "Actual active source quantifiers precede arbitrary finite slot type; product compression is inspected source evidence. New terminal annular mass budget is textual mathematics."
+      }
+    },
+    {
+      "source": "QRH-CONT-R105-UNIFORM-TERMINAL-COMPLETION",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Reflection.CanonicalFrozenEnergyUniformDegree",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "2dac908014e5b622e9ebe6b3baf941c4bd85cac43f151676c9b6a21607f3b1f9",
+        "locator": "105 Sections2,4\u20139",
+        "basis": "The old rmax inactive-source budget is replaced only on the actual annular source with fixed terms and complete cube/label costs."
+      }
+    },
+    {
+      "source": "QRH-CONT-R105-UNIFORM-TERMINAL-COMPLETION",
+      "target": "QRH-CONT-R104-ONE-DIMENSIONAL-INLET-SYMMETRIC-COLORING",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "2dac908014e5b622e9ebe6b3baf941c4bd85cac43f151676c9b6a21607f3b1f9",
+        "locator": "105 Section10",
+        "basis": "Compatible one-dimensional inlet is not a dependency of the direct terminal estimate."
+      }
+    },
+    {
+      "source": "QRH-CONT-R106-UNIFORM-CONDITIONAL-CANONICAL-STEP",
+      "target": "QRH-CONT-R103-DISJOINT-SOURCE-FIBER-INJECTIONS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "11634c43f6a967b25d5f1a43ad8a9ef7a005a5d5419a973f2e1a5785a17b15f4",
+        "locator": "106 Sections7\u20138",
+        "basis": "Uses source-specific eight-core/two-subset injection and fixed divisor powers on genuine projected tuples."
+      }
+    },
+    {
+      "source": "QRH-CONT-R106-UNIFORM-CONDITIONAL-CANONICAL-STEP",
+      "target": "QRH-CONT-R104-ONE-DIMENSIONAL-INLET-SYMMETRIC-COLORING",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "11634c43f6a967b25d5f1a43ad8a9ef7a005a5d5419a973f2e1a5785a17b15f4",
+        "locator": "106 Sections3,8",
+        "basis": "Uses simultaneous disjoint-pool coefficient majorant; optional already-separated inlet bank has separately stated cost."
+      }
+    },
+    {
+      "source": "QRH-CONT-R106-UNIFORM-CONDITIONAL-CANONICAL-STEP",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Descent.ActualProfiles",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "11634c43f6a967b25d5f1a43ad8a9ef7a005a5d5419a973f2e1a5785a17b15f4",
+        "locator": "106 Section8",
+        "basis": "Exact nine/six scalar coordinates and fixed slopes were inspected; no formal proof of new common-order theorem is claimed."
+      }
+    },
+    {
+      "source": "QRH-CONT-R107-OVERLAP-AWARE-INVERSE-AMPLIFICATION",
+      "target": "local:G90",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "9d62887276dc68cfa64faf8a47183ef9a64fdfad0abe787b89f41fdfe1ba1ef0",
+        "locator": "107 Section9",
+        "basis": "Same leading amplification exponent; new full-pool correction replaces earlier disjoint-amplifier shortcut at overlaps. Earlier physical/density/signed-transport conclusions are not imported."
+      }
+    },
+    {
+      "source": "QRH-CONT-R107-OVERLAP-AWARE-INVERSE-AMPLIFICATION",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Hecke.InverseAmplificationRows",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "9d62887276dc68cfa64faf8a47183ef9a64fdfad0abe787b89f41fdfe1ba1ef0",
+        "locator": "107 Sections3\u20136",
+        "basis": "Exact source row-map injection including units is a retained arithmetic interface; new slot-overlap terms are separately proved mathematics."
+      }
+    },
+    {
+      "source": "QRH-CONT-R107-OVERLAP-AWARE-INVERSE-AMPLIFICATION",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Hecke.InverseAmplificationColumn",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "9d62887276dc68cfa64faf8a47183ef9a64fdfad0abe787b89f41fdfe1ba1ef0",
+        "locator": "107 Sections4\u20136",
+        "basis": "Uses original minus inverse-column identity and natural-zero mask; exact slot-restoration corrections are additional source-level deductions."
+      }
+    },
+    {
+      "source": "QRH-CONT-R108-UNIFORM-DISJOINT-MARKED-INVERSE",
+      "target": "QRH-CONT-R103-DISJOINT-SOURCE-FIBER-INJECTIONS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
+        "locator": "108 Sections2\u20136",
+        "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
+      }
+    },
+    {
+      "source": "QRH-CONT-R108-UNIFORM-DISJOINT-MARKED-INVERSE",
+      "target": "QRH-CONT-R104-ONE-DIMENSIONAL-INLET-SYMMETRIC-COLORING",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
+        "locator": "108 Sections2\u20136",
+        "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
+      }
+    },
+    {
+      "source": "QRH-CONT-R108-UNIFORM-DISJOINT-MARKED-INVERSE",
+      "target": "QRH-CONT-R105-UNIFORM-TERMINAL-COMPLETION",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
+        "locator": "108 Sections2\u20136",
+        "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
+      }
+    },
+    {
+      "source": "QRH-CONT-R108-UNIFORM-DISJOINT-MARKED-INVERSE",
+      "target": "QRH-CONT-R106-UNIFORM-CONDITIONAL-CANONICAL-STEP",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
+        "locator": "108 Sections2\u20136",
+        "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
+      }
+    },
+    {
+      "source": "QRH-CONT-R108-UNIFORM-DISJOINT-MARKED-INVERSE",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Descent.CanonicalCompleteRank",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
+        "locator": "108 Sections3,7",
+        "basis": "Existing fixed-K quantifier remains unchanged. New mathematical backward finite-depth family is source-specific, not a Lean replay."
+      }
+    },
+    {
+      "source": "QRH-CONT-R108-UNIFORM-DISJOINT-MARKED-INVERSE",
+      "target": "QRH-CONT-R107-OVERLAP-AWARE-INVERSE-AMPLIFICATION",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
+        "locator": "108 Section7",
+        "basis": "Supplies a common raw moment for107 conditional uniform disjoint-bank transfer; actual amplification application is separately reviewed in109, not part of108 theorem."
+      }
+    },
+    {
+      "source": "QRH-CONT-R109-COMPLETE-COFACTOR-SQUAREPART-PRUNING",
+      "target": "QRH-CONT-R104-ONE-DIMENSIONAL-INLET-SYMMETRIC-COLORING",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "e64d783b386d65ba9cf75e4127b14b6f2f84a9a0d33bbad3d4d362f333d159ba",
+        "locator": "109 Sections1\u20134",
+        "basis": "Exact uniform-MI supply, overlap-aware amplification and symmetric all-j decomposition are applied with their full common-order/onset and coefficient restrictions."
+      }
+    },
+    {
+      "source": "QRH-CONT-R109-COMPLETE-COFACTOR-SQUAREPART-PRUNING",
+      "target": "QRH-CONT-R107-OVERLAP-AWARE-INVERSE-AMPLIFICATION",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "e64d783b386d65ba9cf75e4127b14b6f2f84a9a0d33bbad3d4d362f333d159ba",
+        "locator": "109 Sections1\u20134",
+        "basis": "Exact uniform-MI supply, overlap-aware amplification and symmetric all-j decomposition are applied with their full common-order/onset and coefficient restrictions."
+      }
+    },
+    {
+      "source": "QRH-CONT-R109-COMPLETE-COFACTOR-SQUAREPART-PRUNING",
+      "target": "QRH-CONT-R108-UNIFORM-DISJOINT-MARKED-INVERSE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "e64d783b386d65ba9cf75e4127b14b6f2f84a9a0d33bbad3d4d362f333d159ba",
+        "locator": "109 Sections1\u20134",
+        "basis": "Exact uniform-MI supply, overlap-aware amplification and symmetric all-j decomposition are applied with their full common-order/onset and coefficient restrictions."
+      }
+    },
+    {
+      "source": "QRH-CONT-R109-COMPLETE-COFACTOR-SQUAREPART-PRUNING",
+      "target": "QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "e64d783b386d65ba9cf75e4127b14b6f2f84a9a0d33bbad3d4d362f333d159ba",
+        "locator": "109 Section6",
+        "basis": "Original floor criterion and unknown-count finite-window recurrence are preserved under the new strict both-witness gate."
+      }
+    },
+    {
+      "source": "QRH-CONT-R110-FOUR-VARIABLE-EULER-COMMON-FACTOR-SOURCE",
+      "target": "QRH-CONT-R109-COMPLETE-COFACTOR-SQUAREPART-PRUNING",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "1cd25cc8b4a63ffd697e9c834ff64ad3604afff70431f287c4e103edb9d20661",
+        "locator": "110 Section2",
+        "basis": "ONLY the complete-cutoff/near-sector APPLICATION uses109 exact complete tail/pruning theorem and its exceptions/leakage. The general finite-forbidden-set Euler lemma is independent of109."
+      }
+    },
+    {
+      "source": "QRH-CONT-R110-FOUR-VARIABLE-EULER-COMMON-FACTOR-SOURCE",
+      "target": "QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "1cd25cc8b4a63ffd697e9c834ff64ad3604afff70431f287c4e103edb9d20661",
+        "locator": "110 Sections2,6",
+        "basis": "Affine source target and original finite-window return interface are retained; neither Euler factorization nor the paid sector proves the remaining whole signed source."
+      }
+    },
+    {
+      "source": "QRH-CONT-R110-FOUR-VARIABLE-EULER-COMMON-FACTOR-SOURCE",
+      "target": "local:G213",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "1cd25cc8b4a63ffd697e9c834ff64ad3604afff70431f287c4e103edb9d20661",
+        "locator": "110 Section7",
+        "basis": "True cubic-label average requires label-independent admissible coefficients/source. Actual common-factor correlation does not establish those hypotheses; no transfer by title."
+      }
     }
   ],
   "schema_version": 1
