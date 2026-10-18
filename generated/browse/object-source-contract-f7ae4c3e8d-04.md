@@ -27,7 +27,7 @@ Page 4/4; 785 matching records.
 - [local:G184 — G184. Ambient lower prices and fixed-phase compatibility](../records/0172.md#local-g184-746f7d1af6)
 - [local:G185 — G185. Primitive Poisson and the complete two-color sieve bound](../records/0172.md#local-g185-098059391a)
 - [local:G188 — G188. A complete periodic-cofactor estimate](../records/0172.md#local-g188-2d645f9293)
-- [local:G192 — G192. Complete degree12 source transfer](../records/0172.md#local-g192-c5383e05d4)
+- [local:G192 — G192. Complete degree12 source transfer](../records/0173.md#local-g192-c5383e05d4)
 - [local:G200 — G200. Complete weighted removal and the fourth paid class](../records/0173.md#local-g200-b27f24a369)
 - [local:G210 — G210. Unequal energies and all collision-label sums](../records/0173.md#local-g210-2b166add49)
 - [local:G211 — G211. Paid cores in the nonunique companion and the retained hard sum](../records/0173.md#local-g211-d9305c406e)

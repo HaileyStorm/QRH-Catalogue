@@ -2,10 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17545 matching records.
+Page 71/71; 17551 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [review:T04 — \[research revision\]-review:T04](../records/0218.md#review-t04-53250e35ec)
+- [review:T05 — \[research revision\]-review:T05](../records/0218.md#review-t05-af4682a534)
+- [review:T06 — \[research revision\]-review:T06](../records/0218.md#review-t06-2f9f1fb3c7)
+- [review:T07 — \[research revision\]-review:T07](../records/0218.md#review-t07-d3b26c667a)
+- [review:T08 — \[research revision\]-review:T08](../records/0218.md#review-t08-da626c3108)
+- [review:T09 — \[research revision\]-review:T09](../records/0218.md#review-t09-9b55f2ffc3)
 - [review:T10 — \[research revision\]-review:T10](../records/0218.md#review-t10-2738c6d533)
 - [reviewed-claim:A01-coherent-aggregate — \[research revision\]-claim:A01-coherent-aggregate](../records/0218.md#reviewed-claim-a01-coherent-aggregate-70c1da41c6)
 - [reviewed-claim:A01-embedded-extension — \[research revision\]-claim:A01-embedded-extension](../records/0218.md#reviewed-claim-a01-embedded-extension-9eec840d93)

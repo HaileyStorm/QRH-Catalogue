@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1438 matching records.
+Page 1/6; 1442 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 
@@ -213,12 +213,16 @@ Page 1/6; 1438 matching records.
 - [QRH-CONT-M015-FOUR-PRIME-WITNESS — Four-prime multiplicity witness for the three-block correction](../records/0131.md#qrh-cont-m015-four-prime-witness-53399d75a8)
 - [QRH-CONT-R022-JOINT-WITNESS-RESIDUAL — Paid sectors and the full-bin signed residual for PR8's actual joint witnesses](../records/0131.md#qrh-cont-r022-joint-witness-residual-1aa67ce645)
 - [QRH-CONT-R041-ACTUAL-ZERO-WITNESS — Actual same-zero witness insertion and weighted Poisson residual](../records/0131.md#qrh-cont-r041-actual-zero-witness-91f937c3bd)
+- [QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE — Complete four-long heat remainder with paid complements and whole-source equivalence](../records/0131.md#qrh-cont-r076-four-long-heat-equivalence-93022dda42)
+- [QRH-CONT-R077-THREE-STATE-COUPLED-COMPENSATOR — Three-state coupled prime compensator with exact full-source available cost](../records/0131.md#qrh-cont-r077-three-state-coupled-compensator-da848f54d0)
+- [QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM — Complete cubic-divisor heat transform with presented Euler deletion and full principal centering](../records/0131.md#qrh-cont-r078-cubic-divisor-heat-transform-0e04e2a96d)
+- [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0137.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
-- [local-section:00d21208f3dce768523fcc77 — 7. Failures, ceilings and the next mathematical target](../records/0137.md#local-section-00d21208f3dce768523fcc77-1967aa5676)
-- [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0137.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
-- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
+- [local-section:00d21208f3dce768523fcc77 — 7. Failures, ceilings and the next mathematical target](../records/0138.md#local-section-00d21208f3dce768523fcc77-1967aa5676)
+- [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0138.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
+- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0138.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
 - [local-section:019b7e6748c560d9641ef714 — 10. Uniformity, tails and independent checks](../records/0138.md#local-section-019b7e6748c560d9641ef714-fd36a2c932)
 - [local-section:01b1b466a00885bebb7922e2 — 5.1 The entire coarse estimate fails by a specific power](../records/0138.md#local-section-01b1b466a00885bebb7922e2-60b33f7786)
@@ -252,7 +256,3 @@ Page 1/6; 1438 matching records.
 - [local-section:0828333740a4895557ae832c — 1. Decision and exact limits](../records/0138.md#local-section-0828333740a4895557ae832c-2a10918ac2)
 - [local-section:082a1b7df2eec46561fe4c43 — \[research revision\]: native translation costs and a fixed-source renewal obstruction](../records/0138.md#local-section-082a1b7df2eec46561fe4c43-c5fa414a34)
 - [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
-- [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
-- [local-section:09513a9f16a43f4724c33e9a — 74. Paid common-readout absolute Gram in arbitrary lift dimension](../records/0138.md#local-section-09513a9f16a43f4724c33e9a-6c0381a1d4)
-- [local-section:09559d68d0bd26ce573399f1 — 3. First powers: common profile, height buffer and one new slot](../records/0138.md#local-section-09559d68d0bd26ce573399f1-cf4d738421)
-- [local-section:09774c6e79465f03471d008e — 7. All sixty original cards retained](../records/0138.md#local-section-09774c6e79465f03471d008e-82c0acfc62)

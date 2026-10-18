@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2901 matching records.
+Page 6/12; 2902 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -240,9 +240,10 @@ Page 6/12; 2901 matching records.
 - [QRH-CONT-R053-SPARSE-AMPLIFIED-IMAGE — Sparse amplified image and complete detector deletion](../records/0131.md#qrh-cont-r053-sparse-amplified-image-4ebcffe218)
 - [QRH-CONT-R054-TWO-RESIDUE-POLARIZATION — Complete gcd Euler residues and a polarized annihilator](../records/0131.md#qrh-cont-r054-two-residue-polarization-187bb7a866)
 - [QRH-CONT-R059-WRONSKIAN-CONVOLUTION — Two-probe Wronskian, full convolution and heat indicator test](../records/0131.md#qrh-cont-r059-wronskian-convolution-dee50e3cdc)
+- [QRH-CONT-R073-EARLY-CENTERED-HANKEL-OPERATOR — Payable early subtraction and complete centered Hankel remainder with reviewed contour qualifications](../records/0131.md#qrh-cont-r073-early-centered-hankel-operator-9f1c2cb37d)
 - [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
-- [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0137.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
-- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
+- [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0138.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
+- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0138.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
 - [local-section:019b7e6748c560d9641ef714 — 10. Uniformity, tails and independent checks](../records/0138.md#local-section-019b7e6748c560d9641ef714-fd36a2c932)
 - [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0138.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
@@ -257,4 +258,3 @@ Page 6/12; 2901 matching records.
 - [local-section:051e901193a4143a5bea30d3 — F19. Higher integrability and stable future tails](../records/0138.md#local-section-051e901193a4143a5bea30d3-c7d2f214e6)
 - [local-section:05228820399190f6a125d3ea — 3. Simplifications that are valid, and shortcuts that are not](../records/0138.md#local-section-05228820399190f6a125d3ea-4d5b8cfe3f)
 - [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0138.md#local-section-05a898c044306d64e55cadee-b3fa865755)
-- [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0138.md#local-section-06178eec24a4b4514c023259-786003578f)

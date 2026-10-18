@@ -7,8 +7,8 @@ Page 5/5; 1036 matching records.
 [Previous](method-gram-caa75103c5-04.md)
 
 - [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0173.md#local-g274-fbf5ea7910)
-- [local:G288 — G288. Finite Euler deletion with explicit divisor-tail and profile budgets](../records/0173.md#local-g288-7313aece03)
-- [local:G289 — G289. Adaptive ordinary Laplace Gram residual and complete primitive-ratio reduction](../records/0173.md#local-g289-5edc57e94d)
+- [local:G288 — G288. Finite Euler deletion with explicit divisor-tail and profile budgets](../records/0174.md#local-g288-7313aece03)
+- [local:G289 — G289. Adaptive ordinary Laplace Gram residual and complete primitive-ratio reduction](../records/0174.md#local-g289-5edc57e94d)
 - [local:G297 — G297. Asymmetric continuous Gram with a paid diagonal and unpaid transition](../records/0174.md#local-g297-9211aa135c)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0174.md#local-g3-c51dd6c4a6)
 - [local:G73 — \[research revision\] attempt delta (G73)](../records/0174.md#local-g73-076e11ffdb)

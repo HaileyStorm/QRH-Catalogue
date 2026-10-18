@@ -6,7 +6,7 @@ Page 4/4; 777 matching records.
 
 [Previous](method-certificate-03d66dd088-03.md)
 
-- [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0173.md#local-g291-a2d579dcd5)
+- [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0174.md#local-g291-a2d579dcd5)
 - [local:G299 — G299. Signed minimum telescoping, erased zero signal and divergent positive inverse](../records/0174.md#local-g299-29e34bc7a7)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0174.md#local-g3-c51dd6c4a6)
 - [local:G305 — G305. Global positive-quadratic endpoint certificates with explicit denominator and domain gates](../records/0174.md#local-g305-cfe213f8d4)

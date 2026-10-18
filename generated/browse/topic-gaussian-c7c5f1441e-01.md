@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1283 matching records.
+Page 1/6; 1285 matching records.
 
 [Next](topic-gaussian-c7c5f1441e-02.md)
 
@@ -221,12 +221,14 @@ Page 1/6; 1283 matching records.
 - [QRH-CONT-R059-WRONSKIAN-CONVOLUTION — Two-probe Wronskian, full convolution and heat indicator test](../records/0131.md#qrh-cont-r059-wronskian-convolution-dee50e3cdc)
 - [QRH-CONT-R062-INDEPENDENT-PROFILE-PAIR — Independent profile pair and a qualified radial volume model](../records/0131.md#qrh-cont-r062-independent-profile-pair-3badad429b)
 - [QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD — Positive ordinary Gaussian height norm and complete gcd pair source](../records/0131.md#qrh-cont-r071-ordinary-heat-norm-gcd-61e0d76bfa)
+- [QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE — Complete four-long heat remainder with paid complements and whole-source equivalence](../records/0131.md#qrh-cont-r076-four-long-heat-equivalence-93022dda42)
+- [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
-- [local-section:00ea71460e30bc5f16dcecab — C: actual rough-prime zero law](../records/0137.md#local-section-00ea71460e30bc5f16dcecab-9b7e16ecaa)
-- [local-section:00faa049bebb2f9a1ffc62c7 — A3. Complete return and the actual scale budget](../records/0137.md#local-section-00faa049bebb2f9a1ffc62c7-26593bc731)
-- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
-- [local-section:011b7c594b5a4224c3ba5b33 — G84. Exact moment and genuine paid sectors](../records/0137.md#local-section-011b7c594b5a4224c3ba5b33-0e053adbcd)
+- [local-section:00ea71460e30bc5f16dcecab — C: actual rough-prime zero law](../records/0138.md#local-section-00ea71460e30bc5f16dcecab-9b7e16ecaa)
+- [local-section:00faa049bebb2f9a1ffc62c7 — A3. Complete return and the actual scale budget](../records/0138.md#local-section-00faa049bebb2f9a1ffc62c7-26593bc731)
+- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
+- [local-section:011b7c594b5a4224c3ba5b33 — G84. Exact moment and genuine paid sectors](../records/0138.md#local-section-011b7c594b5a4224c3ba5b33-0e053adbcd)
 - [local-section:0134a2d6bf5ef08f1d8ee95a — 6. Literal Poisson, natural holes and eligibility](../records/0138.md#local-section-0134a2d6bf5ef08f1d8ee95a-a0fea8d4c2)
 - [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0138.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
 - [local-section:022268002f5b74e8108cddc4 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0138.md#local-section-022268002f5b74e8108cddc4-52c2186dd6)
@@ -254,5 +256,3 @@ Page 1/6; 1283 matching records.
 - [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
 - [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
 - [local-section:09513a9f16a43f4724c33e9a — 74. Paid common-readout absolute Gram in arbitrary lift dimension](../records/0138.md#local-section-09513a9f16a43f4724c33e9a-6c0381a1d4)
-- [local-section:0991c82dc8d1b52a63041c6d — 1. Decision, statement, and evidence class](../records/0138.md#local-section-0991c82dc8d1b52a63041c6d-43292b5ae8)
-- [local-section:09b87f6feae42843b01e5124 — 6. The complementary analytic term is really small](../records/0139.md#local-section-09b87f6feae42843b01e5124-0345f33c57)

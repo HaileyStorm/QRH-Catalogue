@@ -11,4 +11,4 @@ Page 1/1; 8 matching records.
 - [local:F11.X — F11.X — Same-tuple supports are disjoint, but cross-tuples need not be; old signs do not erase full exceptional energy](../records/0171.md#local-f11-x-81d0b97fb5)
 - [local:F16.X — F16.X — Reoptimization, smoothing or regrouping inside unchanged inequalities cannot improve c0](../records/0171.md#local-f16-x-f31523bbfe)
 - [local:F21.X — F21.X — Old a_H\<1/2 strict uniform gain fails by critical-line clusters](../records/0171.md#local-f21-x-c6c41190bd)
-- [local:F25.X — F25.X — Degree-three Haar map is ordinary convolution, not mixing; Young givesO(1), absolute diagonalO(y), neither desired decay](../records/0171.md#local-f25-x-41ff0a59c1)
+- [local:F25.X — F25.X — Degree-three Haar map is ordinary convolution, not mixing; Young givesO(1), absolute diagonalO(y), neither desired decay](../records/0172.md#local-f25-x-41ff0a59c1)

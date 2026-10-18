@@ -2,10 +2,14 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 545 matching records.
+Page 3/3; 549 matching records.
 
 [Previous](topic-cubic-ce371d3c6b-02.md)
 
+- [local:G185 — G185. Primitive Poisson and the complete two-color sieve bound](../records/0172.md#local-g185-098059391a)
+- [local:G204 — G204: small square cores with unrestricted cubic rows](../records/0173.md#local-g204-fa5103d677)
+- [local:G210 — G210. Unequal energies and all collision-label sums](../records/0173.md#local-g210-2b166add49)
+- [local:G213 — G213. Average the true cubic label before counting repetitions](../records/0173.md#local-g213-46d38d3f6e)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0173.md#local-g214-3db1fe9e64)
 - [local:G219 — G219. Actual principal channels and the cheapest generic price](../records/0173.md#local-g219-b390f41fe3)
 - [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0173.md#local-g252-64bd5a4ae5)
@@ -25,9 +29,9 @@ Page 3/3; 545 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorLocalCoefficients::compensated_error_cubic@923 — compensated_error_cubic](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlocalcoefficients-compen-03c39f0932)
 - [pr26:Cycle25.Numerator.Imported.NumeratorLocalCoefficients::cubic@881 — cubic](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlocalcoefficients-cubic--837f450621)
 - [pr26:Cycle25.Numerator.Imported.NumeratorLocalCoefficients::norm_cubic_le@962 — norm_cubic_le](../records/0203.md#pr26-cycle25-numerator-imported-numeratorlocalcoefficients-norm-c-f5dfaad6f8)
-- [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubicMass@580 — cubicMass](../records/0203.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubicmass-4cca4e79cc)
-- [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubicMass_le_of_circle_bound@583 — cubicMass_le_of_circle_bound](../records/0203.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubicmass-368b0185d9)
-- [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubicMass_le_of_vertical_bound@605 — cubicMass_le_of_vertical_bound](../records/0203.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubicmass-f74d774be1)
+- [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubicMass@580 — cubicMass](../records/0204.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubicmass-4cca4e79cc)
+- [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubicMass_le_of_circle_bound@583 — cubicMass_le_of_circle_bound](../records/0204.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubicmass-368b0185d9)
+- [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubicMass_le_of_vertical_bound@605 — cubicMass_le_of_vertical_bound](../records/0204.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubicmass-f74d774be1)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubicMass_mono@600 — cubicMass_mono](../records/0204.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubicmass-c9ad99777a)
 - [pr26:Cycle25.Numerator.Imported.NumeratorPolynomialMass::cubic_coefficients_of_four_bounds@530 — cubic_coefficients_of_four_bounds](../records/0204.md#pr26-cycle25-numerator-imported-numeratorpolynomialmass-cubic-coe-99061d2177)
 - [pr26:Cycle25.Numerator.Imported.NumeratorUnramifiedMass::CubicCoefficients.eval@195 — CubicCoefficients.eval](../records/0204.md#pr26-cycle25-numerator-imported-numeratorunramifiedmass-cubiccoef-9d5640b0f5)

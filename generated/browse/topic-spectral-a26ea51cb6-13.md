@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3036 matching records.
+Page 13/13; 3037 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
+- [pr26:LocalMoment.SixthRowMask::amplified_zeroMaximum@810 — amplified_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-zeromaximum-810-fdb7a6cba2)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)

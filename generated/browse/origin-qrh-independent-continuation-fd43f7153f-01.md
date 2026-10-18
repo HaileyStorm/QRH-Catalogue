@@ -2,7 +2,7 @@
 
 [Facet directory](origin.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 69 matching records.
+Page 1/1; 75 matching records.
 
 - [MATH-PR62-b5e69ce5-ACTUAL-VALUATION-PAYMENT — Actual PR62 numerator facet and joint HIGH payment](../records/0129.md#math-pr62-b5e69ce5-actual-valuation-payment-8831aed115)
 - [MATH-PR62-b5e69ce5-CONSERVED-WIDTH-PAYMENT — Actual PR62 selected-width conservation and coupled payment](../records/0129.md#math-pr62-b5e69ce5-conserved-width-payment-05c781288e)
@@ -73,3 +73,9 @@ Page 1/1; 69 matching records.
 - [QRH-CONT-R070-INTERACTING-PRIME-MARK — Actual rank-two interacting prime mark with complete subtraction branch](../records/0131.md#qrh-cont-r070-interacting-prime-mark-43db166970)
 - [QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD — Positive ordinary Gaussian height norm and complete gcd pair source](../records/0131.md#qrh-cont-r071-ordinary-heat-norm-gcd-61e0d76bfa)
 - [QRH-CONT-R072-CENTERED-LONG-PAIR-HEAT — Complete ordinary centered long-long-cofactor heat reduction](../records/0131.md#qrh-cont-r072-centered-long-pair-heat-a1f8a8ae5f)
+- [QRH-CONT-R073-EARLY-CENTERED-HANKEL-OPERATOR — Payable early subtraction and complete centered Hankel remainder with reviewed contour qualifications](../records/0131.md#qrh-cont-r073-early-centered-hankel-operator-9f1c2cb37d)
+- [QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE — Complete four-long heat remainder with paid complements and whole-source equivalence](../records/0131.md#qrh-cont-r076-four-long-heat-equivalence-93022dda42)
+- [QRH-CONT-R077-THREE-STATE-COUPLED-COMPENSATOR — Three-state coupled prime compensator with exact full-source available cost](../records/0131.md#qrh-cont-r077-three-state-coupled-compensator-da848f54d0)
+- [QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM — Complete cubic-divisor heat transform with presented Euler deletion and full principal centering](../records/0131.md#qrh-cont-r078-cubic-divisor-heat-transform-0e04e2a96d)
+- [QRH-CONT-R083-JOINT-REFLECTION-GATE — Coefficientwise classification of the common-time joint reflection gate](../records/0131.md#qrh-cont-r083-joint-reflection-gate-5748421590)
+- [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)

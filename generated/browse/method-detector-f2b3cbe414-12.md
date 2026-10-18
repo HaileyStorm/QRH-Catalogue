@@ -2,11 +2,12 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 12/12; 2901 matching records.
+Page 12/12; 2902 matching records.
 
 [Previous](method-detector-f2b3cbe414-11.md)
 
-- [pr26:Global.Transport.NonfloorTransport::actual_nonfloor_probe_transport@517 — actual_nonfloor_probe_transport](../records/0211.md#pr26-global-transport-nonfloortransport-actual-nonfloor-probe-tra-0073c44cb4)
+- [pr26:Global.Transport.NonfloorIntegral::actual_nonfloor_cube_norm@252 — actual_nonfloor_cube_norm](../records/0212.md#pr26-global-transport-nonfloorintegral-actual-nonfloor-cube-norm--8d307766c4)
+- [pr26:Global.Transport.NonfloorTransport::actual_nonfloor_probe_transport@517 — actual_nonfloor_probe_transport](../records/0212.md#pr26-global-transport-nonfloortransport-actual-nonfloor-probe-tra-0073c44cb4)
 - [pr26:Global.Transport.NormalizedTransport::actual_normalized_probe_transport@605 — actual_normalized_probe_transport](../records/0212.md#pr26-global-transport-normalizedtransport-actual-normalized-probe-d53a59865b)
 - [pr26:Global.Transport.NormalizedTransportSaving::actual_normalized_probe_transport_saving@604 — actual_normalized_probe_transport_saving](../records/0212.md#pr26-global-transport-normalizedtransportsaving-actual-normalized-1f97990cb6)
 - [pr26:Global.Transport.PhysicalLargeTail::large_original_physical_tail@363 — large_original_physical_tail](../records/0212.md#pr26-global-transport-physicallargetail-large-original-physical-t-2acd9dd307)
@@ -58,11 +59,11 @@ Page 12/12; 2901 matching records.
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_analytic_z@523 — local_analytic_z](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-local-analy-ead1e312f7)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_eq_regionSlot@802 — local_eq_regionSlot](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-local-eq-re-c6f6eec53b)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::local_norm_bound@620 — local_norm_bound](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-local-norm--114c888ec0)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::marked_differentiableAt_w@471 — marked_differentiableAt_w](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-marked-diff-97ec6347dc)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::marked_differentiableAt_z@484 — marked_differentiableAt_z](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-marked-diff-81605b44e2)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slotBound_nonneg@659 — slotBound_nonneg](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-slotbound-n-f67202577b)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slotMultiplier_empty@860 — slotMultiplier_empty](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-slotmultipl-c64e3b163b)
-- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_analytic_w@665 — slot_analytic_w](../records/0212.md#pr26-global-transport-principalremainderfiniteproduct-slot-analyt-a9497bcce4)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::marked_differentiableAt_w@471 — marked_differentiableAt_w](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-marked-diff-97ec6347dc)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::marked_differentiableAt_z@484 — marked_differentiableAt_z](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-marked-diff-81605b44e2)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slotBound_nonneg@659 — slotBound_nonneg](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-slotbound-n-f67202577b)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slotMultiplier_empty@860 — slotMultiplier_empty](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-slotmultipl-c64e3b163b)
+- [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_analytic_w@665 — slot_analytic_w](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-slot-analyt-a9497bcce4)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_analytic_z@676 — slot_analytic_z](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-slot-analyt-237c424f32)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_norm_bound@687 — slot_norm_bound](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-slot-norm-b-823ca1eb7a)
 - [pr26:Global.Transport.PrincipalRemainderFiniteProduct::slot_norm_bound_sharp@830 — slot_norm_bound_sharp](../records/0213.md#pr26-global-transport-principalremainderfiniteproduct-slot-norm-b-c5b755c9e0)
@@ -134,8 +135,8 @@ Page 12/12; 2901 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral::actual_nonfloor_cube_norm@482 — actual_nonfloor_cube_norm](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-a-35adba16fa)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b9b6013520)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblynormalized-757070aecf)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount — OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-7148d87ff2)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount — OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-7148d87ff2)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional::detector_certified_bands@777 — detector_certified_bands](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-3f9ace9912)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport::actual_nonfloor_probe_transport@299 — actual_nonfloor_probe_transport](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-actu-e2db3e405e)

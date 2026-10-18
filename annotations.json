@@ -127154,6 +127154,66 @@
         "basis": "Explicit source use in the contributed note; exact source hashes in its record.",
         "qualification": "This dependence does not establish the remaining stronger bound."
       }
+    },
+    {
+      "source": "QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE",
+      "target": "QRH-CONT-R072-CENTERED-LONG-PAIR-HEAT",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Explicit exact comparison with the complete centered two-long residual and its ordinary heat return.",
+        "source_sha256": "d8a48961ca36492e55b790c8da3ee2dbe8d67a1e2778fa185451a84ccd62c61b",
+        "qualification": "Source-scoped mathematical dependence or relation only; does not establish the remaining smaller arithmetic estimate or endpoint."
+      }
+    },
+    {
+      "source": "QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM",
+      "target": "QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE",
+      "kind": "related",
+      "evidence": {
+        "basis": "The complete cofactor transform is applied to the same fully centered four-long residual; the exact whole source is retained.",
+        "source_sha256": "54942ac66195ad2ee3a6a38a696f22579fbacd1b1f972c0b44239ea7b24e4e21",
+        "qualification": "Source-scoped mathematical dependence or relation only; does not establish the remaining smaller arithmetic estimate or endpoint."
+      }
+    },
+    {
+      "source": "QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE",
+      "target": "QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "The finite source approximates the exact centered four-long residual with all complementary terms paid.",
+        "source_sha256": "2cd9609490ebe0d2671f19cc86d156381c504455beeaf38185274ac257820950",
+        "qualification": "Source-scoped mathematical dependence or relation only; does not establish the remaining smaller arithmetic estimate or endpoint."
+      }
+    },
+    {
+      "source": "QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE",
+      "target": "QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "The finite source uses the complete primitive cubic kernel, presented deletion polynomial and full principal centering.",
+        "source_sha256": "2cd9609490ebe0d2671f19cc86d156381c504455beeaf38185274ac257820950",
+        "qualification": "Source-scoped mathematical dependence or relation only; does not establish the remaining smaller arithmetic estimate or endpoint."
+      }
+    },
+    {
+      "source": "QRH-CONT-R077-THREE-STATE-COUPLED-COMPENSATOR",
+      "target": "QRH-CONT-R057-VALUATION-ONE-CANONICAL-LABEL",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "The actual valuation-zero/one extraction and principal local families are explicitly reused before the new cube-state gate.",
+        "source_sha256": "ae4cb1169f9587dbc7f1fe2bc78bf3f8208f4d89d54440d18c35a6761cd6bf70",
+        "qualification": "Source-scoped mathematical dependence or relation only; does not establish the remaining smaller arithmetic estimate or endpoint."
+      }
+    },
+    {
+      "source": "QRH-CONT-R083-JOINT-REFLECTION-GATE",
+      "target": "QRH-CONT-R077-THREE-STATE-COUPLED-COMPENSATOR",
+      "kind": "related",
+      "evidence": {
+        "basis": "The common-time matrix constraints explain why unequal valuation-one/cube coefficients cannot satisfy this specified coefficientwise cancellation family. They do not classify the different-time compensator or exclude arithmetic cancellation.",
+        "source_sha256": "6b1b789f1441c7e27ea7018edb61075bd4aa25ccb93b5701c1c04ade69182c2d",
+        "qualification": "Narrow family comparison only; no generic impossibility, dependency of all gates or improved energy is inferred."
+      }
     }
   ],
   "schema_version": 1

@@ -4,7 +4,7 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21804 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21810 records. All retained inventories and local maintained proof/attempt sections share this directory.
 
 ## formalization
 
@@ -65,7 +65,7 @@
 - [F01 — F01. Multiscale Möbius decomposition and signed block control](records/0170.md#local-f01-17b39a927a)
 - [F02 — F02. Large-prime null packets and common-core dispersion](records/0170.md#local-f02-73bce7daec)
 - [F03 — F03. Sixth-order sparse-index and ordinary means](records/0170.md#local-f03-a413a453fd)
-- [F04 — F04. Sextic reflection, physical covariance, probe and numerator](records/0170.md#local-f04-f8d6d7f1ca)
+- [F04 — F04. Sextic reflection, physical covariance, probe and numerator](records/0171.md#local-f04-f8d6d7f1ca)
 - [F05 — F05. Möbius-aware polar projection and spectral sieve](records/0171.md#local-f05-b00059fa1b)
 - [F06 — F06. Bilinear currents and actual spectral testing](records/0171.md#local-f06-91b9eb5611)
 - [F07 — F07. Quadratic principal-square Jacobi detector](records/0171.md#local-f07-fa0d056a24)
@@ -87,7 +87,7 @@
 - [F23 — F23. Shifted Hermite–Biehler and canonical systems](records/0171.md#local-f23-ac50c0cc9e)
 - [F24 — F24. Left-first and two-sided spectral/Mellin methods](records/0171.md#local-f24-ce3e45fce5)
 - [F25 — F25. Triple-rotation theta products](records/0171.md#local-f25-0919a5edc6)
-- [F26 — F26. Direct shifted criteria and constrained operators](records/0171.md#local-f26-9e013a3bbb)
+- [F26 — F26. Direct shifted criteria and constrained operators](records/0172.md#local-f26-9e013a3bbb)
 - [G1 — G1 — uncapped free invention](records/0172.md#local-g1-110e500ec4)
 - [G100 — G100. Unbounded actual valuation certificate](records/0172.md#local-g100-7478ed7422)
 - [G101 — G101. Linear and nonlinear paired transfers](records/0172.md#local-g101-716f90abdd)
@@ -178,12 +178,12 @@
 - [G186 — G186. Larger paid low band, genuine far tail and finite signed residual](records/0172.md#local-g186-dd7a0ad393)
 - [G187 — G187. Exact merged structure and why its simpler proposed price fails](records/0172.md#local-g187-c77d1b2a5c)
 - [G188 — G188. A complete periodic-cofactor estimate](records/0172.md#local-g188-2d645f9293)
-- [G189 — G189. Full constant-cut source transfer](records/0172.md#local-g189-20df34a586)
-- [G190 — G190. A paid diagonal and the actual remaining correlation](records/0172.md#local-g190-49c88437a5)
-- [G191 — G191. Complete periodic cofactor estimate for fixed b,k](records/0172.md#local-g191-707efc9449)
-- [G192 — G192. Complete degree12 source transfer](records/0172.md#local-g192-c5383e05d4)
-- [G193 — G193. Paid diagonal and the exact remaining signed estimate](records/0172.md#local-g193-f396ec5478)
-- [G194 — G194. The literal matrix and its complete positive price](records/0172.md#local-g194-dabcb1723f)
+- [G189 — G189. Full constant-cut source transfer](records/0173.md#local-g189-20df34a586)
+- [G190 — G190. A paid diagonal and the actual remaining correlation](records/0173.md#local-g190-49c88437a5)
+- [G191 — G191. Complete periodic cofactor estimate for fixed b,k](records/0173.md#local-g191-707efc9449)
+- [G192 — G192. Complete degree12 source transfer](records/0173.md#local-g192-c5383e05d4)
+- [G193 — G193. Paid diagonal and the exact remaining signed estimate](records/0173.md#local-g193-f396ec5478)
+- [G194 — G194. The literal matrix and its complete positive price](records/0173.md#local-g194-dabcb1723f)
 - [G195 — G195. Every fixed low-chain sector under one common filter](records/0173.md#local-g195-9c2a4ca679)
 - [G196 — G196. The complete linked remainder and its weaker sufficient norm](records/0173.md#local-g196-0d7a2adae2)
 - [G197 — G197. Two paid classes with complete shared-prime cost](records/0173.md#local-g197-c026bfa5b0)

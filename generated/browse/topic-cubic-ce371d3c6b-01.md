@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 545 matching records.
+Page 1/3; 549 matching records.
 
 [Next](topic-cubic-ce371d3c6b-02.md)
 
@@ -205,7 +205,11 @@ Page 1/3; 545 matching records.
 - [P7-17 — Historical cubic boundary barrier](../records/0130.md#p7-17-4f62c74f2d)
 - [P7-25 — Historical record clarification](../records/0130.md#p7-25-cf82414472)
 - [QRH-CONT-R038-CUBE-MARK-SIGNAL — Cube-divisibility local factors and separately calibrated reciprocal signals](../records/0131.md#qrh-cont-r038-cube-mark-signal-c3745d499c)
-- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0137.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
+- [QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE — Complete four-long heat remainder with paid complements and whole-source equivalence](../records/0131.md#qrh-cont-r076-four-long-heat-equivalence-93022dda42)
+- [QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM — Complete cubic-divisor heat transform with presented Euler deletion and full principal centering](../records/0131.md#qrh-cont-r078-cubic-divisor-heat-transform-0e04e2a96d)
+- [QRH-CONT-R083-JOINT-REFLECTION-GATE — Coefficientwise classification of the common-time joint reflection gate](../records/0131.md#qrh-cont-r083-joint-reflection-gate-5748421590)
+- [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
+- [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0138.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
 - [local-section:023d430ae4462de4b08a80f5 — 2. The coupled \\(d,a\\) arithmetic and the sixth-power-free moment](../records/0138.md#local-section-023d430ae4462de4b08a80f5-aa1f78fac7)
 - [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
@@ -229,7 +233,7 @@ Page 1/3; 545 matching records.
 - [local-section:178484c629618edb557fe002 — 3. Full physical covariance after the new core and gcd results](../records/0140.md#local-section-178484c629618edb557fe002-d94bc8936f)
 - [local-section:190ba25928b4f6f14a1c4a8a — 5. Moving finite twists, natural zeros, and masked Möbius sums](../records/0140.md#local-section-190ba25928b4f6f14a1c4a8a-97547e5a96)
 - [local-section:1941fb35943e4ae464305a21 — 2. New exact conductor geometry](../records/0140.md#local-section-1941fb35943e4ae464305a21-d70e959930)
-- [local-section:19b88181709ca0278b59e6d0 — Quantitative gate index](../records/0140.md#local-section-19b88181709ca0278b59e6d0-8524d45372)
+- [local-section:19b88181709ca0278b59e6d0 — Quantitative gate index](../records/0141.md#local-section-19b88181709ca0278b59e6d0-8524d45372)
 - [local-section:1b2a3c81a83fdfc5926e74dc — R4. The prefix is paid over the whole slot interval](../records/0141.md#local-section-1b2a3c81a83fdfc5926e74dc-df65b2c557)
 - [local-section:1bba6d2ab970ca84ab7487f3 — Merged \[research revision\] integration](../records/0141.md#local-section-1bba6d2ab970ca84ab7487f3-6cd788fe40)
 - [local-section:1bd7ce2d025473ffbe70efee — Cubic dual cube classes, their polar addback, and the remaining moment](../records/0141.md#local-section-1bd7ce2d025473ffbe70efee-84c671a5ab)
@@ -241,7 +245,7 @@ Page 1/3; 545 matching records.
 - [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0141.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)
 - [local-section:1ebf77c9b8999658bdc046c6 — 6. Independent checks and reproducibility](../records/0141.md#local-section-1ebf77c9b8999658bdc046c6-9eed05fb8d)
 - [local-section:20e4b37727cde3aaa51ec5f8 — \[research revision\]: weighted physical radical mass](../records/0141.md#local-section-20e4b37727cde3aaa51ec5f8-dd746269dd)
-- [local-section:210014557018a84cd2e8f376 — 6. Size of the new payment and the primitive-row obstruction](../records/0141.md#local-section-210014557018a84cd2e8f376-720c7104d3)
+- [local-section:210014557018a84cd2e8f376 — 6. Size of the new payment and the primitive-row obstruction](../records/0142.md#local-section-210014557018a84cd2e8f376-720c7104d3)
 - [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0142.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
 - [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
@@ -249,10 +253,6 @@ Page 1/3; 545 matching records.
 - [local-section:252d6d45d879f556871b51cc — F01. Multiscale Möbius decomposition and signed block control](../records/0142.md#local-section-252d6d45d879f556871b51cc-6b1c8a5789)
 - [local-section:25b39810c8b971cacdcf751c — 9. Exact residual and the still-open large-core moment](../records/0142.md#local-section-25b39810c8b971cacdcf751c-36788a1d7b)
 - [local-section:276016fcf07297e0446674f4 — \[research revision\]: original-prime row covariance, bounded attack](../records/0142.md#local-section-276016fcf07297e0446674f4-8695fdf551)
-- [local-section:2a7407c81610c5a862a32521 — \[research revision\] independent review: separated inverse products](../records/0142.md#local-section-2a7407c81610c5a862a32521-855720ac86)
-- [local-section:2a7736b9764e0cd53e9e8d6b — \[research revision\]: the small-core principal term and its exact cutoff obstruction](../records/0142.md#local-section-2a7736b9764e0cd53e9e8d6b-4aa782fd1e)
+- [local-section:2a7407c81610c5a862a32521 — \[research revision\] independent review: separated inverse products](../records/0143.md#local-section-2a7407c81610c5a862a32521-855720ac86)
+- [local-section:2a7736b9764e0cd53e9e8d6b — \[research revision\]: the small-core principal term and its exact cutoff obstruction](../records/0143.md#local-section-2a7736b9764e0cd53e9e8d6b-4aa782fd1e)
 - [local-section:2ad607a8bff7d8b25eb99688 — Undeveloped seeds, merged mechanisms and coverage boundary](../records/0143.md#local-section-2ad607a8bff7d8b25eb99688-5ad11329dd)
-- [local-section:2b1ce2485bd566ae05f600a7 — \[research revision\] common extracted divisor: independent review of H branches B and A](../records/0143.md#local-section-2b1ce2485bd566ae05f600a7-7827d8b282)
-- [local-section:2c81744dd0a686be1ab1007a — \[research revision\]: larger actual R4 middle sectors](../records/0143.md#local-section-2c81744dd0a686be1ab1007a-100c2904ba)
-- [local-section:2ca3770e79cd2de3bcdf9bec — \[research revision\] high-ceiling discovery: an exact reciprocal channel inside Hankel twist dispersion](../records/0143.md#local-section-2ca3770e79cd2de3bcdf9bec-898383f502)
-- [local-section:332b0ac5856c137e26badad2 — D. Secondary survivors and quantitative reopen conditions](../records/0144.md#local-section-332b0ac5856c137e26badad2-20129faa49)

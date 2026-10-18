@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [local:G290 — G290. Compensated adaptive source with bounded cofactor and complete prime-bank return](../records/0173.md#local-g290-a4d221a7d5)
+- [local:G290 — G290. Compensated adaptive source with bounded cofactor and complete prime-bank return](../records/0174.md#local-g290-a4d221a7d5)

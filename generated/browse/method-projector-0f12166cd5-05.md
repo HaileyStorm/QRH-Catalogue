@@ -20,7 +20,7 @@ Page 5/5; 1023 matching records.
 - [pr26:Analytic.JointSourceCanonical::kernelLabel@573 — kernelLabel](../records/0192.md#pr26-analytic-jointsourcecanonical-kernellabel-573-d01ae85bac)
 - [pr26:Analytic.JointSourceCanonical::kernelLabel_canonical_row@597 — kernelLabel_canonical_row](../records/0192.md#pr26-analytic-jointsourcecanonical-kernellabel-canonical-row-597-e9237402ba)
 - [pr26:Analytic.JointSourceCanonical::kernelLabel_row@590 — kernelLabel_row](../records/0192.md#pr26-analytic-jointsourcecanonical-kernellabel-row-590-fd9bc05eff)
-- [pr26:Analytic.JointSourceCanonical::label_projector_dvd@548 — label_projector_dvd](../records/0192.md#pr26-analytic-jointsourcecanonical-label-projector-dvd-548-549266c037)
+- [pr26:Analytic.JointSourceCanonical::label_projector_dvd@548 — label_projector_dvd](../records/0193.md#pr26-analytic-jointsourcecanonical-label-projector-dvd-548-549266c037)
 - [pr26:Analytic.JointSourcePhysicalBins::physicalBlock_bin_majorant@516 — physicalBlock_bin_majorant](../records/0193.md#pr26-analytic-jointsourcephysicalbins-physicalblock-bin-majorant--c6b6e2f3e5)
 - [pr26:Analytic.JointSourcePhysicalBins::physicalProjectors@496 — physicalProjectors](../records/0193.md#pr26-analytic-jointsourcephysicalbins-physicalprojectors-496-b138b8c5d9)
 - [pr26:Analytic.JointSourcePhysicalBins::physicalRowTerm_eq_high@506 — physicalRowTerm_eq_high](../records/0193.md#pr26-analytic-jointsourcephysicalbins-physicalrowterm-eq-high-506-d6e51df381)
