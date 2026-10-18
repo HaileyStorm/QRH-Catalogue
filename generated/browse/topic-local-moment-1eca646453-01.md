@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/2; 284 matching records.
+Page 1/2; 285 matching records.
 
 [Next](topic-local-moment-1eca646453-02.md)
 
@@ -95,6 +95,7 @@ Page 1/2; 284 matching records.
 - [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine — OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle61initialmass-detector-l-90b0263a9a)
 - [LEAN-PR60-74643447-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput — OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput](../records/0129.md#lean-pr60-74643447-oai-seveneighths-cycle25probefinalassemblycert-a966e678b2)
 - [LEAN-PR60-74643447-OAI.SevenEighths.Cycle63InitialMass.detector_label_initial_affine — OAI.SevenEighths.Cycle63InitialMass.detector_label_initial_affine](../records/0129.md#lean-pr60-74643447-oai-seveneighths-cycle63initialmass-detector-l-e6c860a712)
+- [QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING — Uniform growing punctures, individual-squarepart moments and whole-residual conditional pruning](../records/0131.md#qrh-cont-r098-uniform-squarepart-cofactor-pruning-a2c7202877)
 - [local-section:02b86d95903ed329836aa151 — 2. Frozen inputs and source evidence](../records/0138.md#local-section-02b86d95903ed329836aa151-a0d53817e4)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
 - [local-section:0560f5616fa0c5eb6a09ad55 — 2. Sources, scope and why the lower edge may change](../records/0138.md#local-section-0560f5616fa0c5eb6a09ad55-02e349e6a9)
@@ -158,7 +159,7 @@ Page 1/2; 284 matching records.
 - [local-section:83951ff9628a9628a7e66c7f — \[research revision\] author candidate: a narrower useful slot window and c3 = 0.125133](../records/0155.md#local-section-83951ff9628a9628a7e66c7f-ede4226003)
 - [local-section:864daf8c0b802cd863e672a5 — \[research revision\] discovery-first headroom pass: nonlinear-phase source compression](../records/0155.md#local-section-864daf8c0b802cd863e672a5-0c74d1cfe0)
 - [local-section:89a55ef95845c855ae23a267 — \[research revision\]: actual valuations and a paid nonlinear density return](../records/0155.md#local-section-89a55ef95845c855ae23a267-f04b20b509)
-- [local-section:8a98d228ede588df90ff5044 — 4. Full endpoint return](../records/0155.md#local-section-8a98d228ede588df90ff5044-f605183a23)
+- [local-section:8a98d228ede588df90ff5044 — 4. Full endpoint return](../records/0156.md#local-section-8a98d228ede588df90ff5044-f605183a23)
 - [local-section:8e98752e48333454b964b97d — 6. New local affine moment, with every other branch paid](../records/0156.md#local-section-8e98752e48333454b964b97d-602b26ce96)
 - [local-section:90d29b8b23076326a10667ed — D02.4 An explicit ordinary-Dirichlet return, with a paid width change](../records/0156.md#local-section-90d29b8b23076326a10667ed-6885871164)
 - [local-section:93f781a0eb8ba0d0fe612eb4 — 68. Calibration, preserved tools and the next decisive estimate](../records/0157.md#local-section-93f781a0eb8ba0d0fe612eb4-fdc6fba5de)
@@ -181,13 +182,13 @@ Page 1/2; 284 matching records.
 - [local-section:b8242e860c6fa289438340fa — W34: native support inside the actual separated source](../records/0161.md#local-section-b8242e860c6fa289438340fa-0de20bf59b)
 - [local-section:bd505f9d635a513c9e985fa1 — \[research revision\] independent source-range review](../records/0162.md#local-section-bd505f9d635a513c9e985fa1-d637974ead)
 - [local-section:c012b75330e02a785413a215 — Independent \[research revision\] review: finite coupled amplifiers and complete endpoint](../records/0162.md#local-section-c012b75330e02a785413a215-f41a8b374b)
-- [local-section:c8487639aab6faa9c2321914 — W42: paid comparison of the old principal signal and a fixed Gaussian detector](../records/0163.md#local-section-c8487639aab6faa9c2321914-9b168fa64f)
+- [local-section:c8487639aab6faa9c2321914 — W42: paid comparison of the old principal signal and a fixed Gaussian detector](../records/0164.md#local-section-c8487639aab6faa9c2321914-9b168fa64f)
 - [local-section:c87232e88126332d785d2298 — 7. Complete quantitative return tested at c=.12514](../records/0164.md#local-section-c87232e88126332d785d2298-b8683839b2)
 - [local-section:c8bd4a2808d87d3b88129d4d — 3. Simultaneous and chained use](../records/0164.md#local-section-c8bd4a2808d87d3b88129d4d-863416ff4c)
 - [local-section:d3e53c61aed1a16b7f48fa13 — 2. Source interfaces and the strongest applicability objection](../records/0165.md#local-section-d3e53c61aed1a16b7f48fa13-d2041b2a39)
 - [local-section:d5d737c7398577455d081c5e — 2. Sources, accepted scope and quantifiers](../records/0165.md#local-section-d5d737c7398577455d081c5e-0dccb5acae)
 - [local-section:d5f314c93bd77e69727aadc1 — 10. Calibration, preserved tools and the next decisive estimate](../records/0165.md#local-section-d5f314c93bd77e69727aadc1-6930aadf72)
-- [local-section:d6f79d83d49ceb553bd09b85 — W42 independent seed freeze](../records/0165.md#local-section-d6f79d83d49ceb553bd09b85-e99969d6e6)
+- [local-section:d6f79d83d49ceb553bd09b85 — W42 independent seed freeze](../records/0166.md#local-section-d6f79d83d49ceb553bd09b85-e99969d6e6)
 - [local-section:d7bce599375a19d68ffbe816 — QRH research map and attempt index](../records/0166.md#local-section-d7bce599375a19d68ffbe816-f66829f86a)
 - [local-section:d92b43110b6819e513cee769 — A far-source reduction to two separated inverse witnesses](../records/0166.md#local-section-d92b43110b6819e513cee769-a3834c375d)
 - [local-section:e9c7398616ed75625807ee46 — Current proof architecture: conditional local-moment gains and routes onward](../records/0168.md#local-section-e9c7398616ed75625807ee46-aecf8a3f98)
@@ -212,7 +213,7 @@ Page 1/2; 284 matching records.
 - [pr26:Analytic.JointIndependentMoment::actual_local_independent_plain_moment@37 — actual_local_independent_plain_moment](../records/0187.md#pr26-analytic-jointindependentmoment-actual-local-independent-pla-ea28396201)
 - [pr26:Cycle25.Assembly.Count.ActualMoments::weighted_actual_source_moments@787 — weighted_actual_source_moments](../records/0196.md#pr26-cycle25-assembly-count-actualmoments-weighted-actual-source--dfe302d801)
 - [pr26:Cycle25.Assembly.Count.ActualMoments::weighted_fresh_count_parameters@777 — weighted_fresh_count_parameters](../records/0196.md#pr26-cycle25-assembly-count-actualmoments-weighted-fresh-count-pa-b5bf6ac41b)
-- [pr26:Cycle25.Assembly.Count.CertifiedMoments::weighted_source_moments@747 — weighted_source_moments](../records/0196.md#pr26-cycle25-assembly-count-certifiedmoments-weighted-source-mome-e7a02531e3)
+- [pr26:Cycle25.Assembly.Count.CertifiedMoments::weighted_source_moments@747 — weighted_source_moments](../records/0197.md#pr26-cycle25-assembly-count-certifiedmoments-weighted-source-mome-e7a02531e3)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorInverseFields::weighted_source_batch_inverse_fields@752 — weighted_source_batch_inverse_fields](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorinversefields-weighted--6bc6030b37)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorInverseMarkedField::weighted_source_batch_inverse_marked@225 — weighted_source_batch_inverse_marked](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorinversemarkedfield-weig-0f2f7e2c22)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorMomentPrimeGeometry::weighted_sourceMoment_fiber_prime_geometry_eventually@789 — weighted_sourceMoment_fiber_prime_geometry_eventually](../records/0197.md#pr26-cycle25-assembly-count-momentdetectormomentprimegeometry-wei-dda647e36d)
@@ -233,7 +234,7 @@ Page 1/2; 284 matching records.
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMomentParameters::weighted_unmarked_state_admission@1048 — weighted_unmarked_state_admission](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmomentparameters-w-e8a8e3cfcc)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMomentParameters::weighted_width_bands@1035 — weighted_width_bands](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmomentparameters-w-3c32c9c03f)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainMomentParameters::weighted_witness_length_cap@1018 — weighted_witness_length_cap](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainmomentparameters-w-4476226521)
-- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainUnmarkedField::weighted_retained_unmarked_bound@286 — weighted_retained_unmarked_bound](../records/0197.md#pr26-cycle25-assembly-count-momentdetectorplainunmarkedfield-weig-5b6ed181df)
+- [pr26:Cycle25.Assembly.Count.MomentDetectorPlainUnmarkedField::weighted_retained_unmarked_bound@286 — weighted_retained_unmarked_bound](../records/0198.md#pr26-cycle25-assembly-count-momentdetectorplainunmarkedfield-weig-5b6ed181df)
 - [pr26:Cycle25.Assembly.Count.MomentDetectorPlainUnmarkedRestrictedField::weighted_source_batch_plain_unmarked@953 — weighted_source_batch_plain_unmarked](../records/0198.md#pr26-cycle25-assembly-count-momentdetectorplainunmarkedrestricted-e93a1545d3)
 - [pr26:Cycle25.Assembly.Count.MomentInput::weighted_SourceMomentBound.mono_constant@387 — weighted_SourceMomentBound.mono_constant](../records/0198.md#pr26-cycle25-assembly-count-momentinput-weighted-sourcemomentboun-2f2ef26dc2)
 - [pr26:Cycle25.Assembly.Count.MomentInput::weighted_SourceMomentBound@377 — weighted_SourceMomentBound](../records/0198.md#pr26-cycle25-assembly-count-momentinput-weighted-sourcemomentboun-9a9c576eb4)
@@ -255,4 +256,3 @@ Page 1/2; 284 matching records.
 - [pr26:Cycle25.Assembly.SourceData::weighted_exists_source_data@51 — weighted_exists_source_data](../records/0199.md#pr26-cycle25-assembly-sourcedata-weighted-exists-source-data-51-8033722943)
 - [pr26:Cycle25.Assembly.SourceData::weighted_source_count_parameters@64 — weighted_source_count_parameters](../records/0199.md#pr26-cycle25-assembly-sourcedata-weighted-source-count-parameters-70d8354c37)
 - [pr26:Cycle25.Energy.Physical.CertifiedFourier::certified_reflected_fourier_moment@165 — certified_reflected_fourier_moment](../records/0200.md#pr26-cycle25-energy-physical-certifiedfourier-certified-reflected-af95958590)
-- [pr26:Cycle25.Energy.Physical.CertifiedFourier::eventually_fixed_source_keep@147 — eventually_fixed_source_keep](../records/0200.md#pr26-cycle25-energy-physical-certifiedfourier-eventually-fixed-so-e7cb19f562)

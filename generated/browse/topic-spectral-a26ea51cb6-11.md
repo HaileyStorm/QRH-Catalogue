@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 11/13; 3040 matching records.
+Page 11/13; 3041 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-10.md)
 
 [Next](topic-spectral-a26ea51cb6-12.md)
 
+- [local-section:e9be19a230144f7a8a93a6ee — 8. Discovery choices, provenance and next action](../records/0168.md#local-section-e9be19a230144f7a8a93a6ee-495cc18e13)
 - [local-section:e9c7398616ed75625807ee46 — Current proof architecture: conditional local-moment gains and routes onward](../records/0168.md#local-section-e9c7398616ed75625807ee46-aecf8a3f98)
 - [local-section:e9eb0e40678d8f6000f7fe9e — 9. Verification record and limitations](../records/0168.md#local-section-e9eb0e40678d8f6000f7fe9e-5afdfff1d2)
 - [local-section:ea2a8a2d914e0a3b35fee403 — 1. Frozen process and exact source contact](../records/0168.md#local-section-ea2a8a2d914e0a3b35fee403-b02ef888d6)
@@ -30,9 +31,9 @@ Page 11/13; 3040 matching records.
 - [local-section:edfdf9db9c00c2128ae835eb — Paid linear readout and complete absolute Gram: independent review](../records/0168.md#local-section-edfdf9db9c00c2128ae835eb-4aecde89d3)
 - [local-section:ee10d28d86a939c77eca6318 — 7. Strongest objections, provenance and next action](../records/0168.md#local-section-ee10d28d86a939c77eca6318-f2129fa3c4)
 - [local-section:ee3239e3ac4fe748c313d339 — Independent \[research revision\] review: larger Gao amplifier and endpoint return](../records/0168.md#local-section-ee3239e3ac4fe748c313d339-67e6cb4dd5)
-- [local-section:ee70bacd7dc482fcba6b097d — PS3. Cubic twists occupy square-indexed sextic rows](../records/0168.md#local-section-ee70bacd7dc482fcba6b097d-7f85e7b7db)
-- [local-section:ee76eaf557662c0aa55b8bb7 — Accepted literal f3 threshold laws](../records/0168.md#local-section-ee76eaf557662c0aa55b8bb7-ab112b38d0)
-- [local-section:ee7c329c5bd984fc75832b25 — F05. Möbius-aware polar projection and spectral sieve](../records/0168.md#local-section-ee7c329c5bd984fc75832b25-5a767a403d)
+- [local-section:ee70bacd7dc482fcba6b097d — PS3. Cubic twists occupy square-indexed sextic rows](../records/0169.md#local-section-ee70bacd7dc482fcba6b097d-7f85e7b7db)
+- [local-section:ee76eaf557662c0aa55b8bb7 — Accepted literal f3 threshold laws](../records/0169.md#local-section-ee76eaf557662c0aa55b8bb7-ab112b38d0)
+- [local-section:ee7c329c5bd984fc75832b25 — F05. Möbius-aware polar projection and spectral sieve](../records/0169.md#local-section-ee7c329c5bd984fc75832b25-5a767a403d)
 - [local-section:eee4f91271038cf8ffef89f9 — 6. Portfolio and next action](../records/0169.md#local-section-eee4f91271038cf8ffef89f9-9e79f74acb)
 - [local-section:eefb964a20e26033b98300c5 — Strongest surviving obstruction and the next attack](../records/0169.md#local-section-eefb964a20e26033b98300c5-e4dfcf0c1c)
 - [local-section:ef0401cee60c2a1f7af98fbd — 6. Protected S28: source-exact signed coupling audit](../records/0169.md#local-section-ef0401cee60c2a1f7af98fbd-fea821520f)
@@ -62,7 +63,7 @@ Page 11/13; 3040 matching records.
 - [local-section:f5ad2e47ad8526ebc8116dae — Complete stationary cofactor payment and constant inverse cuts](../records/0169.md#local-section-f5ad2e47ad8526ebc8116dae-ecebaca4de)
 - [local-section:f5ce45cc9d30aa177b9ec6d2 — 6.2 The full Gaussian observable is not a positive-real impedance](../records/0169.md#local-section-f5ce45cc9d30aa177b9ec6d2-023c2486e8)
 - [local-section:f5fe7f9b7b63ad029481541c — \[research revision\] headroom pass: signed integer renewal and its friable mean](../records/0169.md#local-section-f5fe7f9b7b63ad029481541c-8c40d8d1fa)
-- [local-section:f657b99bab16ff7a295af68a — G168. Exact harmonic and heat costs](../records/0169.md#local-section-f657b99bab16ff7a295af68a-07052f7f46)
+- [local-section:f657b99bab16ff7a295af68a — G168. Exact harmonic and heat costs](../records/0170.md#local-section-f657b99bab16ff7a295af68a-07052f7f46)
 - [local-section:f6ba852810d861a8f226f725 — 5. Every card retained](../records/0170.md#local-section-f6ba852810d861a8f226f725-575f481d37)
 - [local-section:f6e94ca526d4182a75e487a4 — W46 independent mathematical review](../records/0170.md#local-section-f6e94ca526d4182a75e487a4-24f82c71e1)
 - [local-section:f72885b2945b88f44744b98e — \[research revision\]: original-color payment of a signed primitive dual sector](../records/0170.md#local-section-f72885b2945b88f44744b98e-0ef015de9a)
@@ -136,8 +137,8 @@ Page 11/13; 3040 matching records.
 - [local:G146 — G146. The complete prefix is paid over the original slot interval](../records/0172.md#local-g146-fa0a5d0458)
 - [local:G147 — G147. Two presentations confine the unpaid rows to a strict residual box](../records/0172.md#local-g147-16c3c3a8c2)
 - [local:G148 — G148. The unresolved joint estimate and the exact dependence obstruction](../records/0172.md#local-g148-b7237203eb)
-- [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0172.md#local-g149-643389d4ad)
-- [local:G150 — G150. Complete matching displacement, with the old rank equivalence retained](../records/0172.md#local-g150-dc59c67126)
+- [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0173.md#local-g149-643389d4ad)
+- [local:G150 — G150. Complete matching displacement, with the old rank equivalence retained](../records/0173.md#local-g150-dc59c67126)
 - [local:G155 — \[research revision\]: paid parts of the separated mixed moment (G155)](../records/0173.md#local-g155-78ae9ec0c1)
 - [local:G157 — G157. Repeated-prime support and the exact remaining estimate](../records/0173.md#local-g157-364d426290)
 - [local:G158 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0173.md#local-g158-0d89940370)
@@ -257,4 +258,3 @@ Page 11/13; 3040 matching records.
 - [pr26:Analytic.JointIndependentHeights::annular_slot_height_shift_norm@686 — annular_slot_height_shift_norm](../records/0187.md#pr26-analytic-jointindependentheights-annular-slot-height-shift-n-4a6c2c2c04)
 - [pr26:Analytic.JointIndependentHeights::independent_energy_le_diagonal_energies@722 — independent_energy_le_diagonal_energies](../records/0187.md#pr26-analytic-jointindependentheights-independent-energy-le-diago-b8ad1daa6b)
 - [pr26:Analytic.JointIndependentHeights::independent_row_le_diagonal_rows@696 — independent_row_le_diagonal_rows](../records/0187.md#pr26-analytic-jointindependentheights-independent-row-le-diagonal-ac17b6798b)
-- [pr26:Analytic.JointIndependentMoment::actual_local_independent_plain_moment@37 — actual_local_independent_plain_moment](../records/0187.md#pr26-analytic-jointindependentmoment-actual-local-independent-pla-ea28396201)

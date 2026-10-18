@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/2; 284 matching records.
+Page 2/2; 285 matching records.
 
 [Previous](topic-local-moment-1eca646453-01.md)
 
+- [pr26:Cycle25.Energy.Physical.CertifiedFourier::eventually_fixed_source_keep@147 — eventually_fixed_source_keep](../records/0200.md#pr26-cycle25-energy-physical-certifiedfourier-eventually-fixed-so-e7cb19f562)
 - [pr26:Cycle25.Energy.Physical.CertifiedRetained::certified_actual_retained_fourth@855 — certified_actual_retained_fourth](../records/0200.md#pr26-cycle25-energy-physical-certifiedretained-certified-actual-r-7f018a0a5f)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::certified_reflected_zero_fourier_moment@243 — certified_reflected_zero_fourier_moment](../records/0200.md#pr26-cycle25-energy-physical-certifiedzero-certified-reflected-ze-a6a42a7ce9)
 - [pr26:Cycle25.Energy.Physical.CertifiedZero::finite_pair_zeroAt@210 — finite_pair_zeroAt](../records/0200.md#pr26-cycle25-energy-physical-certifiedzero-finite-pair-zeroat-210-dda9c51815)

@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 53/71; 17587 matching records.
+Page 53/71; 17591 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-52.md)
 
@@ -92,6 +92,10 @@ Page 53/71; 17587 matching records.
 - [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
 - [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
 - [QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE — Exact Mobius prime removal with full norm and energy covariance](../records/0131.md#qrh-cont-r094-prime-removal-covariance-6df2a08941)
+- [QRH-CONT-R096-COMMON-SQUAREPART-PAIRED-MASS — General common-squarepart paired mass and complete orientation-sector bounds](../records/0131.md#qrh-cont-r096-common-squarepart-paired-mass-84bb7f2a29)
+- [QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE — Complete sixth-free cubic-column norm and actual one-prime-core moment](../records/0131.md#qrh-cont-r097-sixth-free-cubic-prime-core-9301ff34a6)
+- [QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING — Uniform growing punctures, individual-squarepart moments and whole-residual conditional pruning](../records/0131.md#qrh-cont-r098-uniform-squarepart-cofactor-pruning-a2c7202877)
+- [QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT — Complete logarithmic commutator, square-convolved prime source and general fixed-power moment envelope](../records/0131.md#qrh-cont-r099-complete-log-commutator-prime-moment-eb681529c2)
 - [QRH-CONT-U1-ALL-RANGE-GCD-AND-DIAGONAL — Complete Gaussian gcd tail for all positive evaluation lines and below-half diagonal calibration](../records/0131.md#qrh-cont-u1-all-range-gcd-and-diagonal-ee1a14b8c6)
 - [QRH-CONT-U1-FULL-SUPPORT-NORM-RETURN — Ordinary heat return for every fixed full-support positive measure below or above the critical line](../records/0131.md#qrh-cont-u1-full-support-norm-return-a76fc40150)
 - [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
@@ -139,10 +143,10 @@ Page 53/71; 17587 matching records.
 - [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0173.md#local-g245-5bef916afc)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0173.md#local-g246-8dd56008a9)
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0173.md#local-g247-bd48e9ab10)
-- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0173.md#local-g248-3d1e6b9334)
-- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0173.md#local-g249-33b0a017f2)
-- [local:G250 — G250. Variation-priced complete root tail and stopped square-decoder price](../records/0173.md#local-g250-42c6fe6c04)
-- [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0173.md#local-g251-2e3e6366df)
+- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0174.md#local-g248-3d1e6b9334)
+- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0174.md#local-g249-33b0a017f2)
+- [local:G250 — G250. Variation-priced complete root tail and stopped square-decoder price](../records/0174.md#local-g250-42c6fe6c04)
+- [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0174.md#local-g251-2e3e6366df)
 - [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0174.md#local-g252-64bd5a4ae5)
 - [local:G253 — G253. Gaussian density with local laws preserves ambient inverse sharpness](../records/0174.md#local-g253-8f2fb2f1d9)
 - [local:G254 — G254. Fixed-annular weighted-height and pointwise polynomial bounds are equivalent](../records/0174.md#local-g254-52c97c1379)
@@ -254,7 +258,3 @@ Page 53/71; 17587 matching records.
 - [pr26:Analytic.ActualExtractedLocalErrors::actual_firstExtractedErrors_local_bound@238 — actual_firstExtractedErrors_local_bound](../records/0175.md#pr26-analytic-actualextractedlocalerrors-actual-firstextractederr-20534f92e4)
 - [pr26:Analytic.ActualExtractedLocalErrorsFull — Analytic.ActualExtractedLocalErrorsFull](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-3a53539546)
 - [pr26:Analytic.ActualExtractedLocalErrorsFull::actual_firstExtractedErrors_local_bound_full@78 — actual_firstExtractedErrors_local_bound_full](../records/0175.md#pr26-analytic-actualextractedlocalerrorsfull-actual-firstextracte-5222f312d2)
-- [pr26:Analytic.ActualFirstErrorIdentity — Analytic.ActualFirstErrorIdentity](../records/0175.md#pr26-analytic-actualfirsterroridentity-9a72eb2003)
-- [pr26:Analytic.ActualFirstErrorIdentity::allocatedExtractedErrors_nonneg@156 — allocatedExtractedErrors_nonneg](../records/0175.md#pr26-analytic-actualfirsterroridentity-allocatedextractederrors-n-2c535f4ae8)
-- [pr26:Analytic.ActualFirstErrorIdentity::firstExtractedErrors_nonneg@141 — firstExtractedErrors_nonneg](../records/0175.md#pr26-analytic-actualfirsterroridentity-firstextractederrors-nonne-99a9b38fc5)
-- [pr26:Analytic.ActualFirstErrorIdentity::first_extracted_error_pair_eq_source_scalar@189 — first_extracted_error_pair_eq_source_scalar](../records/0175.md#pr26-analytic-actualfirsterroridentity-first-extracted-error-pair-8cbb31a885)

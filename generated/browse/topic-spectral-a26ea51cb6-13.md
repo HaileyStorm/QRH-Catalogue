@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3040 matching records.
+Page 13/13; 3041 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
+- [pr26:LocalMoment.SixthRowMask::amplified_ideal_mask@737 — amplified_ideal_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-ideal-mask-737-bdd5d88097)
 - [pr26:LocalMoment.SixthRowMask::amplified_modulus_mask@787 — amplified_modulus_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-modulus-mask-787-a105cf085c)
 - [pr26:LocalMoment.SixthRowMask::amplified_nonprincipal@795 — amplified_nonprincipal](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-nonprincipal-795-fb96401a27)
 - [pr26:LocalMoment.SixthRowMask::amplified_positive_zeros@802 — amplified_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-positive-zeros-802-a0256f8a62)
@@ -14,7 +15,7 @@ Page 13/13; 3040 matching records.
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_zeroMaximum@837 — sixthFrequency_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-zeromaximum-837-79310c6bcd)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::common_probe_of_raw_moments@593 — common_probe_of_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-common-pr-7a34dce64f)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::hecke_of_raw_moments@627 — hecke_of_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-hecke-of--a9a80d8064)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::hecke_of_raw_moments@627 — hecke_of_raw_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-hecke-of--a9a80d8064)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::common_probe_of_chosen_moments@73 — common_probe_of_chosen_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-51c0cd10ff)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::hecke_of_chosen_moments@104 — hecke_of_chosen_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-a935913bbe)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh::fixed_high_bound@216 — fixed_high_bound](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh--0c24c8d0a2)

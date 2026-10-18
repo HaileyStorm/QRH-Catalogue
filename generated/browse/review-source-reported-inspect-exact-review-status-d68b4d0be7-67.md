@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 67/71; 17587 matching records.
+Page 67/71; 17591 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-66.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-68.md)
 
+- [pr26:Global.Low.Detector.LowCentralGeometry::eventually_low_selected_caps@53 — eventually_low_selected_caps](../records/0208.md#pr26-global-low-detector-lowcentralgeometry-eventually-low-select-add69e7650)
+- [pr26:Global.Low.Detector.LowCentralGeometry::lowCentralShift@67 — lowCentralShift](../records/0208.md#pr26-global-low-detector-lowcentralgeometry-lowcentralshift-67-edc7d100a2)
+- [pr26:Global.Low.Detector.LowCentralGeometry::lowCentralShift_bound@74 — lowCentralShift_bound](../records/0208.md#pr26-global-low-detector-lowcentralgeometry-lowcentralshift-bound-091ad29e34)
+- [pr26:Global.Low.Detector.LowCentralGeometry::lowCentralShift_scale@69 — lowCentralShift_scale](../records/0208.md#pr26-global-low-detector-lowcentralgeometry-lowcentralshift-scale-35df205dc6)
 - [pr26:Global.Low.Detector.LowCentralGeometry::lowCentral_ratio_bounds@81 — lowCentral_ratio_bounds](../records/0208.md#pr26-global-low-detector-lowcentralgeometry-lowcentral-ratio-boun-45a5bac519)
 - [pr26:Global.Low.Detector.LowCentralGeometry::lowUnselectedProduct_norm_upper_nominal@35 — lowUnselectedProduct_norm_upper_nominal](../records/0208.md#pr26-global-low-detector-lowcentralgeometry-lowunselectedproduct--3a76d55188)
 - [pr26:Global.Low.Detector.LowCentralTuple — Global.Low.Detector.LowCentralTuple](../records/0208.md#pr26-global-low-detector-lowcentraltuple-006d802d6a)
@@ -85,10 +89,10 @@ Page 67/71; 17587 matching records.
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_scale@61 — source_compensated_gram_scale](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--963154156f)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_sqrt@85 — source_compensated_gram_sqrt](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--51842670ba)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_scale_admissible@43 — source_compensated_scale_admissible](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-scale-5bdcf187e6)
-- [pr26:Global.Low.Detector.LowSourceScales::source_scale_ratio@30 — source_scale_ratio](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-scale-ratio-30-bd8cc6d44b)
-- [pr26:Global.Low.Detector.LowSourceScales::source_scale_square@35 — source_scale_square](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-scale-square-35-329ed7e8db)
-- [pr26:Global.Low.Detector.LowUnselectedMass — Global.Low.Detector.LowUnselectedMass](../records/0208.md#pr26-global-low-detector-lowunselectedmass-d6c509889a)
-- [pr26:Global.Low.Detector.LowUnselectedMass::canonical_slot_inverse_three_halves@124 — canonical_slot_inverse_three_halves](../records/0208.md#pr26-global-low-detector-lowunselectedmass-canonical-slot-inverse-4161cdbe9b)
+- [pr26:Global.Low.Detector.LowSourceScales::source_scale_ratio@30 — source_scale_ratio](../records/0209.md#pr26-global-low-detector-lowsourcescales-source-scale-ratio-30-bd8cc6d44b)
+- [pr26:Global.Low.Detector.LowSourceScales::source_scale_square@35 — source_scale_square](../records/0209.md#pr26-global-low-detector-lowsourcescales-source-scale-square-35-329ed7e8db)
+- [pr26:Global.Low.Detector.LowUnselectedMass — Global.Low.Detector.LowUnselectedMass](../records/0209.md#pr26-global-low-detector-lowunselectedmass-d6c509889a)
+- [pr26:Global.Low.Detector.LowUnselectedMass::canonical_slot_inverse_three_halves@124 — canonical_slot_inverse_three_halves](../records/0209.md#pr26-global-low-detector-lowunselectedmass-canonical-slot-inverse-4161cdbe9b)
 - [pr26:Global.Low.Detector.LowUnselectedMass::lowUnselectedMass_bound@159 — lowUnselectedMass_bound](../records/0209.md#pr26-global-low-detector-lowunselectedmass-lowunselectedmass-boun-78ad536f57)
 - [pr26:Global.Low.Detector.LowUnselectedMass::lowUnselectedMass_decay@188 — lowUnselectedMass_decay](../records/0209.md#pr26-global-low-detector-lowunselectedmass-lowunselectedmass-deca-db3385d89b)
 - [pr26:Global.Low.Detector.LowUnselectedMass::lowUnselectedWeight_norm_identity@148 — lowUnselectedWeight_norm_identity](../records/0209.md#pr26-global-low-detector-lowunselectedmass-lowunselectedweight-no-5ff48a5e3b)
@@ -185,10 +189,10 @@ Page 67/71; 17587 matching records.
 - [pr26:Global.Numerator.BoxGeometry::physical_reflected_capacity_or_empty@402 — physical_reflected_capacity_or_empty](../records/0209.md#pr26-global-numerator-boxgeometry-physical-reflected-capacity-or--3150155ee1)
 - [pr26:Global.Numerator.BoxGeometry::physical_reflected_capacity_or_empty_subtype@510 — physical_reflected_capacity_or_empty_subtype](../records/0209.md#pr26-global-numerator-boxgeometry-physical-reflected-capacity-or--43f3ae3108)
 - [pr26:Global.Numerator.BoxGeometry::physical_y_range@345 — physical_y_range](../records/0209.md#pr26-global-numerator-boxgeometry-physical-y-range-345-f09806aa10)
-- [pr26:Global.Numerator.BoxGeometry::physical_y_strong_lower@434 — physical_y_strong_lower](../records/0209.md#pr26-global-numerator-boxgeometry-physical-y-strong-lower-434-92d133ea79)
-- [pr26:Global.Numerator.BoxGeometry::reflected_box_geometry@358 — reflected_box_geometry](../records/0209.md#pr26-global-numerator-boxgeometry-reflected-box-geometry-358-b896140ab3)
-- [pr26:Global.Numerator.BoxGeometry::shifted_base_capacity_pos@444 — shifted_base_capacity_pos](../records/0209.md#pr26-global-numerator-boxgeometry-shifted-base-capacity-pos-444-55ce02f966)
-- [pr26:Global.Numerator.LocalSelection — Global.Numerator.LocalSelection](../records/0209.md#pr26-global-numerator-localselection-ba3ca1d483)
+- [pr26:Global.Numerator.BoxGeometry::physical_y_strong_lower@434 — physical_y_strong_lower](../records/0210.md#pr26-global-numerator-boxgeometry-physical-y-strong-lower-434-92d133ea79)
+- [pr26:Global.Numerator.BoxGeometry::reflected_box_geometry@358 — reflected_box_geometry](../records/0210.md#pr26-global-numerator-boxgeometry-reflected-box-geometry-358-b896140ab3)
+- [pr26:Global.Numerator.BoxGeometry::shifted_base_capacity_pos@444 — shifted_base_capacity_pos](../records/0210.md#pr26-global-numerator-boxgeometry-shifted-base-capacity-pos-444-55ce02f966)
+- [pr26:Global.Numerator.LocalSelection — Global.Numerator.LocalSelection](../records/0210.md#pr26-global-numerator-localselection-ba3ca1d483)
 - [pr26:Global.Numerator.LocalSelection::highData_transport_selection@92 — highData_transport_selection](../records/0210.md#pr26-global-numerator-localselection-highdata-transport-selection-abcf31542b)
 - [pr26:Global.Numerator.LocalSelection::local_baseCapacity_le_supply@79 — local_baseCapacity_le_supply](../records/0210.md#pr26-global-numerator-localselection-local-basecapacity-le-supply-baa58311ad)
 - [pr26:Global.Numerator.LocalSelection::local_source_bare_window@61 — local_source_bare_window](../records/0210.md#pr26-global-numerator-localselection-local-source-bare-window-61-8ac1fd31cd)
@@ -254,7 +258,3 @@ Page 67/71; 17587 matching records.
 - [pr26:Global.Numerator.SourceSelection::source_count_physical_eq@740 — source_count_physical_eq](../records/0210.md#pr26-global-numerator-sourceselection-source-count-physical-eq-74-597bb1be33)
 - [pr26:Global.Numerator.SourceSelection::source_selected_product_crude@868 — source_selected_product_crude](../records/0210.md#pr26-global-numerator-sourceselection-source-selected-product-cru-d06cb4e708)
 - [pr26:Global.Numerator.SourceSelection::squared_selected_lower@836 — squared_selected_lower](../records/0210.md#pr26-global-numerator-sourceselection-squared-selected-lower-836-220cd91ad7)
-- [pr26:Global.Parameters — Global.Parameters](../records/0210.md#pr26-global-parameters-b4c6d0fdb1)
-- [pr26:Global.Parameters::b@478 — b](../records/0210.md#pr26-global-parameters-b-478-0fdcb415c1)
-- [pr26:Global.Parameters::b_pos@503 — b_pos](../records/0210.md#pr26-global-parameters-b-pos-503-3c18178e81)
-- [pr26:Global.Parameters::compensated_low_geometry@554 — compensated_low_geometry](../records/0210.md#pr26-global-parameters-compensated-low-geometry-554-6dfe82b9ed)

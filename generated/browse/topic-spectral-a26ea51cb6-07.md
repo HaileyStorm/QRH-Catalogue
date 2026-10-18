@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 7/13; 3040 matching records.
+Page 7/13; 3041 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-06.md)
 
@@ -24,6 +24,7 @@ Page 7/13; 3040 matching records.
 - [QRH-CONT-R073-EARLY-CENTERED-HANKEL-OPERATOR — Payable early subtraction and complete centered Hankel remainder with reviewed contour qualifications](../records/0131.md#qrh-cont-r073-early-centered-hankel-operator-9f1c2cb37d)
 - [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
 - [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
+- [QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT — Complete logarithmic commutator, square-convolved prime source and general fixed-power moment envelope](../records/0131.md#qrh-cont-r099-complete-log-commutator-prime-moment-eb681529c2)
 - [QRH-HECKE-SQUAREFREE-PLAIN-WITNESS — Complete squarefree-plain same-zero witness and its inherited Hecke-family count](../records/0131.md#qrh-hecke-squarefree-plain-witness-9807070054)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0138.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
 - [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0138.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
@@ -50,7 +51,7 @@ Page 7/13; 3040 matching records.
 - [local-section:04b784e84bc801bb8747ca9b — 7. Evidence, provenance and disposition](../records/0138.md#local-section-04b784e84bc801bb8747ca9b-a09f746032)
 - [local-section:04f7098c7a39f445d177cdcf — 9. Verification, limitations and next action](../records/0138.md#local-section-04f7098c7a39f445d177cdcf-8a0d57f014)
 - [local-section:0540ad65008e7cc2581a4a39 — 1. Blind preparation, exposure and evidence](../records/0138.md#local-section-0540ad65008e7cc2581a4a39-c628244222)
-- [local-section:058a3ea5e9d85a79b1a0ddac — 2.1 Independent Mellin check](../records/0138.md#local-section-058a3ea5e9d85a79b1a0ddac-fc074d564f)
+- [local-section:058a3ea5e9d85a79b1a0ddac — 2.1 Independent Mellin check](../records/0139.md#local-section-058a3ea5e9d85a79b1a0ddac-fc074d564f)
 - [local-section:0604c923f71cfde85472cdfa — G189. Full constant-cut source transfer](../records/0139.md#local-section-0604c923f71cfde85472cdfa-6e52dcea0d)
 - [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0139.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
 - [local-section:07c062869093581630b5d4be — 4. Exponent return and precise arithmetic gap](../records/0139.md#local-section-07c062869093581630b5d4be-fa7f50decf)
@@ -80,7 +81,7 @@ Page 7/13; 3040 matching records.
 - [local-section:0deb294e62e4267c57e6ceed — A slot-weighted high-bin estimate and a candidate c = .12514](../records/0139.md#local-section-0deb294e62e4267c57e6ceed-c437dd7048)
 - [local-section:0e168f25f81aadf08e384760 — 6. Uniform parked audit25: rescue the checksum and price its return](../records/0139.md#local-section-0e168f25f81aadf08e384760-82cb5d9671)
 - [local-section:0e37e1a2a40f5005f321445a — Independent W59 review](../records/0139.md#local-section-0e37e1a2a40f5005f321445a-e82327cd40)
-- [local-section:0e4a6609144ed573017ab2c1 — 2. Intake, exact sources and novelty](../records/0139.md#local-section-0e4a6609144ed573017ab2c1-5837e46523)
+- [local-section:0e4a6609144ed573017ab2c1 — 2. Intake, exact sources and novelty](../records/0140.md#local-section-0e4a6609144ed573017ab2c1-5837e46523)
 - [local-section:0eae90fa68d4c091e5e95a95 — W56 independent review: conditional density gain, exact returns, no new c](../records/0140.md#local-section-0eae90fa68d4c091e5e95a95-87a426d2d5)
 - [local-section:0ebd00cf3b43f6bab13bed2d — \[research revision\] independent headroom branch B — one-grid arithmetic-wavelet obstruction](../records/0140.md#local-section-0ebd00cf3b43f6bab13bed2d-4c80627c45)
 - [local-section:0ee71e1f25b54798f9a6dd51 — Polynomial-height consequence](../records/0140.md#local-section-0ee71e1f25b54798f9a6dd51-2961a52550)
@@ -145,7 +146,7 @@ Page 7/13; 3040 matching records.
 - [local-section:1d317d33156da35cd674c73f — 1. Decision](../records/0141.md#local-section-1d317d33156da35cd674c73f-94fd430163)
 - [local-section:1d4077b4d766252508201a7a — Gram localization is not a vector projection](../records/0141.md#local-section-1d4077b4d766252508201a7a-7f20edd354)
 - [local-section:1d791d9112296046f61dfc4c — \[research revision\]: the arithmetic content of the optimal f3 spectral core](../records/0141.md#local-section-1d791d9112296046f61dfc4c-ecd51b8895)
-- [local-section:1d95117d64900641885532ae — 3. Exact arithmetic reconstruction of the complete detector](../records/0141.md#local-section-1d95117d64900641885532ae-b29e801e08)
+- [local-section:1d95117d64900641885532ae — 3. Exact arithmetic reconstruction of the complete detector](../records/0142.md#local-section-1d95117d64900641885532ae-b29e801e08)
 - [local-section:1e1dbff162c029be9f0632cb — 4. Full row conductor and a general summation lemma](../records/0142.md#local-section-1e1dbff162c029be9f0632cb-ba229c7981)
 - [local-section:1e3fe69fe380ddbd89af8fa2 — \[research revision\]: the quartic boundary object is partly defined](../records/0142.md#local-section-1e3fe69fe380ddbd89af8fa2-638ff29542)
 - [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0142.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)
@@ -181,7 +182,7 @@ Page 7/13; 3040 matching records.
 - [local-section:25b39810c8b971cacdcf751c — 9. Exact residual and the still-open large-core moment](../records/0142.md#local-section-25b39810c8b971cacdcf751c-36788a1d7b)
 - [local-section:25faf3069fe4f218c9409233 — Outside-band arithmetic: a two-prime source and its complete complement](../records/0142.md#local-section-25faf3069fe4f218c9409233-1860b447e9)
 - [local-section:2600ce32a6557d927fd4de88 — 26. Signed integer states and complete source returns](../records/0142.md#local-section-2600ce32a6557d927fd4de88-31242b90a8)
-- [local-section:2687d747df1f4b070dc1529c — F24. Left-first and two-sided spectral/Mellin methods](../records/0142.md#local-section-2687d747df1f4b070dc1529c-09bc15013d)
+- [local-section:2687d747df1f4b070dc1529c — F24. Left-first and two-sided spectral/Mellin methods](../records/0143.md#local-section-2687d747df1f4b070dc1529c-09bc15013d)
 - [local-section:273136e60948c5b9bf0c5173 — \[research revision\] author candidate: cap both original plain lengths and obtain c4 = 0.125135](../records/0143.md#local-section-273136e60948c5b9bf0c5173-4968ebd270)
 - [local-section:276016fcf07297e0446674f4 — \[research revision\]: original-prime row covariance, bounded attack](../records/0143.md#local-section-276016fcf07297e0446674f4-8695fdf551)
 - [local-section:27d35033f4575e0cb9f70267 — \[research revision\] independent review: changed useful local window](../records/0143.md#local-section-27d35033f4575e0cb9f70267-e4ccd450e6)
@@ -218,7 +219,7 @@ Page 7/13; 3040 matching records.
 - [local-section:2d84ba614279176f992f4070 — G72. A complete quantitative short-window return](../records/0143.md#local-section-2d84ba614279176f992f4070-e1ea9b9b1e)
 - [local-section:2e63463e99aa00b9c2d1d352 — 7. Quantitative targets, actual failed test and discovery audit](../records/0143.md#local-section-2e63463e99aa00b9c2d1d352-68fbcbac35)
 - [local-section:2e7a1776528d379ee3795a96 — 4. C: exact renewal and a stronger elementary check on absolute small gain](../records/0143.md#local-section-2e7a1776528d379ee3795a96-3cf4f03056)
-- [local-section:2ec6455cab8bef0345506de7 — Independent W43 review](../records/0143.md#local-section-2ec6455cab8bef0345506de7-371f35fbe6)
+- [local-section:2ec6455cab8bef0345506de7 — Independent W43 review](../records/0144.md#local-section-2ec6455cab8bef0345506de7-371f35fbe6)
 - [local-section:2fda2d94811ace56041bb310 — \[research revision\] high-ceiling discovery: a moving Bessel filter](../records/0144.md#local-section-2fda2d94811ace56041bb310-c544b19087)
 - [local-section:306961b2b544a1fa857b3183 — \[research revision\] next headroom pass — actual Möbius inversion](../records/0144.md#local-section-306961b2b544a1fa857b3183-b44afef253)
 - [local-section:30773771675898d604726615 — R42.11. All30 dispositions and ancestry](../records/0144.md#local-section-30773771675898d604726615-052867e365)
@@ -242,7 +243,7 @@ Page 7/13; 3040 matching records.
 - [local-section:35394c0ef68a595f98f507c7 — \[research revision\]: original-prime H covariance — bounded development](../records/0144.md#local-section-35394c0ef68a595f98f507c7-e25a7848d5)
 - [local-section:35693aab9eccde89be64c404 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0144.md#local-section-35693aab9eccde89be64c404-94d484667a)
 - [local-section:35b3d41ae70bc753d834b8b5 — R42.12. Verification and handoff boundary](../records/0144.md#local-section-35b3d41ae70bc753d834b8b5-09c6b36389)
-- [local-section:36a6c00dbb97320f4d9a573d — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0144.md#local-section-36a6c00dbb97320f4d9a573d-60a06514f7)
+- [local-section:36a6c00dbb97320f4d9a573d — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0145.md#local-section-36a6c00dbb97320f4d9a573d-60a06514f7)
 - [local-section:36dc47ea04a3be0953b3eecd — 3. The source permission is genuinely available](../records/0145.md#local-section-36dc47ea04a3be0953b3eecd-04f3dc9744)
 - [local-section:36fe3e4ff46ef5684309cb32 — Protected S28: an exact orthogonal coprimality realization](../records/0145.md#local-section-36fe3e4ff46ef5684309cb32-8ad5ba969a)
 - [local-section:37144a10a5f754e9b8c54638 — F03.OM — Physical orientations first](../records/0145.md#local-section-37144a10a5f754e9b8c54638-89d78388c5)
@@ -257,4 +258,3 @@ Page 7/13; 3040 matching records.
 - [local-section:395900e7ad7fea2f44daf24b — 2. Evidence and the independent calculation](../records/0145.md#local-section-395900e7ad7fea2f44daf24b-4427c1846b)
 - [local-section:3978a3442f981af99e1d2a46 — 4. Complete physical return at the chosen rational constant](../records/0145.md#local-section-3978a3442f981af99e1d2a46-893f038b9c)
 - [local-section:397e10516abbef0da875dcc7 — 1. The complete arithmetic average](../records/0145.md#local-section-397e10516abbef0da875dcc7-625c35e68f)
-- [local-section:399039ae623c147cb2b6cd5a — 7. All sixty dispositions](../records/0145.md#local-section-399039ae623c147cb2b6cd5a-7d8f5aaa62)

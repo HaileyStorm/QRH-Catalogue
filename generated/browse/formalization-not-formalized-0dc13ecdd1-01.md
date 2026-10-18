@@ -4,9 +4,9 @@
 
 Page 1/1; 24 matching records.
 
-- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0173.md#local-g249-33b0a017f2)
-- [local:G250 — G250. Variation-priced complete root tail and stopped square-decoder price](../records/0173.md#local-g250-42c6fe6c04)
-- [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0173.md#local-g251-2e3e6366df)
+- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0174.md#local-g249-33b0a017f2)
+- [local:G250 — G250. Variation-priced complete root tail and stopped square-decoder price](../records/0174.md#local-g250-42c6fe6c04)
+- [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0174.md#local-g251-2e3e6366df)
 - [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0174.md#local-g252-64bd5a4ae5)
 - [local:G253 — G253. Gaussian density with local laws preserves ambient inverse sharpness](../records/0174.md#local-g253-8f2fb2f1d9)
 - [local:G254 — G254. Fixed-annular weighted-height and pointwise polynomial bounds are equivalent](../records/0174.md#local-g254-52c97c1379)

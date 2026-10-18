@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 126 matching records.
+Page 1/1; 130 matching records.
 
 - [MATH-PR48-57ca0662-collision-partitions — Collision partitions for overlapping finite slot pools](../records/0129.md#math-pr48-57ca0662-collision-partitions-6b4f96fbc7)
 - [MATH-PR48-57ca0662-finite-polarization — Finite polarization from common product profiles](../records/0129.md#math-pr48-57ca0662-finite-polarization-4afcdc06a5)
@@ -118,6 +118,10 @@ Page 1/1; 126 matching records.
 - [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
 - [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
 - [QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE — Exact Mobius prime removal with full norm and energy covariance](../records/0131.md#qrh-cont-r094-prime-removal-covariance-6df2a08941)
+- [QRH-CONT-R096-COMMON-SQUAREPART-PAIRED-MASS — General common-squarepart paired mass and complete orientation-sector bounds](../records/0131.md#qrh-cont-r096-common-squarepart-paired-mass-84bb7f2a29)
+- [QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE — Complete sixth-free cubic-column norm and actual one-prime-core moment](../records/0131.md#qrh-cont-r097-sixth-free-cubic-prime-core-9301ff34a6)
+- [QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING — Uniform growing punctures, individual-squarepart moments and whole-residual conditional pruning](../records/0131.md#qrh-cont-r098-uniform-squarepart-cofactor-pruning-a2c7202877)
+- [QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT — Complete logarithmic commutator, square-convolved prime source and general fixed-power moment envelope](../records/0131.md#qrh-cont-r099-complete-log-commutator-prime-moment-eb681529c2)
 - [QRH-CONT-U1-ALL-RANGE-GCD-AND-DIAGONAL — Complete Gaussian gcd tail for all positive evaluation lines and below-half diagonal calibration](../records/0131.md#qrh-cont-u1-all-range-gcd-and-diagonal-ee1a14b8c6)
 - [QRH-CONT-U1-FULL-SUPPORT-NORM-RETURN — Ordinary heat return for every fixed full-support positive measure below or above the critical line](../records/0131.md#qrh-cont-u1-full-support-norm-return-a76fc40150)
 - [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)

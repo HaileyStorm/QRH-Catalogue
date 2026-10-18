@@ -2,10 +2,12 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/3; 562 matching records.
+Page 3/3; 564 matching records.
 
 [Previous](topic-cubic-ce371d3c6b-02.md)
 
+- [local:F01 — F01. Multiscale Möbius decomposition and signed block control](../records/0171.md#local-f01-17b39a927a)
+- [local:F01.N2 — F01.N2 — Physical cube-row I–I is affordable with its exact completed density; compare projected remainder to C–C](../records/0171.md#local-f01-n2-649833a8d8)
 - [local:F03 — F03. Sixth-order sparse-index and ordinary means](../records/0171.md#local-f03-a413a453fd)
 - [local:F03.OM — F03.OM — Study common-F-completed cube-free rows ab² ordered by q_a q_b²; finite ray orbit must really exist](../records/0171.md#local-f03-om-1ec4c4ec48)
 - [local:F05 — F05. Möbius-aware polar projection and spectral sieve](../records/0171.md#local-f05-b00059fa1b)

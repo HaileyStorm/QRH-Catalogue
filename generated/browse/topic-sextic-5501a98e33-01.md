@@ -117,7 +117,7 @@ Page 1/2; 497 matching records.
 - [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
 - [local-section:24bfc80a21c7f1c9e4994e0a — \[research revision\]: complete cross-class reduction](../records/0142.md#local-section-24bfc80a21c7f1c9e4994e0a-853c1be043)
 - [local-section:253bb40bb2b9a9521bae8ff5 — \[research revision\]: a larger literal amplifier gives local capacity 4.44](../records/0142.md#local-section-253bb40bb2b9a9521bae8ff5-d141175ebb)
-- [local-section:269787e80e40c1bdbc047021 — 6. Relative conductor, coefficient mass and natural holes](../records/0142.md#local-section-269787e80e40c1bdbc047021-e572cf583d)
+- [local-section:269787e80e40c1bdbc047021 — 6. Relative conductor, coefficient mass and natural holes](../records/0143.md#local-section-269787e80e40c1bdbc047021-e572cf583d)
 - [local-section:26b0c204feb259c1e1851272 — 4. Transfer the whole density gain in the actual paired units](../records/0143.md#local-section-26b0c204feb259c1e1851272-e3f7f1d55a)
 - [local-section:273136e60948c5b9bf0c5173 — \[research revision\] author candidate: cap both original plain lengths and obtain c4 = 0.125135](../records/0143.md#local-section-273136e60948c5b9bf0c5173-4968ebd270)
 - [local-section:27d35033f4575e0cb9f70267 — \[research revision\] independent review: changed useful local window](../records/0143.md#local-section-27d35033f4575e0cb9f70267-e4ccd450e6)

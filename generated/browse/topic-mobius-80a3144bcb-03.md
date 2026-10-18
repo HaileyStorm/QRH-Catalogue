@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 970 matching records.
+Page 3/4; 971 matching records.
 
 [Previous](topic-mobius-80a3144bcb-02.md)
 
 [Next](topic-mobius-80a3144bcb-04.md)
 
+- [local-section:95d56830a22af6eac108df13 — \[research revision\]: larger paid sectors and two exact cancellation obstructions](../records/0157.md#local-section-95d56830a22af6eac108df13-ff56a99db6)
 - [local-section:961ac9721192c13395c9fd1b — Frozen-dyad balanced finite form](../records/0157.md#local-section-961ac9721192c13395c9fd1b-1ca1704cd2)
 - [local-section:9672bf8d794bf486e8fff7f4 — Independent review: the cofactor-labelled source and its complete price](../records/0157.md#local-section-9672bf8d794bf486e8fff7f4-ed269a718c)
 - [local-section:969b77f14563fefd152a0668 — W51: hard-cutoff fugacity deflation and the surviving prime boundary](../records/0157.md#local-section-969b77f14563fefd152a0668-bdd9b87c29)
@@ -50,7 +51,7 @@ Page 3/4; 970 matching records.
 - [local-section:a0a5bf95c1d04e395bd99ee1 — 7. Failures, ancestry, evidence limits, and complete return](../records/0158.md#local-section-a0a5bf95c1d04e395bd99ee1-767d9ae616)
 - [local-section:a102b147a0c02997e7165cbe — 2. Exact sources and what they permit](../records/0158.md#local-section-a102b147a0c02997e7165cbe-d9dcc3de11)
 - [local-section:a1443f36799de83a732d9f41 — 3. B: full source transport and its actual cost](../records/0158.md#local-section-a1443f36799de83a732d9f41-d007a31e86)
-- [local-section:a1c9a686c3fca22543ac4dea — 5. Finite signed core with every complement paid](../records/0158.md#local-section-a1c9a686c3fca22543ac4dea-06a6773701)
+- [local-section:a1c9a686c3fca22543ac4dea — 5. Finite signed core with every complement paid](../records/0159.md#local-section-a1c9a686c3fca22543ac4dea-06a6773701)
 - [local-section:a2525f60131e100d4a0bf829 — A.3 Merging integer states changes the operator norm](../records/0159.md#local-section-a2525f60131e100d4a0bf829-869554cca5)
 - [local-section:a2685673295740c034b8ba75 — 9. Ancestry, exact check and admission recommendation](../records/0159.md#local-section-a2685673295740c034b8ba75-c5e46ea604)
 - [local-section:a2b1573f65bc6e175b51d5fc — 6. Cross-gcd and short-cofactor preparation at the energy level](../records/0159.md#local-section-a2b1573f65bc6e175b51d5fc-0f09a44705)
@@ -104,9 +105,9 @@ Page 3/4; 970 matching records.
 - [local-section:b071a2135856d8c8ea28df81 — \[research revision\]: independent review of the literal f3 late flow](../records/0160.md#local-section-b071a2135856d8c8ea28df81-420b5afb7c)
 - [local-section:b0f3f80efb10c8149755c5f9 — Independent review of the \[research revision\] nonlinear ordinary-character source](../records/0160.md#local-section-b0f3f80efb10c8149755c5f9-0f141ca37e)
 - [local-section:b12dfec639d7d94047c94e47 — Independent review: completed cross-class reduction](../records/0160.md#local-section-b12dfec639d7d94047c94e47-8b7fd4419e)
-- [local-section:b14f9ece89cb607525a792d4 — 8. A proved coupled cancellation, and the new remaining obstruction](../records/0160.md#local-section-b14f9ece89cb607525a792d4-464e023d3b)
-- [local-section:b15b0cf501d1025426f9363d — 5. Uniform audit S19: the largest-prime state is indispensable](../records/0160.md#local-section-b15b0cf501d1025426f9363d-839af5728c)
-- [local-section:b166116897d1b2a1dc831d6c — Actual R4 nonunique companion: complete collision labels and paid power-core sectors](../records/0160.md#local-section-b166116897d1b2a1dc831d6c-7211d10818)
+- [local-section:b14f9ece89cb607525a792d4 — 8. A proved coupled cancellation, and the new remaining obstruction](../records/0161.md#local-section-b14f9ece89cb607525a792d4-464e023d3b)
+- [local-section:b15b0cf501d1025426f9363d — 5. Uniform audit S19: the largest-prime state is indispensable](../records/0161.md#local-section-b15b0cf501d1025426f9363d-839af5728c)
+- [local-section:b166116897d1b2a1dc831d6c — Actual R4 nonunique companion: complete collision labels and paid power-core sectors](../records/0161.md#local-section-b166116897d1b2a1dc831d6c-7211d10818)
 - [local-section:b19dd30dd063c9a7087dd16b — 1. Definitions and absolute rearrangements](../records/0161.md#local-section-b19dd30dd063c9a7087dd16b-532d6f1898)
 - [local-section:b1b21c5f426d330bcbc5db5f — \[research revision\]: a narrow simultaneous-witness target with its complete source return](../records/0161.md#local-section-b1b21c5f426d330bcbc5db5f-4ed71ef1f2)
 - [local-section:b2325e32a6bad0857bec90cd — F19. Higher integrability and stable future tails](../records/0161.md#local-section-b2325e32a6bad0857bec90cd-545309d84e)
@@ -155,8 +156,8 @@ Page 3/4; 970 matching records.
 - [local-section:c05221584a75616054f4a94c — 1. Discovery before selection](../records/0162.md#local-section-c05221584a75616054f4a94c-6089a949b3)
 - [local-section:c0847f36fed73e8d82d6fb85 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0162.md#local-section-c0847f36fed73e8d82d6fb85-a4d682e16e)
 - [local-section:c08ef01f709aee192cdb74f0 — 3. Development A: independent verification and its strongest objection](../records/0162.md#local-section-c08ef01f709aee192cdb74f0-dcc1baf856)
-- [local-section:c0cd4b723844d7170f1bf63c — \[research revision\]: paid renewal localization and exact certificate boundaries](../records/0162.md#local-section-c0cd4b723844d7170f1bf63c-002a1a61ff)
-- [local-section:c0cf57bdd5b7d61b005a9416 — Group 2: uncapped independent invention](../records/0162.md#local-section-c0cf57bdd5b7d61b005a9416-b667dbd2c5)
+- [local-section:c0cd4b723844d7170f1bf63c — \[research revision\]: paid renewal localization and exact certificate boundaries](../records/0163.md#local-section-c0cd4b723844d7170f1bf63c-002a1a61ff)
+- [local-section:c0cf57bdd5b7d61b005a9416 — Group 2: uncapped independent invention](../records/0163.md#local-section-c0cf57bdd5b7d61b005a9416-b667dbd2c5)
 - [local-section:c138021b7d4898c52a7b72b8 — G92: exact defect expansion, collar prices and integer cancellation](../records/0163.md#local-section-c138021b7d4898c52a7b72b8-14420eb138)
 - [local-section:c13d2d4dea84b9431b61dbd1 — 6. The author's actual failed estimate, at its correct scope](../records/0163.md#local-section-c13d2d4dea84b9431b61dbd1-c01291fc75)
 - [local-section:c1afa025681e81d868ad0a2b — 4. Development 3: a paid complement in merged integer renewal (W52-01)](../records/0163.md#local-section-c1afa025681e81d868ad0a2b-9e537c2e07)
@@ -184,7 +185,7 @@ Page 3/4; 970 matching records.
 - [local-section:c703cf4e635b99dc082411dc — 4. Both height variables and the remaining signed scalar](../records/0163.md#local-section-c703cf4e635b99dc082411dc-0eec0ac70e)
 - [local-section:c78b4460e4131bff57b26b3c — 5. Literal application to the accepted compensated source](../records/0163.md#local-section-c78b4460e4131bff57b26b3c-710876aeba)
 - [local-section:c7a7dcf7d047ece21f73e039 — 1. Discovery comparison before selection](../records/0163.md#local-section-c7a7dcf7d047ece21f73e039-797924f982)
-- [local-section:c8487639aab6faa9c2321914 — W42: paid comparison of the old principal signal and a fixed Gaussian detector](../records/0163.md#local-section-c8487639aab6faa9c2321914-9b168fa64f)
+- [local-section:c8487639aab6faa9c2321914 — W42: paid comparison of the old principal signal and a fixed Gaussian detector](../records/0164.md#local-section-c8487639aab6faa9c2321914-9b168fa64f)
 - [local-section:c88134b5958ef9cc2e7833a0 — 2. D1 / S02: an exact inverse exposes what the boundary must reconstruct](../records/0164.md#local-section-c88134b5958ef9cc2e7833a0-bf29f4208a)
 - [local-section:c8cb5f80b829e580b9410b2e — 9. Evidence and verification record](../records/0164.md#local-section-c8cb5f80b829e580b9410b2e-69c33e1c1e)
 - [local-section:c91124d383692bf29dd80be4 — 8. Evidence, ancestry, limits and next action](../records/0164.md#local-section-c91124d383692bf29dd80be4-4665290c7a)
@@ -257,4 +258,3 @@ Page 3/4; 970 matching records.
 - [local-section:d9f5d7def3c38ddc8daa5cd7 — 7. Open remainder and review gate](../records/0166.md#local-section-d9f5d7def3c38ddc8daa5cd7-0594bc8e13)
 - [local-section:da1e6c6869a4531712688538 — \[research revision\]: an actual late f3 complement and a reversal of renewal-band signs](../records/0166.md#local-section-da1e6c6869a4531712688538-6bf0adb826)
 - [local-section:da309b33e95e4cf9258184a3 — Source bindings and novelty boundary](../records/0166.md#local-section-da309b33e95e4cf9258184a3-330328588e)
-- [local-section:da9cac00857abf844282bc0f — Independent parked audit A: protected S29 additive branch](../records/0166.md#local-section-da9cac00857abf844282bc0f-0eebe9e65f)

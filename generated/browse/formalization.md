@@ -21,6 +21,7 @@
 - [Textual mathematics only. No Lean formalization, typechecking, axiom audit or kernel replay of this component. (13)](formalization-textual-mathematics-only-no-lean-formalization-typechecking-axiom-9df1b63ea5-01.md)
 - [Textual mathematics only. No new Lean formalization, typecheck, axiom audit, kernel verification or end-to-end formalizer-use claim. (12)](formalization-textual-mathematics-only-no-new-lean-formalization-typecheck-axio-054ab9ae60-01.md)
 - [Textual mathematics only. No new Lean formalization, typechecking, axiom audit or kernel replay. (1)](formalization-textual-mathematics-only-no-new-lean-formalization-typechecking-a-e2983c7fc0-01.md)
+- [Textual mathematics only. No new Lean typecheck, axiom audit, kernel replay, full formalization or final paper-to-Lean-use claim. (4)](formalization-textual-mathematics-only-no-new-lean-typecheck-axiom-audit-kernel-25dd9fdcdd-01.md)
 - [Textual mathematics only. No new Lean typechecking, axiom audit, kernel replay or final paper-to-Lean-use assertion. (7)](formalization-textual-mathematics-only-no-new-lean-typechecking-axiom-audit-ker-730d7a5888-01.md)
 - [Textual mathematics only; no Lean, axiom audit, kernel replay or final-use claim. (6)](formalization-textual-mathematics-only-no-lean-axiom-audit-kernel-replay-or-fin-e3c98a768a-01.md)
 - [Textual mathematics only; no new Lean formalization, typechecking, axiom audit or kernel replay. (14)](formalization-textual-mathematics-only-no-new-lean-formalization-typechecking-a-76b76303c0-01.md)

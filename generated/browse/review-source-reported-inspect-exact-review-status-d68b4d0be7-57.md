@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 57/71; 17587 matching records.
+Page 57/71; 17591 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-56.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-58.md)
 
+- [pr26:Analytic.JointFirstLedger::punctureWidth@551 — punctureWidth](../records/0183.md#pr26-analytic-jointfirstledger-puncturewidth-551-5cb445ca27)
+- [pr26:Analytic.JointFirstLedger::radicalWidth@547 — radicalWidth](../records/0183.md#pr26-analytic-jointfirstledger-radicalwidth-547-65f3828508)
+- [pr26:Analytic.JointFirstLedger::rightAllowance@555 — rightAllowance](../records/0183.md#pr26-analytic-jointfirstledger-rightallowance-555-6ea086565c)
+- [pr26:Analytic.JointFirstLedger::rightEnergy_nonneg@698 — rightEnergy_nonneg](../records/0183.md#pr26-analytic-jointfirstledger-rightenergy-nonneg-698-84f8058988)
 - [pr26:Analytic.JointFirstLedger::rightTargetWidth@630 — rightTargetWidth](../records/0183.md#pr26-analytic-jointfirstledger-righttargetwidth-630-dc85dc5656)
 - [pr26:Analytic.JointFirstLedger::rightWidth@546 — rightWidth](../records/0183.md#pr26-analytic-jointfirstledger-rightwidth-546-94eae91e3a)
 - [pr26:Analytic.JointFirstLedger::sector_scalar_cap@635 — sector_scalar_cap](../records/0183.md#pr26-analytic-jointfirstledger-sector-scalar-cap-635-224e7bc09a)
@@ -85,10 +89,10 @@ Page 57/71; 17587 matching records.
 - [pr26:Analytic.JointFirstProjectorMass — Analytic.JointFirstProjectorMass](../records/0183.md#pr26-analytic-jointfirstprojectormass-70ea34208d)
 - [pr26:Analytic.JointFirstProjectorMass::actual_first_projector_harmonic_mass@315 — actual_first_projector_harmonic_mass](../records/0183.md#pr26-analytic-jointfirstprojectormass-actual-first-projector-harm-dbbadd94e8)
 - [pr26:Analytic.JointFirstProjectorMass::actual_first_supported_label_harmonic_mass@352 — actual_first_supported_label_harmonic_mass](../records/0183.md#pr26-analytic-jointfirstprojectormass-actual-first-supported-labe-469c202a58)
-- [pr26:Analytic.JointFirstProjectorSupport — Analytic.JointFirstProjectorSupport](../records/0183.md#pr26-analytic-jointfirstprojectorsupport-c32745f968)
-- [pr26:Analytic.JointFirstProjectorSupport::firstLeftSourceLabels@335 — firstLeftSourceLabels](../records/0183.md#pr26-analytic-jointfirstprojectorsupport-firstleftsourcelabels-33-dd0cb4a5cd)
-- [pr26:Analytic.JointFirstProjectorSupport::firstLeftSourceLabels_gates@383 — firstLeftSourceLabels_gates](../records/0183.md#pr26-analytic-jointfirstprojectorsupport-firstleftsourcelabels-ga-afb0ef3b8d)
-- [pr26:Analytic.JointFirstProjectorSupport::firstRightSourceLabels@339 — firstRightSourceLabels](../records/0183.md#pr26-analytic-jointfirstprojectorsupport-firstrightsourcelabels-3-75cad36505)
+- [pr26:Analytic.JointFirstProjectorSupport — Analytic.JointFirstProjectorSupport](../records/0184.md#pr26-analytic-jointfirstprojectorsupport-c32745f968)
+- [pr26:Analytic.JointFirstProjectorSupport::firstLeftSourceLabels@335 — firstLeftSourceLabels](../records/0184.md#pr26-analytic-jointfirstprojectorsupport-firstleftsourcelabels-33-dd0cb4a5cd)
+- [pr26:Analytic.JointFirstProjectorSupport::firstLeftSourceLabels_gates@383 — firstLeftSourceLabels_gates](../records/0184.md#pr26-analytic-jointfirstprojectorsupport-firstleftsourcelabels-ga-afb0ef3b8d)
+- [pr26:Analytic.JointFirstProjectorSupport::firstRightSourceLabels@339 — firstRightSourceLabels](../records/0184.md#pr26-analytic-jointfirstprojectorsupport-firstrightsourcelabels-3-75cad36505)
 - [pr26:Analytic.JointFirstProjectorSupport::firstRightSourceLabels_gates@397 — firstRightSourceLabels_gates](../records/0184.md#pr26-analytic-jointfirstprojectorsupport-firstrightsourcelabels-g-4616a970e0)
 - [pr26:Analytic.JointFirstProjectorSupport::first_leftEnergy_eq_supported@343 — first_leftEnergy_eq_supported](../records/0184.md#pr26-analytic-jointfirstprojectorsupport-first-leftenergy-eq-supp-42150d2540)
 - [pr26:Analytic.JointFirstProjectorSupport::first_rightEnergy_eq_supported@363 — first_rightEnergy_eq_supported](../records/0184.md#pr26-analytic-jointfirstprojectorsupport-first-rightenergy-eq-sup-0bd11b6ea1)
@@ -185,10 +189,10 @@ Page 57/71; 17587 matching records.
 - [pr26:Analytic.JointFirstSwap::activeSwap@667 — activeSwap](../records/0184.md#pr26-analytic-jointfirstswap-activeswap-667-5b03a8a8ef)
 - [pr26:Analytic.JointFirstSwap::activeSwap_exponent@690 — activeSwap_exponent](../records/0184.md#pr26-analytic-jointfirstswap-activeswap-exponent-690-5017f549e2)
 - [pr26:Analytic.JointFirstSwap::activeSwap_primary@687 — activeSwap_primary](../records/0184.md#pr26-analytic-jointfirstswap-activeswap-primary-687-a1bff21662)
-- [pr26:Analytic.JointFirstSwap::commonSwap@653 — commonSwap](../records/0184.md#pr26-analytic-jointfirstswap-commonswap-653-384cfbf67d)
-- [pr26:Analytic.JointFirstSwap::commonSwap_val@659 — commonSwap_val](../records/0184.md#pr26-analytic-jointfirstswap-commonswap-val-659-5560ed6d31)
-- [pr26:Analytic.JointFirstSwap::leftEffectiveFactor_swap@695 — leftEffectiveFactor_swap](../records/0184.md#pr26-analytic-jointfirstswap-lefteffectivefactor-swap-695-299412b7fb)
-- [pr26:Analytic.JointFirstSwap::netExponent_swap@662 — netExponent_swap](../records/0184.md#pr26-analytic-jointfirstswap-netexponent-swap-662-66732f2fc3)
+- [pr26:Analytic.JointFirstSwap::commonSwap@653 — commonSwap](../records/0185.md#pr26-analytic-jointfirstswap-commonswap-653-384cfbf67d)
+- [pr26:Analytic.JointFirstSwap::commonSwap_val@659 — commonSwap_val](../records/0185.md#pr26-analytic-jointfirstswap-commonswap-val-659-5560ed6d31)
+- [pr26:Analytic.JointFirstSwap::leftEffectiveFactor_swap@695 — leftEffectiveFactor_swap](../records/0185.md#pr26-analytic-jointfirstswap-lefteffectivefactor-swap-695-299412b7fb)
+- [pr26:Analytic.JointFirstSwap::netExponent_swap@662 — netExponent_swap](../records/0185.md#pr26-analytic-jointfirstswap-netexponent-swap-662-66732f2fc3)
 - [pr26:Analytic.JointFirstSwap::swapFirst@724 — swapFirst](../records/0185.md#pr26-analytic-jointfirstswap-swapfirst-724-c2a7fcb477)
 - [pr26:Analytic.JointFirstSwap::swapFirstEquiv@742 — swapFirstEquiv](../records/0185.md#pr26-analytic-jointfirstswap-swapfirstequiv-742-511608010d)
 - [pr26:Analytic.JointFirstSwap::swapFirst_injective@738 — swapFirst_injective](../records/0185.md#pr26-analytic-jointfirstswap-swapfirst-injective-738-edfa614dc3)
@@ -254,7 +258,3 @@ Page 57/71; 17587 matching records.
 - [pr26:Analytic.JointFullRetainedFiber::liveFullRetainedFiber_nonzero@430 — liveFullRetainedFiber_nonzero](../records/0185.md#pr26-analytic-jointfullretainedfiber-livefullretainedfiber-nonzer-8b8500b921)
 - [pr26:Analytic.JointFullRetainedFiber::retained_projector_sum_le_activeFullFiber@502 — retained_projector_sum_le_activeFullFiber](../records/0185.md#pr26-analytic-jointfullretainedfiber-retained-projector-sum-le-ac-ade5c266f9)
 - [pr26:Analytic.JointFullRetainedFiber::retained_projector_sum_le_fullFiber@452 — retained_projector_sum_le_fullFiber](../records/0185.md#pr26-analytic-jointfullretainedfiber-retained-projector-sum-le-fu-80c9c9ccbd)
-- [pr26:Analytic.JointFullRetainedFiber::retained_projector_sum_le_liveFullFiber@464 — retained_projector_sum_le_liveFullFiber](../records/0185.md#pr26-analytic-jointfullretainedfiber-retained-projector-sum-le-li-b807cd43e7)
-- [pr26:Analytic.JointGlobalSourceBins — Analytic.JointGlobalSourceBins](../records/0185.md#pr26-analytic-jointglobalsourcebins-791886b054)
-- [pr26:Analytic.JointGlobalSourceBins::exists_global_original_source_bins@34 — exists_global_original_source_bins](../records/0185.md#pr26-analytic-jointglobalsourcebins-exists-global-original-source-9d91d95f8e)
-- [pr26:Analytic.JointHighComplete — Analytic.JointHighComplete](../records/0185.md#pr26-analytic-jointhighcomplete-036092f244)

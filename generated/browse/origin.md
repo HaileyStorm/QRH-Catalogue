@@ -10,6 +10,7 @@
 - [qrh-continued-written-research (10)](origin-qrh-continued-written-research-fbedf9f299-01.md)
 - [qrh-independent-continuation (75)](origin-qrh-independent-continuation-fd43f7153f-01.md)
 - [qrh-mathematical-library (3746)](origin-qrh-mathematical-library-a6ebfb3916-01.md)
+- [qrh-post027-reviewed-research (4)](origin-qrh-post027-reviewed-research-acf17ecdff-01.md)
 - [qrh-reviewed-continuation-20261017 (7)](origin-qrh-reviewed-continuation-20261017-516162dcc1-01.md)
 - [qrh-reviewed-external-integration-20261017 (6)](origin-qrh-reviewed-external-integration-20261017-d6fd4d5ffe-01.md)
 - [qrh-reviewed-post026-20261017 (7)](origin-qrh-reviewed-post026-20261017-b549af132e-01.md)

@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 562 matching records.
+Page 1/3; 564 matching records.
 
 [Next](topic-cubic-ce371d3c6b-02.md)
 
@@ -217,6 +217,8 @@ Page 1/3; 562 matching records.
 - [QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE — Full two-orientation cubic Gauss AA covariance with moving twist and unchanged incumbent price](../records/0131.md#qrh-cont-r091-two-orientation-aa-covariance-bfae1b8248)
 - [QRH-CONT-R092-CANONICAL-ACTIVE-BANK — Complete long-column norm of the canonical active prime bank](../records/0131.md#qrh-cont-r092-canonical-active-bank-1fd9650dd8)
 - [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
+- [QRH-CONT-R096-COMMON-SQUAREPART-PAIRED-MASS — General common-squarepart paired mass and complete orientation-sector bounds](../records/0131.md#qrh-cont-r096-common-squarepart-paired-mass-84bb7f2a29)
+- [QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE — Complete sixth-free cubic-column norm and actual one-prime-core moment](../records/0131.md#qrh-cont-r097-sixth-free-cubic-prime-core-9301ff34a6)
 - [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
 - [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
 - [QRH-HEAT-FILTERED-CUBIC-SOURCE — Complete filtered cubic heat source with a uniform saddle bound on every retained index](../records/0131.md#qrh-heat-filtered-cubic-source-8a363350a2)
@@ -254,5 +256,3 @@ Page 1/3; 562 matching records.
 - [local-section:1c1323abafd914be4b98db3a — New quantitative theorem](../records/0141.md#local-section-1c1323abafd914be4b98db3a-caed4bf531)
 - [local-section:1cb903b30a330a1b695526a3 — 4. Square-core middle estimate: unrestricted cubic outer variable](../records/0141.md#local-section-1cb903b30a330a1b695526a3-fe416907a1)
 - [local-section:1d01d3989f9a06e0a1c9faaa — DQ10--DQ11. The legitimate weighted cubic-sieve estimate](../records/0141.md#local-section-1d01d3989f9a06e0a1c9faaa-303fd91ffe)
-- [local-section:1e6d72dedb556bb6220e7f55 — G219. Actual principal channels and the cheapest generic price](../records/0142.md#local-section-1e6d72dedb556bb6220e7f55-22ea2ac91d)
-- [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0142.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)

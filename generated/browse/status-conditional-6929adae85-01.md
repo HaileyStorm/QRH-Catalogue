@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 664 matching records.
+Page 1/3; 666 matching records.
 
 [Next](status-conditional-6929adae85-02.md)
 
@@ -112,6 +112,8 @@ Page 1/3; 664 matching records.
 - [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
 - [QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS — Physical imprimitive Gauss overlaps: inclusive prices and a complete weighted maximal-class transfer](../records/0131.md#qrh-cont-r088-complete-physical-gauss-overlaps-5764b0d033)
 - [QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE — General affine-envelope all-bin leakage closure from the same complete signed source](../records/0131.md#qrh-cont-r092-affine-all-bin-leakage-63a9ea2214)
+- [QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING — Uniform growing punctures, individual-squarepart moments and whole-residual conditional pruning](../records/0131.md#qrh-cont-r098-uniform-squarepart-cofactor-pruning-a2c7202877)
+- [QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT — Complete logarithmic commutator, square-convolved prime source and general fixed-power moment envelope](../records/0131.md#qrh-cont-r099-complete-log-commutator-prime-moment-eb681529c2)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0138.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0138.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:013a1b7334ec045f2503f1a7 — 2. Exact conditional local interface needed](../records/0138.md#local-section-013a1b7334ec045f2503f1a7-2cb36ea5fa)
@@ -149,8 +151,8 @@ Page 1/3; 664 matching records.
 - [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
 - [local-section:15307c37cc17059e89e17bc7 — 69. Labelled sieve layers and their unlabelled obstruction](../records/0140.md#local-section-15307c37cc17059e89e17bc7-622826e95b)
 - [local-section:15342f90ef2310d9eecd3acd — 56. Compensated square sources and complete collision payment](../records/0140.md#local-section-15342f90ef2310d9eecd3acd-e0f079b15b)
-- [local-section:15f9ca879ee600ee5bd9bc24 — 8. Prime-two alternative: exact conditional self-copy, no contraction](../records/0140.md#local-section-15f9ca879ee600ee5bd9bc24-01870d3417)
-- [local-section:15fefc8a6ea7d010c5da0d40 — G161. A fixed replacement budget leaves a large actual residual](../records/0140.md#local-section-15fefc8a6ea7d010c5da0d40-5fe9fa56e2)
+- [local-section:15f9ca879ee600ee5bd9bc24 — 8. Prime-two alternative: exact conditional self-copy, no contraction](../records/0141.md#local-section-15f9ca879ee600ee5bd9bc24-01870d3417)
+- [local-section:15fefc8a6ea7d010c5da0d40 — G161. A fixed replacement budget leaves a large actual residual](../records/0141.md#local-section-15fefc8a6ea7d010c5da0d40-5fe9fa56e2)
 - [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0141.md#local-section-160b4939857b2accee77efb9-442b8b8857)
 - [local-section:1734be7826b7453008d12d69 — \[research revision\]: the actual completed-detector prefix](../records/0141.md#local-section-1734be7826b7453008d12d69-71ffe60184)
 - [local-section:18f6aa2dbed6cd91e88f54c4 — Independent outside-band review](../records/0141.md#local-section-18f6aa2dbed6cd91e88f54c4-455f9d3a63)
@@ -165,9 +167,9 @@ Page 1/3; 664 matching records.
 - [local-section:1cfd335cb0fa6708c15b4db1 — Signed readouts, paid prime cutoffs and actual positive Gram prices](../records/0141.md#local-section-1cfd335cb0fa6708c15b4db1-e0609bdb72)
 - [local-section:1d317d33156da35cd674c73f — 1. Decision](../records/0141.md#local-section-1d317d33156da35cd674c73f-94fd430163)
 - [local-section:1d5aae19717c73822404dd91 — 1. Frozen scope, chronology, and calibration](../records/0141.md#local-section-1d5aae19717c73822404dd91-de2cf526c7)
-- [local-section:1d95117d64900641885532ae — 3. Exact arithmetic reconstruction of the complete detector](../records/0141.md#local-section-1d95117d64900641885532ae-b29e801e08)
-- [local-section:1dbbb4fb1a1497c48a525473 — 41. A paid prefix of the completed inverse detector](../records/0141.md#local-section-1dbbb4fb1a1497c48a525473-1035e43120)
-- [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0141.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
+- [local-section:1d95117d64900641885532ae — 3. Exact arithmetic reconstruction of the complete detector](../records/0142.md#local-section-1d95117d64900641885532ae-b29e801e08)
+- [local-section:1dbbb4fb1a1497c48a525473 — 41. A paid prefix of the completed inverse detector](../records/0142.md#local-section-1dbbb4fb1a1497c48a525473-1035e43120)
+- [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0142.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
 - [local-section:1e1dbff162c029be9f0632cb — 4. Full row conductor and a general summation lemma](../records/0142.md#local-section-1e1dbff162c029be9f0632cb-ba229c7981)
 - [local-section:1e6d72dedb556bb6220e7f55 — G219. Actual principal channels and the cheapest generic price](../records/0142.md#local-section-1e6d72dedb556bb6220e7f55-22ea2ac91d)
 - [local-section:1e91e640810749e95376eb4a — Uniform arithmetic supply](../records/0142.md#local-section-1e91e640810749e95376eb4a-d7dad81793)
@@ -208,7 +210,7 @@ Page 1/3; 664 matching records.
 - [local-section:34a64812d1c3d348dd872cb4 — \[research revision\]: nonlinear source, complete tail and arithmetic core](../records/0144.md#local-section-34a64812d1c3d348dd872cb4-07a51cc96b)
 - [local-section:350dbe8ea62dce112d2c69e0 — 1. Verdict and evidence boundary](../records/0144.md#local-section-350dbe8ea62dce112d2c69e0-707971591e)
 - [local-section:35693aab9eccde89be64c404 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0144.md#local-section-35693aab9eccde89be64c404-94d484667a)
-- [local-section:36a46294e4b9b2a8a9aa2cf0 — 4.3 Outer reconstruction and all cross terms](../records/0144.md#local-section-36a46294e4b9b2a8a9aa2cf0-41ae674c4d)
+- [local-section:36a46294e4b9b2a8a9aa2cf0 — 4.3 Outer reconstruction and all cross terms](../records/0145.md#local-section-36a46294e4b9b2a8a9aa2cf0-41ae674c4d)
 - [local-section:36dc47ea04a3be0953b3eecd — 3. The source permission is genuinely available](../records/0145.md#local-section-36dc47ea04a3be0953b3eecd-04f3dc9744)
 - [local-section:3932376f7d2c4ae2d4529440 — Early attempt index: Cycles 1–32](../records/0145.md#local-section-3932376f7d2c4ae2d4529440-14e65a854a)
 - [local-section:395900e7ad7fea2f44daf24b — 2. Evidence and the independent calculation](../records/0145.md#local-section-395900e7ad7fea2f44daf24b-4427c1846b)
@@ -218,7 +220,7 @@ Page 1/3; 664 matching records.
 - [local-section:3cd4d22832c13d5553cb41e3 — 8. Full explicit return for the proposed c11](../records/0145.md#local-section-3cd4d22832c13d5553cb41e3-ddb6973b91)
 - [local-section:3d7c6b80b793a892a275429d — \[research revision\] independent headroom review — bounded partial audit](../records/0145.md#local-section-3d7c6b80b793a892a275429d-1d0398b39a)
 - [local-section:3dd47cb37af2681322d1b41b — Character phase and the complete conditional return](../records/0145.md#local-section-3dd47cb37af2681322d1b41b-2421ddc89c)
-- [local-section:3f0c72efa46a5e8a763bf68e — \[research revision\]: complete fixed-depth chain payment](../records/0145.md#local-section-3f0c72efa46a5e8a763bf68e-a2232ae0a6)
+- [local-section:3f0c72efa46a5e8a763bf68e — \[research revision\]: complete fixed-depth chain payment](../records/0146.md#local-section-3f0c72efa46a5e8a763bf68e-a2232ae0a6)
 - [local-section:3f8c0e495079e263750c92a7 — Source and verification boundary](../records/0146.md#local-section-3f8c0e495079e263750c92a7-d93c34aacd)
 - [local-section:3fac22f9d8f7ec1d6a8c185c — \[research revision\] discovery-first headroom pass: mean-zero completion of the nonlinear source](../records/0146.md#local-section-3fac22f9d8f7ec1d6a8c185c-f93f7f7a07)
 - [local-section:3fcb63c3c9999721d59956a9 — \[research revision\]: genuine cofactor-labelled detectors and their recovery price](../records/0146.md#local-section-3fcb63c3c9999721d59956a9-88439ea091)
@@ -254,5 +256,3 @@ Page 1/3; 664 matching records.
 - [local-section:5125ad184d0fc6370fb2e60e — 8. Paid sectors and literal f3 depth cancellation](../records/0148.md#local-section-5125ad184d0fc6370fb2e60e-b3012da587)
 - [local-section:512bbc8403ba12bebbebd820 — W56 author report — \[research revision\]](../records/0148.md#local-section-512bbc8403ba12bebbebd820-b04e125ca2)
 - [local-section:51bdf1b91709c0c318ab89c0 — 1. Outcome and ancestry](../records/0148.md#local-section-51bdf1b91709c0c318ab89c0-cd1a24e3ee)
-- [local-section:51f967b595908f11f942259a — 1. Inputs and result](../records/0148.md#local-section-51f967b595908f11f942259a-d50946a13f)
-- [local-section:52024a45216b27bf0fb0d0ba — 1. Verdict and scope](../records/0148.md#local-section-52024a45216b27bf0fb0d0ba-0f7c65b1ce)

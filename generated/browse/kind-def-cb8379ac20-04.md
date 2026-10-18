@@ -12,7 +12,7 @@ Page 4/4; 794 matching records.
 - [pr26:Global.Weighted.SourceFinish::IntegratedWeightedCellsAt@155 — IntegratedWeightedCellsAt](../records/0214.md#pr26-global-weighted-sourcefinish-integratedweightedcellsat-155-e02c16af61)
 - [pr26:Global.Weighted.SourceFinish::weightedSourceNormalizer@41 — weightedSourceNormalizer](../records/0214.md#pr26-global-weighted-sourcefinish-weightedsourcenormalizer-41-d0ebc98251)
 - [pr26:Global.Weighted.SourceFinish::weightedSourceSZExponent@38 — weightedSourceSZExponent](../records/0214.md#pr26-global-weighted-sourcefinish-weightedsourceszexponent-38-86304d2af3)
-- [pr26:Global.Weighted.Target::weightedTarget@20 — weightedTarget](../records/0214.md#pr26-global-weighted-target-weightedtarget-20-5c31796be5)
+- [pr26:Global.Weighted.Target::weightedTarget@20 — weightedTarget](../records/0215.md#pr26-global-weighted-target-weightedtarget-20-5c31796be5)
 - [pr26:LocalMoment.PlainUnmarkedAdapter::UnmarkedFiber.toLegacy@354 — UnmarkedFiber.toLegacy](../records/0215.md#pr26-localmoment-plainunmarkedadapter-unmarkedfiber-tolegacy-354-47a6809343)
 - [pr26:LocalMoment.RawSixthDensity::rawFrequencyNorm@209 — rawFrequencyNorm](../records/0215.md#pr26-localmoment-rawsixthdensity-rawfrequencynorm-209-7f8e0b3236)
 - [pr26:LocalMoment.RawSixthDensity::rawZeroBin@189 — rawZeroBin](../records/0215.md#pr26-localmoment-rawsixthdensity-rawzerobin-189-f8314ba607)

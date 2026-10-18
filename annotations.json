@@ -128235,6 +128235,96 @@
         "locator": "Source evidence; adapted gaussEnergy_poisson106\u2013126",
         "basis": "Existing fixed supported-pair energy transform does not itself license Poisson on a bounded moving Gauss row; new exact periodic opening is required. No formalizes or final-use claim."
       }
+    },
+    {
+      "source": "QRH-CONT-R096-COMMON-SQUAREPART-PAIRED-MASS",
+      "target": "QRH-HECKE-OPPOSITE-PARITY-CROSS-SOURCE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "23e0d116c2e1d4ba3eda5facc8f1f74b41c870d3144326b0a2f82b223a57bdb8",
+        "locator": "096.1\u2013096.6",
+        "basis": "Uses the literal complete masked kernel and cube-free Hermitian array; new common-squarepart support density is explicitly proved rather than imported as a moment."
+      }
+    },
+    {
+      "source": "QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE",
+      "target": "QRH-HECKE-SQUAREFREE-PLAIN-WITNESS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "bcf2bd93912b52bc5f4610bcac5c1eef8968a692f7000c4e2b6e8e2f252745f3",
+        "locator": "097.3 and097.8\u2013097.11",
+        "basis": "Retains the ACTUAL original witnesses, common profiles, natural holes, selected signal and count/leakage interface."
+      }
+    },
+    {
+      "source": "QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.Ideal",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "bcf2bd93912b52bc5f4610bcac5c1eef8968a692f7000c4e2b6e8e2f252745f3",
+        "locator": "Source domains; ideal_energy_bound and row decomposition",
+        "basis": "Squarefree admissible rows/columns, fixed coefficient domain and exact cube hole inspected. The new complete sixth-free extension is textual mathematics, not established by module indexing."
+      }
+    },
+    {
+      "source": "QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.Sharp",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "bcf2bd93912b52bc5f4610bcac5c1eef8968a692f7000c4e2b6e8e2f252745f3",
+        "locator": "Source domains; sieveNorm_sharp",
+        "basis": "Uses the actual M,N>=1 and arbitrary fixed coefficient contracts, then pays all frozen row factors. No new formal verification stage or final-use link."
+      }
+    },
+    {
+      "source": "QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING",
+      "target": "QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "07a7207612065e687d5c0f9fc53b5a95c3119013089c188c1ca6c6624401ae9e",
+        "locator": "098.8 and098.14; Section6",
+        "basis": "The third squarepart/cofactor branch uses097 complete sixth-free cubic moment.098 broader short-length pruning subsumes ONLY097 prime-core application, preserving its general cubic theorem and independent logarithmic identity."
+      }
+    },
+    {
+      "source": "QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING",
+      "target": "QRH-HECKE-SQUAREFREE-PLAIN-WITNESS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "07a7207612065e687d5c0f9fc53b5a95c3119013089c188c1ca6c6624401ae9e",
+        "locator": "098.2\u2013098.7,098.10\u2013098.13",
+        "basis": "Uses original canonical inverse/plain moments and selected witnesses on the unchanged row domain; exact puncture reconstruction and full h inversion supply the new uniform reduction."
+      }
+    },
+    {
+      "source": "QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING",
+      "target": "QRH-CONT-R096-COMMON-SQUAREPART-PAIRED-MASS",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "07a7207612065e687d5c0f9fc53b5a95c3119013089c188c1ca6c6624401ae9e",
+        "locator": "Section6",
+        "basis": "Individual-squarepart column pruning differs from096 COMMON-squarepart pair sectors. Savings cannot be added as scalar bonuses; literal surviving coefficients and divisor bounds control reuse."
+      }
+    },
+    {
+      "source": "QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT",
+      "target": "QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "06d12d657e9132396884d51fe99b36e1343931ac2c74eaee3056d16476872dda",
+        "locator": "099.1\u2013099.5",
+        "basis": "Uses097 complete logarithmic coefficient identity only. Does not transfer its cubic-column theorem to sextic prime columns.099 and later100 have separate frozen scoped reviews."
+      }
+    },
+    {
+      "source": "QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT",
+      "target": "QRH-HECKE-SQUAREFREE-PLAIN-WITNESS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "d16a20f9bb59282ffdb914ab22f769001facf6334112ee652150b677e057e576",
+        "locator": "100.1\u2013100.10 with099.7\u2013099.16",
+        "basis": "Uses the literal FULL original inverseL2 exponent, unchanged common profiles and all-bounded-polynomial-range ES4; full product edges and derivatives are paid. The spectral lower bound remains open."
+      }
     }
   ],
   "schema_version": 1

@@ -18,7 +18,7 @@ Page 1/1; 32 matching records.
 - [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0173.md#local-g245-5bef916afc)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0173.md#local-g246-8dd56008a9)
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0173.md#local-g247-bd48e9ab10)
-- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0173.md#local-g248-3d1e6b9334)
+- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0174.md#local-g248-3d1e6b9334)
 - [local:G267 — G267. Fixed Gevrey order control and complete nonlinear polylogarithmic-cofactor localization](../records/0174.md#local-g267-1a516d3577)
 - [local:G268 — G268. Complete ordinary Laplace inverse core and paid moving selected-prime-square sector](../records/0174.md#local-g268-c189b52c95)
 - [local:G269 — G269. Exact overlapping Laplace-window synthesis and a one-sided arithmetic target](../records/0174.md#local-g269-9d63fa090a)

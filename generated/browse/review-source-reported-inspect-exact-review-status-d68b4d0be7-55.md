@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 55/71; 17587 matching records.
+Page 55/71; 17591 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-54.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-56.md)
 
+- [pr26:Analytic.JointCancellationNorm::active_conductor_norm_product@474 — active_conductor_norm_product](../records/0178.md#pr26-analytic-jointcancellationnorm-active-conductor-norm-product-0401c462eb)
+- [pr26:Analytic.JointCancellationNorm::canceled_ideal_norm_product@488 — canceled_ideal_norm_product](../records/0178.md#pr26-analytic-jointcancellationnorm-canceled-ideal-norm-product-4-fa43e070c9)
+- [pr26:Analytic.JointCancellationNorm::cancellationNormHom@462 — cancellationNormHom](../records/0178.md#pr26-analytic-jointcancellationnorm-cancellationnormhom-462-54fb9b810e)
+- [pr26:Analytic.JointCancellationNorm::cancellation_norm_pow@471 — cancellation_norm_pow](../records/0178.md#pr26-analytic-jointcancellationnorm-cancellation-norm-pow-471-a14892a303)
 - [pr26:Analytic.JointCancellationNorm::cancellation_norm_prod@467 — cancellation_norm_prod](../records/0178.md#pr26-analytic-jointcancellationnorm-cancellation-norm-prod-467-a4e957b07f)
 - [pr26:Analytic.JointCancellationNorm::left_cancellation_coordinates@533 — left_cancellation_coordinates](../records/0178.md#pr26-analytic-jointcancellationnorm-left-cancellation-coordinates-914ef46eb8)
 - [pr26:Analytic.JointCancellationNorm::left_cancellation_sector_caps@551 — left_cancellation_sector_caps](../records/0178.md#pr26-analytic-jointcancellationnorm-left-cancellation-sector-caps-95e9cfd87f)
@@ -85,10 +89,10 @@ Page 55/71; 17587 matching records.
 - [pr26:Analytic.JointCoherentExceptionalSides::sideReference@520 — sideReference](../records/0178.md#pr26-analytic-jointcoherentexceptionalsides-sidereference-520-c3feee480d)
 - [pr26:Analytic.JointCoherentExceptionalSides::sideReference_literal@532 — sideReference_literal](../records/0178.md#pr26-analytic-jointcoherentexceptionalsides-sidereference-literal-ad411de12f)
 - [pr26:Analytic.JointCoherentExceptionalSides::sideSubset@500 — sideSubset](../records/0178.md#pr26-analytic-jointcoherentexceptionalsides-sidesubset-500-715ef5a6aa)
-- [pr26:Analytic.JointCoherentExceptionalSides::side_equal_support@506 — side_equal_support](../records/0178.md#pr26-analytic-jointcoherentexceptionalsides-side-equal-support-50-207178c7f9)
-- [pr26:Analytic.JointCoherentExceptionalSides::side_modulus@512 — side_modulus](../records/0178.md#pr26-analytic-jointcoherentexceptionalsides-side-modulus-512-44a6f752fb)
-- [pr26:Analytic.JointCoherentExceptionalSides::side_reference_powers@523 — side_reference_powers](../records/0178.md#pr26-analytic-jointcoherentexceptionalsides-side-reference-powers-ac047ec555)
-- [pr26:Analytic.JointCoherentExceptionalSides::sourceChild_sideReference@538 — sourceChild_sideReference](../records/0178.md#pr26-analytic-jointcoherentexceptionalsides-sourcechild-siderefer-ca9fcaa30d)
+- [pr26:Analytic.JointCoherentExceptionalSides::side_equal_support@506 — side_equal_support](../records/0179.md#pr26-analytic-jointcoherentexceptionalsides-side-equal-support-50-207178c7f9)
+- [pr26:Analytic.JointCoherentExceptionalSides::side_modulus@512 — side_modulus](../records/0179.md#pr26-analytic-jointcoherentexceptionalsides-side-modulus-512-44a6f752fb)
+- [pr26:Analytic.JointCoherentExceptionalSides::side_reference_powers@523 — side_reference_powers](../records/0179.md#pr26-analytic-jointcoherentexceptionalsides-side-reference-powers-ac047ec555)
+- [pr26:Analytic.JointCoherentExceptionalSides::sourceChild_sideReference@538 — sourceChild_sideReference](../records/0179.md#pr26-analytic-jointcoherentexceptionalsides-sourcechild-siderefer-ca9fcaa30d)
 - [pr26:Analytic.JointCoherentExceptionalSum — Analytic.JointCoherentExceptionalSum](../records/0179.md#pr26-analytic-jointcoherentexceptionalsum-d8cc8f2303)
 - [pr26:Analytic.JointCoherentExceptionalSum::actual_first_coherent_exceptional_sum@170 — actual_first_coherent_exceptional_sum](../records/0179.md#pr26-analytic-jointcoherentexceptionalsum-actual-first-coherent-e-4f511ac3b7)
 - [pr26:Analytic.JointCoherentExceptionalUniform — Analytic.JointCoherentExceptionalUniform](../records/0179.md#pr26-analytic-jointcoherentexceptionaluniform-00d07a5092)
@@ -185,10 +189,10 @@ Page 55/71; 17587 matching records.
 - [pr26:Analytic.JointDictionaryDensity::jointNaturalZeroBin@493 — jointNaturalZeroBin](../records/0179.md#pr26-analytic-jointdictionarydensity-jointnaturalzerobin-493-a2aef92fc2)
 - [pr26:Analytic.JointDictionaryDensity::jointNaturalZeroBin_iff@499 — jointNaturalZeroBin_iff](../records/0179.md#pr26-analytic-jointdictionarydensity-jointnaturalzerobin-iff-499-645a2960b3)
 - [pr26:Analytic.JointDictionaryDensity::jointNatural_momentData_mask@462 — jointNatural_momentData_mask](../records/0179.md#pr26-analytic-jointdictionarydensity-jointnatural-momentdata-mask-02b62f2fe1)
-- [pr26:Analytic.JointDictionaryDensity::jointNatural_nonprincipal@450 — jointNatural_nonprincipal](../records/0179.md#pr26-analytic-jointdictionarydensity-jointnatural-nonprincipal-45-43aa60f5b9)
-- [pr26:Analytic.JointDictionaryDensity::jointNatural_zeroMaximum@484 — jointNatural_zeroMaximum](../records/0179.md#pr26-analytic-jointdictionarydensity-jointnatural-zeromaximum-484-bb258acf20)
-- [pr26:Analytic.JointDictionaryDensity::jointParentDictionary@221 — jointParentDictionary](../records/0179.md#pr26-analytic-jointdictionarydensity-jointparentdictionary-221-513e4badd8)
-- [pr26:Analytic.JointDictionaryDensity::jointParentDictionary_base_mem@241 — jointParentDictionary_base_mem](../records/0179.md#pr26-analytic-jointdictionarydensity-jointparentdictionary-base-m-9bac04e008)
+- [pr26:Analytic.JointDictionaryDensity::jointNatural_nonprincipal@450 — jointNatural_nonprincipal](../records/0180.md#pr26-analytic-jointdictionarydensity-jointnatural-nonprincipal-45-43aa60f5b9)
+- [pr26:Analytic.JointDictionaryDensity::jointNatural_zeroMaximum@484 — jointNatural_zeroMaximum](../records/0180.md#pr26-analytic-jointdictionarydensity-jointnatural-zeromaximum-484-bb258acf20)
+- [pr26:Analytic.JointDictionaryDensity::jointParentDictionary@221 — jointParentDictionary](../records/0180.md#pr26-analytic-jointdictionarydensity-jointparentdictionary-221-513e4badd8)
+- [pr26:Analytic.JointDictionaryDensity::jointParentDictionary_base_mem@241 — jointParentDictionary_base_mem](../records/0180.md#pr26-analytic-jointdictionarydensity-jointparentdictionary-base-m-9bac04e008)
 - [pr26:Analytic.JointDictionaryDensity::jointParentDictionary_fixedQ@227 — jointParentDictionary_fixedQ](../records/0180.md#pr26-analytic-jointdictionarydensity-jointparentdictionary-fixedq-766bdfc755)
 - [pr26:Analytic.JointDictionaryDensity::jointParentDictionary_inducing_iff@275 — jointParentDictionary_inducing_iff](../records/0180.md#pr26-analytic-jointdictionarydensity-jointparentdictionary-induci-0ae162d830)
 - [pr26:Analytic.JointDictionaryDensity::jointParentDictionary_reflect@316 — jointParentDictionary_reflect](../records/0180.md#pr26-analytic-jointdictionarydensity-jointparentdictionary-reflec-0f94708ee9)
@@ -254,7 +258,3 @@ Page 55/71; 17587 matching records.
 - [pr26:Analytic.JointExceptionalLedger — Analytic.JointExceptionalLedger](../records/0180.md#pr26-analytic-jointexceptionalledger-160add6f99)
 - [pr26:Analytic.JointExceptionalLedger::actual_enlarged_first_saving@575 — actual_enlarged_first_saving](../records/0180.md#pr26-analytic-jointexceptionalledger-actual-enlarged-first-saving-82f35aef81)
 - [pr26:Analytic.JointExceptionalLedger::actual_local_exceptional_error_child@638 — actual_local_exceptional_error_child](../records/0180.md#pr26-analytic-jointexceptionalledger-actual-local-exceptional-err-08745a0c53)
-- [pr26:Analytic.JointExceptionalLedger::actual_local_exceptional_stage@603 — actual_local_exceptional_stage](../records/0180.md#pr26-analytic-jointexceptionalledger-actual-local-exceptional-sta-6601a2b56b)
-- [pr26:Analytic.JointExceptionalLedger::enlargedFirstSaving@567 — enlargedFirstSaving](../records/0180.md#pr26-analytic-jointexceptionalledger-enlargedfirstsaving-567-221f4a32a8)
-- [pr26:Analytic.JointExceptionalLocalContribution — Analytic.JointExceptionalLocalContribution](../records/0180.md#pr26-analytic-jointexceptionallocalcontribution-6bb1bf40a3)
-- [pr26:Analytic.JointExceptionalLocalContribution::actual_local_main_exceptional_contribution@145 — actual_local_main_exceptional_contribution](../records/0180.md#pr26-analytic-jointexceptionallocalcontribution-actual-local-main-1dbd509b85)

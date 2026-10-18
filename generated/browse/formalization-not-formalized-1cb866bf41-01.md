@@ -12,4 +12,4 @@ Page 1/1; 9 matching records.
 - [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0173.md#local-g245-5bef916afc)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0173.md#local-g246-8dd56008a9)
 - [local:G247 — G247. Smooth-factor exposure projection with complete residual payment](../records/0173.md#local-g247-bd48e9ab10)
-- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0173.md#local-g248-3d1e6b9334)
+- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0174.md#local-g248-3d1e6b9334)

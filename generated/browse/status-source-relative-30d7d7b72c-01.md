@@ -2,7 +2,7 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 850 matching records.
+Page 1/4; 854 matching records.
 
 [Next](status-source-relative-30d7d7b72c-02.md)
 
@@ -192,6 +192,10 @@ Page 1/4; 850 matching records.
 - [QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE — General affine-envelope all-bin leakage closure from the same complete signed source](../records/0131.md#qrh-cont-r092-affine-all-bin-leakage-63a9ea2214)
 - [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
 - [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
+- [QRH-CONT-R096-COMMON-SQUAREPART-PAIRED-MASS — General common-squarepart paired mass and complete orientation-sector bounds](../records/0131.md#qrh-cont-r096-common-squarepart-paired-mass-84bb7f2a29)
+- [QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE — Complete sixth-free cubic-column norm and actual one-prime-core moment](../records/0131.md#qrh-cont-r097-sixth-free-cubic-prime-core-9301ff34a6)
+- [QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING — Uniform growing punctures, individual-squarepart moments and whole-residual conditional pruning](../records/0131.md#qrh-cont-r098-uniform-squarepart-cofactor-pruning-a2c7202877)
+- [QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT — Complete logarithmic commutator, square-convolved prime source and general fixed-power moment envelope](../records/0131.md#qrh-cont-r099-complete-log-commutator-prime-moment-eb681529c2)
 - [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0138.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0138.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
 - [local-section:01b1b466a00885bebb7922e2 — 5.1 The entire coarse estimate fails by a specific power](../records/0138.md#local-section-01b1b466a00885bebb7922e2-60b33f7786)
@@ -226,7 +230,7 @@ Page 1/4; 850 matching records.
 - [local-section:13871c7096f8eddfd61abf55 — \[research revision\]: a complete repetition-layer sieve estimate](../records/0140.md#local-section-13871c7096f8eddfd61abf55-adeeade553)
 - [local-section:15307c37cc17059e89e17bc7 — 69. Labelled sieve layers and their unlabelled obstruction](../records/0140.md#local-section-15307c37cc17059e89e17bc7-622826e95b)
 - [local-section:15342f90ef2310d9eecd3acd — 56. Compensated square sources and complete collision payment](../records/0140.md#local-section-15342f90ef2310d9eecd3acd-e0f079b15b)
-- [local-section:15fefc8a6ea7d010c5da0d40 — G161. A fixed replacement budget leaves a large actual residual](../records/0140.md#local-section-15fefc8a6ea7d010c5da0d40-5fe9fa56e2)
+- [local-section:15fefc8a6ea7d010c5da0d40 — G161. A fixed replacement budget leaves a large actual residual](../records/0141.md#local-section-15fefc8a6ea7d010c5da0d40-5fe9fa56e2)
 - [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0141.md#local-section-160b4939857b2accee77efb9-442b8b8857)
 - [local-section:1734be7826b7453008d12d69 — \[research revision\]: the actual completed-detector prefix](../records/0141.md#local-section-1734be7826b7453008d12d69-71ffe60184)
 - [local-section:18f6aa2dbed6cd91e88f54c4 — Independent outside-band review](../records/0141.md#local-section-18f6aa2dbed6cd91e88f54c4-455f9d3a63)
@@ -241,9 +245,9 @@ Page 1/4; 850 matching records.
 - [local-section:1cfd335cb0fa6708c15b4db1 — Signed readouts, paid prime cutoffs and actual positive Gram prices](../records/0141.md#local-section-1cfd335cb0fa6708c15b4db1-e0609bdb72)
 - [local-section:1d317d33156da35cd674c73f — 1. Decision](../records/0141.md#local-section-1d317d33156da35cd674c73f-94fd430163)
 - [local-section:1d5aae19717c73822404dd91 — 1. Frozen scope, chronology, and calibration](../records/0141.md#local-section-1d5aae19717c73822404dd91-de2cf526c7)
-- [local-section:1d95117d64900641885532ae — 3. Exact arithmetic reconstruction of the complete detector](../records/0141.md#local-section-1d95117d64900641885532ae-b29e801e08)
-- [local-section:1dbbb4fb1a1497c48a525473 — 41. A paid prefix of the completed inverse detector](../records/0141.md#local-section-1dbbb4fb1a1497c48a525473-1035e43120)
-- [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0141.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
+- [local-section:1d95117d64900641885532ae — 3. Exact arithmetic reconstruction of the complete detector](../records/0142.md#local-section-1d95117d64900641885532ae-b29e801e08)
+- [local-section:1dbbb4fb1a1497c48a525473 — 41. A paid prefix of the completed inverse detector](../records/0142.md#local-section-1dbbb4fb1a1497c48a525473-1035e43120)
+- [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0142.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
 - [local-section:1e1dbff162c029be9f0632cb — 4. Full row conductor and a general summation lemma](../records/0142.md#local-section-1e1dbff162c029be9f0632cb-ba229c7981)
 - [local-section:1e6d72dedb556bb6220e7f55 — G219. Actual principal channels and the cheapest generic price](../records/0142.md#local-section-1e6d72dedb556bb6220e7f55-22ea2ac91d)
 - [local-section:1e91e640810749e95376eb4a — Uniform arithmetic supply](../records/0142.md#local-section-1e91e640810749e95376eb4a-d7dad81793)
@@ -252,7 +256,3 @@ Page 1/4; 850 matching records.
 - [local-section:22408ad9a6780484dea105f6 — 2.3 Moving shell and price of the observed scale](../records/0142.md#local-section-22408ad9a6780484dea105f6-a4c350f734)
 - [local-section:225669f8b1c71da81acaa1df — 2. A/S03: a fully paid moving-order Riesz return](../records/0142.md#local-section-225669f8b1c71da81acaa1df-4973280aea)
 - [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
-- [local-section:2307cdd82fded7bb6a50af0e — \[research revision\]: a paid reduction to simultaneous separated inverse witnesses](../records/0142.md#local-section-2307cdd82fded7bb6a50af0e-05d1c515d8)
-- [local-section:23b98763ff7d93f6a876cae0 — Quaternion norm applied to the complete Jordan source](../records/0142.md#local-section-23b98763ff7d93f6a876cae0-b5d89f2b62)
-- [local-section:23cf106a6cab5ee1d344920b — \[research revision\] independent review: exact depth of the W67 absolute residual bill](../records/0142.md#local-section-23cf106a6cab5ee1d344920b-2cb71f44a5)
-- [local-section:23eff95a515b438b71738534 — Independent review: curved additive Laplace source](../records/0142.md#local-section-23eff95a515b438b71738534-fbea372025)

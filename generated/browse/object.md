@@ -14,7 +14,7 @@
 - [additive-twisted detector bank (1)](object-additive-twisted-detector-bank-7096c058c0-01.md)
 - [all-character Mertens family (1)](object-all-character-mertens-family-315dd7766b-01.md)
 - [canonical native slot bank (1)](object-canonical-native-slot-bank-adccdba1d6-01.md)
-- [cofactor (403)](object-cofactor-ae47dca907-01.md)
+- [cofactor (405)](object-cofactor-ae47dca907-01.md)
 - [complete Laplace window energy (1)](object-complete-laplace-window-energy-f35aa91acc-01.md)
 - [complete exponential covariance (1)](object-complete-exponential-covariance-90366d0d5a-01.md)
 - [complete nonlinear Mobius field (1)](object-complete-nonlinear-mobius-field-af86e30366-01.md)

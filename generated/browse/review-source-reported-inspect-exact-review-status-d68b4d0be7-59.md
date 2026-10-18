@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 59/71; 17587 matching records.
+Page 59/71; 17591 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-58.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-60.md)
 
+- [pr26:Analytic.JointLowFirstBlocks — Analytic.JointLowFirstBlocks](../records/0188.md#pr26-analytic-jointlowfirstblocks-519184c2bd)
+- [pr26:Analytic.JointLowFirstBlocks::FirstJointLabel.activeWidth_normValue@776 — FirstJointLabel.activeWidth_normValue](../records/0188.md#pr26-analytic-jointlowfirstblocks-firstjointlabel-activewidth-nor-69e39e5419)
+- [pr26:Analytic.JointLowFirstBlocks::FirstJointLabel.punctureWidth_normValue@780 — FirstJointLabel.punctureWidth_normValue](../records/0188.md#pr26-analytic-jointlowfirstblocks-firstjointlabel-puncturewidth-n-c7ba6d8e53)
+- [pr26:Analytic.JointLowFirstBlocks::firstLowBinBlock@798 — firstLowBinBlock](../records/0188.md#pr26-analytic-jointlowfirstblocks-firstlowbinblock-798-6c54057f4b)
 - [pr26:Analytic.JointLowFirstBlocks::firstLowMainScale@785 — firstLowMainScale](../records/0188.md#pr26-analytic-jointlowfirstblocks-firstlowmainscale-785-7535353dc9)
 - [pr26:Analytic.JointLowFirstBlocks::firstLowRadius@791 — firstLowRadius](../records/0188.md#pr26-analytic-jointlowfirstblocks-firstlowradius-791-122db2d2f2)
 - [pr26:Analytic.JointLowFirstBlocks::first_source_selected_seed@766 — first_source_selected_seed](../records/0188.md#pr26-analytic-jointlowfirstblocks-first-source-selected-seed-766-96eda2bc59)
@@ -85,10 +89,10 @@ Page 59/71; 17587 matching records.
 - [pr26:Analytic.JointLowPairedValues — Analytic.JointLowPairedValues](../records/0188.md#pr26-analytic-jointlowpairedvalues-a5a67e3f7a)
 - [pr26:Analytic.JointLowPairedValues::actual_common_second_paired_values@69 — actual_common_second_paired_values](../records/0188.md#pr26-analytic-jointlowpairedvalues-actual-common-second-paired-va-d3dc3278d8)
 - [pr26:Analytic.JointLowPairedValues::second_value_volume_root@53 — second_value_volume_root](../records/0188.md#pr26-analytic-jointlowpairedvalues-second-value-volume-root-53-871e704aaf)
-- [pr26:Analytic.JointLowPhysicalAggregate — Analytic.JointLowPhysicalAggregate](../records/0188.md#pr26-analytic-jointlowphysicalaggregate-042fd2fd3a)
-- [pr26:Analytic.JointLowPhysicalAggregate::activePhysicalRows@55 — activePhysicalRows](../records/0188.md#pr26-analytic-jointlowphysicalaggregate-activephysicalrows-55-bfd0704e67)
-- [pr26:Analytic.JointLowPhysicalAggregate::activePhysicalRows_bin_partition@79 — activePhysicalRows_bin_partition](../records/0188.md#pr26-analytic-jointlowphysicalaggregate-activephysicalrows-bin-pa-a9812a14e1)
-- [pr26:Analytic.JointLowPhysicalAggregate::activePhysicalRows_eq_dyadic_filter@103 — activePhysicalRows_eq_dyadic_filter](../records/0188.md#pr26-analytic-jointlowphysicalaggregate-activephysicalrows-eq-dya-b3ed144c80)
+- [pr26:Analytic.JointLowPhysicalAggregate — Analytic.JointLowPhysicalAggregate](../records/0189.md#pr26-analytic-jointlowphysicalaggregate-042fd2fd3a)
+- [pr26:Analytic.JointLowPhysicalAggregate::activePhysicalRows@55 — activePhysicalRows](../records/0189.md#pr26-analytic-jointlowphysicalaggregate-activephysicalrows-55-bfd0704e67)
+- [pr26:Analytic.JointLowPhysicalAggregate::activePhysicalRows_bin_partition@79 — activePhysicalRows_bin_partition](../records/0189.md#pr26-analytic-jointlowphysicalaggregate-activephysicalrows-bin-pa-a9812a14e1)
+- [pr26:Analytic.JointLowPhysicalAggregate::activePhysicalRows_eq_dyadic_filter@103 — activePhysicalRows_eq_dyadic_filter](../records/0189.md#pr26-analytic-jointlowphysicalaggregate-activephysicalrows-eq-dya-b3ed144c80)
 - [pr26:Analytic.JointLowPhysicalAggregate::activePhysicalRows_projected_majorant@174 — activePhysicalRows_projected_majorant](../records/0189.md#pr26-analytic-jointlowphysicalaggregate-activephysicalrows-projec-b10440db4a)
 - [pr26:Analytic.JointLowPhysicalAggregate::actualSecondBlocks_eq_rows@68 — actualSecondBlocks_eq_rows](../records/0189.md#pr26-analytic-jointlowphysicalaggregate-actualsecondblocks-eq-row-a33c4a316e)
 - [pr26:Analytic.JointLowPhysicalAggregate::actualSecondProjectors@143 — actualSecondProjectors](../records/0189.md#pr26-analytic-jointlowphysicalaggregate-actualsecondprojectors-14-e4c66853eb)
@@ -185,10 +189,10 @@ Page 59/71; 17587 matching records.
 - [pr26:Analytic.JointOriginalComparisonDeleted::local_comparison_deleted_energy@967 — local_comparison_deleted_energy](../records/0189.md#pr26-analytic-jointoriginalcomparisondeleted-local-comparison-del-b560ff9265)
 - [pr26:Analytic.JointOriginalComparisonExplicitMesh — Analytic.JointOriginalComparisonExplicitMesh](../records/0189.md#pr26-analytic-jointoriginalcomparisonexplicitmesh-0a4c9f0e35)
 - [pr26:Analytic.JointOriginalComparisonExplicitMesh::actual_local_comparison_energy_explicit_mesh@672 — actual_local_comparison_energy_explicit_mesh](../records/0189.md#pr26-analytic-jointoriginalcomparisonexplicitmesh-actual-local-co-b0d7a60ca4)
-- [pr26:Analytic.JointOriginalComparisonGeometry — Analytic.JointOriginalComparisonGeometry](../records/0189.md#pr26-analytic-jointoriginalcomparisongeometry-a33aae2ab1)
-- [pr26:Analytic.JointOriginalComparisonGeometry::local_comparison_deleted_gates@99 — local_comparison_deleted_gates](../records/0189.md#pr26-analytic-jointoriginalcomparisongeometry-local-comparison-de-0158419f46)
-- [pr26:Analytic.JointOriginalComparisonOriginal — Analytic.JointOriginalComparisonOriginal](../records/0189.md#pr26-analytic-jointoriginalcomparisonoriginal-de79bc2c48)
-- [pr26:Analytic.JointOriginalComparisonOriginal::local_comparison_original_energy@213 — local_comparison_original_energy](../records/0189.md#pr26-analytic-jointoriginalcomparisonoriginal-local-comparison-or-a41a8785c9)
+- [pr26:Analytic.JointOriginalComparisonGeometry — Analytic.JointOriginalComparisonGeometry](../records/0190.md#pr26-analytic-jointoriginalcomparisongeometry-a33aae2ab1)
+- [pr26:Analytic.JointOriginalComparisonGeometry::local_comparison_deleted_gates@99 — local_comparison_deleted_gates](../records/0190.md#pr26-analytic-jointoriginalcomparisongeometry-local-comparison-de-0158419f46)
+- [pr26:Analytic.JointOriginalComparisonOriginal — Analytic.JointOriginalComparisonOriginal](../records/0190.md#pr26-analytic-jointoriginalcomparisonoriginal-de79bc2c48)
+- [pr26:Analytic.JointOriginalComparisonOriginal::local_comparison_original_energy@213 — local_comparison_original_energy](../records/0190.md#pr26-analytic-jointoriginalcomparisonoriginal-local-comparison-or-a41a8785c9)
 - [pr26:Analytic.JointOriginalComparisonPower — Analytic.JointOriginalComparisonPower](../records/0190.md#pr26-analytic-jointoriginalcomparisonpower-e61bcf2c12)
 - [pr26:Analytic.JointOriginalComparisonPower::local_comparison_power_from_low@1138 — local_comparison_power_from_low](../records/0190.md#pr26-analytic-jointoriginalcomparisonpower-local-comparison-power-4355f9c068)
 - [pr26:Analytic.JointPacketFirstGates — Analytic.JointPacketFirstGates](../records/0190.md#pr26-analytic-jointpacketfirstgates-ec70a8aa11)
@@ -254,7 +258,3 @@ Page 59/71; 17587 matching records.
 - [pr26:Analytic.JointRelativeDictionary::jointRelative_ray_nonprincipal@444 — jointRelative_ray_nonprincipal](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-ray-nonprinci-e920f269d0)
 - [pr26:Analytic.JointRelativeDictionary::jointRelative_ray_sector_coeff@413 — jointRelative_ray_sector_coeff](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-ray-sector-co-a64c86ad5b)
 - [pr26:Analytic.JointRelativeDictionary::jointRelative_ray_zeroMaximum_le@460 — jointRelative_ray_zeroMaximum_le](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-ray-zeromaxim-38e1765782)
-- [pr26:Analytic.JointRelativeDictionary::jointRelative_selected_mask@317 — jointRelative_selected_mask](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-selected-mask-23069a0f18)
-- [pr26:Analytic.JointRelativeDictionary::jointRelative_selected_mem_rawZeroBin@355 — jointRelative_selected_mem_rawZeroBin](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-selected-mem--df4cec93dc)
-- [pr26:Analytic.JointRelativeDictionary::jointRelative_selected_nonprincipal@328 — jointRelative_selected_nonprincipal](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-selected-nonp-097bcd2ed2)
-- [pr26:Analytic.JointRelativeDictionary::jointRelative_selected_positive_zeros@339 — jointRelative_selected_positive_zeros](../records/0190.md#pr26-analytic-jointrelativedictionary-jointrelative-selected-posi-6798e5a46c)

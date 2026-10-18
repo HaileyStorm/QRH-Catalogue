@@ -2,12 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 63/71; 17587 matching records.
+Page 63/71; 17591 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-62.md)
 
 [Next](review-source-reported-inspect-exact-review-status-d68b4d0be7-64.md)
 
+- [pr26:Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFixedIdeal::weighted_sourceExceptional@59 — weighted_sourceExceptional](../records/0198.md#pr26-cycle25-assembly-count-momentnaturalfixedraysourcefixedideal-2992b4caac)
+- [pr26:Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFixedIdeal::weighted_sourceFixedIdeal@37 — weighted_sourceFixedIdeal](../records/0198.md#pr26-cycle25-assembly-count-momentnaturalfixedraysourcefixedideal-64f9687841)
+- [pr26:Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFixedIdeal::weighted_sourceFixedIdeal_le_72@57 — weighted_sourceFixedIdeal_le_72](../records/0198.md#pr26-cycle25-assembly-count-momentnaturalfixedraysourcefixedideal-ff33dc0f56)
+- [pr26:Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFixedIdeal::weighted_sourceFixedIdeal_le_modulus@56 — weighted_sourceFixedIdeal_le_modulus](../records/0198.md#pr26-cycle25-assembly-count-momentnaturalfixedraysourcefixedideal-dda7b39b32)
 - [pr26:Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFixedIdeal::weighted_sourceFixedIdeal_ne_top@44 — weighted_sourceFixedIdeal_ne_top](../records/0198.md#pr26-cycle25-assembly-count-momentnaturalfixedraysourcefixedideal-1bf5e3045c)
 - [pr26:Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFixedIdeal::weighted_sourceFixedIdeal_ne_zero@40 — weighted_sourceFixedIdeal_ne_zero](../records/0198.md#pr26-cycle25-assembly-count-momentnaturalfixedraysourcefixedideal-d1ac19b345)
 - [pr26:Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFreeExceptional — Cycle25.Assembly.Count.MomentNaturalFixedRaySourceFreeExceptional](../records/0198.md#pr26-cycle25-assembly-count-momentnaturalfixedraysourcefreeexcept-30e797ed92)
@@ -85,10 +89,10 @@ Page 63/71; 17587 matching records.
 - [pr26:Cycle25.Assembly.Parameters::h_interval@187 — h_interval](../records/0198.md#pr26-cycle25-assembly-parameters-h-interval-187-328cde2a58)
 - [pr26:Cycle25.Assembly.Parameters::h_lt_one@219 — h_lt_one](../records/0198.md#pr26-cycle25-assembly-parameters-h-lt-one-219-c1e6ece392)
 - [pr26:Cycle25.Assembly.Parameters::h_pos@217 — h_pos](../records/0198.md#pr26-cycle25-assembly-parameters-h-pos-217-9cd0f5ae9b)
-- [pr26:Cycle25.Assembly.Parameters::length_difference@194 — length_difference](../records/0198.md#pr26-cycle25-assembly-parameters-length-difference-194-3190c4c930)
-- [pr26:Cycle25.Assembly.Parameters::length_sum@193 — length_sum](../records/0198.md#pr26-cycle25-assembly-parameters-length-sum-193-fc4edcd2e1)
-- [pr26:Cycle25.Assembly.Parameters::low_rescaled_identity@249 — low_rescaled_identity](../records/0198.md#pr26-cycle25-assembly-parameters-low-rescaled-identity-249-c9ac52afa8)
-- [pr26:Cycle25.Assembly.Parameters::low_rescaled_tuple@245 — low_rescaled_tuple](../records/0198.md#pr26-cycle25-assembly-parameters-low-rescaled-tuple-245-6796d88cdb)
+- [pr26:Cycle25.Assembly.Parameters::length_difference@194 — length_difference](../records/0199.md#pr26-cycle25-assembly-parameters-length-difference-194-3190c4c930)
+- [pr26:Cycle25.Assembly.Parameters::length_sum@193 — length_sum](../records/0199.md#pr26-cycle25-assembly-parameters-length-sum-193-fc4edcd2e1)
+- [pr26:Cycle25.Assembly.Parameters::low_rescaled_identity@249 — low_rescaled_identity](../records/0199.md#pr26-cycle25-assembly-parameters-low-rescaled-identity-249-c9ac52afa8)
+- [pr26:Cycle25.Assembly.Parameters::low_rescaled_tuple@245 — low_rescaled_tuple](../records/0199.md#pr26-cycle25-assembly-parameters-low-rescaled-tuple-245-6796d88cdb)
 - [pr26:Cycle25.Assembly.Parameters::lx@178 — lx](../records/0199.md#pr26-cycle25-assembly-parameters-lx-178-11fe07631d)
 - [pr26:Cycle25.Assembly.Parameters::ly@179 — ly](../records/0199.md#pr26-cycle25-assembly-parameters-ly-179-976c8093ba)
 - [pr26:Cycle25.Assembly.Parameters::ly_coarse@208 — ly_coarse](../records/0199.md#pr26-cycle25-assembly-parameters-ly-coarse-208-d6efbbeb6e)
@@ -185,10 +189,10 @@ Page 63/71; 17587 matching records.
 - [pr26:Cycle25.Energy.OriginalHighReflectionBounded — Cycle25.Energy.OriginalHighReflectionBounded](../records/0199.md#pr26-cycle25-energy-originalhighreflectionbounded-c7fee7b8b9)
 - [pr26:Cycle25.Energy.OriginalHighReflectionBounded::original_high_power@359 — original_high_power](../records/0199.md#pr26-cycle25-energy-originalhighreflectionbounded-original-high-p-d22bcbe13d)
 - [pr26:Cycle25.Energy.OriginalHighReflectionDeleted — Cycle25.Energy.OriginalHighReflectionDeleted](../records/0199.md#pr26-cycle25-energy-originalhighreflectiondeleted-22dca669c7)
-- [pr26:Cycle25.Energy.OriginalHighReflectionDeleted::deleted_original_from_low@488 — deleted_original_from_low](../records/0199.md#pr26-cycle25-energy-originalhighreflectiondeleted-deleted-origina-5595a11494)
-- [pr26:Cycle25.Energy.OriginalHighReflectionGeometry — Cycle25.Energy.OriginalHighReflectionGeometry](../records/0199.md#pr26-cycle25-energy-originalhighreflectiongeometry-d0c37ce196)
-- [pr26:Cycle25.Energy.OriginalHighReflectionGeometry::actual_deleted_gates@466 — actual_deleted_gates](../records/0199.md#pr26-cycle25-energy-originalhighreflectiongeometry-actual-deleted-70368b65cb)
-- [pr26:Cycle25.Energy.OriginalHighReflectionGeometry::deleted_length_le@461 — deleted_length_le](../records/0199.md#pr26-cycle25-energy-originalhighreflectiongeometry-deleted-length-69dcee3ddb)
+- [pr26:Cycle25.Energy.OriginalHighReflectionDeleted::deleted_original_from_low@488 — deleted_original_from_low](../records/0200.md#pr26-cycle25-energy-originalhighreflectiondeleted-deleted-origina-5595a11494)
+- [pr26:Cycle25.Energy.OriginalHighReflectionGeometry — Cycle25.Energy.OriginalHighReflectionGeometry](../records/0200.md#pr26-cycle25-energy-originalhighreflectiongeometry-d0c37ce196)
+- [pr26:Cycle25.Energy.OriginalHighReflectionGeometry::actual_deleted_gates@466 — actual_deleted_gates](../records/0200.md#pr26-cycle25-energy-originalhighreflectiongeometry-actual-deleted-70368b65cb)
+- [pr26:Cycle25.Energy.OriginalHighReflectionGeometry::deleted_length_le@461 — deleted_length_le](../records/0200.md#pr26-cycle25-energy-originalhighreflectiongeometry-deleted-length-69dcee3ddb)
 - [pr26:Cycle25.Energy.OriginalHighReflectionGeometry::original_long_positive@442 — original_long_positive](../records/0200.md#pr26-cycle25-energy-originalhighreflectiongeometry-original-long--8e9060663b)
 - [pr26:Cycle25.Energy.OriginalHighReflectionOriginal — Cycle25.Energy.OriginalHighReflectionOriginal](../records/0200.md#pr26-cycle25-energy-originalhighreflectionoriginal-2868d56962)
 - [pr26:Cycle25.Energy.OriginalHighReflectionOriginal::original_high_from_low@49 — original_high_from_low](../records/0200.md#pr26-cycle25-energy-originalhighreflectionoriginal-original-high--6e3a063c51)
@@ -254,7 +258,3 @@ Page 63/71; 17587 matching records.
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_sourceFixedIdeal_ne_zero@560 — weighted_sourceFixedIdeal_ne_zero](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-sourcefixedidea-393dc0b2eb)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_exceptional_norm@586 — weighted_source_exceptional_norm](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-exceptio-52b20de1a8)
 - [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_fixed_gates@604 — weighted_source_fixed_gates](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-fixed-ga-06a605c9ca)
-- [pr26:Cycle25.Energy.Physical.SourceState::weighted_source_keep_iff@600 — weighted_source_keep_iff](../records/0200.md#pr26-cycle25-energy-physical-sourcestate-weighted-source-keep-iff-4bdc952848)
-- [pr26:Cycle25.Energy.Physical.Terminal — Cycle25.Energy.Physical.Terminal](../records/0200.md#pr26-cycle25-energy-physical-terminal-9e142ede8e)
-- [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_positive_energy@198 — weighted_terminal_positive_energy](../records/0200.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-positive--4792cce125)
-- [pr26:Cycle25.Energy.Physical.Terminal::weighted_terminal_zero_energy@224 — weighted_terminal_zero_energy](../records/0200.md#pr26-cycle25-energy-physical-terminal-weighted-terminal-zero-ener-4c240e3cd4)

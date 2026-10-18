@@ -2,19 +2,23 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 850 matching records.
+Page 4/4; 854 matching records.
 
 [Previous](status-source-relative-30d7d7b72c-03.md)
 
+- [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0174.md#local-g301-26a5fe5643)
+- [local:G302 — G302. Same-scale divisor-projection transfer for row-dependent masked moments](../records/0174.md#local-g302-083bb0aec3)
+- [local:G303 — G303. Unit-invariant additive and sign expansions of ideal masks with explicit level costs](../records/0174.md#local-g303-fdf949bbae)
+- [local:G304 — G304. Coupled density split and source-plane scalar family, with a comparison-selector exclusion](../records/0174.md#local-g304-913b942ee7)
 - [local:G305 — G305. Global positive-quadratic endpoint certificates with explicit denominator and domain gates](../records/0174.md#local-g305-cfe213f8d4)
 - [local:G306 — G306. Uniform inverse-amplifier constants and single prime-normalization repair](../records/0174.md#local-g306-6a98b46672)
 - [local:G307 — G307. Complete fifth Riesz banks and selected-square payment](../records/0174.md#local-g307-de7641143f)
 - [local:G308 — G308. Complete fifth hypothetical-zero Laurent residue return](../records/0174.md#local-g308-65cda3db23)
 - [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0174.md#local-g309-cb6cfa996e)
 - [local:G310 — G310. Fifth beta-profile adapter with complete positive Riesz return](../records/0174.md#local-g310-39134eeca1)
-- [local:N27.C — N27.C — Only corridor G≤C K^γ for fixed C, γ=(1−u)/(2+v), is necessary with full strip/profile family](../records/0174.md#local-n27-c-d83884e231)
-- [local:N27.D — N27.D — Partition by the first admissible intermediate divisor, keeping signed selector weights and exceptional empty fibres](../records/0174.md#local-n27-d-24f25e5823)
-- [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0174.md#local-n27-f-a63b19d62a)
+- [local:N27.C — N27.C — Only corridor G≤C K^γ for fixed C, γ=(1−u)/(2+v), is necessary with full strip/profile family](../records/0175.md#local-n27-c-d83884e231)
+- [local:N27.D — N27.D — Partition by the first admissible intermediate divisor, keeping signed selector weights and exceptional empty fibres](../records/0175.md#local-n27-d-24f25e5823)
+- [local:N27.F — N27.F — Actual FIN-weight uses exactly-once divisors; g1 still requires OM at scaleK, while large prime rows pastK are absent forG≤K](../records/0175.md#local-n27-f-a63b19d62a)
 - [local:N27.N1 — N27.N1 — Keep completed h-by-divisor selector before Cauchy; derive sufficient signed energy and addbacks, then seek a saving](../records/0175.md#local-n27-n1-e5983023c9)
 - [local:N27.P — N27.P — Complete a forced-prime-first dyad with full common core and actual row support; retain its principal term](../records/0175.md#local-n27-p-fedd36bba9)
 - [local:N27.X — N27.X — Bound exceptional FIN mass with both its amplitude and actual divisor incidence](../records/0175.md#local-n27-x-17aaf1a58a)
@@ -86,10 +90,10 @@ Page 4/4; 850 matching records.
 - [reviewed-claim:T08-fixed-buffer — \[research revision\]-claim:T08-fixed-buffer](../records/0218.md#reviewed-claim-t08-fixed-buffer-adde43a7ae)
 - [reviewed-claim:T08-rational-targets — \[research revision\]-claim:T08-rational-targets](../records/0218.md#reviewed-claim-t08-rational-targets-ce0ce086b2)
 - [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
-- [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0218.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
-- [reviewed-claim:T09-frozen-balanced-form — \[research revision\]-claim:T09-frozen-balanced-form](../records/0218.md#reviewed-claim-t09-frozen-balanced-form-4cbdb603b9)
-- [reviewed-claim:T09-full-shift-kernel — \[research revision\]-claim:T09-full-shift-kernel](../records/0218.md#reviewed-claim-t09-full-shift-kernel-98ad734238)
-- [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0218.md#reviewed-claim-t10-continuum-69e758bd43)
+- [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0219.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
+- [reviewed-claim:T09-frozen-balanced-form — \[research revision\]-claim:T09-frozen-balanced-form](../records/0219.md#reviewed-claim-t09-frozen-balanced-form-4cbdb603b9)
+- [reviewed-claim:T09-full-shift-kernel — \[research revision\]-claim:T09-full-shift-kernel](../records/0219.md#reviewed-claim-t09-full-shift-kernel-98ad734238)
+- [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0219.md#reviewed-claim-t10-continuum-69e758bd43)
 - [reviewed-claim:T10-continuum-reciprocal — \[research revision\]-claim:T10-continuum-reciprocal](../records/0219.md#reviewed-claim-t10-continuum-reciprocal-58e80583f4)
 - [reviewed-claim:T10-dilation-compatibility — \[research revision\]-claim:T10-dilation-compatibility](../records/0219.md#reviewed-claim-t10-dilation-compatibility-45a4194680)
 - [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0219.md#reviewed-claim-t10-two-dilations-33adf7cbdb)

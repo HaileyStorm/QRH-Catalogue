@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1075 matching records.
+Page 5/5; 1076 matching records.
 
 [Previous](method-mellin-093bcdf279-04.md)
 
+- [local:G196 — G196. The complete linked remainder and its weaker sufficient norm](../records/0173.md#local-g196-0d7a2adae2)
 - [local:G2 — G2 — uncapped free invention](../records/0173.md#local-g2-2c857fea19)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
@@ -15,8 +16,8 @@ Page 5/5; 1075 matching records.
 - [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0173.md#local-g244-a12ada8918)
 - [local:G245 — G245. Primitive coprime Liouville source and complete complements](../records/0173.md#local-g245-5bef916afc)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0173.md#local-g246-8dd56008a9)
-- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0173.md#local-g249-33b0a017f2)
-- [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0173.md#local-g251-2e3e6366df)
+- [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0174.md#local-g249-33b0a017f2)
+- [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0174.md#local-g251-2e3e6366df)
 - [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0174.md#local-g252-64bd5a4ae5)
 - [local:G256 — G256. Fixed higher-order damping has a direct holomorphic Mellin remainder](../records/0174.md#local-g256-8c9a355c2d)
 - [local:G260 — G260. Complete fixed phase-average source and tail equivalence](../records/0174.md#local-g260-418dfb38b6)

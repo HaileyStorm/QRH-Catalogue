@@ -2,12 +2,16 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 3/4; 850 matching records.
+Page 3/4; 854 matching records.
 
 [Previous](status-source-relative-30d7d7b72c-02.md)
 
 [Next](status-source-relative-30d7d7b72c-04.md)
 
+- [local-section:ca5f329a5d30fe3b7f222f34 — 7. Complete complementary budget and unchanged open input](../records/0164.md#local-section-ca5f329a5d30fe3b7f222f34-9763e243d9)
+- [local-section:cc55a55277b297cfab4de4ea — 8. Retained alternatives and next action](../records/0164.md#local-section-cc55a55277b297cfab4de4ea-1171d7ba80)
+- [local-section:cd2400d36fc3d8eb07f26d11 — 44. A nonlinear source with a paid tail and a precise arithmetic core](../records/0164.md#local-section-cd2400d36fc3d8eb07f26d11-297d1ffae9)
+- [local-section:ce79ff125cae419586b8e902 — Independent recovery review of the partial \[research revision\] signed-core packet](../records/0164.md#local-section-ce79ff125cae419586b8e902-e77e328799)
 - [local-section:cefd46164c0c9a646c5f8170 — 5. Complete finite-core return and all-height numerator safety](../records/0164.md#local-section-cefd46164c0c9a646c5f8170-c523be6ef3)
 - [local-section:cfbae0a937d1df2bac752519 — R1. Verdict and useful progress](../records/0165.md#local-section-cfbae0a937d1df2bac752519-2ba05c80a7)
 - [local-section:d007df460bd0599e3860e5de — 9. Exact failures, credit and review request](../records/0165.md#local-section-d007df460bd0599e3860e5de-cf124b65a2)
@@ -44,7 +48,7 @@ Page 3/4; 850 matching records.
 - [local-section:e5038e2d0a02cecb8d571a63 — G153. Asymmetric completion and a one-Mobius core](../records/0167.md#local-section-e5038e2d0a02cecb8d571a63-a4eb6f83fe)
 - [local-section:e71b2dd438a2160f02860d1e — \[research revision\]: complete small-core C--C sectors](../records/0167.md#local-section-e71b2dd438a2160f02860d1e-eed6263560)
 - [local-section:e742cd33141580b1945e8da9 — 8. Actual supremum, failures and next action](../records/0167.md#local-section-e742cd33141580b1945e8da9-b68899b4c6)
-- [local-section:e792e01f43e2e75df07f8d40 — 7. The actual physical return and the remaining quantitative gap](../records/0167.md#local-section-e792e01f43e2e75df07f8d40-2b9a8e86b2)
+- [local-section:e792e01f43e2e75df07f8d40 — 7. The actual physical return and the remaining quantitative gap](../records/0168.md#local-section-e792e01f43e2e75df07f8d40-2b9a8e86b2)
 - [local-section:e974de538b54a5cd8918f39c — 2. Weighted coherent mass](../records/0168.md#local-section-e974de538b54a5cd8918f39c-0a77b4a015)
 - [local-section:e9c3caf70b9caa9e6310842f — 5. Full raw subclass and the priced complement](../records/0168.md#local-section-e9c3caf70b9caa9e6310842f-21a57850fa)
 - [local-section:e9c7398616ed75625807ee46 — Current proof architecture: conditional local-moment gains and routes onward](../records/0168.md#local-section-e9c7398616ed75625807ee46-aecf8a3f98)
@@ -83,7 +87,7 @@ Page 3/4; 850 matching records.
 - [local-section:fa206dfebde122b90d2b31bb — 39. Curved detector and a complete nonprincipal bank](../records/0170.md#local-section-fa206dfebde122b90d2b31bb-d4ffe66966)
 - [local-section:fcf26516ad547088eb751edd — Positive cofactor-hole absolute Gram: independent corollary check](../records/0170.md#local-section-fcf26516ad547088eb751edd-a5a177cdb6)
 - [local-section:fe29cc48f18a7ea5c9728c15 — 1. A fixed detector with a complete zero-exclusion return](../records/0170.md#local-section-fe29cc48f18a7ea5c9728c15-30f1e7726c)
-- [local-section:ff215c395176bdea54dd17fa — 60. Complete stationary cofactor payment and constant cuts](../records/0170.md#local-section-ff215c395176bdea54dd17fa-bbe4e34825)
+- [local-section:ff215c395176bdea54dd17fa — 60. Complete stationary cofactor payment and constant cuts](../records/0171.md#local-section-ff215c395176bdea54dd17fa-bbe4e34825)
 - [local:A01 — A01. The coherent unembedded nonzero sextic aggregate](../records/0171.md#local-a01-7fef3b9c0b)
 - [local:A02 — A02. Additional exact index and budget results](../records/0171.md#local-a02-e20ad4bdfd)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0171.md#local-a03-9e9a3d45e7)
@@ -160,9 +164,9 @@ Page 3/4; 850 matching records.
 - [local:F15.C — F15.C — Actual outgoing/incoming calibration and projected test, not another source-orthogonality argument](../records/0171.md#local-f15-c-7bee4f2f77)
 - [local:F15.D — F15.D — Weight cubeB byq_B^−ν; norm/period ratios known, completion formally shifts](../records/0171.md#local-f15-d-7317f62fb7)
 - [local:F15.G — F15.G — Current graph norm or squarefree reference tensor; cannot define norm by desired period](../records/0171.md#local-f15-g-52b988dceb)
-- [local:F15.I — F15.I — Two-prime CRT test for mixed/inverse-composite cusp; preserve nonunits, cube sharing and tails](../records/0171.md#local-f15-i-e9353fcab8)
-- [local:F15.S — F15.S — One squarefree vector, finite R balance or independently specified current image can escape whole-span obstruction](../records/0171.md#local-f15-s-f30014b308)
-- [local:F16.D — F16.D — Derivative in slot length is a new detector only if its principal residue survives and error powers change](../records/0171.md#local-f16-d-70ac9e7291)
+- [local:F15.I — F15.I — Two-prime CRT test for mixed/inverse-composite cusp; preserve nonunits, cube sharing and tails](../records/0172.md#local-f15-i-e9353fcab8)
+- [local:F15.S — F15.S — One squarefree vector, finite R balance or independently specified current image can escape whole-span obstruction](../records/0172.md#local-f15-s-f30014b308)
+- [local:F16.D — F16.D — Derivative in slot length is a new detector only if its principal residue survives and error powers change](../records/0172.md#local-f16-d-70ac9e7291)
 - [local:F16.J — F16.J — Extra Euler jet, second channel or repeated prime with preserved principal map; compute all6 valuations, bad places, collisions and coefficient/profile growth, then rerun full physical/numerator minimax](../records/0172.md#local-f16-j-131b4743fa)
 - [local:F16.X — F16.X — Reoptimization, smoothing or regrouping inside unchanged inequalities cannot improve c0](../records/0172.md#local-f16-x-f31523bbfe)
 - [local:F17.R — F17.R — Exact RTF/Kuznetsov for actual bilinear current or H-col, including cover/multiplier/level/cusp/angular type/residual spectrum](../records/0172.md#local-f17-r-45ae287054)
@@ -211,8 +215,8 @@ Page 3/4; 850 matching records.
 - [local:G140 — \[research revision\]: a nonlinear detector with a completely paid far tail (G140)](../records/0172.md#local-g140-88c35bf505)
 - [local:G142 — G142. Actual logarithmic improvement and the remaining complete core](../records/0172.md#local-g142-4979c64d6e)
 - [local:G146 — G146. The complete prefix is paid over the original slot interval](../records/0172.md#local-g146-fa0a5d0458)
-- [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0172.md#local-g149-643389d4ad)
-- [local:G152 — \[research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0172.md#local-g152-1776ec5c14)
+- [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0173.md#local-g149-643389d4ad)
+- [local:G152 — \[research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0173.md#local-g152-1776ec5c14)
 - [local:G153 — G153. Asymmetric completion and a one-Mobius core](../records/0173.md#local-g153-6b63015a37)
 - [local:G155 — \[research revision\]: paid parts of the separated mixed moment (G155)](../records/0173.md#local-g155-78ae9ec0c1)
 - [local:G158 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0173.md#local-g158-0d89940370)
@@ -254,7 +258,3 @@ Page 3/4; 850 matching records.
 - [local:G298 — G298. Fixed-depth periodic inverse and complete multivariate Abel payment](../records/0174.md#local-g298-3312f01d4a)
 - [local:G299 — G299. Signed minimum telescoping, erased zero signal and divergent positive inverse](../records/0174.md#local-g299-29e34bc7a7)
 - [local:G300 — G300. Ordinary finite-prime deflation and the scoped positive orbit identity](../records/0174.md#local-g300-bf7ee867fe)
-- [local:G301 — G301. Causal Euler bounds, finite-window leakage and fixed-mask RawMoment transfer](../records/0174.md#local-g301-26a5fe5643)
-- [local:G302 — G302. Same-scale divisor-projection transfer for row-dependent masked moments](../records/0174.md#local-g302-083bb0aec3)
-- [local:G303 — G303. Unit-invariant additive and sign expansions of ideal masks with explicit level costs](../records/0174.md#local-g303-fdf949bbae)
-- [local:G304 — G304. Coupled density split and source-plane scalar family, with a comparison-selector exclusion](../records/0174.md#local-g304-913b942ee7)

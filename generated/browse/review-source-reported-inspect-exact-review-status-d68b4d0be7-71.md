@@ -2,10 +2,14 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17587 matching records.
+Page 71/71; 17591 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_character_slot_bound@893 — natural_character_slot_bound](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-natural-characte-92475731ab)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_masked_positive_floor@1528 — natural_masked_positive_floor](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-natural-masked-p-2539102b90)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_pair_slots@1130 — natural_pair_slots](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-natural-pair-slo-07b521e943)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_ray_slots_uniform@951 — natural_ray_slots_uniform](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-natural-ray-slot-923fcef398)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_relative_slot_bound@855 — natural_relative_slot_bound](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-natural-relative-268730268b)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_slot_product@1020 — natural_slot_product](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-natural-slot-pro-878e4b8f96)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::nested_original_subsets_reference_paid@5731 — nested_original_subsets_reference_paid](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-nested-original--5c828f628d)
@@ -73,10 +77,10 @@ Page 71/71; 17587 matching records.
 - [reviewed-claim:T08-fixed-buffer — \[research revision\]-claim:T08-fixed-buffer](../records/0218.md#reviewed-claim-t08-fixed-buffer-adde43a7ae)
 - [reviewed-claim:T08-rational-targets — \[research revision\]-claim:T08-rational-targets](../records/0218.md#reviewed-claim-t08-rational-targets-ce0ce086b2)
 - [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
-- [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0218.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
-- [reviewed-claim:T09-frozen-balanced-form — \[research revision\]-claim:T09-frozen-balanced-form](../records/0218.md#reviewed-claim-t09-frozen-balanced-form-4cbdb603b9)
-- [reviewed-claim:T09-full-shift-kernel — \[research revision\]-claim:T09-full-shift-kernel](../records/0218.md#reviewed-claim-t09-full-shift-kernel-98ad734238)
-- [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0218.md#reviewed-claim-t10-continuum-69e758bd43)
+- [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0219.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
+- [reviewed-claim:T09-frozen-balanced-form — \[research revision\]-claim:T09-frozen-balanced-form](../records/0219.md#reviewed-claim-t09-frozen-balanced-form-4cbdb603b9)
+- [reviewed-claim:T09-full-shift-kernel — \[research revision\]-claim:T09-full-shift-kernel](../records/0219.md#reviewed-claim-t09-full-shift-kernel-98ad734238)
+- [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0219.md#reviewed-claim-t10-continuum-69e758bd43)
 - [reviewed-claim:T10-continuum-reciprocal — \[research revision\]-claim:T10-continuum-reciprocal](../records/0219.md#reviewed-claim-t10-continuum-reciprocal-58e80583f4)
 - [reviewed-claim:T10-dilation-compatibility — \[research revision\]-claim:T10-dilation-compatibility](../records/0219.md#reviewed-claim-t10-dilation-compatibility-45a4194680)
 - [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0219.md#reviewed-claim-t10-two-dilations-33adf7cbdb)

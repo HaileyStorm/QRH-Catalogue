@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 9/13; 3040 matching records.
+Page 9/13; 3041 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-08.md)
 
 [Next](topic-spectral-a26ea51cb6-10.md)
 
+- [local-section:758740558bd446372f516835 — 6. Both opposite-column masks and the residual core coprimality](../records/0153.md#local-section-758740558bd446372f516835-de38b7b33a)
 - [local-section:75a02d48bdd6188c286ed3a4 — Gao's local moment and the new accepted analytic endpoint](../records/0153.md#local-section-75a02d48bdd6188c286ed3a4-3aa6d2afff)
 - [local-section:75bc156a77e85c0b93aa4bfd — W67: signed boundary reconstruction and its actual price](../records/0153.md#local-section-75bc156a77e85c0b93aa4bfd-f647f5f210)
 - [local-section:75c5294af108f521564a4100 — R10. Independent evidence and completion](../records/0153.md#local-section-75c5294af108f521564a4100-7de4ffa95b)
@@ -38,8 +39,8 @@ Page 9/13; 3040 matching records.
 - [local-section:7b15720b12dc257d215e2117 — 5. Fixed components, remaining gate, and review scope](../records/0153.md#local-section-7b15720b12dc257d215e2117-ba24206133)
 - [local-section:7b39110a3e3899bffb07e075 — T08. Two-exponent finite-incidence transfer](../records/0153.md#local-section-7b39110a3e3899bffb07e075-3cce9b1450)
 - [local-section:7b6877909463c9e2f211d3d4 — W57 independent critic review](../records/0153.md#local-section-7b6877909463c9e2f211d3d4-7e77166565)
-- [local-section:7b9854fba26bfd59756586ed — 6. Payment of every nonlocalized witness](../records/0153.md#local-section-7b9854fba26bfd59756586ed-a84b16b8c4)
-- [local-section:7bdfbe31e82bae04b1922b75 — B. Both detectors: the numerator-moving vector and paid transfers](../records/0153.md#local-section-7bdfbe31e82bae04b1922b75-a9e6de04dc)
+- [local-section:7b9854fba26bfd59756586ed — 6. Payment of every nonlocalized witness](../records/0154.md#local-section-7b9854fba26bfd59756586ed-a84b16b8c4)
+- [local-section:7bdfbe31e82bae04b1922b75 — B. Both detectors: the numerator-moving vector and paid transfers](../records/0154.md#local-section-7bdfbe31e82bae04b1922b75-a9e6de04dc)
 - [local-section:7c179254af8367ac3c8f907a — Independent signed mixed review and four-cross-gcd extension](../records/0154.md#local-section-7c179254af8367ac3c8f907a-c2f5244692)
 - [local-section:7c185128c70663a794c70d36 — 0. Integration disposition and source boundaries](../records/0154.md#local-section-7c185128c70663a794c70d36-75787b3cf2)
 - [local-section:7c2b1777c0033de84625c417 — 5. First arithmetic tests: what the weaker input does and does not buy](../records/0154.md#local-section-7c2b1777c0033de84625c417-0d99225ce0)
@@ -69,8 +70,8 @@ Page 9/13; 3040 matching records.
 - [local-section:81c52de085d73f54ce124f27 — \[research revision\]: a paid prime band in the complete signed core](../records/0154.md#local-section-81c52de085d73f54ce124f27-0fc563d14f)
 - [local-section:81f632aa7b390f6376fc6a5a — 2. D04: exact reconstruction, complete quantifiers and zero return](../records/0154.md#local-section-81f632aa7b390f6376fc6a5a-2362f1d176)
 - [local-section:8219b22a2313d4ff924b7f58 — \[research revision\]-S1. Smooth collars preserve the literal four-diagonal problem](../records/0154.md#local-section-8219b22a2313d4ff924b7f58-0094793730)
-- [local-section:823c20e492cb2cf8abb4ee96 — 5. Audit conclusions, duplication and all30 dispositions](../records/0154.md#local-section-823c20e492cb2cf8abb4ee96-4d9d4613c3)
-- [local-section:827d1e9fc13cba7a58e956d3 — Reciprocal Hankel determinant: a complete conditional return](../records/0154.md#local-section-827d1e9fc13cba7a58e956d3-e15a9c1c27)
+- [local-section:823c20e492cb2cf8abb4ee96 — 5. Audit conclusions, duplication and all30 dispositions](../records/0155.md#local-section-823c20e492cb2cf8abb4ee96-4d9d4613c3)
+- [local-section:827d1e9fc13cba7a58e956d3 — Reciprocal Hankel determinant: a complete conditional return](../records/0155.md#local-section-827d1e9fc13cba7a58e956d3-e15a9c1c27)
 - [local-section:82e34225d55291b5e6e5a2bf — E. Native short-divisor H: source sectors and failed joint shortcuts](../records/0155.md#local-section-82e34225d55291b5e6e5a2bf-0975ab2267)
 - [local-section:8306899a6efdcbe591caf7f6 — Dependency map and proof locations](../records/0155.md#local-section-8306899a6efdcbe591caf7f6-4aefa46a88)
 - [local-section:836c4982ac83a8aa3ac0e4d8 — 7. Actual supremum, common gap and limits](../records/0155.md#local-section-836c4982ac83a8aa3ac0e4d8-413a43107f)
@@ -100,7 +101,7 @@ Page 9/13; 3040 matching records.
 - [local-section:89a55ef95845c855ae23a267 — \[research revision\]: actual valuations and a paid nonlinear density return](../records/0155.md#local-section-89a55ef95845c855ae23a267-f04b20b509)
 - [local-section:89db449e3addb08b7c144bce — \[research revision\]: multiplicative calibration and the complete window-energy return](../records/0155.md#local-section-89db449e3addb08b7c144bce-8b47520cf8)
 - [local-section:8a4caf6b6608a9d80d0a09c5 — 9. Exact remaining target and quantitative return](../records/0155.md#local-section-8a4caf6b6608a9d80d0a09c5-04dcddb5ca)
-- [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0155.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
+- [local-section:8a87fbe333aef1edeefc54f8 — 11. Small-value sets in every logarithmic interval are sufficient](../records/0156.md#local-section-8a87fbe333aef1edeefc54f8-0fe4d99051)
 - [local-section:8af1572a513d473cff6bd09f — W40 independent review: exact budgets and their arithmetic limits](../records/0156.md#local-section-8af1572a513d473cff6bd09f-38891d541c)
 - [local-section:8b185f42603869e0ff0c856e — Provenance and acceptance](../records/0156.md#local-section-8b185f42603869e0ff0c856e-47b9825576)
 - [local-section:8b38595c0f71aaf14bb13635 — 3. Canonical mathematical claim crosswalk](../records/0156.md#local-section-8b38595c0f71aaf14bb13635-4a3b971d28)
@@ -159,7 +160,7 @@ Page 9/13; 3040 matching records.
 - [local-section:98fe534cea104f5878951e04 — 3. Fully marked MI after every shortening](../records/0157.md#local-section-98fe534cea104f5878951e04-a971cb571f)
 - [local-section:9960cde561dfbb894ae18a31 — G133. Two restricted returns with rational interval certificates](../records/0157.md#local-section-9960cde561dfbb894ae18a31-1590d1c3e9)
 - [local-section:998e70cf3b26e1f1784c0e46 — 3.2 Critic theorem R40-E: every fixed finite Euler universe fails](../records/0157.md#local-section-998e70cf3b26e1f1784c0e46-b02e7dacab)
-- [local-section:99b4836739be4e38738dc101 — 1. Literal source identity and both norm directions](../records/0157.md#local-section-99b4836739be4e38738dc101-43ee601723)
+- [local-section:99b4836739be4e38738dc101 — 1. Literal source identity and both norm directions](../records/0158.md#local-section-99b4836739be4e38738dc101-43ee601723)
 - [local-section:9a6d071aa58374986cfce959 — Group1: free invention](../records/0158.md#local-section-9a6d071aa58374986cfce959-f62a398112)
 - [local-section:9a945cdd48e906a3fd1749ff — 1. Frozen selection, corrected source and scope](../records/0158.md#local-section-9a945cdd48e906a3fd1749ff-e9d8299fc0)
 - [local-section:9aa4caca4ab461fb84c8c582 — 1. Frozen inputs and attribution](../records/0158.md#local-section-9aa4caca4ab461fb84c8c582-ba58e145c2)
@@ -188,7 +189,7 @@ Page 9/13; 3040 matching records.
 - [local-section:a0a5bf95c1d04e395bd99ee1 — 7. Failures, ancestry, evidence limits, and complete return](../records/0158.md#local-section-a0a5bf95c1d04e395bd99ee1-767d9ae616)
 - [local-section:a0f2ffeef33da830f24e2d50 — W55 independent review: paid moving Riesz comparison and two parked audits](../records/0158.md#local-section-a0f2ffeef33da830f24e2d50-f227e8b052)
 - [local-section:a17f9e68bab4d4555eeaf88f — G174. Actual cutoff boundaries and the price of a positive observation](../records/0158.md#local-section-a17f9e68bab4d4555eeaf88f-83e6e725ae)
-- [local-section:a19cd4d40c5b00cbd35b0c2e — D48. Native Gaussian innovation, then a paid all-block replacement](../records/0158.md#local-section-a19cd4d40c5b00cbd35b0c2e-5dc4009b20)
+- [local-section:a19cd4d40c5b00cbd35b0c2e — D48. Native Gaussian innovation, then a paid all-block replacement](../records/0159.md#local-section-a19cd4d40c5b00cbd35b0c2e-5dc4009b20)
 - [local-section:a1fb00706aedb9eca5671e8b — D04. Moving rough f3 detector with a paid cofactor head](../records/0159.md#local-section-a1fb00706aedb9eca5671e8b-8634ebad70)
 - [local-section:a2191f77ab0bf057c9755f1f — Author sampling and its exact evidence limit](../records/0159.md#local-section-a2191f77ab0bf057c9755f1f-53ba0dc5ff)
 - [local-section:a253d0f37861c957c1454b93 — 2.2 Global derivative estimate, including both finite cutoffs and infinity](../records/0159.md#local-section-a253d0f37861c957c1454b93-6d79a5cc6f)
@@ -257,4 +258,3 @@ Page 9/13; 3040 matching records.
 - [local-section:af919ef34d68e7f5e325fa24 — \[research revision\]: parameter and square-row interfaces](../records/0160.md#local-section-af919ef34d68e7f5e325fa24-eac048a11e)
 - [local-section:afc506e1be889704f4c1d485 — W40-21 — Minimum-frustration forest certificate; p=.009](../records/0160.md#local-section-afc506e1be889704f4c1d485-30a5181150)
 - [local-section:afda5e02c295f1121b25b1a5 — 9. Verification and retained next step](../records/0160.md#local-section-afda5e02c295f1121b25b1a5-a74512555c)
-- [local-section:b001623ad24aac74b5438084 — 3. The weighted free-row detector](../records/0160.md#local-section-b001623ad24aac74b5438084-b4a68281bf)

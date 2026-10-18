@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1454 matching records.
+Page 1/6; 1456 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 
@@ -223,6 +223,8 @@ Page 1/6; 1454 matching records.
 - [QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE — General affine-envelope all-bin leakage closure from the same complete signed source](../records/0131.md#qrh-cont-r092-affine-all-bin-leakage-63a9ea2214)
 - [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
 - [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
+- [QRH-CONT-R097-SIXTH-FREE-CUBIC-PRIME-CORE — Complete sixth-free cubic-column norm and actual one-prime-core moment](../records/0131.md#qrh-cont-r097-sixth-free-cubic-prime-core-9301ff34a6)
+- [QRH-CONT-R098-UNIFORM-SQUAREPART-COFACTOR-PRUNING — Uniform growing punctures, individual-squarepart moments and whole-residual conditional pruning](../records/0131.md#qrh-cont-r098-uniform-squarepart-cofactor-pruning-a2c7202877)
 - [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
 - [QRH-CONT-U2-COMPLEMENT-AND-REVERSE-EQUIVALENCE — General heat-complement payment and exact all-character calibration of finite-source criteria](../records/0131.md#qrh-cont-u2-complement-and-reverse-equivalence-8583f4f177)
 - [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
@@ -254,5 +256,3 @@ Page 1/6; 1454 matching records.
 - [local-section:0482d0fa320f89ebb02394b3 — \[research revision\] independent review: exceptional valuation reserve](../records/0138.md#local-section-0482d0fa320f89ebb02394b3-083e80a410)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
 - [local-section:049b0b111c3aa167f4ac66ae — 7. Novelty, exact scope, and unresolved work](../records/0138.md#local-section-049b0b111c3aa167f4ac66ae-f2bb664b5d)
-- [local-section:04b784e84bc801bb8747ca9b — 7. Evidence, provenance and disposition](../records/0138.md#local-section-04b784e84bc801bb8747ca9b-a09f746032)
-- [local-section:051e901193a4143a5bea30d3 — F19. Higher integrability and stable future tails](../records/0138.md#local-section-051e901193a4143a5bea30d3-c7d2f214e6)

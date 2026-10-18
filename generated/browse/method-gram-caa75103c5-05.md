@@ -7,7 +7,7 @@ Page 5/5; 1041 matching records.
 [Previous](method-gram-caa75103c5-04.md)
 
 - [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0173.md#local-g244-a12ada8918)
-- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0173.md#local-g248-3d1e6b9334)
+- [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0174.md#local-g248-3d1e6b9334)
 - [local:G254 — G254. Fixed-annular weighted-height and pointwise polynomial bounds are equivalent](../records/0174.md#local-g254-52c97c1379)
 - [local:G255 — G255. Exact compensated covariance and normalized whole off-diagonal target](../records/0174.md#local-g255-5069bd79eb)
 - [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0174.md#local-g264-484cdfc9b6)

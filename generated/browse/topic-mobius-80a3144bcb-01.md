@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/4; 970 matching records.
+Page 1/4; 971 matching records.
 
 [Next](topic-mobius-80a3144bcb-02.md)
 
@@ -44,6 +44,7 @@ Page 1/4; 970 matching records.
 - [QRH-CONT-R088-DEFORMED-HEAT-INVERSE — Exact deformed heat inversion with its ordinary-product defect and evaluation cost](../records/0131.md#qrh-cont-r088-deformed-heat-inverse-60d08017c5)
 - [QRH-CONT-R089-HEAT-WINDOW-MATRIX — Complete moving-window prices and finite ordinary inverse-matrix bounds](../records/0131.md#qrh-cont-r089-heat-window-matrix-47b1d24d09)
 - [QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE — Exact Mobius prime removal with full norm and energy covariance](../records/0131.md#qrh-cont-r094-prime-removal-covariance-6df2a08941)
+- [QRH-CONT-R099-COMPLETE-LOG-COMMUTATOR-PRIME-MOMENT — Complete logarithmic commutator, square-convolved prime source and general fixed-power moment envelope](../records/0131.md#qrh-cont-r099-complete-log-commutator-prime-moment-eb681529c2)
 - [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
 - [QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN — Seed-free target-dependent ratio plateaux, matched Mobius tails and complete one-sided ordinary return](../records/0131.md#qrh-cont-u4-matched-plateau-ordinary-return-404881c4a3)
 - [QRH-HEAT-FILTERED-CUBIC-SOURCE — Complete filtered cubic heat source with a uniform saddle bound on every retained index](../records/0131.md#qrh-heat-filtered-cubic-source-8a363350a2)
@@ -90,7 +91,7 @@ Page 1/4; 970 matching records.
 - [local-section:0d4b301c6d26d09d551c71c7 — D. Rare-lane test: nonnegative smoothing and fixed layer deletion retain shrinking zeros](../records/0139.md#local-section-0d4b301c6d26d09d551c71c7-50928d5053)
 - [local-section:0e168f25f81aadf08e384760 — 6. Uniform parked audit25: rescue the checksum and price its return](../records/0139.md#local-section-0e168f25f81aadf08e384760-82cb5d9671)
 - [local-section:0e37e1a2a40f5005f321445a — Independent W59 review](../records/0139.md#local-section-0e37e1a2a40f5005f321445a-e82327cd40)
-- [local-section:0e849c9fc4c05885e1546acb — 6. A stable first-shell inverse and its unpaid future tail](../records/0139.md#local-section-0e849c9fc4c05885e1546acb-f89011601a)
+- [local-section:0e849c9fc4c05885e1546acb — 6. A stable first-shell inverse and its unpaid future tail](../records/0140.md#local-section-0e849c9fc4c05885e1546acb-f89011601a)
 - [local-section:0eae90fa68d4c091e5e95a95 — W56 independent review: conditional density gain, exact returns, no new c](../records/0140.md#local-section-0eae90fa68d4c091e5e95a95-87a426d2d5)
 - [local-section:0ebd00cf3b43f6bab13bed2d — \[research revision\] independent headroom branch B — one-grid arithmetic-wavelet obstruction](../records/0140.md#local-section-0ebd00cf3b43f6bab13bed2d-4c80627c45)
 - [local-section:0ed1ac6e0f783e0f45815555 — T09. Scale-\\(L^2\\) direct detectors](../records/0140.md#local-section-0ed1ac6e0f783e0f45815555-24e2b980d8)
@@ -138,7 +139,7 @@ Page 1/4; 970 matching records.
 - [local-section:1cfd335cb0fa6708c15b4db1 — Signed readouts, paid prime cutoffs and actual positive Gram prices](../records/0141.md#local-section-1cfd335cb0fa6708c15b4db1-e0609bdb72)
 - [local-section:1d317d33156da35cd674c73f — 1. Decision](../records/0141.md#local-section-1d317d33156da35cd674c73f-94fd430163)
 - [local-section:1d791d9112296046f61dfc4c — \[research revision\]: the arithmetic content of the optimal f3 spectral core](../records/0141.md#local-section-1d791d9112296046f61dfc4c-ecd51b8895)
-- [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0141.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
+- [local-section:1df3ffc06108e826d44c228e — \[research revision\]: corrected prime pressure and complete arithmetic readouts](../records/0142.md#local-section-1df3ffc06108e826d44c228e-ad130cb848)
 - [local-section:1e1a87e63bdfc925783b9371 — 1. Frozen exploration, source contact and six tests](../records/0142.md#local-section-1e1a87e63bdfc925783b9371-58d6f13dd9)
 - [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0142.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)
 - [local-section:1f828e8001c4a6adb010d778 — T-B05: the exact mask defect includes both mixed terms](../records/0142.md#local-section-1f828e8001c4a6adb010d778-d8e4fa4f8f)
@@ -164,7 +165,7 @@ Page 1/4; 970 matching records.
 - [local-section:25667ee3bb5f12d635983d4e — 2. Independent inverse and complete residual reconstruction](../records/0142.md#local-section-25667ee3bb5f12d635983d4e-776e0bac53)
 - [local-section:25b39810c8b971cacdcf751c — 9. Exact residual and the still-open large-core moment](../records/0142.md#local-section-25b39810c8b971cacdcf751c-36788a1d7b)
 - [local-section:2600ce32a6557d927fd4de88 — 26. Signed integer states and complete source returns](../records/0142.md#local-section-2600ce32a6557d927fd4de88-31242b90a8)
-- [local-section:2668e86060c208a572e1799b — 8. Two reviewer consequences and a concrete next arithmetic target](../records/0142.md#local-section-2668e86060c208a572e1799b-65d88b9695)
+- [local-section:2668e86060c208a572e1799b — 8. Two reviewer consequences and a concrete next arithmetic target](../records/0143.md#local-section-2668e86060c208a572e1799b-65d88b9695)
 - [local-section:2772ec677798cf6d17475b3a — New versus subsumed, and the next mathematical action](../records/0143.md#local-section-2772ec677798cf6d17475b3a-990b3c910a)
 - [local-section:27d01ab49589d854017f6bec — G151. An actual two-variable repair and two fully priced detector interfaces](../records/0143.md#local-section-27d01ab49589d854017f6bec-dea26a8e38)
 - [local-section:289b75ea5472f6508803c7ce — Independent W65 review: Jordan sources, complete filters, and retained costs](../records/0143.md#local-section-289b75ea5472f6508803c7ce-27a98cb540)
@@ -189,7 +190,7 @@ Page 1/4; 970 matching records.
 - [local-section:2ca9ca9da48f59dc1ff2b4c5 — 3. Development07: actual finite character realization, with its quantifier boundary](../records/0143.md#local-section-2ca9ca9da48f59dc1ff2b4c5-dce1fcb2ba)
 - [local-section:2d032ccf96c325c3edee6e13 — 4. Audit trail, evidence class, and preserved limitations](../records/0143.md#local-section-2d032ccf96c325c3edee6e13-a21015d61a)
 - [local-section:2dc106483289940698831bb8 — 31. Complete cutoff deflation and signed interactions](../records/0143.md#local-section-2dc106483289940698831bb8-7328bee8ed)
-- [local-section:2ec6455cab8bef0345506de7 — Independent W43 review](../records/0143.md#local-section-2ec6455cab8bef0345506de7-371f35fbe6)
+- [local-section:2ec6455cab8bef0345506de7 — Independent W43 review](../records/0144.md#local-section-2ec6455cab8bef0345506de7-371f35fbe6)
 - [local-section:2f239237acab429604a85755 — \[research revision\]: actual compensated-source cancellation](../records/0144.md#local-section-2f239237acab429604a85755-c8ae136312)
 - [local-section:2fc16d0403b5cde5101c3e5c — 3. A double compensated completely multiplicative source](../records/0144.md#local-section-2fc16d0403b5cde5101c3e5c-9e8c1316b5)
 - [local-section:2fd83b98464e4af8ccfcc18e — A. The actual JN row-frequency translation defect](../records/0144.md#local-section-2fd83b98464e4af8ccfcc18e-c0c8f5a63e)
@@ -221,8 +222,8 @@ Page 1/4; 970 matching records.
 - [local-section:3523f4afbd0b6ea18dba2f6f — 1. Reconstructing the arithmetic inverse](../records/0144.md#local-section-3523f4afbd0b6ea18dba2f6f-dd630dd392)
 - [local-section:35394c0ef68a595f98f507c7 — \[research revision\]: original-prime H covariance — bounded development](../records/0144.md#local-section-35394c0ef68a595f98f507c7-e25a7848d5)
 - [local-section:35693aab9eccde89be64c404 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0144.md#local-section-35693aab9eccde89be64c404-94d484667a)
-- [local-section:369dc0b551a3c2b190f76cc4 — 2. A: coefficients, stable inverse and zero return](../records/0144.md#local-section-369dc0b551a3c2b190f76cc4-a0642ff4c8)
-- [local-section:36c350a68c97661ed4593e2b — Choice of forward proof and evidence limits](../records/0144.md#local-section-36c350a68c97661ed4593e2b-a90c231db7)
+- [local-section:369dc0b551a3c2b190f76cc4 — 2. A: coefficients, stable inverse and zero return](../records/0145.md#local-section-369dc0b551a3c2b190f76cc4-a0642ff4c8)
+- [local-section:36c350a68c97661ed4593e2b — Choice of forward proof and evidence limits](../records/0145.md#local-section-36c350a68c97661ed4593e2b-a90c231db7)
 - [local-section:379810aa02a35c5a2e8e281b — W41 immutable initial cards](../records/0145.md#local-section-379810aa02a35c5a2e8e281b-7cc45050d1)
 - [local-section:38a0a595d2f5e8130b7230d4 — Fixed powers below one half](../records/0145.md#local-section-38a0a595d2f5e8130b7230d4-b3130ae9bc)
 - [local-section:3932376f7d2c4ae2d4529440 — Early attempt index: Cycles 1–32](../records/0145.md#local-section-3932376f7d2c4ae2d4529440-14e65a854a)
@@ -255,4 +256,3 @@ Page 1/4; 970 matching records.
 - [local-section:45c4ef9373d6c0aabb4b0e67 — \[research revision\] overlays and \[research revision\]–\[research revision\]: paid sectors and precise residuals](../records/0146.md#local-section-45c4ef9373d6c0aabb4b0e67-0fc80d1388)
 - [local-section:45cd43f9ed862ddbee4f6b24 — 1. Transfers between fixed smoothers](../records/0146.md#local-section-45cd43f9ed862ddbee4f6b24-0cf56fdbfb)
 - [local-section:45f72c4a061e771fd01acbc6 — Actual arithmetic dilation: a global theorem and the unpaid local estimate](../records/0146.md#local-section-45f72c4a061e771fd01acbc6-a5637ec90d)
-- [local-section:4603488242b05c57c03ea126 — 5. The whole paired diagonal](../records/0146.md#local-section-4603488242b05c57c03ea126-39af984461)
