@@ -2,7 +2,7 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 119 matching records.
+Page 1/1; 126 matching records.
 
 - [MATH-PR48-57ca0662-collision-partitions — Collision partitions for overlapping finite slot pools](../records/0129.md#math-pr48-57ca0662-collision-partitions-6b4f96fbc7)
 - [MATH-PR48-57ca0662-finite-polarization — Finite polarization from common product profiles](../records/0129.md#math-pr48-57ca0662-finite-polarization-4afcdc06a5)
@@ -101,15 +101,22 @@ Page 1/1; 119 matching records.
 - [QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM — Complete cubic-divisor heat transform with presented Euler deletion and full principal centering](../records/0131.md#qrh-cont-r078-cubic-divisor-heat-transform-0e04e2a96d)
 - [QRH-CONT-R083-JOINT-REFLECTION-GATE — Coefficientwise classification of the common-time joint reflection gate](../records/0131.md#qrh-cont-r083-joint-reflection-gate-5748421590)
 - [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
+- [QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION — Actual ordered-pair finite cubic Hankel contraction, full principal moments and paid Mertens envelope](../records/0131.md#qrh-cont-r085-actual-finite-hankel-contraction-a30cef365b)
 - [QRH-CONT-R085-CUBIC-COMPACT-RATIO — Compact-ratio cubic kernel asymptotics and the complete deletion moment state](../records/0131.md#qrh-cont-r085-cubic-compact-ratio-a7d90cafe6)
 - [QRH-CONT-R086-CUBIC-RATIONAL-RAY — Uniform cubic rational-ray completion and a paid product cutoff](../records/0131.md#qrh-cont-r086-cubic-rational-ray-0a3b888977)
+- [QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE — General complex common-time cubic phase family with full physical pairing and restricted principal contour box](../records/0131.md#qrh-cont-r087-complex-cubic-phase-source-5be3696509)
 - [QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN — Exact ordinary heat indicator and integrated and pointwise energy returns](../records/0131.md#qrh-cont-r087-exact-heat-energy-return-f5cfddfec6)
+- [QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS — Physical imprimitive Gauss overlaps: inclusive prices and a complete weighted maximal-class transfer](../records/0131.md#qrh-cont-r088-complete-physical-gauss-overlaps-5764b0d033)
 - [QRH-CONT-R088-DEFORMED-HEAT-INVERSE — Exact deformed heat inversion with its ordinary-product defect and evaluation cost](../records/0131.md#qrh-cont-r088-deformed-heat-inverse-60d08017c5)
 - [QRH-CONT-R089-HEAT-WINDOW-MATRIX — Complete moving-window prices and finite ordinary inverse-matrix bounds](../records/0131.md#qrh-cont-r089-heat-window-matrix-47b1d24d09)
 - [QRH-CONT-R090-SAME-ZERO-SCALE-BANK — A finite detector-scale bank from one fixed Eisenstein zero](../records/0131.md#qrh-cont-r090-same-zero-scale-bank-6f4dd84eb9)
 - [QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS — Complete physical-row and two-prime-label collision payment](../records/0131.md#qrh-cont-r091-complete-row-label-collisions-79cd2b7559)
+- [QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE — Full two-orientation cubic Gauss AA covariance with moving twist and unchanged incumbent price](../records/0131.md#qrh-cont-r091-two-orientation-aa-covariance-bfae1b8248)
+- [QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE — General affine-envelope all-bin leakage closure from the same complete signed source](../records/0131.md#qrh-cont-r092-affine-all-bin-leakage-63a9ea2214)
 - [QRH-CONT-R092-CANONICAL-ACTIVE-BANK — Complete long-column norm of the canonical active prime bank](../records/0131.md#qrh-cont-r092-canonical-active-bank-1fd9650dd8)
 - [QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER — Joint-probe signed pairing and the complete valuation Poisson return adapter](../records/0131.md#qrh-cont-r093-joint-probe-return-adapter-ab5b8728de)
+- [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
+- [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
 - [QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE — Exact Mobius prime removal with full norm and energy covariance](../records/0131.md#qrh-cont-r094-prime-removal-covariance-6df2a08941)
 - [QRH-CONT-U1-ALL-RANGE-GCD-AND-DIAGONAL — Complete Gaussian gcd tail for all positive evaluation lines and below-half diagonal calibration](../records/0131.md#qrh-cont-u1-all-range-gcd-and-diagonal-ee1a14b8c6)
 - [QRH-CONT-U1-FULL-SUPPORT-NORM-RETURN — Ordinary heat return for every fixed full-support positive measure below or above the critical line](../records/0131.md#qrh-cont-u1-full-support-norm-return-a76fc40150)

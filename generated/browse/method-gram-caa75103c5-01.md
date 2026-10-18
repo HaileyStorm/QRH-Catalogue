@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1039 matching records.
+Page 1/5; 1041 matching records.
 
 [Next](method-gram-caa75103c5-02.md)
 
@@ -189,6 +189,8 @@ Page 1/5; 1039 matching records.
 - [QRH-CONT-M016-PRIME-COVARIANCE — Complete prime-error covariance with both lower edges retained](../records/0131.md#qrh-cont-m016-prime-covariance-7c8c9c2831)
 - [QRH-CONT-M017-LOG-COVARIANCE — Finite and seed-integrable logarithmic covariance of the complete prime-pair source](../records/0131.md#qrh-cont-m017-log-covariance-0162bdc14b)
 - [QRH-CONT-R062-INDEPENDENT-PROFILE-PAIR — Independent profile pair and a qualified radial volume model](../records/0131.md#qrh-cont-r062-independent-profile-pair-3badad429b)
+- [QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE — General complex common-time cubic phase family with full physical pairing and restricted principal contour box](../records/0131.md#qrh-cont-r087-complex-cubic-phase-source-5be3696509)
+- [QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE — Full two-orientation cubic Gauss AA covariance with moving twist and unchanged incumbent price](../records/0131.md#qrh-cont-r091-two-orientation-aa-covariance-bfae1b8248)
 - [QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE — Exact Mobius prime removal with full norm and energy covariance](../records/0131.md#qrh-cont-r094-prime-removal-covariance-6df2a08941)
 - [QRH-HEAT-MOBIUS-DIVISOR-ERROR-COVARIANCE — Complete Möbius–cubic-divisor-error covariance and the exact loss of a separated estimate](../records/0131.md#qrh-heat-mobius-divisor-error-covariance-ebcc44f453)
 - [local-section:00bcd76eb419cb55df0968ee — Source anchors and exact scope](../records/0138.md#local-section-00bcd76eb419cb55df0968ee-d58527871e)
@@ -203,8 +205,8 @@ Page 1/5; 1039 matching records.
 - [local-section:049b0b111c3aa167f4ac66ae — 7. Novelty, exact scope, and unresolved work](../records/0138.md#local-section-049b0b111c3aa167f4ac66ae-f2bb664b5d)
 - [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
 - [local-section:04b6d33531f5f8fd0fcefef4 — A04. Exact calibration of a family of adaptive probes](../records/0138.md#local-section-04b6d33531f5f8fd0fcefef4-7abbd128bc)
-- [local-section:05b7dc4fd36efbb10143f70a — 1. Exact source and normalization](../records/0138.md#local-section-05b7dc4fd36efbb10143f70a-89827a7c12)
-- [local-section:05dab8278c2ff444af29988d — F02. Large-prime null packets and common-core dispersion](../records/0138.md#local-section-05dab8278c2ff444af29988d-86fd5ec050)
+- [local-section:05b7dc4fd36efbb10143f70a — 1. Exact source and normalization](../records/0139.md#local-section-05b7dc4fd36efbb10143f70a-89827a7c12)
+- [local-section:05dab8278c2ff444af29988d — F02. Large-prime null packets and common-core dispersion](../records/0139.md#local-section-05dab8278c2ff444af29988d-86fd5ec050)
 - [local-section:0658d5ccc746c9f6824fc889 — Current checkpoint and result](../records/0139.md#local-section-0658d5ccc746c9f6824fc889-6288b8adcd)
 - [local-section:0686f244ed65373b93403088 — S65-2. Complete mixed cumulants](../records/0139.md#local-section-0686f244ed65373b93403088-73b118f620)
 - [local-section:0737de17150af6e51c799c86 — 7. All30 dispositions](../records/0139.md#local-section-0737de17150af6e51c799c86-d7ff94fbec)
@@ -221,9 +223,9 @@ Page 1/5; 1039 matching records.
 - [local-section:0e37e1a2a40f5005f321445a — Independent W59 review](../records/0139.md#local-section-0e37e1a2a40f5005f321445a-e82327cd40)
 - [local-section:0e47f97a8a3efba82d6e2eab — \[research revision\]-S3. The determinant repair keeps the original hard energy](../records/0139.md#local-section-0e47f97a8a3efba82d6e2eab-095ae6a5fd)
 - [local-section:0eae1fb57bb95052dec20ba4 — 3a. Formation and every tail are paid from periodicity](../records/0139.md#local-section-0eae1fb57bb95052dec20ba4-93d4abcaac)
-- [local-section:0eae90fa68d4c091e5e95a95 — W56 independent review: conditional density gain, exact returns, no new c](../records/0139.md#local-section-0eae90fa68d4c091e5e95a95-87a426d2d5)
-- [local-section:0ebd00cf3b43f6bab13bed2d — \[research revision\] independent headroom branch B — one-grid arithmetic-wavelet obstruction](../records/0139.md#local-section-0ebd00cf3b43f6bab13bed2d-4c80627c45)
-- [local-section:0ed85ddc1f7c455c656b8221 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0139.md#local-section-0ed85ddc1f7c455c656b8221-432ffc5af8)
+- [local-section:0eae90fa68d4c091e5e95a95 — W56 independent review: conditional density gain, exact returns, no new c](../records/0140.md#local-section-0eae90fa68d4c091e5e95a95-87a426d2d5)
+- [local-section:0ebd00cf3b43f6bab13bed2d — \[research revision\] independent headroom branch B — one-grid arithmetic-wavelet obstruction](../records/0140.md#local-section-0ebd00cf3b43f6bab13bed2d-4c80627c45)
+- [local-section:0ed85ddc1f7c455c656b8221 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0140.md#local-section-0ed85ddc1f7c455c656b8221-432ffc5af8)
 - [local-section:0f3f991b032c1f9d8ed8f680 — Exact contact with the original far H form](../records/0140.md#local-section-0f3f991b032c1f9d8ed8f680-8ca6843f08)
 - [local-section:0f8d17cdaf42d1670e4be6a8 — Accepted input packages](../records/0140.md#local-section-0f8d17cdaf42d1670e4be6a8-3b5dc21d96)
 - [local-section:0fca71b841588e9a3392fcec — 8. Developing the remaining growing-filter possibility](../records/0140.md#local-section-0fca71b841588e9a3392fcec-c6a6c11179)
@@ -249,10 +251,8 @@ Page 1/5; 1039 matching records.
 - [local-section:1596e29f472d00086a2e211c — 2.4 Complete reduced-frequency bank and shell Gram](../records/0140.md#local-section-1596e29f472d00086a2e211c-32f1fdc973)
 - [local-section:15ae6861d9ab5be46ee0f860 — 6. All thirty cards: deduplication and reopening conditions](../records/0140.md#local-section-15ae6861d9ab5be46ee0f860-e92028e3b7)
 - [local-section:15f9ca879ee600ee5bd9bc24 — 8. Prime-two alternative: exact conditional self-copy, no contraction](../records/0140.md#local-section-15f9ca879ee600ee5bd9bc24-01870d3417)
-- [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0140.md#local-section-160b4939857b2accee77efb9-442b8b8857)
-- [local-section:1616bfd1f16a7318c41f53c1 — PR15 local physical moment review — pinned head ca182b70](../records/0140.md#local-section-1616bfd1f16a7318c41f53c1-81c57132dd)
+- [local-section:160b4939857b2accee77efb9 — G221. The user's quaternion identity on the actual Jordan source](../records/0141.md#local-section-160b4939857b2accee77efb9-442b8b8857)
+- [local-section:1616bfd1f16a7318c41f53c1 — PR15 local physical moment review — pinned head ca182b70](../records/0141.md#local-section-1616bfd1f16a7318c41f53c1-81c57132dd)
 - [local-section:1729d43c72d547c7b3a8fdf0 — 7. Integration limits and final verification record](../records/0141.md#local-section-1729d43c72d547c7b3a8fdf0-fce07e18d3)
 - [local-section:178484c629618edb557fe002 — 3. Full physical covariance after the new core and gcd results](../records/0141.md#local-section-178484c629618edb557fe002-d94bc8936f)
 - [local-section:179af8163e554a71f19120ee — \[research revision\]: local small-value sets recover a complete Gaussian exponent](../records/0141.md#local-section-179af8163e554a71f19120ee-8a75494f8a)
-- [local-section:180fab2ad1ef502f1674b79b — 3. B1–6: actual occupations and the complete unexposed covariance](../records/0141.md#local-section-180fab2ad1ef502f1674b79b-1cd62e0104)
-- [local-section:1941fb35943e4ae464305a21 — 2. New exact conductor geometry](../records/0141.md#local-section-1941fb35943e4ae464305a21-d70e959930)

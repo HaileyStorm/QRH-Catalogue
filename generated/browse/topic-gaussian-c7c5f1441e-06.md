@@ -2,10 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 6/6; 1292 matching records.
+Page 6/6; 1295 matching records.
 
 [Previous](topic-gaussian-c7c5f1441e-05.md)
 
+- [local:G88 — G88: the existing countermodel obstructs every fixed sublinear window](../records/0174.md#local-g88-d7d3c34f95)
+- [local:G89 — G89: precise observation contracts and their unpaid arithmetic](../records/0174.md#local-g89-8fdc15013e)
+- [local:G93 — G93: a greedy boundary obstruction and a paid moving square mask](../records/0174.md#local-g93-30c0d807f5)
 - [local:G94 — G94: actual state closure and the final observation matter](../records/0174.md#local-g94-65895f2546)
 - [local:T06 — T06. The complete same-core sextic square function](../records/0175.md#local-t06-df7fac52f7)
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0175.md#local-t07-90600e73b5)
@@ -18,8 +21,8 @@ Page 6/6; 1292 matching records.
 - [pr26:Analytic.JointErrorGaussian::refined_error_gaussian_from_bands@174 — refined_error_gaussian_from_bands](../records/0180.md#pr26-analytic-jointerrorgaussian-refined-error-gaussian-from-band-0caed91541)
 - [pr26:Analytic.JointFirstIndependentErrors::actual_first_independent_extracted_errors@93 — actual_first_independent_extracted_errors](../records/0182.md#pr26-analytic-jointfirstindependenterrors-actual-first-independen-00c2691e2c)
 - [pr26:Analytic.JointFirstIndependentErrorsFull::actual_first_independent_extracted_errors_full@447 — actual_first_independent_extracted_errors_full](../records/0182.md#pr26-analytic-jointfirstindependenterrorsfull-actual-first-indepe-773d600b42)
-- [pr26:Analytic.JointFirstRawErrors::actual_first_independent_raw_errors@104 — actual_first_independent_raw_errors](../records/0183.md#pr26-analytic-jointfirstrawerrors-actual-first-independent-raw-er-2afc50d3db)
-- [pr26:Analytic.JointFirstRawErrorsFull::actual_first_independent_raw_errors_full@1061 — actual_first_independent_raw_errors_full](../records/0183.md#pr26-analytic-jointfirstrawerrorsfull-actual-first-independent-ra-c3c1889067)
+- [pr26:Analytic.JointFirstRawErrors::actual_first_independent_raw_errors@104 — actual_first_independent_raw_errors](../records/0184.md#pr26-analytic-jointfirstrawerrors-actual-first-independent-raw-er-2afc50d3db)
+- [pr26:Analytic.JointFirstRawErrorsFull::actual_first_independent_raw_errors_full@1061 — actual_first_independent_raw_errors_full](../records/0184.md#pr26-analytic-jointfirstrawerrorsfull-actual-first-independent-ra-c3c1889067)
 - [pr26:Analytic.JointLocalErrorParameters::error_local_parameters@27 — error_local_parameters](../records/0187.md#pr26-analytic-jointlocalerrorparameters-error-local-parameters-27-06d94e4aca)
 - [pr26:Cycle25.Numerator.SourceSZBound::szProfile_moment_majorant@55 — szProfile_moment_majorant](../records/0206.md#pr26-cycle25-numerator-sourceszbound-szprofile-moment-majorant-55-3f5dd8cbea)
 - [pr26:Global.Low.Detector.LowGaussianCentral — Global.Low.Detector.LowGaussianCentral](../records/0208.md#pr26-global-low-detector-lowgaussiancentral-28eb674988)
@@ -39,7 +42,7 @@ Page 6/6; 1292 matching records.
 - [pr26:Global.Transport.PrincipalRemainderTransport::shifted_gaussian_bottom@180 — shifted_gaussian_bottom](../records/0213.md#pr26-global-transport-principalremaindertransport-shifted-gaussia-88d0c2d155)
 - [pr26:Global.Transport.PrincipalRemainderTransport::shifted_gaussian_integrable@172 — shifted_gaussian_integrable](../records/0213.md#pr26-global-transport-principalremaindertransport-shifted-gaussia-ddf432b5b3)
 - [pr26:Global.Transport.PrincipalRemainderTransport::shifted_gaussian_top@176 — shifted_gaussian_top](../records/0213.md#pr26-global-transport-principalremaindertransport-shifted-gaussia-bdf933ee95)
-- [pr26:Global.Transport.PrincipalRemainderTransport::verticalIntegral_eq_of_shifted_gaussian@189 — verticalIntegral_eq_of_shifted_gaussian](../records/0213.md#pr26-global-transport-principalremaindertransport-verticalintegra-0c9d3bf774)
+- [pr26:Global.Transport.PrincipalRemainderTransport::verticalIntegral_eq_of_shifted_gaussian@189 — verticalIntegral_eq_of_shifted_gaussian](../records/0214.md#pr26-global-transport-principalremaindertransport-verticalintegra-0c9d3bf774)
 - [pr26:Global.Transport.PrincipalSignal::kernel_norm_bound@1014 — kernel_norm_bound](../records/0214.md#pr26-global-transport-principalsignal-kernel-norm-bound-1014-c73005f05f)
 - [pr26:Global.Transport.PrincipalSignal::slotResidue_eq_reciprocal@986 — slotResidue_eq_reciprocal](../records/0214.md#pr26-global-transport-principalsignal-slotresidue-eq-reciprocal-9-6784292a95)
 - [pr26:Global.Transport.SignalShift::contour_shift_left@624 — contour_shift_left](../records/0214.md#pr26-global-transport-signalshift-contour-shift-left-624-b716423a98)

@@ -2,14 +2,15 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 816 matching records.
+Page 4/4; 817 matching records.
 
 [Previous](topic-height-uniformity-f0396e625a-03.md)
 
+- [local-section:ffe2222dd71d9916d4fa013f — 1. What is new and what is reused](../records/0171.md#local-section-ffe2222dd71d9916d4fa013f-57321dd24b)
 - [local:A08 — A08. An arithmetic source operator and the exact approximation cost](../records/0171.md#local-a08-388c07b4db)
 - [local:F08 — F08. Weighted fractional parts and modular residues](../records/0171.md#local-f08-1cd15be4b1)
 - [local:F08.R — F08.R — Arithmetic compact K_w=Σw_nf_n⊗f_n; source resolvent→d∞²](../records/0171.md#local-f08-r-981a2aef9c)
-- [local:F18 — F18. Short intervals, exceptional rows and amplitude-sensitive bounds](../records/0171.md#local-f18-12da3cf010)
+- [local:F18 — F18. Short intervals, exceptional rows and amplitude-sensitive bounds](../records/0172.md#local-f18-12da3cf010)
 - [local:F18.X — F18.X — Arithmetic row labels are not zeta ordinates; good-row density does not imply all-height exclusion](../records/0172.md#local-f18-x-33f94e9261)
 - [local:F22.P — F22.P — Nonnegative band bump≥1 and Poincaré–Lelong pairing\<1](../records/0172.md#local-f22-p-6dfabc8aa6)
 - [local:G106 — G106. Isolated root of the complete cutoff polynomial](../records/0172.md#local-g106-3b75d799b8)
@@ -25,10 +26,10 @@ Page 4/4; 816 matching records.
 - [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0172.md#local-g149-643389d4ad)
 - [local:G151 — G151. An actual two-variable repair and two fully priced detector interfaces](../records/0172.md#local-g151-b657e21536)
 - [local:G152 — \[research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0172.md#local-g152-1776ec5c14)
-- [local:G155 — \[research revision\]: paid parts of the separated mixed moment (G155)](../records/0172.md#local-g155-78ae9ec0c1)
-- [local:G156 — G156. Complete diagonal and two off-diagonal sectors](../records/0172.md#local-g156-64de54fa5d)
-- [local:G157 — G157. Repeated-prime support and the exact remaining estimate](../records/0172.md#local-g157-364d426290)
-- [local:G158 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0172.md#local-g158-0d89940370)
+- [local:G155 — \[research revision\]: paid parts of the separated mixed moment (G155)](../records/0173.md#local-g155-78ae9ec0c1)
+- [local:G156 — G156. Complete diagonal and two off-diagonal sectors](../records/0173.md#local-g156-64de54fa5d)
+- [local:G157 — G157. Repeated-prime support and the exact remaining estimate](../records/0173.md#local-g157-364d426290)
+- [local:G158 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0173.md#local-g158-0d89940370)
 - [local:G161 — \[research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0173.md#local-g161-cdae7b8782)
 - [local:G163 — G163. Exact native Schur and four-cycle bills](../records/0173.md#local-g163-f5dbf60250)
 - [local:G164 — \[research revision\]: weighted boundary spectrum and complete source transfers (G164)](../records/0173.md#local-g164-a3e566ccd6)

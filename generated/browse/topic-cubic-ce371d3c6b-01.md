@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/3; 557 matching records.
+Page 1/3; 562 matching records.
 
 [Next](topic-cubic-ce371d3c6b-02.md)
 
@@ -209,9 +209,14 @@ Page 1/3; 557 matching records.
 - [QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM — Complete cubic-divisor heat transform with presented Euler deletion and full principal centering](../records/0131.md#qrh-cont-r078-cubic-divisor-heat-transform-0e04e2a96d)
 - [QRH-CONT-R083-JOINT-REFLECTION-GATE — Coefficientwise classification of the common-time joint reflection gate](../records/0131.md#qrh-cont-r083-joint-reflection-gate-5748421590)
 - [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
+- [QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION — Actual ordered-pair finite cubic Hankel contraction, full principal moments and paid Mertens envelope](../records/0131.md#qrh-cont-r085-actual-finite-hankel-contraction-a30cef365b)
 - [QRH-CONT-R085-CUBIC-COMPACT-RATIO — Compact-ratio cubic kernel asymptotics and the complete deletion moment state](../records/0131.md#qrh-cont-r085-cubic-compact-ratio-a7d90cafe6)
 - [QRH-CONT-R086-CUBIC-RATIONAL-RAY — Uniform cubic rational-ray completion and a paid product cutoff](../records/0131.md#qrh-cont-r086-cubic-rational-ray-0a3b888977)
+- [QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE — General complex common-time cubic phase family with full physical pairing and restricted principal contour box](../records/0131.md#qrh-cont-r087-complex-cubic-phase-source-5be3696509)
+- [QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS — Physical imprimitive Gauss overlaps: inclusive prices and a complete weighted maximal-class transfer](../records/0131.md#qrh-cont-r088-complete-physical-gauss-overlaps-5764b0d033)
+- [QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE — Full two-orientation cubic Gauss AA covariance with moving twist and unchanged incumbent price](../records/0131.md#qrh-cont-r091-two-orientation-aa-covariance-bfae1b8248)
 - [QRH-CONT-R092-CANONICAL-ACTIVE-BANK — Complete long-column norm of the canonical active prime bank](../records/0131.md#qrh-cont-r092-canonical-active-bank-1fd9650dd8)
+- [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
 - [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
 - [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
 - [QRH-HEAT-FILTERED-CUBIC-SOURCE — Complete filtered cubic heat source with a uniform saddle bound on every retained index](../records/0131.md#qrh-heat-filtered-cubic-source-8a363350a2)
@@ -228,7 +233,7 @@ Page 1/3; 557 matching records.
 - [local-section:0a7095081b2891c6ad4d0a10 — 4. Pointwise cubic-sieve bound with the actual colors and slots](../records/0139.md#local-section-0a7095081b2891c6ad4d0a10-9413f657b0)
 - [local-section:0b6ce8b0a418eea9d4b7943f — Source anchors and review boundary](../records/0139.md#local-section-0b6ce8b0a418eea9d4b7943f-3c042a7ef5)
 - [local-section:0c403f6e0469d25490673b25 — Next estimates](../records/0139.md#local-section-0c403f6e0469d25490673b25-3cf812fc48)
-- [local-section:0f280def20a7b2a8198225b7 — DQ9. The complementary classes force the opposite pole](../records/0139.md#local-section-0f280def20a7b2a8198225b7-10a4276904)
+- [local-section:0f280def20a7b2a8198225b7 — DQ9. The complementary classes force the opposite pole](../records/0140.md#local-section-0f280def20a7b2a8198225b7-10a4276904)
 - [local-section:0f8d17cdaf42d1670e4be6a8 — Accepted input packages](../records/0140.md#local-section-0f8d17cdaf42d1670e4be6a8-3b5dc21d96)
 - [local-section:11aed782bac35ff6dd5212da — W40 — signed boundary budgets, the cost of positivity, and long projector cycles](../records/0140.md#local-section-11aed782bac35ff6dd5212da-7c09a722f8)
 - [local-section:11eb0e49462494399ea90080 — \[research revision\]: paid detector composition and actual prime matching](../records/0140.md#local-section-11eb0e49462494399ea90080-bef6786726)
@@ -249,10 +254,5 @@ Page 1/3; 557 matching records.
 - [local-section:1c1323abafd914be4b98db3a — New quantitative theorem](../records/0141.md#local-section-1c1323abafd914be4b98db3a-caed4bf531)
 - [local-section:1cb903b30a330a1b695526a3 — 4. Square-core middle estimate: unrestricted cubic outer variable](../records/0141.md#local-section-1cb903b30a330a1b695526a3-fe416907a1)
 - [local-section:1d01d3989f9a06e0a1c9faaa — DQ10--DQ11. The legitimate weighted cubic-sieve estimate](../records/0141.md#local-section-1d01d3989f9a06e0a1c9faaa-303fd91ffe)
-- [local-section:1e6d72dedb556bb6220e7f55 — G219. Actual principal channels and the cheapest generic price](../records/0141.md#local-section-1e6d72dedb556bb6220e7f55-22ea2ac91d)
-- [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0141.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)
-- [local-section:1ebf77c9b8999658bdc046c6 — 6. Independent checks and reproducibility](../records/0142.md#local-section-1ebf77c9b8999658bdc046c6-9eed05fb8d)
-- [local-section:20e4b37727cde3aaa51ec5f8 — \[research revision\]: weighted physical radical mass](../records/0142.md#local-section-20e4b37727cde3aaa51ec5f8-dd746269dd)
-- [local-section:210014557018a84cd2e8f376 — 6. Size of the new payment and the primitive-row obstruction](../records/0142.md#local-section-210014557018a84cd2e8f376-720c7104d3)
-- [local-section:217ab698a49a908fdfef9f60 — Independent review of the actual R4 middle power-core sectors](../records/0142.md#local-section-217ab698a49a908fdfef9f60-20648d547c)
-- [local-section:23078e72481699d7662aaa41 — Find a mechanism](../records/0142.md#local-section-23078e72481699d7662aaa41-f51434a986)
+- [local-section:1e6d72dedb556bb6220e7f55 — G219. Actual principal channels and the cheapest generic price](../records/0142.md#local-section-1e6d72dedb556bb6220e7f55-22ea2ac91d)
+- [local-section:1e81beef6a0372e8aad8fe68 — Early Wild: developed tools and exact failures](../records/0142.md#local-section-1e81beef6a0372e8aad8fe68-31bde40bd2)

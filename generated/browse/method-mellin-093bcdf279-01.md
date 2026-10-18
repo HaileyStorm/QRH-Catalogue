@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/5; 1074 matching records.
+Page 1/5; 1075 matching records.
 
 [Next](method-mellin-093bcdf279-02.md)
 
@@ -168,6 +168,7 @@ Page 1/5; 1074 matching records.
 - [QRH-CONT-R019-SMALL-PRIME-NORM-PRICE — Exact small-prime pairing and the cost of separately norming its two kernels](../records/0131.md#qrh-cont-r019-small-prime-norm-price-27e946249f)
 - [QRH-CONT-R023-THETA-PROFILE-FILTER — Whole theta-profile filters cancel reflected gamma poles while preserving the reciprocal signal](../records/0131.md#qrh-cont-r023-theta-profile-filter-81078fc068)
 - [QRH-CONT-R054-TWO-RESIDUE-POLARIZATION — Complete gcd Euler residues and a polarized annihilator](../records/0131.md#qrh-cont-r054-two-residue-polarization-187bb7a866)
+- [QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION — Actual ordered-pair finite cubic Hankel contraction, full principal moments and paid Mertens envelope](../records/0131.md#qrh-cont-r085-actual-finite-hankel-contraction-a30cef365b)
 - [QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN — Seed-free target-dependent ratio plateaux, matched Mobius tails and complete one-sided ordinary return](../records/0131.md#qrh-cont-u4-matched-plateau-ordinary-return-404881c4a3)
 - [QRH-HEAT-ANNULAR-SADDLE-BOUND — Complete annular filtered heat estimate with exact dyadic tail and remaining central interval](../records/0131.md#qrh-heat-annular-saddle-bound-4bf145df21)
 - [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0138.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
@@ -192,9 +193,9 @@ Page 1/5; 1074 matching records.
 - [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
 - [local-section:04d07085a3f405b853ec22b6 — \[research revision\]-Q3: a finite-to-Hilbert limit exposes the missing uniform bound](../records/0138.md#local-section-04d07085a3f405b853ec22b6-d3c5c6575a)
 - [local-section:058a3ea5e9d85a79b1a0ddac — 2.1 Independent Mellin check](../records/0138.md#local-section-058a3ea5e9d85a79b1a0ddac-fc074d564f)
-- [local-section:0604c923f71cfde85472cdfa — G189. Full constant-cut source transfer](../records/0138.md#local-section-0604c923f71cfde85472cdfa-6e52dcea0d)
-- [local-section:060c03323c6c4840f62b0d5a — 3. What the primitive conductor tells the shared witness](../records/0138.md#local-section-060c03323c6c4840f62b0d5a-bec0e33c17)
-- [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0138.md#local-section-06178eec24a4b4514c023259-786003578f)
+- [local-section:0604c923f71cfde85472cdfa — G189. Full constant-cut source transfer](../records/0139.md#local-section-0604c923f71cfde85472cdfa-6e52dcea0d)
+- [local-section:060c03323c6c4840f62b0d5a — 3. What the primitive conductor tells the shared witness](../records/0139.md#local-section-060c03323c6c4840f62b0d5a-bec0e33c17)
+- [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0139.md#local-section-06178eec24a4b4514c023259-786003578f)
 - [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0139.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
 - [local-section:069edb9860e9d2d62b98d471 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](../records/0139.md#local-section-069edb9860e9d2d62b98d471-e38d065e88)
 - [local-section:0711df2f271db4f74d620dd1 — 6. Precise OPEN estimate and every-height zero return](../records/0139.md#local-section-0711df2f271db4f74d620dd1-867437642c)
@@ -218,9 +219,9 @@ Page 1/5; 1074 matching records.
 - [local-section:0e37e1a2a40f5005f321445a — Independent W59 review](../records/0139.md#local-section-0e37e1a2a40f5005f321445a-e82327cd40)
 - [local-section:0e4a6609144ed573017ab2c1 — 2. Intake, exact sources and novelty](../records/0139.md#local-section-0e4a6609144ed573017ab2c1-5837e46523)
 - [local-section:0e849c9fc4c05885e1546acb — 6. A stable first-shell inverse and its unpaid future tail](../records/0139.md#local-section-0e849c9fc4c05885e1546acb-f89011601a)
-- [local-section:0eae90fa68d4c091e5e95a95 — W56 independent review: conditional density gain, exact returns, no new c](../records/0139.md#local-section-0eae90fa68d4c091e5e95a95-87a426d2d5)
-- [local-section:0ebd00cf3b43f6bab13bed2d — \[research revision\] independent headroom branch B — one-grid arithmetic-wavelet obstruction](../records/0139.md#local-section-0ebd00cf3b43f6bab13bed2d-4c80627c45)
-- [local-section:0ed1ac6e0f783e0f45815555 — T09. Scale-\\(L^2\\) direct detectors](../records/0139.md#local-section-0ed1ac6e0f783e0f45815555-24e2b980d8)
+- [local-section:0eae90fa68d4c091e5e95a95 — W56 independent review: conditional density gain, exact returns, no new c](../records/0140.md#local-section-0eae90fa68d4c091e5e95a95-87a426d2d5)
+- [local-section:0ebd00cf3b43f6bab13bed2d — \[research revision\] independent headroom branch B — one-grid arithmetic-wavelet obstruction](../records/0140.md#local-section-0ebd00cf3b43f6bab13bed2d-4c80627c45)
+- [local-section:0ed1ac6e0f783e0f45815555 — T09. Scale-\\(L^2\\) direct detectors](../records/0140.md#local-section-0ed1ac6e0f783e0f45815555-24e2b980d8)
 - [local-section:0f8d17cdaf42d1670e4be6a8 — Accepted input packages](../records/0140.md#local-section-0f8d17cdaf42d1670e4be6a8-3b5dc21d96)
 - [local-section:0ff1872cc3c3029c23ca9730 — R39-F. f3 keeps its actual Euler factors and full signed return](../records/0140.md#local-section-0ff1872cc3c3029c23ca9730-7ace6720cd)
 - [local-section:100108cea4ba380f43271ffc — W53: finite-prime log pressure and phase-balanced blocks](../records/0140.md#local-section-100108cea4ba380f43271ffc-431eaad6e9)
@@ -241,7 +242,7 @@ Page 1/5; 1074 matching records.
 - [local-section:15342f90ef2310d9eecd3acd — 56. Compensated square sources and complete collision payment](../records/0140.md#local-section-15342f90ef2310d9eecd3acd-e0f079b15b)
 - [local-section:154781b2a38538688cf68fe7 — 6. Quantifier and transfer contract for the finished proof](../records/0140.md#local-section-154781b2a38538688cf68fe7-a222a91b13)
 - [local-section:159dbf80a3962f24098a83e4 — 2. Exact intake, novelty and outside sources](../records/0140.md#local-section-159dbf80a3962f24098a83e4-a41fe8d16f)
-- [local-section:16a34e49fedce1cd93d52ff0 — 3. Primitive conductor and the actual common witness](../records/0140.md#local-section-16a34e49fedce1cd93d52ff0-2fd96f5775)
+- [local-section:16a34e49fedce1cd93d52ff0 — 3. Primitive conductor and the actual common witness](../records/0141.md#local-section-16a34e49fedce1cd93d52ff0-2fd96f5775)
 - [local-section:16f02addba463c1c27c45c11 — 4. Survivors03/20: actual Gaussian forcing defeats an uncut prime resolvent](../records/0141.md#local-section-16f02addba463c1c27c45c11-7599715de4)
 - [local-section:179af8163e554a71f19120ee — \[research revision\]: local small-value sets recover a complete Gaussian exponent](../records/0141.md#local-section-179af8163e554a71f19120ee-8a75494f8a)
 - [local-section:17ce8cb5466b6cc2778913a6 — 2. Retaining only a small correction-prime range](../records/0141.md#local-section-17ce8cb5466b6cc2778913a6-9bcadb5d17)
@@ -255,4 +256,3 @@ Page 1/5; 1074 matching records.
 - [local-section:1c1323abafd914be4b98db3a — New quantitative theorem](../records/0141.md#local-section-1c1323abafd914be4b98db3a-caed4bf531)
 - [local-section:1c51c1f3a7dc59f9dc5634bf — Review ownership, independence and evidence](../records/0141.md#local-section-1c51c1f3a7dc59f9dc5634bf-6ad0911efe)
 - [local-section:1ce67a043d56936d75afd549 — G138. Full integral persistence and fixed versus moving readouts](../records/0141.md#local-section-1ce67a043d56936d75afd549-1f844de6c1)
-- [local-section:1d890316dcea59e5e2367fc1 — Group2: free invention](../records/0141.md#local-section-1d890316dcea59e5e2367fc1-be2b0a44dd)

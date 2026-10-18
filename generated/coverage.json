@@ -52,7 +52,7 @@
     "manuscript_remark": 1,
     "manuscript_section": 476,
     "manuscript_theorem": 3,
-    "mathematical-component": 119,
+    "mathematical-component": 126,
     "mathematical-identity-and-conditional-return": 1,
     "mathematical-identity-and-obstruction": 1,
     "mathematical-numerical-consumer-repair": 1,
@@ -97,7 +97,7 @@
     "theorem": 3049,
     "unchanged_entrypoint": 1
   },
-  "edges": 40049,
+  "edges": 40075,
   "evidence_class": "local deterministic navigation build; no theorem validation",
   "inputs": {
     "restricted-source:0004e89b7a8295e40fa806e8bc0574987affed7414c0998cb540db0a892c040f-21cebcd597fd": {
@@ -38636,8 +38636,8 @@
     ],
     "version": 1
   },
-  "records": 21839,
-  "records_sha256": "7a9fc819d4f20bf26a6ebd2bb2ee5f31b8ac84c55afd29c0a20342cd722bd7aa",
+  "records": 21846,
+  "records_sha256": "f142feef6bc109f9b9955e89361a85a7249865bf26d13f687c6c2254638a6048",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }

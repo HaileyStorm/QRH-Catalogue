@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1450 matching records.
+Page 1/6; 1454 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 
@@ -218,7 +218,11 @@ Page 1/6; 1450 matching records.
 - [QRH-CONT-R077-THREE-STATE-COUPLED-COMPENSATOR — Three-state coupled prime compensator with exact full-source available cost](../records/0131.md#qrh-cont-r077-three-state-coupled-compensator-da848f54d0)
 - [QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM — Complete cubic-divisor heat transform with presented Euler deletion and full principal centering](../records/0131.md#qrh-cont-r078-cubic-divisor-heat-transform-0e04e2a96d)
 - [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
+- [QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION — Actual ordered-pair finite cubic Hankel contraction, full principal moments and paid Mertens envelope](../records/0131.md#qrh-cont-r085-actual-finite-hankel-contraction-a30cef365b)
 - [QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS — Complete physical-row and two-prime-label collision payment](../records/0131.md#qrh-cont-r091-complete-row-label-collisions-79cd2b7559)
+- [QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE — General affine-envelope all-bin leakage closure from the same complete signed source](../records/0131.md#qrh-cont-r092-affine-all-bin-leakage-63a9ea2214)
+- [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
+- [QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR — Complete nonprincipal near-unilateral sector for bounded cube-free coefficients with a squarepart cap](../records/0131.md#qrh-cont-r094-complete-near-unilateral-sector-63ea801aae)
 - [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
 - [QRH-CONT-U2-COMPLEMENT-AND-REVERSE-EQUIVALENCE — General heat-complement payment and exact all-character calibration of finite-source criteria](../records/0131.md#qrh-cont-u2-complement-and-reverse-equivalence-8583f4f177)
 - [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
@@ -252,7 +256,3 @@ Page 1/6; 1450 matching records.
 - [local-section:049b0b111c3aa167f4ac66ae — 7. Novelty, exact scope, and unresolved work](../records/0138.md#local-section-049b0b111c3aa167f4ac66ae-f2bb664b5d)
 - [local-section:04b784e84bc801bb8747ca9b — 7. Evidence, provenance and disposition](../records/0138.md#local-section-04b784e84bc801bb8747ca9b-a09f746032)
 - [local-section:051e901193a4143a5bea30d3 — F19. Higher integrability and stable future tails](../records/0138.md#local-section-051e901193a4143a5bea30d3-c7d2f214e6)
-- [local-section:0540ad65008e7cc2581a4a39 — 1. Blind preparation, exposure and evidence](../records/0138.md#local-section-0540ad65008e7cc2581a4a39-c628244222)
-- [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0138.md#local-section-05a898c044306d64e55cadee-b3fa865755)
-- [local-section:05b7dc4fd36efbb10143f70a — 1. Exact source and normalization](../records/0138.md#local-section-05b7dc4fd36efbb10143f70a-89827a7c12)
-- [local-section:05dab8278c2ff444af29988d — F02. Large-prime null packets and common-core dispersion](../records/0138.md#local-section-05dab8278c2ff444af29988d-86fd5ec050)

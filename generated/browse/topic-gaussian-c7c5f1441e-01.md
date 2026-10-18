@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1292 matching records.
+Page 1/6; 1295 matching records.
 
 [Next](topic-gaussian-c7c5f1441e-02.md)
 
@@ -223,9 +223,12 @@ Page 1/6; 1292 matching records.
 - [QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD — Positive ordinary Gaussian height norm and complete gcd pair source](../records/0131.md#qrh-cont-r071-ordinary-heat-norm-gcd-61e0d76bfa)
 - [QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE — Complete four-long heat remainder with paid complements and whole-source equivalence](../records/0131.md#qrh-cont-r076-four-long-heat-equivalence-93022dda42)
 - [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
+- [QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION — Actual ordered-pair finite cubic Hankel contraction, full principal moments and paid Mertens envelope](../records/0131.md#qrh-cont-r085-actual-finite-hankel-contraction-a30cef365b)
 - [QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN — Exact ordinary heat indicator and integrated and pointwise energy returns](../records/0131.md#qrh-cont-r087-exact-heat-energy-return-f5cfddfec6)
 - [QRH-CONT-R088-DEFORMED-HEAT-INVERSE — Exact deformed heat inversion with its ordinary-product defect and evaluation cost](../records/0131.md#qrh-cont-r088-deformed-heat-inverse-60d08017c5)
 - [QRH-CONT-R089-HEAT-WINDOW-MATRIX — Complete moving-window prices and finite ordinary inverse-matrix bounds](../records/0131.md#qrh-cont-r089-heat-window-matrix-47b1d24d09)
+- [QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE — Full two-orientation cubic Gauss AA covariance with moving twist and unchanged incumbent price](../records/0131.md#qrh-cont-r091-two-orientation-aa-covariance-bfae1b8248)
+- [QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON — Exact joint residual-row Poisson and complete L93 source with dense-shell and conductor-safe frame prices](../records/0131.md#qrh-cont-r093-joint-residual-row-poisson-e2cc13ad7f)
 - [QRH-CONT-U1-ALL-RANGE-GCD-AND-DIAGONAL — Complete Gaussian gcd tail for all positive evaluation lines and below-half diagonal calibration](../records/0131.md#qrh-cont-u1-all-range-gcd-and-diagonal-ee1a14b8c6)
 - [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
 - [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
@@ -253,6 +256,3 @@ Page 1/6; 1292 matching records.
 - [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
 - [local-section:04b6d33531f5f8fd0fcefef4 — A04. Exact calibration of a family of adaptive probes](../records/0138.md#local-section-04b6d33531f5f8fd0fcefef4-7abbd128bc)
 - [local-section:04b784e84bc801bb8747ca9b — 7. Evidence, provenance and disposition](../records/0138.md#local-section-04b784e84bc801bb8747ca9b-a09f746032)
-- [local-section:058a3ea5e9d85a79b1a0ddac — 2.1 Independent Mellin check](../records/0138.md#local-section-058a3ea5e9d85a79b1a0ddac-fc074d564f)
-- [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0138.md#local-section-05a898c044306d64e55cadee-b3fa865755)
-- [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0138.md#local-section-06178eec24a4b4514c023259-786003578f)

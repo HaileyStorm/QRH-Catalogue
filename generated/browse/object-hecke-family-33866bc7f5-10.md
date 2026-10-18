@@ -2,15 +2,17 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 10/11; 2704 matching records.
+Page 10/11; 2706 matching records.
 
 [Previous](object-hecke-family-33866bc7f5-09.md)
 
 [Next](object-hecke-family-33866bc7f5-11.md)
 
+- [local-section:ee3239e3ac4fe748c313d339 — Independent \[research revision\] review: larger Gao amplifier and endpoint return](../records/0168.md#local-section-ee3239e3ac4fe748c313d339-67e6cb4dd5)
+- [local-section:ee70bacd7dc482fcba6b097d — PS3. Cubic twists occupy square-indexed sextic rows](../records/0168.md#local-section-ee70bacd7dc482fcba6b097d-7f85e7b7db)
 - [local-section:ee76eaf557662c0aa55b8bb7 — Accepted literal f3 threshold laws](../records/0168.md#local-section-ee76eaf557662c0aa55b8bb7-ab112b38d0)
-- [local-section:eefb964a20e26033b98300c5 — Strongest surviving obstruction and the next attack](../records/0168.md#local-section-eefb964a20e26033b98300c5-e4dfcf0c1c)
-- [local-section:ef0401cee60c2a1f7af98fbd — 6. Protected S28: source-exact signed coupling audit](../records/0168.md#local-section-ef0401cee60c2a1f7af98fbd-fea821520f)
+- [local-section:eefb964a20e26033b98300c5 — Strongest surviving obstruction and the next attack](../records/0169.md#local-section-eefb964a20e26033b98300c5-e4dfcf0c1c)
+- [local-section:ef0401cee60c2a1f7af98fbd — 6. Protected S28: source-exact signed coupling audit](../records/0169.md#local-section-ef0401cee60c2a1f7af98fbd-fea821520f)
 - [local-section:efa66a211c4ea40618248fb9 — 1. Evidence and independent work](../records/0169.md#local-section-efa66a211c4ea40618248fb9-c7086d20f1)
 - [local-section:f03af310fca905991591b7f1 — W64 independent review](../records/0169.md#local-section-f03af310fca905991591b7f1-010b3f12e4)
 - [local-section:f051e72f2714f070c06f911f — R42.6. D26's complete omitted-prime product](../records/0169.md#local-section-f051e72f2714f070c06f911f-cf3f53a4e4)
@@ -58,7 +60,7 @@ Page 10/11; 2704 matching records.
 - [local-section:fdfc59daeca23a151e45ac55 — R11. Independent evidence and closeout contract](../records/0170.md#local-section-fdfc59daeca23a151e45ac55-9d837c03aa)
 - [local-section:fe5bb6e504e86db376ebd729 — HCR1. Disposition and actual input](../records/0170.md#local-section-fe5bb6e504e86db376ebd729-578e5c2aed)
 - [local-section:ff2c99337913cdfb4cdce9dd — 6. Actual next obstruction and a deliberately coarse complete test](../records/0170.md#local-section-ff2c99337913cdfb4cdce9dd-f603024382)
-- [local-section:ffdabdeb004b60671c5de669 — 6. All thirty dispositions and collective novelty](../records/0170.md#local-section-ffdabdeb004b60671c5de669-6d6ca47202)
+- [local-section:ffdabdeb004b60671c5de669 — 6. All thirty dispositions and collective novelty](../records/0171.md#local-section-ffdabdeb004b60671c5de669-6d6ca47202)
 - [local:A03 — A03. Smooth prime convolutions: a proved gain and its resonance boundary](../records/0171.md#local-a03-9e9a3d45e7)
 - [local:A14 — A14. Grok's conditional geometry certificate and its scope corrections](../records/0171.md#local-a14-fcce0ba816)
 - [local:F12 — F12. Correlated moving-prime amplification](../records/0171.md#local-f12-b67c4de618)
@@ -75,7 +77,7 @@ Page 10/11; 2704 matching records.
 - [local:G128 — G128. Source, prediction and an exact zero census](../records/0172.md#local-g128-b9b933b7d4)
 - [local:G140 — \[research revision\]: a nonlinear detector with a completely paid far tail (G140)](../records/0172.md#local-g140-88c35bf505)
 - [local:G146 — G146. The complete prefix is paid over the original slot interval](../records/0172.md#local-g146-fa0a5d0458)
-- [local:G155 — \[research revision\]: paid parts of the separated mixed moment (G155)](../records/0172.md#local-g155-78ae9ec0c1)
+- [local:G155 — \[research revision\]: paid parts of the separated mixed moment (G155)](../records/0173.md#local-g155-78ae9ec0c1)
 - [local:G161 — \[research revision\]: short arithmetic moves and the complete signed remainder (G161)](../records/0173.md#local-g161-cdae7b8782)
 - [local:G170 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0173.md#local-g170-c98506834f)
 - [local:G171 — G171. Arbitrarily many cuts at bounded total variation](../records/0173.md#local-g171-59c7f96e7a)
@@ -120,7 +122,7 @@ Page 10/11; 2704 matching records.
 - [pr26:Analytic.ActualIncumbent::actual_incumbent_pair@834 — actual_incumbent_pair](../records/0175.md#pr26-analytic-actualincumbent-actual-incumbent-pair-834-1b41b896e0)
 - [pr26:Analytic.ActualRawDensity::actual_momentData_density@261 — actual_momentData_density](../records/0175.md#pr26-analytic-actualrawdensity-actual-momentdata-density-261-b3e93cb039)
 - [pr26:Analytic.ActualRawDensity::actual_momentData_free_density_eventually@164 — actual_momentData_free_density_eventually](../records/0175.md#pr26-analytic-actualrawdensity-actual-momentdata-free-density-eve-8b3f8af867)
-- [pr26:Analytic.ActualUnmarkedCount::actual_unmarked_batch_count@46 — actual_unmarked_batch_count](../records/0175.md#pr26-analytic-actualunmarkedcount-actual-unmarked-batch-count-46-0ea4816da7)
+- [pr26:Analytic.ActualUnmarkedCount::actual_unmarked_batch_count@46 — actual_unmarked_batch_count](../records/0176.md#pr26-analytic-actualunmarkedcount-actual-unmarked-batch-count-46-0ea4816da7)
 - [pr26:Analytic.ActualUnmarkedMoments::fixed_family_moments@13882 — fixed_family_moments](../records/0176.md#pr26-analytic-actualunmarkedmoments-fixed-family-moments-13882-7c826aefe5)
 - [pr26:Analytic.ActualUnmarkedMoments::fixed_family_plain@13838 — fixed_family_plain](../records/0176.md#pr26-analytic-actualunmarkedmoments-fixed-family-plain-13838-5ffe2caa53)
 - [pr26:Analytic.BufferedPartition::buffered_count_of_bin_counts@566 — buffered_count_of_bin_counts](../records/0176.md#pr26-analytic-bufferedpartition-buffered-count-of-bin-counts-566-7ff955fdc2)
@@ -161,8 +163,8 @@ Page 10/11; 2704 matching records.
 - [pr26:Analytic.JointFirstOriginalRemainder::first_original_source_remainder@484 — first_original_source_remainder](../records/0183.md#pr26-analytic-jointfirstoriginalremainder-first-original-source-r-c4aaa47c7d)
 - [pr26:Analytic.JointFirstOriginalRemainder::original_finite_energy_mask@467 — original_finite_energy_mask](../records/0183.md#pr26-analytic-jointfirstoriginalremainder-original-finite-energy--a557a447ba)
 - [pr26:Analytic.JointFirstOriginalTarget::actual_local_first_original_target@189 — actual_local_first_original_target](../records/0183.md#pr26-analytic-jointfirstoriginaltarget-actual-local-first-origina-58a96f1d2d)
-- [pr26:Analytic.JointFirstRawErrors::actual_first_independent_raw_errors@104 — actual_first_independent_raw_errors](../records/0183.md#pr26-analytic-jointfirstrawerrors-actual-first-independent-raw-er-2afc50d3db)
-- [pr26:Analytic.JointFirstRawErrorsFull::actual_first_independent_raw_errors_full@1061 — actual_first_independent_raw_errors_full](../records/0183.md#pr26-analytic-jointfirstrawerrorsfull-actual-first-independent-ra-c3c1889067)
+- [pr26:Analytic.JointFirstRawErrors::actual_first_independent_raw_errors@104 — actual_first_independent_raw_errors](../records/0184.md#pr26-analytic-jointfirstrawerrors-actual-first-independent-raw-er-2afc50d3db)
+- [pr26:Analytic.JointFirstRawErrorsFull::actual_first_independent_raw_errors_full@1061 — actual_first_independent_raw_errors_full](../records/0184.md#pr26-analytic-jointfirstrawerrorsfull-actual-first-independent-ra-c3c1889067)
 - [pr26:Analytic.JointGlobalSourceBins::exists_global_original_source_bins@34 — exists_global_original_source_bins](../records/0185.md#pr26-analytic-jointglobalsourcebins-exists-global-original-source-9d91d95f8e)
 - [pr26:Analytic.JointHighKernel::actual_joint_high_kernel_contribution@360 — actual_joint_high_kernel_contribution](../records/0185.md#pr26-analytic-jointhighkernel-actual-joint-high-kernel-contributi-5ef5552b29)
 - [pr26:Analytic.JointHighKernelGeometry::actual_joint_high_kernel_from_geometry@684 — actual_joint_high_kernel_from_geometry](../records/0185.md#pr26-analytic-jointhighkernelgeometry-actual-joint-high-kernel-fr-0e65063360)
@@ -178,7 +180,7 @@ Page 10/11; 2704 matching records.
 - [pr26:Analytic.JointLowClipped::actual_clipped_allocated_low_contribution@743 — actual_clipped_allocated_low_contribution](../records/0187.md#pr26-analytic-jointlowclipped-actual-clipped-allocated-low-contri-a2f361a6c8)
 - [pr26:Analytic.JointLowClipped::actual_clipped_allocated_low_moment@643 — actual_clipped_allocated_low_moment](../records/0187.md#pr26-analytic-jointlowclipped-actual-clipped-allocated-low-moment-e40b9d3154)
 - [pr26:Analytic.JointLowCommon::actual_common_low_from_parent@584 — actual_common_low_from_parent](../records/0187.md#pr26-analytic-jointlowcommon-actual-common-low-from-parent-584-45b06ef2ec)
-- [pr26:Analytic.JointLowCommonBinSource::actual_second_low_source_of_common_bin@952 — actual_second_low_source_of_common_bin](../records/0187.md#pr26-analytic-jointlowcommonbinsource-actual-second-low-source-of-a8467800eb)
+- [pr26:Analytic.JointLowCommonBinSource::actual_second_low_source_of_common_bin@952 — actual_second_low_source_of_common_bin](../records/0188.md#pr26-analytic-jointlowcommonbinsource-actual-second-low-source-of-a8467800eb)
 - [pr26:Analytic.JointLowComplete::actual_joint_low_contribution@795 — actual_joint_low_contribution](../records/0188.md#pr26-analytic-jointlowcomplete-actual-joint-low-contribution-795-6bc5b994dd)
 - [pr26:Analytic.JointLowComplete::actual_joint_low_full_moment@714 — actual_joint_low_full_moment](../records/0188.md#pr26-analytic-jointlowcomplete-actual-joint-low-full-moment-714-84e90c48d4)
 - [pr26:Analytic.JointLowFirstBins::actual_first_low_bins_sum@649 — actual_first_low_bins_sum](../records/0188.md#pr26-analytic-jointlowfirstbins-actual-first-low-bins-sum-649-b9d2f6bfdc)
@@ -256,5 +258,3 @@ Page 10/11; 2704 matching records.
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::partialErrorTuple_kernel_integrable@515 — partialErrorTuple_kernel_integrable](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-partiale-61b51d772a)
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::partialErrorTuple_mellin@541 — partialErrorTuple_mellin](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-partiale-aa150610d9)
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::partialErrorTuple_packet@487 — partialErrorTuple_packet](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-partiale-04c1405d2a)
-- [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::weightedErrorTuple_kernel_integrable@462 — weightedErrorTuple_kernel_integrable](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-weighted-2c4e629a44)
-- [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::weightedErrorTuple_packet@447 — weightedErrorTuple_packet](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-weighted-a40d31f979)

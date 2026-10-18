@@ -2,10 +2,12 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3038 matching records.
+Page 13/13; 3040 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
+- [pr26:LocalMoment.SixthRowMask::amplified_modulus_mask@787 — amplified_modulus_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-modulus-mask-787-a105cf085c)
+- [pr26:LocalMoment.SixthRowMask::amplified_nonprincipal@795 — amplified_nonprincipal](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-nonprincipal-795-fb96401a27)
 - [pr26:LocalMoment.SixthRowMask::amplified_positive_zeros@802 — amplified_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-positive-zeros-802-a0256f8a62)
 - [pr26:LocalMoment.SixthRowMask::amplified_zeroMaximum@810 — amplified_zeroMaximum](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-zeromaximum-810-fdb7a6cba2)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_character_mask@822 — sixthFrequency_character_mask](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-character-mask-822-b38c72b7bf)
@@ -26,10 +28,10 @@ Page 13/13; 3038 matching records.
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0216.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0216.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
 - [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0216.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
-- [pr26:Physical.LocalOriginalFourth::certified_transport_original_numerator_fourth@77 — certified_transport_original_numerator_fourth](../records/0216.md#pr26-physical-localoriginalfourth-certified-transport-original-nu-5fe864c6d8)
-- [pr26:Physical.LocalRetained::certified_transport_actual_retained_fourth@401 — certified_transport_actual_retained_fourth](../records/0216.md#pr26-physical-localretained-certified-transport-actual-retained-f-a3a7c1fa24)
-- [pr26:Physical.LocalRetainedFixed::certified_transport_retained_fixed_profile@314 — certified_transport_retained_fixed_profile](../records/0216.md#pr26-physical-localretainedfixed-certified-transport-retained-fix-f46ed35d0c)
-- [pr26:Physical.LocalSourceBin::source_packet_selected_bin_local@380 — source_packet_selected_bin_local](../records/0216.md#pr26-physical-localsourcebin-source-packet-selected-bin-local-380-475c691d34)
+- [pr26:Physical.LocalOriginalFourth::certified_transport_original_numerator_fourth@77 — certified_transport_original_numerator_fourth](../records/0217.md#pr26-physical-localoriginalfourth-certified-transport-original-nu-5fe864c6d8)
+- [pr26:Physical.LocalRetained::certified_transport_actual_retained_fourth@401 — certified_transport_actual_retained_fourth](../records/0217.md#pr26-physical-localretained-certified-transport-actual-retained-f-a3a7c1fa24)
+- [pr26:Physical.LocalRetainedFixed::certified_transport_retained_fixed_profile@314 — certified_transport_retained_fixed_profile](../records/0217.md#pr26-physical-localretainedfixed-certified-transport-retained-fix-f46ed35d0c)
+- [pr26:Physical.LocalSourceBin::source_packet_selected_bin_local@380 — source_packet_selected_bin_local](../records/0217.md#pr26-physical-localsourcebin-source-packet-selected-bin-local-380-475c691d34)
 - [pr26:Physical.LocalTransportFourier::certified_transport_reflected_fourier_moment@733 — certified_transport_reflected_fourier_moment](../records/0217.md#pr26-physical-localtransportfourier-certified-transport-reflected-e0d2ddb213)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::exists_positive_floor@1671 — exists_positive_floor](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-exists-positive--436db68057)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::masked_natural_pair_slots@1262 — masked_natural_pair_slots](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-masked-natural-p-55062086a1)

@@ -127975,6 +127975,266 @@
         "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
         "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
       }
+    },
+    {
+      "source": "QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION",
+      "target": "QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "4200ca543677b830c03c8d148326636e48418491485d3c68e17c6d93b9b31008",
+        "locator": "085.1\u2013085.6,085.17,085.29",
+        "basis": "Retains exactly the finite whole cubic source and paid omitted ranges; no altered source or new return."
+      }
+    },
+    {
+      "source": "QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION",
+      "target": "QRH-CONT-R073-EARLY-CENTERED-HANKEL-OPERATOR",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "4200ca543677b830c03c8d148326636e48418491485d3c68e17c6d93b9b31008",
+        "locator": "Section7/source comparisons",
+        "basis": "Earlier centered Hecke operator has different source and contour hypotheses; no equivalence or transferred ordinary estimate."
+      }
+    },
+    {
+      "source": "QRH-CONT-R085-ACTUAL-FINITE-HANKEL-CONTRACTION",
+      "target": "local:G158",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "4200ca543677b830c03c8d148326636e48418491485d3c68e17c6d93b9b31008",
+        "locator": "Section7/source comparisons",
+        "basis": "Existing plain-L2 Hankel mechanism; no new generic dilation identity or source-independent norm theorem."
+      }
+    },
+    {
+      "source": "QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE",
+      "target": "QRH-CONT-R083-JOINT-REFLECTION-GATE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "65e43b0ded99f6dc1d3df186fd63038b9d3713510b56a174f67a835c8b38fc65",
+        "locator": "087.1\u2013087.6",
+        "basis": "Uses the exact common-time three-state gate, and explicitly extends fixed coefficient choices to the stated complex family."
+      }
+    },
+    {
+      "source": "QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE",
+      "target": "QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "d523b2325c83be84b8fedabe3c4196d489b4e5aa69ce8b8fa77de2d88fdad5e0",
+        "locator": "086.20\u2013086.23 and repair readback",
+        "basis": "Uses the complete three collision channels, intersection and all mutual cross terms; AA square alone is not total square."
+      }
+    },
+    {
+      "source": "QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE",
+      "target": "QRH-CONT-R027-MOVING-GAUSS-PHASE",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "d523b2325c83be84b8fedabe3c4196d489b4e5aa69ce8b8fa77de2d88fdad5e0",
+        "locator": "086.1\u2013086.20",
+        "basis": "Retains earlier moving Gauss phase and natural-zero warning in the new full pair operator; no fixed-ray averaging of the frozen twist."
+      }
+    },
+    {
+      "source": "QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.RayPrimeNormalizer",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "65e43b0ded99f6dc1d3df186fd63038b9d3713510b56a174f67a835c8b38fc65",
+        "locator": "Source ledger; actual Q^(-5/6) normalization",
+        "basis": "Source-interface association only. Retained adapted source was inspected separately from this public module pin; no new formalization or final-use link."
+      }
+    },
+    {
+      "source": "QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Reflection.ActualWeightedEnergy",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "65e43b0ded99f6dc1d3df186fd63038b9d3713510b56a174f67a835c8b38fc65",
+        "locator": "Bounded-complex complete energy and source ledger",
+        "basis": "Reuse requires exact coefficient independence, support, coprimality and original frozen weights. Module indexing is not verification of this extension."
+      }
+    },
+    {
+      "source": "QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS",
+      "target": "QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "15f4f443477ec86287877b50a3166a9f57bb68542141a7a33071bea2d664aa8a",
+        "locator": "088 scope and Sections2\u20135",
+        "basis": "Uses the actual completed complex AA source and inherited full energy with its original masks and weights."
+      }
+    },
+    {
+      "source": "QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS",
+      "target": "QRH-CONT-R026-COLLISION-PAIRING",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "15f4f443477ec86287877b50a3166a9f57bb68542141a7a33071bea2d664aa8a",
+        "locator": "Source comparison and inclusive-overlap conventions",
+        "basis": "Keeps exact signed collision factors; overlap class and whole-source pricing are distinct scopes."
+      }
+    },
+    {
+      "source": "QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussValuation",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "15f4f443477ec86287877b50a3166a9f57bb68542141a7a33071bea2d664aa8a",
+        "locator": "Local table and source ledger",
+        "basis": "Existing valuation interface is a discovery aid; new physical imprimitive k-dependent support is written mathematics, not a new verified Lean declaration."
+      }
+    },
+    {
+      "source": "QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.CubicGaussCRT",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "15f4f443477ec86287877b50a3166a9f57bb68542141a7a33071bea2d664aa8a",
+        "locator": "CRT extraction and source ledger",
+        "basis": "Existing cubic CRT requires all actual admissibility and coprimality hypotheses. It does not establish the noncoprime extension by import."
+      }
+    },
+    {
+      "source": "QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE",
+      "target": "QRH-HECKE-SQUAREFREE-PLAIN-WITNESS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "4c669d3bcc092f2a6c5a8fb21ffceb254ce90d9ae619fc88e5ba3cbacd3cb280",
+        "locator": "092.4\u2013092.8 and inherited source72",
+        "basis": "Uses the SAME actual squarefree/plain witnesses, full X+L enclosure, masks, moments and compatible profile costs; no new witness identity claimed."
+      }
+    },
+    {
+      "source": "QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE",
+      "target": "QRH-CONT-R087-COMPLEX-CUBIC-PHASE-SOURCE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
+        "locator": "091.1\u2013091.23",
+        "basis": "Specializes the preserved complex family to1-c, with full original source, principal signal and restricted contour admission."
+      }
+    },
+    {
+      "source": "QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE",
+      "target": "QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
+        "locator": "091.14\u2013091.17, Section7",
+        "basis": "Uses complete imprimitive physical support and overlaps in the universal LCM expression; does not delete noncoprime columns."
+      }
+    },
+    {
+      "source": "QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE",
+      "target": "local:F11.M",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
+        "locator": "091.17\u2013091.20 and Section7",
+        "basis": "Existing mixed-LCM/cross-tuple principle is reused; the new exact two-orientation arithmetic operator is source-specific."
+      }
+    },
+    {
+      "source": "QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE",
+      "target": "local:F11.X",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
+        "locator": "091.18\u2013091.20 and Section7",
+        "basis": "Same-tuple or complete-residue facts do not erase full independent-height cross-tuples. No general impossibility claim."
+      }
+    },
+    {
+      "source": "QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.Gauss",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
+        "locator": "Section7; exact finite conjugation identity",
+        "basis": "Reuse generic Gauss source interface rather than duplicate it. Public inventory pin and retained adapted source are separate; no new formal stage asserted."
+      }
+    },
+    {
+      "source": "QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR",
+      "target": "QRH-HECKE-OPPOSITE-PARITY-CROSS-SOURCE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "4aadcd7a0f3e4c53fc3efa130eb67218325b350a15834f972d366b34307b75d1",
+        "locator": "094.0\u2013094.4; source scope",
+        "basis": "Uses the literal complete ES kernel, generic cube-free paired mass and actual Hermitian parity array; the new squarepart-cap sector estimate is stronger and separate from the old paid ranges."
+      }
+    },
+    {
+      "source": "QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR",
+      "target": "QRH-HECKE-SQUAREFREE-PLAIN-WITNESS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "4aadcd7a0f3e4c53fc3efa130eb67218325b350a15834f972d366b34307b75d1",
+        "locator": "094.3\u2013094.4; actual squarefree product specialization",
+        "basis": "The actual product supplies sq(n)=gcd(d,m) and cap<=min(w_plus D,v_plus N); the general bounded-coefficient theorem itself does not invoke an inverse moment."
+      }
+    },
+    {
+      "source": "QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR",
+      "target": "QRH-CONT-R092-AFFINE-ALL-BIN-LEAKAGE",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "4aadcd7a0f3e4c53fc3efa130eb67218325b350a15834f972d366b34307b75d1",
+        "locator": "094.4 and094.7; source scope",
+        "basis": "Affine residual target supplies one application of the scalar gate. General sector estimate is not restricted to that numerical affine specialization and proves no whole-source bound."
+      }
+    },
+    {
+      "source": "QRH-CONT-R094-COMPLETE-NEAR-UNILATERAL-SECTOR",
+      "target": "local:G213",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "4aadcd7a0f3e4c53fc3efa130eb67218325b350a15834f972d366b34307b75d1",
+        "locator": "094.6 and Section5",
+        "basis": "Existing cubic-label theorem requires label-independent coefficients/masks and cannot be applied to these ordered-column-pair-dependent reconstruction weights."
+      }
+    },
+    {
+      "source": "QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON",
+      "target": "QRH-CONT-R091-TWO-ORIENTATION-AA-COVARIANCE",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
+        "locator": "093.1\u2013093.6,093.20\u2013093.21",
+        "basis": "Retains the exact whole two-orientation AA source and every coefficient, while applying a new joint row transform before Cauchy."
+      }
+    },
+    {
+      "source": "QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON",
+      "target": "QRH-CONT-R088-COMPLETE-PHYSICAL-GAUSS-OVERLAPS",
+      "kind": "depends_on",
+      "evidence": {
+        "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
+        "locator": "093.3\u2013093.6 and093.22\u2013093.23",
+        "basis": "Uses actual imprimitive local support for UNIQUE maximal d extraction and the conductor-safe frame with original weights; inclusive overlap restrictions are not substituted."
+      }
+    },
+    {
+      "source": "QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Poisson.EisensteinLattice",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
+        "locator": "Source evidence; adapted affine_lattice_poisson125\u2013137",
+        "basis": "Existing Schwartz affine planar Poisson and its Jacobian apply after making the actual coefficient periodic. Public module indexing is not verification of this new source construction."
+      }
+    },
+    {
+      "source": "QRH-CONT-R093-JOINT-RESIDUAL-ROW-POISSON",
+      "target": "LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.GaussEnergy",
+      "kind": "related",
+      "evidence": {
+        "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
+        "locator": "Source evidence; adapted gaussEnergy_poisson106\u2013126",
+        "basis": "Existing fixed supported-pair energy transform does not itself license Poisson on a bounded moving Gauss row; new exact periodic opening is required. No formalizes or final-use claim."
+      }
     }
   ],
   "schema_version": 1

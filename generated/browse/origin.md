@@ -12,6 +12,7 @@
 - [qrh-mathematical-library (3746)](origin-qrh-mathematical-library-a6ebfb3916-01.md)
 - [qrh-reviewed-continuation-20261017 (7)](origin-qrh-reviewed-continuation-20261017-516162dcc1-01.md)
 - [qrh-reviewed-external-integration-20261017 (6)](origin-qrh-reviewed-external-integration-20261017-d6fd4d5ffe-01.md)
+- [qrh-reviewed-post026-20261017 (7)](origin-qrh-reviewed-post026-20261017-b549af132e-01.md)
 - [source-identity (629)](origin-source-identity-47509add16-01.md)
 - [upstream/closed-prs (98)](origin-upstream-closed-prs-c4d4d0b6cd-01.md)
 - [upstream/historical (8824)](origin-upstream-historical-e60db93d2f-01.md)

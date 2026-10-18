@@ -2,10 +2,11 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1074 matching records.
+Page 5/5; 1075 matching records.
 
 [Previous](method-mellin-093bcdf279-04.md)
 
+- [local:G2 — G2 — uncapped free invention](../records/0173.md#local-g2-2c857fea19)
 - [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
 - [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
 - [local:G229 — G229. A full Walsh source with its Gaussian and Euler returns paid](../records/0173.md#local-g229-8b209e3b2b)
@@ -16,8 +17,8 @@ Page 5/5; 1074 matching records.
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0173.md#local-g246-8dd56008a9)
 - [local:G249 — G249. Complete flat-cofactor comparison with fixed parity filter](../records/0173.md#local-g249-33b0a017f2)
 - [local:G251 — G251. Complete primitive-seminorm core and paid damping change](../records/0173.md#local-g251-2e3e6366df)
-- [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0173.md#local-g252-64bd5a4ae5)
-- [local:G256 — G256. Fixed higher-order damping has a direct holomorphic Mellin remainder](../records/0173.md#local-g256-8c9a355c2d)
+- [local:G252 — G252. Exact signed cubic feedback norm and sharp finite-bank inverse](../records/0174.md#local-g252-64bd5a4ae5)
+- [local:G256 — G256. Fixed higher-order damping has a direct holomorphic Mellin remainder](../records/0174.md#local-g256-8c9a355c2d)
 - [local:G260 — G260. Complete fixed phase-average source and tail equivalence](../records/0174.md#local-g260-418dfb38b6)
 - [local:G265 — G265. Fractional Riesz recovery with sharp generic bounded-coefficient loss](../records/0174.md#local-g265-27767aba13)
 - [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0174.md#local-g274-fbf5ea7910)
@@ -62,7 +63,7 @@ Page 5/5; 1074 matching records.
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::polynomial_central_mellin@639 — polynomial_central_mellin](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-polynomial-c-a9dd9bd833)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::reconstruction_kernel_integrable@738 — reconstruction_kernel_integrable](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-reconstructi-0ff3045db8)
 - [pr26:Cycle25.Numerator.Imported.MellinReconstruction::weighted_numerator_mellin@761 — weighted_numerator_mellin](../records/0202.md#pr26-cycle25-numerator-imported-mellinreconstruction-weighted-num-5e5de27765)
-- [pr26:Cycle25.Numerator.Imported.NumeratorCorrectionExpansion::mellin_product_term@559 — mellin_product_term](../records/0202.md#pr26-cycle25-numerator-imported-numeratorcorrectionexpansion-mell-771c1686a7)
+- [pr26:Cycle25.Numerator.Imported.NumeratorCorrectionExpansion::mellin_product_term@559 — mellin_product_term](../records/0203.md#pr26-cycle25-numerator-imported-numeratorcorrectionexpansion-mell-771c1686a7)
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::actual_error_packet_integrable@404 — actual_error_packet_integrable](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-actual-e-103ab51000)
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::partialErrorTuple_kernel_integrable@515 — partialErrorTuple_kernel_integrable](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-partiale-61b51d772a)
 - [pr26:Cycle25.Numerator.Imported.NumeratorErrorIntegrable::partialErrorTuple_mellin@541 — partialErrorTuple_mellin](../records/0203.md#pr26-cycle25-numerator-imported-numeratorerrorintegrable-partiale-aa150610d9)

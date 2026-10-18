@@ -2,13 +2,14 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 17/17; 4112 matching records.
+Page 17/17; 4113 matching records.
 
 [Previous](object-dirichlet-l-8dbc1c2928-16.md)
 
+- [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0172.md#local-g149-643389d4ad)
 - [local:G152 — \[research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0172.md#local-g152-1776ec5c14)
-- [local:G158 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0172.md#local-g158-0d89940370)
-- [local:G159 — G159. All arithmetic and frequency complements are accounted for](../records/0172.md#local-g159-0b34895cc9)
+- [local:G158 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction (G158)](../records/0173.md#local-g158-0d89940370)
+- [local:G159 — G159. All arithmetic and frequency complements are accounted for](../records/0173.md#local-g159-0b34895cc9)
 - [local:G164 — \[research revision\]: weighted boundary spectrum and complete source transfers (G164)](../records/0173.md#local-g164-a3e566ccd6)
 - [local:G166 — G166. Prime removal with exact correction and all-shell return](../records/0173.md#local-g166-e58e0a6cf5)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0173.md#local-g173-0a9bfc34dc)
@@ -58,8 +59,8 @@ Page 17/17; 4112 matching records.
 - [pr26:Global.Endpoint::hecke_nonzero@488 — hecke_nonzero](../records/0207.md#pr26-global-endpoint-hecke-nonzero-488-1737f862d2)
 - [pr26:Global.Final.Endpoint::dirichlet_nonzero_of_raw_fullW_input@177 — dirichlet_nonzero_of_raw_fullW_input](../records/0207.md#pr26-global-final-endpoint-dirichlet-nonzero-of-raw-fullw-input-1-06ee5f9058)
 - [pr26:Global.Final.Endpoint::hecke_nonzero_of_raw_fullW_input@169 — hecke_nonzero_of_raw_fullW_input](../records/0207.md#pr26-global-final-endpoint-hecke-nonzero-of-raw-fullw-input-169-f206c77194)
-- [pr26:Global.Numerator.LocalSourceClass::source_packet_amplitude_class_local@551 — source_packet_amplitude_class_local](../records/0209.md#pr26-global-numerator-localsourceclass-source-packet-amplitude-cl-4397b96e84)
-- [pr26:Global.Numerator.LocalSourceMask::source_mask_amplitude_class_local@36 — source_mask_amplitude_class_local](../records/0209.md#pr26-global-numerator-localsourcemask-source-mask-amplitude-class-265cf45cf3)
+- [pr26:Global.Numerator.LocalSourceClass::source_packet_amplitude_class_local@551 — source_packet_amplitude_class_local](../records/0210.md#pr26-global-numerator-localsourceclass-source-packet-amplitude-cl-4397b96e84)
+- [pr26:Global.Numerator.LocalSourceMask::source_mask_amplitude_class_local@36 — source_mask_amplitude_class_local](../records/0210.md#pr26-global-numerator-localsourcemask-source-mask-amplitude-class-265cf45cf3)
 - [pr26:Global.Numerator.OldSourceMask::source_mask_amplitude_class_old@461 — source_mask_amplitude_class_old](../records/0210.md#pr26-global-numerator-oldsourcemask-source-mask-amplitude-class-o-f54f074e37)
 - [pr26:Global.Numerator.SourceBin::source_packet_selected_bin@466 — source_packet_selected_bin](../records/0210.md#pr26-global-numerator-sourcebin-source-packet-selected-bin-466-1f672124bb)
 - [pr26:Global.Numerator.SourceClass::source_packet_amplitude_class@472 — source_packet_amplitude_class](../records/0210.md#pr26-global-numerator-sourceclass-source-packet-amplitude-class-4-2374cc7359)
@@ -88,7 +89,7 @@ Page 17/17; 4112 matching records.
 - [pr26:Global.Transport.PrincipalRemainderTransport::principal_box_majorant@216 — principal_box_majorant](../records/0213.md#pr26-global-transport-principalremaindertransport-principal-box-m-d24ac80efb)
 - [pr26:Global.Transport.PrincipalSignal::normalized_source_double_residue@1166 — normalized_source_double_residue](../records/0214.md#pr26-global-transport-principalsignal-normalized-source-double-re-bb3e793922)
 - [pr26:Global.Transport.PrincipalSignal::raw_slot_integrable@1124 — raw_slot_integrable](../records/0214.md#pr26-global-transport-principalsignal-raw-slot-integrable-1124-9e849b2e08)
-- [pr26:LocalMoment.FiniteDeletionBins::positive_zeros_eq_of_mask@714 — positive_zeros_eq_of_mask](../records/0214.md#pr26-localmoment-finitedeletionbins-positive-zeros-eq-of-mask-714-99102e4639)
+- [pr26:LocalMoment.FiniteDeletionBins::positive_zeros_eq_of_mask@714 — positive_zeros_eq_of_mask](../records/0215.md#pr26-localmoment-finitedeletionbins-positive-zeros-eq-of-mask-714-99102e4639)
 - [pr26:LocalMoment.FiniteDeletionBins::zeroMaximum_le_of_zero_inclusion@725 — zeroMaximum_le_of_zero_inclusion](../records/0215.md#pr26-localmoment-finitedeletionbins-zeromaximum-le-of-zero-inclus-222021266c)
 - [pr26:LocalMoment.SixthRowMask::amplified_positive_zeros@802 — amplified_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-positive-zeros-802-a0256f8a62)
 - [pr26:LocalMoment.SixthRowMask::sixthFrequency_positive_zeros@829 — sixthFrequency_positive_zeros](../records/0215.md#pr26-localmoment-sixthrowmask-sixthfrequency-positive-zeros-829-2ef3dce4d0)
@@ -96,8 +97,8 @@ Page 17/17; 4112 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::dirichlet_of_raw_moments@616 — dirichlet_of_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-dirichlet-a045ef4ba9)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssembly::hecke_of_raw_moments@627 — hecke_of_raw_moments](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassembly-hecke-of--a9a80d8064)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyarithmetic-e23e66f593)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycertifiedb-cf9b8ae6c2)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands::dirichlet_of_certified@178 — dirichlet_of_certified](../records/0215.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycertifiedb-88cd656d9a)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycertifiedb-cf9b8ae6c2)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands::dirichlet_of_certified@178 — dirichlet_of_certified](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblycertifiedb-88cd656d9a)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-b04b816de4)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::dirichlet_of_chosen_moments@93 — dirichlet_of_chosen_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-e15b549ff5)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::hecke_of_chosen_moments@104 — hecke_of_chosen_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-a935913bbe)
@@ -115,6 +116,6 @@ Page 17/17; 4112 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments — OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-a7ccf752b9)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
-- [pr26:Physical.LocalSourceBin::source_packet_selected_bin_local@380 — source_packet_selected_bin_local](../records/0216.md#pr26-physical-localsourcebin-source-packet-selected-bin-local-380-475c691d34)
+- [pr26:Physical.LocalSourceBin::source_packet_selected_bin_local@380 — source_packet_selected_bin_local](../records/0217.md#pr26-physical-localsourcebin-source-packet-selected-bin-local-380-475c691d34)
 - [upstream:PR23 — Verify standard submissions with the existing three-kernel runner](../records/0219.md#upstream-pr23-2eff8c3a80)
 - [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0219.md#upstream-pr26-93f630ed04)

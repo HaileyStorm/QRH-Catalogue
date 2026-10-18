@@ -55,5 +55,5 @@ Page 4/4; 801 matching records.
 - [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0218.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0218.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
 - [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0218.md#reviewed-claim-t10-continuum-69e758bd43)
-- [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0218.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
+- [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0219.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
 - [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0219.md#upstream-pr26-93f630ed04)
