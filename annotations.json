@@ -127214,6 +127214,767 @@
         "source_sha256": "6b1b789f1441c7e27ea7018edb61075bd4aa25ccb93b5701c1c04ade69182c2d",
         "qualification": "Narrow family comparison only; no generic impossibility, dependency of all gates or improved energy is inferred."
       }
+    },
+    {
+      "evidence": {
+        "basis": "Retains the exact complete correction/profile and improves its estimate under the explicit additional M\u00f6bius progression input; does not supersede the unconditional old scope.",
+        "locator": "Status and inputs; V1.1a; provenance",
+        "source_sha256": "c1efa9a022a12d9b120e1d4e34ec1aade0bdbd9cfe82d6114a15bf00f1c6da7c"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-20261017-COPRIME-MOBIUS-CORRECTION",
+      "target": "QRH-CONT-M014-ANGULAR-LATTICE"
+    },
+    {
+      "evidence": {
+        "basis": "The matched-window corollary uses the exact retained distinct-semiprime coefficient cancellation.",
+        "locator": "Corollary V1.2",
+        "source_sha256": "c1efa9a022a12d9b120e1d4e34ec1aade0bdbd9cfe82d6114a15bf00f1c6da7c"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-20261017-COPRIME-MOBIUS-CORRECTION",
+      "target": "QRH-CONT-M014-UNITARY-CANCELLATION"
+    },
+    {
+      "evidence": {
+        "basis": "Extends the actual finite-pole ordinary heat return to the changed nonvanishing-at-zeros polynomial multiplier.",
+        "locator": "Theorem H1.1",
+        "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
+      },
+      "kind": "depends_on",
+      "source": "QRH-HEAT-THIRD-PROBE-RETURN",
+      "target": "QRH-CONT-R069-ORDINARY-HEAT-RETURN"
+    },
+    {
+      "evidence": {
+        "basis": "Uses the fixed positive Gaussian height norm and complete ordinary norm return.",
+        "locator": "H1.9\u2013H1.15",
+        "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
+      },
+      "kind": "depends_on",
+      "source": "QRH-HEAT-THIRD-PROBE-RETURN",
+      "target": "QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD"
+    },
+    {
+      "evidence": {
+        "basis": "Explicit prior mechanism: Gaussian polynomial profile and (1\u2212w)^r cancellation of full principal poles; present heat-limit return has its own complete proof.",
+        "locator": "Final provenance; prior source \u00a7\u00a73\u20134",
+        "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
+      },
+      "kind": "related",
+      "source": "QRH-HEAT-THIRD-PROBE-RETURN",
+      "target": "local-section:1511c22742fbf0b393529c47"
+    },
+    {
+      "evidence": {
+        "basis": "Earlier source-specific polynomial gamma-pole cancellation in a different theta representation; no mathematical equivalence claimed.",
+        "locator": "Source references",
+        "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
+      },
+      "kind": "related",
+      "source": "QRH-HEAT-THIRD-PROBE-RETURN",
+      "target": "QRH-CONT-R023-THETA-PROFILE-FILTER"
+    },
+    {
+      "evidence": {
+        "basis": "Uses the fixed third operator and the proved complete zero-exclusion return.",
+        "locator": "Sections 4\u20137",
+        "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
+      },
+      "kind": "depends_on",
+      "source": "QRH-HEAT-FILTERED-CUBIC-SOURCE",
+      "target": "QRH-HEAT-THIRD-PROBE-RETURN"
+    },
+    {
+      "evidence": {
+        "basis": "Uses the full principal-free filtered heat symbol, retaining its reciprocal signal.",
+        "locator": "Section 8",
+        "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
+      },
+      "kind": "depends_on",
+      "source": "QRH-HEAT-ANNULAR-SADDLE-BOUND",
+      "target": "QRH-HEAT-THIRD-PROBE-RETURN"
+    },
+    {
+      "evidence": {
+        "basis": "Exact dyadic reconstruction uses the same finite-source cutoff and its complete paid outer error.",
+        "locator": "Section 8, reconstruction",
+        "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
+      },
+      "kind": "depends_on",
+      "source": "QRH-HEAT-ANNULAR-SADDLE-BOUND",
+      "target": "QRH-HEAT-FILTERED-CUBIC-SOURCE"
+    },
+    {
+      "source": "QRH-HEAT-MOBIUS-DIVISOR-ERROR-COVARIANCE",
+      "target": "QRH-HEAT-FILTERED-CUBIC-SOURCE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Uses the exact retained third-filtered cubic kernel and finite/full source comparison.",
+        "source_sha256": "87bbcf8484d94340c9135d110fb4c6dcdf70a66e38009b67c404cd8621781f0b",
+        "locator": "H2.1\u2013H2.13"
+      }
+    },
+    {
+      "source": "QRH-HEAT-MOBIUS-DIVISOR-ERROR-COVARIANCE",
+      "target": "QRH-HEAT-ANNULAR-SADDLE-BOUND",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Keeps the signed annular M\u00f6bius polynomial inside the integral; compares the resulting price with its earlier complete shell bound.",
+        "source_sha256": "87bbcf8484d94340c9135d110fb4c6dcdf70a66e38009b67c404cd8621781f0b",
+        "locator": "H2.15\u2013H2.21"
+      }
+    },
+    {
+      "source": "QRH-HEAT-MOBIUS-DIVISOR-ERROR-COVARIANCE",
+      "target": "local-section:1511c22742fbf0b393529c47",
+      "kind": "related",
+      "evidence": {
+        "basis": "Explicit prior Gaussian filter and related bounded-factor Liouville-sign identity; no general-ingredient priority claimed.",
+        "source_sha256": "87bbcf8484d94340c9135d110fb4c6dcdf70a66e38009b67c404cd8621781f0b",
+        "locator": "Provenance; prior source \u00a7\u00a73\u20134,6"
+      }
+    },
+    {
+      "source": "QRH-HECKE-SQUAREFREE-PLAIN-WITNESS",
+      "target": "QRH-CONT-R022-JOINT-WITNESS-RESIDUAL",
+      "kind": "related",
+      "evidence": {
+        "basis": "The source replacement recovers the inherited count and permits the same complete whole-bin cutoff recalibration without transferring marked moments.",
+        "source_sha256": "ddfeeafd616c8fee4cc1a9ac76a1074a7e9b7d4390167fe53f73e9720a760156",
+        "locator": "\u00a7\u00a71\u20133, 6.1"
+      }
+    },
+    {
+      "source": "QRH-HECKE-OPPOSITE-PARITY-CROSS-SOURCE",
+      "target": "QRH-HECKE-SQUAREFREE-PLAIN-WITNESS",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Uses both squarefree-plain/inverse witnesses at the same actual zero with the admitted profile and height order.",
+        "source_sha256": "ddfeeafd616c8fee4cc1a9ac76a1074a7e9b7d4390167fe53f73e9720a760156",
+        "locator": "\u00a7\u00a74\u20136"
+      }
+    },
+    {
+      "source": "QRH-HECKE-OPPOSITE-PARITY-CROSS-SOURCE",
+      "target": "QRH-CONT-R022-JOINT-WITNESS-RESIDUAL",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Retains the complete central/all-bin target geometry and paid-sector orientation while changing the exact coefficient source.",
+        "source_sha256": "ddfeeafd616c8fee4cc1a9ac76a1074a7e9b7d4390167fe53f73e9720a760156",
+        "locator": "\u00a7\u00a75\u20136"
+      }
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1\u20134; exact kernel and deletion definitions",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The compact expansion and Mellin moments are proved for the exact retained cubic transform.",
+        "source_sha256": "2b497b15f39015348c84e285011957516030cf07a3655a1aeea42f036672c4ee"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R085-CUBIC-COMPACT-RATIO",
+      "target": "QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 5; negative Mobius population in moving presentations",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The positive sector count uses the admitted uniform ordinary Mobius estimate with independent losses.",
+        "source_sha256": "2b497b15f39015348c84e285011957516030cf07a3655a1aeea42f036672c4ee"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R085-CUBIC-COMPACT-RATIO",
+      "target": "QRH-CONT-M003-UNIFORM-TWIST"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 5; literal positive finite subsector",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The selected positive terms are a subset of the complete finite source with the same cutoffs and full deletion combination.",
+        "source_sha256": "2b497b15f39015348c84e285011957516030cf07a3655a1aeea42f036672c4ee"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R085-CUBIC-COMPACT-RATIO",
+      "target": "QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 4\u20135; product replacement and exact summation defect",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The source identity and all centered short complements determine the exact residual and its target equivalence.",
+        "source_sha256": "d849eb2ba66d0c487e74c294ce55c2ff5cdc3497f4bc4d763dae8f7d8d568565"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R086-CUBIC-RATIONAL-RAY",
+      "target": "QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1, 4 and 6; complete finite grouping, tail and kernel",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The ray grouping retains the literal cubic transform and its ordered convergence and principal subtraction.",
+        "source_sha256": "d849eb2ba66d0c487e74c294ce55c2ff5cdc3497f4bc4d763dae8f7d8d568565"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R086-CUBIC-RATIONAL-RAY",
+      "target": "QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 2 and 4; uniform Perron and moving principal price",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The shifted reciprocal estimates and product-tail centering use the admitted buffered reciprocal contract and its uniform character version.",
+        "source_sha256": "d849eb2ba66d0c487e74c294ce55c2ff5cdc3497f4bc4d763dae8f7d8d568565"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R086-CUBIC-RATIONAL-RAY",
+      "target": "QRH-CONT-M003-UNIFORM-TWIST"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1 and 4; original finite rectangle and smaller product source",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The product cutoff refines this exact finite source and retains its complete target and normalization.",
+        "source_sha256": "d849eb2ba66d0c487e74c294ce55c2ff5cdc3497f4bc4d763dae8f7d8d568565"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R086-CUBIC-RATIONAL-RAY",
+      "target": "QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 6\u20137; nonzero compact-ratio limit and absolute obstructions",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "Both independently analyze the same compact kernel; their absolute obstructions concern different precise sums and do not lower-bound the complete signed source.",
+        "source_sha256": "d849eb2ba66d0c487e74c294ce55c2ff5cdc3497f4bc4d763dae8f7d8d568565"
+      },
+      "kind": "related",
+      "source": "QRH-CONT-R086-CUBIC-RATIONAL-RAY",
+      "target": "QRH-CONT-R085-CUBIC-COMPACT-RATIO"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Exact-indicator positive-rate lower bound",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The finite contour and unique dominant pole construction is used with every multiplicity and finite-height margin retained.",
+        "source_sha256": "dc4040702414ba048c7ef819d48ba889d6feeda14da1b5383c90fe7fe78f3c2f"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN",
+      "target": "QRH-CONT-R069-ORDINARY-HEAT-RETURN"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Complete ordinary Gaussian norm and energy expansion",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The exact norm return starts from the complete signed ordinary pair source, not its diagonal.",
+        "source_sha256": "dc4040702414ba048c7ef819d48ba889d6feeda14da1b5383c90fe7fe78f3c2f"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN",
+      "target": "QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Reciprocal growth at the actual zero supremum",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The buffered analytic-logarithm mechanism is applied at the unknown actual zero supremum to identify an indicator, without assuming a smaller numerical boundary.",
+        "source_sha256": "dc4040702414ba048c7ef819d48ba889d6feeda14da1b5383c90fe7fe78f3c2f"
+      },
+      "kind": "related",
+      "source": "QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN",
+      "target": "QRH-CONT-R072-CENTERED-LONG-PAIR-HEAT"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 4; complete regularized defect return",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The defect return retains the positive pole-observation rate from the whole ordinary heat source.",
+        "source_sha256": "a582c4c503b12a79f0cd249231c1efdd0d212009fdcb209a3ff0c9fb97c65f0e"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R088-DEFORMED-HEAT-INVERSE",
+      "target": "QRH-CONT-R069-ORDINARY-HEAT-RETURN"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 6; normal-family converse",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The zero-free-to-normal-family direction uses the buffered reciprocal estimate at the actual zero supremum proved in the exact indicator note.",
+        "source_sha256": "a582c4c503b12a79f0cd249231c1efdd0d212009fdcb209a3ff0c9fb97c65f0e"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R088-DEFORMED-HEAT-INVERSE",
+      "target": "QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 2; moving-window lower observation",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The complete finite dominant-pole construction is repeated with the actual changing Gaussian normalization.",
+        "source_sha256": "d3f0e3a150bc8256a1683ca9cdc340d461df65466f4ca4d21668736c102ee3d6"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R089-HEAT-WINDOW-MATRIX",
+      "target": "QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 1; complete Gaussian row sum",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The two-sided row-sum error is derived from the full ordinary Gaussian pair identity.",
+        "source_sha256": "d3f0e3a150bc8256a1683ca9cdc340d461df65466f4ca4d21668736c102ee3d6"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R089-HEAT-WINDOW-MATRIX",
+      "target": "QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1\u20132; actual-zero quantifiers and row refinement",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The scale bank keeps the actual character, zero, profiles and original rows from the same-zero witness contract.",
+        "source_sha256": "339a080cf6f3c652fbf14650974068d33c929f64fad8818cb8300de0453ba320"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R090-SAME-ZERO-SCALE-BANK",
+      "target": "QRH-CONT-R041-ACTUAL-ZERO-WITNESS"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 2; fixed-inducing exceptions and initialKeep",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "Any later enlargement retains the exact natural-row adapter and all fixed-inducing exceptions qualified in the source adapter.",
+        "source_sha256": "339a080cf6f3c652fbf14650974068d33c929f64fad8818cb8300de0453ba320"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R090-SAME-ZERO-SCALE-BANK",
+      "target": "QRH-CONT-R043-MATCHED-PRIME-SECTORS"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1\u20133; literal source, centers and marked-energy invocation",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The collision identities and remaining one-slot source use the canonical joint gate with its full coefficient and bounded pair phase.",
+        "source_sha256": "8a5bf09c9bab6918692398009d618d7e91797ec0101f9265daa7525a7a66bd34"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS",
+      "target": "QRH-CONT-R083-JOINT-REFLECTION-GATE"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 1; actual reflected bank and mutual phase",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The norm is computed for the exact active source bank supplied by the retained reflection gate.",
+        "source_sha256": "922d2a07ad5a65ae522a0ffb8b0dc34e5c6ac3a61284585ae35232326dce8d6d"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R092-CANONICAL-ACTIVE-BANK",
+      "target": "QRH-CONT-R083-JOINT-REFLECTION-GATE"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1 and 6; collision-free source and remaining target",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The source-specific application uses the literal collision-free restriction whose complete complement has been paid.",
+        "source_sha256": "922d2a07ad5a65ae522a0ffb8b0dc34e5c6ac3a61284585ae35232326dce8d6d"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R092-CANONICAL-ACTIVE-BANK",
+      "target": "QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1\u20133 and 5; old versus centered local factors and principal check",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The new all-valuation adapter is derived for this exact common-time center and its retained paired principal calibration.",
+        "source_sha256": "b4e2c918f845401e2ba69c7d17c65b55df60548c1193b1de77355b2283b07f64"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER",
+      "target": "QRH-CONT-R083-JOINT-REFLECTION-GATE"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 1; complete remaining signed physical target",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The exact pairing target uses the strict collision reserve under the same physical calibration.",
+        "source_sha256": "7c7089e79b33729ca3d7a6f21b9b03f0ee654252a1e947edb3188ee258dba131"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER",
+      "target": "QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 2 and 5; unweighted bank versus full signed pairing",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The diagonal-sized unweighted bank does not bound or lower-bound the full signed physical theta contraction kept in this adapter.",
+        "source_sha256": "7c7089e79b33729ca3d7a6f21b9b03f0ee654252a1e947edb3188ee258dba131"
+      },
+      "kind": "related",
+      "source": "QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER",
+      "target": "QRH-CONT-R092-CANONICAL-ACTIVE-BANK"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 2; exact moving Gauss coefficient before Cauchy",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The row root reduction retains the same normalized moving cubic Gauss factor; a plain-character estimate is not substituted for it.",
+        "source_sha256": "7c7089e79b33729ca3d7a6f21b9b03f0ee654252a1e947edb3188ee258dba131"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER",
+      "target": "QRH-CONT-R027-MOVING-GAUSS-PHASE"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 4\u20135; complete covariance and adjoint derivative hierarchy",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "The operator calculation retains the full norm and energy from the exact adjoint Gaussian return.",
+        "source_sha256": "9f71b9878fe8e1214c17493ac206ce50b74f9bcaa5272f745d0f7317fb5ddfcd"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE",
+      "target": "QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Section 2; actual modulus cost for growing prime removal",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "A growing removal set uses its induced presented modulus and the independently chosen uniform reciprocal loss.",
+        "source_sha256": "9f71b9878fe8e1214c17493ac206ce50b74f9bcaa5272f745d0f7317fb5ddfcd"
+      },
+      "kind": "depends_on",
+      "source": "QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE",
+      "target": "QRH-CONT-M003-UNIFORM-TWIST"
+    },
+    {
+      "evidence": {
+        "access": "restricted-source",
+        "basis": "explicit-written-contract-and-scoped-source-read",
+        "locator": "Sections 1\u20134; exact arithmetic operations before taking norms",
+        "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
+        "reason": "Both keep the ordinary inverse source and exact nonlinear correction; no norm contraction is inferred solely from their algebraic identities.",
+        "source_sha256": "9f71b9878fe8e1214c17493ac206ce50b74f9bcaa5272f745d0f7317fb5ddfcd"
+      },
+      "kind": "related",
+      "source": "QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE",
+      "target": "QRH-CONT-R088-DEFORMED-HEAT-INVERSE"
+    },
+    {
+      "source": "QRH-CONT-U1-FULL-SUPPORT-NORM-RETURN",
+      "target": "QRH-CONT-R069-ORDINARY-HEAT-RETURN",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Generalizes the finite-pole fixed-line return to full-support positive measures.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U1.1 proof",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U1-ALL-RANGE-GCD-AND-DIAGONAL",
+      "target": "QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Extends the exact gcd-tail proof to0<sigma<1; isolates fixed-q below-half diagonal theorem.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U1.2-U1.4",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE",
+      "target": "QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Retains the rectangular source while allowing fixed parameters and stronger principal factors.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U2.1-U2.4",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U2-COMPLEMENT-AND-REVERSE-EQUIVALENCE",
+      "target": "QRH-CONT-U1-FULL-SUPPORT-NORM-RETURN",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Uses the all-positive-line norm and fixed-line return for the forward implication.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U2.5-U2.9",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U2-COMPLEMENT-AND-REVERSE-EQUIVALENCE",
+      "target": "QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Universal reverse/equivalence uses its exact product source, not rectangular factorization.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U2.6-U2.9",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS",
+      "target": "QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Complete four-long identity and paid complementary terms are retained.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U3",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS",
+      "target": "QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Uses complete cubic primitive transform and presented Euler deletions.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U3",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN",
+      "target": "QRH-CONT-M014-ANGULAR-LATTICE",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Reuses exact parent-density cancellation with target-dependent plateaux.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U4.2-U4.5",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN",
+      "target": "QRH-CONT-M014-UNITARY-CANCELLATION",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Retains full unitary coefficient subtraction and higher outputs.",
+        "source_sha256": "aff915cc330f6104f1b21ed1d16dec339ad352dd57d81a77f5984e1bda8b94d9",
+        "locator": "U4.3-U4.7",
+        "qualification": "Source-scoped mathematical dependency only; complete arithmetic target stays open."
+      }
+    },
+    {
+      "source": "QRH-HEAT-FILTERED-CUBIC-SOURCE",
+      "target": "QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Filtered complete source uses the reviewed signed-tail U3.6/U3.7 arguments with fixed-order height-polynomial change.",
+        "source_sha256": "52fa08550a968c4f6f9d015820c69141bef02d357cdd8ce23152418edbb40693",
+        "locator": "H1.17-H1.35; CONTINUATION_REVIEW H1"
+      }
+    },
+    {
+      "source": "QRH-CONT-20261017-COPRIME-MOBIUS-CORRECTION",
+      "target": "QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN",
+      "kind": "related",
+      "evidence": {
+        "basis": "V1 widens the matched plateau using admitted Mobius input; U4's seed-free general family remains a distinct valid route.",
+        "source_sha256": "b5c3ede6e432f4a69297d8276002a6233535804677beb572dbbc15f19a4f3eb9",
+        "locator": "V1.1-V1.15; U4"
+      }
+    },
+    {
+      "source": "QRH-CONT-R089-HEAT-WINDOW-MATRIX",
+      "target": "local-section:43cb8b8f4a4a060c0339619f",
+      "kind": "related",
+      "evidence": {
+        "basis": "Explicit exact earlier tensor-product/local-singular-factor ancestry in the reviewed coefficient-operator source; no new priority or generic impossibility claim.",
+        "source_sha256": "58d59da4baea33bb1cc5dc68925fb384f7a499f552c1dfd50e2fdf34903f08d0",
+        "locator": "W48 section6; V2 provenance"
+      }
+    },
+    {
+      "source": "QRH-CONT-R089-HEAT-WINDOW-MATRIX",
+      "target": "local-section:b6fb0c2c1efe4d752ae64271",
+      "kind": "related",
+      "evidence": {
+        "basis": "Explicit exact earlier tensor-product/local-singular-factor ancestry in the reviewed coefficient-operator source; no new priority or generic impossibility claim.",
+        "source_sha256": "58d59da4baea33bb1cc5dc68925fb384f7a499f552c1dfd50e2fdf34903f08d0",
+        "locator": "W39.29-30; V2 provenance"
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-ADAPTIVE-CONSERVED-WIDTH",
+      "target": "MATH-PR63-52419a82-BALANCED-INITIAL-ENERGY",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Uses the actual balanced valuation/source normalization before density-adaptive channel payment.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-GUARDED-ENVELOPE-RETURN",
+      "target": "MATH-PR63-52419a82-BALANCED-INITIAL-ENERGY",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Uses original initial-energy planes with their exact source adapter.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-GUARDED-ENVELOPE-RETURN",
+      "target": "MATH-PR63-52419a82-ADAPTIVE-CONSERVED-WIDTH",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Full schedule uses actual adaptive marked supply and conserved-width channels.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR64-edbb22b1-DERIVED-LEDGER-CAPS",
+      "target": "MATH-PR64-edbb22b1-GENERAL-TOP-ROW",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Derived ledger is specialized into the independently general top-row certificate.",
+        "source_revision": "edbb22b1a080c961b19e438e9e8ce6d6b3842739",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR64-edbb22b1-ADMISSIBLE-CLASS-OPTIMALITY",
+      "target": "MATH-PR64-edbb22b1-GENERAL-TOP-ROW",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Class bound is thetaMin from the exact general top-row root certificate.",
+        "source_revision": "edbb22b1a080c961b19e438e9e8ce6d6b3842739",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR64-edbb22b1-ADMISSIBLE-CLASS-OPTIMALITY",
+      "target": "MATH-PR64-edbb22b1-DERIVED-LEDGER-CAPS",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Admissibility/root retain the derived slope, intercept, caps, losses and fixed windows.",
+        "source_revision": "edbb22b1a080c961b19e438e9e8ce6d6b3842739",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-GUARDED-ENVELOPE-RETURN",
+      "target": "MATH-PR64-edbb22b1-ADMISSIBLE-CLASS-OPTIMALITY",
+      "kind": "related",
+      "evidence": {
+        "basis": "PR63's stronger canonical benchmark and PR64's different fixed architecture are distinct; no dominance of arbitrary architectures is claimed.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-GUARDED-ENVELOPE-RETURN",
+      "target": "MATH-PR60-74643447-closed-count",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Retains inherited count/capacity branches as part of the guarded envelope.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-GUARDED-ENVELOPE-RETURN",
+      "target": "MATH-PR60-74643447-region-count",
+      "kind": "depends_on",
+      "evidence": {
+        "basis": "Retains inherited count/capacity branches as part of the guarded envelope.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-BALANCED-INITIAL-ENERGY",
+      "target": "QRH-CONT-R083-JOINT-REFLECTION-GATE",
+      "kind": "related",
+      "evidence": {
+        "basis": "Canonical source and coupled Gauss-weighted constructions have distinct coefficients; no automatic source adapter or improved physical pairing follows.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
+    },
+    {
+      "source": "MATH-PR63-52419a82-BALANCED-INITIAL-ENERGY",
+      "target": "QRH-CONT-R077-THREE-STATE-COUPLED-COMPENSATOR",
+      "kind": "related",
+      "evidence": {
+        "basis": "Canonical source and coupled Gauss-weighted constructions have distinct coefficients; no automatic source adapter or improved physical pairing follows.",
+        "source_revision": "52419a826d4a8465cdeb56aaa2d471c489221d1d",
+        "review_sha256": "0f330ab0e6eccc997e564e0420f9ac4b33400d3e7c0d7b735ba404c0c97425c9",
+        "qualification": "Exact scoped mathematical source relationship, not a final paper-to-Lean-use link or transfer to new research sources."
+      }
     }
   ],
   "schema_version": 1

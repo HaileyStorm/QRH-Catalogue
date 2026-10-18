@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1285 matching records.
+Page 1/6; 1292 matching records.
 
 [Next](topic-gaussian-c7c5f1441e-02.md)
 
@@ -223,8 +223,15 @@ Page 1/6; 1285 matching records.
 - [QRH-CONT-R071-ORDINARY-HEAT-NORM-GCD — Positive ordinary Gaussian height norm and complete gcd pair source](../records/0131.md#qrh-cont-r071-ordinary-heat-norm-gcd-61e0d76bfa)
 - [QRH-CONT-R076-FOUR-LONG-HEAT-EQUIVALENCE — Complete four-long heat remainder with paid complements and whole-source equivalence](../records/0131.md#qrh-cont-r076-four-long-heat-equivalence-93022dda42)
 - [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
-- [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0137.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
-- [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
+- [QRH-CONT-R087-EXACT-HEAT-ENERGY-RETURN — Exact ordinary heat indicator and integrated and pointwise energy returns](../records/0131.md#qrh-cont-r087-exact-heat-energy-return-f5cfddfec6)
+- [QRH-CONT-R088-DEFORMED-HEAT-INVERSE — Exact deformed heat inversion with its ordinary-product defect and evaluation cost](../records/0131.md#qrh-cont-r088-deformed-heat-inverse-60d08017c5)
+- [QRH-CONT-R089-HEAT-WINDOW-MATRIX — Complete moving-window prices and finite ordinary inverse-matrix bounds](../records/0131.md#qrh-cont-r089-heat-window-matrix-47b1d24d09)
+- [QRH-CONT-U1-ALL-RANGE-GCD-AND-DIAGONAL — Complete Gaussian gcd tail for all positive evaluation lines and below-half diagonal calibration](../records/0131.md#qrh-cont-u1-all-range-gcd-and-diagonal-ee1a14b8c6)
+- [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
+- [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
+- [QRH-HEAT-THIRD-PROBE-RETURN — Third filtered ordinary heat source and its complete all-height zero return](../records/0131.md#qrh-heat-third-probe-return-c433c1f769)
+- [local-section:00055f8935fa1a734b3b0d97 — Complete norm error](../records/0138.md#local-section-00055f8935fa1a734b3b0d97-8696184f17)
+- [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0138.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
 - [local-section:00ea71460e30bc5f16dcecab — C: actual rough-prime zero law](../records/0138.md#local-section-00ea71460e30bc5f16dcecab-9b7e16ecaa)
 - [local-section:00faa049bebb2f9a1ffc62c7 — A3. Complete return and the actual scale budget](../records/0138.md#local-section-00faa049bebb2f9a1ffc62c7-26593bc731)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
@@ -249,10 +256,3 @@ Page 1/6; 1285 matching records.
 - [local-section:058a3ea5e9d85a79b1a0ddac — 2.1 Independent Mellin check](../records/0138.md#local-section-058a3ea5e9d85a79b1a0ddac-fc074d564f)
 - [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0138.md#local-section-05a898c044306d64e55cadee-b3fa865755)
 - [local-section:06178eec24a4b4514c023259 — 13. Paid changes of detector and complementary numerators](../records/0138.md#local-section-06178eec24a4b4514c023259-786003578f)
-- [local-section:0658d5ccc746c9f6824fc889 — Current checkpoint and result](../records/0138.md#local-section-0658d5ccc746c9f6824fc889-6288b8adcd)
-- [local-section:0686f244ed65373b93403088 — S65-2. Complete mixed cumulants](../records/0138.md#local-section-0686f244ed65373b93403088-73b118f620)
-- [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0138.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
-- [local-section:0737de17150af6e51c799c86 — 7. All30 dispositions](../records/0138.md#local-section-0737de17150af6e51c799c86-d7ff94fbec)
-- [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)
-- [local-section:092ea5622034c6be6cd75c98 — 7. Uniform independent audit17: optimized contours retain the observed residues](../records/0138.md#local-section-092ea5622034c6be6cd75c98-ca85328e19)
-- [local-section:09513a9f16a43f4724c33e9a — 74. Paid common-readout absolute Gram in arbitrary lift dimension](../records/0138.md#local-section-09513a9f16a43f4724c33e9a-6c0381a1d4)

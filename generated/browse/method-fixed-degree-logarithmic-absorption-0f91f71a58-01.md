@@ -4,5 +4,5 @@
 
 Page 1/1; 2 matching records.
 
-- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0173.md#local-g285-20901b6bc9)
-- [local:G286 — G286. Original admitted-error full-modulus caps and conditional puncture payment](../records/0173.md#local-g286-ee8938bc89)
+- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0174.md#local-g285-20901b6bc9)
+- [local:G286 — G286. Original admitted-error full-modulus caps and conditional puncture payment](../records/0174.md#local-g286-ee8938bc89)

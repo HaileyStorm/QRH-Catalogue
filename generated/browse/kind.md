@@ -53,7 +53,7 @@
 - [manuscript_remark (1)](kind-manuscript-remark-e8ff01edec-01.md)
 - [manuscript_section (476)](kind-manuscript-section-037998f5d8-01.md)
 - [manuscript_theorem (3)](kind-manuscript-theorem-e89f4269c3-01.md)
-- [mathematical-component (90)](kind-mathematical-component-a466b1f248-01.md)
+- [mathematical-component (119)](kind-mathematical-component-a466b1f248-01.md)
 - [mathematical-identity-and-conditional-return (1)](kind-mathematical-identity-and-conditional-return-8168f97a76-01.md)
 - [mathematical-identity-and-obstruction (1)](kind-mathematical-identity-and-obstruction-c0dc9b4966-01.md)
 - [mathematical-numerical-consumer-repair (1)](kind-mathematical-numerical-consumer-repair-457cee5c87-01.md)

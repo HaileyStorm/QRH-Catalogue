@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 1/6; 1442 matching records.
+Page 1/6; 1450 matching records.
 
 [Next](method-duality-c5419f8b09-02.md)
 
@@ -207,6 +207,7 @@ Page 1/6; 1442 matching records.
 - [P7-04 — Exact endpoint polynomial and square residual](../records/0130.md#p7-04-88233d13ce)
 - [P7-09 — Old budgets fail at new endpoint](../records/0130.md#p7-09-a789090d0e)
 - [P7-22 — Parameterized shape and rational-grid helper](../records/0130.md#p7-22-06fd35c95c)
+- [QRH-CONT-20261017-COPRIME-MOBIUS-CORRECTION — Möbius cancellation improves the complete coprime angular correction](../records/0130.md#qrh-cont-20261017-coprime-mobius-correction-2513ef30a4)
 - [QRH-CONT-M001-SQUARE-CONTENT — Complete signed payment of maximal inverse square content](../records/0130.md#qrh-cont-m001-square-content-e74058120a)
 - [QRH-CONT-M002-CENTERED-CONTENT — Paid CM principal mean and stronger centered square-content charge](../records/0130.md#qrh-cont-m002-centered-content-03aba8cc9a)
 - [QRH-CONT-M012-VAUGHAN — Critical centered Vaughan inverse-square saving with exact joint residual](../records/0131.md#qrh-cont-m012-vaughan-abb162e058)
@@ -217,9 +218,16 @@ Page 1/6; 1442 matching records.
 - [QRH-CONT-R077-THREE-STATE-COUPLED-COMPENSATOR — Three-state coupled prime compensator with exact full-source available cost](../records/0131.md#qrh-cont-r077-three-state-coupled-compensator-da848f54d0)
 - [QRH-CONT-R078-CUBIC-DIVISOR-HEAT-TRANSFORM — Complete cubic-divisor heat transform with presented Euler deletion and full principal centering](../records/0131.md#qrh-cont-r078-cubic-divisor-heat-transform-0e04e2a96d)
 - [QRH-CONT-R084-FINITE-COMPLETE-CUBIC-SOURCE — Complete finite cubic heat source with every omitted range paid below zero](../records/0131.md#qrh-cont-r084-finite-complete-cubic-source-3276b0e1ef)
-- [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0137.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
-- [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0137.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
-- [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0137.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
+- [QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS — Complete physical-row and two-prime-label collision payment](../records/0131.md#qrh-cont-r091-complete-row-label-collisions-79cd2b7559)
+- [QRH-CONT-U2-ADJUSTABLE-RECTANGULAR-SOURCE — Adjustable complete rectangular cubic source with full principal and dual-tail prices](../records/0131.md#qrh-cont-u2-adjustable-rectangular-source-087cb96060)
+- [QRH-CONT-U2-COMPLEMENT-AND-REVERSE-EQUIVALENCE — General heat-complement payment and exact all-character calibration of finite-source criteria](../records/0131.md#qrh-cont-u2-complement-and-reverse-equivalence-8583f4f177)
+- [QRH-CONT-U3-CORRECTED-PRODUCT-SIGNED-TAILS — Complete smooth product-cutoff cubic source with exact principal correction and both signed tails](../records/0131.md#qrh-cont-u3-corrected-product-signed-tails-f6c4d40989)
+- [QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN — Seed-free target-dependent ratio plateaux, matched Mobius tails and complete one-sided ordinary return](../records/0131.md#qrh-cont-u4-matched-plateau-ordinary-return-404881c4a3)
+- [QRH-HEAT-FILTERED-CUBIC-SOURCE — Complete filtered cubic heat source with a uniform saddle bound on every retained index](../records/0131.md#qrh-heat-filtered-cubic-source-8a363350a2)
+- [QRH-HEAT-MOBIUS-DIVISOR-ERROR-COVARIANCE — Complete Möbius–cubic-divisor-error covariance and the exact loss of a separated estimate](../records/0131.md#qrh-heat-mobius-divisor-error-covariance-ebcc44f453)
+- [local-section:00865894fb56ff577f73e2dd — What remains usable for a new zero-free estimate](../records/0138.md#local-section-00865894fb56ff577f73e2dd-8787827dd5)
+- [local-section:0098438a6aea57b1108a8234 — 7.2 Calibration and full remaining price](../records/0138.md#local-section-0098438a6aea57b1108a8234-e1170c97af)
+- [local-section:00b6098daf5c8cba90698392 — A growing high moment with an explicitly paid arithmetic sector](../records/0138.md#local-section-00b6098daf5c8cba90698392-bcf71a099a)
 - [local-section:00d21208f3dce768523fcc77 — 7. Failures, ceilings and the next mathematical target](../records/0138.md#local-section-00d21208f3dce768523fcc77-1967aa5676)
 - [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0138.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
@@ -248,11 +256,3 @@ Page 1/6; 1442 matching records.
 - [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0138.md#local-section-05a898c044306d64e55cadee-b3fa865755)
 - [local-section:05b7dc4fd36efbb10143f70a — 1. Exact source and normalization](../records/0138.md#local-section-05b7dc4fd36efbb10143f70a-89827a7c12)
 - [local-section:05dab8278c2ff444af29988d — F02. Large-prime null packets and common-core dispersion](../records/0138.md#local-section-05dab8278c2ff444af29988d-86fd5ec050)
-- [local-section:0686f244ed65373b93403088 — S65-2. Complete mixed cumulants](../records/0138.md#local-section-0686f244ed65373b93403088-73b118f620)
-- [local-section:069ac2c6079f6cad373b837b — \[research revision\] independent review: capped original plains and two width envelopes](../records/0138.md#local-section-069ac2c6079f6cad373b837b-e41ccdf4b2)
-- [local-section:069edb9860e9d2d62b98d471 — T02. Direct completed selector and finite mean — PROVED CONDITIONAL REDUCTION](../records/0138.md#local-section-069edb9860e9d2d62b98d471-e38d065e88)
-- [local-section:0737de17150af6e51c799c86 — 7. All30 dispositions](../records/0138.md#local-section-0737de17150af6e51c799c86-d7ff94fbec)
-- [local-section:07edd5b2a1b8c33a2be9991e — 3. Reconstructing the stronger gain in actual source units](../records/0138.md#local-section-07edd5b2a1b8c33a2be9991e-7c3f8ef411)
-- [local-section:0828333740a4895557ae832c — 1. Decision and exact limits](../records/0138.md#local-section-0828333740a4895557ae832c-2a10918ac2)
-- [local-section:082a1b7df2eec46561fe4c43 — \[research revision\]: native translation costs and a fixed-source renewal obstruction](../records/0138.md#local-section-082a1b7df2eec46561fe4c43-c5fa414a34)
-- [local-section:089cf24845eb7f1bc538ffcb — H. Full batch screening crosswalk](../records/0138.md#local-section-089cf24845eb7f1bc538ffcb-72f8b8259a)

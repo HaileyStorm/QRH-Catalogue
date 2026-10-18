@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2902 matching records.
+Page 6/12; 2906 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -227,10 +227,10 @@ Page 6/12; 2902 matching records.
 - [P30-32 — Redesigned finite compensating operator](../records/0130.md#p30-32-b55842888e)
 - [P30-34 — Norm-lift family and uniform boundary obligations](../records/0130.md#p30-34-f2008f8379)
 - [P7-13 — Conditional full probe to ordinary-character return](../records/0130.md#p7-13-74c2916a60)
-- [QRH-CONT-M002-DEPTH-EXTRACTION — Complete inverse-depth derivative extraction with bounded angular norm](../records/0130.md#qrh-cont-m002-depth-extraction-c04ef32cc1)
-- [QRH-CONT-M004-EULER-SECTOR — Uniform Euler phase sector and direct ordinary cross return](../records/0130.md#qrh-cont-m004-euler-sector-7c7f0c7f30)
-- [QRH-CONT-M004-GRAM — Exact divisor Gram kernel and complete cross reconstruction](../records/0130.md#qrh-cont-m004-gram-eb5a9a694f)
-- [QRH-CONT-M006-PRIME-FILTER — Complete ordinary prime filter with half-scale comparison error](../records/0130.md#qrh-cont-m006-prime-filter-2e455060ed)
+- [QRH-CONT-M002-DEPTH-EXTRACTION — Complete inverse-depth derivative extraction with bounded angular norm](../records/0131.md#qrh-cont-m002-depth-extraction-c04ef32cc1)
+- [QRH-CONT-M004-EULER-SECTOR — Uniform Euler phase sector and direct ordinary cross return](../records/0131.md#qrh-cont-m004-euler-sector-7c7f0c7f30)
+- [QRH-CONT-M004-GRAM — Exact divisor Gram kernel and complete cross reconstruction](../records/0131.md#qrh-cont-m004-gram-eb5a9a694f)
+- [QRH-CONT-M006-PRIME-FILTER — Complete ordinary prime filter with half-scale comparison error](../records/0131.md#qrh-cont-m006-prime-filter-2e455060ed)
 - [QRH-CONT-M007-MOVING-TRANSFORM — Fixed Mellin transform of a moving exponentially damped detector](../records/0131.md#qrh-cont-m007-moving-transform-91d6faea60)
 - [QRH-CONT-M007-SQUARE-MEAN — Actual quadratic square mean and normalized two-geometry cancellation](../records/0131.md#qrh-cont-m007-square-mean-e7cc1a1e2f)
 - [QRH-CONT-R029-TARGET-FACTOR-OPERATOR — Target L-factor extraction and independent-scale pole-removing probe derivative](../records/0131.md#qrh-cont-r029-target-factor-operator-1e3d9499f8)
@@ -241,7 +241,11 @@ Page 6/12; 2902 matching records.
 - [QRH-CONT-R054-TWO-RESIDUE-POLARIZATION — Complete gcd Euler residues and a polarized annihilator](../records/0131.md#qrh-cont-r054-two-residue-polarization-187bb7a866)
 - [QRH-CONT-R059-WRONSKIAN-CONVOLUTION — Two-probe Wronskian, full convolution and heat indicator test](../records/0131.md#qrh-cont-r059-wronskian-convolution-dee50e3cdc)
 - [QRH-CONT-R073-EARLY-CENTERED-HANKEL-OPERATOR — Payable early subtraction and complete centered Hankel remainder with reviewed contour qualifications](../records/0131.md#qrh-cont-r073-early-centered-hankel-operator-9f1c2cb37d)
-- [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0137.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
+- [QRH-CONT-R090-SAME-ZERO-SCALE-BANK — A finite detector-scale bank from one fixed Eisenstein zero](../records/0131.md#qrh-cont-r090-same-zero-scale-bank-6f4dd84eb9)
+- [QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER — Joint-probe signed pairing and the complete valuation Poisson return adapter](../records/0131.md#qrh-cont-r093-joint-probe-return-adapter-ab5b8728de)
+- [QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN — Seed-free target-dependent ratio plateaux, matched Mobius tails and complete one-sided ordinary return](../records/0131.md#qrh-cont-u4-matched-plateau-ordinary-return-404881c4a3)
+- [QRH-HECKE-SQUAREFREE-PLAIN-WITNESS — Complete squarefree-plain same-zero witness and its inherited Hecke-family count](../records/0131.md#qrh-hecke-squarefree-plain-witness-9807070054)
+- [local-section:00cbb4f4bf22fd733424f9a8 — The family really preserves the denominator](../records/0138.md#local-section-00cbb4f4bf22fd733424f9a8-28b56132f4)
 - [local-section:00f3cc41a60bb8c82b889e03 — Group 6: p\<.01; multiplicative structure/noncommutative probability; constructive error budget](../records/0138.md#local-section-00f3cc41a60bb8c82b889e03-5240a779e1)
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0138.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
@@ -254,7 +258,3 @@ Page 6/12; 2902 matching records.
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0138.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
 - [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0138.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
 - [local-section:04ac309ae6e259e237a3a75a — Complete cofactor detectors and quaternion companion estimates](../records/0138.md#local-section-04ac309ae6e259e237a3a75a-7fa953c16a)
-- [local-section:04b6d33531f5f8fd0fcefef4 — A04. Exact calibration of a family of adaptive probes](../records/0138.md#local-section-04b6d33531f5f8fd0fcefef4-7abbd128bc)
-- [local-section:051e901193a4143a5bea30d3 — F19. Higher integrability and stable future tails](../records/0138.md#local-section-051e901193a4143a5bea30d3-c7d2f214e6)
-- [local-section:05228820399190f6a125d3ea — 3. Simplifications that are valid, and shortcuts that are not](../records/0138.md#local-section-05228820399190f6a125d3ea-4d5b8cfe3f)
-- [local-section:05a898c044306d64e55cadee — 43. A narrow same-zero joint moment and paid detector alternatives](../records/0138.md#local-section-05a898c044306d64e55cadee-b3fa865755)

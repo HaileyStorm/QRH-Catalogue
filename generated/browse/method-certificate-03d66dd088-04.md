@@ -2,10 +2,12 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 777 matching records.
+Page 4/4; 779 matching records.
 
 [Previous](method-certificate-03d66dd088-03.md)
 
+- [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0174.md#local-g275-c56c1a0489)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0174.md#local-g280-92c627efc9)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0174.md#local-g291-a2d579dcd5)
 - [local:G299 — G299. Signed minimum telescoping, erased zero signal and divergent positive inverse](../records/0174.md#local-g299-29e34bc7a7)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0174.md#local-g3-c51dd6c4a6)
@@ -22,14 +24,14 @@ Page 4/4; 777 matching records.
 - [local:G92 — G92: exact defect expansion, collar prices and integer cancellation](../records/0174.md#local-g92-9948e6d6de)
 - [local:G94 — G94: actual state closure and the final observation matter](../records/0174.md#local-g94-65895f2546)
 - [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0174.md#local-g96-8db9d2be74)
-- [local:T06 — T06. The complete same-core sextic square function](../records/0174.md#local-t06-df7fac52f7)
+- [local:T06 — T06. The complete same-core sextic square function](../records/0175.md#local-t06-df7fac52f7)
 - [pr26:Cycle25.Arithmetic.Certificate — Cycle25.Arithmetic.Certificate](../records/0195.md#pr26-cycle25-arithmetic-certificate-fb053df52f)
 - [pr26:Cycle25.Arithmetic.GlobalBound::global_certificate@437 — global_certificate](../records/0196.md#pr26-cycle25-arithmetic-globalbound-global-certificate-437-eeff8d3f7f)
 - [pr26:Cycle25.Energy.CertifiedExistence::terminal_certificate@165 — terminal_certificate](../records/0199.md#pr26-cycle25-energy-certifiedexistence-terminal-certificate-165-8b41affab8)
 - [pr26:Cycle25.Numerator.Scalar.SourceLoss::weighted_source_packet_certificate@305 — weighted_source_packet_certificate](../records/0206.md#pr26-cycle25-numerator-scalar-sourceloss-weighted-source-packet-c-17755d1c1e)
 - [pr26:Cycle25.Numerator.Scalar.SourceLoss::weighted_source_packet_certificate_of_kappa@277 — weighted_source_packet_certificate_of_kappa](../records/0206.md#pr26-cycle25-numerator-scalar-sourceloss-weighted-source-packet-c-9ba2543507)
-- [pr26:Global.Numerator.Scalar.SourceLoss::source_packet_certificate@269 — source_packet_certificate](../records/0209.md#pr26-global-numerator-scalar-sourceloss-source-packet-certificate-1259218c47)
+- [pr26:Global.Numerator.Scalar.SourceLoss::source_packet_certificate@269 — source_packet_certificate](../records/0210.md#pr26-global-numerator-scalar-sourceloss-source-packet-certificate-1259218c47)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::terminal_certificate@58 — terminal_certificate](../records/0216.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-termin-dc9360dea4)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
 - [reviewed-claim:A14-full-probe-certificate — \[research revision\]-claim:A14-full-probe-certificate](../records/0218.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)
 - [upstream:PR7 — Propose exact slack retuning with a standalone certificate](../records/0219.md#upstream-pr7-108baed07a)

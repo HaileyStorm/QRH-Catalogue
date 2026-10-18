@@ -2,11 +2,14 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1036 matching records.
+Page 5/5; 1039 matching records.
 
 [Previous](method-gram-caa75103c5-04.md)
 
-- [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0173.md#local-g274-fbf5ea7910)
+- [local:G254 — G254. Fixed-annular weighted-height and pointwise polynomial bounds are equivalent](../records/0173.md#local-g254-52c97c1379)
+- [local:G255 — G255. Exact compensated covariance and normalized whole off-diagonal target](../records/0173.md#local-g255-5069bd79eb)
+- [local:G264 — G264. Complete signed Gaussian block covariance and forward-width return](../records/0174.md#local-g264-484cdfc9b6)
+- [local:G274 — G274. Complete Gaussian heat-time adapter with paid reverse loss](../records/0174.md#local-g274-fbf5ea7910)
 - [local:G288 — G288. Finite Euler deletion with explicit divisor-tail and profile budgets](../records/0174.md#local-g288-7313aece03)
 - [local:G289 — G289. Adaptive ordinary Laplace Gram residual and complete primitive-ratio reduction](../records/0174.md#local-g289-5edc57e94d)
 - [local:G297 — G297. Asymmetric continuous Gram with a paid diagonal and unpaid transition](../records/0174.md#local-g297-9211aa135c)
@@ -20,9 +23,9 @@ Page 5/5; 1036 matching records.
 - [local:G95 — G95. An exact source with a positive signed global leading term](../records/0174.md#local-g95-5b173d0687)
 - [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0174.md#local-g97-7b0759357c)
 - [local:G98 — G98. Retaining Bc through the complete original return](../records/0174.md#local-g98-616457c461)
-- [local:T06 — T06. The complete same-core sextic square function](../records/0174.md#local-t06-df7fac52f7)
-- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0174.md#local-t07-90600e73b5)
-- [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0174.md#local-t08-2d79a03ea8)
+- [local:T06 — T06. The complete same-core sextic square function](../records/0175.md#local-t06-df7fac52f7)
+- [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0175.md#local-t07-90600e73b5)
+- [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0175.md#local-t08-2d79a03ea8)
 - [pr26:Cycle25.Assembly.Parameters::gram_domination@213 — gram_domination](../records/0198.md#pr26-cycle25-assembly-parameters-gram-domination-213-a99b058c13)
 - [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0205.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
 - [pr26:Global.Low.Detector.LowGramScale — Global.Low.Detector.LowGramScale](../records/0208.md#pr26-global-low-detector-lowgramscale-7dc6d62852)
@@ -34,8 +37,8 @@ Page 5/5; 1036 matching records.
 - [pr26:Global.Low.Detector.LowSourceScales::lowGramFactor_source_bound@95 — lowGramFactor_source_bound](../records/0208.md#pr26-global-low-detector-lowsourcescales-lowgramfactor-source-bou-0da73d1902)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_scale@61 — source_compensated_gram_scale](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--963154156f)
 - [pr26:Global.Low.Detector.LowSourceScales::source_compensated_gram_sqrt@85 — source_compensated_gram_sqrt](../records/0208.md#pr26-global-low-detector-lowsourcescales-source-compensated-gram--51842670ba)
-- [pr26:Global.Low.Geometry::gram_power@132 — gram_power](../records/0208.md#pr26-global-low-geometry-gram-power-132-416fb2a373)
-- [pr26:Global.Low.Geometry::gram_sqrt_power@138 — gram_sqrt_power](../records/0208.md#pr26-global-low-geometry-gram-sqrt-power-138-08ada9d7a3)
+- [pr26:Global.Low.Geometry::gram_power@132 — gram_power](../records/0209.md#pr26-global-low-geometry-gram-power-132-416fb2a373)
+- [pr26:Global.Low.Geometry::gram_sqrt_power@138 — gram_sqrt_power](../records/0209.md#pr26-global-low-geometry-gram-sqrt-power-138-08ada9d7a3)
 - [pr26:Global.Parameters::gram_domination@510 — gram_domination](../records/0210.md#pr26-global-parameters-gram-domination-510-74771c1b29)
 - [review:A04 — \[research revision\]-review:A04](../records/0218.md#review-a04-14ba599cdd)
 - [review:T06 — \[research revision\]-review:T06](../records/0218.md#review-t06-2f9f1fb3c7)
