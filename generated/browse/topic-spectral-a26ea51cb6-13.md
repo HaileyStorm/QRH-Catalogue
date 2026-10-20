@@ -2,10 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3042 matching records.
+Page 13/13; 3045 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
+- [pr26:LocalMoment.PlainUnmarkedAdapter::fixed_retained_unmarked_plain@474 — fixed_retained_unmarked_plain](../records/0215.md#pr26-localmoment-plainunmarkedadapter-fixed-retained-unmarked-pla-f274abac64)
+- [pr26:LocalMoment.PlainUnmarkedAdapter::fixed_unmarked_plain@616 — fixed_unmarked_plain](../records/0215.md#pr26-localmoment-plainunmarkedadapter-fixed-unmarked-plain-616-5abd66de5c)
+- [pr26:LocalMoment.PlainUnmarkedAdapter::fixed_zero_input@442 — fixed_zero_input](../records/0215.md#pr26-localmoment-plainunmarkedadapter-fixed-zero-input-442-75b7904197)
 - [pr26:LocalMoment.SixthRowMask::amplified_element_mask@764 — amplified_element_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-element-mask-764-498d721dd2)
 - [pr26:LocalMoment.SixthRowMask::amplified_ideal_mask@737 — amplified_ideal_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-ideal-mask-737-bdd5d88097)
 - [pr26:LocalMoment.SixthRowMask::amplified_modulus_mask@787 — amplified_modulus_mask](../records/0215.md#pr26-localmoment-sixthrowmask-amplified-modulus-mask-787-a105cf085c)
@@ -26,8 +29,8 @@ Page 13/13; 3042 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::terminal_certificate@58 — terminal_certificate](../records/0216.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-termin-dc9360dea4)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport::actual_nonfloor_probe_transport@299 — actual_nonfloor_probe_transport](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-actu-e2db3e405e)
-- [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0216.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
-- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0216.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
+- [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0217.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
+- [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0217.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_moment@627 — certified_local_reflected_fourier_moment](../records/0217.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-58ea4cfef8)
 - [pr26:Physical.LocalCertifiedPair::certified_local_physical_pair@416 — certified_local_physical_pair](../records/0217.md#pr26-physical-localcertifiedpair-certified-local-physical-pair-41-6a0ee90a47)
 - [pr26:Physical.LocalOriginalFourth::certified_transport_original_numerator_fourth@77 — certified_transport_original_numerator_fourth](../records/0217.md#pr26-physical-localoriginalfourth-certified-transport-original-nu-5fe864c6d8)

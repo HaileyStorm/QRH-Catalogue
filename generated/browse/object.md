@@ -31,7 +31,7 @@
 - [fixed-mask RawMoment (1)](object-fixed-mask-rawmoment-099dc698b4-01.md)
 - [fixed-pair presented modulus (1)](object-fixed-pair-presented-modulus-31fa01eae1-01.md)
 - [full presented modulus (2)](object-full-presented-modulus-269c4f2816-01.md)
-- [hecke-family (2707)](object-hecke-family-33866bc7f5-01.md)
+- [hecke-family (2710)](object-hecke-family-33866bc7f5-01.md)
 - [hecke-zero-supremum (2)](object-hecke-zero-supremum-59926965a6-01.md)
 - [ideal coprimality projector (1)](object-ideal-coprimality-projector-52319a7530-01.md)
 - [laplace-source (1)](object-laplace-source-de12aaa6cc-01.md)

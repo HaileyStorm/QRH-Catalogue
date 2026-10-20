@@ -34,7 +34,7 @@
 - [failure_lesson (3)](kind-failure-lesson-c3f16ff3e4-01.md)
 - [family (29)](kind-family-d34a569ab7-01.md)
 - [finite_model (1)](kind-finite-model-5e8799b530-01.md)
-- [formal-component (4026)](kind-formal-component-c2c4cd0c7a-01.md)
+- [formal-component (4043)](kind-formal-component-c2c4cd0c7a-01.md)
 - [formal_source_abbrev (32)](kind-formal-source-abbrev-a60ab3e272-01.md)
 - [formal_source_def (786)](kind-formal-source-def-3b7517ed43-01.md)
 - [formal_source_inductive (1)](kind-formal-source-inductive-9a933c5ee7-01.md)

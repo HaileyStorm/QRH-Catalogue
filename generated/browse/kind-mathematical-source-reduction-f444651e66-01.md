@@ -4,12 +4,12 @@
 
 Page 1/1; 32 matching records.
 
-- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0173.md#local-g231-6f4902eba6)
-- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0173.md#local-g232-46b194e127)
-- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0173.md#local-g233-09e1889112)
-- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0173.md#local-g234-581cbca944)
-- [local:G235 — G235. Arbitrary-power short-cofactor localization of the complete nonlinear signed source](../records/0173.md#local-g235-73d71ef355)
-- [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0173.md#local-g237-a65c76e5f8)
+- [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0174.md#local-g231-6f4902eba6)
+- [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0174.md#local-g232-46b194e127)
+- [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0174.md#local-g233-09e1889112)
+- [local:G234 — G234. Checked finite c11 return with K6 and the exact changed-source obligations](../records/0174.md#local-g234-581cbca944)
+- [local:G235 — G235. Arbitrary-power short-cofactor localization of the complete nonlinear signed source](../records/0174.md#local-g235-73d71ef355)
+- [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0174.md#local-g237-a65c76e5f8)
 - [local:G240 — G240. Moving-prime cube prices and exact partial-trace observation](../records/0174.md#local-g240-3bd4f5f704)
 - [local:G241 — G241. A complete weighted Pick criterion for an ordinary reciprocal](../records/0174.md#local-g241-fea844ec1c)
 - [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0174.md#local-g242-d89bd23acd)

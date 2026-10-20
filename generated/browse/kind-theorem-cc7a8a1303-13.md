@@ -6,11 +6,11 @@ Page 13/13; 3049 matching records.
 
 [Previous](kind-theorem-cc7a8a1303-12.md)
 
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_live_canonical_child_bands@2884 — actual_live_canonical_child_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-live-cano-01062d8846)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_low_from_bands@12246 — actual_low_from_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-low-from--2ad3bb71b6)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_low_physical@11745 — actual_low_physical](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-low-physi-acfb2c894e)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_child_from_bands@3827 — actual_main_child_from_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-chil-f206c185d7)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_gaussian_from_bands@4317 — actual_main_gaussian_from_bands](../records/0217.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-gaus-256e15a1c6)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_live_canonical_child_bands@2884 — actual_live_canonical_child_bands](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-live-cano-01062d8846)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_low_from_bands@12246 — actual_low_from_bands](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-low-from--2ad3bb71b6)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_low_physical@11745 — actual_low_physical](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-low-physi-acfb2c894e)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_child_from_bands@3827 — actual_main_child_from_bands](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-chil-f206c185d7)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_gaussian_from_bands@4317 — actual_main_gaussian_from_bands](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-gaus-256e15a1c6)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_homogeneous@5216 — actual_main_homogeneous](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-homo-3096f971ee)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_separated_gaussian@4649 — actual_main_separated_gaussian](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-sepa-7245c38102)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::actual_main_separated_power@4918 — actual_main_separated_power](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-actual-main-sepa-8dbfdd8a05)

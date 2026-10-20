@@ -6,6 +6,7 @@
 - [public-leaderboard-pinned-source-intake-20261017 (6)](origin-public-leaderboard-pinned-source-intake-20261017-f3eb7bd410-01.md)
 - [public-leaderboard-source-intake-20261015 (141)](origin-public-leaderboard-source-intake-20261015-af1e0aaf5d-01.md)
 - [public-lean-initial-population (3906)](origin-public-lean-initial-population-78de914e57-01.md)
+- [public-pr67-formal-component-intake (17)](origin-public-pr67-formal-component-intake-5711dd5b2f-01.md)
 - [public-primary-source (10)](origin-public-primary-source-5a48ae7c0f-01.md)
 - [qrh-continued-written-research (10)](origin-qrh-continued-written-research-fbedf9f299-01.md)
 - [qrh-independent-continuation (75)](origin-qrh-independent-continuation-fd43f7153f-01.md)

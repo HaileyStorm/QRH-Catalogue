@@ -33,7 +33,7 @@
     "failure_lesson": 3,
     "family": 29,
     "finite_model": 1,
-    "formal-component": 4026,
+    "formal-component": 4043,
     "formal_source_abbrev": 32,
     "formal_source_def": 786,
     "formal_source_inductive": 1,
@@ -97,7 +97,7 @@
     "theorem": 3049,
     "unchanged_entrypoint": 1
   },
-  "edges": 40115,
+  "edges": 40126,
   "evidence_class": "local deterministic navigation build; no theorem validation",
   "inputs": {
     "restricted-source:0004e89b7a8295e40fa806e8bc0574987affed7414c0998cb540db0a892c040f-21cebcd597fd": {
@@ -38636,8 +38636,8 @@
     ],
     "version": 1
   },
-  "records": 21860,
-  "records_sha256": "0e2f40ff3af7f6ab46b6d5c8ead5eca093812e0d29a91979e257177ca58ec33c",
+  "records": 21877,
+  "records_sha256": "0853365d5bb780a7bac573fed87e245f3a9e52d5a3969fcb0c9d58ac9f2ce74e",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }

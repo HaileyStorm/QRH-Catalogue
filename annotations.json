@@ -128635,6 +128635,127 @@
         "locator": "110 Section7",
         "basis": "True cubic-label average requires label-independent admissible coefficients/source. Actual common-factor correlation does not establish those hypotheses; no transfer by title."
       }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.CenteredMomentEnergyState.NaturalState.rpow_rebase",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Moment.StateRebase",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Moment/StateRebase.lean#L15",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.CenteredMomentEnergyState.NaturalState.rebase",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Moment.StateRebase",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Moment/StateRebase.lean#L22",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.CenteredMomentEnergyState.NaturalState.rebase_width",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Moment.StateRebase",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Moment/StateRebase.lean#L41",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.CenteredMomentEnergyState.NaturalState.unitState",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Moment.SecondStepState",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Moment/SecondStepState.lean#L38",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.Cycle63Moment.eventually_rpow_ge",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Moment.SecondStepState",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Moment/SecondStepState.lean#L101",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-Cycle63.AffineLedger.low_reserve_old",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Arithmetic.AffineLedger",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Arithmetic/AffineLedger.lean#L544",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.LocalMoment.restricted_energy_remove",
+      "target": "LEAN-PR67-0db497ed-Candidate.LocalMoment.RestrictedIncumbent",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/LocalMoment/RestrictedIncumbent.lean#L29",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.LocalMoment.restricted_paid_incumbent",
+      "target": "LEAN-PR67-0db497ed-Candidate.LocalMoment.RestrictedIncumbent",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/LocalMoment/RestrictedIncumbent.lean#L80",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.Cycle63InitialMass.actual_geometry_affine_at_state",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Physical.InitialMass.GeometryAffineAtStateProof",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Physical/InitialMass/GeometryAffineAtStateProof.lean#L38",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-OAI.SevenEighths.Cycle63InitialMass.second_step_return",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Physical.InitialMass.SecondStepReturnProof",
+      "kind": "appears_in",
+      "evidence": {
+        "basis": "exact-public-declaration-source-location",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Physical/InitialMass/SecondStepReturnProof.lean#L25",
+        "source_revision": "0db497edc397d7076b1652b060e49c76b683e901",
+        "qualification": "Textual declaration occurrence; not a final paper/record use or inferred theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-PR67-0db497ed-Candidate.Cycle63.Moment.SecondStepState",
+      "target": "LEAN-PR67-0db497ed-Candidate.Cycle63.Moment.StateRebase",
+      "kind": "imports",
+      "evidence": {
+        "basis": "literal-pinned-source-import",
+        "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Moment/SecondStepState.lean",
+        "import": "Candidate.Cycle63.Moment.StateRebase",
+        "qualification": "Lexical module import only, not an extracted theorem dependency."
+      }
     }
   ],
   "schema_version": 1

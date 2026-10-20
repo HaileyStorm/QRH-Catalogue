@@ -86,7 +86,7 @@
 - [complete-squarefree-cofactor (1)](method-complete-squarefree-cofactor-b1864fe1f2-01.md)
 - [complete-window-reassembly (1)](method-complete-window-reassembly-1b2b0446f5-01.md)
 - [completed explicit formula (1)](method-completed-explicit-formula-032f546ac3-01.md)
-- [completion (605)](method-completion-21606b5837-01.md)
+- [completion (606)](method-completion-21606b5837-01.md)
 - [completion of squares (1)](method-completion-of-squares-aeb4c821fd-01.md)
 - [complex Gram minimization (1)](method-complex-gram-minimization-5965d07853-01.md)
 - [complex dual attainment (1)](method-complex-dual-attainment-66e5301105-01.md)

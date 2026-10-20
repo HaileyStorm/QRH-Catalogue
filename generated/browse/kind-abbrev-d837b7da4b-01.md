@@ -4,7 +4,7 @@
 
 Page 1/1; 36 matching records.
 
-- [pr26:Analytic.JointDictionaryDensity::JointParentLabel@225 — JointParentLabel](../records/0179.md#pr26-analytic-jointdictionarydensity-jointparentlabel-225-afa975be65)
+- [pr26:Analytic.JointDictionaryDensity::JointParentLabel@225 — JointParentLabel](../records/0180.md#pr26-analytic-jointdictionarydensity-jointparentlabel-225-afa975be65)
 - [pr26:Analytic.JointFiberCount::JointArithmeticCode@429 — JointArithmeticCode](../records/0181.md#pr26-analytic-jointfibercount-jointarithmeticcode-429-27e3c0855a)
 - [pr26:Analytic.JointFirstBinSourceGates::LivePacket@46 — LivePacket](../records/0181.md#pr26-analytic-jointfirstbinsourcegates-livepacket-46-e549a6ad9e)
 - [pr26:Analytic.JointFirstKernel::LeftIndex@1211 — LeftIndex](../records/0182.md#pr26-analytic-jointfirstkernel-leftindex-1211-1a0e7c1785)
@@ -30,8 +30,8 @@ Page 1/1; 36 matching records.
 - [pr26:Analytic.JointSourceDyadicFibers::FirstDyadic@640 — FirstDyadic](../records/0193.md#pr26-analytic-jointsourcedyadicfibers-firstdyadic-640-2ac9242b40)
 - [pr26:Analytic.JointSourceDyadicFibers::SecondDyadic@646 — SecondDyadic](../records/0193.md#pr26-analytic-jointsourcedyadicfibers-seconddyadic-646-a1cbfdde97)
 - [pr26:Analytic.JointSourceExtension::NonzeroJointSourceRow@343 — NonzeroJointSourceRow](../records/0193.md#pr26-analytic-jointsourceextension-nonzerojointsourcerow-343-3949486ece)
-- [pr26:Analytic.JointSourceFinite::FirstIndex@991 — FirstIndex](../records/0193.md#pr26-analytic-jointsourcefinite-firstindex-991-510804ab1b)
-- [pr26:Analytic.JointSourceFinite::SecondIndex@992 — SecondIndex](../records/0193.md#pr26-analytic-jointsourcefinite-secondindex-992-97abd1e8b1)
+- [pr26:Analytic.JointSourceFinite::FirstIndex@991 — FirstIndex](../records/0194.md#pr26-analytic-jointsourcefinite-firstindex-991-510804ab1b)
+- [pr26:Analytic.JointSourceFinite::SecondIndex@992 — SecondIndex](../records/0194.md#pr26-analytic-jointsourcefinite-secondindex-992-97abd1e8b1)
 - [pr26:Analytic.JointSourceReindex::ActualJointSourceRow@351 — ActualJointSourceRow](../records/0194.md#pr26-analytic-jointsourcereindex-actualjointsourcerow-351-936ce6c4a4)
 - [pr26:Analytic.JointSourceReindex::E@365 — E](../records/0194.md#pr26-analytic-jointsourcereindex-e-365-6c9ce65f8e)
 - [pr26:Analytic.JointSourceReindex::L@366 — L](../records/0194.md#pr26-analytic-jointsourcereindex-l-366-49f6185930)

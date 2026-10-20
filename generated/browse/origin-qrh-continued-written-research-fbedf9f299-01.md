@@ -13,4 +13,4 @@ Page 1/1; 10 matching records.
 - [QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS — Complete physical-row and two-prime-label collision payment](../records/0131.md#qrh-cont-r091-complete-row-label-collisions-79cd2b7559)
 - [QRH-CONT-R092-CANONICAL-ACTIVE-BANK — Complete long-column norm of the canonical active prime bank](../records/0131.md#qrh-cont-r092-canonical-active-bank-1fd9650dd8)
 - [QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER — Joint-probe signed pairing and the complete valuation Poisson return adapter](../records/0131.md#qrh-cont-r093-joint-probe-return-adapter-ab5b8728de)
-- [QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE — Exact Mobius prime removal with full norm and energy covariance](../records/0131.md#qrh-cont-r094-prime-removal-covariance-6df2a08941)
+- [QRH-CONT-R094-PRIME-REMOVAL-COVARIANCE — Exact Mobius prime removal with full norm and energy covariance](../records/0132.md#qrh-cont-r094-prime-removal-covariance-6df2a08941)

@@ -4,12 +4,12 @@
 
 Page 1/1; 27 matching records.
 
-- [QRH-CONT-EXT014-GROK — Grok external rough-source equivalence audit](../records/0130.md#qrh-cont-ext014-grok-f934ab4bd3)
-- [QRH-CONT-EXT014-INVERSE-LOG — Inverse-log finite differences: paid tail, retained reciprocal cross](../records/0130.md#qrh-cont-ext014-inverse-log-cf5e01039f)
-- [QRH-CONT-EXT014-MARKED-PRIME — Complete marked-prime coefficient and compensating signed sectors](../records/0130.md#qrh-cont-ext014-marked-prime-b3788ce698)
-- [QRH-CONT-EXT014-TWO-RAY — Balanced two-ray cancellation and corrections to unbalanced inference](../records/0130.md#qrh-cont-ext014-two-ray-c83e086a16)
-- [QRH-CONT-M001-SQUARE-CONTENT — Complete signed payment of maximal inverse square content](../records/0130.md#qrh-cont-m001-square-content-e74058120a)
-- [QRH-CONT-M002-CENTERED-CONTENT — Paid CM principal mean and stronger centered square-content charge](../records/0130.md#qrh-cont-m002-centered-content-03aba8cc9a)
+- [QRH-CONT-EXT014-GROK — Grok external rough-source equivalence audit](../records/0131.md#qrh-cont-ext014-grok-f934ab4bd3)
+- [QRH-CONT-EXT014-INVERSE-LOG — Inverse-log finite differences: paid tail, retained reciprocal cross](../records/0131.md#qrh-cont-ext014-inverse-log-cf5e01039f)
+- [QRH-CONT-EXT014-MARKED-PRIME — Complete marked-prime coefficient and compensating signed sectors](../records/0131.md#qrh-cont-ext014-marked-prime-b3788ce698)
+- [QRH-CONT-EXT014-TWO-RAY — Balanced two-ray cancellation and corrections to unbalanced inference](../records/0131.md#qrh-cont-ext014-two-ray-c83e086a16)
+- [QRH-CONT-M001-SQUARE-CONTENT — Complete signed payment of maximal inverse square content](../records/0131.md#qrh-cont-m001-square-content-e74058120a)
+- [QRH-CONT-M002-CENTERED-CONTENT — Paid CM principal mean and stronger centered square-content charge](../records/0131.md#qrh-cont-m002-centered-content-03aba8cc9a)
 - [QRH-CONT-M002-DEPTH-EXTRACTION — Complete inverse-depth derivative extraction with bounded angular norm](../records/0131.md#qrh-cont-m002-depth-extraction-c04ef32cc1)
 - [QRH-CONT-M003-UNIFORM-TWIST — Universal ordinary conductor and Fourier-norm twist adapter](../records/0131.md#qrh-cont-m003-uniform-twist-3803c347fe)
 - [QRH-CONT-M004-EULER-SECTOR — Uniform Euler phase sector and direct ordinary cross return](../records/0131.md#qrh-cont-m004-euler-sector-7c7f0c7f30)
