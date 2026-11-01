@@ -45,5 +45,6 @@
 - [source-reported adapted local verification (1)](formalization-source-reported-adapted-local-verification-a03d52c78c-01.md)
 - [textual helper metadata; exact-head enclosing submission certified separately (17)](formalization-textual-helper-metadata-exact-head-enclosing-submission-certified-5966b89c30-01.md)
 - [textual mathematics; no new Lean or kernel execution (3)](formalization-textual-mathematics-no-new-lean-or-kernel-execution-0d8a22cf05-01.md)
+- [textual-source-indexed; independent verification not performed (18)](formalization-textual-source-indexed-independent-verification-not-performed-5bfd26577d-01.md)
 - [textual-source-retained; kernel replay unknown (11230)](formalization-textual-source-retained-kernel-replay-unknown-367a2a8a8d-01.md)
 - [unknown (6378)](formalization-unknown-b23a6a8439-01.md)

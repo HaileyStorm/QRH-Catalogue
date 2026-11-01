@@ -2,10 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 801 matching records.
+Page 4/4; 804 matching records.
 
 [Previous](topic-zero-free-f11185c371-03.md)
 
+- [local:G134 — G134. Uniform second-order moving Riesz comparison](../records/0173.md#local-g134-5bbbd177cd)
+- [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0173.md#local-g137-8fee24c3bf)
+- [local:G139 — G139. A finite detector bank and actual-law audit targets](../records/0173.md#local-g139-155ae52ea8)
 - [local:G140 — \[research revision\]: a nonlinear detector with a completely paid far tail (G140)](../records/0173.md#local-g140-88c35bf505)
 - [local:G147 — G147. Two presentations confine the unpaid rows to a strict residual box](../records/0173.md#local-g147-16c3c3a8c2)
 - [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0173.md#local-g149-643389d4ad)
@@ -18,9 +21,9 @@ Page 4/4; 801 matching records.
 - [local:G172 — G172. Deflation changes the obstructing cell and preserves its cost](../records/0173.md#local-g172-3d45f2fa11)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0173.md#local-g173-0a9bfc34dc)
 - [local:G2 — G2 — uncapped free invention](../records/0173.md#local-g2-2c857fea19)
-- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0173.md#local-g215-a9fc13c4f5)
-- [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0173.md#local-g217-1ea6acd977)
-- [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0173.md#local-g218-72ef21b6b0)
+- [local:G215 — G215. Exact source, complete localization and all-height return](../records/0174.md#local-g215-a9fc13c4f5)
+- [local:G217 — G217. Actual-source obstructions and their exact scopes](../records/0174.md#local-g217-1ea6acd977)
+- [local:G218 — G218. A genuine cofactor average with a fixed zero detector](../records/0174.md#local-g218-72ef21b6b0)
 - [local:G231 — G231. Complete large-root and Type I payment with a smaller signed Type II remainder](../records/0174.md#local-g231-6f4902eba6)
 - [local:G232 — G232. Exact eight-shift aggregate, complete Mellin return and unpaid signed polynomial-gap correlation](../records/0174.md#local-g232-46b194e127)
 - [local:G233 — G233. Same-family original positive moment licensed directly at K6](../records/0174.md#local-g233-09e1889112)
@@ -34,9 +37,9 @@ Page 4/4; 801 matching records.
 - [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0174.md#local-g283-bef435ea5c)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0174.md#local-g291-a2d579dcd5)
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0174.md#local-g295-06047ab12a)
-- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0174.md#local-g4-fb1605101b)
-- [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0174.md#local-g69-9bdd438ff0)
-- [local:G72 — G72. A complete quantitative short-window return](../records/0174.md#local-g72-501fc8c07b)
+- [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0175.md#local-g4-fb1605101b)
+- [local:G69 — G69. The global Euler norm fails; its mass escapes the physical scale](../records/0175.md#local-g69-9bdd438ff0)
+- [local:G72 — G72. A complete quantitative short-window return](../records/0175.md#local-g72-501fc8c07b)
 - [local:G77 — G77. Full contour gluing includes the horizontal and residue terms](../records/0175.md#local-g77-f75acc7bc5)
 - [local:G96 — G96. The complete shrinking-arc return and finite signed core](../records/0175.md#local-g96-8db9d2be74)
 - [local:G97 — G97. Exact local diagnostics and a growing filter's reconstruction cost](../records/0175.md#local-g97-7b0759357c)
@@ -51,7 +54,7 @@ Page 4/4; 801 matching records.
 - [public-artifact:41c9154080f1033d5592a0e8 — single-prime-29-33-20261010/manuscript/zeta_zero_free_4_33_self_contained.tex](../records/0218.md#public-artifact-41c9154080f1033d5592a0e8-005aa2db1b)
 - [public-paper:liu-paper-1 — Slightly improved zero-free half-planes for the quasi-Riemann hypothesis.pdf](../records/0218.md#public-paper-liu-paper-1-e60f4435bd)
 - [public-paper:liu-paper-2 — Slightly improved zero-free half-planes.pdf](../records/0218.md#public-paper-liu-paper-2-7a347a3bbf)
-- [review:T01 — \[research revision\]-review:T01](../records/0218.md#review-t01-d60a8ef6a7)
+- [review:T01 — \[research revision\]-review:T01](../records/0219.md#review-t01-d60a8ef6a7)
 - [reviewed-claim:T09-compact-triple-L2 — \[research revision\]-claim:T09-compact-triple-L2](../records/0219.md#reviewed-claim-t09-compact-triple-l2-d83ac5f49c)
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0219.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
 - [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0219.md#reviewed-claim-t10-continuum-69e758bd43)

@@ -2,10 +2,12 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/5; 1041 matching records.
+Page 5/5; 1043 matching records.
 
 [Previous](method-gram-caa75103c5-04.md)
 
+- [local:G226 — G226. A dimension-free obstruction after paying a common linear readout](../records/0174.md#local-g226-c84df8fcc4)
+- [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0174.md#local-g242-d89bd23acd)
 - [local:G244 — G244. A flat q-product source with exact inverse and paid synthesis](../records/0174.md#local-g244-a12ada8918)
 - [local:G248 — G248. Periodic/square Hilbert residual and zero-forced floor](../records/0174.md#local-g248-3d1e6b9334)
 - [local:G254 — G254. Fixed-annular weighted-height and pointwise polynomial bounds are equivalent](../records/0174.md#local-g254-52c97c1379)
@@ -29,7 +31,7 @@ Page 5/5; 1041 matching records.
 - [local:T07 — T07. Common-divisor cancellation with the actual prime marks](../records/0175.md#local-t07-90600e73b5)
 - [local:T08 — T08. Two-exponent finite-incidence transfer](../records/0175.md#local-t08-2d79a03ea8)
 - [pr26:Cycle25.Assembly.Parameters::gram_domination@213 — gram_domination](../records/0199.md#pr26-cycle25-assembly-parameters-gram-domination-213-a99b058c13)
-- [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0205.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
+- [pr26:Cycle25.Numerator.Imported.Parameters::gram_domination@69 — gram_domination](../records/0206.md#pr26-cycle25-numerator-imported-parameters-gram-domination-69-3fa467c506)
 - [pr26:Global.Low.Detector.LowGramScale — Global.Low.Detector.LowGramScale](../records/0208.md#pr26-global-low-detector-lowgramscale-7dc6d62852)
 - [pr26:Global.Low.Detector.LowGramScale::compensated_gram_ratio@155 — compensated_gram_ratio](../records/0208.md#pr26-global-low-detector-lowgramscale-compensated-gram-ratio-155-6fa6f0f90a)
 - [pr26:Global.Low.Detector.LowGramScale::compensated_gram_scale_bound@159 — compensated_gram_scale_bound](../records/0208.md#pr26-global-low-detector-lowgramscale-compensated-gram-scale-boun-1ab072fd6c)
@@ -43,7 +45,7 @@ Page 5/5; 1041 matching records.
 - [pr26:Global.Low.Geometry::gram_sqrt_power@138 — gram_sqrt_power](../records/0209.md#pr26-global-low-geometry-gram-sqrt-power-138-08ada9d7a3)
 - [pr26:Global.Parameters::gram_domination@510 — gram_domination](../records/0211.md#pr26-global-parameters-gram-domination-510-74771c1b29)
 - [review:A04 — \[research revision\]-review:A04](../records/0218.md#review-a04-14ba599cdd)
-- [review:T06 — \[research revision\]-review:T06](../records/0218.md#review-t06-2f9f1fb3c7)
-- [review:T07 — \[research revision\]-review:T07](../records/0218.md#review-t07-d3b26c667a)
+- [review:T06 — \[research revision\]-review:T06](../records/0219.md#review-t06-2f9f1fb3c7)
+- [review:T07 — \[research revision\]-review:T07](../records/0219.md#review-t07-d3b26c667a)
 - [reviewed-claim:A14-model-comparisons — \[research revision\]-claim:A14-model-comparisons](../records/0219.md#reviewed-claim-a14-model-comparisons-ccff46b733)
 - [reviewed-claim:A14-sixth-power-projection — \[research revision\]-claim:A14-sixth-power-projection](../records/0219.md#reviewed-claim-a14-sixth-power-projection-fce4815a13)

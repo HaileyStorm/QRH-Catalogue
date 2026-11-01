@@ -127217,7 +127217,7 @@
     },
     {
       "evidence": {
-        "basis": "Retains the exact complete correction/profile and improves its estimate under the explicit additional M\u00f6bius progression input; does not supersede the unconditional old scope.",
+        "basis": "Retains the exact complete correction/profile and improves its estimate under the explicit additional Möbius progression input; does not supersede the unconditional old scope.",
         "locator": "Status and inputs; V1.1a; provenance",
         "source_sha256": "c1efa9a022a12d9b120e1d4e34ec1aade0bdbd9cfe82d6114a15bf00f1c6da7c"
       },
@@ -127248,7 +127248,7 @@
     {
       "evidence": {
         "basis": "Uses the fixed positive Gaussian height norm and complete ordinary norm return.",
-        "locator": "H1.9\u2013H1.15",
+        "locator": "H1.9–H1.15",
         "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
       },
       "kind": "depends_on",
@@ -127257,8 +127257,8 @@
     },
     {
       "evidence": {
-        "basis": "Explicit prior mechanism: Gaussian polynomial profile and (1\u2212w)^r cancellation of full principal poles; present heat-limit return has its own complete proof.",
-        "locator": "Final provenance; prior source \u00a7\u00a73\u20134",
+        "basis": "Explicit prior mechanism: Gaussian polynomial profile and (1−w)^r cancellation of full principal poles; present heat-limit return has its own complete proof.",
+        "locator": "Final provenance; prior source §§3–4",
         "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
       },
       "kind": "related",
@@ -127278,7 +127278,7 @@
     {
       "evidence": {
         "basis": "Uses the fixed third operator and the proved complete zero-exclusion return.",
-        "locator": "Sections 4\u20137",
+        "locator": "Sections 4–7",
         "source_sha256": "592ad408ab6e7afb313f0961777b7d790f5b3163d839d92459f34d91bdf84e98"
       },
       "kind": "depends_on",
@@ -127312,7 +127312,7 @@
       "evidence": {
         "basis": "Uses the exact retained third-filtered cubic kernel and finite/full source comparison.",
         "source_sha256": "87bbcf8484d94340c9135d110fb4c6dcdf70a66e38009b67c404cd8621781f0b",
-        "locator": "H2.1\u2013H2.13"
+        "locator": "H2.1–H2.13"
       }
     },
     {
@@ -127320,9 +127320,9 @@
       "target": "QRH-HEAT-ANNULAR-SADDLE-BOUND",
       "kind": "depends_on",
       "evidence": {
-        "basis": "Keeps the signed annular M\u00f6bius polynomial inside the integral; compares the resulting price with its earlier complete shell bound.",
+        "basis": "Keeps the signed annular Möbius polynomial inside the integral; compares the resulting price with its earlier complete shell bound.",
         "source_sha256": "87bbcf8484d94340c9135d110fb4c6dcdf70a66e38009b67c404cd8621781f0b",
-        "locator": "H2.15\u2013H2.21"
+        "locator": "H2.15–H2.21"
       }
     },
     {
@@ -127332,7 +127332,7 @@
       "evidence": {
         "basis": "Explicit prior Gaussian filter and related bounded-factor Liouville-sign identity; no general-ingredient priority claimed.",
         "source_sha256": "87bbcf8484d94340c9135d110fb4c6dcdf70a66e38009b67c404cd8621781f0b",
-        "locator": "Provenance; prior source \u00a7\u00a73\u20134,6"
+        "locator": "Provenance; prior source §§3–4,6"
       }
     },
     {
@@ -127342,7 +127342,7 @@
       "evidence": {
         "basis": "The source replacement recovers the inherited count and permits the same complete whole-bin cutoff recalibration without transferring marked moments.",
         "source_sha256": "ddfeeafd616c8fee4cc1a9ac76a1074a7e9b7d4390167fe53f73e9720a760156",
-        "locator": "\u00a7\u00a71\u20133, 6.1"
+        "locator": "§§1–3, 6.1"
       }
     },
     {
@@ -127352,7 +127352,7 @@
       "evidence": {
         "basis": "Uses both squarefree-plain/inverse witnesses at the same actual zero with the admitted profile and height order.",
         "source_sha256": "ddfeeafd616c8fee4cc1a9ac76a1074a7e9b7d4390167fe53f73e9720a760156",
-        "locator": "\u00a7\u00a74\u20136"
+        "locator": "§§4–6"
       }
     },
     {
@@ -127362,14 +127362,14 @@
       "evidence": {
         "basis": "Retains the complete central/all-bin target geometry and paid-sector orientation while changing the exact coefficient source.",
         "source_sha256": "ddfeeafd616c8fee4cc1a9ac76a1074a7e9b7d4390167fe53f73e9720a760156",
-        "locator": "\u00a7\u00a75\u20136"
+        "locator": "§§5–6"
       }
     },
     {
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 1\u20134; exact kernel and deletion definitions",
+        "locator": "Sections 1–4; exact kernel and deletion definitions",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "The compact expansion and Mellin moments are proved for the exact retained cubic transform.",
         "source_sha256": "2b497b15f39015348c84e285011957516030cf07a3655a1aeea42f036672c4ee"
@@ -127408,7 +127408,7 @@
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 4\u20135; product replacement and exact summation defect",
+        "locator": "Sections 4–5; product replacement and exact summation defect",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "The source identity and all centered short complements determine the exact residual and its target equivalence.",
         "source_sha256": "d849eb2ba66d0c487e74c294ce55c2ff5cdc3497f4bc4d763dae8f7d8d568565"
@@ -127460,7 +127460,7 @@
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 6\u20137; nonzero compact-ratio limit and absolute obstructions",
+        "locator": "Sections 6–7; nonzero compact-ratio limit and absolute obstructions",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "Both independently analyze the same compact kernel; their absolute obstructions concern different precise sums and do not lower-bound the complete signed source.",
         "source_sha256": "d849eb2ba66d0c487e74c294ce55c2ff5cdc3497f4bc4d763dae8f7d8d568565"
@@ -127564,7 +127564,7 @@
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 1\u20132; actual-zero quantifiers and row refinement",
+        "locator": "Sections 1–2; actual-zero quantifiers and row refinement",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "The scale bank keeps the actual character, zero, profiles and original rows from the same-zero witness contract.",
         "source_sha256": "339a080cf6f3c652fbf14650974068d33c929f64fad8818cb8300de0453ba320"
@@ -127590,7 +127590,7 @@
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 1\u20133; literal source, centers and marked-energy invocation",
+        "locator": "Sections 1–3; literal source, centers and marked-energy invocation",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "The collision identities and remaining one-slot source use the canonical joint gate with its full coefficient and bounded pair phase.",
         "source_sha256": "8a5bf09c9bab6918692398009d618d7e91797ec0101f9265daa7525a7a66bd34"
@@ -127629,7 +127629,7 @@
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 1\u20133 and 5; old versus centered local factors and principal check",
+        "locator": "Sections 1–3 and 5; old versus centered local factors and principal check",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "The new all-valuation adapter is derived for this exact common-time center and its retained paired principal calibration.",
         "source_sha256": "b4e2c918f845401e2ba69c7d17c65b55df60548c1193b1de77355b2283b07f64"
@@ -127681,7 +127681,7 @@
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 4\u20135; complete covariance and adjoint derivative hierarchy",
+        "locator": "Sections 4–5; complete covariance and adjoint derivative hierarchy",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "The operator calculation retains the full norm and energy from the exact adjoint Gaussian return.",
         "source_sha256": "9f71b9878fe8e1214c17493ac206ce50b74f9bcaa5272f745d0f7317fb5ddfcd"
@@ -127707,7 +127707,7 @@
       "evidence": {
         "access": "restricted-source",
         "basis": "explicit-written-contract-and-scoped-source-read",
-        "locator": "Sections 1\u20134; exact arithmetic operations before taking norms",
+        "locator": "Sections 1–4; exact arithmetic operations before taking norms",
         "qualification": "Mathematical component relationship only; not a paper-to-formalization use claim or an endpoint certification.",
         "reason": "Both keep the ordinary inverse source and exact nonlinear correction; no norm contraction is inferred solely from their algebraic identities.",
         "source_sha256": "9f71b9878fe8e1214c17493ac206ce50b74f9bcaa5272f745d0f7317fb5ddfcd"
@@ -127982,7 +127982,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "4200ca543677b830c03c8d148326636e48418491485d3c68e17c6d93b9b31008",
-        "locator": "085.1\u2013085.6,085.17,085.29",
+        "locator": "085.1–085.6,085.17,085.29",
         "basis": "Retains exactly the finite whole cubic source and paid omitted ranges; no altered source or new return."
       }
     },
@@ -128012,7 +128012,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "65e43b0ded99f6dc1d3df186fd63038b9d3713510b56a174f67a835c8b38fc65",
-        "locator": "087.1\u2013087.6",
+        "locator": "087.1–087.6",
         "basis": "Uses the exact common-time three-state gate, and explicitly extends fixed coefficient choices to the stated complex family."
       }
     },
@@ -128022,7 +128022,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "d523b2325c83be84b8fedabe3c4196d489b4e5aa69ce8b8fa77de2d88fdad5e0",
-        "locator": "086.20\u2013086.23 and repair readback",
+        "locator": "086.20–086.23 and repair readback",
         "basis": "Uses the complete three collision channels, intersection and all mutual cross terms; AA square alone is not total square."
       }
     },
@@ -128032,7 +128032,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "d523b2325c83be84b8fedabe3c4196d489b4e5aa69ce8b8fa77de2d88fdad5e0",
-        "locator": "086.1\u2013086.20",
+        "locator": "086.1–086.20",
         "basis": "Retains earlier moving Gauss phase and natural-zero warning in the new full pair operator; no fixed-ray averaging of the frozen twist."
       }
     },
@@ -128062,7 +128062,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "15f4f443477ec86287877b50a3166a9f57bb68542141a7a33071bea2d664aa8a",
-        "locator": "088 scope and Sections2\u20135",
+        "locator": "088 scope and Sections2–5",
         "basis": "Uses the actual completed complex AA source and inherited full energy with its original masks and weights."
       }
     },
@@ -128102,7 +128102,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "4c669d3bcc092f2a6c5a8fb21ffceb254ce90d9ae619fc88e5ba3cbacd3cb280",
-        "locator": "092.4\u2013092.8 and inherited source72",
+        "locator": "092.4–092.8 and inherited source72",
         "basis": "Uses the SAME actual squarefree/plain witnesses, full X+L enclosure, masks, moments and compatible profile costs; no new witness identity claimed."
       }
     },
@@ -128112,7 +128112,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
-        "locator": "091.1\u2013091.23",
+        "locator": "091.1–091.23",
         "basis": "Specializes the preserved complex family to1-c, with full original source, principal signal and restricted contour admission."
       }
     },
@@ -128122,7 +128122,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
-        "locator": "091.14\u2013091.17, Section7",
+        "locator": "091.14–091.17, Section7",
         "basis": "Uses complete imprimitive physical support and overlaps in the universal LCM expression; does not delete noncoprime columns."
       }
     },
@@ -128132,7 +128132,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
-        "locator": "091.17\u2013091.20 and Section7",
+        "locator": "091.17–091.20 and Section7",
         "basis": "Existing mixed-LCM/cross-tuple principle is reused; the new exact two-orientation arithmetic operator is source-specific."
       }
     },
@@ -128142,7 +128142,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "e2e907f6e2fe2fa489b6902a021ebed11dd58a9ec82aa5d8b023c72f6ed6a4bd",
-        "locator": "091.18\u2013091.20 and Section7",
+        "locator": "091.18–091.20 and Section7",
         "basis": "Same-tuple or complete-residue facts do not erase full independent-height cross-tuples. No general impossibility claim."
       }
     },
@@ -128162,7 +128162,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "4aadcd7a0f3e4c53fc3efa130eb67218325b350a15834f972d366b34307b75d1",
-        "locator": "094.0\u2013094.4; source scope",
+        "locator": "094.0–094.4; source scope",
         "basis": "Uses the literal complete ES kernel, generic cube-free paired mass and actual Hermitian parity array; the new squarepart-cap sector estimate is stronger and separate from the old paid ranges."
       }
     },
@@ -128172,7 +128172,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "4aadcd7a0f3e4c53fc3efa130eb67218325b350a15834f972d366b34307b75d1",
-        "locator": "094.3\u2013094.4; actual squarefree product specialization",
+        "locator": "094.3–094.4; actual squarefree product specialization",
         "basis": "The actual product supplies sq(n)=gcd(d,m) and cap<=min(w_plus D,v_plus N); the general bounded-coefficient theorem itself does not invoke an inverse moment."
       }
     },
@@ -128202,7 +128202,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
-        "locator": "093.1\u2013093.6,093.20\u2013093.21",
+        "locator": "093.1–093.6,093.20–093.21",
         "basis": "Retains the exact whole two-orientation AA source and every coefficient, while applying a new joint row transform before Cauchy."
       }
     },
@@ -128212,7 +128212,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
-        "locator": "093.3\u2013093.6 and093.22\u2013093.23",
+        "locator": "093.3–093.6 and093.22–093.23",
         "basis": "Uses actual imprimitive local support for UNIQUE maximal d extraction and the conductor-safe frame with original weights; inclusive overlap restrictions are not substituted."
       }
     },
@@ -128222,7 +128222,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
-        "locator": "Source evidence; adapted affine_lattice_poisson125\u2013137",
+        "locator": "Source evidence; adapted affine_lattice_poisson125–137",
         "basis": "Existing Schwartz affine planar Poisson and its Jacobian apply after making the actual coefficient periodic. Public module indexing is not verification of this new source construction."
       }
     },
@@ -128232,7 +128232,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "8fd0ab95c5b68d537e3faa48577859cdae6f49ef9db872f3f497ec27feeeb51c",
-        "locator": "Source evidence; adapted gaussEnergy_poisson106\u2013126",
+        "locator": "Source evidence; adapted gaussEnergy_poisson106–126",
         "basis": "Existing fixed supported-pair energy transform does not itself license Poisson on a bounded moving Gauss row; new exact periodic opening is required. No formalizes or final-use claim."
       }
     },
@@ -128242,7 +128242,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "23e0d116c2e1d4ba3eda5facc8f1f74b41c870d3144326b0a2f82b223a57bdb8",
-        "locator": "096.1\u2013096.6",
+        "locator": "096.1–096.6",
         "basis": "Uses the literal complete masked kernel and cube-free Hermitian array; new common-squarepart support density is explicitly proved rather than imported as a moment."
       }
     },
@@ -128252,7 +128252,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "bcf2bd93912b52bc5f4610bcac5c1eef8968a692f7000c4e2b6e8e2f252745f3",
-        "locator": "097.3 and097.8\u2013097.11",
+        "locator": "097.3 and097.8–097.11",
         "basis": "Retains the ACTUAL original witnesses, common profiles, natural holes, selected signal and count/leakage interface."
       }
     },
@@ -128292,7 +128292,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "07a7207612065e687d5c0f9fc53b5a95c3119013089c188c1ca6c6624401ae9e",
-        "locator": "098.2\u2013098.7,098.10\u2013098.13",
+        "locator": "098.2–098.7,098.10–098.13",
         "basis": "Uses original canonical inverse/plain moments and selected witnesses on the unchanged row domain; exact puncture reconstruction and full h inversion supply the new uniform reduction."
       }
     },
@@ -128312,7 +128312,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "06d12d657e9132396884d51fe99b36e1343931ac2c74eaee3056d16476872dda",
-        "locator": "099.1\u2013099.5",
+        "locator": "099.1–099.5",
         "basis": "Uses097 complete logarithmic coefficient identity only. Does not transfer its cubic-column theorem to sextic prime columns.099 and later100 have separate frozen scoped reviews."
       }
     },
@@ -128322,7 +128322,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "d16a20f9bb59282ffdb914ab22f769001facf6334112ee652150b677e057e576",
-        "locator": "100.1\u2013100.10 with099.7\u2013099.16",
+        "locator": "100.1–100.10 with099.7–099.16",
         "basis": "Uses the literal FULL original inverseL2 exponent, unchanged common profiles and all-bounded-polynomial-range ES4; full product edges and derivatives are paid. The spectral lower bound remains open."
       }
     },
@@ -128362,7 +128362,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "97e8ffdf21634eb5189f070873996610c0434b183a44842ede9dbd9503396931",
-        "locator": "102.29\u2013102.38",
+        "locator": "102.29–102.38",
         "basis": "Conditional whole-source replacement preserves original unknown auxiliary counts, exact floor test and finite compatible windows."
       }
     },
@@ -128392,7 +128392,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "39eb1c5ddbe191db0439e162fc1b2440aebbc391ba59145f70c97483f0abee26",
-        "locator": "103 Sections3\u20134",
+        "locator": "103 Sections3–4",
         "basis": "Generic divisor/assignment injectivity is retained; new source-specific disjoint-pool encoding and sharper actual-mask bound are mathematical extensions, not new formal verification."
       }
     },
@@ -128402,7 +128402,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "39eb1c5ddbe191db0439e162fc1b2440aebbc391ba59145f70c97483f0abee26",
-        "locator": "103 Sections6\u20138",
+        "locator": "103 Sections6–8",
         "basis": "Eight-core source reconstruction keeps old/new complement provenance and nonzero masks absent from generic Valid. No generic lemma is silently strengthened."
       }
     },
@@ -128422,7 +128422,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "2dac908014e5b622e9ebe6b3baf941c4bd85cac43f151676c9b6a21607f3b1f9",
-        "locator": "105 Sections2\u20133",
+        "locator": "105 Sections2–3",
         "basis": "Actual active source quantifiers precede arbitrary finite slot type; product compression is inspected source evidence. New terminal annular mass budget is textual mathematics."
       }
     },
@@ -128432,7 +128432,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "2dac908014e5b622e9ebe6b3baf941c4bd85cac43f151676c9b6a21607f3b1f9",
-        "locator": "105 Sections2,4\u20139",
+        "locator": "105 Sections2,4–9",
         "basis": "The old rmax inactive-source budget is replaced only on the actual annular source with fixed terms and complete cube/label costs."
       }
     },
@@ -128452,7 +128452,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "11634c43f6a967b25d5f1a43ad8a9ef7a005a5d5419a973f2e1a5785a17b15f4",
-        "locator": "106 Sections7\u20138",
+        "locator": "106 Sections7–8",
         "basis": "Uses source-specific eight-core/two-subset injection and fixed divisor powers on genuine projected tuples."
       }
     },
@@ -128492,7 +128492,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "9d62887276dc68cfa64faf8a47183ef9a64fdfad0abe787b89f41fdfe1ba1ef0",
-        "locator": "107 Sections3\u20136",
+        "locator": "107 Sections3–6",
         "basis": "Exact source row-map injection including units is a retained arithmetic interface; new slot-overlap terms are separately proved mathematics."
       }
     },
@@ -128502,7 +128502,7 @@
       "kind": "related",
       "evidence": {
         "source_sha256": "9d62887276dc68cfa64faf8a47183ef9a64fdfad0abe787b89f41fdfe1ba1ef0",
-        "locator": "107 Sections4\u20136",
+        "locator": "107 Sections4–6",
         "basis": "Uses original minus inverse-column identity and natural-zero mask; exact slot-restoration corrections are additional source-level deductions."
       }
     },
@@ -128512,7 +128512,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
-        "locator": "108 Sections2\u20136",
+        "locator": "108 Sections2–6",
         "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
       }
     },
@@ -128522,7 +128522,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
-        "locator": "108 Sections2\u20136",
+        "locator": "108 Sections2–6",
         "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
       }
     },
@@ -128532,7 +128532,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
-        "locator": "108 Sections2\u20136",
+        "locator": "108 Sections2–6",
         "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
       }
     },
@@ -128542,7 +128542,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "d5963213c89516704fd618c3897451250722e2606307578c8ab9cf6124105598",
-        "locator": "108 Sections2\u20136",
+        "locator": "108 Sections2–6",
         "basis": "Full assembly imports this exact scoped component with its masks, uniform orders, support/cap and child hypotheses, then proves common global onset and initial inverse caller."
       }
     },
@@ -128572,7 +128572,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "e64d783b386d65ba9cf75e4127b14b6f2f84a9a0d33bbad3d4d362f333d159ba",
-        "locator": "109 Sections1\u20134",
+        "locator": "109 Sections1–4",
         "basis": "Exact uniform-MI supply, overlap-aware amplification and symmetric all-j decomposition are applied with their full common-order/onset and coefficient restrictions."
       }
     },
@@ -128582,7 +128582,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "e64d783b386d65ba9cf75e4127b14b6f2f84a9a0d33bbad3d4d362f333d159ba",
-        "locator": "109 Sections1\u20134",
+        "locator": "109 Sections1–4",
         "basis": "Exact uniform-MI supply, overlap-aware amplification and symmetric all-j decomposition are applied with their full common-order/onset and coefficient restrictions."
       }
     },
@@ -128592,7 +128592,7 @@
       "kind": "depends_on",
       "evidence": {
         "source_sha256": "e64d783b386d65ba9cf75e4127b14b6f2f84a9a0d33bbad3d4d362f333d159ba",
-        "locator": "109 Sections1\u20134",
+        "locator": "109 Sections1–4",
         "basis": "Exact uniform-MI supply, overlap-aware amplification and symmetric all-j decomposition are applied with their full common-order/onset and coefficient restrictions."
       }
     },
@@ -128755,6 +128755,127 @@
         "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/0db497edc397d7076b1652b060e49c76b683e901/submissions/two-level-affine-20261019/src/Candidate/Cycle63/Moment/SecondStepState.lean",
         "import": "Candidate.Cycle63.Moment.StateRebase",
         "qualification": "Lexical module import only, not an extracted theorem dependency."
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.Hybrid.EtaSupportGapPhaseCoercivity",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.Hybrid.EtaSupportGapPhaseGram",
+      "kind": "imports",
+      "evidence": {
+        "basis": "literal source import",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/Hybrid/EtaSupportGapPhaseCoercivity.lean#L1",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "qualification": "Textual import, not a claim of theorem dependency or mathematical derivation."
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.UniformDirichletPowerBound",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.DirichletHigherDerivativeBound",
+      "kind": "imports",
+      "evidence": {
+        "basis": "literal source import",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/UniformDirichletPowerBound.lean#L7",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "qualification": "Textual import, not a claim of theorem dependency or mathematical derivation."
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.ZetaQuasiRHOpenAI",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.ZetaRieszQuasiRHDischarge",
+      "kind": "imports",
+      "evidence": {
+        "basis": "literal source import",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/ZetaQuasiRHOpenAI.lean#L7",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "qualification": "Textual import, not a claim of theorem dependency or mathematical derivation."
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.GaussianXiLogDerivativeGrowth",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.gaussianArithmeticExplicitFormula_eq_canonical",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/GaussianXiLogDerivativeGrowth.lean#L1235",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.gaussianArithmeticExplicitFormula_eq_canonical"
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.Hybrid.EtaSupportGapPhaseCoercivity",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.pairedEtaSupportGapScaledPhaseGram_integer_complex_coercive",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/Hybrid/EtaSupportGapPhaseCoercivity.lean#L359",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.pairedEtaSupportGapScaledPhaseGram_integer_complex_coercive"
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.ZetaSquarefreeEulerQuadratic",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.SquarefreeEulerQuadratic.form_eq_divisor_coordinates",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/ZetaSquarefreeEulerQuadratic.lean#L158",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.SquarefreeEulerQuadratic.form_eq_divisor_coordinates"
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.DirichletHigherDerivativeBound",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.DirichletHigherDerivativeBound.feature_bound",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/DirichletHigherDerivativeBound.lean#L71",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.DirichletHigherDerivativeBound.feature_bound"
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.UniformDirichletPowerBound",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.UniformDirichletPowerBound.uniform_bound",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/UniformDirichletPowerBound.lean#L65",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.UniformDirichletPowerBound.uniform_bound"
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.MontgomeryVaughan.Final",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.MontgomeryVaughan.mvDiag_thirteen",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/MontgomeryVaughan/Final.lean#L28",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.MontgomeryVaughan.mvDiag_thirteen"
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.MontgomeryVaughan.Final",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.MontgomeryVaughan.mvHilbert_twentySix",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/MontgomeryVaughan/Final.lean#L31",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.MontgomeryVaughan.mvHilbert_twentySix"
+      }
+    },
+    {
+      "source": "LEAN-RG-f5fd3ddb-RiemannGaussian.ZetaQuasiRHOpenAI",
+      "target": "LEAN-RG-f5fd3ddb-RiemannGaussian.ZetaQuasiRHOpenAI.exists_coupled_geometric_bound",
+      "kind": "contains_statement_occurrence",
+      "evidence": {
+        "basis": "exact textual theorem occurrence",
+        "url": "https://github.com/dbsanfte/RiemannGaussian/blob/f5fd3ddb407972f9ca65298fbe9be3225fe06635/RiemannGaussian/ZetaQuasiRHOpenAI.lean#L92",
+        "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
+        "declaration": "RiemannGaussian.ZetaQuasiRHOpenAI.exists_coupled_geometric_bound"
       }
     }
   ],

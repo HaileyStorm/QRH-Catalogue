@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 6/12; 2907 matching records.
+Page 6/12; 2908 matching records.
 
 [Previous](method-detector-f2b3cbe414-05.md)
 
@@ -218,9 +218,10 @@ Page 6/12; 2907 matching records.
 - [LEAN-PR60-74643447-OAI.SevenEighths.Cycle63InitialMass.detector_label_initial_affine — OAI.SevenEighths.Cycle63InitialMass.detector_label_initial_affine](../records/0129.md#lean-pr60-74643447-oai-seveneighths-cycle63initialmass-detector-l-e6c860a712)
 - [LEAN-PR60-74643447-OAI.SevenEighths.DetectorAffineCount.balanced_both — OAI.SevenEighths.DetectorAffineCount.balanced_both](../records/0129.md#lean-pr60-74643447-oai-seveneighths-detectoraffinecount-balanced--fc132f2fde)
 - [LEAN-PR60-74643447-OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both — OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both](../records/0129.md#lean-pr60-74643447-oai-seveneighths-detectoraffinecount-count-fro-31f478e517)
-- [MATH-PR56-67edfb7a-detector-moment-supply — Cycle61 affine detector moment supply with character-local parameters](../records/0129.md#math-pr56-67edfb7a-detector-moment-supply-2302653f21)
-- [MATH-PR56-67edfb7a-region-count — Cycle61 region-aware affine counting and masked transport](../records/0129.md#math-pr56-67edfb7a-region-count-ab65c810d4)
-- [MATH-PR60-74643447-character-local-assembly — Unbundled character-local final assembly](../records/0129.md#math-pr60-74643447-character-local-assembly-fb2ace641c)
+- [LEAN-RG-f5fd3ddb-RiemannGaussian.Hybrid.EtaSupportGapPhaseCoercivity — Small-width coercivity for distinct integer phase probes](../records/0129.md#lean-rg-f5fd3ddb-riemanngaussian-hybrid-etasupportgapphasecoerciv-6a82f043f5)
+- [MATH-PR56-67edfb7a-detector-moment-supply — Cycle61 affine detector moment supply with character-local parameters](../records/0130.md#math-pr56-67edfb7a-detector-moment-supply-2302653f21)
+- [MATH-PR56-67edfb7a-region-count — Cycle61 region-aware affine counting and masked transport](../records/0130.md#math-pr56-67edfb7a-region-count-ab65c810d4)
+- [MATH-PR60-74643447-character-local-assembly — Unbundled character-local final assembly](../records/0130.md#math-pr60-74643447-character-local-assembly-fb2ace641c)
 - [MATH-PR60-74643447-detector-moment-supply — Cycle63 affine detector moment supply with character-local parameters](../records/0130.md#math-pr60-74643447-detector-moment-supply-f504dd9a67)
 - [MATH-PR60-74643447-region-count — Cycle63 region-aware affine counting and masked transport](../records/0130.md#math-pr60-74643447-region-count-d783725a81)
 - [P30-05 — Short and long detector envelope bottleneck](../records/0130.md#p30-05-b4418846fc)
@@ -241,8 +242,8 @@ Page 6/12; 2907 matching records.
 - [QRH-CONT-R054-TWO-RESIDUE-POLARIZATION — Complete gcd Euler residues and a polarized annihilator](../records/0131.md#qrh-cont-r054-two-residue-polarization-187bb7a866)
 - [QRH-CONT-R059-WRONSKIAN-CONVOLUTION — Two-probe Wronskian, full convolution and heat indicator test](../records/0131.md#qrh-cont-r059-wronskian-convolution-dee50e3cdc)
 - [QRH-CONT-R073-EARLY-CENTERED-HANKEL-OPERATOR — Payable early subtraction and complete centered Hankel remainder with reviewed contour qualifications](../records/0131.md#qrh-cont-r073-early-centered-hankel-operator-9f1c2cb37d)
-- [QRH-CONT-R090-SAME-ZERO-SCALE-BANK — A finite detector-scale bank from one fixed Eisenstein zero](../records/0131.md#qrh-cont-r090-same-zero-scale-bank-6f4dd84eb9)
-- [QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER — Joint-probe signed pairing and the complete valuation Poisson return adapter](../records/0131.md#qrh-cont-r093-joint-probe-return-adapter-ab5b8728de)
+- [QRH-CONT-R090-SAME-ZERO-SCALE-BANK — A finite detector-scale bank from one fixed Eisenstein zero](../records/0132.md#qrh-cont-r090-same-zero-scale-bank-6f4dd84eb9)
+- [QRH-CONT-R093-JOINT-PROBE-RETURN-ADAPTER — Joint-probe signed pairing and the complete valuation Poisson return adapter](../records/0132.md#qrh-cont-r093-joint-probe-return-adapter-ab5b8728de)
 - [QRH-CONT-R110-FOUR-VARIABLE-EULER-COMMON-FACTOR-SOURCE — General four-variable Euler correction and exact common-factor source cancellation](../records/0132.md#qrh-cont-r110-four-variable-euler-common-factor-source-7b0512ec63)
 - [QRH-CONT-U4-MATCHED-PLATEAU-ORDINARY-RETURN — Seed-free target-dependent ratio plateaux, matched Mobius tails and complete one-sided ordinary return](../records/0132.md#qrh-cont-u4-matched-plateau-ordinary-return-404881c4a3)
 - [QRH-HECKE-SQUAREFREE-PLAIN-WITNESS — Complete squarefree-plain same-zero witness and its inherited Hecke-family count](../records/0132.md#qrh-hecke-squarefree-plain-witness-9807070054)
@@ -251,10 +252,9 @@ Page 6/12; 2907 matching records.
 - [local-section:00fac5189d0ff09027401a04 — Wild38: all30 cards retained](../records/0138.md#local-section-00fac5189d0ff09027401a04-035ac6ae9c)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0138.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
 - [local-section:019b7e6748c560d9641ef714 — 10. Uniformity, tails and independent checks](../records/0138.md#local-section-019b7e6748c560d9641ef714-fd36a2c932)
-- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0138.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
-- [local-section:01d79cb7aff6695e0c575cb6 — 2. Why the larger amplifier is actually admissible](../records/0138.md#local-section-01d79cb7aff6695e0c575cb6-4d4f42fa5e)
-- [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0138.md#local-section-021601cba1a0a08525590f22-7adbe75144)
-- [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0138.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
-- [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0138.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
+- [local-section:01d793e3d5bb3f0dd7a41fd0 — Sol04 independent Astra validation](../records/0139.md#local-section-01d793e3d5bb3f0dd7a41fd0-dacdb20cee)
+- [local-section:01d79cb7aff6695e0c575cb6 — 2. Why the larger amplifier is actually admissible](../records/0139.md#local-section-01d79cb7aff6695e0c575cb6-4d4f42fa5e)
+- [local-section:021601cba1a0a08525590f22 — 2. Protected high-reach19: phase-preserving supersymmetry and the exact index bill](../records/0139.md#local-section-021601cba1a0a08525590f22-7adbe75144)
+- [local-section:0220bbd19e4c09c9fa91c3f6 — 7. All thirty dispositions](../records/0139.md#local-section-0220bbd19e4c09c9fa91c3f6-f12cf64cca)
+- [local-section:02c4ce091cb0b48aa63a8a1b — Actual two-color source: a paid first-dual sector and an unresolved terminal estimate](../records/0139.md#local-section-02c4ce091cb0b48aa63a8a1b-55c570b67b)
 - [local-section:032aec99050b730ba7de4322 — Independent reconstruction](../records/0139.md#local-section-032aec99050b730ba7de4322-8184b9fff4)
-- [local-section:0488fb560f548cf3ebc580c7 — PR15 conditional endpoint review](../records/0139.md#local-section-0488fb560f548cf3ebc580c7-4aec61097a)
