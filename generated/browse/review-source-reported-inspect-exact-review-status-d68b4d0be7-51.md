@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 51/71; 17636 matching records.
+Page 51/71; 17653 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-50.md)
 
@@ -237,6 +237,16 @@ Page 51/71; 17636 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.TraceCharacter — OAI.NumberTheory.DirichletL.TraceCharacter](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-tracecharacter-6bea1c9733)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.TraceConductor — OAI.NumberTheory.DirichletL.TraceConductor](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-traceconductor-e946f6c511)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.UnitSexticWitness — OAI.NumberTheory.DirichletL.UnitSexticWitness](../records/0128.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-unitsexticwitness-ace460a60f)
+- [LEAN-PR129-515dbe0c-Candidate.bound — Candidate.bound](../records/0128.md#lean-pr129-515dbe0c-candidate-bound-c94591fd97)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Driver.bound_unconditional — Qrh.MarkedAnchor.Driver.bound_unconditional](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-driver-bound-unconditional-36158fc2fb)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Interface.Contract.AnchorAt — Qrh.MarkedAnchor.Interface.Contract.AnchorAt](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-interface-contract-anchorat-cd23550e87)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Ordinary.Reference.reference_energy_fine — Qrh.MarkedAnchor.Ordinary.Reference.reference_energy_fine](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-ordinary-reference-reference-61565e9132)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Price.stage_anchor — Qrh.MarkedAnchor.Price.stage_anchor](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-price-stage-anchor-24f05b4798)
+- [LEAN-PR141-03a1e5ad-Candidate.bound — Candidate.bound](../records/0128.md#lean-pr141-03a1e5ad-candidate-bound-c11f0b29a6)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ClosestRational.beta_le_target — Qrh.TwoSlot.AnchorContinuum.ClosestRational.beta_le_target](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorcontinuum-closestrational-b-03b508c3da)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ideal_anchor — Qrh.TwoSlot.AnchorContinuum.ideal_anchor](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorcontinuum-ideal-anchor-784eb4f028)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorZeroLoss.actual_selected_floor — Qrh.TwoSlot.AnchorZeroLoss.actual_selected_floor](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorzeroloss-actual-selected-fl-90a7ce1591)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorZeroLoss.chosen_floor_removal — Qrh.TwoSlot.AnchorZeroLoss.chosen_floor_removal](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorzeroloss-chosen-floor-remov-38e9dd141e)
 - [LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra — PR48: Candidate.Cycle62.Marked.DeletionCollisionAlgebra](../records/0128.md#lean-pr48-57ca0662-candidate-cycle62-marked-deletioncollisionalge-d89ee689fc)
 - [LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.GenericFiberCount — PR48: Candidate.Cycle62.Marked.GenericFiberCount](../records/0128.md#lean-pr48-57ca0662-candidate-cycle62-marked-genericfibercount-3a4b78c374)
 - [LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.HighSourceFactors — PR48: Candidate.Cycle62.Marked.HighSourceFactors](../records/0128.md#lean-pr48-57ca0662-candidate-cycle62-marked-highsourcefactors-5f9226d389)
@@ -248,13 +258,3 @@ Page 51/71; 17636 matching records.
 - [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.first_product_polarization — OAI.SevenEighths.Cycle62MarkedHeight.first_product_polarization](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedheight-first-pro-4882609fdc)
 - [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedHeight.polarized_product_energy — OAI.SevenEighths.Cycle62MarkedHeight.polarized_product_energy](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedheight-polarized-0144f6a184)
 - [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62Moment.actual_high_source_factored — OAI.SevenEighths.Cycle62Moment.actual_high_source_factored](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62moment-actual-high-sou-fb6acd2eb1)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.injectiveTuplePolynomial_split — OAI.SevenEighths.Deletion26.injectiveTuplePolynomial_split](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-deletion26-injectivetuplepoly-c99cf61237)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.kernelTupleEquiv — OAI.SevenEighths.Deletion26.kernelTupleEquiv](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-deletion26-kerneltupleequiv-8254acc398)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_over_collision_blocks — OAI.SevenEighths.Deletion26.product_over_collision_blocks](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-deletion26-product-over-colli-76c5b8a2c3)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_sum_collision_blocks — OAI.SevenEighths.Deletion26.product_sum_collision_blocks](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-deletion26-product-sum-collis-0972ff4317)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Deletion26.product_sum_kernel — OAI.SevenEighths.Deletion26.product_sum_kernel](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-deletion26-product-sum-kernel-b41c76e344)
-- [LEAN-PR50-8cb265dc-Candidate.Cycle63.Marked.Route.VariableSupply — PR50: Candidate.Cycle63.Marked.Route.VariableSupply](../records/0128.md#lean-pr50-8cb265dc-candidate-cycle63-marked-route-variablesupply-f4789396d3)
-- [LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.CoupledRadicalSaving — PR50: Candidate.Cycle63.Physical.CoupledRadicalSaving](../records/0128.md#lean-pr50-8cb265dc-candidate-cycle63-physical-coupledradicalsavin-cc1e357063)
-- [LEAN-PR50-8cb265dc-Candidate.Cycle63.Physical.MarkedAllocationReserve — PR50: Candidate.Cycle63.Physical.MarkedAllocationReserve](../records/0128.md#lean-pr50-8cb265dc-candidate-cycle63-physical-markedallocationres-04bce16919)
-- [LEAN-PR50-8cb265dc-CoupledRadicalSaving.first_common_coupled — CoupledRadicalSaving.first_common_coupled](../records/0128.md#lean-pr50-8cb265dc-coupledradicalsaving-first-common-coupled-d0f355fb92)
-- [LEAN-PR50-8cb265dc-CoupledRadicalSaving.first_common_uniform — CoupledRadicalSaving.first_common_uniform](../records/0128.md#lean-pr50-8cb265dc-coupledradicalsaving-first-common-uniform-a54bf14994)

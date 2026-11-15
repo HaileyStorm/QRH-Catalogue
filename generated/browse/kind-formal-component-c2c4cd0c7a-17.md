@@ -2,10 +2,20 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 17/17; 4061 matching records.
+Page 17/17; 4071 matching records.
 
 [Previous](kind-formal-component-c2c4cd0c7a-16.md)
 
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A — OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25detectorrowcount-maske-70a628f569)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine — OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25probefinalassembly-bal-aaa959d96f)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput — OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25probefinalassemblycert-545075e27d)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.actual_detector_affine_input — OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.actual_detector_affine_input](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25probefinalassemblycert-b66721d537)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput — OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.weighted_AffineFineInput](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25probefinalassemblycert-f822fbdfe6)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine — OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle61initialmass-detector-l-90b0263a9a)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.DetectorAffineCount.balanced_both — OAI.SevenEighths.DetectorAffineCount.balanced_both](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-detectoraffinecount-balanced--c8136964a9)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both — OAI.SevenEighths.DetectorAffineCount.count_from_raw_moments_both](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-detectoraffinecount-count-fro-05beba7235)
+- [LEAN-PR60-74643447-Candidate.Affine.Arith — PR60: Candidate.Affine.Arith](../records/0129.md#lean-pr60-74643447-candidate-affine-arith-504d61fdf5)
+- [LEAN-PR60-74643447-Candidate.Affine.Balanced — PR60: Candidate.Affine.Balanced](../records/0129.md#lean-pr60-74643447-candidate-affine-balanced-083dfad1e5)
 - [LEAN-PR60-74643447-Candidate.Affine.Certificates — PR60: Candidate.Affine.Certificates](../records/0129.md#lean-pr60-74643447-candidate-affine-certificates-e34a323ada)
 - [LEAN-PR60-74643447-Candidate.Affine.Count — PR60: Candidate.Affine.Count](../records/0129.md#lean-pr60-74643447-candidate-affine-count-99ab3b745b)
 - [LEAN-PR60-74643447-Candidate.Affine.Masked — PR60: Candidate.Affine.Masked](../records/0129.md#lean-pr60-74643447-candidate-affine-masked-11cd336ebc)

@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 6/11; 2710 matching records.
+Page 6/11; 2716 matching records.
 
 [Previous](object-hecke-family-33866bc7f5-05.md)
 
@@ -249,12 +249,12 @@ Page 6/11; 2710 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeTwist — OAI.NumberTheory.DirichletL.Moments.HeckeTwist](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-hecketwist-36ebab185d)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeVolume — OAI.NumberTheory.DirichletL.Moments.HeckeVolume](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckevolume-beac13ea68)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy — OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckewindow-066db8fbdd)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Ordinary.Reference.reference_energy_fine — Qrh.MarkedAnchor.Ordinary.Reference.reference_energy_fine](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-ordinary-reference-reference-61565e9132)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Price.stage_anchor — Qrh.MarkedAnchor.Price.stage_anchor](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-price-stage-anchor-24f05b4798)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ClosestRational.beta_le_target — Qrh.TwoSlot.AnchorContinuum.ClosestRational.beta_le_target](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorcontinuum-closestrational-b-03b508c3da)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ideal_anchor — Qrh.TwoSlot.AnchorContinuum.ideal_anchor](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorcontinuum-ideal-anchor-784eb4f028)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorZeroLoss.actual_selected_floor — Qrh.TwoSlot.AnchorZeroLoss.actual_selected_floor](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorzeroloss-actual-selected-fl-90a7ce1591)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorZeroLoss.chosen_floor_removal — Qrh.TwoSlot.AnchorZeroLoss.chosen_floor_removal](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorzeroloss-chosen-floor-remov-38e9dd141e)
 - [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-inverse-fi-67cc067c74)
 - [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-plain-fibe-d81a334119)
 - [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.select_common_product — OAI.SevenEighths.Cycle62MarkedFiber.select_common_product](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-select-com-ea7c313be3)
-- [LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Assembly.record_beta_le — Cycle61.CountAffine.Assembly.record_beta_le](../records/0128.md#lean-pr52-cbb3e1fa-cycle61-countaffine-assembly-record-beta-le-46fcf23c0c)
-- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A — OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25detectorrowcount-maske-70a628f569)
-- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine — OAI.SevenEighths.Cycle61InitialMass.detector_label_initial_affine](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle61initialmass-detector-l-90b0263a9a)
-- [LEAN-PR60-74643447-Cycle63.FinalAssembly.fixed_source_contract — Cycle63.FinalAssembly.fixed_source_contract](../records/0129.md#lean-pr60-74643447-cycle63-finalassembly-fixed-source-contract-92735651b1)
-- [LEAN-PR60-74643447-Cycle63.FiniteNumerator.fixed_numerator_of_cells — Cycle63.FiniteNumerator.fixed_numerator_of_cells](../records/0129.md#lean-pr60-74643447-cycle63-finitenumerator-fixed-numerator-of-cel-f4d4127e71)
-- [LEAN-PR60-74643447-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A — OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A](../records/0129.md#lean-pr60-74643447-oai-seveneighths-cycle25detectorrowcount-maske-3d71459604)

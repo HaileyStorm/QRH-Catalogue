@@ -2,10 +2,16 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 13/13; 3045 matching records.
+Page 13/13; 3051 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-12.md)
 
+- [pr26:Global.Transport.SignalShift::contour_shift_left@624 — contour_shift_left](../records/0215.md#pr26-global-transport-signalshift-contour-shift-left-624-b716423a98)
+- [pr26:Global.Transport.SignalShift::contour_shift_left_bound@659 — contour_shift_left_bound](../records/0215.md#pr26-global-transport-signalshift-contour-shift-left-bound-659-a3269176ec)
+- [pr26:Global.Transport.SignalShift::quotient_holomorphic@597 — quotient_holomorphic](../records/0215.md#pr26-global-transport-signalshift-quotient-holomorphic-597-dfd86bfda6)
+- [pr26:Global.Transport.SignalShift::quotient_polynomial_bound@606 — quotient_polynomial_bound](../records/0215.md#pr26-global-transport-signalshift-quotient-polynomial-bound-606-aef986e209)
+- [pr26:Global.Transport.SmallTail::small_physical_dyads_sum@692 — small_physical_dyads_sum](../records/0215.md#pr26-global-transport-smalltail-small-physical-dyads-sum-692-3401a8bad7)
+- [pr26:LocalMoment.ActualUnmarkedInputs::unmarked_batch_from_actual_maxima@109 — unmarked_batch_from_actual_maxima](../records/0215.md#pr26-localmoment-actualunmarkedinputs-unmarked-batch-from-actual--73a0c936f2)
 - [pr26:LocalMoment.PlainUnmarkedAdapter::fixed_retained_unmarked_plain@474 — fixed_retained_unmarked_plain](../records/0215.md#pr26-localmoment-plainunmarkedadapter-fixed-retained-unmarked-pla-f274abac64)
 - [pr26:LocalMoment.PlainUnmarkedAdapter::fixed_unmarked_plain@616 — fixed_unmarked_plain](../records/0215.md#pr26-localmoment-plainunmarkedadapter-fixed-unmarked-plain-616-5abd66de5c)
 - [pr26:LocalMoment.PlainUnmarkedAdapter::fixed_zero_input@442 — fixed_zero_input](../records/0215.md#pr26-localmoment-plainunmarkedadapter-fixed-zero-input-442-75b7904197)
@@ -24,10 +30,10 @@ Page 13/13; 3045 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData::hecke_of_chosen_moments@104 — hecke_of_chosen_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblychosendata-a935913bbe)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh::fixed_high_bound@216 — fixed_high_bound](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh--0c24c8d0a2)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh::actual_high_probe_from_raw_moments@30 — actual_high_probe_from_raw_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-actua-d47c4635ba)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::raw_input_chosen_height@652 — raw_input_chosen_height](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-d5722251b7)
-- [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::certified_bands@37 — certified_bands](../records/0216.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-certif-507811c872)
-- [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::terminal_certificate@58 — terminal_certificate](../records/0216.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-termin-dc9360dea4)
-- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0216.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput::raw_input_chosen_height@652 — raw_input_chosen_height](../records/0217.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-d5722251b7)
+- [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::certified_bands@37 — certified_bands](../records/0217.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-certif-507811c872)
+- [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::terminal_certificate@58 — terminal_certificate](../records/0217.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-termin-dc9360dea4)
+- [pr26:OAI.NumberTheory.DirichletL.PrimeRows.HighFromMoments::actual_high_probe_from_raw_moments@29 — actual_high_probe_from_raw_moments](../records/0217.md#pr26-oai-numbertheory-dirichletl-primerows-highfrommoments-actual-65e2e799bd)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport::actual_nonfloor_probe_transport@299 — actual_nonfloor_probe_transport](../records/0217.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-actu-e2db3e405e)
 - [pr26:Physical.LocalActiveFourth::certified_transport_active_box_fourth@240 — certified_transport_active_box_fourth](../records/0217.md#pr26-physical-localactivefourth-certified-transport-active-box-fo-e64ca66e1f)
 - [pr26:Physical.LocalCertifiedFourier::certified_local_reflected_fourier_fixed@584 — certified_local_reflected_fourier_fixed](../records/0217.md#pr26-physical-localcertifiedfourier-certified-local-reflected-fou-ac542bbde1)
@@ -48,6 +54,6 @@ Page 13/13; 3045 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::natural_slot_product@1020 — natural_slot_product](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-natural-slot-pro-878e4b8f96)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::original_masked_positive_floor@1376 — original_masked_positive_floor](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-original-masked--cec159e207)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::zeroMaximum_le_one@598 — zeroMaximum_le_one](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-zeromaximum-le-o-67669608b4)
-- [review:A03 — \[research revision\]-review:A03](../records/0218.md#review-a03-ac6cfeed06)
+- [review:A03 — \[research revision\]-review:A03](../records/0219.md#review-a03-ac6cfeed06)
 - [review:A15 — \[research revision\]-review:A15](../records/0219.md#review-a15-0a087c3e9a)
 - [review:T07 — \[research revision\]-review:T07](../records/0219.md#review-t07-d3b26c667a)

@@ -128877,6 +128877,296 @@
         "source_revision": "f5fd3ddb407972f9ca65298fbe9be3225fe06635",
         "declaration": "RiemannGaussian.ZetaQuasiRHOpenAI.exists_coupled_geometric_bound"
       }
+    },
+    {
+      "source": "QRH-PR137-PAIRED-CANONICAL-ANCHOR-CONTRACT",
+      "target": "LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Interface.Contract.AnchorAt",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/9d81a4c0b0e8338ef458f3ba5139657ae5404fde/submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Interface/Contract.lean",
+            "sha256": "c16ef2f96c3a25783512f4ac130a1641e96e2d74177cf43b36584365fdce15c1",
+            "git_blob_sha1": "2f5840f0b10ad508693f1dce1b1ec247a7c3cc5c",
+            "locator": {
+              "path": "submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Interface/Contract.lean",
+              "declarations": [
+                {
+                  "name": "AnchorAt",
+                  "lines": [
+                    522
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR137-ORDINARY-REFLECTED-REFERENCE",
+      "target": "LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Price.stage_anchor",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/9d81a4c0b0e8338ef458f3ba5139657ae5404fde/submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Price/Stage.lean",
+            "sha256": "b3bea7c71b1a94c3a66faa84536c06175a7f0d12a2efde73d449888a3937dbbb",
+            "git_blob_sha1": "a59352f89d735b25b4c87e24b5cf7b58e7b53cf8",
+            "locator": {
+              "path": "submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Price/Stage.lean",
+              "declarations": [
+                {
+                  "name": "stage_anchor",
+                  "lines": [
+                    42
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR137-ACYCLIC-MARKED-ANCHOR-INDUCTION",
+      "target": "LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Driver.bound_unconditional",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/9d81a4c0b0e8338ef458f3ba5139657ae5404fde/submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Driver/Unconditional.lean",
+            "sha256": "29f65925c11d0fe64cac4e73e7d910626b83c396652b2367e3eab609718b28d4",
+            "git_blob_sha1": "7368972fa32cdc76c4400f7e84be1ffdf57e9133",
+            "locator": {
+              "path": "submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Driver/Unconditional.lean",
+              "declarations": [
+                {
+                  "name": "bound_unconditional",
+                  "lines": [
+                    15
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR137-ORDINARY-REFLECTED-REFERENCE",
+      "target": "LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Ordinary.Reference.reference_energy_fine",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/9d81a4c0b0e8338ef458f3ba5139657ae5404fde/submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Ordinary/Reference/Lane.lean",
+            "sha256": "1f9a314fc34b33c49ccff9184efe80e69a5c9e4696b717d67dc8d31e2617cafe",
+            "git_blob_sha1": "9ebb03a3b240fad5c68b10d2d5da4c228cd9b14a",
+            "locator": {
+              "path": "submissions/2026-11-12-marked-anchor-induction/src/Submissions/marked_anchor_induction/Qrh/MarkedAnchor/Ordinary/Reference/Lane.lean",
+              "declarations": [
+                {
+                  "name": "reference_energy_fine",
+                  "lines": [
+                    93
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR141-CONTINUUM-FINITE-APPROXIMATION",
+      "target": "LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ideal_anchor",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/03a1e5ad0cab777969313090ee78b35d232ef355/submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorContinuum/IdealCurve.lean",
+            "sha256": "77c6ae0207e3b32b67363c461a9b649826d8dd1472e7d2158813892b83b5f20c",
+            "git_blob_sha1": "4ee74808aefe1d149d2df9016f2768b35531b67a",
+            "locator": {
+              "path": "submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorContinuum/IdealCurve.lean",
+              "declarations": [
+                {
+                  "name": "ideal_anchor",
+                  "lines": [
+                    60
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR141-ACTUAL-AVERAGED-PHYSICAL-FLOOR",
+      "target": "LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorZeroLoss.actual_selected_floor",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/03a1e5ad0cab777969313090ee78b35d232ef355/submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorZeroLoss/FloorSelection.lean",
+            "sha256": "9589d841c5aba1a93abd24074e0671bb02d27fd94198bd09678ea52449473f08",
+            "git_blob_sha1": "c5e8ae02f7816ace75de05262640d0c098cbc4ef",
+            "locator": {
+              "path": "submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorZeroLoss/FloorSelection.lean",
+              "declarations": [
+                {
+                  "name": "actual_selected_floor",
+                  "lines": [
+                    33
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR141-ACTUAL-AVERAGED-PHYSICAL-FLOOR",
+      "target": "LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorZeroLoss.chosen_floor_removal",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/03a1e5ad0cab777969313090ee78b35d232ef355/submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorZeroLoss/FloorTransport.lean",
+            "sha256": "5f8f28f5b08175dec05291511dc9af0ed453d6862480cccffd51412b8f8f5918",
+            "git_blob_sha1": "39266e5078fd7d2a751d44641833782035c48345",
+            "locator": {
+              "path": "submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorZeroLoss/FloorTransport.lean",
+              "declarations": [
+                {
+                  "name": "chosen_floor_removal",
+                  "lines": [
+                    37
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR141-EXACT-POSITIVE-COST-RATIONAL-RETURN",
+      "target": "LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ClosestRational.beta_le_target",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/03a1e5ad0cab777969313090ee78b35d232ef355/submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorContinuum/ClosestEndpoint.lean",
+            "sha256": "dabc871bc9eec5cb3e80c32537de30be7a9d13f69a53c50ac035e8a8b8a444e2",
+            "git_blob_sha1": "ce265ef15f655bb5eb20e20f7062f6aa6e9e60fb",
+            "locator": {
+              "path": "submissions/2026-11-13-continuum-anchor/src/Candidate/Local/Qrh/TwoSlot/AnchorContinuum/ClosestEndpoint.lean",
+              "declarations": [
+                {
+                  "name": "beta_le_target",
+                  "lines": [
+                    46
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR141-EXACT-POSITIVE-COST-RATIONAL-RETURN",
+      "target": "LEAN-PR141-03a1e5ad-Candidate.bound",
+      "kind": "related",
+      "evidence": {
+        "basis": "Public source contract and exact source declaration comparison; not a formalizes, theorem-dependency or publication-use claim.",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/03a1e5ad0cab777969313090ee78b35d232ef355/submissions/2026-11-13-continuum-anchor/src/Candidate/Main.lean",
+            "sha256": "9e065d9128d448a38cff706899ef116ad54e160829bd42f43a1e0f031f1c43d0",
+            "git_blob_sha1": "1414be64e7bfd790106a0323ced9ec6c9b0fb56b",
+            "locator": {
+              "path": "submissions/2026-11-13-continuum-anchor/src/Candidate/Main.lean",
+              "declarations": [
+                {
+                  "name": "bound",
+                  "lines": [
+                    6
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
+    },
+    {
+      "source": "QRH-PR129-EXACT-ORDINARY-CONTACT",
+      "target": "LEAN-PR129-515dbe0c-Candidate.bound",
+      "kind": "related",
+      "evidence": {
+        "basis": "Exact public ordinary contact theorem and its declaration",
+        "pointers": [
+          {
+            "access": "public-pinned-source",
+            "url": "https://github.com/GTimG/QuasiRiemannTracker/blob/515dbe0c2029752b3f793909aed1cdc29d2eb9ee/submissions/2026-11-10-exact-contact-point/src/Candidate/Main.lean",
+            "sha256": "0984f9c749357175a1008cb17d0c2f98605ee832dd9a8b449d1108c71949cf5c",
+            "git_blob_sha1": "e941086f9713d135f6ac99df35e08f94b18faba0",
+            "locator": {
+              "path": "submissions/2026-11-10-exact-contact-point/src/Candidate/Main.lean",
+              "declarations": [
+                {
+                  "name": "Candidate.bound",
+                  "lines": [
+                    6
+                  ]
+                }
+              ]
+            },
+            "role": "literal-source-contract",
+            "qualification": "Pinned public source text. External exact-head check reports are separate from textual inspection; no new verification run is implied."
+          }
+        ]
+      }
     }
   ],
   "schema_version": 1

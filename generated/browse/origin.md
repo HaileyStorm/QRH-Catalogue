@@ -3,6 +3,7 @@
 [All facets](../DIRECTORY.md)
 
 - [QRH (24)](origin-qrh-db54becab6-01.md)
+- [accepted-upstream (17)](origin-accepted-upstream-020164c151-01.md)
 - [public-leaderboard-pinned-source-intake-20261017 (6)](origin-public-leaderboard-pinned-source-intake-20261017-f3eb7bd410-01.md)
 - [public-leaderboard-source-intake-20261015 (141)](origin-public-leaderboard-source-intake-20261015-af1e0aaf5d-01.md)
 - [public-lean-initial-population (3906)](origin-public-lean-initial-population-78de914e57-01.md)

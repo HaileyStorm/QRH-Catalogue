@@ -2,7 +2,7 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 6/13; 3045 matching records.
+Page 6/13; 3051 matching records.
 
 [Previous](topic-spectral-a26ea51cb6-05.md)
 
@@ -254,7 +254,7 @@ Page 6/13; 3045 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeTwist — OAI.NumberTheory.DirichletL.Moments.HeckeTwist](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-hecketwist-36ebab185d)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeVolume — OAI.NumberTheory.DirichletL.Moments.HeckeVolume](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckevolume-beac13ea68)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy — OAI.NumberTheory.DirichletL.Moments.HeckeWindowEnergy](../records/0119.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-moments-heckewindow-066db8fbdd)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.inverse_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-inverse-fi-67cc067c74)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count — OAI.SevenEighths.Cycle62MarkedFiber.plain_fiber_count](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-plain-fibe-d81a334119)
-- [LEAN-PR48-57ca0662-OAI.SevenEighths.Cycle62MarkedFiber.select_common_product — OAI.SevenEighths.Cycle62MarkedFiber.select_common_product](../records/0128.md#lean-pr48-57ca0662-oai-seveneighths-cycle62markedfiber-select-com-ea7c313be3)
-- [LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.Assembly.record_beta_le — Cycle61.CountAffine.Assembly.record_beta_le](../records/0128.md#lean-pr52-cbb3e1fa-cycle61-countaffine-assembly-record-beta-le-46fcf23c0c)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Ordinary.Reference.reference_energy_fine — Qrh.MarkedAnchor.Ordinary.Reference.reference_energy_fine](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-ordinary-reference-reference-61565e9132)
+- [LEAN-PR137-9d81a4c0-Qrh.MarkedAnchor.Price.stage_anchor — Qrh.MarkedAnchor.Price.stage_anchor](../records/0128.md#lean-pr137-9d81a4c0-qrh-markedanchor-price-stage-anchor-24f05b4798)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ClosestRational.beta_le_target — Qrh.TwoSlot.AnchorContinuum.ClosestRational.beta_le_target](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorcontinuum-closestrational-b-03b508c3da)
+- [LEAN-PR141-03a1e5ad-Qrh.TwoSlot.AnchorContinuum.ideal_anchor — Qrh.TwoSlot.AnchorContinuum.ideal_anchor](../records/0128.md#lean-pr141-03a1e5ad-qrh-twoslot-anchorcontinuum-ideal-anchor-784eb4f028)

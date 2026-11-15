@@ -4,13 +4,13 @@
 
 Page 1/1; 34 matching records.
 
-- [P7-C01 — square_coefficient](../records/0130.md#p7-c01-3d3ebf58ea)
-- [P7-C02 — strict_F_margin](../records/0130.md#p7-c02-9af808521c)
-- [P7-C03 — square_vertex](../records/0130.md#p7-c03-1cd7b0936d)
-- [P7-C04 — shift_positive](../records/0130.md#p7-c04-ea491870fa)
-- [P7-C05 — shift_lower_bounds](../records/0130.md#p7-c05-1d64532c06)
-- [P7-C06 — Bernstein_lower_bound](../records/0130.md#p7-c06-230829b085)
-- [P7-C07 — kappa_gate](../records/0130.md#p7-c07-89957dff09)
+- [P7-C01 — square_coefficient](../records/0131.md#p7-c01-3d3ebf58ea)
+- [P7-C02 — strict_F_margin](../records/0131.md#p7-c02-9af808521c)
+- [P7-C03 — square_vertex](../records/0131.md#p7-c03-1cd7b0936d)
+- [P7-C04 — shift_positive](../records/0131.md#p7-c04-ea491870fa)
+- [P7-C05 — shift_lower_bounds](../records/0131.md#p7-c05-1d64532c06)
+- [P7-C06 — Bernstein_lower_bound](../records/0131.md#p7-c06-230829b085)
+- [P7-C07 — kappa_gate](../records/0131.md#p7-c07-89957dff09)
 - [P7-C08 — outer_row_gate](../records/0131.md#p7-c08-1a864d31ad)
 - [P7-C09 — ell_range](../records/0131.md#p7-c09-5f39115a70)
 - [P7-C10 — ell_lower](../records/0131.md#p7-c10-4e104a7a7a)

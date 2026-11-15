@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [local:G297 — G297. Asymmetric continuous Gram with a paid diagonal and unpaid transition](../records/0174.md#local-g297-9211aa135c)
+- [local:G297 — G297. Asymmetric continuous Gram with a paid diagonal and unpaid transition](../records/0175.md#local-g297-9211aa135c)
