@@ -5,7 +5,7 @@
 Page 1/1; 29 matching records.
 
 - [local:F01 — F01. Multiscale Möbius decomposition and signed block control](../records/0171.md#local-f01-17b39a927a)
-- [local:F02 — F02. Large-prime null packets and common-core dispersion](../records/0171.md#local-f02-73bce7daec)
+- [local:F02 — F02. Large-prime null packets and common-core dispersion](../records/0172.md#local-f02-73bce7daec)
 - [local:F03 — F03. Sixth-order sparse-index and ordinary means](../records/0172.md#local-f03-a413a453fd)
 - [local:F04 — F04. Sextic reflection, physical covariance, probe and numerator](../records/0172.md#local-f04-f8d6d7f1ca)
 - [local:F05 — F05. Möbius-aware polar projection and spectral sieve](../records/0172.md#local-f05-b00059fa1b)
@@ -27,8 +27,8 @@ Page 1/1; 29 matching records.
 - [local:F21 — F21. Hardy residual discs and overlapping strips](../records/0172.md#local-f21-30f86cfe54)
 - [local:F22 — F22. Logarithmic potential and signed explicit formulas](../records/0172.md#local-f22-cb8e07b0c1)
 - [local:F23 — F23. Shifted Hermite–Biehler and canonical systems](../records/0172.md#local-f23-ac50c0cc9e)
-- [local:F24 — F24. Left-first and two-sided spectral/Mellin methods](../records/0172.md#local-f24-ce3e45fce5)
-- [local:F25 — F25. Triple-rotation theta products](../records/0172.md#local-f25-0919a5edc6)
+- [local:F24 — F24. Left-first and two-sided spectral/Mellin methods](../records/0173.md#local-f24-ce3e45fce5)
+- [local:F25 — F25. Triple-rotation theta products](../records/0173.md#local-f25-0919a5edc6)
 - [local:F26 — F26. Direct shifted criteria and constrained operators](../records/0173.md#local-f26-9e013a3bbb)
 - [local:N27 — N27. Two-exponent finite-divisor incidence](../records/0175.md#local-n27-a6764ed466)
 - [local:N28 — N28. Two-dilation and continuum-dilation Möbius energies](../records/0175.md#local-n28-ec942bb3b1)

@@ -4,4 +4,4 @@
 
 Page 1/1; 1 matching records.
 
-- [QRH-CONT-R049-PRODUCT-CUTOFF-DETECTOR — Original-coefficient product-cutoff detector and complete cofactor energy](../records/0131.md#qrh-cont-r049-product-cutoff-detector-13a8d6fed3)
+- [QRH-CONT-R049-PRODUCT-CUTOFF-DETECTOR — Original-coefficient product-cutoff detector and complete cofactor energy](../records/0132.md#qrh-cont-r049-product-cutoff-detector-13a8d6fed3)

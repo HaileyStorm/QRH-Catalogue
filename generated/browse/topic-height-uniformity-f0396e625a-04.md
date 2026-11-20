@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 817 matching records.
+Page 4/4; 818 matching records.
 
 [Previous](topic-height-uniformity-f0396e625a-03.md)
 
+- [local-section:ff45f99a3be82bfdc9e29caf — 1. Immutable generation and six first tests](../records/0171.md#local-section-ff45f99a3be82bfdc9e29caf-aa77763ce5)
 - [local-section:ffe2222dd71d9916d4fa013f — 1. What is new and what is reused](../records/0171.md#local-section-ffe2222dd71d9916d4fa013f-57321dd24b)
 - [local:A08 — A08. An arithmetic source operator and the exact approximation cost](../records/0171.md#local-a08-388c07b4db)
 - [local:F08 — F08. Weighted fractional parts and modular residues](../records/0172.md#local-f08-1cd15be4b1)
@@ -38,8 +39,8 @@ Page 4/4; 817 matching records.
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0173.md#local-g173-0a9bfc34dc)
 - [local:G175 — G175. Two exact source returns with their inverse costs](../records/0173.md#local-g175-daf5332ea3)
 - [local:G177 — G177. Complete adaptive core and conditional all-height return](../records/0173.md#local-g177-cd4e290280)
-- [local:G181 — G181. A smaller signed residual, with the physical return still open](../records/0173.md#local-g181-217607fadc)
-- [local:G183 — G183. Literal smaller signed core and complete return](../records/0173.md#local-g183-e42c5b2351)
+- [local:G181 — G181. A smaller signed residual, with the physical return still open](../records/0174.md#local-g181-217607fadc)
+- [local:G183 — G183. Literal smaller signed core and complete return](../records/0174.md#local-g183-e42c5b2351)
 - [local:G189 — G189. Full constant-cut source transfer](../records/0174.md#local-g189-20df34a586)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0174.md#local-g192-c5383e05d4)
 - [local:G212 — G212. Fixed-family binding and complete row/column lifts](../records/0174.md#local-g212-6e2dec84ed)

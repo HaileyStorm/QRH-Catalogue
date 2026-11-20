@@ -29,6 +29,7 @@
 - [Textual mathematics only; no new Lean typechecking, axiom audit or kernel replay. (6)](formalization-textual-mathematics-only-no-new-lean-typechecking-axiom-audit-or--ed0db35bc9-01.md)
 - [Textual mathematics only; no new Lean typechecking, axiom audit, kernel replay or final paper-to-Lean-use claim. (17)](formalization-textual-mathematics-only-no-new-lean-typechecking-axiom-audit-ker-6bc0abb72b-01.md)
 - [Textual source review only in this lane; no reviewer build, elaboration, axiom audit or kernel run. Current R7 complete verification remains pending in its pinned status. (1)](formalization-textual-source-review-only-in-this-lane-no-reviewer-build-elabora-3783c50bf9-01.md)
+- [exact-head local staged source typechecked and declaration axioms audited; independent kernel replay and protected approval not claimed (6)](formalization-exact-head-local-staged-source-typechecked-and-declaration-axioms-27d872b304-01.md)
 - [local unchanged-source compilation (1)](formalization-local-unchanged-source-compilation-450bca7d66-01.md)
 - [local unchanged-source compilation and public theorem axiom audit (10)](formalization-local-unchanged-source-compilation-and-public-theorem-axiom-audit-a2dbfaec20-01.md)
 - [local unchanged-source compilation; declaration axiom audit passed (30)](formalization-local-unchanged-source-compilation-declaration-axiom-audit-passed-468c576c47-01.md)

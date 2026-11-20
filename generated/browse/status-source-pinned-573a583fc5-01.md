@@ -2,8 +2,14 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 138 matching records.
+Page 1/1; 144 matching records.
 
+- [LEAN-C092-50a933d7-QRH.Cycle092.ColoredSelectionAverage.raw_sum_le_average — Original colored raw energy bounded by the corrected selected-image average](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-coloredselectionaverage-raw-sum-l-73a5c73dfe)
+- [LEAN-C092-50a933d7-QRH.Cycle092.MixedUpperFinal.earlier_P1_mixed_upper_estimate — Complete original mixed-packet upper contract from the earlier P1 source](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-mixedupperfinal-earlier-p1-mixed--42d6c02855)
+- [LEAN-C092-50a933d7-QRH.Cycle092.OrderedPairPhase.phase_root_triangle — Two-character reference triangle after aligning each arm’s own norm phase](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-orderedpairphase-phase-root-trian-b1a3e62257)
+- [LEAN-C092-50a933d7-QRH.Cycle092.RegularColoredForward.terminal_genuine_ordered_source — Genuine all-response regular ordered P2 source with independent characters](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-regularcoloredforward-terminal-ge-95e4f1b81d)
+- [LEAN-C092-50a933d7-QRH.Cycle092.SharedCutoffZero.simultaneous_cutoffs — One attaining zero and label shared by every detector cutoff](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-sharedcutoffzero-simultaneous-cut-07243ef836)
+- [LEAN-C092-50a933d7-QRH.Cycle092.dirichlet_nonvanishing — Cycle092 all-Dirichlet nonvanishing above the exact threshold 436666397/500000000](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-dirichlet-nonvanishing-97247778cf)
 - [LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.DeletionCollisionAlgebra — PR48: Candidate.Cycle62.Marked.DeletionCollisionAlgebra](../records/0128.md#lean-pr48-57ca0662-candidate-cycle62-marked-deletioncollisionalge-d89ee689fc)
 - [LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.GenericFiberCount — PR48: Candidate.Cycle62.Marked.GenericFiberCount](../records/0128.md#lean-pr48-57ca0662-candidate-cycle62-marked-genericfibercount-3a4b78c374)
 - [LEAN-PR48-57ca0662-Candidate.Cycle62.Marked.HighSourceFactors — PR48: Candidate.Cycle62.Marked.HighSourceFactors](../records/0128.md#lean-pr48-57ca0662-candidate-cycle62-marked-highsourcefactors-5f9226d389)
@@ -59,12 +65,12 @@ Page 1/1; 138 matching records.
 - [LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainNew_at_crossing — Cycle61.CountAffine.plainNew_at_crossing](../records/0128.md#lean-pr52-cbb3e1fa-cycle61-countaffine-plainnew-at-crossing-ac4ca12d9d)
 - [LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.plainOld_anti — Cycle61.CountAffine.plainOld_anti](../records/0128.md#lean-pr52-cbb3e1fa-cycle61-countaffine-plainold-anti-c2d58ef32a)
 - [LEAN-PR52-cbb3e1fa-Cycle61.CountAffine.usum_pos — Cycle61.CountAffine.usum_pos](../records/0128.md#lean-pr52-cbb3e1fa-cycle61-countaffine-usum-pos-bc22c5974b)
-- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.b026_four_face_reserve_decomposition — Submission20261012.HardLimit.b026_four_face_reserve_decomposition](../records/0128.md#lean-pr53-15520c3f-submission20261012-hardlimit-b026-four-face-re-2c29c5e50f)
-- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.b029_slope_6kappa_region_obstruction — Submission20261012.HardLimit.b029_slope_6kappa_region_obstruction](../records/0128.md#lean-pr53-15520c3f-submission20261012-hardlimit-b029-slope-6kappa-c510078fdc)
-- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.bareWindow_pivot_domination — Submission20261012.HardLimit.bareWindow_pivot_domination](../records/0128.md#lean-pr53-15520c3f-submission20261012-hardlimit-barewindow-pivot--e24784dec8)
-- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.fixed_b006_grid_wall_obstruction — Submission20261012.HardLimit.fixed_b006_grid_wall_obstruction](../records/0128.md#lean-pr53-15520c3f-submission20261012-hardlimit-fixed-b006-grid-w-a9ba813d8d)
-- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.full_contract_closure_wall_at_0874835 — Submission20261012.HardLimit.full_contract_closure_wall_at_0874835](../records/0128.md#lean-pr53-15520c3f-submission20261012-hardlimit-full-contract-clo-12198b1462)
-- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.ideal_high_side_coincidence — Submission20261012.HardLimit.ideal_high_side_coincidence](../records/0128.md#lean-pr53-15520c3f-submission20261012-hardlimit-ideal-high-side-c-d9343cc032)
+- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.b026_four_face_reserve_decomposition — Submission20261012.HardLimit.b026_four_face_reserve_decomposition](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-b026-four-face-re-2c29c5e50f)
+- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.b029_slope_6kappa_region_obstruction — Submission20261012.HardLimit.b029_slope_6kappa_region_obstruction](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-b029-slope-6kappa-c510078fdc)
+- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.bareWindow_pivot_domination — Submission20261012.HardLimit.bareWindow_pivot_domination](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-barewindow-pivot--e24784dec8)
+- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.fixed_b006_grid_wall_obstruction — Submission20261012.HardLimit.fixed_b006_grid_wall_obstruction](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-fixed-b006-grid-w-a9ba813d8d)
+- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.full_contract_closure_wall_at_0874835 — Submission20261012.HardLimit.full_contract_closure_wall_at_0874835](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-full-contract-clo-12198b1462)
+- [LEAN-PR53-15520c3f-Submission20261012.HardLimit.ideal_high_side_coincidence — Submission20261012.HardLimit.ideal_high_side_coincidence](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-ideal-high-side-c-d9343cc032)
 - [LEAN-PR53-15520c3f-Submission20261012.HardLimit.marked_high_conservation_cap — Submission20261012.HardLimit.marked_high_conservation_cap](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-marked-high-conse-9132e98974)
 - [LEAN-PR53-15520c3f-Submission20261012.HardLimit.p0_bootstrap_obstruction — Submission20261012.HardLimit.p0_bootstrap_obstruction](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-p0-bootstrap-obst-cde5f5c98d)
 - [LEAN-PR53-15520c3f-Submission20261012.HardLimit.regime_v_bandwidth_slack_positive — Submission20261012.HardLimit.regime_v_bandwidth_slack_positive](../records/0129.md#lean-pr53-15520c3f-submission20261012-hardlimit-regime-v-bandwidt-02ee09e009)

@@ -4,11 +4,11 @@
 
 Page 1/1; 16 matching records.
 
-- [M21-CLASSICAL — Canonical all-positive-modulus Dirichlet and zeta target at theta1](../records/0129.md#m21-classical-e5bd38be92)
-- [M21-SINGLE — All-Dirichlet,zeta with s!=1,and finite-order Eisenstein Hecke targets at29/33](../records/0129.md#m21-single-d599740bae)
-- [M23-TARGET — Independent canonical all-Dirichlet target at1, solution exact Candidate.bound chi hs hpole](../records/0129.md#m23-target-5a9b5f1c73)
-- [M23-WRAPPER — Classical nonvanishing at theta1 using Mathlib LSeries nonvanishing and LFunction=LSeries; zeta specialization](../records/0129.md#m23-wrapper-a69bd02e3e)
-- [M24-CORPUS — 35 source modules plus standard entrypoint, all36 unique blobs match PR8](../records/0129.md#m24-corpus-e1d01d1925)
+- [M21-CLASSICAL — Canonical all-positive-modulus Dirichlet and zeta target at theta1](../records/0130.md#m21-classical-e5bd38be92)
+- [M21-SINGLE — All-Dirichlet,zeta with s!=1,and finite-order Eisenstein Hecke targets at29/33](../records/0130.md#m21-single-d599740bae)
+- [M23-TARGET — Independent canonical all-Dirichlet target at1, solution exact Candidate.bound chi hs hpole](../records/0130.md#m23-target-5a9b5f1c73)
+- [M23-WRAPPER — Classical nonvanishing at theta1 using Mathlib LSeries nonvanishing and LFunction=LSeries; zeta specialization](../records/0130.md#m23-wrapper-a69bd02e3e)
+- [M24-CORPUS — 35 source modules plus standard entrypoint, all36 unique blobs match PR8](../records/0130.md#m24-corpus-e1d01d1925)
 - [M24-TARGET — Canonical all-Dirichlet theta29/33 with usual pole exception](../records/0130.md#m24-target-5f49d28563)
 - [M29-BASELINE — OpenAI7/8 all-Dirichlet wrapper calls OAI.DirichletCharacter.LFunction_ne_zero_of_seven_eighths_lt_re](../records/0130.md#m29-baseline-3f16bf1647)
 - [M29-CATALOGUE — Ten records, including historical bucket, preserve all mathematical/source fields; rational/algebraic objects untouched](../records/0130.md#m29-catalogue-718d1d3983)

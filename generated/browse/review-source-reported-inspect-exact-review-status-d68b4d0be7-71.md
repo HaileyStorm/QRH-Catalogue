@@ -2,10 +2,16 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 71/71; 17653 matching records.
+Page 71/71; 17659 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-70.md)
 
+- [pr26:ZetaZeroFree.Analytic.Moments.Plain — ZetaZeroFree.Analytic.Moments.Plain](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-a4d600b89c)
+- [pr26:ZetaZeroFree.Analytic.Moments.Plain::NaturalPlainState@609 — NaturalPlainState](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-naturalplainstate-609-cccbb18e3e)
+- [pr26:ZetaZeroFree.Analytic.Moments.Plain::ZeroOnlyAt@666 — ZeroOnlyAt](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-zeroonlyat-666-dbdb0a94ee)
+- [pr26:ZetaZeroFree.Analytic.Moments.Plain::energy@635 — energy](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-energy-635-2a0cc4ec57)
+- [pr26:ZetaZeroFree.Analytic.Moments.Plain::energy_restrictLive@650 — energy_restrictLive](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-energy-restrictlive-650-438ff142c6)
+- [pr26:ZetaZeroFree.Analytic.Moments.Plain::mixed_height_energy_eq@698 — mixed_height_energy_eq](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-mixed-height-energy-eq-6-25c52fe2c8)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::mixed_height_profile_control@677 — mixed_height_profile_control](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-mixed-height-profile-con-8c41fb114c)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::mixed_width_floor@712 — mixed_width_floor](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-mixed-width-floor-712-2ef1d78df5)
 - [pr26:ZetaZeroFree.Analytic.Moments.Plain::mixed_width_floor_height@765 — mixed_width_floor_height](../records/0218.md#pr26-zetazerofree-analytic-moments-plain-mixed-width-floor-height-898b4ae1a2)
@@ -81,12 +87,12 @@ Page 71/71; 17653 matching records.
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::original_subsets_reference_paid@3590 — original_subsets_reference_paid](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-original-subsets-43d32c32e0)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_large@679 — ray_prime_all_height_large](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-52e25e7eaf)
 - [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_all_height_squared@763 — ray_prime_all_height_squared](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-all-he-32244da39c)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_global_squared@609 — ray_prime_global_squared](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-global-85e40aeba2)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::relative_slots_uniform@1865 — relative_slots_uniform](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-relative-slots-u-8eab2a8bf6)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::zeroMaximum_le_one@598 — zeroMaximum_le_one](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-zeromaximum-le-o-67669608b4)
-- [pr26:original-explanation — pr26:original-explanation](../records/0218.md#pr26-original-explanation-52ad61d34c)
-- [pr26:original-manifest — pr26:original-manifest](../records/0218.md#pr26-original-manifest-30c9db0e44)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::ray_prime_global_squared@609 — ray_prime_global_squared](../records/0219.md#pr26-zetazerofree-analytic-moments-unconditional-ray-prime-global-85e40aeba2)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::relative_slots_uniform@1865 — relative_slots_uniform](../records/0219.md#pr26-zetazerofree-analytic-moments-unconditional-relative-slots-u-8eab2a8bf6)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0219.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::zeroMaximum_le_one@598 — zeroMaximum_le_one](../records/0219.md#pr26-zetazerofree-analytic-moments-unconditional-zeromaximum-le-o-67669608b4)
+- [pr26:original-explanation — pr26:original-explanation](../records/0219.md#pr26-original-explanation-52ad61d34c)
+- [pr26:original-manifest — pr26:original-manifest](../records/0219.md#pr26-original-manifest-30c9db0e44)
 - [review:A01 — \[research revision\]-review:A01](../records/0219.md#review-a01-4a9b27ce3c)
 - [review:A02 — \[research revision\]-review:A02](../records/0219.md#review-a02-2de2938a30)
 - [review:A03 — \[research revision\]-review:A03](../records/0219.md#review-a03-ac6cfeed06)

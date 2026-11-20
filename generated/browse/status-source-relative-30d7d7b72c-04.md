@@ -2,10 +2,16 @@
 
 [Facet directory](status.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 898 matching records.
+Page 4/4; 904 matching records.
 
 [Previous](status-source-relative-30d7d7b72c-03.md)
 
+- [local:G124 — G124. Current margins and precise remaining signed input](../records/0173.md#local-g124-05c454b9ec)
+- [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0173.md#local-g125-91d6b6ad62)
+- [local:G133 — G133. Two restricted returns with rational interval certificates](../records/0173.md#local-g133-8752df7331)
+- [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0173.md#local-g137-8fee24c3bf)
+- [local:G140 — \[research revision\]: a nonlinear detector with a completely paid far tail (G140)](../records/0173.md#local-g140-88c35bf505)
+- [local:G142 — G142. Actual logarithmic improvement and the remaining complete core](../records/0173.md#local-g142-4979c64d6e)
 - [local:G146 — G146. The complete prefix is paid over the original slot interval](../records/0173.md#local-g146-fa0a5d0458)
 - [local:G149 — \[research revision\]: complete operator returns and an actual detector repair (G149)](../records/0173.md#local-g149-643389d4ad)
 - [local:G152 — \[research revision\]: compensated nonlinear source and paid cutoff coupling (G152)](../records/0173.md#local-g152-1776ec5c14)
@@ -19,7 +25,7 @@ Page 4/4; 898 matching records.
 - [local:G170 — G170-G172: adaptive completion and the limits of cutoff mixing](../records/0173.md#local-g170-c98506834f)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0173.md#local-g173-0a9bfc34dc)
 - [local:G177 — G177. Complete adaptive core and conditional all-height return](../records/0173.md#local-g177-cd4e290280)
-- [local:G183 — G183. Literal smaller signed core and complete return](../records/0173.md#local-g183-e42c5b2351)
+- [local:G183 — G183. Literal smaller signed core and complete return](../records/0174.md#local-g183-e42c5b2351)
 - [local:G190 — G190. A paid diagonal and the actual remaining correlation](../records/0174.md#local-g190-49c88437a5)
 - [local:G200 — G200. Complete weighted removal and the fourth paid class](../records/0174.md#local-g200-b27f24a369)
 - [local:G214 — G214. Counted sectors and the full physical obstruction](../records/0174.md#local-g214-3db1fe9e64)
@@ -34,7 +40,7 @@ Page 4/4; 898 matching records.
 - [local:G236 — G236. Finite-table admission of the complete retained error at the K6 cone](../records/0174.md#local-g236-c50cb8b3f4)
 - [local:G266 — G266. Complete M=1 main fixed-inducing payment for finite amplifier tables, including K6](../records/0174.md#local-g266-7bdd724270)
 - [local:G270 — G270. Finite puncture/subset/common-height adapter and exact finite-Euler zero preservation](../records/0174.md#local-g270-268eafe75d)
-- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0174.md#local-g285-20901b6bc9)
+- [local:G285 — G285. Fixed-parent main translated-radical cap and logarithmic puncture payment](../records/0175.md#local-g285-20901b6bc9)
 - [local:G286 — G286. Original admitted-error full-modulus caps and conditional puncture payment](../records/0175.md#local-g286-ee8938bc89)
 - [local:G287 — G287. Selected error-family all-ideal and whole-family masked dictionary](../records/0175.md#local-g287-ae59651a07)
 - [local:G288 — G288. Finite Euler deletion with explicit divisor-tail and profile budgets](../records/0175.md#local-g288-7313aece03)

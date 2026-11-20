@@ -2,12 +2,14 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 785 matching records.
+Page 2/4; 787 matching records.
 
 [Previous](object-source-contract-f7ae4c3e8d-01.md)
 
 [Next](object-source-contract-f7ae4c3e8d-03.md)
 
+- [local-section:50bdde788364275f04e57f22 — W42 independent review: exact principal-signal transfer and paid Euler tails](../records/0149.md#local-section-50bdde788364275f04e57f22-f702a9c6f9)
+- [local-section:511254e52a63c422dad81bd5 — W46: exact prime-two repair, a harmonic sign survivor, and the full phase bill](../records/0149.md#local-section-511254e52a63c422dad81bd5-4eecb0f19e)
 - [local-section:51180445d2d20784b3fe12c5 — 6. Growing signed Taylor completion and main-term evaluation](../records/0149.md#local-section-51180445d2d20784b3fe12c5-d9564e765b)
 - [local-section:512bbc8403ba12bebbebd820 — W56 author report — \[research revision\]](../records/0149.md#local-section-512bbc8403ba12bebbebd820-b04e125ca2)
 - [local-section:5146818bcfb56cb78daf820f — 5. Complete collision-label sums, including the limiting four edges](../records/0149.md#local-section-5146818bcfb56cb78daf820f-8da6475a32)
@@ -96,8 +98,8 @@ Page 2/4; 785 matching records.
 - [local-section:6cc7f894fd12bc213186e764 — 6. Independent proof of the actual-coefficient operator obstruction](../records/0152.md#local-section-6cc7f894fd12bc213186e764-a1c74b0a32)
 - [local-section:6d634ba192e3408081d66dc9 — 6. Three complete rational returns](../records/0152.md#local-section-6d634ba192e3408081d66dc9-50a083f1c6)
 - [local-section:6d97452e549bf6fc2f341227 — 1. Exact conditional inputs and source boundary](../records/0152.md#local-section-6d97452e549bf6fc2f341227-7a40e51bb7)
-- [local-section:6e7bff8a01d745d6eb718e6a — W57-23: exact divisor-check recovery and the terminal-row price](../records/0152.md#local-section-6e7bff8a01d745d6eb718e6a-687abe4e2f)
-- [local-section:6e7d24be2444683803eb4644 — \[research revision\]: complete low-core and relative-conductor reduction](../records/0152.md#local-section-6e7d24be2444683803eb4644-2688019506)
+- [local-section:6e7bff8a01d745d6eb718e6a — W57-23: exact divisor-check recovery and the terminal-row price](../records/0153.md#local-section-6e7bff8a01d745d6eb718e6a-687abe4e2f)
+- [local-section:6e7d24be2444683803eb4644 — \[research revision\]: complete low-core and relative-conductor reduction](../records/0153.md#local-section-6e7d24be2444683803eb4644-2688019506)
 - [local-section:6ef8594a23780eb134f0cafa — 2. Exact fixed-family and f3 extensions](../records/0153.md#local-section-6ef8594a23780eb134f0cafa-18c06f5e9a)
 - [local-section:6fa267ad872bfbdc72484874 — Independent review of the user-attributed GPT6-Pro endpoint packet](../records/0153.md#local-section-6fa267ad872bfbdc72484874-5ac577e009)
 - [local-section:6fff378adca19063ea8dd1c1 — \[research revision\]: an actual large-common-divisor estimate for the separated inverse source](../records/0153.md#local-section-6fff378adca19063ea8dd1c1-698cd21083)
@@ -133,7 +135,7 @@ Page 2/4; 785 matching records.
 - [local-section:7d297181bf36177d3d70c2ae — R1. Verdict](../records/0154.md#local-section-7d297181bf36177d3d70c2ae-0d47fbf929)
 - [local-section:7d8aa571a4643b8122c95cf9 — 5. Primary arithmetic import and what its uniformity buys](../records/0154.md#local-section-7d8aa571a4643b8122c95cf9-230ef93fc2)
 - [local-section:7dbdfa0e2d0377d8298be2ec — Independent review](../records/0154.md#local-section-7dbdfa0e2d0377d8298be2ec-c5fbe56fff)
-- [local-section:7e48625dfd61aafda895fc27 — 8. Evidence, ancestry and unchanged physical obligations](../records/0154.md#local-section-7e48625dfd61aafda895fc27-77757f4d73)
+- [local-section:7e48625dfd61aafda895fc27 — 8. Evidence, ancestry and unchanged physical obligations](../records/0155.md#local-section-7e48625dfd61aafda895fc27-77757f4d73)
 - [local-section:7f271adcb4eb3a370ee941f1 — Completed cross-class energy: radical cancellation and paid relative conductors](../records/0155.md#local-section-7f271adcb4eb3a370ee941f1-2fa9a15993)
 - [local-section:7f4ad26435ecd130f60b66bd — \[research revision\] headroom: adaptive completion on the actual phase surface](../records/0155.md#local-section-7f4ad26435ecd130f60b66bd-92c090308d)
 - [local-section:7f54c68548454261907b4b6e — Independent review: fixed-phase cofactor theorem and degree12 source](../records/0155.md#local-section-7f54c68548454261907b4b6e-2baebb203d)
@@ -171,7 +173,7 @@ Page 2/4; 785 matching records.
 - [local-section:8b3920a270fb682abb9bcadf — Source anchors and review targets](../records/0156.md#local-section-8b3920a270fb682abb9bcadf-b3a9dd86af)
 - [local-section:8bf8fe247bf6a49908ff0e45 — Slot-weighted density and a complete first increase](../records/0156.md#local-section-8bf8fe247bf6a49908ff0e45-1bcf715935)
 - [local-section:8c250a20906eda3e1acf6b01 — R3. Two exact presentations and the height-bin convention](../records/0156.md#local-section-8c250a20906eda3e1acf6b01-2121f1634a)
-- [local-section:8c55471fb9f287296ed419a9 — 9. Remaining fields and complete zero-exclusion return](../records/0156.md#local-section-8c55471fb9f287296ed419a9-fd4a8625eb)
+- [local-section:8c55471fb9f287296ed419a9 — 9. Remaining fields and complete zero-exclusion return](../records/0157.md#local-section-8c55471fb9f287296ed419a9-fd4a8625eb)
 - [local-section:8d1869593932844c3e043f8b — 7. Decision-ready disposition and evidence limits](../records/0157.md#local-section-8d1869593932844c3e043f8b-0a0f7e1cc3)
 - [local-section:8d4240c919b9b1dc18a4531c — Source theorem and what changed](../records/0157.md#local-section-8d4240c919b9b1dc18a4531c-fc09d6b975)
 - [local-section:8dc40263d3a6545aa452b80e — Candidate: the actual f3 complement in a square-root threshold window](../records/0157.md#local-section-8dc40263d3a6545aa452b80e-7cf129449e)
@@ -190,7 +192,7 @@ Page 2/4; 785 matching records.
 - [local-section:9383b22f9e409639f627557e — Two delay channels: local division versus a finite-height floor](../records/0157.md#local-section-9383b22f9e409639f627557e-62e598f04d)
 - [local-section:93b24cac8204d93bb7626c27 — \[research revision\]: complete retained-support gain](../records/0157.md#local-section-93b24cac8204d93bb7626c27-3e6918d940)
 - [local-section:9453efa63def65a04af29e0c — 3.1 Rare replacements and all fixed-character calibration](../records/0157.md#local-section-9453efa63def65a04af29e0c-4600a22431)
-- [local-section:95256430b4e05eb070d42164 — \[research revision\]: exact divisor recovery and its unavoidable unsigned price](../records/0157.md#local-section-95256430b4e05eb070d42164-66c756a98a)
+- [local-section:95256430b4e05eb070d42164 — \[research revision\]: exact divisor recovery and its unavoidable unsigned price](../records/0158.md#local-section-95256430b4e05eb070d42164-66c756a98a)
 - [local-section:95afbdfa00ffec8d5b588cb9 — Independent Astra validation of post52 Sol batch02](../records/0158.md#local-section-95afbdfa00ffec8d5b588cb9-6d640f51ee)
 - [local-section:95d56830a22af6eac108df13 — \[research revision\]: larger paid sectors and two exact cancellation obstructions](../records/0158.md#local-section-95d56830a22af6eac108df13-ff56a99db6)
 - [local-section:96142c5aa118fa0d45b3e839 — 6. The ordinary zero-free return](../records/0158.md#local-section-96142c5aa118fa0d45b3e839-777ca11e1d)
@@ -256,5 +258,3 @@ Page 2/4; 785 matching records.
 - [local-section:aae028450b5cbd6bba89fed7 — 2. Complete claim crosswalk](../records/0160.md#local-section-aae028450b5cbd6bba89fed7-07ddfa6807)
 - [local-section:ab00747a38c35f6e565f1141 — Isolated root: accept with the stated absolute constants](../records/0160.md#local-section-ab00747a38c35f6e565f1141-d556dd94a5)
 - [local-section:ab273b0e8f7f71225c1a5b4f — R3. CRT supply, uniform AP error and sharp stated thresholds](../records/0160.md#local-section-ab273b0e8f7f71225c1a5b4f-e2e7090062)
-- [local-section:ab3c51990932abaa4bd577ef — 7. Actual supremum, common gap and exact family return](../records/0160.md#local-section-ab3c51990932abaa4bd577ef-2690344e9c)
-- [local-section:abc38804316876f01791775d — C01–\[research revision\]: exact prerequisites and failed shortcuts](../records/0160.md#local-section-abc38804316876f01791775d-28d5406ddd)

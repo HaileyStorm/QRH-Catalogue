@@ -2,10 +2,16 @@
 
 [Facet directory](kind.md) · [All facets](../DIRECTORY.md)
 
-Page 17/17; 4071 matching records.
+Page 17/17; 4077 matching records.
 
 [Previous](kind-formal-component-c2c4cd0c7a-16.md)
 
+- [LEAN-PR56-67edfb7a-Candidate.Affine.Supply — PR56: Candidate.Affine.Supply](../records/0129.md#lean-pr56-67edfb7a-candidate-affine-supply-14d335356b)
+- [LEAN-PR56-67edfb7a-DetectorAffine.affine_count_bound — DetectorAffine.affine_count_bound](../records/0129.md#lean-pr56-67edfb7a-detectoraffine-affine-count-bound-fdbe16ebe1)
+- [LEAN-PR56-67edfb7a-DetectorAffine.region_compare — DetectorAffine.region_compare](../records/0129.md#lean-pr56-67edfb7a-detectoraffine-region-compare-f4081a4af0)
+- [LEAN-PR56-67edfb7a-DetectorAffine.region_tail — DetectorAffine.region_tail](../records/0129.md#lean-pr56-67edfb7a-detectoraffine-region-tail-300c5d2060)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRawFiber.affine_marked_count — OAI.SevenEighths.Cycle25DetectorRawFiber.affine_marked_count](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25detectorrawfiber-affin-bf28a55282)
+- [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.countingR_antitone — OAI.SevenEighths.Cycle25DetectorRowCount.countingR_antitone](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25detectorrowcount-count-f319641373)
 - [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A — OAI.SevenEighths.Cycle25DetectorRowCount.masked_amplitude_class_count_A](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25detectorrowcount-maske-70a628f569)
 - [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine — OAI.SevenEighths.Cycle25ProbeFinalAssembly.balanced_source_count_affine](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25probefinalassembly-bal-aaa959d96f)
 - [LEAN-PR56-67edfb7a-OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput — OAI.SevenEighths.Cycle25ProbeFinalAssemblyCertifiedBands.DetectorAffineInput](../records/0129.md#lean-pr56-67edfb7a-oai-seveneighths-cycle25probefinalassemblycert-545075e27d)
@@ -76,4 +82,4 @@ Page 17/17; 4071 matching records.
 - [LEAN-RG-f5fd3ddb-RiemannGaussian.ZetaRieszQuasiRHDischarge — External zero-free half-plane transfer to frozen Riesz endpoints](../records/0129.md#lean-rg-f5fd3ddb-riemanngaussian-zetarieszquasirhdischarge-500299c93f)
 - [LEAN-RG-f5fd3ddb-RiemannGaussian.ZetaSquarefreeEulerQuadratic — Complex squarefree Euler matrix and divisor coordinates](../records/0129.md#lean-rg-f5fd3ddb-riemanngaussian-zetasquarefreeeulerquadratic-ac2b3b2b70)
 - [LEAN-RG-f5fd3ddb-RiemannGaussian.gaussianArithmeticExplicitFormula_eq_canonical — RiemannGaussian.gaussianArithmeticExplicitFormula_eq_canonical](../records/0129.md#lean-rg-f5fd3ddb-riemanngaussian-gaussianarithmeticexplicitformul-0f545cbb0c)
-- [LEAN-RG-f5fd3ddb-RiemannGaussian.pairedEtaSupportGapScaledPhaseGram_integer_complex_coercive — RiemannGaussian.pairedEtaSupportGapScaledPhaseGram_integer_complex_coercive](../records/0129.md#lean-rg-f5fd3ddb-riemanngaussian-pairedetasupportgapscaledphasegr-fe38c678d7)
+- [LEAN-RG-f5fd3ddb-RiemannGaussian.pairedEtaSupportGapScaledPhaseGram_integer_complex_coercive — RiemannGaussian.pairedEtaSupportGapScaledPhaseGram_integer_complex_coercive](../records/0130.md#lean-rg-f5fd3ddb-riemanngaussian-pairedetasupportgapscaledphasegr-fe38c678d7)

@@ -2,10 +2,12 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 17/17; 4121 matching records.
+Page 17/17; 4123 matching records.
 
 [Previous](object-dirichlet-l-8dbc1c2928-16.md)
 
+- [local:G116 — 1. G116: a complete paid complement for integer renewal](../records/0173.md#local-g116-82b0aa6b3e)
+- [local:G122 — \[research revision\]: complete low-core and relative-conductor reduction (G122)](../records/0173.md#local-g122-fe374f44f7)
 - [local:G125 — \[research revision\]: curved additive source and complete signed Gauss bank (G125)](../records/0173.md#local-g125-91d6b6ad62)
 - [local:G128 — G128. Source, prediction and an exact zero census](../records/0173.md#local-g128-b9b933b7d4)
 - [local:G129 — G129. Actual divisor Bellman identity and a scoped price](../records/0173.md#local-g129-eebc3d9b57)
@@ -33,7 +35,7 @@ Page 17/17; 4121 matching records.
 - [local:G237 — G237. Complete growing-order Laplace synthesis and a coarse-cell pole countermodel](../records/0174.md#local-g237-a65c76e5f8)
 - [local:G241 — G241. A complete weighted Pick criterion for an ordinary reciprocal](../records/0174.md#local-g241-fea844ec1c)
 - [local:G268 — G268. Complete ordinary Laplace inverse core and paid moving selected-prime-square sector](../records/0174.md#local-g268-c189b52c95)
-- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0174.md#local-g280-92c627efc9)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0175.md#local-g280-92c627efc9)
 - [local:G289 — G289. Adaptive ordinary Laplace Gram residual and complete primitive-ratio reduction](../records/0175.md#local-g289-5edc57e94d)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0175.md#local-g291-a2d579dcd5)
 - [local:G309 — G309. Restricted positive kernels, Gamma derivative towers and height limits](../records/0175.md#local-g309-cb6cfa996e)
@@ -115,7 +117,7 @@ Page 17/17; 4121 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyFixedHigh](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyfixedhigh-eb02a37f8d)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyHigh](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyhigh-cb4afd2ddd)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyIntegral](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyintegral-f519a72c51)
-- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput](../records/0216.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b9b6013520)
+- [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyMomentInput](../records/0217.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblymomentinpu-b9b6013520)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyNormalized](../records/0217.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblynormalized-757070aecf)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount — OAI.NumberTheory.DirichletL.Detector.FinalAssemblySourceCount](../records/0217.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblysourcecoun-7148d87ff2)
 - [pr26:OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyUnconditional](../records/0217.md#pr26-oai-numbertheory-dirichletl-detector-finalassemblyunconditio-1c24f3e472)
@@ -125,5 +127,5 @@ Page 17/17; 4121 matching records.
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorCollected](../records/0217.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloorcollected-bb088ca98f)
 - [pr26:OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport — OAI.NumberTheory.DirichletL.PrimeRows.NonfloorTransport](../records/0217.md#pr26-oai-numbertheory-dirichletl-primerows-nonfloortransport-86ea357cb6)
 - [pr26:Physical.LocalSourceBin::source_packet_selected_bin_local@380 — source_packet_selected_bin_local](../records/0217.md#pr26-physical-localsourcebin-source-packet-selected-bin-local-380-475c691d34)
-- [upstream:PR23 — Verify standard submissions with the existing three-kernel runner](../records/0219.md#upstream-pr23-2eff8c3a80)
-- [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0219.md#upstream-pr26-93f630ed04)
+- [upstream:PR23 — Verify standard submissions with the existing three-kernel runner](../records/0220.md#upstream-pr23-2eff8c3a80)
+- [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0220.md#upstream-pr26-93f630ed04)

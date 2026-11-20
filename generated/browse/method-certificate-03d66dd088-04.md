@@ -7,7 +7,7 @@ Page 4/4; 779 matching records.
 [Previous](method-certificate-03d66dd088-03.md)
 
 - [local:G275 — G275. Actual eta-Gaussian word-certificate floor and complete high-order price](../records/0174.md#local-g275-c56c1a0489)
-- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0174.md#local-g280-92c627efc9)
+- [local:G280 — G280. Finite-preconditioner absolute obstruction and fully priced compact residual certificates](../records/0175.md#local-g280-92c627efc9)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0175.md#local-g291-a2d579dcd5)
 - [local:G299 — G299. Signed minimum telescoping, erased zero signal and divergent positive inverse](../records/0175.md#local-g299-29e34bc7a7)
 - [local:G3 — G3 — p\<.10, multiplicative/noncommutative dual sector certificate](../records/0175.md#local-g3-c51dd6c4a6)
@@ -32,6 +32,6 @@ Page 4/4; 779 matching records.
 - [pr26:Cycle25.Numerator.Scalar.SourceLoss::weighted_source_packet_certificate_of_kappa@277 — weighted_source_packet_certificate_of_kappa](../records/0207.md#pr26-cycle25-numerator-scalar-sourceloss-weighted-source-packet-c-9ba2543507)
 - [pr26:Global.Numerator.Scalar.SourceLoss::source_packet_certificate@269 — source_packet_certificate](../records/0210.md#pr26-global-numerator-scalar-sourceloss-source-packet-certificate-1259218c47)
 - [pr26:OAI.NumberTheory.DirichletL.Energy.CertifiedExistence::terminal_certificate@58 — terminal_certificate](../records/0217.md#pr26-oai-numbertheory-dirichletl-energy-certifiedexistence-termin-dc9360dea4)
-- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0218.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
+- [pr26:ZetaZeroFree.Analytic.Moments.Unconditional::terminal_certificate@13684 — terminal_certificate](../records/0219.md#pr26-zetazerofree-analytic-moments-unconditional-terminal-certifi-529f19df8c)
 - [reviewed-claim:A14-full-probe-certificate — \[research revision\]-claim:A14-full-probe-certificate](../records/0219.md#reviewed-claim-a14-full-probe-certificate-f5bedaa7bf)
 - [upstream:PR7 — Propose exact slack retuning with a standalone certificate](../records/0220.md#upstream-pr7-108baed07a)

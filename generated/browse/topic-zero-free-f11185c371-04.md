@@ -2,10 +2,11 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 804 matching records.
+Page 4/4; 805 matching records.
 
 [Previous](topic-zero-free-f11185c371-03.md)
 
+- [local:G128 — G128. Source, prediction and an exact zero census](../records/0173.md#local-g128-b9b933b7d4)
 - [local:G134 — G134. Uniform second-order moving Riesz comparison](../records/0173.md#local-g134-5bbbd177cd)
 - [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0173.md#local-g137-8fee24c3bf)
 - [local:G139 — G139. A finite detector bank and actual-law audit targets](../records/0173.md#local-g139-155ae52ea8)
@@ -34,7 +35,7 @@ Page 4/4; 804 matching records.
 - [local:G238 — G238. Exact complex current norm and the complete averaged Abel return](../records/0174.md#local-g238-65f43ad06f)
 - [local:G242 — G242. Two-sided nonlinear square-dilation transfer](../records/0174.md#local-g242-d89bd23acd)
 - [local:G246 — G246. Overlapping prime-current dual norm and complete Gaussian return](../records/0174.md#local-g246-8dd56008a9)
-- [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0174.md#local-g283-bef435ea5c)
+- [local:G283 — G283. Complete low-order prime clusters and an actual sharp reciprocal-cutoff zero](../records/0175.md#local-g283-bef435ea5c)
 - [local:G291 — G291. Actual natural-zero nearest-neighbor energy certificates retain linear cost](../records/0175.md#local-g291-a2d579dcd5)
 - [local:G295 — G295. Complete cubic Riesz reduction and polynomial selected-square payment](../records/0175.md#local-g295-06047ab12a)
 - [local:G4 — G4 — p\<.10, analytic continuation/control representation replacement](../records/0175.md#local-g4-fb1605101b)
@@ -59,4 +60,4 @@ Page 4/4; 804 matching records.
 - [reviewed-claim:T09-fixed-Mobius-L2 — \[research revision\]-claim:T09-fixed-Mobius-L2](../records/0219.md#reviewed-claim-t09-fixed-mobius-l2-2bcc96f545)
 - [reviewed-claim:T10-continuum — \[research revision\]-claim:T10-continuum](../records/0219.md#reviewed-claim-t10-continuum-69e758bd43)
 - [reviewed-claim:T10-two-dilations — \[research revision\]-claim:T10-two-dilations](../records/0219.md#reviewed-claim-t10-two-dilations-33adf7cbdb)
-- [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0219.md#upstream-pr26-93f630ed04)
+- [upstream:PR26 — Improve Dirichlet zero-free bound to 0.87487 via a local 22/5 moment](../records/0220.md#upstream-pr26-93f630ed04)

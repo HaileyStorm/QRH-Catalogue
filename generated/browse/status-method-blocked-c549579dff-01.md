@@ -4,7 +4,7 @@
 
 Page 1/1; 8 matching records.
 
-- [local:F01.X — F01.X — Further cutoff averaging/depth does not erase rough coefficient−2; positivity changes the signed coprime form](../records/0171.md#local-f01-x-b386c2f651)
+- [local:F01.X — F01.X — Further cutoff averaging/depth does not erase rough coefficient−2; positivity changes the signed coprime form](../records/0172.md#local-f01-x-b386c2f651)
 - [local:F04.X — F04.X — AB16 alone gives no global saving; valuation-six terms are order one](../records/0172.md#local-f04-x-32a8c72417)
 - [local:F06.X — F06.X — Summing individual q_h bounds gives X³; a pointwise q_h^(1−δ) proof needs δ≈.95072 to cross.1255 by this route](../records/0172.md#local-f06-x-05ff2936cd)
 - [local:F09.X — F09.X — A-independent componentwise nulling kills physical principal aliases; frozen-A toy can cancel whole signal](../records/0172.md#local-f09-x-66dc535c1f)

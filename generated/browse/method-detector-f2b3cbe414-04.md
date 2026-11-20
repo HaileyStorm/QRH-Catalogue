@@ -2,7 +2,7 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 4/12; 2908 matching records.
+Page 4/12; 2909 matching records.
 
 [Previous](method-detector-f2b3cbe414-03.md)
 
@@ -136,6 +136,7 @@ Page 4/12; 2908 matching records.
 - [HIST-feb156716d87dd3d9179 — UniformCommonProbe](../records/0088.md#hist-feb156716d87dd3d9179-c7a515773d)
 - [HIST-fec6e7c374d8bfbe2d57 — adaptiveRowExponent](../records/0088.md#hist-fec6e7c374d8bfbe2d57-688c213d3f)
 - [HIST-fff3a6e8152200173f31 — actual_class_cube_arithmetic](../records/0089.md#hist-fff3a6e8152200173f31-e7154fb91c)
+- [LEAN-C092-50a933d7-QRH.Cycle092.SharedCutoffZero.simultaneous_cutoffs — One attaining zero and label shared by every detector cutoff](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-sharedcutoffzero-simultaneous-cut-07243ef836)
 - [LEAN-C61-original-fb6d4fd1-Cycle25.Assembly.Count.MomentDetectorEnergyInitialState — Cycle25.Assembly.Count.MomentDetectorEnergyInitialState](../records/0091.md#lean-c61-original-fb6d4fd1-cycle25-assembly-count-momentdetectore-743fba0f16)
 - [LEAN-C61-original-fb6d4fd1-Cycle25.Assembly.Count.MomentDetectorInverseFields — Cycle25.Assembly.Count.MomentDetectorInverseFields](../records/0091.md#lean-c61-original-fb6d4fd1-cycle25-assembly-count-momentdetectori-b79a488948)
 - [LEAN-C61-original-fb6d4fd1-Cycle25.Assembly.Count.MomentDetectorInverseMarkedField — Cycle25.Assembly.Count.MomentDetectorInverseMarkedField](../records/0091.md#lean-c61-original-fb6d4fd1-cycle25-assembly-count-momentdetectori-8aa964379c)
@@ -217,12 +218,12 @@ Page 4/12; 2908 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.EulerFinsupp — OAI.NumberTheory.DirichletL.Detector.EulerFinsupp](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-eulerfinsu-80aed6a6b0)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.EulerHolomorphic — OAI.NumberTheory.DirichletL.Detector.EulerHolomorphic](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-eulerholom-5973ed98bd)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.EulerMarked — OAI.NumberTheory.DirichletL.Detector.EulerMarked](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-eulermarke-1e1ad70b98)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.EulerRegion — OAI.NumberTheory.DirichletL.Detector.EulerRegion](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-eulerregio-f928f5f9d7)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-b2ff8c14f1)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-6b51b90a2a)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-2cbf1f4071)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-9a4a4f6ec0)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass](../records/0104.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-cb7dc9c477)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.EulerRegion — OAI.NumberTheory.DirichletL.Detector.EulerRegion](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-eulerregio-f928f5f9d7)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssembly — OAI.NumberTheory.DirichletL.Detector.FinalAssembly](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-b2ff8c14f1)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyArithmetic](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-6b51b90a2a)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCertifiedBands](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-2cbf1f4071)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyChosenData](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-9a4a4f6ec0)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyClass](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-cb7dc9c477)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCollected](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-51ef505715)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCountParameters — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyCountParameters](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-87340db13f)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.FinalAssemblyData — OAI.NumberTheory.DirichletL.Detector.FinalAssemblyData](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-finalassem-630e261beb)
@@ -257,4 +258,3 @@ Page 4/12; 2908 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianPartition — OAI.NumberTheory.DirichletL.Detector.GaussianPartition](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussianpa-a88d7b8517)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalMass — OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalMass](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussianph-8c6ec7bc26)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalTail — OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalTail](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussianph-f1ddc77082)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalTuple — OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalTuple](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussianph-cf911cd2f9)

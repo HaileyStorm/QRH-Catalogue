@@ -4,7 +4,11 @@
 
 **Navigation is not proof acceptance. c11=.1251459636 is a conditional source-relative benchmark.**
 
-21912 records. All retained inventories and local maintained proof/attempt sections share this directory.
+21918 records. All retained inventories and local maintained proof/attempt sections share this directory.
+
+## cycle
+
+[Browse cycle](browse/cycle.md)
 
 ## formalization
 
@@ -63,7 +67,7 @@
 - [A17 — A17. Exact completed-cutoff and rough-column obstructions](records/0171.md#local-a17-7d3957df82)
 - [A18 — A18. Broad-cusp diagonal oldforms: exact support and scaling screen](records/0171.md#local-a18-bac05024be)
 - [F01 — F01. Multiscale Möbius decomposition and signed block control](records/0171.md#local-f01-17b39a927a)
-- [F02 — F02. Large-prime null packets and common-core dispersion](records/0171.md#local-f02-73bce7daec)
+- [F02 — F02. Large-prime null packets and common-core dispersion](records/0172.md#local-f02-73bce7daec)
 - [F03 — F03. Sixth-order sparse-index and ordinary means](records/0172.md#local-f03-a413a453fd)
 - [F04 — F04. Sextic reflection, physical covariance, probe and numerator](records/0172.md#local-f04-f8d6d7f1ca)
 - [F05 — F05. Möbius-aware polar projection and spectral sieve](records/0172.md#local-f05-b00059fa1b)
@@ -85,8 +89,8 @@
 - [F21 — F21. Hardy residual discs and overlapping strips](records/0172.md#local-f21-30f86cfe54)
 - [F22 — F22. Logarithmic potential and signed explicit formulas](records/0172.md#local-f22-cb8e07b0c1)
 - [F23 — F23. Shifted Hermite–Biehler and canonical systems](records/0172.md#local-f23-ac50c0cc9e)
-- [F24 — F24. Left-first and two-sided spectral/Mellin methods](records/0172.md#local-f24-ce3e45fce5)
-- [F25 — F25. Triple-rotation theta products](records/0172.md#local-f25-0919a5edc6)
+- [F24 — F24. Left-first and two-sided spectral/Mellin methods](records/0173.md#local-f24-ce3e45fce5)
+- [F25 — F25. Triple-rotation theta products](records/0173.md#local-f25-0919a5edc6)
 - [F26 — F26. Direct shifted criteria and constrained operators](records/0173.md#local-f26-9e013a3bbb)
 - [G1 — G1 — uncapped free invention](records/0173.md#local-g1-110e500ec4)
 - [G100 — G100. Unbounded actual valuation certificate](records/0173.md#local-g100-7478ed7422)
@@ -170,12 +174,12 @@
 - [G178 — G178. Actual variance, complete logarithmic test and higher-ceiling scope](records/0173.md#local-g178-7c8d947402)
 - [G179 — G179. Full divisor-projection energy through the within-column cut](records/0173.md#local-g179-2b681825c5)
 - [G180 — G180. All four cross-copy events and every overlap](records/0173.md#local-g180-b364895800)
-- [G181 — G181. A smaller signed residual, with the physical return still open](records/0173.md#local-g181-217607fadc)
-- [G182 — G182. Complete masked large-gcd theorem](records/0173.md#local-g182-c6b8603af7)
-- [G183 — G183. Literal smaller signed core and complete return](records/0173.md#local-g183-e42c5b2351)
-- [G184 — G184. Ambient lower prices and fixed-phase compatibility](records/0173.md#local-g184-746f7d1af6)
-- [G185 — G185. Primitive Poisson and the complete two-color sieve bound](records/0173.md#local-g185-098059391a)
-- [G186 — G186. Larger paid low band, genuine far tail and finite signed residual](records/0173.md#local-g186-dd7a0ad393)
+- [G181 — G181. A smaller signed residual, with the physical return still open](records/0174.md#local-g181-217607fadc)
+- [G182 — G182. Complete masked large-gcd theorem](records/0174.md#local-g182-c6b8603af7)
+- [G183 — G183. Literal smaller signed core and complete return](records/0174.md#local-g183-e42c5b2351)
+- [G184 — G184. Ambient lower prices and fixed-phase compatibility](records/0174.md#local-g184-746f7d1af6)
+- [G185 — G185. Primitive Poisson and the complete two-color sieve bound](records/0174.md#local-g185-098059391a)
+- [G186 — G186. Larger paid low band, genuine far tail and finite signed residual](records/0174.md#local-g186-dd7a0ad393)
 - [G187 — G187. Exact merged structure and why its simpler proposed price fails](records/0174.md#local-g187-c77d1b2a5c)
 - [G188 — G188. A complete periodic-cofactor estimate](records/0174.md#local-g188-2d645f9293)
 - [G189 — G189. Full constant-cut source transfer](records/0174.md#local-g189-20df34a586)

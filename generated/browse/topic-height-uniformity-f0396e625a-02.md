@@ -2,12 +2,13 @@
 
 [Facet directory](topic.md) · [All facets](../DIRECTORY.md)
 
-Page 2/4; 817 matching records.
+Page 2/4; 818 matching records.
 
 [Previous](topic-height-uniformity-f0396e625a-01.md)
 
 [Next](topic-height-uniformity-f0396e625a-03.md)
 
+- [local-section:522606e71e4fa744c99b0900 — 3. The marked free-row inverse amplifier](../records/0149.md#local-section-522606e71e4fa744c99b0900-cf2ccad6a8)
 - [local-section:52da7d5943985b34535a01cf — Joint affine local moment and complete c5 endpoint](../records/0149.md#local-section-52da7d5943985b34535a01cf-ee7a86f492)
 - [local-section:52f0b3d18dbbf258b4c671b6 — G181. A smaller signed residual, with the physical return still open](../records/0149.md#local-section-52f0b3d18dbbf258b4c671b6-5c54f00e76)
 - [local-section:532941d7834c0d6520bc59f8 — Independent concrete-progress consultation review](../records/0149.md#local-section-532941d7834c0d6520bc59f8-3481adda79)
@@ -47,7 +48,7 @@ Page 2/4; 817 matching records.
 - [local-section:5eeb12ce8055c72877647e29 — 5. Independent protected audit G4-05: exact signed supply, no free coercivity](../records/0150.md#local-section-5eeb12ce8055c72877647e29-b54e4f281d)
 - [local-section:5efb120595e13df052683ef6 — \[research revision\] independent review: affine local window and complete c5 endpoint](../records/0150.md#local-section-5efb120595e13df052683ef6-585d761133)
 - [local-section:5f28145f37d157f5da89063a — 25. Actual slot-weighted density improves the full endpoint](../records/0150.md#local-section-5f28145f37d157f5da89063a-d970366792)
-- [local-section:5f9c85668b387ad5bd97a507 — 3. Complete-core consequence and limits](../records/0150.md#local-section-5f9c85668b387ad5bd97a507-bff34e045f)
+- [local-section:5f9c85668b387ad5bd97a507 — 3. Complete-core consequence and limits](../records/0151.md#local-section-5f9c85668b387ad5bd97a507-bff34e045f)
 - [local-section:5fdb02f2811aca8968e24c35 — \[research revision\] controller reconstruction — fixed Gaussian replacement](../records/0151.md#local-section-5fdb02f2811aca8968e24c35-a0e047e509)
 - [local-section:5ff1c4434f1ab065200f620e — 6. All30 dispositions and ancestry](../records/0151.md#local-section-5ff1c4434f1ab065200f620e-0221f79563)
 - [local-section:600817643ea24d07731c92f1 — 6. Extracted errors, zero rows and fixed-inducing return](../records/0151.md#local-section-600817643ea24d07731c92f1-513f375f47)
@@ -90,9 +91,9 @@ Page 2/4; 817 matching records.
 - [local-section:6cfe5ff7ea92b3fa067a9ef1 — \[research revision\]: four cross-copy gcd sectors in the original source](../records/0152.md#local-section-6cfe5ff7ea92b3fa067a9ef1-642fa406e2)
 - [local-section:6d634ba192e3408081d66dc9 — 6. Three complete rational returns](../records/0152.md#local-section-6d634ba192e3408081d66dc9-50a083f1c6)
 - [local-section:6d97452e549bf6fc2f341227 — 1. Exact conditional inputs and source boundary](../records/0152.md#local-section-6d97452e549bf6fc2f341227-7a40e51bb7)
-- [local-section:6e601f362896f87f1c7d3676 — 55. A fully paid prime-flux reduction](../records/0152.md#local-section-6e601f362896f87f1c7d3676-22fea7d66a)
-- [local-section:6e7bff8a01d745d6eb718e6a — W57-23: exact divisor-check recovery and the terminal-row price](../records/0152.md#local-section-6e7bff8a01d745d6eb718e6a-687abe4e2f)
-- [local-section:6ee1282568282fa3ad31a386 — 7. Evidence and next mathematical action](../records/0152.md#local-section-6ee1282568282fa3ad31a386-e1e757a1dc)
+- [local-section:6e601f362896f87f1c7d3676 — 55. A fully paid prime-flux reduction](../records/0153.md#local-section-6e601f362896f87f1c7d3676-22fea7d66a)
+- [local-section:6e7bff8a01d745d6eb718e6a — W57-23: exact divisor-check recovery and the terminal-row price](../records/0153.md#local-section-6e7bff8a01d745d6eb718e6a-687abe4e2f)
+- [local-section:6ee1282568282fa3ad31a386 — 7. Evidence and next mathematical action](../records/0153.md#local-section-6ee1282568282fa3ad31a386-e1e757a1dc)
 - [local-section:6eeb63758a27bd29cbaa6b58 — 40. Exact prediction criterion with paid character-source tails](../records/0153.md#local-section-6eeb63758a27bd29cbaa6b58-ea3c063631)
 - [local-section:6f213d85e75a628ac93bb119 — Complete endpoint return](../records/0153.md#local-section-6f213d85e75a628ac93bb119-57f4740f11)
 - [local-section:6fa267ad872bfbdc72484874 — Independent review of the user-attributed GPT6-Pro endpoint packet](../records/0153.md#local-section-6fa267ad872bfbdc72484874-5ac577e009)
@@ -178,7 +179,7 @@ Page 2/4; 817 matching records.
 - [local-section:8bff8ab5fd17e7794fa6c443 — Independent Sol review: post52-sol-high-01-\[research revision\]](../records/0156.md#local-section-8bff8ab5fd17e7794fa6c443-3495052abc)
 - [local-section:8c19474d631e092e547c63f2 — 8. Uniform audit06: sparse scales, an obstruction and a paid repair](../records/0156.md#local-section-8c19474d631e092e547c63f2-6d448f8894)
 - [local-section:8c250a20906eda3e1acf6b01 — R3. Two exact presentations and the height-bin convention](../records/0156.md#local-section-8c250a20906eda3e1acf6b01-2121f1634a)
-- [local-section:8ce314c43a86dc3394ac65a6 — Ten decisive first tests](../records/0156.md#local-section-8ce314c43a86dc3394ac65a6-f237c83c27)
+- [local-section:8ce314c43a86dc3394ac65a6 — Ten decisive first tests](../records/0157.md#local-section-8ce314c43a86dc3394ac65a6-f237c83c27)
 - [local-section:8d4240c919b9b1dc18a4531c — Source theorem and what changed](../records/0157.md#local-section-8d4240c919b9b1dc18a4531c-fc09d6b975)
 - [local-section:8dc7b51ac537a78fd4792f0b — 1. Disposition and qualification](../records/0157.md#local-section-8dc7b51ac537a78fd4792f0b-c9085c76eb)
 - [local-section:8deb01716d0e977c3b389ffe — 1. Character-preserving Hodge rank and displacement: accept at stated scope](../records/0157.md#local-section-8deb01716d0e977c3b389ffe-b921639ede)
@@ -198,8 +199,8 @@ Page 2/4; 817 matching records.
 - [local-section:945db53b1b14733e2f41b350 — 5. The unpartitioned hard target and exact return costs](../records/0157.md#local-section-945db53b1b14733e2f41b350-de638ee143)
 - [local-section:946244dedc02c63aec4e4f1f — R42.4. Ordinary characters: the convolution and width change are paid](../records/0157.md#local-section-946244dedc02c63aec4e4f1f-cff804ec6b)
 - [local-section:9491bf916c71abaae8eaf8b7 — Group4: p\<.03, new representation and constructive error budget](../records/0157.md#local-section-9491bf916c71abaae8eaf8b7-5d7da26276)
-- [local-section:953e244916668fdd47f1deab — Complete core and all-height return](../records/0157.md#local-section-953e244916668fdd47f1deab-66c0472952)
-- [local-section:956f1b069f497eb7d8c729f4 — 9. Far-graph examples, strongest objections and residual target](../records/0157.md#local-section-956f1b069f497eb7d8c729f4-2568a6c2ee)
+- [local-section:953e244916668fdd47f1deab — Complete core and all-height return](../records/0158.md#local-section-953e244916668fdd47f1deab-66c0472952)
+- [local-section:956f1b069f497eb7d8c729f4 — 9. Far-graph examples, strongest objections and residual target](../records/0158.md#local-section-956f1b069f497eb7d8c729f4-2568a6c2ee)
 - [local-section:95afbdfa00ffec8d5b588cb9 — Independent Astra validation of post52 Sol batch02](../records/0158.md#local-section-95afbdfa00ffec8d5b588cb9-6d640f51ee)
 - [local-section:95c3b6e0ed841acfe418f113 — 3. Exact strengthened local theorem](../records/0158.md#local-section-95c3b6e0ed841acfe418f113-c940a24209)
 - [local-section:95ea9997d44dd297e5fe9b5b — 4. D3 / protected wildcard X28: interpolation does not remove residual debt](../records/0158.md#local-section-95ea9997d44dd297e5fe9b5b-f62ef58d63)
@@ -215,7 +216,7 @@ Page 2/4; 817 matching records.
 - [local-section:9b2b8c4ea8f0b57b66d19aa3 — \[research revision\]: plain-L2 Hankel source, complete complement and a signed obstruction](../records/0158.md#local-section-9b2b8c4ea8f0b57b66d19aa3-26dc29beda)
 - [local-section:9b6ca73bc5a2f7fd0f67ac99 — \[research revision\]: complete operator returns and an actual detector repair](../records/0158.md#local-section-9b6ca73bc5a2f7fd0f67ac99-70a9dc44c5)
 - [local-section:9c1d735ac41f78b6a9af3941 — \[research revision\]: complete large-common-factor payment in the Liouville source](../records/0158.md#local-section-9c1d735ac41f78b6a9af3941-59cba83ba3)
-- [local-section:9c6e6cda6d0379372345e576 — \[research revision\]: affine endpoint, observation inputs and detector overlap](../records/0158.md#local-section-9c6e6cda6d0379372345e576-8bb024f62a)
+- [local-section:9c6e6cda6d0379372345e576 — \[research revision\]: affine endpoint, observation inputs and detector overlap](../records/0159.md#local-section-9c6e6cda6d0379372345e576-8bb024f62a)
 - [local-section:9cb143334518300ada0a541f — 4. Uniform wildcard S23: an explicit compact certificate algorithm and its exact limit](../records/0159.md#local-section-9cb143334518300ada0a541f-bf7a724396)
 - [local-section:9d4c686e18be247f1e71895d — G149. The full logarithmic Hankel growth criterion](../records/0159.md#local-section-9d4c686e18be247f1e71895d-49764e3918)
 - [local-section:9d5e121377f554755a39033d — 4. Critical small-prime payment and complete zero-exclusion return](../records/0159.md#local-section-9d5e121377f554755a39033d-546a1ee2d8)
@@ -257,4 +258,3 @@ Page 2/4; 817 matching records.
 - [local-section:a889721339bceebb44c8a721 — 2. The strictly interior input and every local branch](../records/0160.md#local-section-a889721339bceebb44c8a721-7788403100)
 - [local-section:a8a6987b9acd598bb54745ba — 5. Low/high branches, missing labels and all-height scope](../records/0160.md#local-section-a8a6987b9acd598bb54745ba-8fba96e9c3)
 - [local-section:a8a8ae6dce8a784430719fc9 — Fixed object and quantifiers](../records/0160.md#local-section-a8a8ae6dce8a784430719fc9-c82f72c7bd)
-- [local-section:a94802bee47d34aef3e539a9 — 5. Full conditional return and weakest first gain](../records/0160.md#local-section-a94802bee47d34aef3e539a9-e810e12353)

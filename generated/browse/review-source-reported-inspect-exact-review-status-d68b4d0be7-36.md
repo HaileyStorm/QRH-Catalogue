@@ -2,7 +2,7 @@
 
 [Facet directory](review.md) · [All facets](../DIRECTORY.md)
 
-Page 36/71; 17653 matching records.
+Page 36/71; 17659 matching records.
 
 [Previous](review-source-reported-inspect-exact-review-status-d68b4d0be7-35.md)
 
@@ -82,6 +82,12 @@ Page 36/71; 17653 matching records.
 - [HIST-ffdbc9f55ec8f79740dc — actual_pair_source_identity](../records/0089.md#hist-ffdbc9f55ec8f79740dc-273914677c)
 - [HIST-ffe309c8a7cfb7cc17d4 — damping_reserve](../records/0089.md#hist-ffe309c8a7cfb7cc17d4-a0954f4ab7)
 - [HIST-fff3a6e8152200173f31 — actual_class_cube_arithmetic](../records/0089.md#hist-fff3a6e8152200173f31-e7154fb91c)
+- [LEAN-C092-50a933d7-QRH.Cycle092.ColoredSelectionAverage.raw_sum_le_average — Original colored raw energy bounded by the corrected selected-image average](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-coloredselectionaverage-raw-sum-l-73a5c73dfe)
+- [LEAN-C092-50a933d7-QRH.Cycle092.MixedUpperFinal.earlier_P1_mixed_upper_estimate — Complete original mixed-packet upper contract from the earlier P1 source](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-mixedupperfinal-earlier-p1-mixed--42d6c02855)
+- [LEAN-C092-50a933d7-QRH.Cycle092.OrderedPairPhase.phase_root_triangle — Two-character reference triangle after aligning each arm’s own norm phase](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-orderedpairphase-phase-root-trian-b1a3e62257)
+- [LEAN-C092-50a933d7-QRH.Cycle092.RegularColoredForward.terminal_genuine_ordered_source — Genuine all-response regular ordered P2 source with independent characters](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-regularcoloredforward-terminal-ge-95e4f1b81d)
+- [LEAN-C092-50a933d7-QRH.Cycle092.SharedCutoffZero.simultaneous_cutoffs — One attaining zero and label shared by every detector cutoff](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-sharedcutoffzero-simultaneous-cut-07243ef836)
+- [LEAN-C092-50a933d7-QRH.Cycle092.dirichlet_nonvanishing — Cycle092 all-Dirichlet nonvanishing above the exact threshold 436666397/500000000](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-dirichlet-nonvanishing-97247778cf)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B000 — Candidate.Bundles.B000](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b000-e02f85bf76)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B001 — Candidate.Bundles.B001](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b001-7fa6a890b0)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B002 — Candidate.Bundles.B002](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b002-db13c47770)
@@ -152,12 +158,12 @@ Page 36/71; 17653 matching records.
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B067 — Candidate.Bundles.B067](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b067-f8ecb05414)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B068 — Candidate.Bundles.B068](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b068-fe05446241)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B069 — Candidate.Bundles.B069](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b069-6b861fba26)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B070 — Candidate.Bundles.B070](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b070-3538e937a0)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B071 — Candidate.Bundles.B071](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b071-9df968bdbb)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B072 — Candidate.Bundles.B072](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b072-20fcb18893)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B073 — Candidate.Bundles.B073](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b073-d3e7b0119b)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B074 — Candidate.Bundles.B074](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b074-a2bdaa7297)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B075 — Candidate.Bundles.B075](../records/0089.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b075-dee1f28862)
+- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B070 — Candidate.Bundles.B070](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b070-3538e937a0)
+- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B071 — Candidate.Bundles.B071](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b071-9df968bdbb)
+- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B072 — Candidate.Bundles.B072](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b072-20fcb18893)
+- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B073 — Candidate.Bundles.B073](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b073-d3e7b0119b)
+- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B074 — Candidate.Bundles.B074](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b074-a2bdaa7297)
+- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B075 — Candidate.Bundles.B075](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b075-dee1f28862)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B076 — Candidate.Bundles.B076](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b076-2bacda36b6)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B077 — Candidate.Bundles.B077](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b077-442ddba9a3)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B078 — Candidate.Bundles.B078](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b078-8adbf8af5d)
@@ -252,9 +258,3 @@ Page 36/71; 17653 matching records.
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B167 — Candidate.Bundles.B167](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b167-8c4a41be91)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B168 — Candidate.Bundles.B168](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b168-c56e8b76f3)
 - [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B169 — Candidate.Bundles.B169](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b169-bde7ee6f88)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B170 — Candidate.Bundles.B170](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b170-78175fc518)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B171 — Candidate.Bundles.B171](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b171-c514b99f19)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B172 — Candidate.Bundles.B172](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b172-edfff49f31)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B173 — Candidate.Bundles.B173](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b173-2cdcdd9ebc)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B174 — Candidate.Bundles.B174](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b174-f681c6c454)
-- [LEAN-C61-candidate-fb6d4fd1-Candidate.Bundles.B175 — Candidate.Bundles.B175](../records/0090.md#lean-c61-candidate-fb6d4fd1-candidate-bundles-b175-dd296e99d3)

@@ -1,0 +1,12 @@
+# status: public-source
+
+[Facet directory](status.md) · [All facets](../DIRECTORY.md)
+
+Page 1/1; 6 matching records.
+
+- [LEAN-C092-50a933d7-QRH.Cycle092.ColoredSelectionAverage.raw_sum_le_average — Original colored raw energy bounded by the corrected selected-image average](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-coloredselectionaverage-raw-sum-l-73a5c73dfe)
+- [LEAN-C092-50a933d7-QRH.Cycle092.MixedUpperFinal.earlier_P1_mixed_upper_estimate — Complete original mixed-packet upper contract from the earlier P1 source](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-mixedupperfinal-earlier-p1-mixed--42d6c02855)
+- [LEAN-C092-50a933d7-QRH.Cycle092.OrderedPairPhase.phase_root_triangle — Two-character reference triangle after aligning each arm’s own norm phase](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-orderedpairphase-phase-root-trian-b1a3e62257)
+- [LEAN-C092-50a933d7-QRH.Cycle092.RegularColoredForward.terminal_genuine_ordered_source — Genuine all-response regular ordered P2 source with independent characters](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-regularcoloredforward-terminal-ge-95e4f1b81d)
+- [LEAN-C092-50a933d7-QRH.Cycle092.SharedCutoffZero.simultaneous_cutoffs — One attaining zero and label shared by every detector cutoff](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-sharedcutoffzero-simultaneous-cut-07243ef836)
+- [LEAN-C092-50a933d7-QRH.Cycle092.dirichlet_nonvanishing — Cycle092 all-Dirichlet nonvanishing above the exact threshold 436666397/500000000](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-dirichlet-nonvanishing-97247778cf)

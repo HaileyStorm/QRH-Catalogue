@@ -2,12 +2,13 @@
 
 [Facet directory](method.md) · [All facets](../DIRECTORY.md)
 
-Page 5/12; 2908 matching records.
+Page 5/12; 2909 matching records.
 
 [Previous](method-detector-f2b3cbe414-04.md)
 
 [Next](method-detector-f2b3cbe414-06.md)
 
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalTuple — OAI.NumberTheory.DirichletL.Detector.GaussianPhysicalTuple](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussianph-cf911cd2f9)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianRemoteRows — OAI.NumberTheory.DirichletL.Detector.GaussianRemoteRows](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussianre-7806a75d75)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianSeminorm — OAI.NumberTheory.DirichletL.Detector.GaussianSeminorm](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussianse-09b384298c)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GaussianSlots — OAI.NumberTheory.DirichletL.Detector.GaussianSlots](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gaussiansl-687cfb129f)
@@ -67,12 +68,12 @@ Page 5/12; 2908 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramNumerator — OAI.NumberTheory.DirichletL.Detector.GramNumerator](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramnumera-445b6fc067)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPeriodicPoisson — OAI.NumberTheory.DirichletL.Detector.GramPeriodicPoisson](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramperiod-0741f571cb)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPhysicalScale — OAI.NumberTheory.DirichletL.Detector.GramPhysicalScale](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramphysic-0852797c88)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPrefactor — OAI.NumberTheory.DirichletL.Detector.GramPrefactor](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramprefac-3db8700a27)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPrimaryLattice — OAI.NumberTheory.DirichletL.Detector.GramPrimaryLattice](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramprimar-031f0f723a)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPrimeSeparation — OAI.NumberTheory.DirichletL.Detector.GramPrimeSeparation](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramprimes-7abef7b28c)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramResidue — OAI.NumberTheory.DirichletL.Detector.GramResidue](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramresidu-04ee357b81)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramScaleLoss — OAI.NumberTheory.DirichletL.Detector.GramScaleLoss](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramscalel-ca4ad86eec)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramShell — OAI.NumberTheory.DirichletL.Detector.GramShell](../records/0105.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramshell-41fc998ef9)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPrefactor — OAI.NumberTheory.DirichletL.Detector.GramPrefactor](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramprefac-3db8700a27)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPrimaryLattice — OAI.NumberTheory.DirichletL.Detector.GramPrimaryLattice](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramprimar-031f0f723a)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramPrimeSeparation — OAI.NumberTheory.DirichletL.Detector.GramPrimeSeparation](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramprimes-7abef7b28c)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramResidue — OAI.NumberTheory.DirichletL.Detector.GramResidue](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramresidu-04ee357b81)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramScaleLoss — OAI.NumberTheory.DirichletL.Detector.GramScaleLoss](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramscalel-ca4ad86eec)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramShell — OAI.NumberTheory.DirichletL.Detector.GramShell](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramshell-41fc998ef9)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramSourceBlock — OAI.NumberTheory.DirichletL.Detector.GramSourceBlock](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramsource-a980c65201)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramSourceDivisors — OAI.NumberTheory.DirichletL.Detector.GramSourceDivisors](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramsource-a8329857d9)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.GramSourceEstimate — OAI.NumberTheory.DirichletL.Detector.GramSourceEstimate](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-gramsource-617a5a2bba)
@@ -167,12 +168,12 @@ Page 5/12; 2908 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowColumnBounds — OAI.NumberTheory.DirichletL.Detector.LowColumnBounds](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowcolumnb-63170fd46f)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowCommonBound — OAI.NumberTheory.DirichletL.Detector.LowCommonBound](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowcommonb-d68e51c8c9)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowCompensation — OAI.NumberTheory.DirichletL.Detector.LowCompensation](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowcompens-b7f85b96ea)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowCompletion — OAI.NumberTheory.DirichletL.Detector.LowCompletion](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowcomplet-7344dafeb3)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowCutoff — OAI.NumberTheory.DirichletL.Detector.LowCutoff](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowcutoff-9bbe7de23b)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowElementRows — OAI.NumberTheory.DirichletL.Detector.LowElementRows](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowelement-92786a5d82)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussEnergy — OAI.NumberTheory.DirichletL.Detector.LowGaussEnergy](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussen-cc6008a812)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussianCentral — OAI.NumberTheory.DirichletL.Detector.LowGaussianCentral](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussia-98c93a3a04)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussianDyad — OAI.NumberTheory.DirichletL.Detector.LowGaussianDyad](../records/0106.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussia-1f3b773466)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowCompletion — OAI.NumberTheory.DirichletL.Detector.LowCompletion](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowcomplet-7344dafeb3)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowCutoff — OAI.NumberTheory.DirichletL.Detector.LowCutoff](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowcutoff-9bbe7de23b)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowElementRows — OAI.NumberTheory.DirichletL.Detector.LowElementRows](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowelement-92786a5d82)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussEnergy — OAI.NumberTheory.DirichletL.Detector.LowGaussEnergy](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussen-cc6008a812)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussianCentral — OAI.NumberTheory.DirichletL.Detector.LowGaussianCentral](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussia-98c93a3a04)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussianDyad — OAI.NumberTheory.DirichletL.Detector.LowGaussianDyad](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussia-1f3b773466)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussianRemote — OAI.NumberTheory.DirichletL.Detector.LowGaussianRemote](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussia-78c27d1fb0)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGaussianSum — OAI.NumberTheory.DirichletL.Detector.LowGaussianSum](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgaussia-fee4543ea4)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.LowGramApplied — OAI.NumberTheory.DirichletL.Detector.LowGramApplied](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-lowgramapp-ac955fb098)
@@ -257,4 +258,3 @@ Page 5/12; 2908 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.PrimePhase — OAI.NumberTheory.DirichletL.Detector.PrimePhase](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-primephase-4ab326b5e2)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.PrimePower — OAI.NumberTheory.DirichletL.Detector.PrimePower](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-primepower-b049238cb1)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.PrincipalContours — OAI.NumberTheory.DirichletL.Detector.PrincipalContours](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-principalc-7511117403)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Detector.PrincipalEulerIdentity — OAI.NumberTheory.DirichletL.Detector.PrincipalEulerIdentity](../records/0107.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-detector-principale-a7d5feecc1)

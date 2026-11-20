@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 1/1; 137 matching records.
+Page 1/1; 139 matching records.
 
 - [HIST-1159aa53fb059b75cebd — low_completed_rows_energy](../records/0004.md#hist-1159aa53fb059b75cebd-2c4636ff9e)
 - [HIST-1ce296dbc75ecd24df4f — original_completed_rows_energy](../records/0007.md#hist-1ce296dbc75ecd24df4f-a1f2e9a3b4)
@@ -23,6 +23,8 @@ Page 1/1; 137 matching records.
 - [HIST-e5aad81e2996dc8ee61c — low_completed_rows_energy_optimized](../records/0083.md#hist-e5aad81e2996dc8ee61c-3d60c2dcf6)
 - [HIST-f9b4796ad083323768bc — A.2. The finite transform and phase cancellation](../records/0087.md#hist-f9b4796ad083323768bc-75163892ae)
 - [HIST-ffc36678b155c20088fd — calibrated_physical_row_dyad_first87](../records/0089.md#hist-ffc36678b155c20088fd-61975e2975)
+- [LEAN-C092-50a933d7-QRH.Cycle092.ColoredSelectionAverage.raw_sum_le_average — Original colored raw energy bounded by the corrected selected-image average](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-coloredselectionaverage-raw-sum-l-73a5c73dfe)
+- [LEAN-C092-50a933d7-QRH.Cycle092.MixedUpperFinal.earlier_P1_mixed_upper_estimate — Complete original mixed-packet upper contract from the earlier P1 source](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-mixedupperfinal-earlier-p1-mixed--42d6c02855)
 - [QRH-CONT-R083-JOINT-REFLECTION-GATE — Coefficientwise classification of the common-time joint reflection gate](../records/0132.md#qrh-cont-r083-joint-reflection-gate-5748421590)
 - [QRH-CONT-R091-COMPLETE-ROW-LABEL-COLLISIONS — Complete physical-row and two-prime-label collision payment](../records/0132.md#qrh-cont-r091-complete-row-label-collisions-79cd2b7559)
 - [local-section:0162c1e11c3767c5e6c77c9f — Notation and uniformity](../records/0139.md#local-section-0162c1e11c3767c5e6c77c9f-4664d5c34b)
@@ -88,7 +90,7 @@ Page 1/1; 137 matching records.
 - [local-section:882d1148e9cb1216c4cb78a0 — Independent review: \[research revision\] adaptive conductor exclusion and sparse-graph H transport](../records/0156.md#local-section-882d1148e9cb1216c4cb78a0-6bcd9a2c74)
 - [local-section:8b38595c0f71aaf14bb13635 — 3. Canonical mathematical claim crosswalk](../records/0156.md#local-section-8b38595c0f71aaf14bb13635-4a3b971d28)
 - [local-section:8b3920a270fb682abb9bcadf — Source anchors and review targets](../records/0156.md#local-section-8b3920a270fb682abb9bcadf-b3a9dd86af)
-- [local-section:8c4ba2b84c62c2c73716ab76 — 4.3 Small and large shifts, including clipped zero capacity](../records/0156.md#local-section-8c4ba2b84c62c2c73716ab76-7d8e644a54)
+- [local-section:8c4ba2b84c62c2c73716ab76 — 4.3 Small and large shifts, including clipped zero capacity](../records/0157.md#local-section-8c4ba2b84c62c2c73716ab76-7d8e644a54)
 - [local-section:90b8dd6abb691b79c8e40eb0 — The actual tensor and adaptive conductor selection](../records/0157.md#local-section-90b8dd6abb691b79c8e40eb0-e1021b5966)
 - [local-section:90cc90edb30647551d4cd3c3 — 5. Paying the curved sectors and keeping every original tail](../records/0157.md#local-section-90cc90edb30647551d4cd3c3-82c65b451f)
 - [local-section:9419dc40841146204791f8a7 — 2. Both moving coprimality masks, exactly](../records/0157.md#local-section-9419dc40841146204791f8a7-9aa8e73631)

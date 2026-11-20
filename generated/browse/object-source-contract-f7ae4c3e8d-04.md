@@ -2,10 +2,12 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 4/4; 785 matching records.
+Page 4/4; 787 matching records.
 
 [Previous](object-source-contract-f7ae4c3e8d-03.md)
 
+- [local:G131 — G131. Complementary divisors and the actual Poisson boundary](../records/0173.md#local-g131-9d40045fcb)
+- [local:G132 — G132. A complete positive prefix estimate](../records/0173.md#local-g132-a6c45dea4e)
 - [local:G134 — G134. Uniform second-order moving Riesz comparison](../records/0173.md#local-g134-5bbbd177cd)
 - [local:G137 — \[research revision\]: a narrow simultaneous-witness target with its complete source return (G137)](../records/0173.md#local-g137-8fee24c3bf)
 - [local:G140 — \[research revision\]: a nonlinear detector with a completely paid far tail (G140)](../records/0173.md#local-g140-88c35bf505)
@@ -22,10 +24,10 @@ Page 4/4; 785 matching records.
 - [local:G163 — G163. Exact native Schur and four-cycle bills](../records/0173.md#local-g163-f5dbf60250)
 - [local:G164 — \[research revision\]: weighted boundary spectrum and complete source transfers (G164)](../records/0173.md#local-g164-a3e566ccd6)
 - [local:G173 — G173-G175: a paid prime-flux reduction and exact returned sources](../records/0173.md#local-g173-0a9bfc34dc)
-- [local:G181 — G181. A smaller signed residual, with the physical return still open](../records/0173.md#local-g181-217607fadc)
-- [local:G182 — G182. Complete masked large-gcd theorem](../records/0173.md#local-g182-c6b8603af7)
-- [local:G184 — G184. Ambient lower prices and fixed-phase compatibility](../records/0173.md#local-g184-746f7d1af6)
-- [local:G185 — G185. Primitive Poisson and the complete two-color sieve bound](../records/0173.md#local-g185-098059391a)
+- [local:G181 — G181. A smaller signed residual, with the physical return still open](../records/0174.md#local-g181-217607fadc)
+- [local:G182 — G182. Complete masked large-gcd theorem](../records/0174.md#local-g182-c6b8603af7)
+- [local:G184 — G184. Ambient lower prices and fixed-phase compatibility](../records/0174.md#local-g184-746f7d1af6)
+- [local:G185 — G185. Primitive Poisson and the complete two-color sieve bound](../records/0174.md#local-g185-098059391a)
 - [local:G188 — G188. A complete periodic-cofactor estimate](../records/0174.md#local-g188-2d645f9293)
 - [local:G192 — G192. Complete degree12 source transfer](../records/0174.md#local-g192-c5383e05d4)
 - [local:G200 — G200. Complete weighted removal and the fourth paid class](../records/0174.md#local-g200-b27f24a369)

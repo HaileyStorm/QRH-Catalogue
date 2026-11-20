@@ -2,7 +2,7 @@
 
 [Facet directory](object.md) · [All facets](../DIRECTORY.md)
 
-Page 2/17; 4121 matching records.
+Page 2/17; 4123 matching records.
 
 [Previous](object-dirichlet-l-8dbc1c2928-01.md)
 
@@ -145,9 +145,11 @@ Page 2/17; 4121 matching records.
 - [HIST-fb14e35f069f0aa89714 — n24Hecke](../records/0087.md#hist-fb14e35f069f0aa89714-44d8457c7a)
 - [HIST-fc50b8ffb6cddff9c66a — source_mask_amplitude_class](../records/0088.md#hist-fc50b8ffb6cddff9c66a-e5b73a16f1)
 - [HIST-fe1c1047d23c438ca6b6 — 1. The result and the argument](../records/0088.md#hist-fe1c1047d23c438ca6b6-fed375fdf8)
+- [LEAN-C092-50a933d7-QRH.Cycle092.SharedCutoffZero.simultaneous_cutoffs — One attaining zero and label shared by every detector cutoff](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-sharedcutoffzero-simultaneous-cut-07243ef836)
+- [LEAN-C092-50a933d7-QRH.Cycle092.dirichlet_nonvanishing — Cycle092 all-Dirichlet nonvanishing above the exact threshold 436666397/500000000](../records/0089.md#lean-c092-50a933d7-qrh-cycle092-dirichlet-nonvanishing-97247778cf)
 - [LEAN-C61-candidate-fb6d4fd1-decl-Candidate.bound — Candidate.bound](../records/0091.md#lean-c61-candidate-fb6d4fd1-decl-candidate-bound-493be26033)
 - [LEAN-C61-original-fb6d4fd1-decl-Cycle61Verification.allDirichlet — Cycle61Verification.allDirichlet](../records/0098.md#lean-c61-original-fb6d4fd1-decl-cycle61verification-alldirichlet-3fe41124f2)
-- [LEAN-C61-original-fb6d4fd1-decl-Cycle61Verification.allHecke — Cycle61Verification.allHecke](../records/0098.md#lean-c61-original-fb6d4fd1-decl-cycle61verification-allhecke-9c1d6b7906)
+- [LEAN-C61-original-fb6d4fd1-decl-Cycle61Verification.allHecke — Cycle61Verification.allHecke](../records/0099.md#lean-c61-original-fb6d4fd1-decl-cycle61verification-allhecke-9c1d6b7906)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Arithmetic.EisensteinCoordinates — OAI.NumberTheory.DirichletL.Arithmetic.EisensteinCoordinates](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-arithmetic-eisenste-cb96e05814)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Arithmetic.EisensteinEmbedding — OAI.NumberTheory.DirichletL.Arithmetic.EisensteinEmbedding](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-arithmetic-eisenste-1d5f46f140)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.Arithmetic.EisensteinIdeals — OAI.NumberTheory.DirichletL.Arithmetic.EisensteinIdeals](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-arithmetic-eisenste-6abf040337)
@@ -236,12 +238,12 @@ Page 2/17; 4121 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.PairPrimes — OAI.NumberTheory.DirichletL.CubicSieve.PairPrimes](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-pairprim-0102618731)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.Poisson — OAI.NumberTheory.DirichletL.CubicSieve.Poisson](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-poisson-87d9c280a5)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.PooledRows — OAI.NumberTheory.DirichletL.CubicSieve.PooledRows](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-pooledro-d1ca1529cd)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.PrincipalDensity — OAI.NumberTheory.DirichletL.CubicSieve.PrincipalDensity](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-principa-3481474290)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.PrincipalNormalization — OAI.NumberTheory.DirichletL.CubicSieve.PrincipalNormalization](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-principa-b6127fd0b4)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.QuantitativePassage — OAI.NumberTheory.DirichletL.CubicSieve.QuantitativePassage](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-quantita-9f2a4d323c)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.QuotientColumns — OAI.NumberTheory.DirichletL.CubicSieve.QuotientColumns](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-quotient-3a9f912e47)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.RadialProfiles — OAI.NumberTheory.DirichletL.CubicSieve.RadialProfiles](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-radialpr-9a510ca42e)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.RadialWindows — OAI.NumberTheory.DirichletL.CubicSieve.RadialWindows](../records/0099.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-radialwi-b67e94d6f7)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.PrincipalDensity — OAI.NumberTheory.DirichletL.CubicSieve.PrincipalDensity](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-principa-3481474290)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.PrincipalNormalization — OAI.NumberTheory.DirichletL.CubicSieve.PrincipalNormalization](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-principa-b6127fd0b4)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.QuantitativePassage — OAI.NumberTheory.DirichletL.CubicSieve.QuantitativePassage](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-quantita-9f2a4d323c)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.QuotientColumns — OAI.NumberTheory.DirichletL.CubicSieve.QuotientColumns](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-quotient-3a9f912e47)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.RadialProfiles — OAI.NumberTheory.DirichletL.CubicSieve.RadialProfiles](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-radialpr-9a510ca42e)
+- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.RadialWindows — OAI.NumberTheory.DirichletL.CubicSieve.RadialWindows](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-radialwi-b67e94d6f7)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.RankMargins — OAI.NumberTheory.DirichletL.CubicSieve.RankMargins](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-rankmarg-778ac7ab8a)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.RayCoefficients — OAI.NumberTheory.DirichletL.CubicSieve.RayCoefficients](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-raycoeff-2c04a463e7)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.RayExpansion — OAI.NumberTheory.DirichletL.CubicSieve.RayExpansion](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-rayexpan-6173e38a36)
@@ -256,5 +258,3 @@ Page 2/17; 4121 matching records.
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.SecondPoisson — OAI.NumberTheory.DirichletL.CubicSieve.SecondPoisson](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-secondpo-8b4a60fea4)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.Sharp — OAI.NumberTheory.DirichletL.CubicSieve.Sharp](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-sharp-a7dc3030ec)
 - [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.Smoothed — OAI.NumberTheory.DirichletL.CubicSieve.Smoothed](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-smoothed-9235ad30d3)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.SquarefreeTransfer — OAI.NumberTheory.DirichletL.CubicSieve.SquarefreeTransfer](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-squarefr-e1673729aa)
-- [LEAN-OAI-fd4aeeb2-OAI.NumberTheory.DirichletL.CubicSieve.SupportNorms — OAI.NumberTheory.DirichletL.CubicSieve.SupportNorms](../records/0100.md#lean-oai-fd4aeeb2-oai-numbertheory-dirichletl-cubicsieve-supportn-32d18c6d70)

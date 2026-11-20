@@ -33,7 +33,7 @@
     "failure_lesson": 3,
     "family": 29,
     "finite_model": 1,
-    "formal-component": 4071,
+    "formal-component": 4077,
     "formal_source_abbrev": 32,
     "formal_source_def": 786,
     "formal_source_inductive": 1,
@@ -38636,8 +38636,8 @@
     ],
     "version": 1
   },
-  "records": 21912,
-  "records_sha256": "e9e27a981dd3a5871cc10b67150e48300697fe70660d4faee00555f1e63b80b7",
+  "records": 21918,
+  "records_sha256": "9d32fee1e86ee10e957817ac580575aaaa96724de798f35f2984db1ff82d6432",
   "schema_version": 1,
   "semantic_mapping": "Partial/unknown mathematical overlaps remain distinct. Bare imports and mentions are not proof dependencies."
 }
